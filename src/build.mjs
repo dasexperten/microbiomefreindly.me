@@ -285,7 +285,13 @@ function homePage(lang, clusters, alternates) {
   const bact = clusters.filter((c) => c.type === 'bacteria' && c.langs[lang]).slice(0, 6);
   const hubs = TOPICS.filter((tp) => clusters.some((c) => c.type === 'hubs' && c.slug === tp && c.langs[lang]));
   const empty = !news.length && !bact.length;
-  const bodyHtml = `<section class="hero"><div class="hero__in"><div class="hero__text"><div class="kicker">${esc(t.siteName)}</div><h1>${esc(t.tagline)}</h1><p class="sub">${esc(t.aboutText)}</p><div class="hero__pills">${TOPICS.map((tp) => `<span class="pill">${esc(t.topicNames[tp])}</span>`).join('')}</div></div><div class="hero__art hero__art--empty" aria-hidden="true"></div></div></section>
+  // The hero's right half carries the newest piece that has an accepted hero frame — the lead story,
+  // not a decoration (Marika: one image filling the same space as the text half).
+  const lead = [...news, ...bact].find((c) => c.langs[lang].fm.images?.hero);
+  const heroArt = lead
+    ? (() => { const f = lead.langs[lang].fm; return `<a class="hero__art" href="${pageUrl(lang, lead.type, lead.slug)}"><img src="${attr(f.images.hero)}" alt="${attr(f.images.heroAlt || f.title)}" width="1200" height="675" fetchpriority="high"><span class="hero__cap"><span class="kicker">${esc(f.kicker || t.topicNames[f.topic] || t.latestNews)}</span><span class="hero__capttl">${esc(f.title)}</span></span></a>`; })()
+    : '<div class="hero__art hero__art--empty" aria-hidden="true"></div>';
+  const bodyHtml = `<section class="hero"><div class="hero__in"><div class="hero__text"><div class="kicker">${esc(t.siteName)}</div><h1>${esc(t.tagline)}</h1><p class="sub">${esc(t.aboutText)}</p><div class="hero__pills">${TOPICS.map((tp) => `<span class="pill">${esc(t.topicNames[tp])}</span>`).join('')}</div></div>${heroArt}</div></section>
 ${empty && lang !== 'en' ? `<section class="section"><div class="wrap"><p class="notice">${esc(t.preparing)} <a href="/">English →</a></p></div></section>` : ''}
 ${news.length ? `<section class="section"><div class="wrap"><div class="kicker">${esc(t.nav.news)}</div><h2 class="h1">${esc(t.latestNews)}</h2><div class="grid g3" style="margin-top:30px">${news.map((c) => card(lang, c, c.langs[lang])).join('')}</div><p style="margin-top:22px"><a class="more" href="${typeUrl(lang, 'news')}">${esc(t.allNews)} →</a></p></div></section>` : ''}
 ${bact.length ? `<section class="section ivory2"><div class="wrap"><div class="kicker">${esc(t.nav.bacteria)}</div><h2 class="h1">${esc(t.encyclopedia)}</h2><div class="grid g3" style="margin-top:30px">${bact.map((c) => card(lang, c, c.langs[lang])).join('')}</div><p style="margin-top:22px"><a class="more" href="${typeUrl(lang, 'bacteria')}">${esc(t.allBacteria)} →</a></p></div></section>` : ''}
