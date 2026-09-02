@@ -167,7 +167,7 @@ function layout({ lang, title, desc, url, alternates, bodyHtml, jsonld, ogImage,
 <header class="hdr">
 <div class="langbar">${switcher}</div>
 <div class="hdr__in">
-  <a class="hdr__logo" href="${homeUrl(lang)}" aria-label="${attr(t.siteName)} — ${attr(t.home)}"><img src="/assets/img/logo-navy.png" alt="" width="63" height="44"><span class="hdr__word"><strong>Microbiome</strong><em>Friendly</em></span></a>
+  <a class="hdr__logo" href="${homeUrl(lang)}" aria-label="${attr(t.siteName)} — ${attr(t.home)}"><img src="/assets/img/logo-mark.png" srcset="/assets/img/logo-mark.png 1x, /assets/img/logo-mark@2x.png 2x" alt="${attr(t.siteName)}" width="72" height="60"></a>
   <nav class="hdr__nav" aria-label="Main">${nav}</nav>
 </div></header>
 <main>
@@ -175,7 +175,7 @@ ${bodyHtml}
 </main>
 <footer class="ftr"><div class="wrap">
   <div class="ftr__top">
-    <div><img src="/assets/img/logo-navy.png" alt="${attr(t.siteName)}" width="63" height="44" style="height:44px;width:auto"><p class="brandline">${esc(t.tagline)}.</p></div>
+    <div><img class="ftr__mark" src="/assets/img/logo-mark@2x.png" alt="${attr(t.siteName)}" width="144" height="120"><p class="brandline">${esc(t.tagline)}.</p></div>
     <div><h4>${esc(t.nav.news)}</h4><a href="${typeUrl(lang, 'news')}">${esc(t.allNews)}</a><a href="${typeUrl(lang, 'hubs')}">${esc(t.nav.topics)}</a></div>
     <div><h4>${esc(t.nav.bacteria)}</h4><a href="${typeUrl(lang, 'bacteria')}">${esc(t.allBacteria)}</a><a href="${aboutUrl(lang)}">${esc(t.nav.about)}</a></div>
     <div><h4>${esc(t.brandSite)}</h4><a href="${BRAND_SITE}${lang === 'ru' ? '/ru/' : '/'}" rel="noopener">microbiomefriendly.me</a><a href="mailto:biome@dasexperten.com">biome@dasexperten.com</a></div>
