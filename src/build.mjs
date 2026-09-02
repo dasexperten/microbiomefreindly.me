@@ -41,13 +41,23 @@ const attr = esc;
 const NBSP = ' ';
 /* §4h-2 — number and unit are one word: "4 × 10¹⁰ CFU", "12 %", "n = 32", "2 weeks" */
 const UNIT_RE = /(\d[\d.,]*)\s+(%|CFU|КОЕ|mg|g|kg|ml|mL|cm|mm|µm|μm|nm|kDa|weeks?|days?|months?|years?|недел[ьия]|дн[ейя]|месяц\w*|лет|года?|×|x|÷|min|h|°C|IU|log10|copies|participants|people|человек)\b/g;
-function nbspNumbers(html) {
-  return html
+const NBHY = '‑';  // non-breaking hyphen
+/* A name that carries a number is one word: GLP-1, IL-6, TNF-α, COVID-19. The hyphen becomes a
+   non-breaking hyphen so a line break can never split it (Owner 2026-09-03; §4h-2 in spirit). */
+const TERM_RE = /\b([A-Za-zА-Яа-яΑ-Ωα-ω]{2,12})-(\d+[A-Za-zА-Яа-яΑ-Ωα-ω]*)\b/g;
+function typo(text) {
+  return text
     .replace(/[   ]/g, NBSP)   // narrow / thin / figure spaces from authors → one NBSP glyph every face carries
     .replace(UNIT_RE, (m, n, u) => `${n}${NBSP}${u}`)
     .replace(/(\d)\s(\d{3})(?!\d)/g, `$1${NBSP}$2`)          // thousands: 1 844
     .replace(/\b(n|N)\s*=\s*(\d)/g, `$1${NBSP}=${NBSP}$2`)  // n = 32
-    .replace(/(\d)\s*×\s*(10)/g, `$1${NBSP}×${NBSP}$2`);
+    .replace(/(\d)\s*×\s*(10)/g, `$1${NBSP}×${NBSP}$2`)
+    .replace(TERM_RE, `$1${NBHY}$2`);
+}
+/* The same pass over rendered HTML, applied to text only — never inside a tag, so hrefs, srcset
+   and JSON-LD keep plain ASCII. */
+function nbspNumbers(html) {
+  return String(html).split(/(<[^>]*>)/).map((part) => (part.startsWith('<') ? part : typo(part))).join('');
 }
 
 /* ---------- content loading ---------- */
@@ -198,7 +208,7 @@ function card(lang, c, doc) {
   const cover = fm.images?.preview ? `<div class="card-cover">${img}</div>` : img;
   const kicker = fm.kicker || t.topicNames[fm.topic] || '';
   const date = fm.date ? `<span>${esc(t.published)}: <time datetime="${fm.date}">${fm.date}</time></span>` : '';
-  return `<a class="card" href="${pageUrl(lang, c.type, c.slug)}">${cover}<div class="card__b"><div class="kicker">${esc(kicker)}</div><h3>${esc(fm.title)}</h3><p>${esc(fm.meta || fm.answer || '')}</p><div class="card__meta">${date}</div></div></a>`;
+  return `<a class="card" href="${pageUrl(lang, c.type, c.slug)}">${cover}<div class="card__b"><div class="kicker">${esc(kicker)}</div><h3>${nbspNumbers(esc(fm.title))}</h3><p>${nbspNumbers(esc(fm.meta || fm.answer || ''))}</p><div class="card__meta">${date}</div></div></a>`;
 }
 
 /* ---------- article page ---------- */
@@ -212,7 +222,7 @@ function articlePage(lang, c, doc, alternates, clusters) {
   const facts = (fm.keyFacts || []).length
     ? `<section class="facts"><h2>${esc(t.keyFacts)}</h2><ul>${fm.keyFacts.map((k) => `<li>${nbspNumbers(esc(k.fact))}${k.source ? `<sup><a href="#${k.source}">${sources.findIndex((s) => s.id === k.source) + 1}</a></sup>` : ''}</li>`).join('')}</ul></section>` : '';
   const faq = (fm.faq || []).length
-    ? `<section class="faq"><h2>${esc(t.faq)}</h2>${fm.faq.map((q) => `<details><summary>${esc(q.q)}</summary><p>${nbspNumbers(esc(q.a))}</p></details>`).join('')}</section>` : '';
+    ? `<section class="faq"><h2>${esc(t.faq)}</h2>${fm.faq.map((q) => `<details><summary>${nbspNumbers(esc(q.q))}</summary><p>${nbspNumbers(esc(q.a))}</p></details>`).join('')}</section>` : '';
   const srcList = sources.length
     ? `<section class="sources" id="sources"><h2>${esc(t.sources)}</h2><ol>${sources.map((s) => `<li id="${attr(s.id)}">${esc(s.name)}${s.url ? ` — <a href="${attr(s.url)}" rel="noopener nofollow">${esc(s.doi ? `doi:${s.doi}` : s.pmid ? `PMID ${s.pmid}` : s.url)}</a>` : ''}</li>`).join('')}</ol></section>` : '';
   const entity = fm.entity?.latin
@@ -226,7 +236,7 @@ function articlePage(lang, c, doc, alternates, clusters) {
   const breadcrumb = `<nav class="breadcrumb" aria-label="Breadcrumb">${crumbs.map(([n, u]) => `<a href="${u}">${esc(n)}</a>`).join('<span>›</span>')}</nav>`;
 
   const bodyHtml = `<article class="article"><div class="wrap">
-  <header>${breadcrumb}<div class="kicker">${esc(kicker)}</div><h1 class="h1">${esc(fm.title)}</h1>
+  <header>${breadcrumb}<div class="kicker">${esc(kicker)}</div><h1 class="h1">${nbspNumbers(esc(fm.title))}</h1>
   ${fm.answer ? `<p class="answer">${nbspNumbers(esc(fm.answer))}</p>` : ''}
   <div class="byline"><img src="${AUTHOR.avatar}" alt="" width="40" height="40"><span><strong>${esc(t.author)}: ${AUTHOR.name}</strong> · ${esc(t.authorRole)}</span><span>${esc(t.published)}: <time datetime="${fm.date}">${fm.date}</time></span>${fm.asOf ? `<span>${esc(t.asOf)}: <time datetime="${fm.asOf}">${fm.asOf}</time></span>` : ''}</div></header>
   ${hero}
@@ -270,7 +280,7 @@ function listPage(lang, type, clusters, alternates) {
   } else if (type === 'bacteria') {
     const byRank = { phylum: [], genus: [], species: [] };
     for (const c of items) (byRank[c.langs[lang].fm.entity?.rank] || byRank.species).push(c);
-    inner = ['phylum', 'genus', 'species'].map((r) => byRank[r].length ? `<section class="section--tight"><h2 class="h2">${esc(t[r])}</h2>${byRank[r].map((c) => { const fm = c.langs[lang].fm; return `<div class="index-row"><div class="thumb">${fm.images?.preview ? `<img src="${attr(fm.images.preview)}" alt="" width="360" height="240" loading="lazy">` : ''}</div><div><h3><a href="${pageUrl(lang, 'bacteria', c.slug)}"><em>${esc(fm.entity?.latin || fm.title)}</em></a></h3><p>${esc(fm.answer || fm.meta || '')}</p></div></div>`; }).join('')}</section>` : '').join('');
+    inner = ['phylum', 'genus', 'species'].map((r) => byRank[r].length ? `<section class="section--tight"><h2 class="h2">${esc(t[r])}</h2>${byRank[r].map((c) => { const fm = c.langs[lang].fm; return `<div class="index-row"><div class="thumb">${fm.images?.preview ? `<img src="${attr(fm.images.preview)}" alt="" width="360" height="240" loading="lazy">` : ''}</div><div><h3><a href="${pageUrl(lang, 'bacteria', c.slug)}"><em>${esc(fm.entity?.latin || fm.title)}</em></a></h3><p>${nbspNumbers(esc(fm.meta || fm.answer || ''))}</p></div></div>`; }).join('')}</section>` : '').join('');
   } else {
     inner = items.length ? `<div class="grid g3">${items.map((c) => card(lang, c, c.langs[lang])).join('')}</div>` : `<p class="notice">${esc(t.preparing)} <a href="${typeUrl('en', type)}">English →</a></p>`;
   }
@@ -289,7 +299,7 @@ function homePage(lang, clusters, alternates) {
   // not a decoration (Marika: one image filling the same space as the text half).
   const lead = [...news, ...bact].find((c) => c.langs[lang].fm.images?.hero);
   const heroArt = lead
-    ? (() => { const f = lead.langs[lang].fm; return `<a class="hero__art" href="${pageUrl(lang, lead.type, lead.slug)}"><img src="${attr(f.images.hero)}" alt="${attr(f.images.heroAlt || f.title)}" width="1200" height="675" fetchpriority="high"><span class="hero__cap"><span class="kicker">${esc(f.kicker || t.topicNames[f.topic] || t.latestNews)}</span><span class="hero__capttl">${esc(f.title)}</span></span></a>`; })()
+    ? (() => { const f = lead.langs[lang].fm; return `<a class="hero__art" href="${pageUrl(lang, lead.type, lead.slug)}"><img src="${attr(f.images.hero)}" alt="${attr(f.images.heroAlt || f.title)}" width="1200" height="675" fetchpriority="high"><span class="hero__cap"><span class="kicker">${esc(f.kicker || t.topicNames[f.topic] || t.latestNews)}</span><span class="hero__capttl">${nbspNumbers(esc(f.title))}</span></span></a>`; })()
     : '<div class="hero__art hero__art--empty" aria-hidden="true"></div>';
   const bodyHtml = `<section class="hero"><div class="hero__in"><div class="hero__text"><div class="kicker">${esc(t.siteName)}</div><h1>${esc(t.tagline)}</h1><p class="sub">${esc(t.aboutText)}</p><div class="hero__pills">${TOPICS.map((tp) => `<span class="pill">${esc(t.topicNames[tp])}</span>`).join('')}</div></div>${heroArt}</div></section>
 ${empty && lang !== 'en' ? `<section class="section"><div class="wrap"><p class="notice">${esc(t.preparing)} <a href="/">English →</a></p></div></section>` : ''}
