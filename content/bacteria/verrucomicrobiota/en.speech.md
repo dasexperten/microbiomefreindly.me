@@ -1,0 +1,9 @@
+Let's start with the mucus, because that's where this whole story takes place. The inside of your colon isn't bare tissue. It's coated in a thick gel your own cells make and replace around the clock. Most gut bacteria drift in the middle and eat what you ate. One group learned to eat the coat instead. That group is called Verrucomicrobiota, and you've probably only heard of it because of one species inside it: Akkermansia muciniphila. The name means, near enough, mucus-loving. When scientists first grew it in the lab back in two thousand four, they fed it mucin, and nothing else. No sugar, no broth. Just mucus. So the defining fact about this bug isn't a health claim. It's a diet.
+
+Now, here's where it gets interesting, and here's where I have to be careful with you. In mice, giving this bacterium back reversed fat gain, gut leakiness and insulin resistance on a high-fat diet. In people, there's exactly one controlled trial worth quoting, and it's small. Forty volunteers signed up, thirty-two finished. Over three months it was safe, well tolerated, and it improved insulin sensitivity by about twenty-nine percent. That's a genuine result. It's also a pilot study at a single centre, measuring blood markers, not illness.
+
+And the same bacterium has a second face. In mice with a Salmonella infection, adding it made the inflammation worse, and left far fewer of the cells that produce mucus in the first place. Starve a gut community of fibre, and it turns on the mucus lining and eats through the barrier. Same appetite, opposite outcome. It depends on what else is on the menu.
+
+One more thing. You'll see the old name, Verrucomicrobia, in most of the papers. That was renamed in two thousand twenty-one. Same organisms, new ending.
+
+So what do you do with all this? Not much, honestly, in the supplement aisle. But the mechanism is clear enough to act on. This bug eats mucus when there's nothing better on offer. Fibre is the better offer.

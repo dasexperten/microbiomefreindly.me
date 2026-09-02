@@ -1,0 +1,11 @@
+Let's talk about the bacterium that most people meet as a word on a hospital chart. Clostridioides difficile. Until 2016 it was called Clostridium difficile, and you'll still see that older name almost everywhere, because Lawson and colleagues showed it doesn't actually belong among the true clostridia and gave it a genus of its own. Same organism, newer label.
+
+Here's what it is. A spore-forming bacterium that lives in the large intestine and turns dangerous when the community around it gets wiped out, usually by antibiotics. Its toxins bind to the cells lining your gut, slip inside, and switch off the proteins that hold each cell's skeleton together. The lining loses its seal. That's the diarrhoea, that's the inflammation, and in bad cases that's tissue death.
+
+Now for the part that surprises people. Carrying this bacterium isn't the same as being sick from it. Kyne and colleagues followed hospital patients on antibiotics, and fourteen percent were already carrying it on the day they arrived — most of them with no symptoms at all. Sixteen percent of healthy Belgian babies carried a toxin-producing strain in their first six months, in large numbers, and stayed perfectly well.
+
+And it goes further. When Shim and colleagues pooled four hospital studies, patients who were quietly carrying the organism went on to develop C. difficile diarrhoea less often than patients who were carrying nothing. Three point six percent versus one percent. Let me say the caveat out loud, the way the authors did: nobody knows the mechanism.
+
+That finding grew into a treatment. Gerding's team gave patients spores of a strain with no toxin genes at all, and recurrence dropped from thirty percent on placebo to eleven percent. Caveat again: that was a phase two trial, and its main job was to test safety.
+
+So what should you take from this? Not that this bug is secretly good for you. It isn't. Take this instead. The thing that beat recurrent infection best wasn't a stronger antibiotic. It was a faecal transplant — restoring the crowd of bacteria that used to keep this one quiet. Eighty-one percent cured with a single infusion, against thirty-one percent on vancomycin. Protection here isn't about killing harder. It's about who else is in the room.

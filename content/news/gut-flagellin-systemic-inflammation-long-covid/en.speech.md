@@ -1,0 +1,11 @@
+Here's something worth knowing about the bacteria you're carrying right now. A lot of them swim. And the tail they swim with is built from one protein, called flagellin. Your immune system has recognised that protein for a long time. Back in 2001, a team led by Fumitoshi Hayashi reported in Nature that a single human receptor, TLR5, spots flagellin and switches on inflammation. That makes sense. A bacterium with a motor can travel, and a traveller is the one that ends up somewhere it shouldn't be.
+
+Now a new paper asks what happens if that alarm gets pulled quietly, every day, from inside your own gut. It's by Jiejie Geng and colleagues, published in the journal Gut in 2026. They looked at gut bacteria across four patient groups: rheumatoid arthritis, ankylosing spondylitis, inflammatory bowel disease, and long covid. And they found the same thing in all four. More flagellated bacteria. More swimmers.
+
+Then they took long covid apart to see how it works, and here's the chain they describe. The flagellin reaches immune cells. It flips the TLR5 switch on neutrophils. Those neutrophils throw out webs of their own DNA and release a signal called IL-15. The IL-15 tells macrophages to make arachidonic acid. And arachidonic acid feeds the body's inflammation machinery, in organs nowhere near your gut. In mice, they saw exactly that picture, including scarring in the lungs. When they switched off the arachidonic acid step, or the IL-15 step, the lung damage got better.
+
+So here are the caveats, and I want them said plainly. That mechanism was worked out in long covid and in mice. The other three diseases only gave a pattern. A shared signature across four illnesses doesn't prove one process is driving all of them, and the authors say so themselves. They call it a candidate mechanism.
+
+I also can't tell you how many patients were in these groups. The abstract doesn't say, and the full paper is behind a paywall, so I haven't verified that number. I'd rather admit the gap than invent a figure.
+
+And no, this isn't a reason to take an antibiotic. They cleared the microbiome in mice as an experiment, not as a treatment. Nobody has run the trial that would tell you what to do about this. When somebody does, I'll bring you the numbers it actually produced.
