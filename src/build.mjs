@@ -43,6 +43,7 @@ const NBSP = ' ';
 const UNIT_RE = /(\d[\d.,]*)\s+(%|CFU|КОЕ|mg|g|kg|ml|mL|cm|mm|µm|μm|nm|kDa|weeks?|days?|months?|years?|недел[ьия]|дн[ейя]|месяц\w*|лет|года?|×|x|÷|min|h|°C|IU|log10|copies|participants|people|человек)\b/g;
 function nbspNumbers(html) {
   return html
+    .replace(/[   ]/g, NBSP)   // narrow / thin / figure spaces from authors → one NBSP glyph every face carries
     .replace(UNIT_RE, (m, n, u) => `${n}${NBSP}${u}`)
     .replace(/(\d)\s(\d{3})(?!\d)/g, `$1${NBSP}$2`)          // thousands: 1 844
     .replace(/\b(n|N)\s*=\s*(\d)/g, `$1${NBSP}=${NBSP}$2`)  // n = 32
@@ -112,16 +113,20 @@ function renderBody(md, sources, lang) {
 }
 
 /* ---------- page chrome ---------- */
+const LANG_CODE = {"en":"EN","es":"ES","vi":"VN","ru":"RU","de":"DE","pt-BR":"PT","ar":"AR","uk":"UA","pl":"PL","tl":"TL","ms":"MS","fr":"FR","ro":"RO","th":"TH","tr":"TR","zh-Hans":"ZH","ja":"JP","ko":"KR"};
+/* Language ribbon — the dasexperten.com pattern (Owner 2026-09-02): flag + two-letter code, one row, current one marked.
+   Locales with no page for this cluster are shown dimmed and unlinked (hreflang honesty: no link to a page that does not exist). */
 function langSwitcher(lang, available, urlFor) {
   const items = LOCALES.order.map((l) => {
     const meta = LOCALES.meta[l];
+    const img = `<img class="flag" src="/assets/flags/${l}.svg" alt="" width="16" height="16" loading="lazy">`;
     if (available.includes(l)) {
-      const cur = l === lang ? ' aria-current="true"' : '';
-      return `<li><a href="${urlFor(l)}" hreflang="${meta.html}" lang="${meta.html}"${cur}>${esc(meta.native)}</a></li>`;
+      const cur = l === lang ? ' class="active" aria-current="true"' : '';
+      return `<a href="${urlFor(l)}" hreflang="${meta.html}" lang="${meta.html}" title="${esc(meta.native)}"${cur}>${img}<span class="code">${LANG_CODE[l]}</span></a>`;
     }
-    return `<li><span lang="${meta.html}" title="—">${esc(meta.native)}</span></li>`;
+    return `<span class="off" lang="${meta.html}" title="${esc(meta.native)} — ${esc(UI[lang].preparing)}">${img}<span class="code">${LANG_CODE[l]}</span></span>`;
   }).join('');
-  return `<details class="hdr__lang"><summary aria-label="${attr(UI[lang].languages)}">${esc(LOCALES.meta[lang].native)} ▾</summary><ul>${items}</ul></details>`;
+  return `<nav class="lang" aria-label="${attr(UI[lang].languages)}">${items}</nav>`;
 }
 
 function layout({ lang, title, desc, url, alternates, bodyHtml, jsonld, ogImage, current, type, dateMod }) {
@@ -154,15 +159,16 @@ function layout({ lang, title, desc, url, alternates, bodyHtml, jsonld, ogImage,
   <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,600;0,700;0,800;0,900;1,600;1,900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/css/portal.css?v=${BUILD_DATE.replace(/-/g, '')}">
   ${jsonld.map((j) => `<script type="application/ld+json">${JSON.stringify(j)}</script>`).join('\n  ')}
 </head>
 <body>
-<header class="hdr"><div class="hdr__in">
+<header class="hdr">
+<div class="langbar">${switcher}</div>
+<div class="hdr__in">
   <a class="hdr__logo" href="${homeUrl(lang)}" aria-label="${attr(t.siteName)} — ${attr(t.home)}"><img src="/assets/img/logo-navy.png" alt="${attr(t.siteName)}" width="63" height="44"></a>
   <nav class="hdr__nav" aria-label="Main">${nav}</nav>
-  ${switcher}
 </div></header>
 <main>
 ${bodyHtml}

@@ -164,8 +164,8 @@ The Owner's word replaces §4 for the **portal** (the brand site keeps its own t
 | `--navy` | `#1F2A3E` | footer, active chips |
 | `--teal` / `--teal-2` | `#1B5F56` / `#174F48` | action, links, answer rule (white on teal 7.2:1) |
 | `--lime` | `#D9EB99` | a single small note (footer hover) — never a wash |
-| display | **Montserrat** 700/800 | Owner 2026-09-02: no serif, bolder, "something better" — the org type pair (organizacia CLAUDE.md typography law, carries Cyrillic) |
-| text | **Manrope** 500/600/700 | body and UI, never lighter than 500 |
+| display | **Nunito** 900 | Owner reference image 2026-09-02: rounded extra-bold Cyrillic sans; Nunito Black is the open match, one family for the surface |
+| text | **Nunito** 600/700 | body and UI, never lighter than 600 |
 | radius | 4 px (6 px on cards) | near-square |
 | shadow | none (language switcher only, 8 % charcoal) | flat |
 
