@@ -4,7 +4,9 @@
   "private": true,
   "description": "Microbiome Friendly — multilingual microbiome news and bacteria encyclopedia. Static site built from content/ and deployed to Cloudflare Pages.",
   "type": "module",
-  "engines": { "node": ">=20" },
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "build": "node src/build.mjs",
     "check": "node src/check.mjs",
@@ -15,5 +17,8 @@
   "dependencies": {
     "js-yaml": "^4.1.0",
     "marked": "^15.0.0"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.4"
   }
 }
