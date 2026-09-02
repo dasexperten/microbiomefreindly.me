@@ -145,3 +145,30 @@ Copy the block into `briefs/<slug>.md` in the portal repo. Plain words only; no 
 Fields 1–5 produce the preview, 6–8 the hero, 9–10 belong to both. A brief missing field 4 or 7 is returned — an organism without a shape and a scene without a named REF are the two ways this portal would end up inventing something, and we do not invent.
 
 — Marika Nowicka · Brand Studio · 2026-09-02
+
+---
+
+## 4a. Portal tokens — Owner 2026-09-02: "design change to this fit https://omnibioticlife.com/"
+
+The Owner's word replaces §4 for the **portal** (the brand site keeps its own tokens until the domain move). Reference studied 2026-09-02: greige ground `#efebe7`, charcoal text `#363636`, deep navy blocks `#1f2a3e`, teal solid CTA, soft lime `#d9eb99` as a small note, proprietary serif display ("theseasons", fallback Cormorant) with DM Sans text, uppercase small nav, hairlines, near-square corners, photographic hero left-text / right-image. Their nav uses +2 px tracking — **we do not** (§4h): the same feel is carried by size, weight and case.
+
+| Token | Value | Use |
+|---|---|---|
+| `--ground` | `#EFEBE7` | page ground |
+| `--ground-2` | `#E6DFD8` | alternate sections, empty image cells |
+| `--paper` | `#F7F5F2` | cards, fact boxes |
+| `--band` | `#E2D8CD` | header band, hero image cell |
+| `--ink` | `#363636` | text |
+| `--ink-2` / `--ink-3` | `#6B6B6B` / `#8A8580` | secondary text · meta (≥ 4.5:1 on ground for `--ink-2`; `--ink-3` only at ≥ 12 px uppercase meta) |
+| `--line` / `--line-2` | `#D6CFC7` / `#C2BEB8` | hairlines |
+| `--navy` | `#1F2A3E` | footer, active chips |
+| `--teal` / `--teal-2` | `#1B5F56` / `#174F48` | action, links, answer rule (white on teal 7.2:1) |
+| `--lime` | `#D9EB99` | a single small note (footer hover) — never a wash |
+| display | **Cormorant Garamond** 400/500/600 | the open equivalent of the reference serif; one display family per surface |
+| text | **DM Sans** 400/500/600/700 | body and UI |
+| radius | 4 px (6 px on cards) | near-square |
+| shadow | none (language switcher only, 8 % charcoal) | flat |
+
+**Images under the new look (§2 amended):** preview ground is the greige/paper of the page, not ivory; subject colours charcoal, navy, teal, warm greys; one small accent (lime, rose `#A8324F`, or gold) at most; hero scene warm and photographic, matte, daylight — the reference's photography is real-room, natural light, no studio gloss. Everything else in §2 (morphology as truth, no text, no product, REF-only faces, one scene one frame) stands.
+
+**Hero cell (home):** Marika's site law — two equal halves, text left, one image right, image covers its cell. Today the right cell is an empty framed band until an accepted hero exists; it is not a fake photo.

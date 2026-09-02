@@ -30,7 +30,7 @@ async function out(img, rel, opts) {
 
 for (const file of walk(SRC)) {
   const rel = file.slice(SRC.length + 1).replace(/\\/g, '/'); // <type>/<slug>/<name>
-  const [type, slug] = rel.split('/'); const name = basename(file, extname(file));
+  const [type0, slug] = rel.split('/'); const type = type0 === 'news' ? 'articles' : type0; const name = basename(file, extname(file));
   const img = sharp(file); const meta = await img.metadata();
   const ratio = meta.width / meta.height;
   if (name.endsWith('-preview')) {

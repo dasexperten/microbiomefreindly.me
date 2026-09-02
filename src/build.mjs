@@ -154,7 +154,7 @@ function layout({ lang, title, desc, url, alternates, bodyHtml, jsonld, ogImage,
   <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&family=Hanken+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/css/portal.css?v=${BUILD_DATE.replace(/-/g, '')}">
   ${jsonld.map((j) => `<script type="application/ld+json">${JSON.stringify(j)}</script>`).join('\n  ')}
 </head>
@@ -169,7 +169,7 @@ ${bodyHtml}
 </main>
 <footer class="ftr"><div class="wrap">
   <div class="ftr__top">
-    <div><img src="/assets/img/logo-navy.png" alt="${attr(t.siteName)}" width="63" height="44" style="filter:brightness(0) invert(1);opacity:.9;height:36px;width:auto"><p class="brandline">${esc(t.tagline)}.</p></div>
+    <div><img src="/assets/img/logo-navy.png" alt="${attr(t.siteName)}" width="63" height="44" style="height:44px;width:auto"><p class="brandline">${esc(t.tagline)}.</p></div>
     <div><h4>${esc(t.nav.news)}</h4><a href="${typeUrl(lang, 'news')}">${esc(t.allNews)}</a><a href="${typeUrl(lang, 'hubs')}">${esc(t.nav.topics)}</a></div>
     <div><h4>${esc(t.nav.bacteria)}</h4><a href="${typeUrl(lang, 'bacteria')}">${esc(t.allBacteria)}</a><a href="${aboutUrl(lang)}">${esc(t.nav.about)}</a></div>
     <div><h4>${esc(t.brandSite)}</h4><a href="${BRAND_SITE}${lang === 'ru' ? '/ru/' : '/'}" rel="noopener">microbiomefriendly.me</a><a href="mailto:biome@dasexperten.com">biome@dasexperten.com</a></div>
@@ -278,10 +278,10 @@ function homePage(lang, clusters, alternates) {
   const bact = clusters.filter((c) => c.type === 'bacteria' && c.langs[lang]).slice(0, 6);
   const hubs = TOPICS.filter((tp) => clusters.some((c) => c.type === 'hubs' && c.slug === tp && c.langs[lang]));
   const empty = !news.length && !bact.length;
-  const bodyHtml = `<section class="hero"><div class="wrap"><h1>${esc(t.tagline)}</h1><p class="sub">${esc(t.aboutText)}</p><div style="margin-top:22px">${TOPICS.map((tp) => `<span class="pill">${esc(t.topicNames[tp])}</span>`).join('')}</div></div></section>
+  const bodyHtml = `<section class="hero"><div class="hero__in"><div class="hero__text"><div class="kicker">${esc(t.siteName)}</div><h1>${esc(t.tagline)}</h1><p class="sub">${esc(t.aboutText)}</p><div class="hero__pills">${TOPICS.map((tp) => `<span class="pill">${esc(t.topicNames[tp])}</span>`).join('')}</div></div><div class="hero__art hero__art--empty" aria-hidden="true"></div></div></section>
 ${empty && lang !== 'en' ? `<section class="section"><div class="wrap"><p class="notice">${esc(t.preparing)} <a href="/">English →</a></p></div></section>` : ''}
-${news.length ? `<section class="section"><div class="wrap"><div class="kicker">${esc(t.nav.news)}</div><h2 class="h1">${esc(t.latestNews)}</h2><div class="grid g3" style="margin-top:30px">${news.map((c) => card(lang, c, c.langs[lang])).join('')}</div><p style="margin-top:22px"><a class="pill" style="border-color:var(--navy)" href="${typeUrl(lang, 'news')}">${esc(t.allNews)} →</a></p></div></section>` : ''}
-${bact.length ? `<section class="section ivory2"><div class="wrap"><div class="kicker">${esc(t.nav.bacteria)}</div><h2 class="h1">${esc(t.encyclopedia)}</h2><div class="grid g3" style="margin-top:30px">${bact.map((c) => card(lang, c, c.langs[lang])).join('')}</div><p style="margin-top:22px"><a class="pill" style="border-color:var(--navy)" href="${typeUrl(lang, 'bacteria')}">${esc(t.allBacteria)} →</a></p></div></section>` : ''}
+${news.length ? `<section class="section"><div class="wrap"><div class="kicker">${esc(t.nav.news)}</div><h2 class="h1">${esc(t.latestNews)}</h2><div class="grid g3" style="margin-top:30px">${news.map((c) => card(lang, c, c.langs[lang])).join('')}</div><p style="margin-top:22px"><a class="more" href="${typeUrl(lang, 'news')}">${esc(t.allNews)} →</a></p></div></section>` : ''}
+${bact.length ? `<section class="section ivory2"><div class="wrap"><div class="kicker">${esc(t.nav.bacteria)}</div><h2 class="h1">${esc(t.encyclopedia)}</h2><div class="grid g3" style="margin-top:30px">${bact.map((c) => card(lang, c, c.langs[lang])).join('')}</div><p style="margin-top:22px"><a class="more" href="${typeUrl(lang, 'bacteria')}">${esc(t.allBacteria)} →</a></p></div></section>` : ''}
 ${hubs.length ? `<section class="section"><div class="wrap"><div class="kicker">${esc(t.nav.topics)}</div><ul class="topic-list">${hubs.map((tp) => `<li><a href="${pageUrl(lang, 'hubs', tp)}">${esc(t.topicNames[tp])}</a></li>`).join('')}</ul></div></section>` : ''}`;
   const ld = [{ '@context': 'https://schema.org', '@type': 'WebSite', name: BRAND, url: abs(homeUrl(lang)), inLanguage: LOCALES.meta[lang].html, publisher: { '@type': 'Organization', name: BRAND, url: BRAND_SITE } }];
   return layout({ lang, title: `${t.siteName} — ${t.tagline}`, desc: t.aboutText, url: homeUrl(lang), alternates, bodyHtml, jsonld: ld, current: 'home', type: 'home' });
