@@ -192,7 +192,7 @@ function card(lang, c, doc) {
   const cover = fm.images?.preview ? `<div class="card-cover">${img}</div>` : img;
   const kicker = fm.kicker || t.topicNames[fm.topic] || '';
   const date = fm.date ? `<span>${esc(t.published)}: <time datetime="${fm.date}">${fm.date}</time></span>` : '';
-  return `<a class="card" href="${pageUrl(lang, c.type, c.slug)}">${cover}<div class="card__b"><div class="kicker">${esc(kicker)}</div><h3>${esc(fm.title)}</h3><p>${esc(fm.answer || fm.meta || '')}</p><div class="card__meta">${date}</div></div></a>`;
+  return `<a class="card" href="${pageUrl(lang, c.type, c.slug)}">${cover}<div class="card__b"><div class="kicker">${esc(kicker)}</div><h3>${esc(fm.title)}</h3><p>${esc(fm.meta || fm.answer || '')}</p><div class="card__meta">${date}</div></div></a>`;
 }
 
 /* ---------- article page ---------- */
