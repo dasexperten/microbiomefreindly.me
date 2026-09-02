@@ -10,10 +10,16 @@ cd "$HERE"
 PROJECT="${PAGES_PROJECT:-microbiomefriendly-portal}"
 export CLOUDFLARE_ACCOUNT_ID="${CLOUDFLARE_ACCOUNT_ID:-081ddb85cb399ad62a70210328d744fc}"
 
-# §8.1 proof — tree equals origin/main
+# §8.1 proof — build from a tree IDENTICAL to origin/main. If this checkout is dirty or ahead/behind,
+# a clean detached worktree of origin/main is cut and the deploy runs from there (never from this tree).
 git fetch origin main -q
-if [ -n "$(git status --porcelain)" ]; then echo "REFUSED: working tree is dirty — commit and push first (§8.1)"; exit 2; fi
-if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]; then echo "REFUSED: HEAD $(git rev-parse --short HEAD) != origin/main $(git rev-parse --short origin/main) (§8.1)"; exit 2; fi
+if [ -n "$(git status --porcelain)" ] || [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]; then
+  W="$(dirname "$HERE")/mbf-deploy-worktree"
+  git worktree remove --force "$W" 2>/dev/null || true
+  git worktree add -q --detach "$W" origin/main
+  echo "checkout not equal to origin/main — deploying from clean worktree $W"
+  cd "$W"
+fi
 
 if [ -z "${CLOUDFLARE_API_TOKEN:-}" ]; then
   ORG="${ORG_REPO:-$HOME/.dasexperten/repos/organizacia}"
