@@ -167,7 +167,7 @@ function layout({ lang, title, desc, url, alternates, bodyHtml, jsonld, ogImage,
 <header class="hdr">
 <div class="langbar">${switcher}</div>
 <div class="hdr__in">
-  <a class="hdr__logo" href="${homeUrl(lang)}" aria-label="${attr(t.siteName)} — ${attr(t.home)}"><img src="/assets/img/logo-navy.png" alt="${attr(t.siteName)}" width="63" height="44"></a>
+  <a class="hdr__logo" href="${homeUrl(lang)}" aria-label="${attr(t.siteName)} — ${attr(t.home)}"><img src="/assets/img/logo-navy.png" alt="" width="63" height="44"><span class="hdr__word"><strong>Microbiome</strong><em>Friendly</em></span></a>
   <nav class="hdr__nav" aria-label="Main">${nav}</nav>
 </div></header>
 <main>
@@ -235,7 +235,8 @@ function articlePage(lang, c, doc, alternates, clusters) {
   ${facts}${faq}${srcList}${rail}
 </div></article>`;
 
-  const images = [fm.images?.preview, fm.images?.hero].filter(Boolean);
+  const absImg = (u) => (u && u.startsWith('/') ? abs(u) : u);
+  const images = [fm.images?.preview, fm.images?.hero].filter(Boolean).map(absImg);
   const ld = [{
     '@context': 'https://schema.org', '@type': c.type === 'news' ? 'NewsArticle' : 'Article',
     '@id': abs(url), headline: fm.title.slice(0, 110), description: fm.meta, inLanguage: LOCALES.meta[lang].html,
@@ -250,7 +251,7 @@ function articlePage(lang, c, doc, alternates, clusters) {
     itemListElement: [...crumbs, [fm.title, url]].map(([n, u], i) => ({ '@type': 'ListItem', position: i + 1, name: n, item: abs(u) })),
   }];
   if ((fm.faq || []).length) ld.push({ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: fm.faq.map((q) => ({ '@type': 'Question', name: q.q, acceptedAnswer: { '@type': 'Answer', text: q.a } })) });
-  const ogImage = fm.images?.og || fm.images?.preview || '';
+  const ogImage = absImg(fm.images?.og || fm.images?.preview || '');
   const titleTag = fm.entity?.latin && !fm.title.includes(fm.entity.latin) ? `${fm.title} · ${BRAND}` : `${fm.title} · ${BRAND}`;
   return layout({ lang, title: titleTag, desc: fm.meta || fm.answer || '', url, alternates, bodyHtml, jsonld: ld, ogImage, current: c.type === 'hubs' ? 'topics' : c.type, type: c.type, dateMod: fm.asOf || fm.date });
 }

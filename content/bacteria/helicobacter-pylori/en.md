@@ -1,6 +1,6 @@
 ---
-title: "Helicobacter pylori: a proven carcinogen, and a resident"
-meta: "Half the world hosts it. It causes ulcers and gastric cancer — and tracks with less asthma and less oesophageal cancer. The named evidence, both ways."
+title: "Helicobacter pylori: carcinogen, yet linked to less asthma"
+meta: "Half the world hosts it. It causes ulcers and gastric cancer, yet goes with less asthma and less oesophageal (gullet) cancer. Proven harm, unproven benefit."
 kicker: "Helicobacter pylori"
 type: bacteria
 topic: gut
@@ -10,7 +10,7 @@ date: 2026-09-02
 asOf: 2026-09-02
 author: magnus-larsen
 voice: greger
-answer: "Helicobacter pylori is a spiral bacterium that colonises the human stomach lining, usually for life. It is the leading infectious cause of cancer worldwide and the main bacterial cause of peptic ulcers — and, in the same populations, its presence tracks with less oesophageal adenocarcinoma and less childhood asthma. Both findings are real; only one is proven causal."
+answer: "Helicobacter pylori is a spiral bacterium that colonises the stomach lining, usually for life. It is the leading infectious cause of cancer worldwide and the main bacterial cause of peptic ulcers. Yet where the bacterium is common, oesophageal adenocarcinoma (gullet cancer) and childhood asthma are rarer. The harm is a proven cause; the benefit is so far only a pattern."
 keyFacts:
   - fact: "Found in 1984 in antral biopsies from 100 consecutive gastroscopy patients: curved bacilli in 58 of them, cultured from 11."
     source: s1
@@ -108,20 +108,21 @@ entity:
   wikidata: "Q180556"
   ncbiTaxId: "210"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-preview.webp"
+  hero: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-hero.webp"
+  og: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-og.jpg"
+  previewAlt: "Spiral Helicobacter pylori cells resting in the pale mucus film over the stomach lining"
+  heroAlt: "Magnus Larsen at a lab bench holding a culture plate up to the light"
 referral:
   product: ""
   mayaLog: ""
   benefitGate: ""
 gates:
-  marketolog: "3 variants scored — chosen: contrarian"
-  segmentCheck: "pending"
+  marketolog: "hook lock 2026-09-02 — 3 variants scored (curiosity gap 8 / number 7 / contrarian 9) — chosen: contrarian"
+  segmentCheck: "PASS 7/8"
   factCheck: "verified 2026-09-02 — 71 claims traced, 0 removed, 2 corrected"
   register: "pending Roberta (EN)"
-status: review
+status: published
 ---
 
 For most of the twentieth century the stomach was taught as a sterile organ: nothing could live in acid that strong. Ulcers came from stress and spicy food, and the treatment was antacids and then surgery.
@@ -152,7 +153,7 @@ How many people carry it? A systematic review and meta-analysis of 184 studies f
 
 **Does removing it help?** A Cochrane review pooled 7 randomised trials in healthy, asymptomatic, infected adults — 8323 participants. Eradication therapy reduced subsequent gastric cancer, RR 0.54 (95 % CI 0.40–0.72), on moderate-certainty evidence, and reduced death from gastric cancer, RR 0.61 (95 % CI 0.40–0.92), across 4 trials and 6301 participants [s8]. Now the caveats, all of them: six of the seven trials were in Asian populations, the authors explicitly decline to extrapolate elsewhere, and all-cause mortality did not move — RR 0.97 (95 % CI 0.85–1.12) [s8]. Fewer stomach cancers is a real gain. Living longer overall has not been demonstrated.
 
-## What it does for us
+## What it may do for us
 
 This is the half most articles skip, and it is where honesty costs something.
 
@@ -174,4 +175,4 @@ The Kyoto global consensus produced 24 statements at above 80 % agreement and re
 
 *Helicobacter pylori* is neither a passenger nor a partner. It is an organism that solved the problem of living in acid, and the machinery it uses to do that inflames the tissue underneath it for decades. That is causal, and it is why clearing the infection prevents stomach cancers where it has been tested [s8]. Carrying it also tracks with less oesophageal adenocarcinoma and less childhood asthma [s9][s10][s11] — associations that are real, unexplained, and not yet a reason to keep a carcinogen.
 
-The correct posture is the uncomfortable one: name both columns, mark which is proven, and leave the decision about your own stomach with a clinician who knows your history and your region.
+The correct posture is the uncomfortable one: write down both columns — the harm, which is proven, and the benefit, which is so far only a pattern — and leave the decision about your own stomach with a clinician who knows your history and your region.

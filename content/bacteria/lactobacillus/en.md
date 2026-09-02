@@ -1,5 +1,5 @@
 ---
-title: "Lactobacillus: the yogurt bacterium that barely lives in your gut"
+title: "Lactobacillus: the yogurt bug that barely lives in your gut"
 meta: "What Lactobacillus is, where it actually lives in the body, what the trials show it can and cannot do, and why the genus was split into 25 genera in 2020."
 kicker: "Lactobacillus"
 type: bacteria
@@ -95,10 +95,11 @@ entity:
   wikidata: "Q1061596"
   ncbiTaxId: "1578"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-preview.webp"
+  hero: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-hero.webp"
+  og: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-og.jpg"
+  previewAlt: "Rod-shaped Lactobacillus cells in short chains resting in a pale, souring milk film, illustrated close-up"
+  heroAlt: "Magnus Larsen at a lab bench holding an open jar of plain yogurt beside a culture plate, comparing the two in morning light"
 referral:
   product: ""
   mayaLog: ""

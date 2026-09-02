@@ -101,10 +101,11 @@ entity:
   wikidata: "Q25228461"
   ncbiTaxId: "74201"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-preview.webp"
+  hero: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-hero.webp"
+  og: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-og.jpg"
+  previewAlt: "Pale mucus gel over the folded gut lining, short oval rods resting in it, the film worn thin at one edge."
+  heroAlt: "A microbiologist at a laboratory bench in morning light, mid-explanation, one hand open beside a plain culture dish and an open notebook."
 referral:
   product: ""
   mayaLog: ""

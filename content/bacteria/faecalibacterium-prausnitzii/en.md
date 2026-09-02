@@ -10,7 +10,7 @@ date: 2026-09-02
 asOf: 2026-09-02
 author: magnus-larsen
 voice: greger
-answer: "Faecalibacterium prausnitzii is one of the most abundant bacteria in a healthy human colon — more than 5 % of gut bacteria — and it makes butyrate, the main fuel of the cells lining the colon. It drops in Crohn's disease, an inflammatory bowel disease. That association is strong — the two travel together. Proof that the bacterium is what makes a person healthier is not there yet."
+answer: "Faecalibacterium prausnitzii is one of the most abundant bacteria in a healthy colon — more than 5 % of gut bacteria — and it makes butyrate, the main fuel of the colon lining. It drops in Crohn's disease, an inflammatory bowel disease. That association is strong, but proof that the bacterium itself makes a person healthier is not there yet."
 keyFacts:
   - fact: "It is the most abundant bacterium in the intestinal microbiota of healthy adults, representing more than 5 % of the total bacterial population."
     source: s2
@@ -88,10 +88,11 @@ entity:
   wikidata: "Q3738296"
   ncbiTaxId: "853"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-preview.webp"
+  hero: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-hero.webp"
+  og: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-og.jpg"
+  previewAlt: "Slender rod-shaped Faecalibacterium cells resting in a mucus film above the colon lining, in warm light."
+  heroAlt: "Magnus Larsen at a lab bench holding a sealed culture jar up to the light — the kind kept closed because the culture inside dies in air."
 referral:
   product: ""
   mayaLog: ""

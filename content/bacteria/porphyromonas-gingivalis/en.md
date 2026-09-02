@@ -1,5 +1,5 @@
 ---
-title: "Porphyromonas gingivalis: a gum-disease suspect healthy mouths carry"
+title: "Porphyromonas gingivalis: gum suspect healthy mouths carry"
 meta: "What Porphyromonas gingivalis is, where it lives, what it does for us and against us — mechanism first, every number traced to a named study."
 kicker: "Porphyromonas gingivalis"
 type: bacteria
@@ -10,7 +10,7 @@ date: 2026-09-02
 asOf: 2026-09-02
 author: magnus-larsen
 voice: greger
-answer: "Porphyromonas gingivalis is a sugar-blind, protein-eating anaerobe — a microbe that lives without oxygen — in the pocket between tooth and gum. Many healthy people carry it; it harms only when the gum community around it, the other bacteria in the pocket, shifts out of balance. No benefit to us has been demonstrated. Its proteases (protein-cutting enzymes) disable host defences — your body's own protective proteins — and it is a suspect, not yet a proven cause, in arthritis and Alzheimer's."
+answer: "Porphyromonas gingivalis is a sugar-blind, protein-eating anaerobe (lives without oxygen) in the pocket between tooth and gum. Many healthy people carry it; it harms only when the bacteria around it shift out of balance. No benefit is demonstrated. Its proteases (protein-cutting enzymes) disable your body's defences, and it is a suspect, not yet a proven cause, in arthritis and Alzheimer's."
 keyFacts:
   - fact: "It cannot ferment sugars: it grows on peptides and requires haem as its iron source."
     source: s2
@@ -91,10 +91,11 @@ entity:
   wikidata: "Q3214147"
   ncbiTaxId: "837"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-preview.webp"
+  hero: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-hero.webp"
+  og: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-og.jpg"
+  previewAlt: "Short dark rods of Porphyromonas gingivalis resting in a thin wet film on a pale surface, illustrated in navy and teal"
+  heroAlt: "Magnus Larsen at a laboratory bench holding a culture plate with dark-pigmented colonies up to the window light"
 referral:
   product: ""
   mayaLog: ""

@@ -10,7 +10,7 @@ date: 2026-09-02
 asOf: 2026-09-02
 author: magnus-larsen
 voice: greger
-answer: "Akkermansia muciniphila is a gut bacterium that lives in the intestinal mucus layer and eats mucin, the protein your own gut secretes there. Grazing that layer prompts the gut to renew it, and in mice that went with a tighter gut barrier — the mucus wall between your immune system and your gut contents — while one small human trial saw better metabolic markers such as insulin sensitivity. Take fibre away, or add a pathogen (a disease-causing microbe), and the same appetite thins the layer instead. Which of the two you get depends heavily on what else you feed the gut."
+answer: "Akkermansia muciniphila is a gut bacterium that lives in the intestinal mucus layer and eats mucin, the protein your own gut secretes there. Grazing that layer prompts renewal — in mice a tighter gut barrier, in one small human trial better insulin sensitivity — but without fibre, or with a pathogen present, the same appetite thins the layer instead."
 keyFacts:
   - fact: "Named and described in 2004 from human faeces grown on mucin as the only carbon and nitrogen source; the type strain is MucT."
     source: s1
@@ -93,10 +93,11 @@ entity:
   wikidata: "Q15020908"
   ncbiTaxId: "239935"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-preview.webp"
+  hero: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-hero.webp"
+  og: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-og.jpg"
+  previewAlt: "Oval Akkermansia muciniphila cells resting in pairs inside a pale mucus film over the gut lining, illustrated"
+  heroAlt: "Magnus Larsen at a lab bench holding a sealed culture jar up to the window light"
 referral:
   product: ""
   mayaLog: ""

@@ -1,5 +1,5 @@
 ---
-title: "Same capsule, opposite result: what decides if a probiotic works"
+title: "Same capsule, opposite result: what makes a probiotic work"
 meta: "120 overweight adults, 12 weeks: heat-killed L. plantarum did nothing on average. Only the least varied guts lost weight. Why that is a lead, not proof."
 kicker: "Probiotic responders"
 type: news
@@ -10,7 +10,7 @@ date: 2026-09-02
 asOf: 2026-09-02
 author: magnus-larsen
 voice: greger
-answer: "In a 12-week randomized, double-blind trial of 120 overweight adults (Gut Microbes, 2026), where neither participants nor doctors knew who got what, a heat-killed Lactiplantibacillus plantarum LRCC5282 preparation, dead bacterial cells rather than a live probiotic, changed no clinical outcome across the whole group: no measured health marker moved. Only participants with low gut bacterial diversity at the start, meaning the fewest kinds of bacteria in their stool, lost more weight, BMI and leptin, the hormone fat tissue releases, than placebo. It is a subgroup finding, a pattern noticed in one small group after the fact, not a proven effect."
+answer: "Your starting gut diversity, one study suggests. In a 12-week randomized, double-blind trial of 120 overweight adults (Gut Microbes, 2026), heat-killed Lactiplantibacillus plantarum LRCC5282, dead cells rather than a live probiotic, changed nothing on average. Only people with the least diverse guts at baseline lost more weight, BMI and leptin than placebo, a subgroup finding, not a proven effect."
 keyFacts:
   - fact: "Whole-group result: weight fell 1.33 kg on the paraprobiotic versus 0.94 kg on placebo, not a significant difference, and body fat by DXA did not differ."
     source: s1
@@ -48,18 +48,19 @@ sources:
     doi: "10.1016/j.cell.2018.08.041"
     pmid: "30193112"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-preview.webp"
+  hero: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-hero.webp"
+  og: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-og.jpg"
+  previewAlt: "a few dead L. plantarum rods settling into open space on a sparsely colonised gut mucus layer."
+  heroAlt: "Magnus Larsen at a lab bench holding two agar plates side by side, one crowded with colonies and one nearly bare."
 referral:
   product: ""
   mayaLog: ""
   benefitGate: ""
 gates:
-  marketolog: "3 variants scored — chosen: curiosity gap; hook lock re-checked 2026-09-02, title kept (64 chars)"
-  segmentCheck: "PASS 7/8 — 2026-09-02, after 1 rework (meta, answer, closing glossed; diagonal reader still superficial)"
-  factCheck: "verified 2026-09-02 — 46 claims traced, 0 removed, 6 corrected"
+  marketolog: "hook lock 2026-09-02 (Kobayashi): title carries a curiosity-gap hook, not a topic description — kept, 64 chars; 3 variants scored, curiosity gap won"
+  segmentCheck: "PASS 7/8 — 2026-09-02 (Kobayashi run): first pass 6/8, answer sentence 1 split (register kept, no terms dropped), re-run 7/8; diagonal reader still superficial on meta"
+  factCheck: "verified 2026-09-02 — 62 claims traced, 0 removed, 4 corrected"
   register: "pending Roberta (EN)"
 status: published
 ---
@@ -76,7 +77,7 @@ Across the whole group the answer was nothing. Body fat did not differ between a
 
 The authors then went back to the stool samples taken before the first sachet and ranked every participant by how many kinds of bacteria they carried, using a composite of five α-diversity indices — observed OTUs, Shannon, Simpson, Chao1 and ACE — percentile-ranked within each treatment arm and cut at that arm's median [s1]. That produced four small groups: 24 low-diversity people on the paraprobiotic, 26 low-diversity on placebo, and 25 and 26 in the two high-diversity halves [s1].
 
-In the low-diversity half the picture changed. Weight fell 1.98 kg on the paraprobiotic against 0.95 kg on placebo [s1]. BMI fell 0.74 points against 0.31 [s1]. Leptin, the hormone fat tissue releases in proportion to how much fat there is, fell 2.07 ng/mL against 0.24 [s1]. HDL cholesterol rose 3.21 mg/dL while placebo did not move [s1]. In stool, acetate and butyrate, the short-chain fatty acids bacteria make when they ferment fibre, were higher at week 12 than in either placebo group [s1]. And the community itself had moved: more Christensenellaceae, more [*Faecalibacterium*](/bacteria/faecalibacterium-prausnitzii/), more *Alistipes* [s1], and a lower ratio of [Firmicutes](/bacteria/bacillota-firmicutes/) to [Bacteroidota](/bacteria/bacteroidota/) [s1]. Within this group, the people whose [*Akkermansia*](/bacteria/akkermansia-muciniphila/) and *Eubacterium* rose most were the people whose weight, fat mass and leptin fell most [s1].
+In the low-diversity half the picture changed. Weight fell 1.98 kg on the paraprobiotic against 0.95 kg on placebo [s1]. BMI fell 0.74 points against 0.31 [s1]. Leptin, the hormone fat tissue releases in proportion to how much fat there is, fell 2.07 ng/mL against 0.24 [s1]. HDL cholesterol rose 3.21 mg/dL against a 0.12 mg/dL fall on placebo [s1]. In stool, acetate and butyrate, the short-chain fatty acids bacteria make when they ferment fibre, were higher at week 12 than in either placebo group [s1]. And the community itself had moved: more Christensenellaceae, more [*Faecalibacterium*](/bacteria/faecalibacterium-prausnitzii/), more *Alistipes* [s1], and a lower ratio of [Firmicutes](/bacteria/bacillota-firmicutes/) to [Bacteroidota](/bacteria/bacteroidota/) [s1]. Within this group, the people whose [*Akkermansia*](/bacteria/akkermansia-muciniphila/) and *Eubacterium* rose most were the people whose weight, fat mass and leptin fell most [s1].
 
 In the high-diversity half, on the same sachet, only scattered differences appeared, with no coherent pattern [s1].
 
@@ -84,7 +85,7 @@ In the high-diversity half, on the same sachet, only scattered differences appea
 
 The mechanism is ecology before it is biochemistry. A diverse gut community has every niche occupied: the fibre is spoken for, the mucus layer is spoken for, the bile acids are already being processed. A signal from outside, even dead bacterial cell walls, finds few open seats. A thinned-out community has room to move.
 
-This is not a new idea, only a new test of it. In 2013, Le Chatelier and colleagues sequenced the gut bacteria of 292 Danish adults [s2] and found that the roughly one in four with low bacterial gene richness [s2] carried more body fat, more insulin resistance and more inflammation than the rest, and that the obese among them gained more weight over time [s2]. In 2018, Zmora and colleagues gave healthy volunteers the same 11-strain probiotic [s3] and found that whether it took hold in the gut lining was person-specific and predictable from the microbiome each person started with [s3]. The Seoul trial adds the missing piece: a placebo-controlled outcome split by that starting point.
+This is not a new idea, only a new test of it. In 2013, Le Chatelier and colleagues sequenced the gut bacteria of 292 Danish adults [s2] and found that the roughly one in four with low bacterial gene richness [s2] carried more body fat, more insulin resistance and more inflammation than the rest, and that the obese among them gained more weight over time [s2]. In 2018, Zmora and colleagues gave healthy volunteers the same 11-strain probiotic [s3] and found that whether it took hold in the gut lining was person-specific and predictable from the host and microbiome features each person started with [s3]. The Seoul trial adds the missing piece: a placebo-controlled outcome split by that starting point.
 
 ## What was not shown
 
@@ -96,7 +97,7 @@ The diversity split was a stratified secondary analysis, not the comparison the 
 
 No one tracked the strain: the sequencing turned up no species-level *L. plantarum* signal at all, which the authors say neither confirms nor excludes biological activity [s1]. Diet was assessed only qualitatively, so intake could not be quantified [s1], and the trial ends at week 12 with no follow-up reported after it [s1], so whether anything lasts is unknown.
 
-And the money: the sponsor was LOTTE Chilsung Beverage, the strain belongs to the LOTTE culture collection, and all six authors are LOTTE employees [s1]. That does not make the data wrong, but nobody without a stake has repeated it yet.
+And the money: the sponsor was LOTTE Chilsung Beverage, the strain was developed and maintained at the LOTTE R&D Center, and all six authors are LOTTE employees [s1]. That does not make the data wrong, but nobody without a stake has repeated it yet.
 
 ## What to take from it
 

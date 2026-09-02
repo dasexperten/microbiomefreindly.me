@@ -1,5 +1,5 @@
 ---
-title: "Streptococcus salivarius: a helpful microbe with a rare dark side"
+title: "Streptococcus salivarius: helpful microbe, rare dark side"
 meta: "What Streptococcus salivarius does on your tongue, what its probiotic trials actually show, and the rare infections it causes — every source named."
 kicker: "Streptococcus salivarius"
 type: bacteria
@@ -10,7 +10,7 @@ date: 2026-09-02
 asOf: 2026-09-02
 author: magnus-larsen
 voice: greger
-answer: "Streptococcus salivarius is a harmless streptococcus that settles on the human tongue in the first days of life and holds its ground by making bacteriocins — protein antibiotics it aims at rival bacteria. Some strains have been tested against sore throat and bad breath, in small and mostly weak trials. It rarely gets past the mouth — but carried in on a spinal needle (lumbar puncture), it has caused meningitis."
+answer: "Streptococcus salivarius is a harmless streptococcus that settles on the tongue within days of birth and defends its patch with bacteriocins, protein antibiotics aimed at rival bacteria. Some strains were tested against sore throat and bad breath in small, mostly weak trials. It rarely leaves the mouth, but carried in on a lumbar-puncture needle it has caused meningitis."
 keyFacts:
   - fact: "In a series of 12 healthy newborns swabbed from day one to twelve months, S. salivarius was the most frequently recovered oral organism."
     source: s1
@@ -134,10 +134,11 @@ entity:
   wikidata: "Q139986"
   ncbiTaxId: "1304"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-preview.webp"
+  hero: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-hero.webp"
+  og: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-og.jpg"
+  previewAlt: "Chains of round Streptococcus salivarius cells resting in a film of saliva on the ridged surface of the tongue, illustration"
+  heroAlt: "Magnus Larsen at a laboratory bench lifting a lidded culture plate toward the window light and studying its small colonies"
 referral:
   product: ""
   mayaLog: ""

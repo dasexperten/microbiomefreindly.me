@@ -1,6 +1,6 @@
 ---
-title: "Bad breath is not dirt. It is one gene doing its job"
-meta: "A 2026 rat and culture study turned down the bacterial gene behind bad breath. Here is the mechanism, the numbers, and everything the study did not show."
+title: "Bad breath isn’t dirt. It’s one bacterial gene doing its job"
+meta: "A 2026 lab-dish and rat study turned down the bacterial gene behind bad breath. Here is the mechanism, the numbers, and everything the study did not show."
 kicker: "Volatile sulfur compounds"
 type: news
 topic: oral
@@ -10,7 +10,7 @@ date: 2026-09-02
 asOf: 2026-09-02
 author: magnus-larsen
 voice: greger
-answer: "Bad breath is a gas. Anaerobes in the mouth strip sulfur from amino acids using an enzyme encoded by the mgl gene. In a 2026 Journal of Oral Microbiology study, two lactic-acid bacteria turned that gene down in culture and cut tongue coating in rats — but no human mouth was tested and no sulfur gas was ever measured."
+answer: "Bad breath is a gas. Anaerobes, mouth bacteria in tongue coating and gum pockets, strip sulfur from amino acids with an enzyme the mgl gene encodes. In a 2026 Journal of Oral Microbiology study, two lactic-acid bacteria turned that gene down in a lab dish and cut tongue coating in rats, though no human was tested and no gas measured."
 keyFacts:
   - fact: "A 1:1 mix of the two probiotic supernatants cut mgl gene expression by 98 % in Porphyromonas gingivalis and by 88 % in Fusobacterium nucleatum in culture."
     source: s1
@@ -48,20 +48,21 @@ sources:
     doi: "10.1007/s12602-025-10603-5"
     pmid: "40512445"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-preview.webp"
+  hero: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-hero.webp"
+  og: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-og.jpg"
+  previewAlt: "Spindle-shaped and short rod bacteria in a pale tongue-coating film, releasing tiny gas bubbles"
+  heroAlt: "Magnus Larsen at a lab bench holding a culture plate of dark colonies up to the window light"
 referral:
   product: ""
   mayaLog: ""
   benefitGate: ""
 gates:
-  marketolog: "3 variants scored — chosen: contrarian"
-  segmentCheck: "pending"
+  marketolog: "3 variants scored — chosen: contrarian (hook lock re-verified 2026-09-02; 'bacterial' added after segment-check to close the your-own-gene misread)"
+  segmentCheck: "PASS 7/8 (run 1: 4/8 REWORK — title, meta, answer, closing reworked with glosses; run 2: 7/8, superficial-reader type remains the noted weak point)"
   factCheck: "verified 2026-09-02 — 56 claims traced, 0 removed, 3 corrected"
   register: "pending Roberta (EN)"
-status: review
+status: published
 ---
 
 We think of bad breath as a hygiene failure — something you did not scrub hard enough. It is not. It is a chemical reaction with a name, an enzyme and a gene.
@@ -102,4 +103,4 @@ Two human trials have measured the gas. The closer one used this very pair: a 20
 
 The other, from 2023, used a different organism: 100 adults with halitosis took a tablet of *Weissella cibaria* CMU at 1 × 10⁸ CFU daily for 8 weeks, with the gases actually measured. Total volatile sulfur compounds were significantly lower in the probiotic group at week 8 (p = 0.017) [s2]. And the caveat that paper states plainly: they were already lower in that group at baseline (p = 0.046), so the week-8 difference cannot be credited to the tablet alone.
 
-So where does this leave you? With a mechanism worth understanding and a result worth watching — not much more yet. Bad breath is bacterial chemistry, and chemistry can be turned down. The [lactic-acid bacteria](/bacteria/lactobacillus/) here appear to work by changing what the anaerobes express rather than by killing everything within reach, which is a genuinely different strategy from a mouthwash. But every trial of this pair so far has been run by the company that owns the strain — and between a rat's tongue and your own morning breath sits the independent replication nobody has done.
+So where does this leave you? With a mechanism worth understanding and a result worth watching — not much more yet. Bad breath is bacterial chemistry, and chemistry can be turned down. The [lactic-acid bacteria](/bacteria/lactobacillus/) here appear to work by changing what the anaerobes express — which genes they switch on — rather than by killing everything within reach, which is a genuinely different strategy from a mouthwash. But every trial of this pair so far has been run by the company that owns the strain — and between a rat's tongue and your own morning breath sits the independent replication nobody has done: the same trial, run by someone who does not own the strain.

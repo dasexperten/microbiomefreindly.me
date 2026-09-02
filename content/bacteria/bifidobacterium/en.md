@@ -10,7 +10,7 @@ date: 2026-09-02
 asOf: 2026-09-02
 author: magnus-larsen
 voice: greger
-answer: "Bifidobacterium is a genus of bifurcated, anaerobic bacteria that dominate the gut of breastfed babies by feeding on sugars in human milk. Most species are harmless residents that ferment sugars to acetate and lactate. A few are not: B. dentium is an opportunistic cariogen isolated from dental caries, and probiotic strains have occasionally reached the bloodstream of very preterm infants."
+answer: "Bifidobacterium is a genus of bifurcated (fork-shaped), anaerobic (air-avoiding) bacteria dominating a breastfed baby's gut by feeding on human-milk sugars. Most species are harmless, fermenting those sugars into acetate and lactate, two mild acids; a few are not: B. dentium is an opportunistic cariogen isolated from dental caries, and probiotic strains have occasionally reached the bloodstream of very preterm infants."
 keyFacts:
   - fact: "In breastfed infants, bifidobacteria can reach more than 90 % of the total bacterial population of the gut."
     source: s1
@@ -115,20 +115,21 @@ entity:
   wikidata: "Q132656"
   ncbiTaxId: "1678"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-preview.webp"
+  hero: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-hero.webp"
+  og: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-og.jpg"
+  previewAlt: "Illustration of forked, Y-shaped Bifidobacterium cells resting in a pale milky film"
+  heroAlt: "Magnus Larsen at a lab bench holding one culture plate up to the window light, a row of other plates waiting beside him"
 referral:
   product: ""
   mayaLog: ""
   benefitGate: ""
 gates:
-  marketolog: "3 variants scored — chosen: contrarian"
-  segmentCheck: "pending"
+  marketolog: "3 variants scored — chosen: contrarian · hook lock re-checked 2026-09-02: title kept (53 chars, contrarian)"
+  segmentCheck: "PASS 7/8 — 2026-09-02 · run 1 REWORK 4/8 → answer + closing reworked in Greger register (glosses added, terms kept) · run 2 PASS 7/8 · residual: overconfident reader reads contrarian title as 'bifido is bad'"
   factCheck: "verified 2026-09-02 — 58 claims traced, 0 removed, 3 corrected"
   register: "pending Roberta (EN)"
-status: review
+status: published
 ---
 
 Ask someone to name a bacterium and you will hear *E. coli*, or *Salmonella*, or something they once read on a chicken label. Almost nobody names the one that arrives first. Within days of birth, in a baby who is breastfed, a genus called *Bifidobacterium* takes over the large intestine so thoroughly that it can account for more than 90 % of the bacteria living there [s1].
@@ -173,4 +174,4 @@ What changed is the address above it. The phylum published for decades as *Actin
 
 ## What to take away
 
-*Bifidobacterium* is the clearest case in the human microbiome of co-evolution you can point at: a mother makes a sugar she cannot use, for a microbe her baby has not met yet. That much is solid. What is not solid is the leap from *this genus matters* to *this product works* — because benefit in the trials belongs to particular strains, in particular people, at particular doses, and the strain that helps one group is not the strain that was tested in another. When a claim names a genus and not a strain, it is telling you about biology it borrowed, not about a result it earned.
+*Bifidobacterium* is the clearest case in the human microbiome of co-evolution you can point at — two species shaping each other over time: a mother makes a sugar she cannot use, for a microbe her baby has not met yet. That much is solid. What is not solid is the leap from *this genus matters* to *this product works* — because benefit in the trials belongs to particular strains, in particular people, at particular doses. A genus is the family; a strain is one named member of it, and the member that helps one group is not the member that was tested in another. When a label names a genus and not a strain, it is telling you about biology it borrowed, not about a result it earned.

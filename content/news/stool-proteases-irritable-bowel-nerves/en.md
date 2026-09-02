@@ -60,17 +60,18 @@ sources:
     doi: "10.1126/science.1110591"
     pmid: "15831718"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-preview.webp"
+  hero: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-hero.webp"
+  og: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-og.jpg"
+  previewAlt: "Illustration of a nerve network under the gut lining, a thin film of"
+  heroAlt: "Magnus Larsen at a lab bench in morning light, holding a small clear"
 referral:
   product: ""
   mayaLog: ""
   benefitGate: ""
 gates:
   marketolog: "3 variants scored — chosen: contrarian · hook lock re-checked 2026-09-02, title kept"
-  segmentCheck: "PASS 7/8"
+  segmentCheck: "PASS с оговоркой 6/8 — weak: H2 «Two illnesses wearing one name» (metaphor resolves only in the body; Mike/Dave) · re-run 2026-09-02"
   factCheck: "verified 2026-09-02 — 26 claims traced, 0 removed, 0 corrected"
   register: "pending Roberta (EN)"
 status: published

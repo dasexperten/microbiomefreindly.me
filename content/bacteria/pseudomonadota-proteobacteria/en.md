@@ -1,5 +1,5 @@
 ---
-title: "Pseudomonadota: the 'bad' bacteria a healthy gut is supposed to carry"
+title: "Pseudomonadota: the 'bad' bacteria a healthy gut carries"
 meta: "Pseudomonadota, formerly Proteobacteria: what this bacterial phylum does for us, what it does against us, and why a healthy gut keeps its share low."
 kicker: "Pseudomonadota"
 type: bacteria
@@ -10,7 +10,7 @@ date: 2026-09-02
 asOf: 2026-09-02
 author: magnus-larsen
 voice: greger
-answer: "Pseudomonadota, until recently called Proteobacteria, is a huge phylum — one of the broadest branches of the bacterial family tree — of Gram-negative bacteria, the kind with a thin cell wall and an extra outer membrane. It includes E. coli, Salmonella, Pseudomonas aeruginosa, Neisseria and the nitrogen-fixing rhizobia that live in the roots of beans and peas. Healthy people carry it too, as a small share of the gut community. What rises with disease is not whether you carry it but how much: the level, not the presence."
+answer: "Pseudomonadota, until recently called Proteobacteria, is a huge phylum of Gram-negative bacteria (thin cell wall, extra outer membrane). It includes E. coli, Salmonella, Pseudomonas aeruginosa, Neisseria and the nitrogen-fixing rhizobia in bean and pea roots. Healthy people carry it too, as a small share of the gut community; what rises with disease is the level, not the presence."
 keyFacts:
   - fact: "Pseudomonadota is the currently valid name of the phylum; Proteobacteria is the older synonym for the same organisms, replaced when 42 prokaryotic phyla were formally named in 2021."
     source: s1
@@ -94,10 +94,11 @@ entity:
   wikidata: "Q12962137"
   ncbiTaxId: "1224"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-preview.webp"
+  hero: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-hero.webp"
+  og: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-og.jpg"
+  previewAlt: "Short navy and teal rod bacteria gathered at the folded surface of the gut lining, lit warmly from one side."
+  heroAlt: "Magnus Larsen at a lab bench by a window, holding a culture plate with a few small colonies up to the morning light."
 referral:
   product: ""
   mayaLog: ""

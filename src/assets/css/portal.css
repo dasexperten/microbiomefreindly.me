@@ -60,9 +60,15 @@ sup{font-size:.6em;}
 .science-bg{background:var(--paper);}
 
 /* ---------- header ---------- */
-.hdr{position:sticky;top:0;z-index:40;background:var(--band);border-bottom:1px solid var(--line);}
+.hdr{position:sticky;top:0;z-index:40;background:var(--paper);border-bottom:1px solid var(--line);}
 .hdr__in{max-width:var(--maxw);margin:0 auto;padding:14px 5%;display:flex;align-items:center;gap:28px;}
-.hdr__logo img{height:52px;width:auto;}
+.hdr__logo{display:inline-flex;align-items:center;gap:12px;}
+.hdr__logo img{height:44px;width:auto;border-radius:50%;background:var(--navy);padding:3px;box-shadow:0 0 0 1px var(--line);}
+.hdr__word{display:inline-flex;flex-direction:column;line-height:1;}
+.hdr__word strong{font-family:var(--display);font-weight:900;font-size:19px;letter-spacing:-0.02em;color:var(--ink);}
+.hdr__word em{font-family:var(--sub);font-style:normal;font-weight:600;font-size:12px;text-transform:uppercase;color:var(--teal);margin-top:3px;}
+:lang(ja) .hdr__word em,:lang(ko) .hdr__word em,:lang(zh-Hans) .hdr__word em,:lang(ar) .hdr__word em,:lang(th) .hdr__word em{text-transform:none;}
+@media(max-width:520px){.hdr__word strong{font-size:16px;}.hdr__word em{font-size:11px;}.hdr__logo img{height:38px;}}
 .hdr__nav{display:flex;gap:26px;font-family:var(--sub);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:0;}
 :lang(ja) .hdr__nav,:lang(ko) .hdr__nav,:lang(zh-Hans) .hdr__nav,:lang(ar) .hdr__nav,:lang(th) .hdr__nav{text-transform:none;font-size:14px;}
 .hdr__nav a{padding:8px 0;border-bottom:1px solid transparent;}

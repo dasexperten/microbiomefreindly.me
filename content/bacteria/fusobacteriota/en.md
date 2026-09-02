@@ -1,6 +1,6 @@
 ---
 title: "Why the 'colon cancer bacterium' is normal in your mouth"
-meta: "Fusobacteriota, formerly Fusobacteria, is a normal phylum — a whole branch — of mouth bacteria. One small clade of it is linked to colon cancer; most of it is not."
+meta: "Fusobacteriota (formerly Fusobacteria) is a normal phylum — a whole branch — of mouth bacteria. One small clade is linked to colon cancer; most of it is not."
 kicker: "Fusobacteriota"
 type: bacteria
 topic: oral
@@ -10,7 +10,7 @@ date: 2026-09-02
 asOf: 2026-09-02
 author: magnus-larsen
 voice: greger
-answer: "Fusobacteriota is a phylum — a whole branch of the bacterial tree — of anaerobic (oxygen-shy), spindle-shaped bacteria that normally lives in the human mouth, where it is the connector holding the dental plaque community together: a structural job in a healthy mouth, not a fault. Most of it sits there quietly. One clade, one small sub-group, of Fusobacterium nucleatum is strongly enriched — found in far higher numbers — in colorectal tumours, and one of its adhesins, the surface proteins it grips cells with, can switch on cancer-related signalling in human cells."
+answer: "Fusobacteriota, a phylum (a whole branch of the bacterial tree) of anaerobic, spindle-shaped bacteria, normally lives in the mouth as the connector holding the dental plaque community together: a structural job, not a fault. But one small clade of Fusobacterium nucleatum is strongly enriched in colorectal tumours, where one of its adhesins can switch on cancer-related signalling in human cells."
 keyFacts:
   - fact: "The phylum name Fusobacteriota was validly published in 2021, in a paper that formally named forty-two phyla of prokaryotes at once; the older spelling Fusobacteria is its synonym."
     source: s1
@@ -96,10 +96,11 @@ entity:
   wikidata: ""
   ncbiTaxId: "32066"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-preview.webp"
+  hero: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-hero.webp"
+  og: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-og.jpg"
+  previewAlt: "Spindle-shaped Fusobacterium rods bridging clusters of round bacteria in a layered dental plaque community"
+  heroAlt: "Magnus Larsen at a lab bench in morning light, tilting a culture plate towards the window while explaining oral bacteria"
 referral:
   product: ""
   mayaLog: ""

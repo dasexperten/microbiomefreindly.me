@@ -1,6 +1,6 @@
 ---
 title: "Carrying C. difficile can lower your risk of C. difficile"
-meta: "Clostridioides difficile, formerly Clostridium difficile: what it is, where it lives, why it harms — and why carrying it silently, with no symptoms at all, goes with less diarrhoea, not more."
+meta: "Clostridioides difficile, formerly Clostridium difficile: what it is, where it lives, why it harms — and why silent carriage goes with less diarrhoea."
 kicker: "Clostridioides difficile"
 type: bacteria
 topic: gut
@@ -10,7 +10,7 @@ date: 2026-09-02
 asOf: 2026-09-02
 author: magnus-larsen
 voice: greger
-answer: "Clostridioides difficile is a spore-forming gut bacterium — it can seal itself into a dormant, armoured copy that survives antibiotics — and it causes severe diarrhoea when those antibiotics strip away the microbial community, the other gut residents that hold it in check. Carrying it is not the same as being ill: in pooled hospital studies, silent carriers — people with the organism in their stool and no symptoms — developed C. difficile diarrhoea less often than patients who carried nothing."
+answer: "Clostridioides difficile is a spore-forming gut bacterium whose dormant spores outlive antibiotics; it causes severe diarrhoea once antibiotics strip away the microbial community holding it in check. Carriage is not illness: in pooled hospital studies, silent carriers — organism in the stool, no symptoms — developed C. difficile diarrhoea less often than patients carrying nothing."
 keyFacts:
   - fact: "The species was moved out of the genus Clostridium in 2016 and renamed Clostridioides difficile; its closest relative shares only 94.7 % of its 16S rRNA gene sequence."
     source: s1
@@ -118,45 +118,46 @@ entity:
   wikidata: "Q56290719"
   ncbiTaxId: "1496"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/bacteria/clostridioides-difficile/clostridioides-difficile-preview.webp"
+  hero: "/assets/img/mbf/bacteria/clostridioides-difficile/clostridioides-difficile-hero.webp"
+  og: "/assets/img/mbf/bacteria/clostridioides-difficile/clostridioides-difficile-og.jpg"
+  previewAlt: "Illustration of slender rod cells with swollen end-spores crowded by other gut microbes on a pale warm ground."
+  heroAlt: "A microbiologist in a lab coat at an anaerobic culture bench, explaining how gut neighbours hold a spore-forming organism in check."
 referral:
   product: ""
   mayaLog: ""
   benefitGate: ""
 gates:
-  marketolog: "3 variants scored — chosen: contrarian"
-  segmentCheck: "pending"
+  marketolog: "hook lock re-run 2026-09-02 — 3 variants (curiosity gap / concrete number / contrarian) scored; incumbent contrarian held, 57 chars"
+  segmentCheck: "PASS 7/8"
   factCheck: "verified 2026-09-02 — 91 claims traced, 0 removed, 2 corrected"
   register: "pending Roberta (EN)"
-status: review
+status: published
 ---
 
-Almost every bacterium in this encyclopedia earns its entry by what it does for you. This one earns it by what it does to you. So the honest place to begin is with the finding that spoils the simple version of the story: when Shim and colleagues pooled four longitudinal hospital studies covering 810 patients, C. difficile diarrhoea developed in 22 of 618 patients who were carrying nothing (3.6 %) and in only 2 of 192 patients who were already quietly carrying the organism (1.0 %) [s5]. Carrying it went with less of the disease it causes, not more. Hold that in mind through the rest of this page, because the rest is grim.
+Almost every bacterium in this encyclopedia earns its entry by what it does for you. This one earns it by what it does to you. So the honest place to begin is with the finding that spoils the simple version of the story: when Shim and colleagues pooled four longitudinal hospital studies covering 810 patients, C. difficile diarrhoea developed in 22 of 618 patients who were carrying nothing (3.6 %) and in only 2 of 192 patients who were already quietly carrying the organism (1.0 %) [s5]. Carrying it went with less of the disease it causes, not more. That is not a reason to want the organism, and this is not the line to stop on: hold it in mind through the rest of this page, because the rest is grim.
 
 ## What it is
 
-Clostridioides difficile is a Gram-positive, spore-forming, anaerobic bacterium of the large intestine that turns dangerous when the surrounding microbial community is disrupted — most often by antibiotics — and its toxins are released against the gut wall [s2].
+Clostridioides difficile is a Gram-positive, spore-forming, anaerobic bacterium of the large intestine — Gram-positive means it holds the standard laboratory stain, spore-forming means it can seal itself into a dormant, armoured copy that outlives antibiotics and disinfectant, anaerobic means it lives where there is no oxygen. It turns dangerous when the surrounding microbial community — the other gut residents that hold it in check — is disrupted, most often by antibiotics, and its toxins are released against the gut wall [s2].
 
 The reference review by Smits and colleagues in *Nature Reviews Disease Primers* lays out the machinery. Infection of the colon is potentially life-threatening, especially in elderly people and in patients whose gut microbiota has been thrown out of balance by antimicrobial drugs, and this organism is the leading cause of health-care-associated infectious diarrhoea [s2]. The damage is done by two large clostridial toxins, TcdA and TcdB, joined in some strains by a binary toxin, CDT [s2].
 
-How a toxin actually hurts you deserves a paragraph, because it explains everything downstream. Kroh and colleagues describe the sequence: the toxin binds a receptor on the intestinal cell, is taken inside, forms a pore at low pH, and delivers its enzymatic cargo — a glucosyltransferase domain that switches off the host cell's GTPases [s12]. Those GTPases hold the cell's internal skeleton together. Disable them and the lining loses its shape and its seal, which is what produces the diarrhoea, inflammation and tissue death that make up the illness [s2].
+How a toxin actually hurts you deserves a paragraph, because it explains everything downstream. Kroh and colleagues describe the sequence: the toxin binds a receptor on the intestinal cell, is taken inside, forms a pore — a hole punched through the membrane — at low pH, in acid, and delivers its enzymatic cargo: a glucosyltransferase domain, the part that sticks a sugar onto a target protein and jams it [s12]. What it jams are the host cell's GTPases, the molecular switches that tell the cell's internal skeleton what shape to hold. Disable them and the lining loses its shape and its seal, which is what produces the diarrhoea, inflammation and tissue death that make up the illness [s2].
 
 ## Two names, one species
 
-If your lab report says *Clostridium difficile* and this page says *Clostridioides difficile*, nothing has changed but the label. In 2016 Lawson and colleagues showed that the organism does not belong among the true clostridia at all: its nearest relative, *Clostridium mangenotii* — which they moved across into the new genus as *Clostridioides mangenotii*, and which NCBI Taxonomy now files under a further reclassification as *Metaclostridioides mangenotii* — shares only 94.7 % of its 16S rRNA gene sequence, and both sit in the family Peptostreptococcaceae, phylogenetically far from *Clostridium butyricum* and the rest of *Clostridium sensu stricto* [s1]. On that phylogenetic, chemotaxonomic and phenotypic evidence they proposed the new genus *Clostridioides*, with this species as its type [s1]. NCBI Taxonomy lists the species under that name, and its taxon id sits in the entity block of this page. *Clostridium difficile* is still the name in most published papers, and *Peptoclostridium difficile* survives in some databases from a separate, earlier proposal — Yutin and Galperin placed the organism in the Peptostreptococcaceae in 2013 and suggested that name [s15]. All three mean this organism.
+If your lab report says *Clostridium difficile* and this page says *Clostridioides difficile*, nothing has changed but the label. In 2016 Lawson and colleagues showed that the organism does not belong among the true clostridia at all. Its nearest relative, *Clostridium mangenotii* — which they moved across into the new genus as *Clostridioides mangenotii*, and which NCBI Taxonomy now files under a further reclassification as *Metaclostridioides mangenotii* — shares only 94.7 % of its 16S rRNA gene sequence [s1]. That gene is the barcode microbiologists read to sort bacteria into families, and 94.7 % is a distant cousin, not a sibling. Both organisms sit in the family Peptostreptococcaceae, phylogenetically far from *Clostridium butyricum* and the rest of *Clostridium sensu stricto* — the clostridia in the strict sense, the ones that keep the old name [s1]. On that phylogenetic, chemotaxonomic and phenotypic evidence — the family tree, the cell chemistry, the behaviour in culture — they proposed the new genus *Clostridioides*, with this species as its type [s1]. NCBI Taxonomy lists the species under that name, and its taxon id sits in the entity block of this page. *Clostridium difficile* is still the name in most published papers, and *Peptoclostridium difficile* survives in some databases from a separate, earlier proposal — Yutin and Galperin placed the organism in the Peptostreptococcaceae in 2013 and suggested that name [s15]. All three mean this organism.
 
 ## Where it lives in you
 
-The colon — and not only in the sick. Kyne and colleagues followed 271 hospitalised patients receiving antibiotics: 37 of them (14 %) were already colonised on admission, 18 with no symptoms, and a further 47 (17 %) picked the organism up in hospital, 19 of them silently [s6].
+The colon — and not only in the sick. Kyne and colleagues followed 271 hospitalised patients receiving antibiotics: 37 of them (14 %) were already colonised on admission — colonised meaning the organism was living in the gut, ill or not — 18 with no symptoms, and a further 47 (17 %) picked the organism up in hospital, 19 of them silently [s6].
 
-Carriage tracks contact with health care. In a Malaysian study, 16 % of hospital inpatients were colonised with non-toxigenic C. difficile, against 2 % of elderly community members who had little or no hospital contact; among inpatients with diarrhoea, 13 % had genuine infection [s11].
+Carriage tracks contact with health care. In a Malaysian study, 16 % of hospital inpatients were colonised with non-toxigenic C. difficile — non-toxigenic strains carry no toxin genes, so they have nothing to do the damage with — against 2 % of elderly community members who had little or no hospital contact; among inpatients with diarrhoea, 13 % had genuine infection [s11].
 
-The most striking reservoir is the youngest one. Kubota and colleagues followed 111 healthy Belgian infants from birth: 18 of them (16 %) carried toxigenic C. difficile at some point in the first six months, at counts between 10⁴ and 10⁸ cells per gram of stool, two infants holding above 10⁸ cells per gram for weeks — and the commonest genotype was the same one found in adult patients with disease [s10]. A one-year Chinese follow-up found that 20 of 29 infants acquired the organism, with 111 of 437 stool samples positive (25.4 %), and 71.2 % of those isolates toxigenic [s14]. Healthy babies, hosting the thing that fills adult hospital wards.
+The most striking reservoir is the youngest one. Kubota and colleagues followed 111 healthy Belgian infants from birth: 18 of them (16 %) carried toxigenic C. difficile — the kind that does carry the toxin genes — at some point in the first six months, at counts between 10⁴ and 10⁸ cells per gram of stool, two infants holding above 10⁸ cells per gram for weeks — and the commonest genotype was the same one found in adult patients with disease [s10]. A one-year Chinese follow-up found that 20 of 29 infants acquired the organism, with 111 of 437 stool samples positive (25.4 %), and 71.2 % of those isolates toxigenic [s14]. Healthy babies, hosting the thing that fills adult hospital wards.
 
-## What it does for us
+## What it does for us — every item with a caveat
 
 Let us be exact: this is not a beneficial gut organism, and no honest page can turn it into one. What exists is a short list of documented useful things, each with its caveat attached.
 
@@ -164,9 +165,9 @@ Let us be exact: this is not a beneficial gut organism, and no honest page can t
 
 **A toxin-free strain works as a medicine.** Gerding and colleagues ran a phase 2 randomised, double-blind, placebo-controlled trial of spores of non-toxigenic C. difficile strain M3 in 173 patients who had just recovered from infection [s4]. Recurrence occurred in 30 % of placebo patients and 11 % of those given the spores, falling to 5 % in the group taking 10⁷ spores per day for 7 days; the strain colonised 69 % of those who received it [s4]. The caveat is structural: the primary outcome of that trial was safety, and recurrence was an exploratory secondary endpoint [s4]. A 2019 systematic review of 38 randomised trials in 8,102 participants lists strain M3 among the effective non-antibiotic options, while placing faecal transplantation and monoclonal antibodies at the top for risk reduction [s13].
 
-**Your antibody response decides which version you get.** After colonisation, patients who stayed asymptomatic mounted significantly larger rises in serum IgG against toxin A than those who developed diarrhoea; at a serum level of 3.00 ELISA units or less, the adjusted odds ratio for diarrhoea was 48.0 [s6]. And the same paper is honest about the limit of that: it found no evidence of immune protection against colonisation itself, only against becoming ill from it [s6].
+**Your antibody response decides which version you get.** After colonisation, patients who stayed asymptomatic mounted significantly larger rises in serum IgG against toxin A than those who developed diarrhoea; at a serum level of 3.00 ELISA units or less — ELISA units are simply the laboratory's scale for how much of that antibody is in the blood — the adjusted odds ratio for diarrhoea was 48.0 [s6]. An odds ratio of 48 means the odds of falling ill were forty-eight times higher in that group. And the same paper is honest about the limit of that: it found no evidence of immune protection against colonisation itself, only against becoming ill from it [s6].
 
-**It taught medicine that the microbiome is a treatment.** Van Nood and colleagues randomised patients with recurrent infection to donor-faeces infusion or vancomycin. The trial was stopped early after 13 of 16 patients (81 %) were cured by a single infusion, against 4 of 13 (31 %) on vancomycin alone and 3 of 13 (23 %) on vancomycin with bowel lavage [s7]. Working out why produced a mechanism: Buffie and colleagues identified *Clostridium scindens*, a bile-acid 7α-dehydroxylating gut bacterium, as associated with resistance to infection in mice and in hospitalised patients, and showed that giving it enhanced resistance in a secondary-bile-acid-dependent way [s8]. Reed and colleagues then found that inhibition tracked with the production of roughly 2 mM deoxycholate — and, honestly, that C. difficile outcompeted all four commensals tested in an in vitro co-culture system [s9].
+**It taught medicine that the microbiome is a treatment.** Van Nood and colleagues randomised patients with recurrent infection to donor-faeces infusion or vancomycin. The trial was stopped early after 13 of 16 patients (81 %) were cured by a single infusion, against 4 of 13 (31 %) on vancomycin alone and 3 of 13 (23 %) on vancomycin with bowel lavage [s7]. Working out why produced a mechanism: Buffie and colleagues identified *Clostridium scindens*, a bile-acid 7α-dehydroxylating gut bacterium — one of the residents that convert primary bile acids into the secondary ones that hold C. difficile down — as associated with resistance to infection in mice and in hospitalised patients, and showed that giving it enhanced resistance in a secondary-bile-acid-dependent way [s8]. Reed and colleagues then found that inhibition tracked with the production of roughly 2 mM deoxycholate, one of those secondary bile acids — and, honestly, that C. difficile outcompeted all four commensals tested in an in vitro co-culture system, the four grown together with it in a dish [s9].
 
 ## What it does against us
 

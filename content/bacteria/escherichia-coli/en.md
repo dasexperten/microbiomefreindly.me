@@ -10,7 +10,7 @@ date: 2026-09-02
 asOf: 2026-09-02
 author: magnus-larsen
 voice: greger
-answer: "Escherichia coli is a gut bacterium living harmlessly in more than 90 % of people, where it is the main oxygen-tolerant resident — the one that can breathe air when the rest of the colon cannot — and can make vitamin K2. A minority of strains, genetic varieties of the same species, carry toxin or invasion genes and cause food poisoning, bladder infections and sepsis, blood poisoning. And among deaths linked to antibiotic-resistant bacteria, E. coli is the single leading cause."
+answer: "Escherichia coli lives harmlessly in the gut of more than 90 % of people as the main oxygen-tolerant resident, and it can make vitamin K2. But a minority of strains of the same species carry toxin or invasion genes, causing food poisoning, bladder infections and sepsis, and E. coli is the single leading cause of deaths linked to antibiotic-resistant bacteria."
 keyFacts:
   - fact: "E. coli belongs to the gut microbiome of more than 90 % of people; of 32,470 stool isolates cultured from eight healthy adults sampled repeatedly for 6 months to 2 years, 87 % were E. coli."
     source: s2
@@ -107,10 +107,11 @@ entity:
   wikidata: "Q25419"
   ncbiTaxId: "562"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-preview.webp"
+  hero: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-hero.webp"
+  og: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-og.jpg"
+  previewAlt: "Rod-shaped Escherichia coli cells with rounded ends resting on a pale moist folded surface in warm light"
+  heroAlt: "Magnus Larsen in a lab coat holds an open culture plate with small pale colonies up to window light at a teaching bench"
 referral:
   product: ""
   mayaLog: ""

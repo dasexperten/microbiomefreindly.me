@@ -1,5 +1,5 @@
 ---
-title: "Bacillota (formerly Firmicutes): the 'fat bacteria' that aren't"
+title: "Bacillota (once Firmicutes): the 'fat bacteria' that aren't"
 meta: "Bacillota (once Firmicutes) feeds your gut butyrate and houses C. difficile. What the studies show, and why the 'fat ratio' on a stool test can't diagnose you."
 kicker: "Bacillota"
 type: bacteria
@@ -10,7 +10,7 @@ date: 2026-09-02
 asOf: 2026-09-02
 author: magnus-larsen
 voice: greger
-answer: "Bacillota is the bacterial phylum (a top-level branch of the bacterial family tree) formerly called Firmicutes, renamed in 2021 when phylum names were formally standardized. It is one of the two dominant groups in the human colon and includes both the butyrate producers that feed the gut lining and pathogens such as Clostridioides difficile. The popular 'Firmicutes-to-Bacteroidetes ratio' is not a reliable obesity marker."
+answer: "Bacillota is the bacterial phylum formerly called Firmicutes, renamed in 2021 when phylum names were formally standardized. One of the two dominant groups in the human colon, it holds both the butyrate producers that feed the gut lining and pathogens such as Clostridioides difficile; the popular 'Firmicutes-to-Bacteroidetes ratio', though, is not a reliable obesity marker."
 keyFacts:
   - fact: "Bacillota is the valid name for the phylum formerly called Firmicutes; the name was validly published together with 41 other phylum names in 2021."
     source: s1
@@ -112,10 +112,11 @@ entity:
   wikidata: "Q25519942"
   ncbiTaxId: "1239"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-preview.webp"
+  hero: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-hero.webp"
+  og: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-og.jpg"
+  previewAlt: "Illustration of thick-walled rod bacteria, a few holding spores, resting on a strand of plant fibre"
+  heroAlt: "Magnus Larsen at a lab bench holding a culture plate up to the window light, a rack of plates beside him"
 referral:
   product: ""
   mayaLog: ""

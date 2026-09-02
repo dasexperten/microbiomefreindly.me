@@ -10,7 +10,7 @@ date: 2026-09-02
 asOf: 2026-09-02
 author: magnus-larsen
 voice: greger
-answer: "Vitamin A does not travel to your immune cells alone. In mice, gut bacteria push the gut lining to make carrier proteins — serum amyloid A — which hand the vitamin, in its retinol form, to myeloid cells, the immune system’s scavengers. Those cells then walk to the lymph nodes, the immune waiting rooms that drain the gut, and pass the cargo to T cells. The relay takes about three days. Mouse work only."
+answer: "Vitamin A does not travel to your immune cells alone. In mice, gut bacteria make the gut lining produce carrier proteins — serum amyloid A — that hand retinol to myeloid cells. Those cells walk to the lymph nodes draining the gut and pass it to T cells. The relay takes about three days — in mice only."
 keyFacts:
   - fact: "In mice, dietary vitamin A moves to T cells along a three-step chain — gut lining cell, then myeloid cell, then T cell in the mesenteric lymph node — and the chain takes about three days."
     source: s1
@@ -54,16 +54,17 @@ sources:
     doi: "10.7554/eLife.03206"
     pmid: "25073702"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-preview.webp"
+  hero: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-hero.webp"
+  og: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-og.jpg"
+  previewAlt: "Long segmented bacterial threads rooted in the soft folds of the gut lining, lit warm and close."
+  heroAlt: "A microbiologist at a bench in morning light, mid-sentence, one hand open as if passing something along, unmarked culture plates beside him."
 referral:
   product: ""
   mayaLog: ""
   benefitGate: ""
 gates:
-  marketolog: "3 variants scored — chosen: contrarian · hook lock re-checked 2026-09-02, title kept"
+  marketolog: "hook lock 2026-09-02 — 3 variants scored (contrarian / number / curiosity gap); contrarian wins 9-8-6, title kept at 52 chars"
   segmentCheck: "PASS 7/8"
   factCheck: "verified 2026-09-02 — 38 claims traced, 0 removed, 4 corrected"
   register: "pending Roberta (EN)"

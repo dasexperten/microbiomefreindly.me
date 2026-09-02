@@ -1,6 +1,6 @@
 ---
-title: "Bacteroidota: starve them of fibre and they eat your gut lining"
-meta: "Bacteroidota, formerly Bacteroidetes: what this huge gut bacterial group digests for you, when it turns dangerous, and what the named studies actually found."
+title: "Bacteroidota: starve it of fibre and it eats your gut lining"
+meta: "Bacteroidota, formerly Bacteroidetes: what this huge gut bacterial group digests for you, when it turns dangerous, and what the named studies found."
 kicker: "Bacteroidota"
 type: bacteria
 topic: gut
@@ -10,7 +10,7 @@ date: 2026-09-02
 asOf: 2026-09-02
 author: magnus-larsen
 voice: greger
-answer: "Bacteroidota — the phylum once called Bacteroidetes — is a large group of Gram-negative bacteria — Gram-negative being a cell-wall type, named after a lab stain — whose gut members avoid oxygen and live in enormous numbers in the human colon. Its members unlock plant fibre your own enzymes cannot touch, and they help train the immune system. The same group is found in most anaerobic infections — the oxygen-free abscesses that follow a breached gut wall — when it escapes the gut. Both are true."
+answer: "Bacteroidota, formerly Bacteroidetes, is a phylum of Gram-negative, oxygen-avoiding bacteria living in enormous numbers in your colon. Fed plant fibre, they unlock what your enzymes cannot and help train the immune system; starved of it, they eat your mucus lining — in mice, so far. The caveat: escaped from the gut, they are found in most anaerobic infections."
 keyFacts:
   - fact: "The name Bacteroidota was validly published in 2021, in the paper that gave formal standing to 42 prokaryotic phylum names; Bacteroidetes is the earlier name for the same group."
     source: s1
@@ -101,10 +101,11 @@ entity:
   wikidata: "Q9810870"
   ncbiTaxId: "976"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-preview.webp"
+  hero: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-hero.webp"
+  og: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-og.jpg"
+  previewAlt: "Illustration of plump Bacteroidota rods resting on a pale gut mucus film, breaking down a strand of plant fibre"
+  heroAlt: "Magnus Larsen at a kitchen bench with cabbage, beans and oats beside a small culture dish, explaining what gut bacteria eat"
 referral:
   product: ""
   mayaLog: ""

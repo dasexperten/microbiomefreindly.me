@@ -1,6 +1,6 @@
 ---
 title: "Long covid may be driven from the gut, not from the lungs"
-meta: "A 2026 Gut study traces inflammation far from the gut to flagellin — the protein of the bacterial swimming tail — through an immune relay: TLR5, IL-15, arachidonic acid."
+meta: "A 2026 study in Gut traces inflammation far from the gut to flagellin, the protein of the bacterial swimming tail, via TLR5, IL-15 and arachidonic acid."
 kicker: "Flagellin"
 type: news
 topic: immunity
@@ -10,7 +10,7 @@ date: 2026-09-02
 asOf: 2026-09-02
 author: magnus-larsen
 voice: greger
-answer: "A 2026 study in Gut reports that flagellin — the protein bacteria build their swimming tails from — leaks out of the gut and trips TLR5, an alarm receptor sitting on neutrophils, the immune system's first-response cells. Those cells release IL-15, a signal that pushes other immune cells to make arachidonic acid, and organs a long way from the gut inflame. The same flagellated-bacteria pattern turned up in four different diseases. The human side of the work is metagenomes, single-cell sequencing and longitudinal cohorts; the causal test — cutting the chain and watching the damage ease — was done only in mice. Nothing here is a treatment."
+answer: "A 2026 study in Gut proposes that long covid inflammation starts in the gut: flagellin, the protein bacteria build their swimming tails from, leaks out and trips TLR5 on neutrophils, which release IL-15 and drive macrophage arachidonic acid until distant organs inflame. The same pattern appeared in four diseases; the causal test was mice only. Nothing here is a treatment."
 keyFacts:
   - fact: "An expansion of flagellated gut bacteria was the shared intestinal signature across rheumatoid arthritis, ankylosing spondylitis, IBD and long covid."
     source: s1
@@ -55,17 +55,18 @@ sources:
     doi: "10.1172/JCI20295"
     pmid: "15124021"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-preview.webp"
+  hero: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-hero.webp"
+  og: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-og.jpg"
+  previewAlt: "slender gut bacteria with long corkscrew tails, one tail adrift above a pale film of mucus"
+  heroAlt: "Magnus Larsen at a bench by a window, holding a culture plate up to the light and studying it with reserve."
 referral:
   product: ""
   mayaLog: ""
   benefitGate: ""
 gates:
-  marketolog: "3 variants scored — chosen: contrarian; hook lock re-verified 2026-09-02"
-  segmentCheck: "PASS 7/8"
+  marketolog: "hook lock re-run 2026-09-02 — 3 variants (curiosity gap / concrete number / contrarian) scored; contrarian kept, 57 chars"
+  segmentCheck: "PASS с оговоркой 6/8 — weak: meta journal/organ collision + bare TLR5·IL-15·arachidonic list; unglossed metagenomes/single-cell/longitudinal triple in answer"
   factCheck: "verified 2026-09-02 — 36 claims traced, 1 removed, 3 corrected"
   register: "pending Roberta (EN)"
 status: published

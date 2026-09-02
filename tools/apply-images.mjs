@@ -6,6 +6,7 @@
  */
 import { readFileSync, writeFileSync, existsSync, readdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
+import { altsFromBrief } from './alt-parse.mjs';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
@@ -13,16 +14,6 @@ const [,, OUT, ...only] = process.argv;
 const plan = JSON.parse(readFileSync(join(OUT, 'upload-plan.json'), 'utf8'));
 const byCluster = {};
 for (const r of plan) { const m = r.key.match(/^mbf\/(articles|bacteria|hubs)\/([^/]+)\/(.+)$/); if (!m) continue; const type = m[1] === 'articles' ? 'news' : m[1]; (byCluster[`${type}/${m[2]}`] ||= {})[m[3]] = r.url; }
-
-function altsFromBrief(path) {
-  if (!existsSync(path)) return {};
-  const alts = {};
-  for (const line of readFileSync(path, 'utf8').split(/\r?\n/)) {
-    const m = line.match(/^\s*[-*]\s*([a-zA-Z-]+)\s+(preview|hero)\b[^:]*:\s*["“]([^"”]+)["”]/);
-    if (m) (alts[m[1]] ||= {})[m[2]] = m[3].trim();
-  }
-  return alts;
-}
 
 let touched = 0;
 for (const [cluster, files] of Object.entries(byCluster)) {

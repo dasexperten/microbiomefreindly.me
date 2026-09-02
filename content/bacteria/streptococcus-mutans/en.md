@@ -1,5 +1,5 @@
 ---
-title: "Streptococcus mutans: the cavity germ that only wins if you feed it"
+title: "Streptococcus mutans: the cavity germ that only wins if fed"
 meta: "What Streptococcus mutans is, where it lives, how it turns sugar into plaque and acid, what it does for and against you — every number with a named study."
 kicker: "Streptococcus mutans"
 type: bacteria
@@ -10,7 +10,7 @@ date: 2026-09-02
 asOf: 2026-09-02
 author: magnus-larsen
 voice: greger
-answer: "Streptococcus mutans is a sugar-loving bacterium living in the plaque on your teeth. Given table sugar — sucrose — it builds a sticky glue called glucan that anchors plaque to the tooth, and it makes lactic acid that dissolves enamel; that is the best-studied cause of cavities. Most people carry it from toddlerhood. It has no proven benefit to the person carrying it, and some strains can reach the heart and brain."
+answer: "Streptococcus mutans is a sugar-loving bacterium in the plaque on your teeth. Fed table sugar (sucrose), it builds a sticky glue, glucan, anchoring plaque to the tooth, and lactic acid that dissolves enamel: the best-studied cause of cavities. Most people carry it from toddlerhood; it offers the carrier no proven benefit, and some strains can reach the heart and brain."
 keyFacts:
   - fact: "Described and named by J. K. Clarke in 1924 from a decayed tooth; the species name has not changed since."
     source: s2
@@ -115,10 +115,11 @@ entity:
   wikidata: "Q131452"
   ncbiTaxId: "1309"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-preview.webp"
+  hero: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-hero.webp"
+  og: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-og.jpg"
+  previewAlt: "Chains of oval Streptococcus mutans cells held in sticky glucan strands on pale tooth enamel, one sugar grain at the edge"
+  heroAlt: "Magnus Larsen at a bench explains Streptococcus mutans, a glass of water with dissolving sugar and a white tooth model beside him"
 referral:
   product: ""
   mayaLog: ""

@@ -1,6 +1,6 @@
 ---
 title: "The carcinogen your own mouth makes out of ordinary sugar"
-meta: "Mouth microbes from cancer patients turned sugar and alcohol into acetaldehyde, a Group 1 carcinogen — until enzymes dissolved the plaque shielding them."
+meta: "Mouth microbes from cancer patients turned sugar and alcohol into acetaldehyde — a carcinogen ranked with tobacco. Plaque hid the rest until enzymes opened it."
 kicker: "Oral acetaldehyde"
 type: news
 topic: oral
@@ -10,7 +10,7 @@ date: 2026-09-02
 asOf: 2026-09-02
 author: magnus-larsen
 voice: greger
-answer: "Microbes cultured from the saliva of head-and-neck cancer patients turned sugar (glucose) and alcohol (ethanol) into acetaldehyde, a Group 1 carcinogen — the top category, the same one as tobacco smoking. Output was highest at a middling sugar concentration, 100 mM, and fell again when the dose went higher. An antimicrobial peptide — a short germ-killing protein — with bean gum drove acetaldehyde below the level the test could detect, but the microbes sheltering inside the biofilm, the sticky plaque shell, died only once added enzymes dissolved that shell. Laboratory work only: single species in dishes, no human trial, no cancer outcome measured."
+answer: "Microbes cultured from head-and-neck cancer patients' saliva turned sugar (glucose) and alcohol (ethanol) into acetaldehyde, a Group 1 carcinogen, the top category, alongside tobacco smoking. Output peaked at 100 mM sugar. An antimicrobial peptide with bean gum stopped it, but biofilm-sheltered microbes survived until enzymes dissolved the plaque shell. Laboratory dishes only: no human trial, no cancer outcome."
 keyFacts:
   - fact: "Acetaldehyde associated with the consumption of alcoholic beverages is classified a Group 1 human carcinogen — the top category, the same one as tobacco smoking."
     source: s2
@@ -43,20 +43,21 @@ sources:
     doi: "10.1016/s1470-2045(09)70326-2"
     pmid: "19891056"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-preview.webp"
+  hero: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-hero.webp"
+  og: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-og.jpg"
+  previewAlt: "Chains of round mouth bacteria and oval yeast cells held in a sticky"
+  heroAlt: "Magnus Larsen at a research bench, tilting a culture plate toward the window to read"
 referral:
   product: ""
   mayaLog: ""
   benefitGate: ""
 gates:
-  marketolog: "3 variants scored — chosen: curiosity gap (hook lock re-verified 2026-09-02, title kept, 57 chars)"
-  segmentCheck: "PASS 7/8"
+  marketolog: "hook lock verified 2026-09-02 — curiosity gap, 57 chars, title kept (3 variants scored, curiosity gap beat contrarian and number)"
+  segmentCheck: "PASS 7/8 — meta + answer reworked 2026-09-02; weak point: skim-reader stops at the hook"
   factCheck: "verified 2026-09-02 — 38 claims traced, 0 removed, 1 corrected"
   register: "pending Roberta (EN)"
-status: review
+status: published
 ---
 
 ## A carcinogen with a local supply chain

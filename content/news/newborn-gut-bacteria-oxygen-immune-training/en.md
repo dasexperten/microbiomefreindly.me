@@ -1,5 +1,5 @@
 ---
-title: "Air should kill a newborn's first microbe. It breathes instead"
+title: "Air should kill a baby's first microbe. It breathes instead"
 meta: "A Cell study reports one membrane fat lets Bacteroides fragilis — a microbe air should kill — outlast the oxygen of a newborn gut, and tunes immune cells."
 kicker: "Bacteroides fragilis"
 type: news
@@ -10,7 +10,7 @@ date: 2026-09-02
 asOf: 2026-09-02
 author: magnus-larsen
 voice: greger
-answer: "Bacteroides fragilis builds a fat into its own membrane, an alpha-galactosylceramide. New work in Cell reports that fat seals the membrane against proton leak — the slow escape of the charge a bacterium runs on — so a strict anaerobe, an organism air is supposed to poison, can outlast the oxygen of a newborn gut. The same molecule calibrates the development of natural killer T cells, the immune cells that read fats instead of proteins. One molecule, two jobs. Mice and molecules only; no human infants were tested."
+answer: "Bacteroides fragilis builds a fat into its membrane, an alpha-galactosylceramide. New work in Cell reports that fat seals the membrane against proton leak, so a strict anaerobe air should poison outlasts the oxygen of a newborn gut, and the same molecule calibrates the natural killer T cells that read fats. Mice and molecules only; no human infants were tested."
 keyFacts:
   - fact: "Bacteroides fragilis needs its glycolipid BfaGC specifically in early life, when transient oxygen in the newborn gut is a bottleneck for strict anaerobes."
     source: s1
@@ -62,10 +62,11 @@ sources:
     doi: "10.1073/pnas.1718635115"
     pmid: "29610310"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-preview.webp"
+  hero: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-hero.webp"
+  og: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-og.jpg"
+  previewAlt: "Short rods of Bacteroides fragilis on a pale mucus film, membrane rims catching light as faint air motes drift by"
+  heroAlt: "Magnus Larsen at a morning lab bench, holding a plain sealed culture vessel up to the light as he explains a finding"
 referral:
   product: ""
   mayaLog: ""

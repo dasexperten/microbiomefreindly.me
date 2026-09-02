@@ -10,7 +10,7 @@ date: 2026-09-02
 asOf: 2026-09-02
 author: magnus-larsen
 voice: greger
-answer: "Bacillus coagulans is a lactic-acid-producing bacterium that survives as a spore — a dormant, armoured copy of itself. It also carries a newer, validly published name, Heyndrickxia coagulans: same organism, and the older name is still the one to use in medicine. It is a passenger in the human body, not a resident: it germinates (wakes up), works, and washes out. Trials show lower salivary Streptococcus mutans — the cavity bacterium in saliva — and milder IBS symptoms; the same organism also spoils warm, acidic food."
+answer: "Bacillus coagulans is a lactic-acid bacterium that survives as a dormant, armoured spore and is a passenger, not a resident: it germinates, works, washes out. Heyndrickxia coagulans is the same organism's newer valid name; medicine still uses the old one. Trials show lower salivary Streptococcus mutans (the cavity bacterium) and milder IBS symptoms, though it also spoils warm, acidic food."
 keyFacts:
   - fact: "It is a spore-former that behaves like a lactic acid bacterium — strain LMG S-24828, isolated from healthy human faeces, survived simulated digestion and germinated in the human gut."
     source: s3
@@ -86,10 +86,11 @@ entity:
   wikidata: "Q2603895"
   ncbiTaxId: "1398"
 images:
-  preview: ""
+  preview: "/assets/img/mbf/bacteria/bacillus-coagulans/bacillus-coagulans-preview.webp"
   hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  og: "/assets/img/mbf/bacteria/bacillus-coagulans/bacillus-coagulans-og.jpg"
+  previewAlt: "Rod-shaped Bacillus coagulans cells with a single pale oval spore at one end, drawn in navy and teal on an ivory ground"
+  heroAlt: "Microbiologist Magnus Larsen at a bench in morning light, holding a culture plate of Bacillus coagulans up to the window"
 referral:
   product: ""
   mayaLog: ""

@@ -1,5 +1,5 @@
 ---
-title: "Actinomycetota: the phylum that guards infant guts and causes TB"
+title: "Actinomycetota: the phylum that guards infants and causes TB"
 meta: "Actinomycetota, formerly Actinobacteria: the phylum of Bifidobacterium and of tuberculosis. Where it lives in your body, what it does for and against you."
 kicker: "Actinomycetota"
 type: bacteria
@@ -10,7 +10,7 @@ date: 2026-09-02
 asOf: 2026-09-02
 author: magnus-larsen
 voice: greger
-answer: "Actinomycetota, the phylum formerly called Actinobacteria, is a group of Gram-positive, high-GC bacteria — thick-walled cells whose DNA is unusually rich in two of its four letters — that lives in your gut, mouth and skin. It gives us Bifidobacterium and most natural antibiotics; it also holds the bacteria behind tuberculosis and diphtheria, and the skin resident associated with acne. Same family tree, opposite outcomes — what decides is the species, the site and the host, meaning the person it lives in."
+answer: "Actinomycetota, formerly Actinobacteria, is a phylum of Gram-positive, high-GC bacteria (DNA rich in two of its four letters) in your gut, mouth and skin. It gives us Bifidobacterium and most natural antibiotics, plus the bacteria behind tuberculosis and diphtheria and the acne-linked skin resident. Same family tree, opposite outcomes: species, site and host, the person it lives in, decide."
 keyFacts:
   - fact: "The name Actinomycetota was validly published in 2021, when 42 prokaryotic phyla received formal names; Actinobacteria is the older name and still appears in most papers."
     source: s1
@@ -100,10 +100,11 @@ entity:
   wikidata: "Q62573436"
   ncbiTaxId: "201174"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-preview.webp"
+  hero: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-hero.webp"
+  og: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-og.jpg"
+  previewAlt: "Forked, Y-shaped bifidobacterium rods resting in a pale milk film, drawn in warm light"
+  heroAlt: "Magnus Larsen at a lab bench holding a culture plate up to the window light, studying its colonies"
 referral:
   product: ""
   mayaLog: ""
