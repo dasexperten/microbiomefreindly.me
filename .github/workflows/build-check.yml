@@ -1,0 +1,39 @@
+# Build + gate on every push and PR. Deploy is a separate, explicit step (tools/deploy.sh from a tree
+# identical to origin/main — organizacia HARD_RULES §8.1) so a red build never reaches Cloudflare.
+name: build-check
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - run: node src/build.mjs
+      - run: node src/check.mjs
+      - uses: actions/upload-artifact@v4
+        with: { name: dist, path: dist, retention-days: 7 }
+  deploy:
+    # runs only on main, only after the gate, only if the Cloudflare token secret exists in this repo
+    needs: build
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - name: deploy from main
+        if: ${{ secrets.CLOUDFLARE_API_TOKEN != '' }}
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: 081ddb85cb399ad62a70210328d744fc
+          PAGES_PROJECT: microbiomefriendly-portal
+        run: bash tools/deploy.sh
+      - name: no token
+        if: ${{ secrets.CLOUDFLARE_API_TOKEN == '' }}
+        run: echo "CLOUDFLARE_API_TOKEN secret not set in this repo — deploy skipped (manual tools/deploy.sh from origin/main)"

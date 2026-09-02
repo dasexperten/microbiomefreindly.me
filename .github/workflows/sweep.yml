@@ -1,0 +1,30 @@
+# MB2 — weekly microbiome / enzyme news sweep for the portal (Magnus Larsen, organizacia CADENCE § Magnus).
+# The schedule below is the GitHub-side clock of the sweep only. The seat's own Cloudflare cron stays
+# empty until the Owner opens it (Owner 2026-09-02). The sweep never writes prose: it lists candidates
+# with their source, and the rewrite is Magnus's hand through blog-writer.
+name: sweep
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '25 6 * * 1'   # Mondays 06:25 UTC — stagger minute 25 = the seat's lane minute (fleet/lanes.json)
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node src/sweep.mjs --days 14 --max 25
+      - name: open PR with the sweep file
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: sweep/${{ github.run_id }}
+          title: 'MB2 sweep ${{ github.run_id }} — candidates for Magnus'
+          commit-message: 'MB2 sweep: candidate items with named sources'
+          body: |
+            Weekly sweep (registry rows only, HARD_RULES §0b). Every item carries its registry row and a URL.
+            Magnus picks, rewrites through blog-writer, gates (marketolog · fact-check · segment-check), hands to Roberta.
+          add-paths: data/sweep/*.json

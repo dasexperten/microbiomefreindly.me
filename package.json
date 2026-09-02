@@ -1,0 +1,19 @@
+{
+  "name": "microbiomefriendly-portal",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Microbiome Friendly — multilingual microbiome news and bacteria encyclopedia. Static site built from content/ and deployed to Cloudflare Pages.",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "node src/build.mjs",
+    "check": "node src/check.mjs",
+    "sweep": "node src/sweep.mjs",
+    "serve": "npx --yes serve dist -l 4321",
+    "deploy": "bash tools/deploy.sh"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "marked": "^15.0.0"
+  }
+}

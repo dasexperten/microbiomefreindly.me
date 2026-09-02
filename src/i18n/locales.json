@@ -1,0 +1,25 @@
+{
+  "note": "18 locales = the 16 of dasexperten.com (hreflang set verified live 2026-08-05 by Jurgen Witt) + ja + ko (Owner 2026-09-02). Order = Owner locale priority (Julian Farah LEARNING §7a) then the rest alphabetically; ja/ko appended as new markets.",
+  "default": "en",
+  "order": ["en", "es", "vi", "ru", "de", "pt-BR", "ar", "uk", "pl", "tl", "ms", "fr", "ro", "th", "tr", "zh-Hans", "ja", "ko"],
+  "meta": {
+    "en":      { "name": "English",            "native": "English",           "dir": "ltr", "html": "en" },
+    "es":      { "name": "Spanish",            "native": "Español",           "dir": "ltr", "html": "es" },
+    "vi":      { "name": "Vietnamese",         "native": "Tiếng Việt",        "dir": "ltr", "html": "vi" },
+    "ru":      { "name": "Russian",            "native": "Русский",           "dir": "ltr", "html": "ru" },
+    "de":      { "name": "German",             "native": "Deutsch",           "dir": "ltr", "html": "de" },
+    "pt-BR":   { "name": "Portuguese (Brazil)","native": "Português",         "dir": "ltr", "html": "pt-BR" },
+    "ar":      { "name": "Arabic",             "native": "العربية",           "dir": "rtl", "html": "ar" },
+    "uk":      { "name": "Ukrainian",          "native": "Українська",        "dir": "ltr", "html": "uk" },
+    "pl":      { "name": "Polish",             "native": "Polski",            "dir": "ltr", "html": "pl" },
+    "tl":      { "name": "Filipino",           "native": "Filipino",          "dir": "ltr", "html": "tl" },
+    "ms":      { "name": "Malay",              "native": "Bahasa Melayu",     "dir": "ltr", "html": "ms" },
+    "fr":      { "name": "French",             "native": "Français",          "dir": "ltr", "html": "fr" },
+    "ro":      { "name": "Romanian",           "native": "Română",            "dir": "ltr", "html": "ro" },
+    "th":      { "name": "Thai",               "native": "ไทย",               "dir": "ltr", "html": "th" },
+    "tr":      { "name": "Turkish",            "native": "Türkçe",            "dir": "ltr", "html": "tr" },
+    "zh-Hans": { "name": "Chinese (Simplified)","native": "简体中文",          "dir": "ltr", "html": "zh-Hans" },
+    "ja":      { "name": "Japanese",           "native": "日本語",             "dir": "ltr", "html": "ja" },
+    "ko":      { "name": "Korean",             "native": "한국어",             "dir": "ltr", "html": "ko" }
+  }
+}

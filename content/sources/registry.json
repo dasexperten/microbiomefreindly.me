@@ -1,0 +1,15 @@
+{
+  "asOf": "2026-09-02",
+  "law": "organizacia HARD_RULES §0b — only rows in this file may be swept; a broken row is reported as a gap, never faked. Every kept item carries the row id and the item URL.",
+  "owner": "magnus-larsen",
+  "rows": [
+    { "id": "pubmed-gut-trials", "kind": "pubmed", "query": "gut microbiome AND (Akkermansia OR Faecalibacterium OR Bifidobacterium OR Lactobacillus) AND humans[MeSH] AND (Randomized Controlled Trial[Publication Type] OR Meta-Analysis[Publication Type])", "lane": "gut", "status": "on" },
+    { "id": "pubmed-oral", "kind": "pubmed", "query": "oral microbiome AND (Streptococcus mutans OR Porphyromonas gingivalis OR Streptococcus salivarius) AND (probiotic OR enzyme)", "lane": "oral", "status": "on" },
+    { "id": "pubmed-immune-top", "kind": "pubmed", "query": "(microbiome OR microbiota) AND (immune OR macrophage) AND (Nature[Journal] OR Cell[Journal] OR Science[Journal] OR \"Nature Microbiology\"[Journal] OR \"Cell Host Microbe\"[Journal] OR Gut[Journal])", "lane": "immunity", "status": "on" },
+    { "id": "pubmed-enzymes", "kind": "pubmed", "query": "(dextranase OR papain OR bromelain OR lysozyme OR \"glucose oxidase\") AND (biofilm OR dental plaque OR oral)", "lane": "enzymes", "status": "on" },
+    { "id": "rss-eurekalert-microbiology", "kind": "rss", "url": "https://www.eurekalert.org/rss/microbiology.xml", "lane": "gut", "status": "pilot" },
+    { "id": "rss-nature-microbiology", "kind": "rss", "url": "https://www.nature.com/nmicrobiol.rss", "lane": "immunity", "status": "pilot" },
+    { "id": "rss-isapp", "kind": "rss", "url": "https://isappscience.org/feed/", "lane": "gut", "status": "pilot" },
+    { "id": "rss-gut-bmj", "kind": "rss", "url": "https://gut.bmj.com/rss/current.xml", "lane": "gut", "status": "pilot" }
+  ]
+}

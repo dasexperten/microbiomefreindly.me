@@ -1,2 +1,62 @@
-# microbiomefreindly.me
-SSOT for all the information regarding the website www.microbiomefreindly.me
+# microbiomefriendly.me — the portal
+
+**What this repo is.** The single source of truth (SSOT) for the **Microbiome Friendly news portal**: a multilingual site that finds interesting microbiome, probiotic, enzyme and immunity science, rewrites it for a wide public, and keeps a plain-words **bacteria encyclopedia** (phyla, genera, species — what each one does for you and against you). Built as a static site, deployed to **Cloudflare Pages**, later moved onto the live domain **microbiomefriendly.me** (today a product brand site, EN + `/ru/`, source in `das-architektura/PROJECTS/microbiomefriendly`).
+
+**Owner brief (2026-09-02):** portal first on Cloudflare, then the domain; 18 languages (the 16 of dasexperten.com + Japanese + Korean); two generated images per topic — a *preview* (macro, "zoomed") and a *hero* with a house character from R2; SEO/GEO wording with Jurgen and Julian; later phases: consulting (Lauda · Roberta · Alexandra) and a products section.
+
+**Lead seat:** Magnus Larsen (`magnus-larsen`, `biome@dasexperten.com`) — writes, sweeps, briefs. Org law and roster: [dasexperten/organizacia](https://github.com/dasexperten/organizacia) (`HARD_RULES.md`, `agents/magnus-larsen/CHARTER.md`). See [AGENTS.md](./AGENTS.md) for the session protocol.
+
+---
+
+## Browse the repo
+
+| Path | What you find there |
+|---|---|
+| [`content/`](./content/) | **The articles.** One folder per article, one Markdown file per language (`en.md`, `ru.md`, …), plus `<lang>.speech.md` (read-aloud version) and `image-brief.md` (Magnus's plain-words brief for Brand Studio). `news/` · `bacteria/` · `hubs/` · `sources/registry.json` (the only allowed scrape list) |
+| [`docs/CONTENT_SCHEMA.md`](./docs/CONTENT_SCHEMA.md) | The article file format: front-matter fields, gates, sources, images, referral rules |
+| [`docs/CONTENT_PIPELINE.md`](./docs/CONTENT_PIPELINE.md) | Sweep → pick → write → refute → gate → RU → brief → images → translate → publish. Who holds each gate |
+| [`docs/SEO_BRIEF.md`](./docs/SEO_BRIEF.md) | Jurgen Witt — URLs, hreflang, titles, JSON-LD, keyword-per-locale law, 10-line checklist |
+| [`docs/GEO_BRIEF.md`](./docs/GEO_BRIEF.md) | Julian Farah — answer-engine citability, entity strategy, `llms.txt`, claim discipline, per-locale engines |
+| [`docs/BRAND_IMAGE_SPEC.md`](./docs/BRAND_IMAGE_SPEC.md) | Marika Nowicka — the two image slots (preview 3:2 · hero 16:9 · og 1.91:1), R2 paths, visual language, acceptance checklist, Magnus→Lisa brief template |
+| [`docs/ARCHITECTURE.md`](./docs/ARCHITECTURE.md) | How the site is built and served; locales; what lives on Cloudflare |
+| [`docs/DEPLOY.md`](./docs/DEPLOY.md) | Deploy only from `origin/main`; the exact commands; how to verify live |
+| [`docs/ROLES_AND_GATES.md`](./docs/ROLES_AND_GATES.md) | Which seat does what on this portal, and what each one never does |
+| [`docs/LOCALES.md`](./docs/LOCALES.md) | The 18 locales, codes, priority order, what exists per locale |
+| [`src/build.mjs`](./src/build.mjs) | The static site generator (`npm run build` → `dist/`) |
+| [`src/check.mjs`](./src/check.mjs) | The pre-publish gate a script can run (`npm run check`) |
+| [`src/sweep.mjs`](./src/sweep.mjs) | The news sweep: PubMed + RSS from the registry → `data/sweep/<date>.json` |
+| [`src/i18n/`](./src/i18n/) | `locales.json` (codes, direction, order) · `ui.json` (interface strings, all 18 locales) |
+| [`src/assets/`](./src/assets/) | Stylesheet (brand tokens of microbiomefriendly.me), logo, favicon |
+| [`data/sweep/`](./data/sweep/) | Dated sweep results — candidates with their named source; nothing here is prose |
+| [`tools/deploy.sh`](./tools/deploy.sh) | Build + check + `wrangler pages deploy` from a tree identical to `origin/main` |
+| [`.github/workflows/`](./.github/workflows/) | `build-check` on every push/PR (deploys from `main` when the token secret exists) · `sweep` weekly → PR |
+
+## Run it
+
+```bash
+npm install
+npm run build          # → dist/   (PORTAL_ORIGIN=https://… to change the canonical host)
+npm run check          # gate: exits 1 on any FAIL
+npm run serve          # local preview on http://localhost:4321
+INCLUDE_REVIEW=1 npm run build   # preview drafts that have not passed the gates yet
+npm run sweep          # MB2 sweep → data/sweep/<today>.json
+npm run deploy         # only from a clean checkout equal to origin/main (docs/DEPLOY.md)
+```
+
+## Live
+
+| Surface | Where | State |
+|---|---|---|
+| Portal (this repo) | `https://microbiomefriendly-portal.pages.dev` — Cloudflare Pages project `microbiomefriendly-portal` | see [docs/DEPLOY.md](./docs/DEPLOY.md) for the last deployed SHA |
+| Brand site | `https://microbiomefriendly.me` (EN + `/ru/`) — Pages project `microbiomefriendly`, source `das-architektura/PROJECTS/microbiomefriendly/public` | live since 2026-06-04, untouched by this repo |
+| Domain move | portal → `microbiomefriendly.me` | later phase: needs the 301 map from the brand pages, Roberta's content go, Mina's hand on DNS (Owner gate on irreversible infra) |
+
+## Laws that shape every file here
+
+- **Facts only.** A number without a named, reachable source is removed, not softened (organizacia HARD_RULES §0b). Every article ends with a generated Sources list; every number in the body carries a `[sN]` marker.
+- **Product facts go through Maya first** (§4c); a product is mentioned at most once, after the mechanism, never in the first half, and only after `benefit-gate` (Magnus CHARTER). The seed batch carries no product mentions.
+- **Write the typed word** (§7a): keywords are measured per locale, never translated. Where nothing is measured (ja, ko today) the page says so in its brief and is written to best understanding.
+- **hreflang honesty:** only locales whose file exists are declared. Empty locales get a chrome page that says the articles are being prepared.
+- **Images:** Magnus describes in plain words → Marika names slot and ratio → Lisa writes the engine prompt and generates on Higgsfield → Marika accepts. Characters only from R2 `refs/characters/`; no invented faces; no product re-synthesis (§4, §4d, §4e-1, §4f).
+- **Typography:** no positive letter-spacing, numbers never split from their unit, no monospace numbers, IBM Plex Mono never (§4h, §4h-2).
+- **GitHub-first, deploy from `main` only** (§0, §8.1). Done means the commit is on `origin/main` and, when live is needed, the live page shows it.

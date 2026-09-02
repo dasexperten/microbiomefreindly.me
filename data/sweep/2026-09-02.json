@@ -1,0 +1,380 @@
+{
+  "asOf": "2026-09-02",
+  "days": 14,
+  "items": [
+    {
+      "row": "pubmed-gut-trials",
+      "lane": "gut",
+      "pmid": "42678923",
+      "doi": "10.12659/MSM.953589",
+      "title": "Probiotics Accelerate Microbiota and Metabolic Pathway Recovery Following Colonoscopy Bowel Preparation in Ulcerative Colitis.",
+      "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+      "date": "2026/09/01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42678923/",
+      "authors": "Ma X, Guan J, Liu G"
+    },
+    {
+      "row": "pubmed-gut-trials",
+      "lane": "gut",
+      "pmid": "42640624",
+      "doi": "10.1080/19490976.2026.2722835",
+      "title": "Gut microbial diversity at baseline conditions the clinical, microbiome, and metabolic response to paraprobiotic Lactiplantibacillus plantarum LRCC5282 in overweight adults.",
+      "journal": "Gut microbes",
+      "date": "2026/12/31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42640624/",
+      "authors": "Lim A, Kim S, Kwak W"
+    },
+    {
+      "row": "pubmed-gut-trials",
+      "lane": "gut",
+      "pmid": "42635599",
+      "doi": "10.1093/ecco-jcc/jjag120",
+      "title": "2'-Fucosyllactose modulates gut microbiota and systemic metabolism in mild-to-moderate ulcerative colitis: a randomized crossover trial.",
+      "journal": "Journal of Crohn's & colitis",
+      "date": "2026/08/05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42635599/",
+      "authors": "Kennedy JM, De Silva AN, Morales PS"
+    },
+    {
+      "row": "pubmed-immune-top",
+      "lane": "immunity",
+      "pmid": "42679821",
+      "doi": "10.1016/j.cell.2026.08.011",
+      "title": "Oxygen-responsive bacterial glycosphingolipid links symbiont fitness and immune development in neonatal host.",
+      "journal": "Cell",
+      "date": "2026/09/01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42679821/",
+      "authors": "Heo K, Jung DJ, Yoo JS"
+    },
+    {
+      "row": "pubmed-immune-top",
+      "lane": "immunity",
+      "pmid": "42649394",
+      "doi": "10.1038/s41586-026-10753-8",
+      "title": "Systems vaccinology and the architecture of human immunity.",
+      "journal": "Nature",
+      "date": "2026/08/01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42649394/",
+      "authors": "Pulendran B"
+    },
+    {
+      "row": "pubmed-immune-top",
+      "lane": "immunity",
+      "pmid": "42648293",
+      "doi": "10.1016/j.chom.2026.08.003",
+      "title": "Defined human Clostridia consortia reverse colitis via dual effects of tryptophan metabolites on microbiota and immunity.",
+      "journal": "Cell host & microbe",
+      "date": "2026/08/26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42648293/",
+      "authors": "Oka A, Bongers G, Mishima Y"
+    },
+    {
+      "row": "pubmed-immune-top",
+      "lane": "immunity",
+      "pmid": "42637526",
+      "doi": "10.1136/gutjnl-2026-339128",
+      "title": "Emerging exposure-driven accelerated colorectal carcinogenesis: a model with implications for screening colonoscopy effectiveness.",
+      "journal": "Gut",
+      "date": "2026/08/24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42637526/",
+      "authors": "Truninger K, Easwaran H, Macrae F"
+    },
+    {
+      "row": "pubmed-immune-top",
+      "lane": "immunity",
+      "pmid": "42618450",
+      "doi": "10.1136/gutjnl-2026-339112",
+      "title": "Intestinal flagellin drives multisystem inflammation through TLR5-IL-15-ARA axis.",
+      "journal": "Gut",
+      "date": "2026/08/19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42618450/",
+      "authors": "Geng J, Zhu Y, Chen S"
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Reply to ‘Grounding microbial conservation in ecological principles’",
+      "url": "https://www.nature.com/articles/s41564-026-02463-8",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Grounding microbial conservation in ecological principles",
+      "url": "https://www.nature.com/articles/s41564-026-02462-9",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Advancing equity through community-led, globally connected infectious disease research",
+      "url": "https://www.nature.com/articles/s41564-026-02489-y",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "MetaCAT enables reconstruction of high-quality microbial genomes and their association with host traits from metagenomic data",
+      "url": "https://www.nature.com/articles/s41564-026-02472-7",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Survival of the driest",
+      "url": "https://www.nature.com/articles/s41564-026-02461-w",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Author Correction: Multikingdom and functional gut microbiota markers for autism spectrum disorder",
+      "url": "https://www.nature.com/articles/s41564-026-02496-z",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Micro-engineering the future",
+      "url": "https://www.nature.com/articles/s41564-026-02481-6",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Autodissemination stations suppress <i>Aedes notoscriptus</i> mosquitoes and reduce Buruli ulcer risk in urban Australia: a randomized controlled field trial",
+      "url": "https://www.nature.com/articles/s41564-026-02439-8",
+      "date": ""
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Speaker spotlight: Prof. Michael Gänzle on current directions in research on lactobacilli",
+      "url": "https://isappscience.org/speaker-spotlight-prof-michael-ganzle-on-current-directions-in-research-on-lactobacilli/",
+      "date": "Sat, 29 Aug 2026 23:05:53"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Better study design for better probiotic science",
+      "url": "https://isappscience.org/better-study-design-for-better-probiotic-science/",
+      "date": "Wed, 19 Aug 2026 04:56:15"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Expert insights into skin microbiome research and translation",
+      "url": "https://isappscience.org/expert-insights-into-skin-microbiome-research-and-translation/",
+      "date": "Mon, 27 Jul 2026 05:02:04"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Probiotics with antibiotics: Let&#8217;s follow the evidence",
+      "url": "https://isappscience.org/probiotics-with-antibiotics-evidence/",
+      "date": "Thu, 11 Jun 2026 02:51:27"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "ISAPP welcomes participation in upcoming one-day scientific symposium in Tokyo",
+      "url": "https://isappscience.org/upcoming-one-day-symposium-in-tokyo/",
+      "date": "Wed, 27 May 2026 18:26:10"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "When probiotics guidelines differ: a practical guide for clinicians and researchers",
+      "url": "https://isappscience.org/when-probiotics-guidelines-differ-a-practical-guide-for-clinicians-and-researchers/",
+      "date": "Wed, 06 May 2026 05:26:22"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "New ISAPP publication sheds light on the translation of probiotic research into clinical guidelines",
+      "url": "https://isappscience.org/translation-of-probiotic-research-into-clinical-guidelines/",
+      "date": "Mon, 27 Apr 2026 17:57:48"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Alcohol in fermented foods: Considerations for pregnancy and childhood",
+      "url": "https://isappscience.org/alcohol-in-fermented-foods-considerations-for-pregnancy-and-childhood/",
+      "date": "Thu, 02 Apr 2026 21:33:29"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Biotics, oral microbiota and potential for dental applications",
+      "url": "https://isappscience.org/biotics-oral-microbiota-and-potential-for-dental-applications/",
+      "date": "Tue, 24 Mar 2026 21:58:05"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Fido Needs an Antibiotic: Are There Strategies to Maintain Gut Integrity and Restore Gut Microbiota?",
+      "url": "https://isappscience.org/fido-needs-an-antibiotic/",
+      "date": "Mon, 23 Feb 2026 22:34:52"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "How do you know whether your gut microbiome is in good shape?",
+      "url": "https://isappscience.org/how-do-you-know-healthy-microbiome/",
+      "date": "Wed, 28 Jan 2026 17:32:45"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Canada’s Fermented Foods Initiative Hosts Inaugural Workshop: A Cross-Sector Conversation Begins",
+      "url": "https://isappscience.org/canadas-fermented-foods-initiative-hosts-inaugural-workshop-a-cross-sector-conversation-begins/",
+      "date": "Wed, 28 Jan 2026 00:52:40"
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "New look on oats in coeliac disease",
+      "url": "http://gut.bmj.com/cgi/content/short/75/9/1641?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "CD177+ neutrophils: new drivers of liver regeneration",
+      "url": "http://gut.bmj.com/cgi/content/short/75/9/1642?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Just right: neutrophils exemplify the Goldilocks principle in liver regeneration",
+      "url": "http://gut.bmj.com/cgi/content/short/75/9/1644?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Withdrawal time, CADe and adenoma detection: a prospective study",
+      "url": "http://gut.bmj.com/cgi/content/short/75/9/1647?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Adenoma detection and subsequent colorectal cancer risk: is the race really over?",
+      "url": "http://gut.bmj.com/cgi/content/short/75/9/1651?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Global guidelines on diverticular disease of the colon: the Fiesole Consensus report",
+      "url": "http://gut.bmj.com/cgi/content/short/75/9/1654?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Low-frequency repetitive transcranial magnetic stimulation attenuates visceral pain in IBS with diarrhoea via inhibition of the medial prefrontal cortex",
+      "url": "http://gut.bmj.com/cgi/content/short/75/9/1682?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Acute abdomen after endoscopic treatment of caecal angiodysplasia",
+      "url": "http://gut.bmj.com/cgi/content/short/75/9/1694?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Quantifying artificial sweeteners and emulsifiers in Crohns disease and its relationship with disease activity: the ENIGMA study - a novel and targeted approach",
+      "url": "http://gut.bmj.com/cgi/content/short/75/9/1695?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Dysbiotic microbiota trigger colitis-associated colorectal cancer and imprint a distinctive bile acid profile in a PSC-IBD model",
+      "url": "http://gut.bmj.com/cgi/content/short/75/9/1711?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Prospective evaluation of radical surgery for adenocarcinoma of oesophagogastric junction: real-world insights from the CLAEG study",
+      "url": "http://gut.bmj.com/cgi/content/short/75/9/1726?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "KRAS-driven protein disulfide isomerase family A member 6 expression suppresses PRKR-like endoplasmic reticulum kinase-mediated immunogenic cell death to desensitise pancreatic ductal adenocarcinoma to immune checkpoint blockers",
+      "url": "http://gut.bmj.com/cgi/content/short/75/9/1739?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "NSUN6 deficiency drives immune suppression in pancreatic cancer via the KDM5A-CCL2-macrophage axis",
+      "url": "http://gut.bmj.com/cgi/content/short/75/9/1753?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "CD177+ neutrophils drive extracellular matrix remodelling and HGF-alpha release in ALPPS-induced liver regeneration",
+      "url": "http://gut.bmj.com/cgi/content/short/75/9/1771?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Targeting cancer stem cells enhances multikinase inhibitor therapy in metabolic dysfunction-associated steatotic liver disease-related hepatocellular carcinoma",
+      "url": "http://gut.bmj.com/cgi/content/short/75/9/1786?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Targeting ADAR1-mediated RNA editing inhibits hepatic stellate cell activation and liver fibrosis by enhancing HSC-intrinsic innate immunity",
+      "url": "http://gut.bmj.com/cgi/content/short/75/9/1801?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "PCK1 deficiency promotes MASH-HCC progression by 12-HETE-induced CD8+ T cell dysfunction",
+      "url": "http://gut.bmj.com/cgi/content/short/75/9/1816?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Autophagy of Kupffer cells modulates CD8+ T cell activation in primary biliary cholangitis",
+      "url": "http://gut.bmj.com/cgi/content/short/75/9/1831?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Autoimmune gastritis: a hidden gateway to cardia and oesophageal cancers beyond non-cardia gastric adenocarcinoma",
+      "url": "http://gut.bmj.com/cgi/content/short/75/9/1845?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Decoding HBV-specific adaptive immunity: from natural clearance to cure",
+      "url": "http://gut.bmj.com/cgi/content/short/75/9/1857?rss=1",
+      "date": ""
+    }
+  ],
+  "gaps": [
+    {
+      "row": "rss-eurekalert-microbiology",
+      "error": "HTTP 404"
+    }
+  ]
+}
