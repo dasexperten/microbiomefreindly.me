@@ -23,7 +23,7 @@ import { marked } from 'marked';
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const CONTENT = join(ROOT, 'content');
 const DIST = join(ROOT, 'dist');
-const ORIGIN = process.env.PORTAL_ORIGIN || 'https://microbiomefriendly-portal.pages.dev';
+const ORIGIN = process.env.PORTAL_ORIGIN || 'https://microbiomefriendly.me';
 const BRAND = 'Microbiome Friendly';
 const BUILD_DATE = process.env.BUILD_DATE || new Date().toISOString().slice(0, 10);
 const AUTHOR = {
@@ -31,7 +31,8 @@ const AUTHOR = {
   avatar: 'https://org.dasexperten.com/assets/agents/magnus-larsen.png',
   url: `${ORIGIN}/about`,
 };
-const BRAND_SITE = 'https://microbiomefriendly.me';
+/* the product site, moved off the apex when the portal took it (Owner 2026-09-03) */
+const BRAND_SITE = 'https://formulas.microbiomefriendly.me';
 /* the stylesheet's own fingerprint — changes whenever the file changes, never otherwise */
 const CSS_V = createHash('sha1').update(readFileSync(join(ROOT, 'src/assets/css/portal.css'))).digest('hex').slice(0, 10);
 const LOCALES = JSON.parse(readFileSync(join(ROOT, 'src/i18n/locales.json'), 'utf8'));
@@ -214,7 +215,7 @@ ${bodyHtml}
     <div><img class="ftr__mark" src="/assets/img/logo-mark@2x.png" alt="${attr(t.siteName)}" width="144" height="120"><p class="brandline">${esc(t.tagline)}.</p></div>
     <div><h4>${esc(t.nav.news)}</h4><a href="${typeUrl(lang, 'news')}">${esc(t.allNews)}</a><a href="${typeUrl(lang, 'hubs')}">${esc(t.nav.topics)}</a></div>
     <div><h4>${esc(t.nav.bacteria)}</h4><a href="${typeUrl(lang, 'bacteria')}">${esc(t.allBacteria)}</a><a href="${aboutUrl(lang)}">${esc(t.nav.about)}</a></div>
-    <div><h4>${esc(t.brandSite)}</h4><a href="${BRAND_SITE}${lang === 'ru' ? '/ru/' : '/'}" rel="noopener">microbiomefriendly.me</a><a href="mailto:biome@dasexperten.com">biome@dasexperten.com</a></div>
+    <div><h4>${esc(t.brandSite)}</h4><a href="${BRAND_SITE}${lang === 'ru' ? '/ru/' : '/'}" rel="noopener">formulas.microbiomefriendly.me</a><a href="mailto:biome@dasexperten.com">biome@dasexperten.com</a></div>
   </div>
   <div class="disclaimer">${esc(t.disclaimer)}</div>
   <div class="ftr__langs">${footLangs}</div>
@@ -396,7 +397,14 @@ function build() {
   }
   // Cloudflare Pages headers / redirects
   writeFileSync(join(DIST, '_headers'), `/*\n  X-Content-Type-Options: nosniff\n  X-Frame-Options: SAMEORIGIN\n  Referrer-Policy: strict-origin-when-cross-origin\n  Permissions-Policy: geolocation=(), microphone=(), camera=()\n\n/assets/img/*\n  Cache-Control: public, max-age=31536000, immutable\n\n/assets/flags/*\n  Cache-Control: public, max-age=31536000, immutable\n\n/assets/css/*\n  Cache-Control: public, max-age=0, must-revalidate\n`);
-  writeFileSync(join(DIST, '_redirects'), `/index.html / 301\n`);
+  /* the product site's own pages, moved to formulas. on 2026-09-03 — never a path the portal serves */
+  const BRAND_PATHS = ['products', 'quiz', 'science', 'journal', 'standard', 'strains', 'akkermagic', 'akkermansia', 'glp1', 'faq', 'terms', 'privacy'];
+  const brandRedirects = BRAND_PATHS.flatMap((x) => [
+    `/${x} https://formulas.microbiomefriendly.me/${x} 301`,
+    `/${x}.html https://formulas.microbiomefriendly.me/${x} 301`,
+    `/ru/${x} https://formulas.microbiomefriendly.me/ru/${x} 301`,
+  ]).join('\n');
+  writeFileSync(join(DIST, '_redirects'), `/index.html / 301\n${brandRedirects}\n`);
   // manifest for check.mjs
   writeFileSync(join(DIST, 'build-manifest.json'), JSON.stringify({ origin: ORIGIN, buildDate: BUILD_DATE, liveLangs, pages, clusters: clusters.map((c) => ({ type: c.type, slug: c.slug, langs: Object.keys(c.langs) })) }, null, 2));
   console.log(`built ${pages} article pages · ${clusters.length} clusters · locales live: ${liveLangs.join(' ')} · origin ${ORIGIN}`);

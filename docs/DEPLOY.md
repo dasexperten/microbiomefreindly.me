@@ -8,7 +8,7 @@
 |---|---|
 | Cloudflare account | `081ddb85cb399ad62a70210328d744fc` |
 | Pages project | `microbiomefriendly-portal` (direct upload, not git-connected) |
-| URL | `https://microbiomefriendly-portal.pages.dev` |
+| URL | `https://microbiomefriendly.me` + `www` (also `microbiomefriendly-portal.pages.dev`) |
 | Token | CF Cloud Master from the organizacia `secrets` branch (`SECRETS/cloudflare.md`) — read at deploy time, never printed, never committed; or the `CLOUDFLARE_API_TOKEN` secret of this repo for CI |
 
 ## How
@@ -29,12 +29,15 @@ curl -s https://microbiomefriendly-portal.pages.dev/BUILD_SHA      # must equal 
 curl -sI https://microbiomefriendly-portal.pages.dev/bacteria/akkermansia-muciniphila | head -1
 ```
 
-## Domain move (later phase — not done)
+## Domain move — done 2026-09-03 (Owner)
 
-1. Roberta's content go; Jurgen's 301 map from every live brand-site URL to its portal target (brand pages that stay must keep their URLs or move under a path).
-2. Mina: attach `microbiomefriendly.me` + `www` to the portal project, detach from `microbiomefriendly` — irreversible-looking DNS change → Owner's word first (§0h).
-3. `PORTAL_ORIGIN=https://microbiomefriendly.me npm run deploy` so canonicals, hreflang and sitemaps point at the domain.
+1. `formulas.microbiomefriendly.me` attached to the product-site project `microbiomefriendly`, DNS CNAME → `microbiomefriendly.pages.dev`, verified 200.
+2. Apex and `www` detached from `microbiomefriendly`.
+3. Apex and `www` attached to `microbiomefriendly-portal`; both CNAMEs repointed to `microbiomefriendly-portal.pages.dev`, proxied.
+4. Portal rebuilt with `PORTAL_ORIGIN=https://microbiomefriendly.me` (canonicals, hreflang, sitemaps, OG) and the footer link pointing at the formulas site.
+5. Old brand paths redirect to `formulas.` from `dist/_redirects`.
 
+Mail is untouched: the `mail` A record, MX and DMARC stay as they were.
 ## Deploy log
 
 | Date | SHA | Who | Result |
