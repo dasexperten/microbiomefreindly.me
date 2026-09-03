@@ -139,6 +139,28 @@ function langSwitcher(lang, available, urlFor) {
   return `<nav class="lang" aria-label="${attr(UI[lang].languages)}">${items}</nav>`;
 }
 
+
+/* Line icons, 24 px, stroke = currentColor. Drawn for this portal: a page of news, a rod cell,
+   a set of topic tiles, and the author. No third-party icon set, nothing to license. */
+const ICON = {
+  news: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h12v14H5.5A1.5 1.5 0 0 1 4 17.5z"/><path d="M16 9h3.5a.5.5 0 0 1 .5.5v8a1.5 1.5 0 0 1-3 0V9"/><path d="M7 8.5h6M7 12h6M7 15.5h4"/></svg>',
+  bacteria: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="12" rx="7.5" ry="4.5" transform="rotate(-28 12 12)"/><circle cx="10" cy="11" r="1.1" fill="currentColor" stroke="none"/><circle cx="13.6" cy="13" r="1.1" fill="currentColor" stroke="none"/><path d="M5.2 7.4 3.4 5.9M18.8 16.6l1.8 1.5M17.6 6.6l1.6-1.4M6.4 17.4l-1.6 1.4"/></svg>',
+  topics: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="7" height="7" rx="1.6"/><rect x="13.5" y="3.5" width="7" height="7" rx="1.6"/><rect x="3.5" y="13.5" width="7" height="7" rx="1.6"/><rect x="13.5" y="13.5" width="7" height="7" rx="1.6"/></svg>',
+  about: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8.2" r="3.6"/><path d="M4.8 19.5c.6-3.6 3.6-5.8 7.2-5.8s6.6 2.2 7.2 5.8"/></svg>',
+};
+function tabBar(lang, current) {
+  const t = UI[lang];
+  const items = [
+    ['news', typeUrl(lang, 'news'), t.nav.news],
+    ['bacteria', typeUrl(lang, 'bacteria'), t.nav.bacteria],
+    ['topics', typeUrl(lang, 'hubs'), t.nav.topics],
+    ['about', aboutUrl(lang), t.nav.about],
+  ];
+  return `<nav class="tabbar" aria-label="${attr(t.nav.news)} · ${attr(t.nav.bacteria)} · ${attr(t.nav.topics)} · ${attr(t.nav.about)}">${items
+    .map(([k, u, label]) => `<a href="${u}"${current === k ? ' aria-current="page"' : ''}>${ICON[k]}<span>${esc(label)}</span></a>`)
+    .join('')}</nav>`;
+}
+
 function layout({ lang, title, desc, url, alternates, bodyHtml, jsonld, ogImage, current, type, dateMod }) {
   const t = UI[lang]; const meta = LOCALES.meta[lang];
   const hrefl = alternates.map((a) => `<link rel="alternate" hreflang="${LOCALES.meta[a.lang].html}" href="${abs(a.url)}">`).join('\n  ');
@@ -183,6 +205,7 @@ function layout({ lang, title, desc, url, alternates, bodyHtml, jsonld, ogImage,
 <main>
 ${bodyHtml}
 </main>
+${tabBar(lang, current)}
 <footer class="ftr"><div class="wrap">
   <div class="ftr__top">
     <div><img class="ftr__mark" src="/assets/img/logo-mark@2x.png" alt="${attr(t.siteName)}" width="144" height="120"><p class="brandline">${esc(t.tagline)}.</p></div>
