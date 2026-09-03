@@ -83,35 +83,28 @@ sup{font-size:.6em;}
 .lang .code{font:600 10px/1 var(--sub);letter-spacing:0;text-transform:uppercase;white-space:nowrap;}
 /* Phone and tablet: the menu stays visible (Owner 2026-09-03 — the titles were hidden below 860 px
    with nothing to replace them). */
-/* ---------- mobile bottom tab bar (Owner 2026-09-03) ----------
-   Icons over labels in the navy of the language ribbon, so the menu is always in reach on a phone.
-   Desktop keeps the top nav and never shows this bar. */
-.tabbar{display:none;}
+/* ---------- header icons (phone) ----------
+   The text menu is the desktop menu and does not change. Below 860 px the same four destinations
+   become icon buttons on the same row, right of the mark, in the brand navy (Owner 2026-09-03). */
+.hdr__icons{display:none;}
 @media(max-width:860px){
-  .hdr__nav{display:none;}                       /* the tab bar carries the menu here */
-  .hdr__in{flex-wrap:nowrap;gap:10px;padding:10px 5%;justify-content:flex-start;}
+  .hdr__nav{display:none;}
+  .hdr__icons{display:flex;align-items:center;gap:2px;margin-inline-start:6px;}
+  .hdr__icons a{display:flex;align-items:center;justify-content:center;width:44px;height:44px;
+    border-radius:var(--r);color:var(--navy);}
+  .hdr__icons a svg{width:24px;height:24px;display:block;}
+  .hdr__icons a:active{background:var(--ground-2);}
+  .hdr__icons a[aria-current="page"]{background:var(--navy);color:#fff;}
+  .hdr__in{flex-wrap:nowrap;gap:8px;padding:10px 4%;}
   .hdr__logo{width:84px;height:44px;flex:none;}
   .hdr__logo img{position:absolute;height:80px;top:calc(50% - 40px + 32px);}
-  body{padding-bottom:calc(66px + env(safe-area-inset-bottom,0px));}
-  .ftr{margin-bottom:0;}
-  .tabbar{display:grid;grid-template-columns:repeat(4,1fr);position:fixed;inset-inline:0;bottom:0;z-index:60;
-    background:var(--navy);border-top:1px solid rgba(255,255,255,.10);
-    padding-bottom:env(safe-area-inset-bottom,0px);box-shadow:0 -6px 20px rgba(31,42,62,.18);}
-  .tabbar a{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;
-    padding:9px 4px 10px;color:rgba(255,255,255,.72);font-family:var(--sub);font-weight:600;
-    font-size:11px;text-transform:uppercase;letter-spacing:0;min-height:56px;}
-  .tabbar a svg{width:23px;height:23px;display:block;}
-  .tabbar a span{line-height:1;white-space:nowrap;}
-  .tabbar a[aria-current="page"]{color:#fff;}
-  .tabbar a[aria-current="page"] svg{color:var(--lime);}
-  :lang(ja) .tabbar a,:lang(ko) .tabbar a,:lang(zh-Hans) .tabbar a,:lang(ar) .tabbar a,:lang(th) .tabbar a{text-transform:none;font-size:12px;}
 }
-@media(max-width:520px){
-  .hdr__in{gap:8px;padding:8px 4%;}
+@media(max-width:400px){
+  .hdr__icons{gap:0;}
+  .hdr__icons a{width:40px;height:40px;}
+  .hdr__icons a svg{width:22px;height:22px;}
   .hdr__logo{width:72px;height:40px;}
   .hdr__logo img{height:68px;top:calc(50% - 34px + 28px);}
-  .tabbar a{font-size:10.5px;}
-  .tabbar a svg{width:21px;height:21px;}
 }
 
 /* ---------- buttons ---------- */

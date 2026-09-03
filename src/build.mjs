@@ -148,7 +148,7 @@ const ICON = {
   topics: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="7" height="7" rx="1.6"/><rect x="13.5" y="3.5" width="7" height="7" rx="1.6"/><rect x="3.5" y="13.5" width="7" height="7" rx="1.6"/><rect x="13.5" y="13.5" width="7" height="7" rx="1.6"/></svg>',
   about: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8.2" r="3.6"/><path d="M4.8 19.5c.6-3.6 3.6-5.8 7.2-5.8s6.6 2.2 7.2 5.8"/></svg>',
 };
-function tabBar(lang, current) {
+function iconNav(lang, current) {
   const t = UI[lang];
   const items = [
     ['news', typeUrl(lang, 'news'), t.nav.news],
@@ -156,8 +156,8 @@ function tabBar(lang, current) {
     ['topics', typeUrl(lang, 'hubs'), t.nav.topics],
     ['about', aboutUrl(lang), t.nav.about],
   ];
-  return `<nav class="tabbar" aria-label="${attr(t.nav.news)} · ${attr(t.nav.bacteria)} · ${attr(t.nav.topics)} · ${attr(t.nav.about)}">${items
-    .map(([k, u, label]) => `<a href="${u}"${current === k ? ' aria-current="page"' : ''}>${ICON[k]}<span>${esc(label)}</span></a>`)
+  return `<nav class="hdr__icons" aria-label="${attr(t.nav.topics)}">${items
+    .map(([k, u, label]) => `<a href="${u}" title="${attr(label)}" aria-label="${attr(label)}"${current === k ? ' aria-current="page"' : ''}>${ICON[k]}</a>`)
     .join('')}</nav>`;
 }
 
@@ -201,11 +201,11 @@ function layout({ lang, title, desc, url, alternates, bodyHtml, jsonld, ogImage,
 <div class="hdr__in">
   <a class="hdr__logo" href="${homeUrl(lang)}" aria-label="${attr(t.siteName)} — ${attr(t.home)}"><img src="/assets/img/logo-mark.png" srcset="/assets/img/logo-mark.png 1x, /assets/img/logo-mark@2x.png 2x" alt="${attr(t.siteName)}" width="72" height="60"></a>
   <nav class="hdr__nav" aria-label="Main">${nav}</nav>
+  ${iconNav(lang, current)}
 </div></header>
 <main>
 ${bodyHtml}
 </main>
-${tabBar(lang, current)}
 <footer class="ftr"><div class="wrap">
   <div class="ftr__top">
     <div><img class="ftr__mark" src="/assets/img/logo-mark@2x.png" alt="${attr(t.siteName)}" width="144" height="120"><p class="brandline">${esc(t.tagline)}.</p></div>
