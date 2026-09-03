@@ -172,3 +172,17 @@ The Owner's word replaces §4 for the **portal** (the brand site keeps its own t
 **Images under the new look (§2 amended):** preview ground is the greige/paper of the page, not ivory; subject colours charcoal, navy, teal, warm greys; one small accent (lime, rose `#A8324F`, or gold) at most; hero scene warm and photographic, matte, daylight — the reference's photography is real-room, natural light, no studio gloss. Everything else in §2 (morphology as truth, no text, no product, REF-only faces, one scene one frame) stands.
 
 **Hero cell (home):** Marika's site law — two equal halves, text left, one image right, image covers its cell. Today the right cell is an empty framed band until an accepted hero exists; it is not a fake photo.
+
+## 4b. No underline — standing rule (Owner 2026-09-03)
+
+**Owner's word:** never use an underline on a Das Experten surface — not on this portal, not on any other project — unless he asks for one explicitly.
+
+| Point | Rule |
+|---|---|
+| Links | Marked by colour and weight (teal, 700), never by `text-decoration: underline` and never by a border that imitates one |
+| Current page in a menu | A filled chip, never a line under the word |
+| "Read more" and similar | Colour and weight only |
+| What is still allowed | Hairlines that **separate rows or sections** (`border-top` / `border-bottom` on a card, a table row, a byline, a header band). They are structure, not underlines |
+| Enforcement | `text-decoration: underline` does not appear in any stylesheet of ours; a review that finds one treats it as a defect, not a style choice |
+
+Candidate for organizacia `HARD_RULES.md` §4h (typography), where the letter-spacing and number-unit laws live. An agent does not write that file; the line is ready for the Owner's word.
