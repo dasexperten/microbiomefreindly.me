@@ -16,6 +16,7 @@
 import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync, statSync, cpSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { createHash } from 'node:crypto';
 import yaml from 'js-yaml';
 import { marked } from 'marked';
 
@@ -31,6 +32,8 @@ const AUTHOR = {
   url: `${ORIGIN}/about`,
 };
 const BRAND_SITE = 'https://microbiomefriendly.me';
+/* the stylesheet's own fingerprint — changes whenever the file changes, never otherwise */
+const CSS_V = createHash('sha1').update(readFileSync(join(ROOT, 'src/assets/css/portal.css'))).digest('hex').slice(0, 10);
 const LOCALES = JSON.parse(readFileSync(join(ROOT, 'src/i18n/locales.json'), 'utf8'));
 const UI = JSON.parse(readFileSync(join(ROOT, 'src/i18n/ui.json'), 'utf8'));
 const TYPES = ['news', 'bacteria', 'hubs'];
@@ -192,7 +195,7 @@ function layout({ lang, title, desc, url, alternates, bodyHtml, jsonld, ogImage,
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800;900&family=Jost:wght@500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/assets/css/portal.css?v=${BUILD_DATE.replace(/-/g, '')}">
+  <link rel="stylesheet" href="/assets/css/portal.css?v=${CSS_V}">
   ${jsonld.map((j) => `<script type="application/ld+json">${JSON.stringify(j)}</script>`).join('\n  ')}
 </head>
 <body>
@@ -392,7 +395,7 @@ function build() {
     mkdirSync(dirname(p), { recursive: true }); writeFileSync(p, lines.join('\n'));
   }
   // Cloudflare Pages headers / redirects
-  writeFileSync(join(DIST, '_headers'), `/*\n  X-Content-Type-Options: nosniff\n  X-Frame-Options: SAMEORIGIN\n  Referrer-Policy: strict-origin-when-cross-origin\n  Permissions-Policy: geolocation=(), microphone=(), camera=()\n\n/assets/*\n  Cache-Control: public, max-age=31536000, immutable\n`);
+  writeFileSync(join(DIST, '_headers'), `/*\n  X-Content-Type-Options: nosniff\n  X-Frame-Options: SAMEORIGIN\n  Referrer-Policy: strict-origin-when-cross-origin\n  Permissions-Policy: geolocation=(), microphone=(), camera=()\n\n/assets/img/*\n  Cache-Control: public, max-age=31536000, immutable\n\n/assets/flags/*\n  Cache-Control: public, max-age=31536000, immutable\n\n/assets/css/*\n  Cache-Control: public, max-age=0, must-revalidate\n`);
   writeFileSync(join(DIST, '_redirects'), `/index.html / 301\n`);
   // manifest for check.mjs
   writeFileSync(join(DIST, 'build-manifest.json'), JSON.stringify({ origin: ORIGIN, buildDate: BUILD_DATE, liveLangs, pages, clusters: clusters.map((c) => ({ type: c.type, slug: c.slug, langs: Object.keys(c.langs) })) }, null, 2));
