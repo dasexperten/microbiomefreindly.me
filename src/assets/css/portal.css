@@ -67,8 +67,9 @@ sup{font-size:.6em;}
 .hdr__logo img{position:absolute;inset-inline-start:0;top:calc(50% - 52.5px + 42px);height:105px;width:auto;max-width:none;filter:drop-shadow(0 5px 14px rgba(31,42,62,.10));}
 @media(max-width:820px){.hdr__logo{width:104px;height:48px;}.hdr__logo img{height:84px;top:calc(50% - 42px + 38px);}}
 @media(max-width:520px){.hdr__logo{width:84px;height:44px;}.hdr__logo img{height:68px;top:calc(50% - 34px + 36px);}}
-.hdr__nav{display:flex;gap:26px;font-family:var(--sub);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:0;}
-:lang(ja) .hdr__nav,:lang(ko) .hdr__nav,:lang(zh-Hans) .hdr__nav,:lang(ar) .hdr__nav,:lang(th) .hdr__nav{text-transform:none;font-size:14px;}
+/* menu titles +30 % (Owner 2026-09-03): 12 px → 15.6 px */
+.hdr__nav{display:flex;gap:30px;font-family:var(--sub);font-weight:600;font-size:15.6px;text-transform:uppercase;letter-spacing:0;}
+:lang(ja) .hdr__nav,:lang(ko) .hdr__nav,:lang(zh-Hans) .hdr__nav,:lang(ar) .hdr__nav,:lang(th) .hdr__nav{text-transform:none;font-size:18px;}
 .hdr__nav a{padding:8px 0;border-bottom:1px solid transparent;}
 .hdr__nav a[aria-current="page"],.hdr__nav a:hover{border-color:var(--ink);}
 /* language ribbon — dasexperten.com pattern: flags + two-letter codes in one row */
