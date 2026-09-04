@@ -6,7 +6,11 @@
       "news": "News",
       "bacteria": "Bacteria",
       "topics": "Topics",
-      "about": "About"
+      "about": "About",
+      "ask": "Ask Magnus",
+      "myth": "Myth check",
+      "routine": "Food & routine",
+      "evidence": "Evidence"
     },
     "latestNews": "Latest news",
     "encyclopedia": "Bacteria encyclopedia",
@@ -42,7 +46,15 @@
       "brain": "Gut–brain"
     },
     "aboutTitle": "About this portal",
-    "aboutText": "Microbiome Friendly News is written by a microbiologist for people who never thought about the bacteria inside them. Every number carries a named source. Every piece passes a readability check with eight fixed readers before it is published."
+    "aboutText": "Microbiome Friendly News is written by a microbiologist for people who never thought about the bacteria inside them. Every number carries a named source. Every piece passes a readability check with eight fixed readers before it is published.",
+    "evidenceLead": "Every week the portal reads the new literature. This page shows what came out, what we wrote about, and what we passed over.",
+    "evidenceWritten": "What we wrote about",
+    "evidenceSkipped": "What we passed over",
+    "evidenceGaps": "Sources that did not answer",
+    "evidenceCount": "{found} papers found · {written} became articles",
+    "allAsk": "Ask Magnus",
+    "allMyth": "Myth check",
+    "allRoutine": "Food & routine"
   },
   "es": {
     "siteName": "Microbiome Friendly",
@@ -51,7 +63,11 @@
       "news": "Noticias",
       "bacteria": "Bacterias",
       "topics": "Temas",
-      "about": "Acerca de"
+      "about": "Acerca de",
+      "ask": "Pregunta a Magnus",
+      "myth": "Comprobación de mitos",
+      "routine": "Comida y rutina",
+      "evidence": "Evidencia"
     },
     "latestNews": "Últimas noticias",
     "encyclopedia": "Enciclopedia de bacterias",
@@ -87,7 +103,15 @@
       "brain": "Eje intestino-cerebro"
     },
     "aboutTitle": "Sobre este portal",
-    "aboutText": "Microbiome Friendly News lo escribe un microbiólogo para personas que nunca pensaron en las bacterias que llevan dentro. Cada cifra tiene una fuente con nombre. Cada texto pasa una prueba de legibilidad con ocho lectores fijos antes de publicarse."
+    "aboutText": "Microbiome Friendly News lo escribe un microbiólogo para personas que nunca pensaron en las bacterias que llevan dentro. Cada cifra tiene una fuente con nombre. Cada texto pasa una prueba de legibilidad con ocho lectores fijos antes de publicarse.",
+    "evidenceLead": "Cada semana el portal lee la literatura nueva. Esta página muestra qué salió, sobre qué escribimos y qué dejamos pasar.",
+    "evidenceWritten": "Sobre lo que escribimos",
+    "evidenceSkipped": "Lo que dejamos pasar",
+    "evidenceGaps": "Fuentes que no respondieron",
+    "evidenceCount": "{found} artículos encontrados · {written} se convirtieron en textos",
+    "allAsk": "Pregunta a Magnus",
+    "allMyth": "Comprobación de mitos",
+    "allRoutine": "Comida y rutina"
   },
   "vi": {
     "siteName": "Microbiome Friendly",
@@ -96,7 +120,11 @@
       "news": "Tin tức",
       "bacteria": "Vi khuẩn",
       "topics": "Chủ đề",
-      "about": "Giới thiệu"
+      "about": "Giới thiệu",
+      "ask": "Hỏi Magnus",
+      "myth": "Kiểm chứng lời đồn",
+      "routine": "Ăn uống & thói quen",
+      "evidence": "Bằng chứng"
     },
     "latestNews": "Tin mới nhất",
     "encyclopedia": "Bách khoa vi khuẩn",
@@ -132,7 +160,15 @@
       "brain": "Trục ruột–não"
     },
     "aboutTitle": "Về cổng thông tin này",
-    "aboutText": "Microbiome Friendly News do một nhà vi sinh vật học viết cho những người chưa từng nghĩ về vi khuẩn trong cơ thể mình. Mỗi con số đều có nguồn được nêu tên. Mỗi bài đều qua kiểm tra độ dễ hiểu với tám người đọc cố định trước khi đăng."
+    "aboutText": "Microbiome Friendly News do một nhà vi sinh vật học viết cho những người chưa từng nghĩ về vi khuẩn trong cơ thể mình. Mỗi con số đều có nguồn được nêu tên. Mỗi bài đều qua kiểm tra độ dễ hiểu với tám người đọc cố định trước khi đăng.",
+    "evidenceLead": "Mỗi tuần cổng thông tin đọc tài liệu mới. Trang này cho thấy điều gì đã công bố, chúng tôi viết về gì và bỏ qua gì.",
+    "evidenceWritten": "Chúng tôi đã viết về",
+    "evidenceSkipped": "Chúng tôi bỏ qua",
+    "evidenceGaps": "Nguồn không phản hồi",
+    "evidenceCount": "{found} nghiên cứu · {written} thành bài viết",
+    "allAsk": "Hỏi Magnus",
+    "allMyth": "Kiểm chứng lời đồn",
+    "allRoutine": "Ăn uống & thói quen"
   },
   "ru": {
     "siteName": "Microbiome Friendly",
@@ -141,7 +177,11 @@
       "news": "Новости",
       "bacteria": "Бактерии",
       "topics": "Темы",
-      "about": "О портале"
+      "about": "О портале",
+      "ask": "Спросить Магнуса",
+      "myth": "Проверка мифов",
+      "routine": "Еда и привычки",
+      "evidence": "Доказательства"
     },
     "latestNews": "Свежие новости",
     "encyclopedia": "Энциклопедия бактерий",
@@ -177,7 +217,15 @@
       "brain": "Ось кишечник–мозг"
     },
     "aboutTitle": "О портале",
-    "aboutText": "Microbiome Friendly News пишет микробиолог для людей, которые никогда не задумывались о бактериях внутри себя. У каждой цифры есть названный источник. Каждый текст проходит проверку на понятность с восемью постоянными читателями до публикации."
+    "aboutText": "Microbiome Friendly News пишет микробиолог для людей, которые никогда не задумывались о бактериях внутри себя. У каждой цифры есть названный источник. Каждый текст проходит проверку на понятность с восемью постоянными читателями до публикации.",
+    "evidenceLead": "Каждую неделю портал читает новую литературу. Здесь видно, что вышло, о чём мы написали и что пропустили.",
+    "evidenceWritten": "О чём написали",
+    "evidenceSkipped": "Что пропустили",
+    "evidenceGaps": "Источники, которые не ответили",
+    "evidenceCount": "найдено работ: {found} · стали статьями: {written}",
+    "allAsk": "Спросить Магнуса",
+    "allMyth": "Проверка мифов",
+    "allRoutine": "Еда и привычки"
   },
   "de": {
     "siteName": "Microbiome Friendly",
@@ -186,7 +234,11 @@
       "news": "News",
       "bacteria": "Bakterien",
       "topics": "Themen",
-      "about": "Über uns"
+      "about": "Über uns",
+      "ask": "Frag Magnus",
+      "myth": "Mythen-Check",
+      "routine": "Essen & Routine",
+      "evidence": "Evidenz"
     },
     "latestNews": "Aktuelle News",
     "encyclopedia": "Bakterien-Lexikon",
@@ -222,7 +274,15 @@
       "brain": "Darm-Hirn-Achse"
     },
     "aboutTitle": "Über dieses Portal",
-    "aboutText": "Microbiome Friendly News schreibt ein Mikrobiologe für Menschen, die nie über die Bakterien in sich nachgedacht haben. Jede Zahl trägt eine benannte Quelle. Jeder Text besteht vor der Veröffentlichung einen Verständlichkeitstest mit acht festen Lesern."
+    "aboutText": "Microbiome Friendly News schreibt ein Mikrobiologe für Menschen, die nie über die Bakterien in sich nachgedacht haben. Jede Zahl trägt eine benannte Quelle. Jeder Text besteht vor der Veröffentlichung einen Verständlichkeitstest mit acht festen Lesern.",
+    "evidenceLead": "Jede Woche liest das Portal die neue Literatur. Diese Seite zeigt, was erschienen ist, worüber wir geschrieben haben und was wir ausgelassen haben.",
+    "evidenceWritten": "Worüber wir geschrieben haben",
+    "evidenceSkipped": "Was wir ausgelassen haben",
+    "evidenceGaps": "Quellen ohne Antwort",
+    "evidenceCount": "{found} Arbeiten gefunden · {written} wurden Artikel",
+    "allAsk": "Frag Magnus",
+    "allMyth": "Mythen-Check",
+    "allRoutine": "Essen & Routine"
   },
   "pt-BR": {
     "siteName": "Microbiome Friendly",
@@ -231,7 +291,11 @@
       "news": "Notícias",
       "bacteria": "Bactérias",
       "topics": "Temas",
-      "about": "Sobre"
+      "about": "Sobre",
+      "ask": "Pergunte ao Magnus",
+      "myth": "Checagem de mitos",
+      "routine": "Comida e rotina",
+      "evidence": "Evidência"
     },
     "latestNews": "Últimas notícias",
     "encyclopedia": "Enciclopédia de bactérias",
@@ -267,7 +331,15 @@
       "brain": "Eixo intestino-cérebro"
     },
     "aboutTitle": "Sobre este portal",
-    "aboutText": "O Microbiome Friendly News é escrito por um microbiologista para pessoas que nunca pensaram nas bactérias dentro delas. Cada número tem uma fonte nomeada. Cada texto passa por um teste de legibilidade com oito leitores fixos antes de ser publicado."
+    "aboutText": "O Microbiome Friendly News é escrito por um microbiologista para pessoas que nunca pensaram nas bactérias dentro delas. Cada número tem uma fonte nomeada. Cada texto passa por um teste de legibilidade com oito leitores fixos antes de ser publicado.",
+    "evidenceLead": "Toda semana o portal lê a literatura nova. Esta página mostra o que saiu, sobre o que escrevemos e o que deixamos passar.",
+    "evidenceWritten": "Sobre o que escrevemos",
+    "evidenceSkipped": "O que deixamos passar",
+    "evidenceGaps": "Fontes que não responderam",
+    "evidenceCount": "{found} estudos encontrados · {written} viraram artigos",
+    "allAsk": "Pergunte ao Magnus",
+    "allMyth": "Checagem de mitos",
+    "allRoutine": "Comida e rotina"
   },
   "ar": {
     "siteName": "Microbiome Friendly",
@@ -276,7 +348,11 @@
       "news": "الأخبار",
       "bacteria": "البكتيريا",
       "topics": "المواضيع",
-      "about": "عن البوابة"
+      "about": "عن البوابة",
+      "ask": "اسأل ماغنوس",
+      "myth": "تدقيق الشائعات",
+      "routine": "الغذاء والعادات",
+      "evidence": "الأدلة"
     },
     "latestNews": "أحدث الأخبار",
     "encyclopedia": "موسوعة البكتيريا",
@@ -312,7 +388,15 @@
       "brain": "محور الأمعاء والدماغ"
     },
     "aboutTitle": "عن هذه البوابة",
-    "aboutText": "يكتب Microbiome Friendly News عالم أحياء دقيقة لأشخاص لم يفكروا يوماً في البكتيريا داخلهم. لكل رقم مصدر مسمّى. ويجتاز كل نص اختبار وضوح مع ثمانية قرّاء ثابتين قبل النشر."
+    "aboutText": "يكتب Microbiome Friendly News عالم أحياء دقيقة لأشخاص لم يفكروا يوماً في البكتيريا داخلهم. لكل رقم مصدر مسمّى. ويجتاز كل نص اختبار وضوح مع ثمانية قرّاء ثابتين قبل النشر.",
+    "evidenceLead": "يقرأ البوابة كل أسبوع الأبحاث الجديدة. تعرض هذه الصفحة ما صدر، وما كتبنا عنه، وما تجاوزناه.",
+    "evidenceWritten": "ما كتبنا عنه",
+    "evidenceSkipped": "ما تجاوزناه",
+    "evidenceGaps": "مصادر لم تستجب",
+    "evidenceCount": "أبحاث موجودة: {found} · أصبحت مقالات: {written}",
+    "allAsk": "اسأل ماغنوس",
+    "allMyth": "تدقيق الشائعات",
+    "allRoutine": "الغذاء والعادات"
   },
   "uk": {
     "siteName": "Microbiome Friendly",
@@ -321,7 +405,11 @@
       "news": "Новини",
       "bacteria": "Бактерії",
       "topics": "Теми",
-      "about": "Про портал"
+      "about": "Про портал",
+      "ask": "Запитати Магнуса",
+      "myth": "Перевірка міфів",
+      "routine": "Їжа і звички",
+      "evidence": "Докази"
     },
     "latestNews": "Свіжі новини",
     "encyclopedia": "Енциклопедія бактерій",
@@ -357,7 +445,15 @@
       "brain": "Вісь кишківник–мозок"
     },
     "aboutTitle": "Про портал",
-    "aboutText": "Microbiome Friendly News пише мікробіолог для людей, які ніколи не замислювалися про бактерії всередині себе. Кожна цифра має назване джерело. Кожен текст проходить перевірку на зрозумілість із вісьмома постійними читачами до публікації."
+    "aboutText": "Microbiome Friendly News пише мікробіолог для людей, які ніколи не замислювалися про бактерії всередині себе. Кожна цифра має назване джерело. Кожен текст проходить перевірку на зрозумілість із вісьмома постійними читачами до публікації.",
+    "evidenceLead": "Щотижня портал читає нову літературу. Тут видно, що вийшло, про що ми написали і що пропустили.",
+    "evidenceWritten": "Про що написали",
+    "evidenceSkipped": "Що пропустили",
+    "evidenceGaps": "Джерела, які не відповіли",
+    "evidenceCount": "знайдено праць: {found} · стали статтями: {written}",
+    "allAsk": "Запитати Магнуса",
+    "allMyth": "Перевірка міфів",
+    "allRoutine": "Їжа і звички"
   },
   "pl": {
     "siteName": "Microbiome Friendly",
@@ -366,7 +462,11 @@
       "news": "Aktualności",
       "bacteria": "Bakterie",
       "topics": "Tematy",
-      "about": "O portalu"
+      "about": "O portalu",
+      "ask": "Zapytaj Magnusa",
+      "myth": "Sprawdzam mity",
+      "routine": "Jedzenie i nawyki",
+      "evidence": "Dowody"
     },
     "latestNews": "Najnowsze wiadomości",
     "encyclopedia": "Encyklopedia bakterii",
@@ -402,7 +502,15 @@
       "brain": "Oś jelita–mózg"
     },
     "aboutTitle": "O tym portalu",
-    "aboutText": "Microbiome Friendly News pisze mikrobiolog dla ludzi, którzy nigdy nie myśleli o bakteriach w sobie. Każda liczba ma nazwane źródło. Każdy tekst przechodzi test zrozumiałości z ośmioma stałymi czytelnikami przed publikacją."
+    "aboutText": "Microbiome Friendly News pisze mikrobiolog dla ludzi, którzy nigdy nie myśleli o bakteriach w sobie. Każda liczba ma nazwane źródło. Każdy tekst przechodzi test zrozumiałości z ośmioma stałymi czytelnikami przed publikacją.",
+    "evidenceLead": "Co tydzień portal czyta nową literaturę. Ta strona pokazuje, co się ukazało, o czym napisaliśmy i co pominęliśmy.",
+    "evidenceWritten": "O czym napisaliśmy",
+    "evidenceSkipped": "Co pominęliśmy",
+    "evidenceGaps": "Źródła bez odpowiedzi",
+    "evidenceCount": "znaleziono prac: {found} · powstało tekstów: {written}",
+    "allAsk": "Zapytaj Magnusa",
+    "allMyth": "Sprawdzam mity",
+    "allRoutine": "Jedzenie i nawyki"
   },
   "tl": {
     "siteName": "Microbiome Friendly",
@@ -411,7 +519,11 @@
       "news": "Balita",
       "bacteria": "Bakterya",
       "topics": "Paksa",
-      "about": "Tungkol"
+      "about": "Tungkol",
+      "ask": "Tanungin si Magnus",
+      "myth": "Tsek ng mito",
+      "routine": "Pagkain at gawi",
+      "evidence": "Ebidensiya"
     },
     "latestNews": "Pinakabagong balita",
     "encyclopedia": "Ensiklopedya ng bakterya",
@@ -447,7 +559,15 @@
       "brain": "Gut–brain axis"
     },
     "aboutTitle": "Tungkol sa portal na ito",
-    "aboutText": "Ang Microbiome Friendly News ay isinusulat ng isang microbiologist para sa mga taong hindi pa nag-iisip tungkol sa bakterya sa loob nila. Bawat numero ay may pinangalanang pinagmulan. Bawat teksto ay dumadaan sa pagsusuri ng pagkaunawa ng walong tiyak na mambabasa bago mailathala."
+    "aboutText": "Ang Microbiome Friendly News ay isinusulat ng isang microbiologist para sa mga taong hindi pa nag-iisip tungkol sa bakterya sa loob nila. Bawat numero ay may pinangalanang pinagmulan. Bawat teksto ay dumadaan sa pagsusuri ng pagkaunawa ng walong tiyak na mambabasa bago mailathala.",
+    "evidenceLead": "Bawat linggo binabasa ng portal ang bagong literatura. Ipinapakita ng pahinang ito kung ano ang lumabas, ang isinulat namin, at ang nilaktawan namin.",
+    "evidenceWritten": "Ang isinulat namin",
+    "evidenceSkipped": "Ang nilaktawan namin",
+    "evidenceGaps": "Mga pinagmulang hindi tumugon",
+    "evidenceCount": "{found} pag-aaral · {written} naging artikulo",
+    "allAsk": "Tanungin si Magnus",
+    "allMyth": "Tsek ng mito",
+    "allRoutine": "Pagkain at gawi"
   },
   "ms": {
     "siteName": "Microbiome Friendly",
@@ -456,7 +576,11 @@
       "news": "Berita",
       "bacteria": "Bakteria",
       "topics": "Topik",
-      "about": "Tentang"
+      "about": "Tentang",
+      "ask": "Tanya Magnus",
+      "myth": "Semak mitos",
+      "routine": "Makanan & rutin",
+      "evidence": "Bukti"
     },
     "latestNews": "Berita terkini",
     "encyclopedia": "Ensiklopedia bakteria",
@@ -492,7 +616,15 @@
       "brain": "Paksi usus–otak"
     },
     "aboutTitle": "Tentang portal ini",
-    "aboutText": "Microbiome Friendly News ditulis oleh seorang ahli mikrobiologi untuk orang yang tidak pernah memikirkan bakteria dalam diri mereka. Setiap angka mempunyai sumber yang dinamakan. Setiap teks melalui ujian kebolehbacaan dengan lapan pembaca tetap sebelum diterbitkan."
+    "aboutText": "Microbiome Friendly News ditulis oleh seorang ahli mikrobiologi untuk orang yang tidak pernah memikirkan bakteria dalam diri mereka. Setiap angka mempunyai sumber yang dinamakan. Setiap teks melalui ujian kebolehbacaan dengan lapan pembaca tetap sebelum diterbitkan.",
+    "evidenceLead": "Setiap minggu portal membaca literatur baharu. Halaman ini menunjukkan apa yang terbit, apa yang kami tulis, dan apa yang kami lepaskan.",
+    "evidenceWritten": "Apa yang kami tulis",
+    "evidenceSkipped": "Apa yang kami lepaskan",
+    "evidenceGaps": "Sumber yang tidak menjawab",
+    "evidenceCount": "{found} kajian dijumpai · {written} menjadi artikel",
+    "allAsk": "Tanya Magnus",
+    "allMyth": "Semak mitos",
+    "allRoutine": "Makanan & rutin"
   },
   "fr": {
     "siteName": "Microbiome Friendly",
@@ -501,7 +633,11 @@
       "news": "Actualités",
       "bacteria": "Bactéries",
       "topics": "Thèmes",
-      "about": "À propos"
+      "about": "À propos",
+      "ask": "Demandez à Magnus",
+      "myth": "Vérification des mythes",
+      "routine": "Alimentation & habitudes",
+      "evidence": "Preuves"
     },
     "latestNews": "Dernières actualités",
     "encyclopedia": "Encyclopédie des bactéries",
@@ -537,7 +673,15 @@
       "brain": "Axe intestin-cerveau"
     },
     "aboutTitle": "À propos de ce portail",
-    "aboutText": "Microbiome Friendly News est écrit par un microbiologiste pour des gens qui n'ont jamais pensé aux bactéries en eux. Chaque chiffre a une source nommée. Chaque texte passe un test de lisibilité auprès de huit lecteurs fixes avant publication."
+    "aboutText": "Microbiome Friendly News est écrit par un microbiologiste pour des gens qui n'ont jamais pensé aux bactéries en eux. Chaque chiffre a une source nommée. Chaque texte passe un test de lisibilité auprès de huit lecteurs fixes avant publication.",
+    "evidenceLead": "Chaque semaine, le portail lit la littérature nouvelle. Cette page montre ce qui est paru, ce dont nous avons parlé et ce que nous avons laissé de côté.",
+    "evidenceWritten": "Ce dont nous avons parlé",
+    "evidenceSkipped": "Ce que nous avons laissé",
+    "evidenceGaps": "Sources sans réponse",
+    "evidenceCount": "{found} travaux trouvés · {written} devenus articles",
+    "allAsk": "Demandez à Magnus",
+    "allMyth": "Vérification des mythes",
+    "allRoutine": "Alimentation & habitudes"
   },
   "ro": {
     "siteName": "Microbiome Friendly",
@@ -546,7 +690,11 @@
       "news": "Știri",
       "bacteria": "Bacterii",
       "topics": "Teme",
-      "about": "Despre"
+      "about": "Despre",
+      "ask": "Întreabă-l pe Magnus",
+      "myth": "Verificarea miturilor",
+      "routine": "Mâncare și rutină",
+      "evidence": "Dovezi"
     },
     "latestNews": "Ultimele știri",
     "encyclopedia": "Enciclopedia bacteriilor",
@@ -582,7 +730,15 @@
       "brain": "Axa intestin–creier"
     },
     "aboutTitle": "Despre acest portal",
-    "aboutText": "Microbiome Friendly News este scris de un microbiolog pentru oameni care nu s-au gândit niciodată la bacteriile din ei. Fiecare cifră are o sursă numită. Fiecare text trece un test de lizibilitate cu opt cititori ficși înainte de publicare."
+    "aboutText": "Microbiome Friendly News este scris de un microbiolog pentru oameni care nu s-au gândit niciodată la bacteriile din ei. Fiecare cifră are o sursă numită. Fiecare text trece un test de lizibilitate cu opt cititori ficși înainte de publicare.",
+    "evidenceLead": "În fiecare săptămână portalul citește literatura nouă. Pagina arată ce a apărut, despre ce am scris și ce am lăsat deoparte.",
+    "evidenceWritten": "Despre ce am scris",
+    "evidenceSkipped": "Ce am lăsat deoparte",
+    "evidenceGaps": "Surse fără răspuns",
+    "evidenceCount": "{found} lucrări găsite · {written} au devenit articole",
+    "allAsk": "Întreabă-l pe Magnus",
+    "allMyth": "Verificarea miturilor",
+    "allRoutine": "Mâncare și rutină"
   },
   "th": {
     "siteName": "Microbiome Friendly",
@@ -591,7 +747,11 @@
       "news": "ข่าว",
       "bacteria": "แบคทีเรีย",
       "topics": "หัวข้อ",
-      "about": "เกี่ยวกับ"
+      "about": "เกี่ยวกับ",
+      "ask": "ถามแมกนัส",
+      "myth": "ตรวจสอบความเชื่อ",
+      "routine": "อาหารและกิจวัตร",
+      "evidence": "หลักฐาน"
     },
     "latestNews": "ข่าวล่าสุด",
     "encyclopedia": "สารานุกรมแบคทีเรีย",
@@ -627,7 +787,15 @@
       "brain": "แกนลำไส้–สมอง"
     },
     "aboutTitle": "เกี่ยวกับพอร์ทัลนี้",
-    "aboutText": "Microbiome Friendly News เขียนโดยนักจุลชีววิทยาสำหรับคนที่ไม่เคยคิดถึงแบคทีเรียในร่างกายตัวเอง ตัวเลขทุกตัวมีแหล่งอ้างอิงระบุชื่อ และทุกบทความผ่านการทดสอบความเข้าใจกับผู้อ่านประจำแปดคนก่อนเผยแพร่"
+    "aboutText": "Microbiome Friendly News เขียนโดยนักจุลชีววิทยาสำหรับคนที่ไม่เคยคิดถึงแบคทีเรียในร่างกายตัวเอง ตัวเลขทุกตัวมีแหล่งอ้างอิงระบุชื่อ และทุกบทความผ่านการทดสอบความเข้าใจกับผู้อ่านประจำแปดคนก่อนเผยแพร่",
+    "evidenceLead": "ทุกสัปดาห์พอร์ทัลอ่านงานวิจัยใหม่ หน้านี้แสดงว่ามีอะไรตีพิมพ์ เราเขียนถึงอะไร และผ่านอะไรไป",
+    "evidenceWritten": "สิ่งที่เราเขียนถึง",
+    "evidenceSkipped": "สิ่งที่เราผ่านไป",
+    "evidenceGaps": "แหล่งข้อมูลที่ไม่ตอบสนอง",
+    "evidenceCount": "พบงานวิจัย {found} ชิ้น · เป็นบทความ {written} ชิ้น",
+    "allAsk": "ถามแมกนัส",
+    "allMyth": "ตรวจสอบความเชื่อ",
+    "allRoutine": "อาหารและกิจวัตร"
   },
   "tr": {
     "siteName": "Microbiome Friendly",
@@ -636,7 +804,11 @@
       "news": "Haberler",
       "bacteria": "Bakteriler",
       "topics": "Konular",
-      "about": "Hakkında"
+      "about": "Hakkında",
+      "ask": "Magnus'a sor",
+      "myth": "Efsane kontrolü",
+      "routine": "Beslenme ve alışkanlık",
+      "evidence": "Kanıt"
     },
     "latestNews": "Son haberler",
     "encyclopedia": "Bakteri ansiklopedisi",
@@ -672,7 +844,15 @@
       "brain": "Bağırsak–beyin ekseni"
     },
     "aboutTitle": "Bu portal hakkında",
-    "aboutText": "Microbiome Friendly News, içindeki bakterileri hiç düşünmemiş insanlar için bir mikrobiyolog tarafından yazılır. Her sayının adı verilmiş bir kaynağı vardır. Her metin yayınlanmadan önce sekiz sabit okuyucuyla anlaşılırlık testinden geçer."
+    "aboutText": "Microbiome Friendly News, içindeki bakterileri hiç düşünmemiş insanlar için bir mikrobiyolog tarafından yazılır. Her sayının adı verilmiş bir kaynağı vardır. Her metin yayınlanmadan önce sekiz sabit okuyucuyla anlaşılırlık testinden geçer.",
+    "evidenceLead": "Portal her hafta yeni literatürü okur. Bu sayfa neyin yayımlandığını, neyi yazdığımızı ve neyi geçtiğimizi gösterir.",
+    "evidenceWritten": "Yazdıklarımız",
+    "evidenceSkipped": "Geçtiklerimiz",
+    "evidenceGaps": "Yanıt vermeyen kaynaklar",
+    "evidenceCount": "{found} çalışma bulundu · {written} yazıya dönüştü",
+    "allAsk": "Magnus'a sor",
+    "allMyth": "Efsane kontrolü",
+    "allRoutine": "Beslenme ve alışkanlık"
   },
   "zh-Hans": {
     "siteName": "Microbiome Friendly",
@@ -681,7 +861,11 @@
       "news": "新闻",
       "bacteria": "细菌",
       "topics": "主题",
-      "about": "关于"
+      "about": "关于",
+      "ask": "问马格努斯",
+      "myth": "传言核查",
+      "routine": "饮食与习惯",
+      "evidence": "证据"
     },
     "latestNews": "最新新闻",
     "encyclopedia": "细菌百科",
@@ -717,7 +901,15 @@
       "brain": "肠脑轴"
     },
     "aboutTitle": "关于本站",
-    "aboutText": "Microbiome Friendly News 由一位微生物学家为从未想过体内细菌的普通读者撰写。每个数字都有署名来源。每篇文章在发布前都要经过八位固定读者的可读性测试。"
+    "aboutText": "Microbiome Friendly News 由一位微生物学家为从未想过体内细菌的普通读者撰写。每个数字都有署名来源。每篇文章在发布前都要经过八位固定读者的可读性测试。",
+    "evidenceLead": "门户每周阅读新发表的研究。本页显示发表了什么、我们写了什么、又略过了什么。",
+    "evidenceWritten": "我们写过的",
+    "evidenceSkipped": "我们略过的",
+    "evidenceGaps": "未响应的来源",
+    "evidenceCount": "找到研究 {found} 篇 · 成文 {written} 篇",
+    "allAsk": "问马格努斯",
+    "allMyth": "传言核查",
+    "allRoutine": "饮食与习惯"
   },
   "ja": {
     "siteName": "Microbiome Friendly",
@@ -726,7 +918,11 @@
       "news": "ニュース",
       "bacteria": "細菌",
       "topics": "テーマ",
-      "about": "このサイトについて"
+      "about": "このサイトについて",
+      "ask": "マグヌスに聞く",
+      "myth": "通説の検証",
+      "routine": "食事と習慣",
+      "evidence": "エビデンス"
     },
     "latestNews": "最新ニュース",
     "encyclopedia": "細菌事典",
@@ -762,7 +958,15 @@
       "brain": "腸脳相関"
     },
     "aboutTitle": "このサイトについて",
-    "aboutText": "Microbiome Friendly News は、体内の細菌について考えたことのない人のために微生物学者が書いています。すべての数字に出典があります。すべての記事は公開前に8人の固定読者による読みやすさテストを通過します。"
+    "aboutText": "Microbiome Friendly News は、体内の細菌について考えたことのない人のために微生物学者が書いています。すべての数字に出典があります。すべての記事は公開前に8人の固定読者による読みやすさテストを通過します。",
+    "evidenceLead": "毎週、新しい論文を読みます。このページでは何が発表され、何を記事にし、何を見送ったかを示します。",
+    "evidenceWritten": "記事にしたもの",
+    "evidenceSkipped": "見送ったもの",
+    "evidenceGaps": "応答のなかった情報源",
+    "evidenceCount": "論文 {found} 件 · 記事化 {written} 件",
+    "allAsk": "マグヌスに聞く",
+    "allMyth": "通説の検証",
+    "allRoutine": "食事と習慣"
   },
   "ko": {
     "siteName": "Microbiome Friendly",
@@ -771,7 +975,11 @@
       "news": "뉴스",
       "bacteria": "세균",
       "topics": "주제",
-      "about": "소개"
+      "about": "소개",
+      "ask": "마그누스에게 묻기",
+      "myth": "속설 점검",
+      "routine": "음식과 습관",
+      "evidence": "근거"
     },
     "latestNews": "최신 뉴스",
     "encyclopedia": "세균 백과",
@@ -807,6 +1015,14 @@
       "brain": "장–뇌 축"
     },
     "aboutTitle": "이 포털에 대하여",
-    "aboutText": "Microbiome Friendly News는 몸속 세균을 한 번도 생각해 본 적 없는 사람들을 위해 미생물학자가 씁니다. 모든 숫자에는 명시된 출처가 있습니다. 모든 글은 게시 전에 여덟 명의 고정 독자와 함께 가독성 검사를 거칩니다."
+    "aboutText": "Microbiome Friendly News는 몸속 세균을 한 번도 생각해 본 적 없는 사람들을 위해 미생물학자가 씁니다. 모든 숫자에는 명시된 출처가 있습니다. 모든 글은 게시 전에 여덟 명의 고정 독자와 함께 가독성 검사를 거칩니다.",
+    "evidenceLead": "포털은 매주 새로운 문헌을 읽습니다. 이 페이지는 무엇이 발표되었고, 무엇을 다루었으며, 무엇을 넘겼는지 보여줍니다.",
+    "evidenceWritten": "다룬 연구",
+    "evidenceSkipped": "넘긴 연구",
+    "evidenceGaps": "응답하지 않은 출처",
+    "evidenceCount": "논문 {found}건 · 기사 {written}건",
+    "allAsk": "마그누스에게 묻기",
+    "allMyth": "속설 점검",
+    "allRoutine": "음식과 습관"
   }
 }

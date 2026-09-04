@@ -37,7 +37,7 @@ const BRAND_SITE = 'https://formulas.microbiomefriendly.me';
 const CSS_V = createHash('sha1').update(readFileSync(join(ROOT, 'src/assets/css/portal.css'))).digest('hex').slice(0, 10);
 const LOCALES = JSON.parse(readFileSync(join(ROOT, 'src/i18n/locales.json'), 'utf8'));
 const UI = JSON.parse(readFileSync(join(ROOT, 'src/i18n/ui.json'), 'utf8'));
-const TYPES = ['news', 'bacteria', 'hubs'];
+const TYPES = ['news', 'bacteria', 'ask', 'myth', 'routine', 'hubs'];
 const TOPICS = ['gut', 'oral', 'immunity', 'enzymes', 'metabolic', 'skin', 'brain'];
 
 const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (m) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[m]));
@@ -105,6 +105,7 @@ const homeUrl = (lang) => `${prefix(lang)}/`;
 const typeUrl = (lang, type) => `${prefix(lang)}/${type === 'hubs' ? 'topics' : type}/`;
 const pageUrl = (lang, type, slug) => (type === 'hubs' ? `${prefix(lang)}/topics/${slug}/` : `${prefix(lang)}/${type}/${slug}`);
 const aboutUrl = (lang) => `${prefix(lang)}/about`;
+const evidenceUrl = (lang) => `${prefix(lang)}/evidence/`;
 const outPath = (url) => join(DIST, url.endsWith('/') ? `${url}index.html` : `${url}.html`);
 const abs = (u) => `${ORIGIN}${u}`;
 
@@ -150,6 +151,10 @@ const ICON = {
   news: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h12v14H5.5A1.5 1.5 0 0 1 4 17.5z"/><path d="M16 9h3.5a.5.5 0 0 1 .5.5v8a1.5 1.5 0 0 1-3 0V9"/><path d="M7 8.5h6M7 12h6M7 15.5h4"/></svg>',
   bacteria: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="12" rx="7.5" ry="4.5" transform="rotate(-28 12 12)"/><circle cx="10" cy="11" r="1.1" fill="currentColor" stroke="none"/><circle cx="13.6" cy="13" r="1.1" fill="currentColor" stroke="none"/><path d="M5.2 7.4 3.4 5.9M18.8 16.6l1.8 1.5M17.6 6.6l1.6-1.4M6.4 17.4l-1.6 1.4"/></svg>',
   topics: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="7" height="7" rx="1.6"/><rect x="13.5" y="3.5" width="7" height="7" rx="1.6"/><rect x="3.5" y="13.5" width="7" height="7" rx="1.6"/><rect x="13.5" y="13.5" width="7" height="7" rx="1.6"/></svg>',
+  ask: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 14.5A2.5 2.5 0 0 1 17.5 17H9l-4.2 3.2V6.5A2.5 2.5 0 0 1 7.3 4h10.2A2.5 2.5 0 0 1 20 6.5z"/><path d="M9.6 9.2a2.5 2.5 0 1 1 3.4 2.3c-.6.3-1 .8-1 1.5"/><circle cx="12" cy="15.4" r=".9" fill="currentColor" stroke="none"/></svg>',
+  myth: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.4 20 6.6v5.1c0 4.6-3.2 7.9-8 9.4-4.8-1.5-8-4.8-8-9.4V6.6z"/><path d="m9.2 11.8 2 2 3.6-3.9"/></svg>',
+  routine: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M7.5 3.5v7.2a2.6 2.6 0 0 0 5.2 0V3.5"/><path d="M10.1 10.7v9.8"/><path d="M7.5 3.5v4.3M12.7 3.5v4.3"/><path d="M18.4 3.5c1.4 1.6 2.1 3.6 2.1 5.8 0 2-1 3.3-2.1 3.6v7.6"/></svg>',
+  evidence: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 19.5V9.8M9.5 19.5V5.2M14.5 19.5v-7.3M19.5 19.5V8.1"/><path d="M3 21h18"/></svg>',
   about: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8.2" r="3.6"/><path d="M4.8 19.5c.6-3.6 3.6-5.8 7.2-5.8s6.6 2.2 7.2 5.8"/></svg>',
 };
 function iconNav(lang, current) {
@@ -157,8 +162,11 @@ function iconNav(lang, current) {
   const items = [
     ['news', typeUrl(lang, 'news'), t.nav.news],
     ['bacteria', typeUrl(lang, 'bacteria'), t.nav.bacteria],
+    ['ask', typeUrl(lang, 'ask'), t.nav.ask],
+    ['myth', typeUrl(lang, 'myth'), t.nav.myth],
+    ['routine', typeUrl(lang, 'routine'), t.nav.routine],
+    ['evidence', evidenceUrl(lang), t.nav.evidence],
     ['topics', typeUrl(lang, 'hubs'), t.nav.topics],
-    ['about', aboutUrl(lang), t.nav.about],
   ];
   return `<nav class="hdr__icons" aria-label="${attr(t.nav.topics)}">${items
     .map(([k, u, label]) => `<a href="${u}" title="${attr(label)}" aria-label="${attr(label)}"${current === k ? ' aria-current="page"' : ''}>${ICON[k]}</a>`)
@@ -169,7 +177,7 @@ function layout({ lang, title, desc, url, alternates, bodyHtml, jsonld, ogImage,
   const t = UI[lang]; const meta = LOCALES.meta[lang];
   const hrefl = alternates.map((a) => `<link rel="alternate" hreflang="${LOCALES.meta[a.lang].html}" href="${abs(a.url)}">`).join('\n  ');
   const xdef = alternates.find((a) => a.lang === LOCALES.default);
-  const nav = [['news', typeUrl(lang, 'news')], ['bacteria', typeUrl(lang, 'bacteria')], ['topics', typeUrl(lang, 'hubs')], ['about', aboutUrl(lang)]]
+  const nav = [['news', typeUrl(lang, 'news')], ['bacteria', typeUrl(lang, 'bacteria')], ['ask', typeUrl(lang, 'ask')], ['myth', typeUrl(lang, 'myth')], ['routine', typeUrl(lang, 'routine')], ['evidence', evidenceUrl(lang)], ['topics', typeUrl(lang, 'hubs')], ['about', aboutUrl(lang)]]
     .map(([k, u]) => `<a href="${u}"${current === k ? ' aria-current="page"' : ''}>${esc(t.nav[k])}</a>`).join('');
   const switcher = langSwitcher(lang, alternates.map((a) => a.lang), (l) => alternates.find((a) => a.lang === l).url);
   const footLangs = alternates.map((a) => `<a href="${a.url}" hreflang="${LOCALES.meta[a.lang].html}">${esc(LOCALES.meta[a.lang].native)}</a>`).join('');
@@ -297,7 +305,7 @@ function articlePage(lang, c, doc, alternates, clusters) {
 function listPage(lang, type, clusters, alternates) {
   const t = UI[lang];
   const items = clusters.filter((c) => c.type === type && c.langs[lang]).sort((a, b) => (b.langs[lang].fm.date || '').localeCompare(a.langs[lang].fm.date || ''));
-  const title = type === 'news' ? t.allNews : type === 'bacteria' ? t.encyclopedia : t.nav.topics;
+  const title = type === 'news' ? t.allNews : type === 'bacteria' ? t.encyclopedia : type === 'ask' ? t.nav.ask : type === 'myth' ? t.nav.myth : type === 'routine' ? t.nav.routine : t.nav.topics;
   const url = typeUrl(lang, type);
   let inner;
   if (type === 'hubs') {
@@ -344,6 +352,49 @@ function aboutPage(lang, alternates) {
   return layout({ lang, title: `${t.aboutTitle} · ${BRAND}`, desc: t.aboutText, url: aboutUrl(lang), alternates, bodyHtml, jsonld: ld, current: 'about', type: 'about' });
 }
 
+
+/* ---------- evidence this week ---------- */
+function readSweeps() {
+  const dir = join(ROOT, 'data', 'sweep');
+  if (!existsSync(dir)) return [];
+  return readdirSync(dir)
+    .filter((f) => f.endsWith('.json'))
+    .sort()
+    .reverse()
+    .slice(0, 8)
+    .map((f) => ({ file: f.replace('.json', ''), ...JSON.parse(readFileSync(join(dir, f), 'utf8')) }));
+}
+function evidencePage(lang, clusters, alternates) {
+  const t = UI[lang];
+  const sweeps = readSweeps();
+  const takenBy = new Map();   // doi or pmid → the article that used it
+  for (const c of clusters) {
+    const doc = c.langs[lang] || c.langs[LOCALES.default];
+    for (const src of (doc && doc.fm.sources) || []) {
+      const key = (src.doi || src.pmid || src.url || '').toLowerCase();
+      if (key) takenBy.set(key, { type: c.type, slug: c.slug, title: doc.fm.title });
+    }
+  }
+  const rows = sweeps.map((sw) => {
+    const items = (sw.items || []).map((it) => {
+      const key = (it.doi || it.pmid || it.url || '').toLowerCase();
+      const used = takenBy.get(key) || (it.pmid && takenBy.get(it.pmid.toLowerCase())) || null;
+      return { ...it, used };
+    });
+    const written = items.filter((i) => i.used);
+    const skipped = items.filter((i) => !i.used);
+    return `<section class="section--tight"><h2 class="h2">${esc(sw.asOf || sw.file)}</h2>
+      <p class="muted">${esc(t.evidenceCount.replace('{found}', String(items.length)).replace('{written}', String(written.length)))}</p>
+      ${written.length ? `<h3 class="h3" style="margin-top:22px">${esc(t.evidenceWritten)}</h3><ul class="ev-list">${written.map((i) => `<li><a href="${pageUrl(lang, i.used.type, i.used.slug)}">${esc(i.used.title)}</a><span class="muted"> — ${esc(i.journal || i.row || '')}</span><br><a class="ev-src" href="${attr(i.url)}" rel="noopener nofollow">${esc(i.title)}</a></li>`).join('')}</ul>` : ''}
+      ${skipped.length ? `<h3 class="h3" style="margin-top:22px">${esc(t.evidenceSkipped)}</h3><ul class="ev-list ev-list--quiet">${skipped.slice(0, 40).map((i) => `<li><a class="ev-src" href="${attr(i.url)}" rel="noopener nofollow">${esc(i.title)}</a><span class="muted"> — ${esc(i.journal || i.row || '')}${i.date ? ' · ' + esc(String(i.date).slice(0, 10)) : ''}</span></li>`).join('')}</ul>` : ''}
+      ${(sw.gaps || []).length ? `<p class="notice" style="margin-top:18px">${esc(t.evidenceGaps)}: ${sw.gaps.map((g) => esc(g.row)).join(', ')}</p>` : ''}
+    </section>`;
+  }).join('');
+  const bodyHtml = `<section class="section"><div class="wrap"><div class="kicker">${esc(t.siteName)}</div><h1 class="h1">${esc(t.nav.evidence)}</h1><p class="lead" style="margin-top:18px">${esc(t.evidenceLead)}</p><div style="margin-top:30px">${rows || `<p class="notice">${esc(t.preparing)}</p>`}</div></div></section>`;
+  const ld = [{ '@context': 'https://schema.org', '@type': 'CollectionPage', name: t.nav.evidence, url: abs(evidenceUrl(lang)), inLanguage: LOCALES.meta[lang].html }];
+  return layout({ lang, title: `${t.nav.evidence} · ${BRAND}`, desc: t.evidenceLead, url: evidenceUrl(lang), alternates, bodyHtml, jsonld: ld, current: 'evidence', type: 'list' });
+}
+
 /* ---------- write ---------- */
 function write(url, html) { const p = outPath(url); mkdirSync(dirname(p), { recursive: true }); writeFileSync(p, html); return url; }
 
@@ -360,6 +411,7 @@ function build() {
     const alts = liveLangs.map((l) => ({ lang: l, url: homeUrl(l) }));
     write(homeUrl(lang), homePage(lang, clusters, alts)); push(lang, homeUrl(lang), BUILD_DATE);
     write(aboutUrl(lang), aboutPage(lang, liveLangs.map((l) => ({ lang: l, url: aboutUrl(l) })))); push(lang, aboutUrl(lang), BUILD_DATE);
+    write(evidenceUrl(lang), evidencePage(lang, clusters, liveLangs.map((l) => ({ lang: l, url: evidenceUrl(l) })))); push(lang, evidenceUrl(lang), BUILD_DATE);
     for (const type of TYPES) { const a = liveLangs.map((l) => ({ lang: l, url: typeUrl(l, type) })); write(typeUrl(lang, type), listPage(lang, type, clusters, a)); push(lang, typeUrl(lang, type), BUILD_DATE); }
   }
   let pages = 0;

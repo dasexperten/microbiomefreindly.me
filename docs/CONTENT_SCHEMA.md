@@ -87,3 +87,18 @@ Markdown after the front-matter. Rules:
 ## Image brief (`image-brief.md`)
 
 Plain words from Magnus to Brand Studio — the fields are in `docs/BRAND_IMAGE_SPEC.md` (Marika). Magnus never writes an engine prompt (§4e-1); Lisa writes it and generates; Marika accepts; the two R2 URLs then go into `images.preview` / `images.hero`.
+
+## Sections (Owner 2026-09-04)
+
+Five article types now share this schema, the same gates and the same two images:
+
+| `type` | Folder | What it is | URL |
+|---|---|---|---|
+| `news` | `content/news/` | a paper rewritten for a wide public, source named | `/news/<slug>` |
+| `bacteria` | `content/bacteria/` | encyclopedia entry, advantages and disadvantages | `/bacteria/<slug>` |
+| `ask` | `content/ask/` | **Ask Magnus** — one reader question answered by name, opening by restating the question | `/ask/<slug>` |
+| `myth` | `content/myth/` | **Myth check** — one claim tested, with an explicit verdict near the top: false, partly true, or true | `/myth/<slug>` |
+| `routine` | `content/routine/` | **Food & routine** — what to do on a Tuesday, mechanism first and the action second | `/routine/<slug>` |
+| `hubs` | `content/hubs/` | topic hub | `/topics/<topic>/` |
+
+**Evidence** (`/evidence/`) is not an article type and has no folder. The build generates it from `data/sweep/*.json`: every paper the weekly sweep found, which ones became articles, which ones we passed over, and any registry row that failed to answer. It cannot drift from what really happened, because nobody writes it.
