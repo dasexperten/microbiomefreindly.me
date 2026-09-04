@@ -1,0 +1,11 @@
+You are asking why a probiotic worked for your friend and did nothing for you. Here is the honest answer: the two of you did not run the same experiment.
+
+Start with the label. Probiotic is a category, not a specification. The accepted definition names no organism, no amount, and no person. When McFarland and colleagues pooled two hundred and twenty-eight randomised trials covering twenty-five identifiable probiotics, they found that whether something works depends on the exact strain and on the exact condition. Within Lactobacillus alone, only four of six strain types significantly prevented antibiotic-associated diarrhoea in adults. So if the code after the species name on your friend's jar does not match the code on yours, you were taking different organisms.
+
+Next, the gut you started with. Zmora and colleagues gave healthy volunteers an eleven-strain probiotic and then looked directly, by endoscopy, to see whether it settled on the gut lining. Some people were permissive, some resistant, and which one you are was predictable from features measured before the first capsule. Here is the part that ends a lot of arguments: whether the strain showed up in stool did not tell them who had been colonised. Shedding is not settling.
+
+Then this year's trial. A hundred and twenty overweight adults, twelve weeks, a heat-killed Lactiplantibacillus plantarum preparation or placebo. Across the whole group, nothing. But when the authors split people by how diverse their gut was at the start, the low-diversity half lost about two kilograms against one on placebo. Say the caveat out loud: the primary endpoint, body fat on a scan, failed; the split was a secondary analysis in groups of about twenty-five; and the sponsor developed the strain.
+
+Dose and duration matter too. A higher dose meant more protection for antibiotic-associated diarrhoea, and for several other uses no dose-response could be found at all. And nothing here is permanent. In one study, strains appeared in stool within a day or two of the first capsule and cleared within roughly a week of the last.
+
+So check four things: the strain code, the dose, the duration you actually kept, and how fast things move through you. Your friend is one data point. So are you. Neither of you is lying.

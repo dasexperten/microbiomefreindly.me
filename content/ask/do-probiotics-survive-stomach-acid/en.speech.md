@@ -1,0 +1,11 @@
+You asked me whether probiotics survive stomach acid. Here is the short answer, and then the part that matters more.
+
+Some do. Your stomach is a chemical filter, and most swallowed bacteria fail it. Woodward and colleagues at the University of British Columbia tagged a bacterial population with more than two thousand distinguishable genetic barcodes, fed it to mice, and counted how many of those lineages showed up downstream. They found an average of twelve to forty-three. When they raised the stomach pH first with an acid-blocking drug, the number of founding lineages in the upper small intestine went up by as much as six point eight times. That was mice, and a pathogen rather than a probiotic — so it shows the shape of the barrier, not what happens to a Lactobacillus in you.
+
+Two things change the odds. The first is what kind of organism it is. A spore-former meets the acid as a dormant, dehydrated, armoured spore, and that is exactly what a spore is for. One such strain has been followed through real human digestion; it survived and germinated. One strain, one study — not a promise about every spore product on the shelf.
+
+The second is packaging. In a dynamic model of the human upper gut, free cells of one Lactobacillus came out at about eighteen and a half percent. Microencapsulated, the same strain reached about eighty-four and a half percent. But a second strain in the same experiment, with the same coating, barely moved. A coating is not a property of the technology. It is a property of the pairing.
+
+Now the part I want you to keep. Surviving is not the same as colonising. Researchers at the Weizmann Institute gave healthy volunteers an eleven-strain probiotic and then went in with an endoscope to sample the gut lining directly, rather than reading stool. The strains were alive after the journey. Whether they actually settled differed by person, by region of the gut, and by strain — and could not be told from stool at all.
+
+So a product can survive your stomach, appear in your stool, and never have settled anywhere. Survival is the entry ticket, not the show. Ask for the trial that measured the outcome you care about, not the one that counted how many cells came out the other end.

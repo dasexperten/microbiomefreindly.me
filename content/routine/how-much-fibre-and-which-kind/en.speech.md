@@ -1,0 +1,11 @@
+Ask someone how much fibre they eat, and you get a shrug. Ask which kind, and you get a blank. That is not carelessness. Fibre is one word stretched over plant carbohydrates that behave nothing alike once they reach your colon. Only some of them are food for anything living down there.
+
+So start with the mechanism. Your own enzymes give up on these molecules in the small intestine. What happens next depends on whether your gut bacteria carry the tools to break them down. When they do, they ferment the fibre and release short-chain fatty acids. And which acid comes out is not random. In one controlled trial, different resistant starch structures pushed the output toward either propionate or butyrate, consistently, within each group.
+
+Now the types, because this is where most advice goes wrong. The useful split is not soluble against insoluble. It is viscosity. Gel-forming fibres, like beta-glucan, psyllium and raw guar gum, are the ones that lower cholesterol and improve blood sugar control. Inulin, fructo-oligosaccharides, wheat dextrin and wheat bran do not do that particular job. And loosening stool needs a fibre that survives the colon intact, which fermentable fibre by definition does not, because fermentation eats it. So the fibre that best feeds your bacteria is usually not the fibre that fixes your stool. Two different jobs.
+
+The amount. Pooling one hundred and eighty-five prospective studies and fifty-eight trials, risk reduction was greatest when daily intake sat between twenty-five and twenty-nine grams. But it is not a straight line upward. With resistant starch, effects plateaued at thirty-five grams a day.
+
+And the bloating, which is the reason most people quit. In twenty-nine healthy adults, agave inulin at five and seven and a half grams a day pushed a gut symptom score from zero point four up to one point nine and two point three, on a scale of twelve. Breath hydrogen rose five to eight hours after the dose. So: ramp over weeks, not a weekend. Split the dose across meals. Expect the gas in the evening from what you ate at lunch.
+
+One honest limit. A seventeen-week trial that raised people to forty-five grams a day did not find a significant change in its main immune measure. Fibre has strong evidence at population scale. What it does for you, this month, is still an open question.
