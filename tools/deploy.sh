@@ -2,7 +2,8 @@
 # deploy.sh — build and deploy the portal to Cloudflare Pages (direct upload).
 # Law: organizacia HARD_RULES §8.1 / §0g — deploy ONLY from a tree identical to origin/main of THIS repo.
 # Token: the CF Cloud Master token from the organizacia `secrets` branch (SECRETS/cloudflare.md),
-#        or CLOUDFLARE_API_TOKEN already in the environment (CI). Never printed.
+#        or CLOUDFLARE_API_TOKEN already in the environment (CI), or WRANGLER_OAUTH=1 to use the machine's own
+#        `wrangler login` and read no token at all. Never printed.
 # Usage: PAGES_PROJECT=microbiomefriendly-portal bash tools/deploy.sh
 set -euo pipefail
 HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
@@ -21,12 +22,12 @@ if [ -n "$(git status --porcelain)" ] || [ "$(git rev-parse HEAD)" != "$(git rev
   cd "$W"
 fi
 
-if [ -z "${CLOUDFLARE_API_TOKEN:-}" ]; then
+if [ -z "${CLOUDFLARE_API_TOKEN:-}" ] && [ -z "${WRANGLER_OAUTH:-}" ]; then
   ORG="${ORG_REPO:-$HOME/.dasexperten/repos/organizacia}"
   CLOUDFLARE_API_TOKEN="$(git -C "$ORG" show origin/secrets:SECRETS/cloudflare.md | awk -F'`' '/CF Cloud Master/ && /cfut_/ {print $2; exit}')"
   export CLOUDFLARE_API_TOKEN
 fi
-[ -n "$CLOUDFLARE_API_TOKEN" ] || { echo "no Cloudflare token"; exit 3; }
+[ -n "${CLOUDFLARE_API_TOKEN:-}" ] || [ -n "${WRANGLER_OAUTH:-}" ] || { echo "no Cloudflare token"; exit 3; }
 
 export PORTAL_ORIGIN="${PORTAL_ORIGIN:-https://${PROJECT}.pages.dev}"
 export BUILD_DATE="$(date -u +%Y-%m-%d)"

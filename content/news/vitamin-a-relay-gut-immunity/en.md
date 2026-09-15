@@ -57,8 +57,8 @@ images:
   preview: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-preview.webp"
   hero: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-hero.webp"
   og: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-og.jpg"
-  previewAlt: "Long segmented bacterial threads rooted in the soft folds of the gut lining, lit warm and close."
-  heroAlt: "A microbiologist at a bench in morning light, mid-sentence, one hand open as if passing something along, unmarked culture plates beside him."
+  previewAlt: "Illustration: segmented bacterial threads rooted by their tips in a soft fold of the gut lining, a small gold glint where one enters"
+  heroAlt: "Illustration: segmented bacteria rooted in the gut lining, whose cells hold gold vitamin A droplets; one droplet passes to a branching immune cell and on to T cells"
 referral:
   product: ""
   mayaLog: ""

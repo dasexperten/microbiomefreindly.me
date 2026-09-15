@@ -27,31 +27,32 @@ Long, thin, unbranched threads, many times the length of an ordinary rod, visibl
 
 A warm, close, morning-light look at a soft ivory intestinal wall with a small stand of segmented threads rooted in it — quiet and orderly, one lit plane, threads in teal and navy against ivory ground, and a single small gold note where the wall meets a thread, for the trickle of cargo being handed over. Own surface, own light, own temperature: this frame must not read as a crop of any other card.
 
-## 6. Hero scene (one sentence, one moment)
+## 6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16
 
-The scientist explains: one microbiologist standing at a plain bench in morning light, caught mid-sentence with an open hand turned outward as if passing something along to the person opposite — the gesture of a handoff, not a lecture — with a few unmarked culture plates and a notebook on the bench beside him.
+In mice, gut bacteria make the lining produce carrier proteins that hand dietary vitamin A to myeloid cells, which walk to the gut's lymph nodes and pass it to T cells — a relay of about three days.
 
-Mood: patient, unshowy, faintly amused at how far a small idea has to travel. He is explaining a relay, so the body language must show giving, not holding.
+## 7. Three beats (first → next → outcome)
 
-## 7. Cast — R2 REF file name(s)
+1. Segmented filamentous threads rooted in the villus wall switch on the lining cells; the lining fills with small gold droplets of retinol carried by protein.
+2. The lining hands one droplet to a myeloid cell — an irregular cell with long branching extensions — lying beneath it.
+3. The myeloid cell travels on and passes the droplet to a small round T cell among a close group of them.
 
-`refs/characters/MagnusLarsen.jpg` (accepted portrait master `MagnusLarsen_portrait.jpg`). One person in the frame. The scene is "the scientist explains", which is the case where Magnus's own REF is the right face.
+## 8. The one number (keyFacts, source id)
 
-## 8. Place + wardrobe (credible, no logos)
-
-An ordinary institute bench by a window — worn wood or pale laminate, daylight from one side. Lab coat open over a visible shirt collar, both layers in view. Nothing branded, nothing printed, nothing worn as a badge.
+Twenty-four hours after a labelled dose, about **22 %** stayed in the gut lining and **under 2 %** reached gut myeloid cells (`s1`, Cell Host & Microbe 2026). Shown only as proportion: of the many droplets held in the lining — about fifty — a single one travels on. Never printed.
 
 ## 9. Must not appear
 
-Any product, any packaging, anything that reads as a jar or tube. Any letters, numbers, glyphs, labels, scale bars, notebook writing, plate markings or invented microscope interface. Any manufacturer's mark or recognisable brand on glassware or equipment. Any invented face, second person, crowd or a hand belonging to nobody. Collage, split panel, inset, two frames glued together. Black background, blue neon glow, false-colour electron-micrograph cliché, glowing pill, DNA helix. Medical horror. No people, product or text of any kind in the preview.
+Any product, any packaging, anything that reads as a jar or tube. Any letters, numbers, glyphs, labels, scale bars, notebook writing, plate markings or invented microscope interface. Any manufacturer's mark or recognisable brand on glassware or equipment. Any person, face or hand in either frame; no lymph node or intestine drawn as an anatomical organ cut-away. Collage, split panel, inset, two frames glued together. Black background, blue neon glow, false-colour electron-micrograph cliché, glowing pill, DNA helix. Medical horror. No people, product or text of any kind in the preview.
 
 ## 10. Locales + alt text per locale
 
-**en — preview:** "Long segmented bacterial threads rooted in the soft folds of the gut lining, lit warm and close." (95 chars)
+Alt lines written 2026-09-16 against the accepted frames (RU register: Alexandra's gate, not yet passed).
 
-**en — hero:** "A microbiologist at a bench in morning light, mid-sentence, one hand open as if passing something along, unmarked culture plates beside him."
-
-Other locales: alt lines follow each translation (RU via Alexandra). One image set serves every locale; only `alt` changes.
+- en preview alt: "Illustration: segmented bacterial threads rooted by their tips in a soft fold of the gut lining, a small gold glint where one enters"
+- en hero alt: "Illustration: segmented bacteria rooted in the gut lining, whose cells hold gold vitamin A droplets; one droplet passes to a branching immune cell and on to T cells"
+- ru preview alt: "Иллюстрация: сегментированные нити бактерий укоренены кончиками в мягкой складке слизистой кишечника, золотая искра в месте входа одной нити"
+- ru hero alt: "Иллюстрация: сегментированные бактерии в слизистой кишечника, её клетки держат золотые капли витамина A; одна капля переходит к ветвистой иммунной клетке и дальше к T-клеткам"
 
 ---
 
@@ -68,3 +69,10 @@ Other locales: alt lines follow each translation (RU via Alexandra). One image s
 **Honesty note.** The preview is an illustration of a micro-world, never presented as a diagnostic or microscope image, and the alt text says so by describing what is depicted rather than claiming a photograph. Nothing in either frame may suggest a supplement, a dose or a human benefit — the study showed a route, not a benefit.
 
 — Magnus Larsen · 2026-09-02
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a small stand of segmented threads rooted at their tapered tips in the soft wall of one villus; the point where the nearest thread enters the wall is the sharpest spot. Subject inside the middle 1.91:1 band. **World:** soft, rounded folds of the gut wall; low warm late-afternoon light raking from the left, peach temperature. **Accent:** a single small gold note at that contact point.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** the one gold droplet in transit — left the threads and the lining full of droplets, centre the handoff to the branching myeloid cell, right the small round T cells receiving it. **Light:** warm directional light from the left, sunlit amber. **Accent:** gold on the retinol droplets; the travelling droplet is the brightest.

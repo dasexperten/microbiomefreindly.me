@@ -57,8 +57,8 @@ images:
   preview: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-preview.webp"
   hero: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-hero.webp"
   og: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-og.jpg"
-  previewAlt: "Long segmented bacterial threads rooted in the soft folds of the gut lining, lit warm and close."
-  heroAlt: "A microbiologist at a bench in morning light, mid-sentence, one hand open as if passing something along, unmarked culture plates beside him."
+  previewAlt: "Иллюстрация: сегментированные нити бактерий укоренены кончиками в мягкой складке слизистой кишечника, золотая искра в месте входа одной нити"
+  heroAlt: "Иллюстрация: сегментированные бактерии в слизистой кишечника, её клетки держат золотые капли витамина A; одна капля переходит к ветвистой иммунной клетке и дальше к T-клеткам"
 referral:
   product: ""
   mayaLog: ""

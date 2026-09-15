@@ -15,7 +15,7 @@
 
 ```bash
 git fetch origin && git status -sb          # must be clean and equal to origin/main
-npm run deploy                              # = bash tools/deploy.sh
+PORTAL_ORIGIN=https://microbiomefriendly.me npm run deploy   # = bash tools/deploy.sh; WRANGLER_OAUTH=1 uses the machine's wrangler login
 ```
 
 `tools/deploy.sh` refuses a dirty tree or a HEAD that differs from `origin/main`, builds (`src/build.mjs`), runs the gate (`src/check.mjs`), writes `dist/BUILD_SHA`, then `wrangler pages deploy dist --project-name=microbiomefriendly-portal --branch=main`.

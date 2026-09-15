@@ -253,7 +253,7 @@ function articlePage(lang, c, doc, alternates, clusters) {
   const body = renderBody(doc.body, sources, lang);
   const kicker = fm.kicker || t.topicNames[fm.topic] || '';
   const hero = fm.images?.hero
-    ? `<figure class="article-hero"><img src="${attr(fm.images.hero)}" alt="${attr(fm.images.heroAlt || fm.title)}" width="1200" height="675"><figcaption>${esc(fm.images.heroAlt || '')}</figcaption></figure>` : '';
+    ? `<figure class="article-hero"><img src="${attr(fm.images.hero)}" srcset="${attr(fm.images.hero)} 1200w, ${attr(fm.images.hero.replace(/-hero\.webp$/, '-hero@2x.webp'))} 2400w" sizes="(max-width: 860px) 100vw, 860px" alt="${attr(fm.images.heroAlt || fm.title)}" width="1200" height="675" fetchpriority="high"><figcaption>${esc(fm.images.heroAlt || '')}</figcaption></figure>` : '';
   const facts = (fm.keyFacts || []).length
     ? `<section class="facts"><h2>${esc(t.keyFacts)}</h2><ul>${fm.keyFacts.map((k) => `<li>${nbspNumbers(esc(k.fact))}${k.source ? `<sup><a href="#${k.source}">${sources.findIndex((s) => s.id === k.source) + 1}</a></sup>` : ''}</li>`).join('')}</ul></section>` : '';
   const faq = (fm.faq || []).length
@@ -330,11 +330,13 @@ function homePage(lang, clusters, alternates) {
   const bact = clusters.filter((c) => c.type === 'bacteria' && c.langs[lang]).slice(0, 6);
   const hubs = TOPICS.filter((tp) => clusters.some((c) => c.type === 'hubs' && c.slug === tp && c.langs[lang]));
   const empty = !news.length && !bact.length;
-  // The hero's right half carries the newest piece that has an accepted hero frame — the lead story,
-  // not a decoration (Marika: one image filling the same space as the text half).
-  const lead = [...news, ...bact].find((c) => c.langs[lang].fm.images?.hero);
+  // The hero's right half carries the newest piece that has an accepted frame — the lead story,
+  // not a decoration (Marika: one image filling the same space as the text half). The cell is not 16:9
+  // (it stretches to the text on desktop, 3:2 on phone), so it takes the 3:2 preview master, never a crop
+  // of the 16:9 infographic hero (Marika 2026-09-16, BRAND_IMAGE_SPEC §1).
+  const lead = [...news, ...bact].find((c) => c.langs[lang].fm.images?.preview);
   const heroArt = lead
-    ? (() => { const f = lead.langs[lang].fm; return `<a class="hero__art" href="${pageUrl(lang, lead.type, lead.slug)}"><img src="${attr(f.images.hero)}" alt="${attr(f.images.heroAlt || f.title)}" width="1200" height="675" fetchpriority="high"><span class="hero__cap"><span class="kicker">${esc(f.kicker || t.topicNames[f.topic] || t.latestNews)}</span><span class="hero__capttl">${nbspNumbers(esc(f.title))}</span></span></a>`; })()
+    ? (() => { const f = lead.langs[lang].fm; const p2 = f.images.preview.replace(/-preview\.webp$/, '-preview@2x.webp'); return `<a class="hero__art" href="${pageUrl(lang, lead.type, lead.slug)}"><img src="${attr(p2)}" srcset="${attr(f.images.preview)} 720w, ${attr(p2)} 1440w" sizes="(max-width: 860px) 100vw, 50vw" alt="${attr(f.images.previewAlt || f.title)}" width="1440" height="960" fetchpriority="high"><span class="hero__cap"><span class="kicker">${esc(f.kicker || t.topicNames[f.topic] || t.latestNews)}</span><span class="hero__capttl">${nbspNumbers(esc(f.title))}</span></span></a>`; })()
     : '<div class="hero__art hero__art--empty" aria-hidden="true"></div>';
   const bodyHtml = `<section class="hero"><div class="hero__in"><div class="hero__text"><div class="kicker">${esc(t.siteName)}</div><h1>${esc(t.tagline)}</h1><p class="sub">${esc(t.aboutText)}</p><div class="hero__pills">${TOPICS.map((tp) => `<span class="pill">${esc(t.topicNames[tp])}</span>`).join('')}</div></div>${heroArt}</div></section>
 ${empty && lang !== 'en' ? `<section class="section"><div class="wrap"><p class="notice">${esc(t.preparing)} <a href="/">English →</a></p></div></section>` : ''}

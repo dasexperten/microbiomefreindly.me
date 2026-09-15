@@ -82,10 +82,11 @@ sources:
     doi: "10.1016/j.micres.2013.01.004"
     pmid: "23414698"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-preview.webp"
+  hero: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-hero.webp"
+  og: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-og.jpg"
+  previewAlt: "Иллюстрация: палочка со спорой в плотной оболочке и три свободные споры целы в кислоте, а нежные палочки вокруг распадаются"
+  heroAlt: "Иллюстрация: проглоченные бактерии проходят желудочную кислоту; большинство свободных палочек разрушается, споры и кластер в оболочке проходят целыми, у слизистой кишечника две выжившие оседают в слизи, другие проплывают мимо"
 referral:
   product: ""
   mayaLog: ""

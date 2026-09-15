@@ -82,10 +82,11 @@ sources:
     doi: "10.1016/j.micres.2013.01.004"
     pmid: "23414698"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-preview.webp"
+  hero: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-hero.webp"
+  og: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-og.jpg"
+  previewAlt: "Illustration: a rod carrying an armoured spore and three free spores lie whole in acid, while delicate rods around them collapse"
+  heroAlt: "Illustration: swallowed bacteria cross stomach acid; most free rods collapse, spores and a shelled cluster pass whole, and at the gut lining two survivors settle in mucus while others drift past"
 referral:
   product: ""
   mayaLog: ""

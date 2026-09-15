@@ -44,13 +44,12 @@ The eye must be able to walk that path in one pass: crowded → filtered → som
 
 Shown as **proportion in the delicate lane**: of every twenty free rods that enter the acid field, fewer than four come out the far side still whole — countable without effort, a wide gap between what went in and what emerged. Nothing else in the frame carries a number. The shelled cluster may show its cells surviving, but no quantity is attached to it and none may be implied by matching counts. The number is never printed, never labelled, never written anywhere in the pixels. Proportion is the whole of it.
 
-**6. Preview alt text (EN, ≤ 125 characters)**
+**6–7. Alt text — written 2026-09-16 against the accepted frames** (RU register: Alexandra's gate, not yet passed)
 
-Illustration: probiotic cells crossing stomach acid — most rods collapse, spores and a coated cluster come through whole
-
-**7. Hero alt text (EN)**
-
-Illustration: swallowed probiotic bacteria crossing the stomach acid barrier in one path — a crowd of slender rods, paired oval cocci, spore-bearing rods and one cluster inside a thin protective shell goes in; most of the free cells collapse while the spores and the shelled cells pass unchanged; on the far side the survivors reach the mucus-covered gut lining, where some sink in and take hold and others drift past without ever attaching.
+- en preview alt: "Illustration: a rod carrying an armoured spore and three free spores lie whole in acid, while delicate rods around them collapse"
+- en hero alt: "Illustration: swallowed bacteria cross stomach acid; most free rods collapse, spores and a shelled cluster pass whole, and at the gut lining two survivors settle in mucus while others drift past"
+- ru preview alt: "Иллюстрация: палочка со спорой в плотной оболочке и три свободные споры целы в кислоте, а нежные палочки вокруг распадаются"
+- ru hero alt: "Иллюстрация: проглоченные бактерии проходят желудочную кислоту; большинство свободных палочек разрушается, споры и кластер в оболочке проходят целыми, у слизистой кишечника две выжившие оседают в слизи, другие проплывают мимо"
 
 **8. What must never appear**
 
@@ -63,3 +62,10 @@ No pill, tablet, gel-cap, blister pack, bottle, jar, sachet, dropper, syringe or
 **10. Locales live for this piece**
 
 `en` and `ru` — both files exist and are published. One image set serves both; only the alt line changes per language. English alt above; the Russian alt comes from Alexandra Vetrova, not from a translation of mine.
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one rod carrying its oval spore at the end, with two or three free spores beside it, whole and dense, resting in a grainy acid field while slender delicate rods nearby are slumped and fading. Subject inside the middle 1.91:1 band. **World:** a dense, granular, pale acid medium; bright neutral midday light, crisp small shadows. **Accent:** coral on the spore coats only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** the delicate lane — about twenty free rods entering on the left, fewer than four whole on the right — beside the spores and the one shelled cluster passing unchanged; at far right the folded, mucus-covered lining where some survivors sink in and others drift past. **Light:** cool clear daylight from the right. **Accent:** gold on the survivors that settle into the mucus.

@@ -98,8 +98,8 @@ images:
   preview: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-preview.webp"
   hero: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-hero.webp"
   og: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-og.jpg"
-  previewAlt: "Rod-shaped Lactobacillus cells in short chains resting in a pale, souring milk film, illustrated close-up"
-  heroAlt: "Magnus Larsen at a lab bench holding an open jar of plain yogurt beside a culture plate, comparing the two in morning light"
+  previewAlt: "Illustration: short chains of rod-shaped Lactobacillus cells resting in a souring milk film, a faint gold haze around one chain"
+  heroAlt: "Illustration: Lactobacillus rods crowd a sour, gold-tinged pocket on the left, while on the gut lining at right one small chain sits among countless other bacteria"
 referral:
   product: ""
   mayaLog: ""

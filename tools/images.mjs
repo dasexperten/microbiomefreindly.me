@@ -8,6 +8,8 @@
  * Ratios are born native in generation; this script only scales. It never crops a preview into a hero or vice versa (§4f).
  * Usage: node tools/images.mjs <masters-dir> <out-dir>
  *   masters-dir holds <type>/<slug>/<slug>-preview.(png|jpg) and <slug>-hero.(png|jpg)
+ *   the masters themselves go to R2 too, scaled to their master size: mbf/masters/<slug>/<slug>-preview-master.png (1440×960)
+ *   and <slug>-hero-master.png (2400×1350). Engines that render on their own size grid (1536×1024, 1672×941) are scaled, never cropped.
  *   out-dir receives <type>/<slug>/<files>; the upload plan (R2 key → file) is written to out-dir/upload-plan.json
  * R2 keys: mbf/<type>/<slug>/<file> on bucket dasexperten-images; public base https://pub-1d1b12958f2d4ea380276bd8d0a1ff02.r2.dev/
  */
@@ -21,9 +23,20 @@ const R2_PUBLIC = 'https://pub-1d1b12958f2d4ea380276bd8d0a1ff02.r2.dev';
 const plan = [];
 const walk = (d) => readdirSync(d).flatMap((f) => { const p = join(d, f); return statSync(p).isDirectory() ? walk(p) : /\.(png|jpe?g|webp)$/i.test(f) ? [p] : []; });
 
+// weight caps per file, BRAND_IMAGE_SPEC §1 — quality steps down until the file fits; a file that cannot fit fails loudly
+const CAP_KB = { 'preview.webp': 110, 'preview@2x.webp': 220, 'preview.jpg': 110, 'og.jpg': 280, 'hero.webp': 170, 'hero@2x.webp': 340, 'hero.jpg': 170, 'thumb.webp': 40 };
 async function out(img, rel, opts) {
   const p = join(OUT, rel); mkdirSync(join(p, '..'), { recursive: true });
-  await img.clone().resize(opts.w, opts.h, { fit: opts.fit || 'cover', position: 'centre', withoutEnlargement: false })[opts.fmt](opts.fmt === 'webp' ? { quality: 82 } : { quality: 84, mozjpeg: true }).toFile(p);
+  const cap = CAP_KB[Object.keys(CAP_KB).find((k) => rel.endsWith(`-${k}`))];
+  const sized = img.clone().resize(opts.w, opts.h, { fit: opts.fit || 'cover', position: 'centre', withoutEnlargement: false });
+  let q = opts.fmt === 'webp' ? 82 : 84; let buf;
+  for (;;) {
+    buf = await sized.clone()[opts.fmt](opts.fmt === 'webp' ? { quality: q } : opts.fmt === 'png' ? { compressionLevel: 9 } : { quality: q, mozjpeg: true }).toBuffer();
+    if (!cap || buf.length <= cap * 1024) break;
+    if (q <= 50) { console.error(`OVER CAP ${rel}: ${Math.round(buf.length / 1024)} KB > ${cap} KB at quality ${q}`); process.exitCode = 1; break; }
+    q -= 4;
+  }
+  writeFileSync(p, buf);
   const key = `mbf/${rel.replace(/\\/g, '/')}`;
   plan.push({ key, file: p, url: `${R2_PUBLIC}/${key}` });
 }
@@ -31,10 +44,12 @@ async function out(img, rel, opts) {
 for (const file of walk(SRC)) {
   const rel = file.slice(SRC.length + 1).replace(/\\/g, '/'); // <type>/<slug>/<name>
   const [type0, slug] = rel.split('/'); const type = type0 === 'news' ? 'articles' : type0; const name = basename(file, extname(file));
+  if (!/-(preview|hero)$/.test(basename(file, extname(file)))) continue; // raw engine files and notes are not masters
   const img = sharp(file); const meta = await img.metadata();
   const ratio = meta.width / meta.height;
   if (name.endsWith('-preview')) {
     if (Math.abs(ratio - 1.5) > 0.04) { console.error(`SKIP ${rel}: preview ratio ${ratio.toFixed(3)} is not 3:2 (born-native rule)`); continue; }
+    await out(img, `masters/${slug}/${slug}-preview-master.png`, { w: 1440, h: 960, fmt: 'png' });
     await out(img, `${type}/${slug}/${slug}-preview.webp`, { w: 720, h: 480, fmt: 'webp' });
     await out(img, `${type}/${slug}/${slug}-preview@2x.webp`, { w: 1440, h: 960, fmt: 'webp' });
     await out(img, `${type}/${slug}/${slug}-preview.jpg`, { w: 720, h: 480, fmt: 'jpeg' });
@@ -42,6 +57,7 @@ for (const file of walk(SRC)) {
     await out(img, `${type}/${slug}/${slug}-og.jpg`, { w: 1200, h: 630, fmt: 'jpeg' }); // centre band of the 3:2 master
   } else if (name.endsWith('-hero')) {
     if (Math.abs(ratio - 16 / 9) > 0.04) { console.error(`SKIP ${rel}: hero ratio ${ratio.toFixed(3)} is not 16:9 (born-native rule)`); continue; }
+    await out(img, `masters/${slug}/${slug}-hero-master.png`, { w: 2400, h: 1350, fmt: 'png' });
     await out(img, `${type}/${slug}/${slug}-hero.webp`, { w: 1200, h: 675, fmt: 'webp' });
     await out(img, `${type}/${slug}/${slug}-hero@2x.webp`, { w: 2400, h: 1350, fmt: 'webp' });
     await out(img, `${type}/${slug}/${slug}-hero.jpg`, { w: 1200, h: 675, fmt: 'jpeg' });

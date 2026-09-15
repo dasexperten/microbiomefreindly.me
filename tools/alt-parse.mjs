@@ -47,7 +47,9 @@ export function altsFromBrief(path) {
 
     let rest = '';
     const afterSlot = line.slice(slotM.index + slotM[0].length);
-    const colon = afterSlot.lastIndexOf(':');
+    // a quoted value may itself carry a colon ("Illustration: …") — then the colon that opens the quote wins
+    const first = afterSlot.indexOf(':');
+    const colon = first >= 0 && QUOTE_OPEN.test(afterSlot.slice(first + 1).trimStart().slice(0, 1)) ? first : afterSlot.lastIndexOf(':');
     if (colon >= 0) rest = afterSlot.slice(colon + 1);
     else if (QUOTE_OPEN.test(afterSlot)) rest = afterSlot.slice(afterSlot.search(QUOTE_OPEN));
     else if (clean(afterSlot).length >= 15) rest = afterSlot;

@@ -98,8 +98,8 @@ images:
   preview: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-preview.webp"
   hero: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-hero.webp"
   og: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-og.jpg"
-  previewAlt: "Alexandra, from the EN lines above; same meaning, no ”microscope photo” wording."
-  heroAlt: ""
+  previewAlt: "Иллюстрация: короткие цепочки палочек Lactobacillus в скисающей молочной плёнке, вокруг одной цепочки лёгкая золотистая дымка кислоты"
+  heroAlt: "Иллюстрация: слева палочки Lactobacillus теснятся в кислом кармане с золотистой дымкой, справа на слизистой кишечника одна маленькая цепочка среди множества других бактерий"
 referral:
   product: ""
   mayaLog: ""
