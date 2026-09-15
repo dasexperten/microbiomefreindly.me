@@ -398,7 +398,12 @@ function evidencePage(lang, clusters, alternates) {
 }
 
 /* ---------- write ---------- */
-function write(url, html) { const p = outPath(url); mkdirSync(dirname(p), { recursive: true }); writeFileSync(p, html); return url; }
+/* portal images are served immutable for a year; a replaced frame keeps its file name, so every reference carries the
+ * file's own fingerprint — the same rule as the stylesheet. Without it the edge and the reader's browser keep the old frame. */
+const IMG_V = new Map();
+const imgV = (u) => { if (!IMG_V.has(u)) { const f = join(ROOT, 'src', u); IMG_V.set(u, existsSync(f) ? createHash('sha1').update(readFileSync(f)).digest('hex').slice(0, 10) : ''); } return IMG_V.get(u); };
+const versionImages = (html) => html.replace(/\/assets\/img\/mbf\/[A-Za-z0-9@._\/-]+\.(?:webp|jpg|png)(?!\?v=)/g, (m) => (imgV(m) ? `${m}?v=${imgV(m)}` : m));
+function write(url, html) { const p = outPath(url); mkdirSync(dirname(p), { recursive: true }); writeFileSync(p, versionImages(html)); return url; }
 
 function build() {
   const clusters = loadAll();
