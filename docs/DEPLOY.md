@@ -18,6 +18,8 @@ git fetch origin && git status -sb          # must be clean and equal to origin/
 PORTAL_ORIGIN=https://microbiomefriendly.me npm run deploy   # = bash tools/deploy.sh; WRANGLER_OAUTH=1 uses the machine's wrangler login
 ```
 
+Images are served from the portal's own domain (`/assets/img/mbf/…`, fingerprinted per file) and the same files plus the two masters live in R2 `dasexperten-images/mbf/…`.
+
 `tools/deploy.sh` refuses a dirty tree or a HEAD that differs from `origin/main`, builds (`src/build.mjs`), runs the gate (`src/check.mjs`), writes `dist/BUILD_SHA`, then `wrangler pages deploy dist --project-name=microbiomefriendly-portal --branch=main`.
 
 CI: `.github/workflows/build-check.yml` builds and gates every push; it deploys from `main` only when the repo secret `CLOUDFLARE_API_TOKEN` exists. Adding that secret is Mina's hand (keys are written to both stores the same session, §0f-1).
@@ -42,4 +44,7 @@ Mail is untouched: the `mail` A record, MX and DMARC stay as they were.
 
 | Date | SHA | Who | Result |
 |---|---|---|---|
-| (filled by the first deploy) | | | |
+| 2026-09-16 | `0409619` | session (Otto · Lisa · Marika) | wave 1 live — Lactobacillus, vitamin A relay, probiotics and stomach acid |
+| 2026-09-16 | `5fafa7e` | session | wave 2 live — 36 more topics |
+| 2026-09-16 | `26c7b9f` | session | last five topics; all 44 carry both masters |
+| 2026-09-16 | `446398f` | session | image URLs fingerprinted — the edge was still serving the replaced frames |
