@@ -10,7 +10,8 @@ This repository is a **surface repo** of the DAS EXPERTEN organization. The orga
 | Jurgen Witt | `jurgen-witt` | SEO brief: URLs, hreflang, titles, keywords per locale, site health — `docs/SEO_BRIEF.md` |
 | Julian Farah | `julian-farah` | GEO brief: citability, entities, `llms.txt`, claim canon — `docs/GEO_BRIEF.md` |
 | Marika Nowicka | `marika-nowicka` | slot + ratio for every image, design tokens, acceptance — `docs/BRAND_IMAGE_SPEC.md` |
-| Lisa | `lisa` | writes the engine prompt and generates both images per article (Higgsfield only); uploads to R2 |
+| Otto Zuckerman | `otto-zuckerman` | hero master per topic: 16:9 3D scientific infographic, no people, his own engine words, platform-native engine (Owner 2026-09-16) |
+| Lisa | `lisa` | preview master per topic: 3:2 macro micro-world, her own engine words, platform-native engine; uploads to R2 |
 | Kobayashi | `kobayashi` | owner of `blog-writer`; Magnus borrows it under all its gates; every non-lane topic is his |
 | Roberta Di Maria | `roberta-di-maria` | publication gate, EN register, calendar; the portal content go/no-go |
 | Alexandra Vetrova | `alexandra-obnorskaya` | RU register gate |

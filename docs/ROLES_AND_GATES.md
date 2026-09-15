@@ -11,7 +11,8 @@
 | **Roberta Di Maria** | publication gate, EN register, calendar slot, `marketolog` owner, portal content go/no-go | rendering visuals |
 | **Alexandra Vetrova** | RU register gate | — |
 | **Marika Nowicka** | slot + exact ratio before any image; design tokens; acceptance of every frame | still generation (that is Lisa's lane) |
-| **Lisa** | engine prompt + generation of preview and hero (Higgsfield only); R2 upload | static layout (Marika's lane); inventing a face |
+| **Otto Zuckerman** | hero master: 16:9 3D scientific infographic, no people — his own engine words (§4e-1a), platform-native engine, not Higgsfield | a living person or a shot scene (Lisa's); accepting his own frame |
+| **Lisa** | preview master: 3:2 macro micro-world, shot-looking — her own engine words, platform-native engine, not Higgsfield; R2 upload | static layout (Marika's lane); built imagery (Otto's); inventing a face |
 | **Taras Ryzhiy** | motion, if a topic ever needs it | stills |
 | **Maya Krasochkina** | first gate on any product fact (§4c) | — |
 | **Lauda Briana** | `benefit-gate` on anything that sells; consulting section design (later phase) | — |

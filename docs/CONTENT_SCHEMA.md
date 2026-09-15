@@ -54,7 +54,7 @@ entity:                                                  # bacteria pages only
   ncbiTaxId: "239935"
 images:
   preview: ""                                            # R2 public URL of the preview (macro / "zoomed") image — filled by Lisa after Marika accepts
-  hero: ""                                               # R2 public URL of the hero with a house character REF
+  hero: ""                                               # R2 public URL of the hero — Otto's 3D infographic, no people (Owner 2026-09-16)
   previewAlt: "…"
   heroAlt: "…"
 referral:                                                # at most one product mention, after the mechanism, never in the first half
@@ -86,7 +86,7 @@ Markdown after the front-matter. Rules:
 
 ## Image brief (`image-brief.md`)
 
-Plain words from Magnus to Brand Studio — the fields are in `docs/BRAND_IMAGE_SPEC.md` (Marika). Magnus never writes an engine prompt (§4e-1); Lisa writes it and generates; Marika accepts; the two R2 URLs then go into `images.preview` / `images.hero`.
+Plain words from Magnus to Brand Studio — the fields are in `docs/BRAND_IMAGE_SPEC.md` (Marika). Magnus never writes an engine prompt (§4e-1); Otto writes the hero's, Lisa the preview's, each generates; Marika accepts; the two R2 URLs then go into `images.preview` / `images.hero`.
 
 ## Sections (Owner 2026-09-04)
 

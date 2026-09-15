@@ -1,7 +1,7 @@
 # BRAND IMAGE SPEC — microbiomefriendly.me · slots, proportions, acceptance
 
-**Who:** Marika Nowicka — head of Brand Studio · **For:** Magnus Larsen (briefs), Lisa (generation), Mina (deploy)
-**Why:** Owner brief 2026-09-02 — two images per topic: a *preview* (micro-world, no people) and a *hero* (one scene with a house character from R2).
+**Who:** Marika Nowicka — head of Brand Studio · **For:** Magnus Larsen (briefs), Otto Zuckerman (hero), Lisa (preview), Mina (deploy)
+**Why:** Owner brief 2026-09-02 — two images per topic: a *preview* (micro-world, no people) and a *hero*. **Owner 2026-09-16 — the lane is settled:** the hero is **Otto Zuckerman's 3D scientific infographic, no people** (built imagery is Otto's since 2026-09-05, §4d); the preview is **Lisa's macro world**. The 2026-09-02 character hero is withdrawn; it returns only on the Owner's word, and then as Lisa's frame under REF law.
 **Law:** HARD_RULES §4 · §4b · §4d · §4e · §4e-1 · §4f · §4h · §4h-2 · §4i. This file is the slot brief. Until the slot and the ratio below are named, nothing is generated (§4f · §4e-1).
 
 I looked first. Below is the place and the proportion for every image the portal will carry. One surface — one slot — one native ratio. A frame is born in its ratio; it is never stretched or cropped into a neighbour's frame.
@@ -19,7 +19,7 @@ The portal is one brand with one card grid, so every article and every encyclope
 | **Article hero** | `.article-hero`, full content width directly under H1 and lead, before the first paragraph | **16:9** | **1200×675** | **2400×1350** | 1x ≤ 170 KB · 2x ≤ 340 KB | webp + jpg fallback | `<slug>-hero.webp` · `-hero@2x.webp` · `-hero.jpg` |
 | **Thumb** | related-articles rail, encyclopedia index rows, search results | 3:2 | 360×240 | 720×480 | ≤ 40 KB | webp | `<slug>-thumb.webp` |
 
-**Master sizes Lisa generates natively:** preview **3:2 at 1440×960** (Higgsfield `aspect_ratio` 3:2, 2k); hero **16:9 at 2400×1350** (`aspect_ratio` 16:9, 2k). Everything in the table is a *resize* of its own master, never a crop — with one exception, named aloud:
+**Masters, born native (Owner 2026-09-16):** preview **3:2 at 1440×960** — **Lisa**; hero **16:9 at 2400×1350** — **Otto**. Engine: platform-native generation for this lane (Codex `$imagegen` or Grok `/imagine`), **not Higgsfield**. Where the engine only renders sizes on its own grid, it renders the same ratio exactly and `tools/images.mjs` scales to the master size — scale, never crop. Everything in the table is a *resize* of its own master, never a crop — with one exception, named aloud:
 
 - **og:image is the centre band of the preview master** (1440×960 → 1440×754 → 1200×630). I allow it because the preview carries **no people and no product** — §4f exists so that bodies do not come out unnatural, and a bacterial colony has no body. Condition: Lisa keeps the subject inside the **middle 1.91:1 band** of the 3:2 frame (top and bottom 11 % are air). If the subject touches that margin, the frame is reshot, not the CSS.
 - The hero is **never** the source of the preview, and the preview is never the source of the hero. Two masters, two worlds (Owner 2026-09-02, Lisa `LZ-MEM-260902-01`).
@@ -50,23 +50,26 @@ Public base `https://pub-1d1b12958f2d4ea380276bd8d0a1ff02.r2.dev/mbf/...`; the p
 |---|---|
 | Subject | The organism or structure the article is actually about: rod, coccus, Y-shaped bifidobacterium, biofilm on a surface, intestinal villi, mucus layer, kefir grain, fermentation bubbles, culture-plate colonies, root hair, mycelium. **Morphology is truth** — Magnus names the shape in the brief (field 4), Lisa does not invent it. A *Lactobacillus* article does not get spherical cells |
 | Framing | Macro or stylised micrograph, one plane of focus, shallow depth. Subject fills 55–70 % of the frame, centre band (see §1) |
-| Ground | Ivory `#F1EADC` / science `#FBFAF6` light; warm, airy, one light source. **No black background, no blue neon glow, no false-colour SEM cliché** |
-| Colour | Subject in navy `#1B3856`, teal `#178B7A`, green `#2F7D55`. **One** accent per frame at most — gold `#C7A24B`, violet `#6B5CCB` or coral `#E2725B` — as a small note, never a wash |
+| Ground | Warm greige `#EFEBE7` to paper `#F7F5F2` (portal tokens §4a); warm, airy, one light source. **No black background, no blue neon glow, no false-colour SEM cliché** |
+| Colour | Forms in charcoal `#363636`, navy `#1F2A3E`, teal `#1B5F56`. **One** accent per frame at most — gold `#C7A24B`, coral `#E2725B` or lime `#D9EB99` — on the element the reader must notice, never a wash |
 | Each frame its own world | Own surface, own light, own temperature per topic (Owner 2026-09-01). Ten cards on one page must not read as ten crops of one plate |
-| Forbidden | Text, labels, scale bars, invented microscope UI, invented glyphs; product of any brand; faces, hands, bodies; medical horror (pus, wounds, blood); stock "DNA helix" and "glowing pill" |
+| Forbidden | Text, letters, numerals, labels, worded arrows, scale bars, invented microscope UI, invented glyphs; product, packaging or brand mark of any kind; faces, hands, bodies; medical horror (pus, wounds, blood); stock "DNA helix" and "glowing pill" |
+| Pen | **Lisa** (§4d — a shot-looking world). She writes her engine words from `docs/IMAGE_PROMPT.md` |
 | Honesty | It is an illustration of a micro-world, never presented as a diagnostic image. `alt` says what is depicted, not "microscope photo of…" |
 
-### 2b. Hero — one scene, one frame, our character (article page)
+### 2b. Hero — Otto's 3D scientific infographic (article page) · Owner 2026-09-16
+
+The hero explains the topic's mechanism as a **built image**: matte 3D volumes, one warm directional light, a process the eye walks in one path. It is Otto Zuckerman's lane (§4d — built imagery: molecules, enzymes, biofilm, cells, flows) and his pen (§4e-1a). **No people.**
 
 | Point | Rule |
 |---|---|
-| Composition | **One scene, one frame, one moment.** No collage, no split panel, no inset. 16:9 reads wide: the character occupies the left or right 40 % with the article's subject world on the other side — bench, culture plates, ferment jar, kitchen, field. Eyes in the upper third |
-| Character | **Only a REF from R2 `dasexperten-images/refs/characters/`** (the Owner brief writes `efs/characters/` — same key, the leading `r` dropped; the bucket has `refs/characters/`, 132 objects as of 2026-09-02, Mina). Identity-locked in Higgsfield with that file as reference input. Never a described face, never stock, never "someone like Magnus" |
-| Default cast | For Magnus's lane the house face is **`refs/characters/MagnusLarsen.jpg`** (Owner photograph; accepted portrait master `MagnusLarsen_portrait.jpg`). A second person only when the Owner names one (§4 — *who appears is the Owner's word*) |
-| REF names on file in org docs | `MagnusLarsen`, `Kobayashi`, `Michellanghela`, `Ruda`, `Haide`, `Gerardina`, `Coli`, `MayaKrasochkina`, `RobertaDiMaria`, `JulianFarah`, `Andrea`, `Joanna`, `Kozlovskaya`, `Tupa`, `Alfred`, `Aresta`, `Bati`, `Haala`, `Oda`, `Shmeia`, `ObnorskayaFB`, `JustinaTimber`, `ValentinaKorolyeva`, `Helga1`, `Aura(schwarz)5`, `Gozde(termo)3`, `Marianna(detox)6`, `Rubi(schwarzfloss)`. **The full 132-key list is not on file in the org docs** — it lives only in the R2 listing and Higgsfield `characters_mapping.json`; Lisa reads it from R2, not from memory. Aura and Helga are never auto-picked (Owner 2026-07-20) |
-| Wardrobe · place | Plain, contemporary, credible for a microbiologist: lab coat over a visible collar (both layers visible, §4g), knit, apron at a ferment bench. No logos, no brand marks, no Das Experten product anywhere in the frame — this is a science portal, not a shop |
-| Light · palette | Same warm ground as the preview; skin true to REF; navy/teal/green in the scene, one accent |
-| Forbidden | Invented face or hand; two frames glued; text in image; product re-synthesis of any kind; a hero that is a wider crop of the preview |
+| Composition | **One frame, one path.** 16:9 reads wide: the process runs across the frame — first → next → outcome — with calm air around it. No collage, no split panel, no inset, no before/after tiles |
+| Subject | The mechanism from the article's `answer`, built around the organism or structure with the morphology of field 4. A *Lactobacillus* hero never gets spheres |
+| The number | One sourced figure from `keyFacts`, shown **by scale, quantity or proportion**, never printed. No figure in keyFacts → the clause is dropped, nothing is invented |
+| Light · palette | Ground greige `#EFEBE7` to paper `#F7F5F2`; forms charcoal `#363636`, navy `#1F2A3E`, teal `#1B5F56`; at most one accent — gold `#C7A24B`, coral `#E2725B`, lime `#D9EB99` — on the element the reader must notice. Its own light and temperature, not the preview's |
+| Words | **None in pixels** — no letters, numerals, labels, worded arrows, scale bars, interfaces, logo. Caption and alt carry the words, so one set serves all 18 locales. (Otto's standard of type laid over by code does not apply on this portal: the Owner's 2026-09-16 word is no text in any frame) |
+| Forbidden | People, faces, hands, bodies; organ cut-aways; product, packaging, capsule-as-product, brand mark; black ground, blue neon, false-colour micrograph, stock DNA helix, medical horror; a hero that is a wider crop of the preview |
+| Character hero | Withdrawn 2026-09-16. Returns only on the Owner's word; then it is **Lisa's** frame under §4 / §4e-3 (REF from R2 `refs/characters/`, never an invented face) and the REF rules of the 2026-09-02 edition apply again |
 
 ---
 
@@ -74,15 +77,15 @@ Public base `https://pub-1d1b12958f2d4ea380276bd8d0a1ff02.r2.dev/mbf/...`; the p
 
 | Step | Who | What |
 |---|---|---|
-| 1 | **Magnus** | Plain words: what the article is about, which organism, what the reader should feel. **Never prompt text** (§4e-1) |
-| 2 | **Marika** | Slot + ratio — this file. Per article I answer only if a field deviates |
-| 3 | **Lisa** | Writes the engine prompt, generates in **Higgsfield only** (§4b), native ratio, REF as input, two variations per slot, does not accept herself |
+| 1 | **Magnus** | Plain words: mechanism, morphology (field 4), the one sourced number, the three beats. **Never prompt text** (§4e-1). Roberta words the brief |
+| 2 | **Marika** | Slot + ratio — this file — **and the focus of each frame**, written per topic in the brief before generation |
+| 3 | **Otto** (hero) · **Lisa** (preview) | Each writes their own engine words (§4e-1a) and generates on the platform-native engine, **not Higgsfield**; native ratio; one frame per master, two at most with a named reason (§4e-2); does not accept their own work |
 | 4 | **Marika** | Accepts the frame **and** its look in the live cell — twice, not once |
 | 5 | Mina | Uploads to R2, wires `<img>`, `og:image`, `ImageObject`, image sitemap |
 
 **Acceptance checklist — every item measured, none intended:**
 
-1. **Identity** — face matches the R2 REF file side by side: eyes, brow, nose, hairline, skin. "Resembles" is a reject.
+1. **No people** — no face, hand or body in either frame. (Only if the Owner brings a character hero back: identity matches the R2 REF side by side; "resembles" is a reject.)
 2. **No product re-synthesis** — no tube, box, brush, jar with a brand look anywhere in the frame; no invented packaging.
 3. **Ratio born right** — file dimensions equal the master size in §1 (1440×960 / 2400×1350); no stretch, no crop other than the og band.
 4. **Preview safe band** — subject inside the middle 1.91:1; og crop loses only air.
@@ -92,6 +95,8 @@ Public base `https://pub-1d1b12958f2d4ea380276bd8d0a1ff02.r2.dev/mbf/...`; the p
 8. **Weight** — under the caps in §1, checked on the exported file, not the master.
 9. **Truth** — the organism's morphology matches field 4 of the brief; Maya's consult is logged when a product or a health claim is nearby (§4c).
 10. **Live cell** — screenshot of the card at 3-up desktop and 1-up 360 px mobile; nothing important is cut by `object-fit:cover`.
+11. **Set, side by side** — the previews of a wave on one contact sheet, the heroes on another: each frame its own world, light and temperature; no two read as crops of one plate.
+12. **Palette** — ground greige to paper, forms charcoal / navy / teal, at most one accent on the element the reader must notice.
 
 A frame with an invented hand, face or product is rejected without correction and the batch is not shown to the Owner (§4).
 
@@ -125,9 +130,9 @@ Display weight on fallback scripts is **700**, not 800 — system CJK and Arabic
 
 ---
 
-## 5. Article image brief — Magnus fills, Lisa works from it without a second question
+## 5. Article image brief — Magnus fills, Otto and Lisa work from it without a second question
 
-Copy the block into `briefs/<slug>.md` in the portal repo. Plain words only; no prompt language.
+Copy the block into `content/<type>/<slug>/image-brief.md` in the portal repo. Plain words only; no prompt language.
 
 ```
 1. Slug (ASCII, language-neutral):             akkermansia-muciniphila-mucus-layer
@@ -135,14 +140,14 @@ Copy the block into `briefs/<slug>.md` in the portal repo. Plain words only; no 
 3. Organism / structure in the preview:        Akkermansia muciniphila
 4. Morphology, in words (truth, Magnus/Maya):  oval short rods, single or in pairs, non-motile, in a mucus layer over villi
 5. Preview mood (one line, warm science):      pale mucus film catching morning light, cells resting in it
-6. Hero scene (one sentence, one moment):      Magnus at a ferment bench lifting a kefir grain to the light
-7. Cast — R2 REF file name(s), Owner-named:    refs/characters/MagnusLarsen.jpg
-8. Place + wardrobe (credible, no logos):      home kitchen, linen apron over a visible shirt collar
+6. Hero mechanism (the answer, one clause):    Akkermansia grazes the mucus layer and the gut wall renews it
+7. Three beats (first → next → outcome):       cells settle in mucus → they feed on it → the lining thickens its mucus
+8. The one number (keyFacts, source id):       shown by proportion only — or "none in keyFacts, clause dropped"
 9. Must not appear:                            any product, any text, second person, blue neon
 10. Locales + alt text per locale (RU via Alexandra): en / ru / de / ja / ar — one alt line each
 ```
 
-Fields 1–5 produce the preview, 6–8 the hero, 9–10 belong to both. A brief missing field 4 or 7 is returned — an organism without a shape and a scene without a named REF are the two ways this portal would end up inventing something, and we do not invent.
+Fields 1–5 produce Lisa's preview, 6–8 Otto's hero, 9–10 belong to both. A brief missing field 4 or 6 is returned — an organism without a shape and a hero without a mechanism are the two ways this portal would end up inventing something, and we do not invent. Before generation Marika adds one line per master: slot, ratio and focus (Owner 2026-09-16). Briefs written 2026-09-02 with a character hero keep their preview fields and receive the three hero fields above in place of scene, cast and wardrobe.
 
 — Marika Nowicka · Brand Studio · 2026-09-02
 

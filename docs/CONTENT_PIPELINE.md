@@ -5,7 +5,7 @@
 ```
  1 SWEEP ──► 2 PICK ──► 3 WRITE EN ──► 4 REFUTE ──► 5 GATE EN ──► 6 WRITE RU ──► 7 BRIEF
                                                                                     │
- 12 PUBLISH ◄── 11 CHECK ◄── 10 TRANSLATE ◄── 9 ACCEPT ◄── 8 GENERATE (Lisa) ◄──────┘
+ 12 PUBLISH ◄── 11 CHECK ◄── 10 TRANSLATE ◄── 9 ACCEPT ◄── 8 GENERATE (Lisa · Otto) ◄──────┘
 ```
 
 | # | Step | Who | Tool / file | Done when |
@@ -16,8 +16,8 @@
 | 4 | **Refute** — an adversarial reader tries to break every number against its source | independent checker | edits the file; `gates.factCheck = "verified <date> — …"` | unsourced numbers removed, mis-stated findings corrected, taxonomy checked against NCBI |
 | 5 | **Gate EN** — marketolog hook lock + segment-check (8 fixed readers) | Magnus | `organizacia/SKILLS/segment-check/SKILL.md`; `gates.segmentCheck` | PASS (7–8/8) or "PASS с оговоркой" (6/8); REWORK/FAIL is rewritten in the same register, never simplified away |
 | 6 | **Write RU** — Komarovsky voice, same facts and sources, own segment-check | Magnus | `ru.md` + `ru.speech.md` | native Russian, no calques, PASS recorded |
-| 7 | **Brief** the two images in plain words | Magnus | `image-brief.md` (template in `docs/BRAND_IMAGE_SPEC.md` §5) | organism morphology named, hero scene named, REF named or asked for; **no prompt** |
-| 8 | **Generate** preview (3:2, macro, no people) + hero (16:9, one house character from R2 `refs/characters/`) | Lisa (Higgsfield only, §4b) | R2 `dasexperten-images/mbf/<type>/<slug>/<slug>-preview.webp`, `-hero.webp`, `-og.jpg` | both files on R2, ratio born native, never cropped from the other |
+| 7 | **Brief** the two images in plain words | Magnus | `image-brief.md` (template in `docs/BRAND_IMAGE_SPEC.md` §5) | organism morphology named, hero mechanism + three beats + one sourced number named (or the number dropped); **no prompt** |
+| 8 | **Generate** preview (3:2, macro world, no people) + hero (16:9, 3D scientific infographic, no people) — Owner 2026-09-16 | Lisa (preview) · Otto (hero) · platform-native engine, not Higgsfield | R2 `dasexperten-images/mbf/<type>/<slug>/<slug>-preview.webp`, `-hero.webp`, `-og.jpg` | both files on R2, ratio born native, never cropped from the other |
 | 9 | **Accept** | Marika | checklist in `docs/BRAND_IMAGE_SPEC.md` §3 | URLs written into `images.preview` / `images.hero` (+ alt texts) |
 | 10 | **Translate** into the other 16 locales | Magnus with Jurgen's keyword per locale | `<lang>.md` per locale; slug policy `docs/SEO_BRIEF.md` §1.2 | a locale file exists only when it is really written; the keyword is measured in that locale, never translated (§7a) — ja/ko have no measurement on file yet |
 | 11 | **Check** | script | `npm run build && npm run check` | 0 FAIL |
