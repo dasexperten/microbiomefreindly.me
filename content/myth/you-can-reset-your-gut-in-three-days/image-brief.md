@@ -56,9 +56,9 @@ No second number goes into the image. The one-day and two-day timings are the ar
 Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
 
 - en preview alt: "Illustration: plump rod-shaped gut bacteria and pairs of small round cells settled on a fragment of plant fibre"
-- en hero alt: "Illustration: a gut community tips when new food arrives, slides back when it stops, and years later six in ten resident groups are the same ones"
+- en hero alt: "Illustration: two rows of ten gut bacteria groups in the mucus as food drifts in; in the later row six groups are unchanged and four are replaced by newcomers"
 - ru preview alt: "Иллюстрация: толстые палочковидные кишечные бактерии и пары мелких круглых клеток на обрывке растительного волокна"
-- ru hero alt: "Иллюстрация: сообщество кишечных бактерий сдвигается с новой едой, возвращается, когда она кончается, а годы спустя шесть групп из десяти остаются прежними"
+- ru hero alt: "Иллюстрация: два ряда из десяти групп кишечных бактерий в слизи, пока приходит еда; в позднем ряду шесть групп те же, а четыре заменены новичками"
 
 ## 8. What must never appear
 

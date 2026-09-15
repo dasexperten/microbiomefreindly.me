@@ -46,8 +46,8 @@ images:
   preview: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-preview.webp"
   hero: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-hero.webp"
   og: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-og.jpg"
-  previewAlt: "Chains of round mouth bacteria and oval yeast cells held in a sticky"
-  heroAlt: "Magnus Larsen at a research bench, tilting a culture plate toward the window to read"
+  previewAlt: "Иллюстрация: цепочки круглых бактерий и почкующиеся дрожжи в липкой плёнке на светлой эмали, одно истончённое место светится лаймовым"
+  heroAlt: "Иллюстрация: микробы в оболочке зубного налёта на эмали выделяют ацетальдегид; пептид останавливает большинство, три укрытые клетки живы, пока ферменты не растворят оболочку"
 referral:
   product: ""
   mayaLog: ""

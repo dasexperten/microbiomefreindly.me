@@ -96,10 +96,11 @@ sources:
     doi: "10.3748/wjg.v20.i29.9922"
     pmid: "25110422"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-preview.webp"
+  hero: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-hero.webp"
+  og: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-og.jpg"
+  previewAlt: "Illustration: short, plump anaerobic rods deep in a narrow gum groove, fine plumes of sulfur gas rising out of it"
+  heroAlt: "Illustration: a crowd of sulfur-gas plumes rises from bacteria in the coating on the back of the tongue, while a single thin plume rises from the depth below"
 referral:
   product: ""
   mayaLog: ""

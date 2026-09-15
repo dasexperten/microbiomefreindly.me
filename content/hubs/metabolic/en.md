@@ -13,10 +13,11 @@ voice: greger
 answer: "Gut bacteria ferment fibre into short-chain fatty acids — acetate, propionate, butyrate. These feed the gut wall and signal to cells that release GLP-1, the hormone that slows the stomach and tells the brain you are full. Akkermansia muciniphila, which lives on mucus, strengthens the barrier that keeps this conversation orderly. It is a pathway, not a cure."
 sources: []
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/hubs/metabolic/metabolic-preview.webp"
+  hero: "/assets/img/mbf/hubs/metabolic/metabolic-hero.webp"
+  og: "/assets/img/mbf/hubs/metabolic/metabolic-og.jpg"
+  previewAlt: "Illustration: a flask-shaped hormone cell in the gut lining holds glowing gold GLP-1 granules as fatty acid molecules settle on its tip"
+  heroAlt: "Illustration: bacteria ferment fibre into fatty acid molecules that dock on a hormone cell in the gut lining; it releases gold GLP-1 granules into a small blood vessel"
 referral:
   product: ""
   mayaLog: ""

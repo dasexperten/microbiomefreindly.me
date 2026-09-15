@@ -60,11 +60,11 @@ sources:
     doi: "10.1073/pnas.1000087107"
     pmid: "20847294"
 images:
-  preview: ""
-  hero: ""
-  og: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-preview.webp"
+  hero: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-hero.webp"
+  og: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-og.jpg"
+  previewAlt: "Иллюстрация: толстые палочковидные кишечные бактерии и пары мелких круглых клеток на обрывке растительного волокна"
+  heroAlt: "Иллюстрация: два ряда из десяти групп кишечных бактерий в слизи, пока приходит еда; в позднем ряду шесть групп те же, а четыре заменены новичками"
 referral:
   product: ""
   mayaLog: ""

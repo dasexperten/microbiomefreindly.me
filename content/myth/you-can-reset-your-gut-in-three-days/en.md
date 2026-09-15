@@ -60,11 +60,11 @@ sources:
     doi: "10.1073/pnas.1000087107"
     pmid: "20847294"
 images:
-  preview: ""
-  hero: ""
-  og: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-preview.webp"
+  hero: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-hero.webp"
+  og: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-og.jpg"
+  previewAlt: "Illustration: plump rod-shaped gut bacteria and pairs of small round cells settled on a fragment of plant fibre"
+  heroAlt: "Illustration: two rows of ten gut bacteria groups in the mucus as food drifts in; in the later row six groups are unchanged and four are replaced by newcomers"
 referral:
   product: ""
   mayaLog: ""

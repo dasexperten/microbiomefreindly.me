@@ -46,8 +46,8 @@ images:
   preview: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-preview.webp"
   hero: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-hero.webp"
   og: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-og.jpg"
-  previewAlt: "Chains of round mouth bacteria and oval yeast cells held in a sticky"
-  heroAlt: "Magnus Larsen at a research bench, tilting a culture plate toward the window to read"
+  previewAlt: "Illustration: chains of round bacteria and budding yeast held in a sticky film over pale enamel, one thinned spot lit lime"
+  heroAlt: "Illustration: microbes in a plaque shell on enamel give off acetaldehyde; a peptide stills most, three sheltered cells survive until enzymes dissolve the shell"
 referral:
   product: ""
   mayaLog: ""

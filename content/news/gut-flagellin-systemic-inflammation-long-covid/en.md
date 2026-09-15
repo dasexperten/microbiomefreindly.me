@@ -58,8 +58,8 @@ images:
   preview: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-preview.webp"
   hero: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-hero.webp"
   og: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-og.jpg"
-  previewAlt: "slender gut bacteria with long corkscrew tails, one tail adrift above a pale film of mucus"
-  heroAlt: "Magnus Larsen at a bench by a window, holding a culture plate up to the light and studying it with reserve."
+  previewAlt: "Illustration: slender gut bacteria with long corkscrew tails in drifting mucus, one shed tail adrift in a patch of gold light"
+  heroAlt: "Illustration: a shed bacterial tail fragment leaves the gut, a neutrophil casts a web and signals a macrophage, and far-off tissue thickens with fibres"
 referral:
   product: ""
   mayaLog: ""

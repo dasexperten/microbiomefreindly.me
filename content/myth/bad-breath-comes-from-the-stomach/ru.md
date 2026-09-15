@@ -96,10 +96,11 @@ sources:
     doi: "10.3748/wjg.v20.i29.9922"
     pmid: "25110422"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-preview.webp"
+  hero: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-hero.webp"
+  og: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-og.jpg"
+  previewAlt: "Иллюстрация: короткие толстые анаэробные палочки в глубине узкой десневой бороздки, из неё поднимаются тонкие струйки серного газа"
+  heroAlt: "Иллюстрация: множество струек серного газа поднимается от бактерий в налёте на задней части языка, и лишь одна тонкая струйка идёт из глубины снизу"
 referral:
   product: ""
   mayaLog: ""

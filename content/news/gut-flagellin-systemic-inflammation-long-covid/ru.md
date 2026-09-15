@@ -58,8 +58,8 @@ images:
   preview: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-preview.webp"
   hero: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-hero.webp"
   og: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-og.jpg"
-  previewAlt: "slender gut bacteria with long corkscrew tails, one tail adrift above a pale film of mucus"
-  heroAlt: "Magnus Larsen at a bench by a window, holding a culture plate up to the light and studying it with reserve."
+  previewAlt: "Иллюстрация: тонкие кишечные бактерии с длинными жгутиками-штопорами в дрейфующей слизи, один оторванный жгутик плывёт в пятне золотого света"
+  heroAlt: "Иллюстрация: обломок оторванного бактериального жгутика выходит из кишечника, нейтрофил выбрасывает сеть и сигналит макрофагу, а далёкая ткань уплотняется волокнами"
 referral:
   product: ""
   mayaLog: ""
