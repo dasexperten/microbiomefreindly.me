@@ -99,8 +99,8 @@ images:
   preview: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-preview.webp"
   hero: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-hero.webp"
   og: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-og.jpg"
-  previewAlt: "Spindle-shaped Fusobacterium rods bridging clusters of round bacteria in a layered dental plaque community"
-  heroAlt: "Magnus Larsen at a lab bench in morning light, tilting a culture plate towards the window while explaining oral bacteria"
+  previewAlt: "Illustration: a spindle-shaped bacterium lies like a beam between clusters of round cells in a plaque reef, lit from below"
+  heroAlt: "Illustration: round early settlers form a layer on a mineral surface, long spindle-shaped cells lie across it, and later cells of other shapes fasten along them into one ordered community"
 referral:
   product: ""
   mayaLog: ""

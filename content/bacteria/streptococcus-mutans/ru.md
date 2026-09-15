@@ -118,8 +118,8 @@ images:
   preview: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-preview.webp"
   hero: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-hero.webp"
   og: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-og.jpg"
-  previewAlt: "Chains of oval Streptococcus mutans cells held in sticky glucan strands on pale tooth enamel, one sugar grain at the edge"
-  heroAlt: "Magnus Larsen at a bench explains Streptococcus mutans, a glass of water with dissolving sugar and a white tooth model beside him"
+  previewAlt: "Иллюстрация: цепочки овальных бактерий в липких нитях на бледной рифлёной эмали, у края один лаймовый кристалл сахара"
+  heroAlt: "Иллюстрация: сахар растворяется среди цепочек овальных бактерий на эмали; они прядут липкие нити, приклеивающие их к поверхности, и выделяют кислоту, а под кислотной дымкой минеральная поверхность разрыхляется"
 referral:
   product: ""
   mayaLog: ""

@@ -1,7 +1,7 @@
 # Image brief — probiotic-responders-baseline-gut-diversity
 
 As of: 2026-09-02
-From: Magnus Larsen → Marika Nowicka (slot) → Lisa (still)
+From: Magnus Larsen → Marika Nowicka (slot and focus) → Otto (hero) · Lisa (preview)
 Slots: card preview (3:2) + article hero (16:9), per Marika's BRAND_SLOT_BRIEF. Two masters, two worlds — the hero is never a wider crop of the preview.
 Plain words only. No prompt text from me; Lisa writes hers.
 
@@ -39,46 +39,49 @@ Colour: ivory ground, residents in teal and green, the newcomer rods in navy, **
 
 Preview safe band: the settled rods sit in the middle of the frame so the og crop loses only air.
 
-## 6. Hero scene (one sentence, one moment)
+## 6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16
 
-The scientist explains: at a lab bench in morning window light, he holds two agar plates up side by side — one crowded with colonies, one almost bare with a few scattered spots — and is comparing them, thoughtful rather than triumphant, mid-explanation to someone just outside the frame.
+Heat-killed *L. plantarum* changed nothing on average, because in a gut with many kinds of bacteria every niche is already taken; only in the least diverse guts, where there was open room, did weight, BMI and leptin fall more than on placebo — a subgroup lead, not a proven effect.
 
-Mood: calm, honest, "here is what the data actually shows." The plates are the subject world on one side of the wide frame; he occupies the other 40 %. Eyes in the upper third. The colonies on the plates are plain cream and pale colonies on ordinary agar, nothing coloured or glowing.
+## 7. Three beats (first → next → outcome)
 
-## 7. Cast — R2 REF file name(s)
+1. The same small group of dead rods — whole, still, softly rounded — arrives over two gut communities side by side in one continuous landscape: first a crowded one, every patch of mucus taken by many different kinds of resident.
+2. In the crowded community the dead rods find no gap and lie on top, doing nothing; further along, the community thins to a few kinds spaced far apart, with bare mucus between them, and the same dead rods settle into those open gaps.
+3. Outcome: around the settled rods in the sparse community a few new residents — plump rods and small round cells — have taken the open ground, with a light scatter of tiny droplets for the extra acetate and butyrate, while the crowded community looks exactly as before.
 
-`refs/characters/MagnusLarsen.jpg` (bucket `dasexperten-images`). One person only. No second person named.
+## 8. The one number (keyFacts, source id)
 
-## 8. Place + wardrobe (credible, no logos)
-
-A working microbiology bench — plain benchtop, a rack of plates, a notebook, a window. Lab coat over a visible knit or shirt collar, both layers visible. No brand marks anywhere, no Das Experten product, no sachet, no capsule, no packaging of any kind.
+None shown — clause dropped. Every figure in keyFacts is a change in kilograms, BMI points or leptin, or a body-fat measure that did not move (`s1`); none of them is a count or share of cells, so drawing one as a proportion in the gut would invent a picture the trial never measured. The contrast between the crowded and the sparse community is carried by structure, not by a number.
 
 ## 9. Must not appear (both images)
 
-- Any product: no sachet, no capsule, no pill, no jar, no packaging, invented or real.
+- Any product: no sachet, no capsule, no pill, no jar, no packaging, invented or real — nothing product-shaped, and the dead cells never gathered into a pill-like or capsule-like clump.
 - Any letters, numbers, glyphs, labels, scale bars, plate markings, microscope interface.
-- Any invented face or hand; no second person; no stock people.
+- No person, face or hand in either frame.
 - Collage, split panel, inset, before/after halves glued together. One frame each.
 - Black background, blue neon glow, false-colour electron-microscope look, glowing DNA helix.
 - Spherical cells standing in for *L. plantarum*; a dense carpet of bacteria in the preview.
 - Named lab-glassware brands, branded equipment.
-- Medical horror: no wounds, no pus, no blood, no fat tissue.
+- Medical horror: no wounds, no pus, no blood, no fat tissue; the heat-killed rods read whole and inert, never burst or in pieces.
+- A body, belly, scale or intestine drawn as an anatomical organ cut-away.
 - A hero that is a wider crop of the preview.
 
-## 10. Locales + alt text
+## 10. Locales + alt text per locale
 
-- **en preview** (≤ 125 chars): `Illustration: a few dead L. plantarum rods settling into open space on a sparsely colonised gut mucus layer.` (108 chars)
-- **en hero**: `Magnus Larsen at a lab bench holding two agar plates side by side, one crowded with colonies and one nearly bare.`
-- **ru**: via Alexandra — pending.
-- **de / ja / ar**: pending the locale editors; one alt line each, same content as the EN lines above, not a translation of "microscope photo".
+`en.md` and `ru.md` exist; one image set, only the alt line changes.
 
-Alt text says what is depicted. The preview is an illustration of a micro-world, never presented as a diagnostic image.
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
+
+- en preview alt: "Illustration: a few still, heat-killed rod cells lying in open gaps of a sparse gut community among fibre fragments"
+- en hero alt: "Illustration: the same dead rod cells lie unused on a crowded gut community, but settle into open gaps of a sparse one, where new residents and small droplets appear"
+- ru preview alt: "Иллюстрация: несколько неподвижных убитых нагреванием палочек лежат в свободных промежутках редкого кишечного сообщества среди обрывков клетчатки"
+- ru hero alt: "Иллюстрация: те же мёртвые палочки лежат без дела на плотном кишечном сообществе, но оседают в свободных промежутках редкого, где появляются новые жители и мелкие капли"
 
 ---
 
-## For Lisa — the idea both images must carry, and why
+## For Otto and Lisa — the idea both images must carry, and why
 
-**Single idea:** *A newcomer only makes a difference where there is room for it.* The preview shows the room at cell scale; the hero shows a scientist comparing a crowded plate with a sparse one. Same thought, two scales.
+**Single idea:** *A newcomer only makes a difference where there is room for it.* The card frame shows the room at cell scale; the article frame builds the comparison — the same dead cells over a crowded community and over a sparse one. Same thought, two worlds.
 
 **The mechanism in one sentence:** In a gut with many kinds of bacteria every niche — the fibre, the mucus, the bile acids — is already taken, so an outside signal like dead *L. plantarum* cell walls finds no open seat; in a gut with few kinds there is empty room, and that is the only group in which the trial saw weight, BMI and leptin fall.
 
@@ -87,3 +90,10 @@ Alt text says what is depicted. The preview is an illustration of a micro-world,
 **Truth note for the preview:** the cells are dead. They do not swim, divide or colonise. They *settle*. If the frame reads as a living culture taking over, it is telling the wrong story.
 
 — Magnus Larsen · 2026-09-02
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a short chain and two single dead rods, whole and still, lying in one open gap between widely spaced residents; the nearest rod is the sharpest spot. Subject inside the middle 1.91:1 band. **World:** the loose litter on the gut's inner surface — scattered plant-fibre fragments and thin mucus flakes with wide bare stretches between a few residents; flat soft studio north light, even and shadowless, neutral-cool. **Accent:** coral on the dead newcomer rods only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left to right — the dead rods lying unused on a crowded, many-kinded community; the landscape thinning into a sparse community where the same rods settle into open gaps; at right, new residents and a light scatter of tiny droplets around them, the crowded side unchanged. **Light:** soft warm light from above and behind, forms rim-lit, shadows falling toward the viewer. **Accent:** gold on the tiny droplets in the sparse community only.

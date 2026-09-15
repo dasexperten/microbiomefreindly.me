@@ -47,17 +47,18 @@ The eye should read **coating settles → sulfur is stripped in the dark layer �
 **87 % of cases oral, 1 % digestive tract, in 491 patients.**
 Source: Delanghe G., Bollen C. & Desloovere C., *Laryngo-Rhino-Otologie*, 1999 — doi `10.1055/s-2007-996920`, PMID `10535071` (article source `s1`).
 
-Show it as **quantity, never as a printed figure**: the frame carries a countable population of fine gas plumes, and the overwhelming mass of them — visibly the great majority, close to nine in ten — rises from the tongue coating and the gum pocket, while a **single** thin plume drifts up from the far depth below. One against a crowd. That contrast is the number, and it is expressed by how many plumes there are and where they start, never by a digit, a percentage sign, a bar, a pie, a dial or a gauge.
+Show it as **quantity, never as a printed figure**: the frame carries a countable population of fine gas plumes, and the overwhelming mass of them — about eighty-seven for every one, a crowd of dozens that no eye counts — rises from the tongue coating and the gum pocket, while a **single** thin plume drifts up from the far depth below. (Corrected 2026-09-16: "close to nine in ten" mixed the 87 % into the whole; the honest contrast is 87 against 1, and the other 12 % of causes are simply not drawn.) One against a crowd. That contrast is the number, and it is expressed by how many plumes there are and where they start, never by a digit, a percentage sign, a bar, a pie, a dial or a gauge.
 
 No second number goes into the image. The 51 % tongue-coating share, the 90 % sulfur share and the 2.85 odds ratio stay in the text where their source markers can follow them.
 
-## 6. Preview alt text (EN, ≤ 125 characters)
+## 6–7. Alt text
 
-`Short anaerobic rods in the coating on the back of the tongue, releasing fine plumes of sulfur gas into mouth air`
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
 
-## 7. Hero alt text (EN)
-
-`A wide view of the tongue's back third where almost every plume of sulfur gas begins, with a single thread rising from the depth far below`
+- en preview alt: "Illustration: short, plump anaerobic rods deep in a narrow gum groove, fine plumes of sulfur gas rising out of it"
+- en hero alt: "Illustration: a crowd of sulfur-gas plumes rises from bacteria in the coating on the back of the tongue, while a single thin plume rises from the depth below"
+- ru preview alt: "Иллюстрация: короткие толстые анаэробные палочки в глубине узкой десневой бороздки, из неё поднимаются тонкие струйки серного газа"
+- ru hero alt: "Иллюстрация: множество струек серного газа поднимается от бактерий в налёте на задней части языка, и лишь одна тонкая струйка идёт из глубины снизу"
 
 ## 8. What must never appear
 
@@ -72,20 +73,27 @@ No second number goes into the image. The 51 % tongue-coating share, the 90 % su
 - **No medical horror** — no blood, pus, wounds, ulcers, inflamed or bleeding gums.
 - **No smell drawn as cartoon stink** — no wavy comic odour lines, no green fog, no cloud with a face. The gas is a fine physical plume, nothing else.
 - **No before/after split panel, no collage, no inset, no diptych.** One frame, one world; the three beats live inside a single composition.
-- **Preview is never a crop of the hero and the hero is never a crop of the preview** — two masters, born natively at their own ratios.
+- **Neither master is ever a crop of the other** — two masters, born natively at their own ratios.
 - No black background, no blue neon glow, no false-colour electron-micrograph cliché, no stock DNA helix, no glowing pill, no invented microscope or screen interface.
 - Nothing that could be mistaken for a real photograph of a real clinical or diagnostic image.
 
 ## 9. File keyword
 
-`bad-breath-comes-from-the-stomach-preview` · `bad-breath-comes-from-the-stomach-hero` (with `-og`, `-thumb` and `@2x` derived per `docs/BRAND_IMAGE_SPEC.md` §1). One slug serves every locale; only `alt` changes per language.
+Stem `bad-breath-comes-from-the-stomach`, with the two slot suffixes and the `-og`, `-thumb` and `@2x` derivatives of `docs/BRAND_IMAGE_SPEC.md` §1. One slug serves every locale; only the descriptive line changes per language.
 
 ## 10. Locales live for this piece
 
-**`en`** (`en.md`, voice greger, status published) and **`ru`** (`ru.md`, voice komarovsky, status published) — both dated 2026-09-04. No other locale file exists in this folder, so no other locale is declared. The two images are shared by both; the RU `alt` lines come from Alexandra Vetrova, not from me.
+**`en`** (`en.md`, voice greger, status published) and **`ru`** (`ru.md`, voice komarovsky, status published) — both dated 2026-09-04. No other locale file exists in this folder, so no other locale is declared. The two images are shared by both; the Russian lines in fields 6–7 still pass through Alexandra Vetrova's register gate.
 
 ---
 
 **Truth note.** No product appears in either frame and no health claim is made by either image, so no Maya consult is needed for this brief. The only number in the images is the sourced 87 % / 1 % split of 491 patients (Delanghe 1999), shown as how many plumes rise from where; every other figure in the article stays in the text where its source marker can follow it.
 
 — Magnus Larsen · 2026-09-04
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** the deep end of one narrow gum groove — a smooth, pale, finely layered mineral wall on one side and a soft velvety tissue wall on the other, both as cell-scale landscape, never as teeth or gums; a loose cluster of short, plump, bean-shaped rods fringed with fine fimbriae resting in the thin wet film at the bottom, and fine plumes lifting up out of the groove. The resting cluster sharp, the groove walls softening away. Subject inside the middle 1.91:1 band. **World:** the wet, narrow groove between a mineral wall and soft tissue, the film thin and glistening; bright, even overcast daylight, neutral-cool, shadowless, the groove darkening only by its own depth. **Accent:** coral on the rising plumes only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** one continuous fissured, papillated landscape read left to right — coating settling into the grooves, open above and closed below; plump rods working in the dim lower layer in the centre; on the right a crowd of dozens of fine plumes lifting up and forward off the surface and out of one narrow gum groove at the far right, while beneath the landscape the frame falls away into calm, pale, empty depth from which exactly one thin plume rises. **Light:** warm, low late-afternoon light from the right, long soft shadows toward the left. **Accent:** lime on the single plume rising from below only.

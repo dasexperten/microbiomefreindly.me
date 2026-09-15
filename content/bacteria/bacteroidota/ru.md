@@ -104,8 +104,8 @@ images:
   preview: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-preview.webp"
   hero: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-hero.webp"
   og: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-og.jpg"
-  previewAlt: "Illustration of plump Bacteroidota rods resting on a pale gut mucus film, breaking down a strand of plant fibre"
-  heroAlt: "Magnus Larsen at a kitchen bench with cabbage, beans and oats beside a small culture dish, explaining what gut bacteria eat"
+  previewAlt: "Иллюстрация: пухлые палочки Bacteroidota собрались на разлохмаченном конце растительного волокна с лаймовым оттенком на разрыве, свет падает сзади"
+  heroAlt: "Иллюстрация: пухлые палочки разбирают растительное волокно на золотистые фрагменты над толстым слоем слизи; правее, где волокна нет, те же палочки поедают слизь, и слой истончается"
 referral:
   product: ""
   mayaLog: ""

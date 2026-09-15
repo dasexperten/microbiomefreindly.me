@@ -65,8 +65,8 @@ images:
   preview: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-preview.webp"
   hero: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-hero.webp"
   og: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-og.jpg"
-  previewAlt: "Short rods of Bacteroides fragilis on a pale mucus film, membrane rims catching light as faint air motes drift by"
-  heroAlt: "Magnus Larsen at a morning lab bench, holding a plain sealed culture vessel up to the light as he explains a finding"
+  previewAlt: "Иллюстрация: короткие палочки Bacteroides fragilis в контровом свете на юной поверхности кишечника, край мембраны одной клетки светится лаймовым"
+  heroAlt: "Иллюстрация: короткая палочка держит плотный край мембраны, пока рядом дрейфуют частицы воздуха, а тот же мембранный жир передаётся юной иммунной клетке, которая по нему растёт"
 referral:
   product: ""
   mayaLog: ""

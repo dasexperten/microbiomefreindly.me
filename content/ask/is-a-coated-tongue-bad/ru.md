@@ -97,10 +97,11 @@ sources:
     doi: "10.1088/1752-7163/aaa3a1"
     pmid: "29269592"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-preview.webp"
+  hero: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-hero.webp"
+  og: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-og.jpg"
+  previewAlt: "Иллюстрация: чешуйки слущенных клеток с крошечными цепочками бактерий в узкой ложбинке между сосочками языка"
+  heroAlt: "Иллюстрация: ряд сосочков языка со слущенными чешуйками и бактериями в ложбинках; в девяти ложбинках слой тонкий, в одной толще, над поверхностью поднимается лёгкий газ"
 referral:
   product: ""
   mayaLog: ""

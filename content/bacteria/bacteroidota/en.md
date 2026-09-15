@@ -104,8 +104,8 @@ images:
   preview: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-preview.webp"
   hero: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-hero.webp"
   og: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-og.jpg"
-  previewAlt: "Illustration of plump Bacteroidota rods resting on a pale gut mucus film, breaking down a strand of plant fibre"
-  heroAlt: "Magnus Larsen at a kitchen bench with cabbage, beans and oats beside a small culture dish, explaining what gut bacteria eat"
+  previewAlt: "Illustration: plump Bacteroidota rods gathered on the frayed, lime-tinted torn end of a plant fibre strand, lit from behind"
+  heroAlt: "Illustration: plump rods take plant fibre apart into gold fragments above a thick mucus layer; further right, with no fibre left, the same rods graze the mucus and it thins"
 referral:
   product: ""
   mayaLog: ""

@@ -67,11 +67,11 @@ sources:
     doi: "10.1371/journal.pone.0088645"
     pmid: "24670812"
 images:
-  preview: ""
-  hero: ""
-  og: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-preview.webp"
+  hero: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-hero.webp"
+  og: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-og.jpg"
+  previewAlt: "Иллюстрация: прозрачный ополаскиватель накрывает смешанный слой палочек, круглых клеток и веретён и оставляет его редким за своей кромкой"
+  heroAlt: "Иллюстрация: ополаскиватель смывает смешанный слой бактерий на поверхности языка, и поток частиц, который этот слой посылает к сосуду, падает до десятой части"
 referral:
   product: ""
   mayaLog: ""

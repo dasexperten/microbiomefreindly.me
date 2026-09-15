@@ -72,11 +72,11 @@ sources:
     doi: "10.1038/nature12506"
     pmid: "23985870"
 images:
-  preview: ""
-  hero: ""
-  og: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-preview.webp"
+  hero: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-hero.webp"
+  og: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-og.jpg"
+  previewAlt: "Иллюстрация: две одинаковые группы палочковидных бактерий на волнистой кишечной слизи; под одной слизь меняется, под другой нет"
+  heroAlt: "Иллюстрация: шесть одинаковых скоплений палочковидных бактерий оседают на одну и ту же кишечную слизь; под четырьмя она заметно меняется, под двумя остаётся нетронутой"
 referral:
   product: ""
   mayaLog: ""

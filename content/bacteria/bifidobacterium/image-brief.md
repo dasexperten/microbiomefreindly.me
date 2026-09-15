@@ -1,7 +1,7 @@
 # Image brief — Bifidobacterium (encyclopedia entry)
 
-As of: 2026-09-02
-From: Magnus Larsen → Marika Nowicka (slot) → Lisa (still)
+As of: 2026-09-02 · amended 2026-09-16
+From: Magnus Larsen → Marika Nowicka (slot and focus) → Otto (hero) · Lisa (preview)
 Slot spec: Marika `BRAND_SLOT_BRIEF_MARIKA.md` §1 (preview 3:2 master 1440×960 · hero 16:9 master 2400×1350 · og = centre band of the preview). Nothing below deviates from that file, so Marika only needs to name the slot and nod.
 
 Plain words only. I describe what the reader should see and feel; Lisa turns it into her own working text. There is no prompt language in this file and none is wanted.
@@ -23,56 +23,62 @@ Plain words only. I describe what the reader should see and feel; Lisa turns it 
 Irregular, slender rods, a few micrometres long, that fork at one end into a Y or a V — this is the "bifid" that gives the genus its name. Ends are slightly swollen, club-like. Cells are unequal in length and lie singly, in pairs, or in loose clusters and short chains; some are gently bent. They have no tail, no flagella, no spores, no capsule to speak of, and they are not spherical. Not every cell in a field is forked — perhaps a third to a half show the branch clearly, the rest are plain rods — and that mix is the truth to keep. They live away from air, in the depths of the colon, so the setting is a still, enclosed, wet one, not an open surface in a breeze.
 
 **5. Preview mood (one line, warm science):**
-A handful of forked cells resting in a pale, milky film — the sugar-rich world of a breastfed infant's gut — seen so close that the fork in each cell is the whole story; quiet, nourishing, slightly cloudy like milk in morning light.
+A handful of forked cells resting in the still, sugar-rich world of a breastfed infant's gut — seen so close that the fork in each cell is the whole story; quiet and nourishing.
 
-Colour and light, in words: ivory ground (`#F1EADC`) that reads as milk, not paper; the cells in navy (`#1B3856`) and teal (`#178B7A`), a little green (`#2F7D55`) where the film thickens; one small gold note (`#C7A24B`) only — a single strand or droplet catching the light — nothing more. One light source, warm, soft, from one side. Cells fill roughly the middle two thirds of the frame and stay inside Marika's centre band so the og crop loses only air. Scale cue: the cells sit among fine soft threads and droplets of the milk film that are clearly larger than they are, so the eye understands these are very small things in a very large meal.
+Colour and light, in words: the cells in navy and teal; one small accent only. One light source, soft. Cells fill roughly the middle two thirds of the frame and stay inside Marika's centre band so the og crop loses only air. Scale cue: the cells sit among clear droplets of the gut contents that are clearly larger than they are, so the eye understands these are very small things in a very large meal. Amended 2026-09-16: world, light, palette and accent as in Marika's slot-and-focus block below — the wave-1 souring-milk film is not reused.
 
-**6. Hero scene (one sentence, one moment):**
-Magnus at a laboratory bench by a window, holding a single small culture plate up to the daylight and reading it with a sceptical, unhurried face, while a row of other plates waits on the bench beside him — the moment a scientist checks one member of the family instead of trusting the family's name.
+**6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16:**
+In a breastfed baby's gut, forked Bifidobacterium rods feed on the milk sugars the baby cannot digest, outgrow the other bacteria and ferment those sugars into acetate and lactate, two mild acids.
 
-The reader should feel: calm scrutiny. Not a lecture, not a reveal — just a man looking carefully at one thing before he says anything about it. He looks at the plate, not at us. The mood is morning, patient, a little dry. The plates carry only pale colonies; nothing on them is labelled and nothing on them looks alarming.
+**7. Three beats (first → next → outcome):**
+(1) Small branched milk-sugar molecules drift past a row of smooth lining cells that take none of them, among a mixed crowd of bacteria of several shapes; (2) forked and plain irregular rods gather the sugars and release small droplets of acetate, while the other shapes, which cannot use the sugars, thin out; (3) outcome: at the right the crowd is almost all forked rods, and the acetate droplets settle along a smooth, closed lining.
 
-**7. Cast — R2 REF file name(s), Owner-named:**
-`refs/characters/MagnusLarsen.jpg` (bucket `dasexperten-images`). One person. Nobody else in the frame, no baby, no patient, no colleague.
-
-**8. Place + wardrobe (credible, no logos):**
-A plain, tidy microbiology bench near a window: pale worktop, a rack of small round culture plates, a notebook closed, ordinary glass. White lab coat open over a visible shirt collar in a muted navy or teal — both layers visible. No name badge, no logos, no brand marks, no company glassware, no screens showing anything readable. Magnus on one side of the wide frame, the bench world on the other, his eyes in the upper third.
+**8. The one number (keyFacts, source id):**
+In breastfed infants, bifidobacteria can reach **more than 90 %** of the gut's bacteria (`s1`, Hidalgo-Cantabrana et al. 2017). Shown only as proportion: the outcome group at the right is exactly twenty cells — nineteen Bifidobacterium rods (about eight of them clearly forked, the rest plain irregular rods) and one small round coccus of another kind. Never printed.
 
 **9. Must not appear (both images):**
 - Any product — no supplement bottle, capsule, sachet, yoghurt pot, milk bottle, infant formula, feeding bottle. Nothing with a label, nothing that looks packaged.
 - Any text, letters, glyphs, numbers, scale bars, invented microscope readouts or software screens.
-- Any invented face or hand; any second person; any baby or breast (the article is about a baby's gut, the picture is not about a baby).
+- No person, face or hand in either frame; no baby or breast (the article is about a baby's gut, the picture is not about a baby).
 - Collage, split panel, inset, or a hero that is a wider view of the preview.
 - Black background, blue neon glow, false-colour electron-microscope look, floating DNA helix, glowing pill.
-- Medical horror: no rotten teeth, no blood, no wounds — the cariogenic species and the bacteraemia are told in words, not shown.
-- Spherical cells, tailed cells, cells with hairs — that would be another organism.
+- Medical horror: no rotten teeth, no blood, no wounds — the cariogenic species and the bacteraemia are told in words, not shown. No intestine drawn as an organ cut-away.
+- Spherical cells, tailed cells, cells with hairs — that would be another organism (the one coccus in the outcome group is the only round cell, and it is plainly a different kind).
 - Brand-name laboratory glassware or equipment; any Das Experten item.
 
-**10. Locales + alt text per locale:**
-Only the EN entry exists today; RU comes via Alexandra, DE/JA/AR when those entries are written. Same image set for all locales, only `alt` changes.
+**10. Locales + text per locale:**
+en and ru are live. Same image set for all locales; only the descriptive line changes.
 
-- **en — preview alt (≤ 125 chars, honest, says what is depicted):**
-  `Illustration of forked, Y-shaped Bifidobacterium cells resting in a pale milky film`
-- **en — hero alt:**
-  `Magnus Larsen at a lab bench holding one culture plate up to the window light, a row of other plates waiting beside him`
-- ru / de / ja / ar — pending; Alexandra sets RU wording, the others follow their entries.
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
+
+- en preview alt: "Illustration: forked, Y-shaped Bifidobacterium cells in a still pocket of clear gut contents, a coral droplet in one fork"
+- en hero alt: "Illustration: milk sugars pass the infant gut lining untouched, forked Bifidobacterium rods ferment them into lime acetate droplets, and nineteen of twenty cells at right are theirs"
+- ru preview alt: "Иллюстрация: вилообразные Y-образные клетки бифидобактерий в неподвижном кармане прозрачного содержимого кишечника, коралловая капля у развилки одной клетки"
+- ru hero alt: "Иллюстрация: молочные сахара нетронутыми проходят мимо слизистой кишечника младенца, вилообразные палочки бифидобактерий сбраживают их в лаймовые капли ацетата, и справа девятнадцать клеток из двадцати — их"
 
 ---
 
 ## Addendum for Lisa and Jurgen
 
 **The single idea both images must carry:**
-Look at the one before you judge the many. The forked cell is the emblem: one stem, two branches — one branch feeds a baby, another rots a tooth. The preview shows the fork; the hero shows the man checking one plate at a time. Neither image should say "good bacterium" and neither should say "danger"; both should say "look closer."
-
-**File names (Jurgen's pattern):**
-`bifidobacterium-preview` · `bifidobacterium-hero` (plus `-og`, `-thumb` and `@2x` per Marika §1). R2 path `mbf/bacteria/bifidobacterium/…`.
+Look at the one before you judge the many. The forked cell is the emblem: one stem, two branches — one branch feeds a baby, another rots a tooth. The card shows the fork up close; the article image shows why the fork wins in a milk-fed gut. Neither image should say "good bacterium" and neither should say "danger"; both should say "look closer."
 
 **Priority:**
 Evergreen (encyclopedia entry, type `bacteria`). Not this week's news; slot it behind any open news brief.
+
+**File names (Jurgen's pattern):**
+`bifidobacterium-preview` · `bifidobacterium-hero` (plus `-og`, `-thumb` and `@2x` per Marika §1). R2 path `mbf/bacteria/bifidobacterium/…`.
 
 **The mechanism in one sentence, for Lisa's understanding:**
 Human milk carries sugars the baby cannot digest at all, bifidobacteria can, so in a breastfed gut they outgrow every competitor and turn those sugars into acetate, a mild acid that helps the gut wall keep toxins out of the blood — while one cousin in the mouth, *B. dentium*, uses the same taste for sugar and tolerance of acid to help decay teeth, which is why the family name earns no verdict on its own.
 
 **Truth check for acceptance item 9:** the shape in field 4 is what must be in the frame. If the cells come out round, tailed, or all identical, the batch is not this genus and comes back.
 
-— Magnus Larsen · 2026-09-02
+— Magnus Larsen · 2026-09-02 · hero fields 2026-09-16
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one forked cell, its Y-branch sharp in the centre, with a small droplet resting in the crook of the fork; a few plain and forked neighbours soften away behind. Subject inside the middle 1.91:1 band. **World:** a still, clear, faintly syrupy pocket of gut contents strewn with large glassy droplets, each many times a cell's size; dappled leaf-filtered daylight, soft patches of light and shade moving across the pocket. **Accent:** coral on the one small droplet in the fork only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** the takeover — left milk sugars passing the lining untouched among a mixed crowd, centre the forked rods taking the sugars and releasing acetate droplets, right the twenty-cell group, nineteen of them Bifidobacterium, over a smooth closed lining; read left to right. **Light:** cool silver late-afternoon light, high on the right, its own and not the preview's. **Accent:** lime on the acetate droplets only.

@@ -51,8 +51,8 @@ images:
   preview: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-preview.webp"
   hero: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-hero.webp"
   og: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-og.jpg"
-  previewAlt: "Spindle-shaped and short rod bacteria in a pale tongue-coating film, releasing tiny gas bubbles"
-  heroAlt: "Magnus Larsen at a lab bench holding a culture plate of dark colonies up to the window light"
+  previewAlt: "Иллюстрация: веретеновидные и короткие бактерии в налёте между округлыми сосочками языка, поднимаются крошечные золотые пузырьки газа"
+  heroAlt: "Иллюстрация: анаэробы налёта, полные ферментов, отщепляющих серу, выпускают пузырьки; жидкость молочнокислых бактерий омывает их, и ферменты почти исчезают"
 referral:
   product: ""
   mayaLog: ""

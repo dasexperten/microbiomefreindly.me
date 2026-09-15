@@ -87,10 +87,10 @@ entity:
   ncbiTaxId: "1398"
 images:
   preview: "/assets/img/mbf/bacteria/bacillus-coagulans/bacillus-coagulans-preview.webp"
-  hero: ""
+  hero: "/assets/img/mbf/bacteria/bacillus-coagulans/bacillus-coagulans-hero.webp"
   og: "/assets/img/mbf/bacteria/bacillus-coagulans/bacillus-coagulans-og.jpg"
-  previewAlt: "Rod-shaped Bacillus coagulans cells with a single pale oval spore at one end, drawn in navy and teal on an ivory ground"
-  heroAlt: "Microbiologist Magnus Larsen at a bench in morning light, holding a culture plate of Bacillus coagulans up to the window"
+  previewAlt: "Illustration: a rod-shaped Bacillus coagulans cell holding one gold oval spore, free spores beside it on a dry plant husk"
+  heroAlt: "Illustration: dormant Bacillus coagulans spores arrive in the gut, one splits open as a coral rod grows out, and the rods drift past the lining and away without settling"
 referral:
   product: ""
   mayaLog: ""

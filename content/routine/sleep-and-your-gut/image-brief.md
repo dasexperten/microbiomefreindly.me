@@ -1,9 +1,9 @@
 # Image brief — Sleep and your gut
 
 As of: 2026-09-04
-From: Magnus Larsen → Roberta (prompt) → Lisa (generation, Grok or Codex) → Marika (acceptance)
+From: Magnus Larsen → Roberta (words) → Marika Nowicka (slot and focus) → Otto (hero) · Lisa (preview)
 
-Plain words only. I supply the mechanism, the morphology and the number question; Roberta writes the prompt paragraph from `docs/IMAGE_PROMPT.md`; Lisa generates; Marika accepts the frame and then the frame on the live page. I write no prompt text, no camera settings, no model names.
+Plain words only. I supply the mechanism, the morphology and the number question; Otto (the 16:9 infographic) and Lisa (the 3:2 macro world) each write their own engine words from `docs/IMAGE_PROMPT.md`; Marika accepts the frame and then the frame on the live page. No person, face or hand in either frame. I write no prompt text, no camera settings, no model names.
 
 ---
 
@@ -45,23 +45,25 @@ Full and varied on a steady beat → the beat goes ragged → still full, fewer 
 
 **5. The single sourced number, shown by scale or quantity**
 
-**This piece carries none that can honestly be shown, and the clause is dropped rather than filled.**
+**None shown — clause dropped.** This piece carries no figure in `keyFacts` that can honestly be shown, and the clause is dropped rather than filled.
 
 The number clause of the prompt paragraph is removed for this frame. That is a decision, not an omission, and here is the working so nobody re-opens it:
 
 - The figures the article actually carries are counts of **people** — 720 adults, 26 men, 9 men, 11 adults, 30 older adults, 180 participants — and this lane forbids people, faces, hands and bodies in the frame. A participant count cannot be shown by scale or quantity without breaking that rule.
 - The statistical figures — P = 0.0286, P = 0.0422, P = 0.0320, p = 0.013 — are not quantities of anything visible. They cannot be drawn at all.
+- The review's 9 of 12 primary sleep outcomes favouring supplementation (`s8`) is a count of trial outcomes, not of anything that lives on the gut wall; drawing it would mean a tally or a chart.
 - The one genuinely proportional finding, the shifted Firmicutes-to-Bacteroidetes ratio in the nine-man experiment, has **no numeric ratio in our sourced facts**. Drawing a proportion we did not source would be inventing the number, which is forbidden outright.
 
 So: no number is expressed in this image, and none may be added at generation time. If a figure appears in a returned frame in any form — as a printed value, as a counted set standing in for a statistic, as a chart-like proportion — the frame is rejected.
 
-**6. Preview alt text (EN, ≤ 125 characters)**
+**6–7. Alt text**
 
-Illustration: gut bacteria in the mucus layer, an even daily rhythm giving way to a ragged one holding fewer kinds
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
 
-**7. Hero alt text (EN)**
-
-Illustration: one stretch of gut wall under its mucus layer, the bacterial community arranged in an even daily wave at one end and in a ragged, uneven one at the other, still as crowded but built from fewer different kinds of cell.
+- en preview alt: "Illustration: four kinds of gut bacteria side by side in a glistening mucus film under deep blue night light"
+- en hero alt: "Illustration: gut bacteria along the lining in an even wave that turns ragged, the crowd staying just as full but made of fewer different kinds of cell"
+- ru preview alt: "Иллюстрация: четыре вида кишечных бактерий рядом в блестящей плёнке слизи под глубоким синим ночным светом"
+- ru hero alt: "Иллюстрация: бактерии вдоль слизистой кишечника выстроены ровной волной, которая становится рваной; клеток столько же, но видов меньше"
 
 **8. What must never appear**
 
@@ -71,9 +73,9 @@ No clock, clock face, dial, hourglass, calendar or any timepiece — the daily r
 
 No bed, pillow, blanket, bedroom, window, moon, stars, night sky or any sleeping-and-dreaming cliché. No brain, no skull, no head silhouette, no nerve diagram, no gut-brain-axis arrow.
 
-No text, letters, numerals, labels, worded arrows, scale bars or watermarks. No people, faces, hands or bodies. No medical horror — no blood, no wound, no inflamed, ulcerated or bleeding tissue, and nothing that reads as illness or damage; this frame illustrates a correlation and lost variety, not a wrecked gut. No black background, no blue neon glow, no false-colour electron-micrograph cliché, no stock DNA helix, no glowing capsule.
+No text, letters, numerals, labels, worded arrows, scale bars or watermarks. No person, face or hand in either frame, and no body. No medical horror — no blood, no wound, no inflamed, ulcerated or bleeding tissue, and nothing that reads as illness or damage; this frame illustrates a correlation and lost variety, not a wrecked gut. No black background, no blue neon glow, no false-colour electron-micrograph cliché, no stock DNA helix, no glowing capsule.
 
-No collage of separate plates, no split panel, no inset, no before-and-after divider line. No chart, graph, plot, bar, curve or anything that reads as data drawn. No hero that is a wider version of the preview and no preview cut from the hero — two frames, two worlds.
+No collage of separate plates, no split panel, no inset, no before-and-after divider line. No chart, graph, plot, bar, curve or anything that reads as data drawn. The wide infographic is never a wider version of the card frame and the card frame is never cut from it — two frames, two worlds.
 
 And no spheres standing in for the rods: the morphology in field 3 is the truth of this frame.
 
@@ -83,4 +85,11 @@ And no spheres standing in for the rods: the morphology in field 3 is the truth 
 
 **10. Locales live for this piece**
 
-`en` and `ru` — both files exist and are published. One image set serves both; only the alt line changes per language. The English alt is above; the Russian alt comes from Alexandra Vetrova, not from a translation of mine.
+`en` and `ru` — both files exist and are published. One image set serves both; only the description line changes per language (fields 6–7). The Russian lines pass Alexandra Vetrova's register gate before they go live.
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one small, varied group resting in the mucus film — plain rods in pairs, a short chain of round cells, two slender long rods and one or two forked cells — sharp at the centre, every kind plainly different; the film and further cells soften away. Subject inside the middle 1.91:1 band. **World:** a glistening, translucent mucus film at the scale of the cells, gently rippled over one rounded fold; deep blue night light fills the shadows of the pale film (never a black ground, never neon), with a single small warm light from low right catching the group — the night lives in the light only, no moon, stars, window or bed. **Accent:** coral on the forked cells only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** one continuous stretch of mucus-covered folds, left to right — the community in an even wave of evenly spaced crests holding four plainly different kinds (plain rods, short chains of round cells, slender long rods, forked cells); the wave's spacing going uneven; the field just as full, the wave out of step, two kinds repeating. Nothing emptied or damaged. **Light:** pale dawn light, soft rose-grey, low from the right, gentle long shadows. **Accent:** lime on the crests of the community wave only.

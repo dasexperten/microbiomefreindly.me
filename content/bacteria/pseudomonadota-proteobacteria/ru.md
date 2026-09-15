@@ -97,8 +97,8 @@ images:
   preview: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-preview.webp"
   hero: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-hero.webp"
   og: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-og.jpg"
-  previewAlt: "Short navy and teal rod bacteria gathered at the folded surface of the gut lining, lit warmly from one side."
-  heroAlt: "Magnus Larsen at a lab bench by a window, holding a culture plate with a few small colonies up to the morning light."
+  previewAlt: "Иллюстрация: короткие палочковидные бактерии собираются в тонкой лаймовой дымке прямо над округлыми клетками слизистой кишечника"
+  heroAlt: "Иллюстрация: несколько коротких палочек живут среди множества кишечных бактерий у бескислородной слизистой; когда слизистая пропускает лёгкую дымку кислорода, палочки размножаются, а остальных становится меньше"
 referral:
   product: ""
   mayaLog: ""

@@ -25,7 +25,7 @@ Not one species — a mixed community on a stretch of gut wall. Every shape belo
 - **Long slender spindles** — *Fusobacterium nucleatum*: thin rods tapering to a point at both ends, longer than everything around them. One of the few that blooms in the emptied space.
 - **Small round cells in pairs and short chains** — *Enterococcus faecalis*: ovoid cocci, two together or four to six in a row, never a long chain. Also a bloomer.
 - **Plain straight rods with rounded ends** — the enterobacteria and the ordinary residents: some with fine hair-like tails, most without.
-- **The ground they sit on** — a soft translucent mucus film lying over the gut lining, and beneath it the lining rising in a rank of finger-shaped folds. The community sits in the film, not on a bare surface.
+- **The ground they sit on** — the lining of the colon, where this stool-sampled community lives: a flat surface pitted with the small round mouths of crypts, under a firm inner mucus layer and, above it, a loose, netlike outer mucus layer. The community lives in that loose outer layer, never on a bare surface. No finger-shaped folds: villi belong to the small intestine, not to the colon (corrected 2026-09-16).
 
 No spores swelling a cell end, no spirals, no filaments, no biofilm sheet: none of those belong in this frame.
 
@@ -43,22 +43,30 @@ The eye must be able to walk that path in one pass: full → stripped → refill
 
 Shown as **nine visibly empty places** in the refilled field — nine clear pockets in the mucus where a cell plainly used to stand, countable without effort, in an otherwise crowded frame. Nine, exactly: not eight, not a suggestion of "some". The number is never printed, never labelled, never written anywhere in the pixels. Quantity is the whole of it.
 
-**6. Preview alt text (EN, ≤ 125 characters)**
+**6–7. Alt text**
 
-Illustration: gut bacteria regrown in the mucus layer after antibiotics, with nine places in the crowd left empty
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
 
-**7. Hero alt text (EN)**
-
-Illustration: a stretch of gut wall in three moments — a crowded mixed community, the same field stripped almost bare by a four-day antibiotic course, and the field refilled to look as it did before except for nine empty places.
+- en preview alt: "Illustration: forked Bifidobacterium cells regrowing in loose gut mucus beside an empty hollow where cells once stood"
+- en hero alt: "Illustration: a gut bacterial community in three moments: crowded, stripped almost bare by antibiotics, then crowded again with nine places left empty"
+- ru preview alt: "Иллюстрация: вилочковые клетки Bifidobacterium снова растут в рыхлой кишечной слизи рядом с пустой ямкой, где раньше стояли клетки"
+- ru hero alt: "Иллюстрация: сообщество кишечных бактерий в три этапа — густое, почти выметенное антибиотиками, затем снова густое, но с девятью пустыми местами"
 
 **8. What must never appear**
 
-No pill, capsule, tablet, blister pack, bottle, jar, syringe, vial or packaging of any kind — no product and nothing product-shaped; the antibiotics are shown only by what they leave behind. No brand mark. No text, letters, numerals, labels, worded arrows, scale bars, watermarks, invented microscope or screen interfaces. No people, faces, hands or bodies. No medical horror — no blood, no wound, no inflamed or ulcerated tissue. No black background, no blue neon glow, no false-colour electron-micrograph cliché, no stock DNA helix, no glowing pill. No collage of separate plates, no split panel, no inset. No hero that is a wider version of the preview and no preview cut from the hero — two frames, two worlds. And no spherical *Bifidobacterium*: the morphology in field 3 is the truth of this frame.
+No pill, capsule, tablet, blister pack, bottle, jar, syringe, vial or packaging of any kind — no product and nothing product-shaped; the antibiotics are shown only by what they leave behind. No brand mark. No text, letters, numerals, labels, worded arrows, scale bars, watermarks, invented microscope or screen interfaces. No people, faces, hands or bodies. No medical horror — no blood, no wound, no inflamed or ulcerated tissue. No black background, no blue neon glow, no false-colour electron-micrograph cliché, no stock DNA helix, no glowing pill. No collage of separate plates, no split panel, no inset. Neither master is a wider version or a crop of the other — two frames, two worlds. No villus folds: this community lives in the colon. And no spherical *Bifidobacterium*: the morphology in field 3 is the truth of this frame.
 
 **9. File keyword**
 
-`can-i-rebuild-my-gut-after-antibiotics-preview` and `can-i-rebuild-my-gut-after-antibiotics-hero`.
+Stem `can-i-rebuild-my-gut-after-antibiotics`, with the two slot suffixes of `docs/BRAND_IMAGE_SPEC.md` §1 (card master 3:2, article master 16:9).
 
 **10. Locales live for this piece**
 
-`en` and `ru` — both files exist and are published. One image set serves both; only the alt line changes per language. English alt above; the Russian alt comes from Alexandra Vetrova, not from a translation of mine.
+`en` and `ru` — both files exist and are published. One image set serves both; only the descriptive line changes per language. English and Russian lines are in fields 6–7; the Russian register still passes through Alexandra Vetrova.
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a small group of forked, Y-shaped *Bifidobacterium* cells regrowing in the loose outer mucus beside one smooth, empty hollow where cells used to stand; the group sharp at the centre, the netlike mucus strands softening away. Subject inside the middle 1.91:1 band. **World:** the loose, netlike outer mucus layer of the colon, strands like wet soft gauze; early-spring cool daylight in the early afternoon, pale blue-white, from the upper right, small soft shadows. **Accent:** lime on the regrowing forked cells only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** one stretch of colon mucus read left to right — a crowded mixed community of forks, spindles, paired cocci and rods; the same field stripped almost bare, with only spindles and paired cocci spreading into the room; the field crowded again with exactly nine empty hollows scattered through it. **Light:** warm mid-morning light from the upper left, soft shadows falling right. **Accent:** coral on the floors of the nine empty hollows.

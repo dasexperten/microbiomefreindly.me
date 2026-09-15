@@ -40,24 +40,32 @@ Built on the article's own H2 skeleton. The eye must walk it in one path.
 
 **A hundredfold: 10¹⁰ CFU against 10¹² CFU — and no difference between them.** In 559 Indian children hospitalised with acute watery diarrhoea, *Lactobacillus rhamnosus* GG at 10¹⁰ CFU and at 10¹² CFU twice daily both beat oral rehydration alone and showed no significant difference from each other — Basu S. et al., *Journal of Clinical Gastroenterology*, 2009 (`s3` in the article, doi 10.1097/MCG.0b013e31815a5780, PMID 18813028).
 
-Shown as **proportion**: one small cluster of rods and, beside it, a crowd unmistakably a hundred times denser — the size gap has to be shocking at a glance — sitting over gut lining that is in exactly the same state under both. The number is never printed, never labelled, never written anywhere in the pixels. Scale and quantity carry all of it.
+Shown as **proportion**: one small cluster of rods and, beside it, a crowd unmistakably a hundred times denser — four rods against about four hundred; the size gap has to be shocking at a glance — sitting over gut lining that is in exactly the same state under both. The number is never printed, never labelled, never written anywhere in the pixels. Scale and quantity carry all of it.
 
-**6. Preview alt text (EN, ≤ 125 characters)**
+**6–7. Alt text**
 
-Illustration: two crowds of rod-shaped gut bacteria, one a hundred times larger, over identically calm gut lining
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
 
-**7. Hero alt text (EN)**
-
-Illustration: rod-shaped lactobacilli in the mucus layer of the gut in two comparisons — a doubled dose leaving the lining calmer than the smaller one, and beside it a hundredfold larger crowd of the same rods leaving the lining no different at all.
+- en preview alt: "Illustration: a small cluster of rod-shaped bacteria beside a crowd of the same rods a hundred times larger, on smooth mucus"
+- en hero alt: "Illustration: rod-shaped probiotic bacteria on gut mucus; a doubled group leaves the lining calmer, but a crowd a hundred times larger leaves it no different"
+- ru preview alt: "Иллюстрация: маленькая группа палочковидных бактерий рядом с толпой таких же палочек, в сто раз большей, на гладкой слизи"
+- ru hero alt: "Иллюстрация: палочки пробиотика на кишечной слизи; удвоенная группа оставляет слизистую спокойнее, а толпа в сто раз больше не меняет под собой ничего"
 
 **8. What must never appear**
 
-No capsule, tablet, pill, blister pack, bottle, jar, sachet, label, box or packaging of any kind — no product and nothing product-shaped, and above all no pack carrying a number, because the number on the pack is the very thing this piece takes apart. No brand mark. No text, letters, numerals, digits, labels, worded arrows, scale bars, graphs, bar charts, dosage marks, watermarks, invented microscope or screen interfaces — a printed figure would undo the whole point of showing the number by quantity. No people, faces, hands or bodies. No medical horror — no blood, no wound, no inflamed or ulcerated tissue. No black background, no blue neon glow, no false-colour electron-micrograph cliché, no stock DNA helix, no glowing pill. No collage of separate plates, no split panel, no inset, no frame divided by a drawn line. No hero that is a wider version of the preview and no preview cut from the hero — two frames, two worlds. And no spherical, forked or spore-bearing cell: the morphology in field 3 is the truth of this frame.
+No capsule, tablet, pill, blister pack, bottle, jar, sachet, label, box or packaging of any kind — no product and nothing product-shaped, and above all no pack carrying a number, because the number on the pack is the very thing this piece takes apart. No brand mark. No text, letters, numerals, digits, labels, worded arrows, scale bars, graphs, bar charts, dosage marks, watermarks, invented microscope or screen interfaces — a printed figure would undo the whole point of showing the number by quantity. No people, faces, hands or bodies. No medical horror — no blood, no wound, no inflamed or ulcerated tissue. No black background, no blue neon glow, no false-colour electron-micrograph cliché, no stock DNA helix, no glowing pill. No collage of separate plates, no split panel, no inset, no frame divided by a drawn line. Neither master is a wider version or a crop of the other — two frames, two worlds. And no spherical, forked or spore-bearing cell: the morphology in field 3 is the truth of this frame.
 
 **9. File keyword**
 
-`more-cfu-means-a-better-probiotic-preview` and `more-cfu-means-a-better-probiotic-hero`.
+Stem `more-cfu-means-a-better-probiotic`, with the two slot suffixes of `docs/BRAND_IMAGE_SPEC.md` §1 (card master 3:2, article master 16:9).
 
 **10. Locales live for this piece**
 
-`en` and `ru` — both files exist and are published. One image set serves both; only the alt line changes per language. English alt above; the Russian alt comes from Alexandra Vetrova, not from a translation of mine.
+`en` and `ru` — both files exist and are published. One image set serves both; only the descriptive line changes per language. English and Russian lines are in fields 6–7; the Russian register still passes through Alexandra Vetrova.
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a small cluster of four blunt-ended rods resting on a glossy mucus bank, and beside it a dense crowd of hundreds of the same rods on the same bank; the surface under both equally smooth and unmarked. The small cluster sharp, the crowd's far edge softening away. Subject inside the middle 1.91:1 band. **World:** a steep, glossy, slow-flowing bank of thick mucus with long pulled strands, like honey drawn off a spoon; low amber sidelight from the left at the end of the day, raking across the bank. **Accent:** coral as one small glint of light where the four rods touch the mucus only — the rods themselves stay the same colour as the crowd.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** one continuous mucus surface over the gut lining, read left to right — a group of about ten rods beside a group of about twenty, the film ruffled under the smaller and smooth under the larger; then a cluster of four rods beside a crowd of about four hundred, the film identically smooth under both; the same untroubled film running on to the right edge. **Light:** soft, neutral-warm frontal light from just above the viewer, shadows tucked behind the forms. **Accent:** gold on the smooth film beneath the four-rod cluster and the four-hundred-rod crowd only.

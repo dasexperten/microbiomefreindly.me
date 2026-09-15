@@ -77,11 +77,11 @@ sources:
     doi: "10.1016/j.chom.2019.10.011"
     pmid: "31726029"
 images:
-  preview: ""
-  hero: ""
-  og: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/routine/eating-after-antibiotics/eating-after-antibiotics-preview.webp"
+  hero: "/assets/img/mbf/routine/eating-after-antibiotics/eating-after-antibiotics-hero.webp"
+  og: "/assets/img/mbf/routine/eating-after-antibiotics/eating-after-antibiotics-og.jpg"
+  previewAlt: "Illustration: rods and forked gut bacteria settling back along torn plant cell walls in soft morning light"
+  heroAlt: "Illustration: plant fibre over the gut lining, almost bare after antibiotics, then filling with bacteria along its strands, and at last crowded again with nine places left empty"
 referral:
   product: ""
   mayaLog: ""

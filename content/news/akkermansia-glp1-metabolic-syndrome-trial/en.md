@@ -59,8 +59,8 @@ images:
   preview: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-preview.webp"
   hero: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-hero.webp"
   og: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-og.jpg"
-  previewAlt: "Illustration: pale gut mucus layer with oval Akkermansia cells resting in it above the thin intestinal wall"
-  heroAlt: "Microbiologist Magnus Larsen at a daylit bench, explaining the result of a trial, with unmarked sample tubes and a printed page of plots beside him."
+  previewAlt: "Illustration: whole, still oval Akkermansia cells lying in grazed hollows of gut mucus, a coral glint of lining beneath"
+  heroAlt: "Illustration: a dense drift of heat-killed oval Akkermansia cells in gut mucus; one lining hormone cell releases a gold burst while the tissue beyond stays unchanged"
 referral:
   product: ""
   mayaLog: ""

@@ -104,8 +104,8 @@ images:
   preview: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-preview.webp"
   hero: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-hero.webp"
   og: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-og.jpg"
-  previewAlt: "Pale mucus gel over the folded gut lining, short oval rods resting in it, the film worn thin at one edge."
-  heroAlt: "A microbiologist at a laboratory bench in morning light, mid-explanation, one hand open beside a plain culture dish and an open notebook."
+  previewAlt: "Иллюстрация: овальные бактерии лежат среди вытянутых нитей слизи над слизистой кишечника, одна нить разлохмачена там, где кормится клетка"
+  heroAlt: "Иллюстрация: овальные бактерии объедают слой слизи над слизистой толстой кишки, она забирает золотое топливо и выделяет свежую слизь; правее скученные бактерии истончают слой до тонкой вуали"
 referral:
   product: ""
   mayaLog: ""

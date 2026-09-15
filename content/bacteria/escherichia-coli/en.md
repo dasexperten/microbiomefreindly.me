@@ -110,8 +110,8 @@ images:
   preview: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-preview.webp"
   hero: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-hero.webp"
   og: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-og.jpg"
-  previewAlt: "Rod-shaped Escherichia coli cells with rounded ends resting on a pale moist folded surface in warm light"
-  heroAlt: "Magnus Larsen in a lab coat holds an open culture plate with small pale colonies up to window light at a teaching bench"
+  previewAlt: "Illustration: rod-shaped E. coli cells fringed with fine threads beside a gas bubble in wet gut contents, one thread lit gold"
+  heroAlt: "Illustration: traces of oxygen rise from the gut lining, fringed E. coli rods beside it take them up, and beyond them strict anaerobes crowd the airless space"
 referral:
   product: ""
   mayaLog: ""

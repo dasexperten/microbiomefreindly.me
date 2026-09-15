@@ -1,7 +1,7 @@
 # Image brief — Akkermansia muciniphila (encyclopedia entry)
 
-As of: 2026-09-02
-From: Magnus Larsen → Marika Nowicka (slot) → Lisa (still)
+As of: 2026-09-02 · amended 2026-09-16
+From: Magnus Larsen → Marika Nowicka (slot and focus) → Otto (hero) · Lisa (preview)
 Template: Marika's BRAND_SLOT_BRIEF (§5, ten fields). Plain words only — Lisa writes the engine side; I do not.
 
 ---
@@ -30,50 +30,66 @@ Template: Marika's BRAND_SLOT_BRIEF (§5, ten fields). Plain words only — Lisa
                                                in pairs, one small gold note where fresh mucus rises to replace what was eaten.
                                                Ground ivory, one soft light, one plane of focus, subject in the middle band.
                                                Quiet, tidy, a tenant at home — not a battle, not a glow, not a render.
+                                               (Light as in Marika's slot-and-focus block below, 2026-09-16.)
 
-6. Hero scene (one sentence, one moment):      The scientist explains: Magnus at a plain lab bench by a window, in morning light,
-                                               holding up a sealed, unlabelled culture jar of the kind used for microbes that
-                                               cannot stand oxygen, tilting it toward the light and looking at it the way you look
-                                               at a difficult tenant — patient, curious, not impressed and not alarmed.
+6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16:
+                                               Akkermansia eats the mucin of the gut's own mucus layer, and that grazing prompts
+                                               the lining to renew it — unless fibre is missing or a pathogen is present, when the
+                                               same appetite thins the layer instead.
 
-7. Cast — R2 REF file name(s), Owner-named:    refs/characters/MagnusLarsen.jpg  (bucket dasexperten-images) — one person, no second.
+7. Three beats (first → next → outcome):      (1) oval cells, singly and in pairs, settle into the thick translucent mucus layer
+                                               over a row of lining cells, with strands of plant fibre in the gut contents above;
+                                               (2) a pair grazes — the mucus around it thins into a shallow hollow;
+                                               (3) outcome: beneath the grazed spot the lining pushes up fresh mucus that fills
+                                               the hollow and leaves the layer thicker than before. The fibre-free and pathogen
+                                               cases stay in the article's words.
 
-8. Place + wardrobe (credible, no logos):      Small university microbiology bench, daylight from one window, plain surfaces, one
-                                               or two unmarked culture plates and the sealed jar; white lab coat worn open over a
-                                               visible shirt collar (both layers showing). Magnus in the left or right 40 %,
-                                               the bench world on the other side, eyes in the upper third. No screens, no posters.
+8. The one number (keyFacts, source id):      more than 1 % of all bacterial cells in human faeces (s2, Derrien et al. 2008).
+                                               Shown only as proportion: along the whole mucus band there are exactly six oval
+                                               cells, against a loose crowd of about five hundred small bacteria of mixed shapes
+                                               in the gut contents above — about one in a hundred. Never printed.
 
 9. Must not appear:                            Any product or packaging of any brand; any letters, numbers, glyphs, labels, scale
-                                               bars or microscope interface; any invented face or hand; a second person; a collage,
+                                               bars or microscope interface; no person, face or hand in either frame; a collage,
                                                split panel or inset; black background, blue neon, false-colour "electron microscope"
                                                look; the stock DNA helix or glowing pill; pus, wounds, blood; branded lab glassware
-                                               or a recognisable maker's mark on any jar or plate; Das Experten anything.
+                                               or a recognisable maker's mark on any jar or plate; Das Experten anything; no
+                                               capsule or supplement shape anywhere; no intestine drawn as an organ cut-away.
                                                Also: no spirals, no rods with tails, no chains — that would be a different organism.
 
-10. Locales + alt text per locale:             en — preview: "Oval Akkermansia muciniphila cells resting in pairs inside a pale
-                                                    mucus film over the gut lining, illustrated"  (108 chars)
-                                               en — hero:    "Magnus Larsen at a lab bench holding a sealed culture jar up to
-                                                    the window light"
-                                               ru — via Alexandra, from the two EN lines above
-                                               de / ja / ar — translate the two EN lines as they stand; nothing added
+10. Locales + text per locale:                 en and ru are live; the four lines sit directly below this block.
 ```
+
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
+
+- en preview alt: "Illustration: oval Akkermansia cells resting in pairs in a clear mucus gel, a gold bead of fresh mucus rising under one pair"
+- en hero alt: "Illustration: oval Akkermansia cells settle into the gut's mucus layer and graze a shallow hollow, and the lining below pushes up fresh mucus that thickens the layer"
+- ru preview alt: "Иллюстрация: овальные клетки Akkermansia парами покоятся глубоко в прозрачном слизистом геле, под одной парой поднимается золотистая капля свежей слизи"
+- ru hero alt: "Иллюстрация: овальные клетки Akkermansia оседают в слое слизи кишечника и выедают неглубокую ямку, а слизистая снизу выталкивает свежую слизь, и слой становится толще"
 
 ---
 
 ## Notes for Marika and Lisa (still plain words)
 
-**The single idea both images must carry.** One organism, one appetite, two outcomes — and the outcome depends on the neighbourhood, not on the bug. The preview shows the appetite at home (cells in the film, the film renewing under them). The hero shows the person who has to hold both readings at once and refuses to pick a hero or a villain.
+**The single idea both images must carry.** One organism, one appetite, two outcomes — and the outcome depends on the neighbourhood, not on the bug. The card shows the appetite at home (cells in the gel, fresh mucus rising under them). The article image walks the whole cycle — settle, graze, renew — and keeps the fibre in sight, because the renewal is the fed case.
 
 **The mechanism in one sentence, for Lisa's understanding.** Akkermansia eats mucin, the protein of the gut's own mucus layer; that grazing prompts the lining to make fresh mucus and, in mice, went with a tighter barrier and better metabolic numbers — but when the diet has no fibre or a pathogen is present, the same eating thins the layer instead of renewing it.
 
-**What the preview is and is not.** It is an illustration of a micro-world, warm and calm. It is not a diagnostic image and the alt text must not call it a photograph or a microscope picture. The film is translucent and pale, never white and opaque; the cells are dark against it (navy, teal) and small relative to the film's depth. Keep the cells well inside the middle band so the og crop loses only air above and below.
+**What the card image is and is not.** It is an illustration of a micro-world, calm. It is not a diagnostic image and its description must not call it a photograph or a microscope picture. The gel is translucent and pale, never white and opaque; the cells are dark against it (navy, teal) and small relative to its depth. Keep the cells well inside the middle band so the og crop loses only air above and below.
 
-**What the hero is and is not.** One frame, one moment, one face from R2 — identity checked side by side against the REF, "resembles" is a reject. The jar is a plain sealed vessel, not a product and not a branded item; if the engine gives it a label, the frame is reshot. It is not a wider crop of the preview and there is no microscope screen showing the preview inside it.
+**What the hero is and is not.** Otto's built 3D infographic of the mechanism — no person, no face, no jar. It is not a wider crop of the preview and there is no microscope screen showing the preview inside it.
 
 **File names (Jurgen's pattern).** `akkermansia-muciniphila-preview` · `akkermansia-muciniphila-hero` (plus the og, thumb and @2x set Marika lists in §1). R2: `dasexperten-images/mbf/bacteria/akkermansia-muciniphila/`.
 
-**Priority.** Bacteria entry → evergreen. No deadline pressure; get the morphology and the face right rather than fast.
+**Priority.** Bacteria entry → evergreen. No deadline pressure; get the morphology right rather than fast.
 
 **Truth check.** Morphology in field 4 is taken from the 2004 description in the article (oval, single or in pairs, non-motile, no spores, no chains). If Lisa's first pass shows spirals, tails or long chains, it is not this organism — return it, do not retouch it.
 
-— Magnus Larsen · 2026-09-02
+— Magnus Larsen · 2026-09-02 · hero fields 2026-09-16
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one pair of oval cells deep in the gel, sharp in the centre, with a small bead of fresh mucus rising just beneath it; other cells soften away in the gel. Subject inside the middle 1.91:1 band. **World:** inside the thick, clear, honey-like mucus gel, threaded with a faint mesh of mucin strands, the lining only a dim soft plane far below; blue-grey dawn, a cool low light from the left. **Accent:** gold on the rising bead of fresh mucus only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** the renewal — left cells settling into the mucus layer, centre a pair grazing a shallow hollow, right fresh mucus welling up from the lining and filling it; read left to right, the crowd of gut contents above. **Light:** warm honey afternoon light, low from the right, its own and not the preview's. **Accent:** lime on the fresh mucus welling up from the lining.

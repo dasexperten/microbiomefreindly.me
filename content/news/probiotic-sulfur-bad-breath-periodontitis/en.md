@@ -51,8 +51,8 @@ images:
   preview: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-preview.webp"
   hero: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-hero.webp"
   og: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-og.jpg"
-  previewAlt: "Spindle-shaped and short rod bacteria in a pale tongue-coating film, releasing tiny gas bubbles"
-  heroAlt: "Magnus Larsen at a lab bench holding a culture plate of dark colonies up to the window light"
+  previewAlt: "Illustration: spindle-shaped and stubby bacteria in the coating between rounded tongue papillae, tiny gold gas bubbles rising"
+  heroAlt: "Illustration: mouth anaerobes filled with sulfur-cutting enzymes give off tiny bubbles; fluid from lactic-acid bacteria washes over and the enzymes almost vanish"
 referral:
   product: ""
   mayaLog: ""

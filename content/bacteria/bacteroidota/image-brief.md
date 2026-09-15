@@ -1,7 +1,7 @@
 # Image brief — bacteroidota
 
-As of: 2026-09-02
-From: Magnus Larsen → Marika Nowicka (slot) → Lisa (still)
+As of: 2026-09-02 · amended 2026-09-16
+From: Magnus Larsen → Marika Nowicka (slot and focus) → Otto (hero) · Lisa (preview)
 Template: BRAND_SLOT_BRIEF_MARIKA.md §5 (ten fields) · slots and ratios are Marika's, not mine — nothing here deviates from §1
 Priority: bacteria = evergreen (encyclopedia entry, no news date)
 
@@ -12,33 +12,46 @@ Plain words only. I say what is true about the organism and what the reader shou
 2. Article title (EN) + one-line summary:      "Bacteroidota: starve them of fibre and they eat your gut lining" — the largest resident group in the colon, the one that digests the fibre you cannot; feed it plant fibre and it keeps your mucus barrier honest, take the fibre away and it turns to the mucus itself; the same group is what grows in most anaerobic infections once it escapes the gut. Neither hero nor villain: a resident with a job.
 3. Organism / structure in the preview:        Bacteroidota — a gut Bacteroides colony (the Bacteroides thetaiotaomicron / fragilis type) sitting on the colonic mucus layer, with plant fibre nearby
 4. Morphology, in words (truth, Magnus/Maya):  Gram-negative rods, non-spore-forming, plump and slightly irregular — rounded ends, uneven lengths, some short and stubby, a few longer, never a perfect sausage row. They lie singly and in loose small groups, not in chains. They live without oxygen, so they sit close to a surface: here, a soft translucent mucus film over a folded gut lining, with ragged fragments of plant fibre — long fibrous strands, the leftover of a meal — lying among them. No flagella, no spores, no spheres, no Y-shapes, no chains. Scale cue: the rods are a few micrometres long, so a single fibre fragment can be many times the size of one cell.
-5. Preview mood (one line, warm science):      a quiet feeding: plump navy-teal rods at rest on a pale ivory mucus film, working on a strand of plant fibre in soft morning light — one small gold note where the fibre is being taken apart; the mucus beneath them intact and whole. The feeling is "this is what they do for you when you feed them", not danger. Ground stays ivory and airy; no black, no glow. Subject inside the middle band for the og crop.
-6. Hero scene (one sentence, one moment):      "The scientist explains": Magnus at a plain wooden kitchen-lab bench, a halved head of cabbage and a bowl of dry beans and oats in front of him, one hand resting on a small open dish of pale culture medium, looking at the reader with the calm of someone about to say "they eat what you eat" — the moment before the sentence, not a posed smile.
-7. Cast — R2 REF file name(s), Owner-named:    refs/characters/MagnusLarsen.jpg (bucket dasexperten-images; accepted portrait master MagnusLarsen_portrait.jpg for the face check). One person only. No second REF.
-8. Place + wardrobe (credible, no logos):      a home kitchen used as a bench — warm wood, ivory wall, one window light from the side; Magnus in a plain lab coat open over a visible shirt collar (both layers visible), sleeves pushed up, no badge, no logo, no name tag. Fibre foods raw and unpackaged: cabbage, beans, oats, a whole apple. Plain unbranded glass or ceramic dish only.
-9. Must not appear:                            any product of any brand (no supplement jar, no tube, no box, no Das Experten anything); any letters, glyphs, labels, scale bars, invented microscope readouts; any second person, any invented face or hand; branded lab glassware or a brand mark on any beaker or plate; a collage, split panel or inset; medical horror — no pus, blood, wound, abscess (the infection side of the article is told in words, not pixels); no black background, no blue neon, no false-colour electron-microscope look, no stock DNA helix, no glowing pill; the hero is not a wider crop of the preview and the preview is not a crop of the hero — two worlds.
-10. Locales + alt text per locale:             en only for now (RU via Alexandra when the RU page exists; de / ja / ar follow the same two lines)
-    preview alt (en, 111 chars): "Illustration of plump Bacteroidota rods resting on a pale gut mucus film, breaking down a strand of plant fibre"
-    hero alt (en):                "Magnus Larsen at a kitchen bench with cabbage, beans and oats beside a small culture dish, explaining what gut bacteria eat"
+5. Preview mood (one line, warm science):      a quiet feeding: plump navy-teal rods at rest on a strand of plant fibre, working on it — one small accent where the fibre is being taken apart. The feeling is "this is what they do for you when you feed them", not danger. Ground stays airy; no black, no glow. Subject inside the middle band for the og crop. World, light and accent as in Marika's slot-and-focus block below (2026-09-16).
+6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16:
+                                               Fed plant fibre, Bacteroidota rods take apart what human enzymes cannot; starved of fibre, the same rods turn to the gut's own mucus and thin it — shown so far in mice.
+7. Three beats (first → next → outcome):      (1) ragged, ribbed strands of plant fibre arrive over a thick translucent mucus layer, where plump, uneven rods rest at the surface; (2) the rods take the fibre apart into small fragments that sink toward the lining, and the mucus beneath them stays thick and whole; (3) outcome: further right, where no fibre has arrived, the same rods press into the mucus itself and the layer under them is visibly thinner, the lining cells closer to the surface — calm, no wound.
+8. The one number (keyFacts, source id):      none shown — clause dropped. The figures in keyFacts are a protein count in one genome (4,779, s3), the share of one species in the colon (about 0.5 %, s6), a mortality rate (more than 19 %, s6) and toxin-gene rates in patient biopsies (85.7 %, 91.7 %, s9). None belongs to the fibre-and-mucus path this frame draws; 0.5 % would need about two hundred countable cells, and the rest count patients, not things in the frame.
+9. Must not appear:                            any product of any brand (no supplement jar, no tube, no box, no capsule, no Das Experten anything); any letters, glyphs, labels, scale bars, invented microscope readouts; no person, face or hand in either frame; branded lab glassware or a brand mark on any beaker or plate; a collage, split panel or inset; medical horror — no pus, blood, wound, abscess (the infection side of the article is told in words, not pixels); no intestine drawn as an organ cut-away; no black background, no blue neon, no false-colour electron-microscope look, no stock DNA helix, no glowing pill; the hero is not a wider crop of the preview and the preview is not a crop of the hero — two worlds.
+10. Locales + text per locale:                 en and ru are live; the four lines sit directly below this block
 ```
+
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
+
+- en preview alt: "Illustration: plump Bacteroidota rods gathered on the frayed, lime-tinted torn end of a plant fibre strand, lit from behind"
+- en hero alt: "Illustration: plump rods take plant fibre apart into gold fragments above a thick mucus layer; further right, with no fibre left, the same rods graze the mucus and it thins"
+- ru preview alt: "Иллюстрация: пухлые палочки Bacteroidota собрались на разлохмаченном конце растительного волокна с лаймовым оттенком на разрыве, свет падает сзади"
+- ru hero alt: "Иллюстрация: пухлые палочки разбирают растительное волокно на золотистые фрагменты над толстым слоем слизи; правее, где волокна нет, те же палочки поедают слизь, и слой истончается"
 
 ## The single idea both images carry
 
-Bacteroidota eats what you cannot — and what it eats is decided by what you feed it. Plant fibre on the table, fibre in the frame: the preview shows the rods at the fibre with the mucus whole beneath them; the hero shows the man who explains it with the fibre foods in front of him. Same lesson, two worlds, no threat in either frame — the threat is in the article, in words, with its studies named.
-
-## File-name keyword (Jurgen's pattern)
-
-`bacteroidota-preview` · `bacteroidota-hero` (plus `-og`, `-thumb`, `@2x` per Marika §1). R2 tree: `dasexperten-images/mbf/bacteria/bacteroidota/`.
+Bacteroidota eats what you cannot — and what it eats is decided by what you feed it. Plant fibre on the table, fibre in the frame: the card shows the rods at the fibre; the article image shows the fed stretch and the starved stretch side by side on one path. Same lesson, two worlds, no threat in either frame — the threat is in the article, in words, with its studies named.
 
 ## The mechanism in one sentence, for Lisa's understanding
 
 Bacteroidota carry a huge kit of enzymes that take apart plant fibre your own gut cannot digest and turn it into short-chain fatty acids that feed your colon lining; when the fibre is missing, the same enzymes go to work on the sugar-coated mucus that lines your gut, and the barrier thins — so the organism is not good or bad, it is hungry, and the diet decides what it eats.
 
+## File-name keyword (Jurgen's pattern)
+
+`bacteroidota-preview` · `bacteroidota-hero` (plus `-og`, `-thumb`, `@2x` per Marika §1). R2 tree: `dasexperten-images/mbf/bacteria/bacteroidota/`.
+
 ## Notes for Marika
 
 - Field 4 is the truth line: rods, uneven, no chains, no spheres, no flagella. A frame with cocci or a helix is a reject on morphology, not on taste.
-- The og band: the rods and the fibre strand sit in the middle of the 3:2 frame; top and bottom are ivory air.
+- The og band: the rods and the fibre strand sit in the middle of the 3:2 frame; top and bottom are air.
 - Maya's consult is not needed — no product and no health claim lives in either frame; the claims are in the article and were fact-checked 2026-09-02.
 - Priority evergreen: this entry can sit behind this week's news images in Lisa's queue.
 
-— Magnus Larsen · 2026-09-02
+— Magnus Larsen · 2026-09-02 · hero fields 2026-09-16
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** the torn end of one plant fibre strand, its fibrils splayed, with three or four plump uneven rods nosing into the frayed point, sharp in the centre; the rest of the strand runs away out of focus. Subject inside the middle 1.91:1 band. **World:** a single ribbed strand of plant cell wall lying in a wet film of colon contents, the meal's leftover; soft rim backlight from behind the strand, its edges glowing, the front in gentle shade. **Accent:** lime on the frayed fibrils being taken apart only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** the switch — left fibre strands arriving over thick mucus, centre the rods breaking fibre into fragments, right the same rods, no fibre left, sunk into a thinned mucus layer; read left to right. **Light:** warm apricot light, low from the front-left, its own and not the preview's. **Accent:** gold on the fibre fragments the rods release.

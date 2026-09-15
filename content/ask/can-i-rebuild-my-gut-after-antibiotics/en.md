@@ -72,11 +72,11 @@ sources:
     doi: "10.1016/j.chom.2019.10.011"
     pmid: "31726029"
 images:
-  preview: ""
-  hero: ""
-  og: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-preview.webp"
+  hero: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-hero.webp"
+  og: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-og.jpg"
+  previewAlt: "Illustration: forked Bifidobacterium cells regrowing in loose gut mucus beside an empty hollow where cells once stood"
+  heroAlt: "Illustration: a gut bacterial community in three moments: crowded, stripped almost bare by antibiotics, then crowded again with nine places left empty"
 referral:
   product: ""
   mayaLog: ""

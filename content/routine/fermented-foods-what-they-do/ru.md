@@ -62,11 +62,11 @@ sources:
     doi: "10.3945/ajcn.113.073023"
     pmid: "24695892"
 images:
-  preview: ""
-  hero: ""
-  og: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-preview.webp"
+  hero: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-hero.webp"
+  og: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-og.jpg"
+  previewAlt: "Иллюстрация: цепочки круглых клеток, длинные палочки и крупные почкующиеся дрожжи среди мелких пузырьков живой закваски"
+  heroAlt: "Иллюстрация: бактерии из живой закваски проплывают над слизистой кишечника; из двадцати задерживается одна, кислоты просачиваются в слизь, а собственные бактерии становятся разнообразнее"
 referral:
   product: ""
   mayaLog: ""

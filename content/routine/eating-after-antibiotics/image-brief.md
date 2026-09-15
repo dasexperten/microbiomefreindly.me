@@ -1,9 +1,9 @@
 # Image brief — Nine species still missing: what to eat after antibiotics
 
 As of: 2026-09-04
-From: Magnus Larsen → Roberta (prompt) → Lisa (generation, Grok or Codex) → Marika (acceptance)
+From: Magnus Larsen → Roberta (words) → Marika Nowicka (slot and focus) → Otto (hero) · Lisa (preview)
 
-Plain words only. I supply the mechanism, the morphology and the one number; Roberta writes the prompt paragraph from `docs/IMAGE_PROMPT.md`; Lisa generates; Marika accepts the frame and then the frame on the live page. I write no prompt text, no camera settings, no model names.
+Plain words only. I supply the mechanism, the morphology and the one number; Otto (the 16:9 infographic) and Lisa (the 3:2 macro world) each write their own engine words from `docs/IMAGE_PROMPT.md`; Marika accepts the frame and then the frame on the live page. No person, face or hand in either frame. I write no prompt text, no camera settings, no model names.
 
 ---
 
@@ -43,19 +43,23 @@ The eye must walk that path in one pass: bare lattice → cells spreading along 
 
 Shown as **nine visibly empty places** in the refilled field — nine clear pockets on the fibre where a cell plainly used to sit, countable without effort in an otherwise crowded frame. Nine exactly: not eight, not a suggestion of "some". The number is never printed, never labelled, never written anywhere in the pixels. Quantity is the whole of it.
 
-**6. Preview alt text (EN, ≤ 125 characters)**
+**6–7. Alt text**
 
-Illustration: gut bacteria regrowing along plant fibre after antibiotics, with nine places in the crowd left empty
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
 
-**7. Hero alt text (EN)**
-
-Illustration: an open lattice of plant fibre over the gut lining in three moments — stripped almost bare after a four-day antibiotic course, then filling as bacteria spread along the fibre strands over about six weeks, and finally crowded again except for nine places that stay empty.
+- en preview alt: "Illustration: rods and forked gut bacteria settling back along torn plant cell walls in soft morning light"
+- en hero alt: "Illustration: plant fibre over the gut lining, almost bare after antibiotics, then filling with bacteria along its strands, and at last crowded again with nine places left empty"
+- ru preview alt: "Иллюстрация: палочки и вильчатые бактерии кишечника снова оседают на разорванных стенках растительных клеток в мягком утреннем свете"
+- ru hero alt: "Иллюстрация: растительная клетчатка над слизистой кишечника — почти пустая после антибиотиков, затем бактерии заселяют её волокна, и в конце поле снова плотное, но девять мест остаются пустыми"
 
 **8. What must never appear**
 
-No pill, capsule, tablet, blister pack, sachet, bottle, jar, tub, syringe, vial or packaging of any kind — no product and nothing product-shaped; the antibiotics are shown only by what they leave behind, and the probiotic question is not depicted at all. No brand mark. No kitchen and no food photography: no bowl, plate, spoon, jar of yoghurt, kraut, kimchi or recognisable vegetable — fibre appears only as plant cell-wall material at the scale of the bacteria. No text, letters, numerals, labels, worded arrows, scale bars, watermarks, invented microscope or screen interfaces. No people, faces, hands or bodies. No medical horror — no blood, no wound, no inflamed or ulcerated tissue. No black background, no blue neon glow, no false-colour electron-micrograph cliché, no stock DNA helix. No collage of separate plates, no split panel, no inset. No hero that is a wider version of the preview and no preview cut from the hero — two frames, two worlds. No spherical *Bifidobacterium*: the morphology in field 3 is the truth of this frame.
+No pill, capsule, tablet, blister pack, sachet, bottle, jar, tub, syringe, vial or packaging of any kind — no product and nothing product-shaped; the antibiotics are shown only by what they leave behind, and the probiotic question is not depicted at all. No brand mark. No kitchen and no food photography: no bowl, plate, spoon, jar of yoghurt, kraut, kimchi or recognisable vegetable — fibre appears only as plant cell-wall material at the scale of the bacteria. No text, letters, numerals, labels, worded arrows, scale bars, watermarks, invented microscope or screen interfaces. No person, face or hand in either frame, and no body. No medical horror — no blood, no wound, no inflamed or ulcerated tissue. No black background, no blue neon glow, no false-colour electron-micrograph cliché, no stock DNA helix. No collage of separate plates, no split panel, no inset. The wide infographic is never a wider version of the card frame and the card frame is never cut from it — two frames, two worlds. No spherical *Bifidobacterium*: the morphology in field 3 is the truth of this frame.
 
-Two honesty limits that are as binding as the bans above: the nine empty places must stay empty in the last beat — nothing may show food closing them, because no study says it does; and the fermented-food cells must not be drawn as the agent that refills the field, because the trial behind them was run in healthy adults with no antibiotics involved.
+Two honesty limits that are as binding as the bans above:
+
+- The nine empty places must stay empty in the last beat — nothing may show food closing them, because no study says it does.
+- The fermented-food cells must not be drawn as the agent that refills the field, because the trial behind them was run in healthy adults with no antibiotics involved.
 
 **9. File keyword**
 
@@ -63,4 +67,11 @@ Two honesty limits that are as binding as the bans above: the nine empty places 
 
 **10. Locales live for this piece**
 
-`en` and `ru` — both files exist and are published. One image set serves both; only the alt line changes per language. English alt above; the Russian alt comes from Alexandra Vetrova, not from a translation of mine.
+`en` and `ru` — both files exist and are published. One image set serves both; only the description line changes per language (fields 6–7). The Russian lines pass Alexandra Vetrova's register gate before they go live.
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one torn sheet of plant cell wall, its broken honeycomb of cell outlines and frayed parallel strands sharp at the centre, with a few plain rods and two or three forked cells settling along its edge; the rest of the lattice softens away. Subject inside the middle 1.91:1 band. **World:** an open lattice of pale, matte, slightly translucent plant cell-wall sheets and strands at the scale of the bacteria, no vegetable, bowl or plate; warm early-morning light as through a kitchen window, low from the left, honey-warm. **Accent:** gold on the forked cells only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** one continuous fibre lattice over the mucus-covered folds, left to right — almost bare with scattered cells, then plain rods and forked cells spreading out along the strands, then a crowded field with exactly nine clearly empty pockets. **Light:** soft, even overcast light from directly above, neutral-cool, shadows barely there. **Accent:** coral on the rims of the nine empty pockets only.

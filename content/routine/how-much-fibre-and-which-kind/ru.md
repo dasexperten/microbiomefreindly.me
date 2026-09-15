@@ -77,11 +77,11 @@ sources:
     doi: "10.1016/j.cell.2016.10.043"
     pmid: "27863247"
 images:
-  preview: ""
-  hero: ""
-  og: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-preview.webp"
+  hero: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-hero.webp"
+  og: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-og.jpg"
+  previewAlt: "Иллюстрация: вильчатые бактерии кишечника разбирают мягкие ветвистые цепочки клетчатки, а гладкая гелевая лента скользит мимо"
+  heroAlt: "Иллюстрация: три вида клетчатки у слизистой кишечника; бактерии едят только ветвистые цепочки, гелевая лента и твёрдая частица отрубей проходят целыми, а большие порции перестают давать больше"
 referral:
   product: ""
   mayaLog: ""

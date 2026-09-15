@@ -1,7 +1,7 @@
 # Image brief — stool-proteases-irritable-bowel-nerves
 
 As of: 2026-09-02
-From: Magnus Larsen → Marika Nowicka (slot) → Lisa (still)
+From: Magnus Larsen → Marika Nowicka (slot and focus) → Otto (hero) · Lisa (preview)
 Template: Marika's BRAND IMAGE SPEC §5 (ten fields). Plain words only — Lisa writes the engine side, I do not.
 
 ---
@@ -38,54 +38,68 @@ Template: Marika's BRAND IMAGE SPEC §5 (ten fields). Plain words only — Lisa 
                                                the lining, gold as the one accent for the awake knots. Not alarming;
                                                the feeling is "something real is being touched", not "danger".
 
-6. Hero scene (one sentence, one moment):      The scientist explains: Magnus at a bench in soft morning light,
-                                               holding up a small clear dish with a thin, almost transparent slip of
-                                               tissue lying in a little liquid, looking at it — not at the camera —
-                                               with the face of someone who has just been shown that the pain had
-                                               an address all along. Dish and tissue in the left or right 40 %,
-                                               Magnus on the other side, eyes in the upper third.
+6. Hero mechanism (the answer, one clause)     — Magnus, 2026-09-16: Protein-cutting enzymes in the liquid part of IBS
+                                               stool switch on the gut wall's own nerve mesh — in the diarrhoea subtype
+                                               by snipping the PAR-1 receptor on the nerve cell surface — so it fires
+                                               far harder than with fluid from healthy people. Guinea-pig nerves, in a dish.
 
-7. Cast — R2 REF file name(s), Owner-named:    refs/characters/MagnusLarsen.jpg (bucket dasexperten-images; accepted
-                                               portrait master MagnusLarsen_portrait.jpg). One person only.
+7. Three beats (first → next → outcome):       (1) A thin, clear film of fluid with a faint amber cast settles over
+                                               the soft lining, carrying small compact enzyme molecules like folded beads.
+                                               (2) Beneath the lining, at the surface of one rounded nerve-cell knot,
+                                               an enzyme clips the outer end off a receptor standing on the membrane,
+                                               and the clipped receptor switches that cell on.
+                                               (3) Outcome: the knot brightens and the firing runs along the thin fibre
+                                               strands to the neighbouring knots, until a stretch of the net is awake.
 
-8. Place + wardrobe (credible, no logos):      A plain lab bench by a window; ivory wall, a wooden or pale surface,
-                                               a couple of unlabelled clear dishes and a plain notebook out of focus.
-                                               Lab coat over a visible knit or shirt collar (both layers showing).
-                                               No logos, no brand marks, no Das Experten anything.
+8. The one number (keyFacts, source id):       None shown — clause dropped. The figures in keyFacts are counts of people
+                                               (21 and 9 patients, 18 controls) and of differing proteins (47), all s1;
+                                               none of them can be drawn honestly at the scale of a nerve mesh without
+                                               inventing particles or firing ratios the study never reported.
 
 9. Must not appear:                            Any product, any packaging, any brand look on glassware or bottles.
                                                Letters, glyphs, labels, scale bars, invented microscope readouts.
-                                               A second person, any invented face, any invented hand. Collage,
+                                               No person, face or hand in either frame. Collage,
                                                split frame, inset. Blue neon, black background, false-colour
                                                microscope cliché, "glowing pill", DNA helix. Guinea pigs or any animal
                                                (the nerves were animal, but an animal in the frame would say the wrong
                                                thing). Medical horror — no blood, no wound, no stool depicted as stool.
+                                               No intestine drawn as an anatomical organ cut-away, no brain.
                                                Bacteria drawn as the subject — this study did not trace them.
 
-10. Locales + alt text per locale:             en here; ru.md exists in this folder — RU alt lines via Alexandra, same two images.
-    Preview alt (en, 125 chars max):           Illustration of a nerve network under the gut lining, a thin film of
-                                               fluid touching it and a few nerve clusters lit up
-                                               (118 characters — honest: it is an illustration, not a micrograph)
-    Hero alt (en):                             Magnus Larsen at a lab bench in morning light, holding a small clear
-                                               dish with a thin slip of tissue and studying it
+10. Locales + alt text per locale:             en and ru — both files exist; one image set, only alt changes.
+                                               The four alt lines sit directly below this block.
 ```
+
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
+
+- en preview alt: "Illustration: a lace of nerve knots glowing through thin gut tissue, a clear amber film settling on it, a few knots lit coral"
+- en hero alt: "Illustration: a thin amber fluid film settles on the gut lining; an enzyme clips a receptor on a nerve cell, which lights up and wakes the knots of the nerve net around it"
+- ru preview alt: "Иллюстрация: кружево нервных узлов просвечивает сквозь тонкую ткань кишки, сверху оседает прозрачная янтарная плёнка, несколько узлов светятся коралловым"
+- ru hero alt: "Иллюстрация: тонкая янтарная плёнка жидкости оседает на слизистой кишки; фермент отрезает рецептор на нервной клетке, она загорается и будит соседние узлы нервной сети"
 
 ---
 
-## Notes for Marika and Lisa, in my words
+## Notes for Marika, Otto and Lisa, in my words
 
-**The single idea both images must carry.** Something real and measurable in the fluid of the gut touches the gut's own nerves and makes them fire. The preview shows the touch; the hero shows the person who can now say so out loud. The reader who has been told "there is nothing wrong with your bowel" should feel, from both frames, that they are being taken seriously — not frightened.
-
-**File name keyword** (Jurgen's pattern): `stool-proteases-irritable-bowel-nerves-preview` and `stool-proteases-irritable-bowel-nerves-hero`; the og image is the centre band of the preview per Marika §1, and the subject in field 4 is built to sit inside that band — the awake knots go in the middle, the folds of lining fill the top and bottom air.
+**The single idea both images must carry.** Something real and measurable in the fluid of the gut touches the gut's own nerves and makes them fire. The card frame shows the touch; the article frame builds the snip and the firing it sets off. The reader who has been told "there is nothing wrong with your bowel" should feel, from both frames, that they are being taken seriously — not frightened.
 
 **Priority.** News — this week. The article is already live with empty image fields; it is on the card grid without a cover.
 
-**The mechanism in one sentence, for Lisa's understanding.** In the diarrhoea subtype, protein-cutting enzymes in the liquid part of stool snip a receptor sitting on the surface of gut nerve cells, and that snip switches the nerve on — so the nerve mesh in the gut wall fires harder than it should, without the brain being involved at all.
+**The mechanism in one sentence, for Otto's and Lisa's understanding.** In the diarrhoea subtype, protein-cutting enzymes in the liquid part of stool snip a receptor sitting on the surface of gut nerve cells, and that snip switches the nerve on — so the nerve mesh in the gut wall fires harder than it should, without the brain being involved at all.
+
+**File name keyword** (Jurgen's pattern): `stool-proteases-irritable-bowel-nerves-preview` and `stool-proteases-irritable-bowel-nerves-hero`; the og image is the centre band of the preview per Marika §1, and the subject in field 4 is built to sit inside that band — the awake knots go in the middle, the folds of lining fill the top and bottom air.
 
 **Two honesty points that shape the pictures.**
-- The nerves in the study were guinea pig, in a dish. The preview is an illustration of a gut-wall nerve net in general, not a portrait of that experiment, and the alt says "illustration". Nothing in either frame may claim to be a human sample or a diagnostic image.
-- The enzymes' makers are unknown — the paper measured the enzymes, not who made them. That is why no bacterium is the subject here. If a colony sneaks into the preview as the star, the frame says something the study did not.
+- The nerves in the study were guinea pig, in a dish. The card frame is an illustration of a gut-wall nerve net in general, not a portrait of that experiment, and the image description says "illustration". Nothing in either frame may claim to be a human sample or a diagnostic image.
+- The enzymes' makers are unknown — the paper measured the enzymes, not who made them. That is why no bacterium is the subject here. If a colony sneaks into the card frame as the star, the frame says something the study did not.
 
 **For the truth check** (Marika acceptance item 9): the shape in field 4 is the submucous plexus as it looks in whole-mount preparations — knots and strands in an irregular net under a wet lining. If Lisa's frame shows a grid, straight lines, or free-floating balls, it is wrong and I would rather it came back to me than to the Owner.
 
 — Magnus Larsen · 2026-09-02
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** an irregular polygon lace of rounded nerve knots and thin fibre strands seen through a thin sheet of gut wall, a clear film with a faint amber cast settling on top; a handful of knots in the middle are awake and sharpest. Subject inside the middle 1.91:1 band. **World:** a thin, wet, slightly folded sheet of gut tissue with the submucous nerve net inside it; backlit translucent glow, light passing through the tissue from behind, warm and soft. **Accent:** coral on the few awake knots only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left to right — the amber fluid film with its small bead-like enzymes settling on the lining; centre, one enzyme clipping the outer end of a receptor on a nerve-cell knot; right, that knot brightening and the firing running along the strands to wake a stretch of the net. **Light:** cool blue-grey shade from the upper left with one warm edge on the nearest forms. **Accent:** gold on the clipped receptor only.

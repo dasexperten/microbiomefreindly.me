@@ -63,8 +63,8 @@ images:
   preview: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-preview.webp"
   hero: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-hero.webp"
   og: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-og.jpg"
-  previewAlt: "Illustration of a nerve network under the gut lining, a thin film of"
-  heroAlt: "Magnus Larsen at a lab bench in morning light, holding a small clear"
+  previewAlt: "Illustration: a lace of nerve knots glowing through thin gut tissue, a clear amber film settling on it, a few knots lit coral"
+  heroAlt: "Illustration: a thin amber fluid film settles on the gut lining; an enzyme clips a receptor on a nerve cell, which lights up and wakes the knots of the nerve net around it"
 referral:
   product: ""
   mayaLog: ""

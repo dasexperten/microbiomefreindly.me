@@ -103,8 +103,8 @@ images:
   preview: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-preview.webp"
   hero: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-hero.webp"
   og: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-og.jpg"
-  previewAlt: "Forked, Y-shaped bifidobacterium rods resting in a pale milk film, drawn in warm light"
-  heroAlt: "Magnus Larsen at a lab bench holding a culture plate up to the window light, studying its colonies"
+  previewAlt: "Illustration: fine branching soil bacteria threads over damp soil grains, raised tips ending in pale green spore chains"
+  heroAlt: "Illustration: branching soil bacteria release antibiotic molecules, six of nine in coral, while across the frame forked Bifidobacterium rods rest on a gut lining"
 referral:
   product: ""
   mayaLog: ""

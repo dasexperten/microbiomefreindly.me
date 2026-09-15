@@ -87,10 +87,11 @@ sources:
     doi: "10.1073/pnas.1620673114"
     pmid: "28179566"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/routine/sleep-and-your-gut/sleep-and-your-gut-preview.webp"
+  hero: "/assets/img/mbf/routine/sleep-and-your-gut/sleep-and-your-gut-hero.webp"
+  og: "/assets/img/mbf/routine/sleep-and-your-gut/sleep-and-your-gut-og.jpg"
+  previewAlt: "Illustration: four kinds of gut bacteria side by side in a glistening mucus film under deep blue night light"
+  heroAlt: "Illustration: gut bacteria along the lining in an even wave that turns ragged, the crowd staying just as full but made of fewer different kinds of cell"
 referral:
   product: ""
   mayaLog: ""

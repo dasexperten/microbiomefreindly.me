@@ -87,10 +87,11 @@ sources:
     doi: "10.1073/pnas.1620673114"
     pmid: "28179566"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/routine/sleep-and-your-gut/sleep-and-your-gut-preview.webp"
+  hero: "/assets/img/mbf/routine/sleep-and-your-gut/sleep-and-your-gut-hero.webp"
+  og: "/assets/img/mbf/routine/sleep-and-your-gut/sleep-and-your-gut-og.jpg"
+  previewAlt: "Иллюстрация: четыре вида кишечных бактерий рядом в блестящей плёнке слизи под глубоким синим ночным светом"
+  heroAlt: "Иллюстрация: бактерии вдоль слизистой кишечника выстроены ровной волной, которая становится рваной; клеток столько же, но видов меньше"
 referral:
   product: ""
   mayaLog: ""

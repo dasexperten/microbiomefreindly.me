@@ -77,10 +77,11 @@ sources:
     doi: "10.1080/29933935.2026.2668863"
     pmid: "42145944"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/myth/more-cfu-means-a-better-probiotic/more-cfu-means-a-better-probiotic-preview.webp"
+  hero: "/assets/img/mbf/myth/more-cfu-means-a-better-probiotic/more-cfu-means-a-better-probiotic-hero.webp"
+  og: "/assets/img/mbf/myth/more-cfu-means-a-better-probiotic/more-cfu-means-a-better-probiotic-og.jpg"
+  previewAlt: "Illustration: a small cluster of rod-shaped bacteria beside a crowd of the same rods a hundred times larger, on smooth mucus"
+  heroAlt: "Illustration: rod-shaped probiotic bacteria on gut mucus; a doubled group leaves the lining calmer, but a crowd a hundred times larger leaves it no different"
 referral:
   product: ""
   mayaLog: ""

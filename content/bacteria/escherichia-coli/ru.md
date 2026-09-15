@@ -110,8 +110,8 @@ images:
   preview: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-preview.webp"
   hero: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-hero.webp"
   og: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-og.jpg"
-  previewAlt: "Rod-shaped Escherichia coli cells with rounded ends resting on a pale moist folded surface in warm light"
-  heroAlt: "Magnus Larsen in a lab coat holds an open culture plate with small pale colonies up to window light at a teaching bench"
+  previewAlt: "Иллюстрация: клетки E. coli в форме палочек с бахромой тонких жгутиков у пузырька газа во влажном содержимом кишечника, один жгутик подсвечен золотом"
+  heroAlt: "Иллюстрация: следы кислорода поднимаются от слизистой кишечника, палочки E. coli со жгутиками рядом с ней поглощают их, а дальше безвоздушное пространство заполняют строгие анаэробы"
 referral:
   product: ""
   mayaLog: ""

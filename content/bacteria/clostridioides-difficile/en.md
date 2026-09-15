@@ -121,8 +121,8 @@ images:
   preview: "/assets/img/mbf/bacteria/clostridioides-difficile/clostridioides-difficile-preview.webp"
   hero: "/assets/img/mbf/bacteria/clostridioides-difficile/clostridioides-difficile-hero.webp"
   og: "/assets/img/mbf/bacteria/clostridioides-difficile/clostridioides-difficile-og.jpg"
-  previewAlt: "Illustration of slender rod cells with swollen end-spores crowded by other gut microbes on a pale warm ground."
-  heroAlt: "A microbiologist in a lab coat at an anaerobic culture bench, explaining how gut neighbours hold a spore-forming organism in check."
+  previewAlt: "Illustration: a slender rod with a swollen spore end and sealed lime-coated spores, hemmed in by a crowd of gut microbes"
+  heroAlt: "Illustration: dormant spores sit among gut residents under a gold mist; once the residents are swept away, the spores open into rods that multiply and loosen the lining's seams"
 referral:
   product: ""
   mayaLog: ""

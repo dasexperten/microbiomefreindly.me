@@ -137,8 +137,8 @@ images:
   preview: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-preview.webp"
   hero: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-hero.webp"
   og: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-og.jpg"
-  previewAlt: "Chains of round Streptococcus salivarius cells resting in a film of saliva on the ridged surface of the tongue, illustration"
-  heroAlt: "Magnus Larsen at a laboratory bench lifting a lidded culture plate toward the window light and studying its small colonies"
+  previewAlt: "Illustration: bead-like chains of round bacteria rest in a wet film between soft ridges, a faint coral halo around one chain"
+  heroAlt: "Illustration: chains of round bacteria settle in a wet film on soft ridges and release tiny gold particles; rival chains drifting in go slack at the edge of their patch"
 referral:
   product: ""
   mayaLog: ""

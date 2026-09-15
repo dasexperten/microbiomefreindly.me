@@ -99,8 +99,8 @@ images:
   preview: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-preview.webp"
   hero: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-hero.webp"
   og: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-og.jpg"
-  previewAlt: "Spindle-shaped Fusobacterium rods bridging clusters of round bacteria in a layered dental plaque community"
-  heroAlt: "Magnus Larsen at a lab bench in morning light, tilting a culture plate towards the window while explaining oral bacteria"
+  previewAlt: "Иллюстрация: веретеновидная бактерия лежит балкой между скоплениями круглых клеток в рифе зубного налёта, свет идёт снизу"
+  heroAlt: "Иллюстрация: круглые первые поселенцы образуют слой на минеральной поверхности, поперёк ложатся длинные веретеновидные клетки, к ним крепятся поздние клетки других форм — складывается упорядоченное сообщество"
 referral:
   product: ""
   mayaLog: ""

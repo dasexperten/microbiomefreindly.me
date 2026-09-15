@@ -41,15 +41,16 @@ The eye should read the picture along that path — deep valley floor → packed
 
 **90.7 % — a thin coating, in 268 systemically healthy young adults, was the heaviest thickness score recorded for 90.7 % of them; only 7.1 % reached a thick coating anywhere on the tongue.** Source `s2` (Van Gils L.M. et al., *International Journal of Dental Hygiene*, 2020 · doi 10.1111/idh.12416 · PMID 31309703).
 
-Show it as **proportion, never as a printed number**: the overwhelming majority of the field carries only a thin layer sitting low between the papillae, and a single small region carries a visibly thicker one. Roughly nine parts thin to one part thick, read at a glance. If proportion cannot be made to read cleanly, drop the clause — do not print the figure and do not substitute another number.
+Show it as **proportion, never as a printed number**: the overwhelming majority of the field carries only a thin layer sitting low between the papillae, and a single small region carries a visibly thicker one. Roughly nine parts thin to one part thick, read at a glance: across a row of ten valleys, nine hold only a thin low layer and exactly one holds a visibly thicker one. If proportion cannot be made to read cleanly, drop the clause — do not print the figure and do not substitute another number.
 
-## 6. Preview alt text (EN, ≤ 125 characters)
+## 6–7. Alt text
 
-`Tongue papillae with shed cell flakes and bacteria packed in the valleys between them, one area thicker than the rest`
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
 
-## 7. Hero alt text (EN)
-
-`Wide view of the tongue surface: a field of blunt papillae with shed epithelial flakes, chains of spherical bacteria, branching filaments and rods filling the valleys between them, thin almost everywhere and thicker in one small area, with sulphur compounds rising off the surface as faint drift`
+- en preview alt: "Illustration: flakes of shed surface cells with tiny chains of bacteria, settled in a narrow valley between tongue papillae"
+- en hero alt: "Illustration: a row of tongue papillae with shed flakes and bacteria in the valleys between them, thin in nine valleys and thicker in one, faint gas lifting off"
+- ru preview alt: "Иллюстрация: чешуйки слущенных клеток с крошечными цепочками бактерий в узкой ложбинке между сосочками языка"
+- ru hero alt: "Иллюстрация: ряд сосочков языка со слущенными чешуйками и бактериями в ложбинках; в девяти ложбинках слой тонкий, в одной толще, над поверхностью поднимается лёгкий газ"
 
 ## 8. What must never appear
 
@@ -69,3 +70,10 @@ Show it as **proportion, never as a printed number**: the overwhelming majority 
 ## 10. Locales live for this piece
 
 `en` · `ru` — both published from this folder, same slug, one image pair shared by both. No other locale exists for this piece yet.
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** the floor of one narrow valley between two tall, crowded papillae — a loose pile of thin, curled shed-cell flakes with tiny bead chains and fine forked threads of bacteria resting on them; the central flake sharp, the papilla walls softening away. The papillae read as a cell-scale landscape of spires, never as an organ. Subject inside the middle 1.91:1 band. **World:** a keratinised landscape of cone-like spires with frayed tips, a thin wet saliva sheen in the valley; warm mid-afternoon light diffused as if through linen, from the upper left, soft and shadow-light. **Accent:** coral on the curled edge of the one sharp central flake only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** one continuous row of ten valleys between papillae, read left to right — flakes and debris settling into the valleys; packed cells working at the dim valley floors; faint gas lifting off the surface on the right; nine valleys with only a thin low layer, exactly one with a visibly thicker one. **Light:** cool, diffuse north-window daylight from the right, almost shadowless. **Accent:** gold on the one thicker layer only.

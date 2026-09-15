@@ -121,8 +121,8 @@ images:
   preview: "/assets/img/mbf/bacteria/clostridioides-difficile/clostridioides-difficile-preview.webp"
   hero: "/assets/img/mbf/bacteria/clostridioides-difficile/clostridioides-difficile-hero.webp"
   og: "/assets/img/mbf/bacteria/clostridioides-difficile/clostridioides-difficile-og.jpg"
-  previewAlt: "Illustration of slender rod cells with swollen end-spores crowded by other gut microbes on a pale warm ground."
-  heroAlt: "A microbiologist in a lab coat at an anaerobic culture bench, explaining how gut neighbours hold a spore-forming organism in check."
+  previewAlt: "Иллюстрация: тонкая палочка со вздутым концом-спорой и запечатанные споры в лаймовой оболочке, зажатые толпой других кишечных микробов"
+  heroAlt: "Иллюстрация: спящие споры среди кишечных бактерий под золотистой дымкой; когда соседей сметает, споры раскрываются в палочки, те размножаются и расшатывают стыки клеток слизистой"
 referral:
   product: ""
   mayaLog: ""

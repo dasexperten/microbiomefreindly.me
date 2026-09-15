@@ -51,8 +51,8 @@ images:
   preview: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-preview.webp"
   hero: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-hero.webp"
   og: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-og.jpg"
-  previewAlt: "a few dead L. plantarum rods settling into open space on a sparsely colonised gut mucus layer."
-  heroAlt: "Magnus Larsen at a lab bench holding two agar plates side by side, one crowded with colonies and one nearly bare."
+  previewAlt: "Иллюстрация: несколько неподвижных убитых нагреванием палочек лежат в свободных промежутках редкого кишечного сообщества среди обрывков клетчатки"
+  heroAlt: "Иллюстрация: те же мёртвые палочки лежат без дела на плотном кишечном сообществе, но оседают в свободных промежутках редкого, где появляются новые жители и мелкие капли"
 referral:
   product: ""
   mayaLog: ""

@@ -118,8 +118,8 @@ images:
   preview: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-preview.webp"
   hero: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-hero.webp"
   og: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-og.jpg"
-  previewAlt: "Chains of oval Streptococcus mutans cells held in sticky glucan strands on pale tooth enamel, one sugar grain at the edge"
-  heroAlt: "Magnus Larsen at a bench explains Streptococcus mutans, a glass of water with dissolving sugar and a white tooth model beside him"
+  previewAlt: "Illustration: chains of oval bacteria held in sticky strands on pale ridged enamel, one lime sugar crystal at the edge"
+  heroAlt: "Illustration: sugar dissolves among chains of oval bacteria on enamel; they spin sticky strands that glue them down and give off acid, and under the acid haze the mineral surface loosens"
 referral:
   product: ""
   mayaLog: ""

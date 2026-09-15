@@ -77,11 +77,11 @@ sources:
     doi: "10.1016/j.cell.2016.10.043"
     pmid: "27863247"
 images:
-  preview: ""
-  hero: ""
-  og: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-preview.webp"
+  hero: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-hero.webp"
+  og: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-og.jpg"
+  previewAlt: "Illustration: forked gut bacteria taking apart soft branched fibre chains while a smooth gel ribbon slides past"
+  heroAlt: "Illustration: three fibres reach the gut lining; bacteria eat only the branched chains, a gel ribbon and a bran flake pass whole, and larger helpings stop yielding more"
 referral:
   product: ""
   mayaLog: ""

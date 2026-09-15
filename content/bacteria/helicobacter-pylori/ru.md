@@ -111,8 +111,8 @@ images:
   preview: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-preview.webp"
   hero: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-hero.webp"
   og: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-og.jpg"
-  previewAlt: "Spiral Helicobacter pylori cells resting in the pale mucus film over the stomach lining"
-  heroAlt: "Magnus Larsen at a lab bench holding a culture plate up to the light"
+  previewAlt: "Иллюстрация: спиральные бактерии с пучком жгутиков на одном конце лежат в слизи над слизистой желудка, одна в прозрачном кармане"
+  heroAlt: "Иллюстрация: спиральная бактерия окружает себя маленьким нейтральным облаком в желудочной кислоте, ввинчивается в слизь и закрепляется на слизистой рядом с уже осевшими"
 referral:
   product: ""
   mayaLog: ""

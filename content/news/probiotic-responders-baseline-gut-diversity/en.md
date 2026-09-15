@@ -51,8 +51,8 @@ images:
   preview: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-preview.webp"
   hero: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-hero.webp"
   og: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-og.jpg"
-  previewAlt: "a few dead L. plantarum rods settling into open space on a sparsely colonised gut mucus layer."
-  heroAlt: "Magnus Larsen at a lab bench holding two agar plates side by side, one crowded with colonies and one nearly bare."
+  previewAlt: "Illustration: a few still, heat-killed rod cells lying in open gaps of a sparse gut community among fibre fragments"
+  heroAlt: "Illustration: the same dead rod cells lie unused on a crowded gut community, but settle into open gaps of a sparse one, where new residents and small droplets appear"
 referral:
   product: ""
   mayaLog: ""

@@ -118,8 +118,8 @@ images:
   preview: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-preview.webp"
   hero: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-hero.webp"
   og: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-og.jpg"
-  previewAlt: "Illustration of forked, Y-shaped Bifidobacterium cells resting in a pale milky film"
-  heroAlt: "Magnus Larsen at a lab bench holding one culture plate up to the window light, a row of other plates waiting beside him"
+  previewAlt: "Иллюстрация: вилообразные Y-образные клетки бифидобактерий в неподвижном кармане прозрачного содержимого кишечника, коралловая капля у развилки одной клетки"
+  heroAlt: "Иллюстрация: молочные сахара нетронутыми проходят мимо слизистой кишечника младенца, вилообразные палочки бифидобактерий сбраживают их в лаймовые капли ацетата, и справа девятнадцать клеток из двадцати — их"
 referral:
   product: ""
   mayaLog: ""

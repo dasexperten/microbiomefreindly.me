@@ -1,7 +1,7 @@
 # Image brief — probiotic-sulfur-bad-breath-periodontitis
 
 As of: 2026-09-02
-From: Magnus Larsen → Marika Nowicka (slot) → Lisa (still)
+From: Magnus Larsen → Marika Nowicka (slot and focus) → Otto (hero) · Lisa (preview)
 Slot brief: `briefs/BRAND_SLOT_BRIEF_MARIKA.md` (§1 slots and ratios, §2 visual language, §5 template). I fill the ten fields from §5 and add the four notes Marika asked me to carry for Lisa (single idea, file keyword, priority, mechanism). Plain words only — no engine language from me; that is Lisa's craft.
 
 ---
@@ -27,40 +27,43 @@ The tongue coating as a micro-world — a pale film sitting on the rough, papill
 **5. Preview mood (one line, warm science):**
 A pale ivory film on a soft tongue landscape in warm morning bench light; navy and teal spindle rods and stubby rods nested in it, a few green lactic-acid rods at one edge, and one gold note only — the tiny gas bubbles rising from the anaerobes. One plane of focus, subject in the middle band, air top and bottom for the og crop.
 
-**6. Hero scene (one sentence, one moment):**
-"The scientist explains": Magnus at a lab bench near a window, lifting a single round culture plate with dark, almost black colonies up to the light and looking at it — the moment of seeing where a smell actually comes from.
+**6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16:**
+Anaerobes in the tongue coating strip sulfur from amino acids with the enzyme the *mgl* gene encodes and let it escape as gas; in a lab dish, fluid from two lactic-acid bacteria turned that gene down — the gas itself was never measured and no human was tested.
 
-**7. Cast — R2 REF file name(s), Owner-named:**
-refs/characters/MagnusLarsen.jpg (bucket dasexperten-images; portrait master MagnusLarsen_portrait.jpg). One person only. No second character.
+**7. Three beats (first → next → outcome):**
+1. First: in a shaded crevice of the coating, stubby *P. gingivalis* cells and long spindle *F. nucleatum* rods hold many small bead-like enzyme bodies inside their translucent bodies, and those enzymes clip sulfur from loose protein scraps, and tiny bubbles lift from the film.
+2. Next: clear fluid left behind by short chains of lactic-acid rods seeps along the crevice and bathes the anaerobes — the rods themselves stay at the edge, the fluid does the work.
+3. Outcome: the same stubby cell now carries almost none of the bead-like enzyme bodies; the crevice is left calm, and no count or comparison of bubbles is shown, because the gas was never measured.
 
-**8. Place + wardrobe (credible, no logos):**
-A plain microbiology bench in warm daylight — a few unlabelled culture plates in a stack, a glass beaker of clear liquid, an incubator door in soft focus behind. White lab coat over a visible open-collar shirt (both layers visible). Character on the left or right 40 % of the frame, the bench and plates on the other side, eyes in the upper third.
+**8. The one number (keyFacts, source id):**
+A 1:1 mix of the two probiotic supernatants cut *mgl* expression by **98 %** in *Porphyromonas gingivalis* (`s1`, Journal of Oral Microbiology 2026). Shown only as proportion on one cell: the stubby cell on the left carries exactly fifty bead-like enzyme bodies; the same cell on the right carries exactly one. Never printed, and never transferred onto the bubbles.
 
 **9. Must not appear:**
-- Any product — no mouthwash bottle, no toothpaste tube, no probiotic capsule, no tablet, no invented packaging, no chlorhexidine, no Das Experten item.
+- Any product — no mouthwash bottle, no toothpaste tube, no probiotic capsule, no tablet, no invented packaging, no chlorhexidine, no Das Experten item; nothing product-shaped, no stick, pack, sachet or bottle silhouette.
 - No fake lab glassware brands, no instrument with a brand look (no halimeter, no gas chromatograph), no microscope UI, no scale bar.
 - No letters, digits, labels, glyphs, chemical formulas, "S" symbols, arrows or diagrams in either image.
-- No invented face or hand; no second person; no "someone like Magnus".
+- No person, face or hand in either frame.
 - No collage, split panel or inset; hero is not a wider crop of the preview and the preview is not a crop of the hero.
 - No rat, no animal, no open mouth, no tongue photographed as a human body part, no teeth close-up, no medical horror (no pus, blood, wounds, bleeding gums).
 - No black background, no blue neon glow, no false-colour SEM look, no DNA helix, no glowing pill.
 - Preview: no people, no hands, no product.
 
 **10. Locales + alt text per locale:**
-Article is EN today; RU via Alexandra, other locales when they publish. One alt line each — the alt says what is depicted, never "microscope photo of".
+`en.md` and `ru.md` exist; one image set, only the alt line changes. The alt says what is depicted, never "microscope photo of".
 
-- Preview alt (en, 95 chars): `Spindle-shaped and short rod bacteria in a pale tongue-coating film, releasing tiny gas bubbles`
-- Hero alt (en): `Magnus Larsen at a lab bench holding a culture plate of dark colonies up to the window light`
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
+
+- en preview alt: "Illustration: spindle-shaped and stubby bacteria in the coating between rounded tongue papillae, tiny gold gas bubbles rising"
+- en hero alt: "Illustration: mouth anaerobes filled with sulfur-cutting enzymes give off tiny bubbles; fluid from lactic-acid bacteria washes over and the enzymes almost vanish"
+- ru preview alt: "Иллюстрация: веретеновидные и короткие бактерии в налёте между округлыми сосочками языка, поднимаются крошечные золотые пузырьки газа"
+- ru hero alt: "Иллюстрация: анаэробы налёта, полные ферментов, отщепляющих серу, выпускают пузырьки; жидкость молочнокислых бактерий омывает их, и ферменты почти исчезают"
 
 ---
 
-## Notes for Lisa (asked for in the Owner brief)
+## Notes for Otto and Lisa (asked for in the Owner brief)
 
 **Single idea both images must carry:**
-Bad breath is chemistry, not dirt — a gas made by bacteria in the tongue coating, and that gas can be turned down at the source. The preview shows the gas leaving the film; the hero shows the person who can explain where it comes from.
-
-**File-name keyword (Jurgen's pattern):**
-`probiotic-sulfur-bad-breath-periodontitis-preview` · `probiotic-sulfur-bad-breath-periodontitis-hero` (+ `-og`, `-thumb`, `@2x` per §1 of the slot brief).
+Bad breath is chemistry, not dirt — a gas made by bacteria in the tongue coating, and the gene behind it can be turned down at the source. The card frame shows the gas leaving the film; the article frame builds the enzyme that makes it and the gene being turned down.
 
 **Priority:**
 News = this week. Article is dated 2026-09-02 and status published; the two image slots in the front matter are empty and are waiting on this.
@@ -68,7 +71,17 @@ News = this week. Article is dated 2026-09-02 and status published; the two imag
 **The mechanism in one sentence, for Lisa's understanding:**
 Anaerobic bacteria living without oxygen in the tongue coating and gum pockets eat protein rather than sugar, and one enzyme written into them by the *mgl* gene cuts the sulfur off the amino acid methionine and lets it escape as gas — hydrogen sulfide and methyl mercaptan — so a probiotic that makes that gene quieter is turning down the gas at its source rather than masking the smell.
 
+**File-name keyword (Jurgen's pattern):**
+`probiotic-sulfur-bad-breath-periodontitis-preview` · `probiotic-sulfur-bad-breath-periodontitis-hero` (+ `-og`, `-thumb`, `@2x` per §1 of the slot brief).
+
 **Truth note (§3, item 9):**
-No product or health claim is in either frame, so no Maya consult is needed for the images. The article itself says the gas was never measured in the study — the preview shows gas because that is the mechanism the article explains, not because the study measured it; the alt text does not claim otherwise.
+No product or health claim is in either frame, so no Maya consult is needed for the images. The article itself says the gas was never measured in the study — the card frame shows gas because that is the mechanism the article explains, not because the study measured it; the article frame carries its number on the enzyme bodies, never on the bubbles, and the image descriptions do not claim otherwise.
 
 — Magnus Larsen · 2026-09-02
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a nest of long spindle rods and stubby oval rods in the soft coating at the foot of two rounded papilla domes, with a thin column of tiny bubbles lifting from them; the nearest bubbles are sharpest. Subject inside the middle 1.91:1 band. **World:** the tongue coating as a cell-scale landscape — rounded papilla domes draped in a soft, pale, semi-transparent film with deep shaded crevices between them; sharp raking light from low right, long shadows across the domes, clear neutral-warm. **Accent:** gold on the rising gas bubbles only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left to right — in a crevice of the coating, a stubby translucent cell holding fifty bead-like enzyme bodies, spindle rods beside it and tiny bubbles lifting; centre, clear fluid from short chains of lactic-acid rods seeping over them; right, the same stubby cell carrying one enzyme body, the crevice calm. **Light:** low soft light from the front-right, warm-neutral, shadows stretching back into the frame. **Accent:** coral on the bead-like enzyme bodies only.

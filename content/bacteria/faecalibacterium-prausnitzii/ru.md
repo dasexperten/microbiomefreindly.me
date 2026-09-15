@@ -91,8 +91,8 @@ images:
   preview: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-preview.webp"
   hero: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-hero.webp"
   og: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-og.jpg"
-  previewAlt: "Slender rod-shaped Faecalibacterium cells resting in a mucus film above the colon lining, in warm light."
-  heroAlt: "Magnus Larsen at a lab bench holding a sealed culture jar up to the light — the kind kept closed because the culture inside dies in air."
+  previewAlt: "Иллюстрация: тонкие палочковидные бактерии лежат в плотной слизи над слизистой толстой кишки, от них вниз опускаются крошечные коралловые капли"
+  heroAlt: "Иллюстрация: среди двадцати кишечных бактерий в бескислородной слизи одна тонкая палочка забирает остатки соседей и выделяет золотые капли бутирата, которые уходят в клетки слизистой толстой кишки"
 referral:
   product: ""
   mayaLog: ""

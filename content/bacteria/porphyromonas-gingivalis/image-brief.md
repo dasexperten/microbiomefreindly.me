@@ -10,23 +10,34 @@ Template: BRAND_SLOT_BRIEF_MARIKA.md §5 (Marika, 2026-09-02). Plain words only 
 3. Organism / structure in the preview:        Porphyromonas gingivalis, in its subgingival biofilm
 4. Morphology, in words (truth, Magnus):       short, plump Gram-negative rods — nearly bean- or barrel-shaped, some almost round, roughly one to two micrometres long — non-motile, lying singly and in loose clusters, fringed with fine hair-like fimbriae; they sit in a thin wet film on a surface, not floating free. On a blood plate their colonies turn dark brown to black because they hoard haem — that dark pigment is the one visual signature of this species. Not long thin rods, not chains, not spheres in grape bunches.
 5. Preview mood (one line, warm science):      a narrow wet groove seen very close — a thin moist film clinging to a pale surface, short dark rods resting in it in navy and teal, the film catching one warm morning light; the single accent is a small deep-gold glint, the haem it lives on; ivory ground, no black, no glow. Keep the rods in the middle band so the og crop loses only air.
-6. Hero scene (one sentence, one moment):      the scientist explains — Magnus at a laboratory bench by a window, lifting a culture plate with dark, almost black colonies toward the daylight and looking at it with quiet curiosity, the calm of someone who knows this bug is common and is not alarmed by it.
-7. Cast — R2 REF file name(s), Owner-named:    refs/characters/MagnusLarsen.jpg (one person only)
-8. Place + wardrobe (credible, no logos):      plain microbiology bench in morning light, a window on one side, a few unmarked plates and a rack on the other; white lab coat open over a visible shirt collar, both layers visible; Magnus on the left or right 40 %, the plate and the bench world on the other side; eyes in the upper third.
-9. Must not appear:                            any product or packaging; any text, letters, labels, scale bars or microscope interface; any second person or an invented face or hand; blood, pus, wounds or a sore mouth — no medical horror; a tooth-and-gum cutaway diagram; branded glassware; a collage or split frame; the hero as a wider crop of the preview; black background or blue neon.
+6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16: Porphyromonas gingivalis sits quietly in the gum pocket until the bacteria around it shift out of balance, and then its protein-cutting gingipains disable the body's defences while the seeping pocket feeds it protein and haem.
+7. Three beats (first → next → outcome):       (1) in a balanced, mixed pocket biofilm, a few plump dark rods rest quietly among many other bacteria; (2) the community tips — the neighbours change — and the dark rods release small protein-cutting enzymes that snip soft round defence proteins into fragments; (3) outcome: the pocket wall seeps fluid carrying protein fragments and haem, and the dark rods take it in and multiply, darker than before.
+8. The one number (keyFacts, source id):       none shown — clause dropped. The only figures in keyFacts, 85.7 % of periodontally diseased and 23.1 % of healthy subjects (s3), are shares of people, and no person appears in either frame; the other keyFacts carry no count that belongs to the cells in the pocket.
+9. Must not appear:                            any product or packaging; any text, letters, labels, scale bars or microscope interface; no person, face or hand in either frame; blood, pus, wounds or a sore mouth — no medical horror; a tooth-and-gum cutaway diagram, or any tooth or gum drawn as a body part — the pocket is a cell-scale crevice only; branded glassware; a collage or split frame; the hero as a wider crop of the preview; black background or blue neon.
 10. Locales + alt text per locale:
-    en preview:  Short dark rods of Porphyromonas gingivalis resting in a thin wet film on a pale surface, illustrated in navy and teal
-    en hero:     Magnus Larsen at a laboratory bench holding a culture plate with dark-pigmented colonies up to the window light
-    ru / de / ja / ar: pending — one line each after Marika accepts the frames (RU via Alexandra)
+
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
+
+- en preview alt: "Illustration: plump dark rod-shaped bacteria rest in a wet film inside a narrow crevice, rippling light and gold haem glints"
+- en hero alt: "Illustration: plump dark rods rest in a mixed pocket biofilm; as the community shifts they release enzymes that snip defence proteins apart, and seeping fluid brings them food"
+- ru preview alt: "Иллюстрация: пухлые тёмные палочковидные бактерии лежат во влажной плёнке в узкой щели, по ним бежит рябь света, золотые искры гема"
+- ru hero alt: "Иллюстрация: пухлые тёмные палочки спокойно живут в смешанной биоплёнке кармана; когда сообщество сдвигается, они выделяют ферменты, режущие защитные белки, а просачивающаяся жидкость их кормит"
 ```
 
-## Notes for Lisa, outside the template
+## Notes for Lisa and Otto, outside the template
 
-- **The single idea both images carry:** something ordinary living quietly in a narrow, wet place — the preview is the place and the organism; the hero is the calm scientist looking at it. Neither image should feel like a threat. The article's whole point is that carrying it is common and harm is the exception.
-- **File name keyword (Jurgen's pattern):** `porphyromonas-gingivalis-preview` · `porphyromonas-gingivalis-hero` (og and thumb follow Marika's §1 table from the same masters).
 - **Priority:** evergreen — bacteria entry, no news peg. Slot it behind anything news-dated this week.
-- **The mechanism in one sentence:** it cannot use sugar at all, so it lives on protein and on the iron in haem, and it carries protein-cutting enzymes (gingipains) that make the gum pocket seep and bleed — feeding itself — while at the same time tipping the whole bacterial community of the pocket toward a state that drives inflammation and bone loss.
-- Honesty for the alt text: it is an illustration of a micro-world, never a diagnostic image. The alt says what is depicted, not "microscope photo of".
-- Marika: nothing here deviates from your §1 slots or §2 rules as far as I can see — preview 3:2 master, hero 16:9 master, two worlds, one cast.
+- **The single idea both images carry:** something ordinary living quietly in a narrow, wet place, and turning harmful only when its surroundings tip. Neither image should feel like a threat. The article's whole point is that carrying it is common and harm is the exception.
+- **The mechanism in one sentence:** it cannot use sugar at all, so it lives on protein and on the iron in haem, and it carries protein-cutting enzymes (gingipains) that make the gum pocket seep and bleed — feeding itself — while at the same time tipping the whole bacterial community of the pocket toward a state that drives inflammation and bone loss. The frames show the seeping as clear fluid only, never as blood.
+- **Honesty:** both frames are illustrations of a micro-world, never diagnostic images; the captions say what is depicted, not "microscope photo of".
 
-— Magnus Larsen · 2026-09-02
+— Magnus Larsen · 2026-09-02 · fields 6–10 updated 2026-09-16
+
+**File name keyword (Jurgen's pattern):** `porphyromonas-gingivalis-preview` · `porphyromonas-gingivalis-hero` (og and thumb follow Marika's §1 table from the same masters).
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a loose cluster of plump, fimbriae-fringed dark rods resting in a wet film on one wall of a narrow crevice; the nearest cell is sharpest. Subject inside the middle 1.91:1 band. **World:** a narrow wet crevice between two soft pale walls, slow clear fluid seeping through it; rippling water-caustic light playing over the cells, cool-to-neutral temperature. **Accent:** gold on a few tiny haem droplets beside the cluster only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left, a few dark rods quiet in a balanced mixed biofilm; centre, the neighbours changed and the dark rods releasing small enzymes that snip round defence proteins into fragments; right, clear fluid seeping from the pocket wall and the dark rods feeding and multiplying. The eye reads left to right. **Light:** even overcast pearl-white light, almost shadowless. **Accent:** lime on the protein-cutting enzymes.

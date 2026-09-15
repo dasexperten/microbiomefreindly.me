@@ -91,8 +91,8 @@ images:
   preview: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-preview.webp"
   hero: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-hero.webp"
   og: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-og.jpg"
-  previewAlt: "Slender rod-shaped Faecalibacterium cells resting in a mucus film above the colon lining, in warm light."
-  heroAlt: "Magnus Larsen at a lab bench holding a sealed culture jar up to the light — the kind kept closed because the culture inside dies in air."
+  previewAlt: "Illustration: slender rod-shaped bacteria lie in dense mucus over the colon lining, tiny coral beads drifting down from them"
+  heroAlt: "Illustration: among twenty gut bacteria in airless mucus, one slender rod takes in its neighbours' leftovers and releases gold butyrate beads that pass into the colon lining"
 referral:
   product: ""
   mayaLog: ""

@@ -137,8 +137,8 @@ images:
   preview: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-preview.webp"
   hero: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-hero.webp"
   og: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-og.jpg"
-  previewAlt: "Chains of round Streptococcus salivarius cells resting in a film of saliva on the ridged surface of the tongue, illustration"
-  heroAlt: "Magnus Larsen at a laboratory bench lifting a lidded culture plate toward the window light and studying its small colonies"
+  previewAlt: "Иллюстрация: цепочки круглых бактерий лежат во влажной плёнке между мягкими бугорками, вокруг одной цепочки слабый коралловый ореол"
+  heroAlt: "Иллюстрация: цепочки круглых бактерий оседают во влажной плёнке на мягких бугорках и выпускают крошечные золотые частицы; чужие цепочки, подплывая, обмякают у края их участка"
 referral:
   product: ""
   mayaLog: ""

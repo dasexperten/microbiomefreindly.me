@@ -77,10 +77,11 @@ sources:
     doi: "10.1080/29933935.2026.2668863"
     pmid: "42145944"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/myth/more-cfu-means-a-better-probiotic/more-cfu-means-a-better-probiotic-preview.webp"
+  hero: "/assets/img/mbf/myth/more-cfu-means-a-better-probiotic/more-cfu-means-a-better-probiotic-hero.webp"
+  og: "/assets/img/mbf/myth/more-cfu-means-a-better-probiotic/more-cfu-means-a-better-probiotic-og.jpg"
+  previewAlt: "Иллюстрация: маленькая группа палочковидных бактерий рядом с толпой таких же палочек, в сто раз большей, на гладкой слизи"
+  heroAlt: "Иллюстрация: палочки пробиотика на кишечной слизи; удвоенная группа оставляет слизистую спокойнее, а толпа в сто раз больше не меняет под собой ничего"
 referral:
   product: ""
   mayaLog: ""

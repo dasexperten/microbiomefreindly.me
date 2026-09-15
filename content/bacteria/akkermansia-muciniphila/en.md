@@ -96,8 +96,8 @@ images:
   preview: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-preview.webp"
   hero: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-hero.webp"
   og: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-og.jpg"
-  previewAlt: "Oval Akkermansia muciniphila cells resting in pairs inside a pale mucus film over the gut lining, illustrated"
-  heroAlt: "Magnus Larsen at a lab bench holding a sealed culture jar up to the window light"
+  previewAlt: "Illustration: oval Akkermansia cells resting in pairs in a clear mucus gel, a gold bead of fresh mucus rising under one pair"
+  heroAlt: "Illustration: oval Akkermansia cells settle into the gut's mucus layer and graze a shallow hollow, and the lining below pushes up fresh mucus that thickens the layer"
 referral:
   product: ""
   mayaLog: ""

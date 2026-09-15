@@ -22,22 +22,26 @@ Small, slightly oval round cells — not rods, not spirals — joined end to end
 **5. Preview mood (one line, warm science):**
 Chains of oval navy-and-teal beads caught in a glistening sticky web on a pale ivory enamel floor in warm morning light; one small gold note — a single sugar grain just landed at the edge of the web, the feed that starts everything. Scale cue is the enamel's own faint ridges under the cells; no scale bar, no label. Subject fills the middle of the frame, inside the og band, with quiet air top and bottom. Own world for this card: hard, pale, mineral surface — not the soft mucus/tissue worlds of the gut entries.
 
-**6. Hero scene (one sentence, one moment):**
-"The scientist explains": Magnus at a bench in soft daylight, a plain glass of water with a spoon of sugar dissolving beside a clean white tooth model (dental cast, the kind every dental office has, no maker's mark), looking straight at the reader mid-explanation with a calm, slightly amused "you feed it, it wins" expression — the mood is patient and unalarmed, a man telling you where the lever is, not warning you.
+**6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16:**
+Fed table sugar, *Streptococcus mutans* spins sticky glucan that anchors plaque to the tooth and ferments the sugar into lactic acid that dissolves enamel.
 
-**7. Cast — R2 REF file name(s), Owner-named:**
-`refs/characters/MagnusLarsen.jpg` (Owner photograph; accepted portrait master `MagnusLarsen_portrait.jpg`). One person only. Identity from the REF file only.
+**7. Three beats (first → next → outcome):**
+(1) sugar crystals land and dissolve among short chains of oval cells on a pale, ridged mineral enamel surface; (2) the cells spin sticky glucan strands that glue the chains to the surface and to each other, and give off lactic acid as a faint haze; (3) outcome: under the acid haze the mineral surface softens and loosens, tiny mineral grains lifting away, while the chains keep growing in the acid.
 
-**8. Place + wardrobe (credible, no logos):**
-Quiet university-style bench or study, pale wall, wood or ivory bench top; lab coat open over a visible shirt collar (both layers visible), or a plain knit if the coat reads too clinical. Subject world on the other side of the frame: the water glass with dissolving sugar, the white tooth cast, maybe an open notebook with blank pages. Navy, teal, green in the scene; the sugar/gold is the single accent.
+**8. The one number (keyFacts, source id):**
+None shown — clause dropped. The keyFacts figures are dates (1924, s2; 2021, s14), counts of children (26 months, 8 of 46, s4) and of people with decay (2.3 billion, 532 million, s12), genome sizes and a share of genes (2 030 936 base pairs, 1 963 reading frames, almost 15 % for sugar transport, s3) and a pH threshold (about 5.5, s5). None is a count or share of anything the hero draws; a share of genes is invisible on a cell, and a pH cannot be shown by scale or quantity without a gauge.
 
 **9. Must not appear:**
-Both images: any product — no toothpaste tube, brush, floss, mouthwash, jar or packaging of any kind, invented or real; any letters, glyphs, numbers, labels, scale bars, microscope UI; any brand marks or lab-glassware brands; collage, split panel, inset; black background, blue neon glow, false-colour "SEM" cliché; medical horror (decayed teeth, blood, pus, drilled cavities — the tooth model is clean and white). Preview: no people, no hands, no faces. Hero: no second person, no invented face or hand, no re-crop of the preview, nothing glowing; the tooth model is a plain dental cast, not a smiling mouth and not a cartoon tooth.
+Both images: any product — no toothpaste tube, brush, floss, mouthwash, jar or packaging of any kind, invented or real; any letters, glyphs, numbers, labels, scale bars, microscope UI; any brand marks or lab-glassware brands; collage, split panel, inset; black background, blue neon glow, false-colour "SEM" cliché; medical horror (decayed teeth, blood, pus, drilled cavities). No person, face or hand in either frame. No mouth, smile, whole tooth, tooth model or cartoon tooth — the enamel is a cell-scale mineral surface only. No hero that is a re-crop of the preview.
 
-**10. Locales + alt text (EN now; RU via Alexandra, others when their pages exist):**
-- **Preview alt (EN, ≤125 chars):** "Chains of oval Streptococcus mutans cells held in sticky glucan strands on pale tooth enamel, one sugar grain at the edge" (121 chars)
-- **Hero alt (EN):** "Magnus Larsen at a bench explains Streptococcus mutans, a glass of water with dissolving sugar and a white tooth model beside him"
-- Both alt lines say what is depicted; neither calls the preview a microscope photograph — it is an illustration of the micro-world.
+**10. Locales + alt text per locale:**
+
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
+
+- en preview alt: "Illustration: chains of oval bacteria held in sticky strands on pale ridged enamel, one lime sugar crystal at the edge"
+- en hero alt: "Illustration: sugar dissolves among chains of oval bacteria on enamel; they spin sticky strands that glue them down and give off acid, and under the acid haze the mineral surface loosens"
+- ru preview alt: "Иллюстрация: цепочки овальных бактерий в липких нитях на бледной рифлёной эмали, у края один лаймовый кристалл сахара"
+- ru hero alt: "Иллюстрация: сахар растворяется среди цепочек овальных бактерий на эмали; они прядут липкие нити, приклеивающие их к поверхности, и выделяют кислоту, а под кислотной дымкой минеральная поверхность разрыхляется"
 
 ---
 
@@ -45,8 +49,15 @@ Both images: any product — no toothpaste tube, brush, floss, mouthwash, jar or
 
 **Priority:** evergreen (bacteria entry) — no news deadline; ship with the encyclopedia batch.
 
-**Mechanism in one sentence, for Lisa's understanding:** When table sugar arrives, enzymes on the cell surface split it and stitch the halves into sticky glucan chains that glue the plaque to the tooth, while the cells ferment sugar into lactic acid that pushes the plaque acidic enough to dissolve enamel — and this species keeps growing in that acid when its neighbours stop, so every sugar hit tilts the plaque further toward it.
+**Mechanism in one sentence, for Lisa's and Otto's understanding:** When table sugar arrives, enzymes on the cell surface split it and stitch the halves into sticky glucan chains that glue the plaque to the tooth, while the cells ferment sugar into lactic acid that pushes the plaque acidic enough to dissolve enamel — and this species keeps growing in that acid when its neighbours stop, so every sugar hit tilts the plaque further toward it.
 
-**Not-a-prompt note:** the "morning light", "bench" and "warm science" words above are Marika's brand language from her spec §2, used here only so she can check the field matches her slot; the engine wording is Lisa's alone.
+**Not-a-prompt note:** the "morning light" and "warm science" words above are Marika's brand language from her spec §2, used here only so she can check the field matches her slot; the engine wording belongs to the two pens.
 
-— Magnus Larsen · 2026-09-02
+— Magnus Larsen · 2026-09-02 · fields 6–10 updated 2026-09-16
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** two or three short chains of oval cells caught in a glistening glucan web, the nearest chain sharpest, one sugar crystal resting at the web's edge. Subject inside the middle 1.91:1 band. **World:** tooth enamel as a cell-scale mineral landscape — the packed, faintly ridged ends of pale mineral prisms like a field of worn tiles; sunset orange rim light low from behind the web, catching every strand's edge. **Accent:** lime on the single sugar crystal only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left, sugar crystals dissolving among chains of oval cells on the ridged mineral surface; centre, glucan strands spun between chains and surface, acid rising as a haze; right, under the haze the mineral surface loosening into tiny lifting grains while the chains grow on. The eye reads left to right. **Light:** cool clear early-morning light, frontal and low from behind the viewer. **Accent:** coral on the acid haze.

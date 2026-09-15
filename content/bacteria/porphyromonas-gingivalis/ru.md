@@ -94,8 +94,8 @@ images:
   preview: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-preview.webp"
   hero: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-hero.webp"
   og: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-og.jpg"
-  previewAlt: "Short dark rods of Porphyromonas gingivalis resting in a thin wet film on a pale surface, illustrated in navy and teal"
-  heroAlt: "Magnus Larsen at a laboratory bench holding a culture plate with dark-pigmented colonies up to the window light"
+  previewAlt: "Иллюстрация: пухлые тёмные палочковидные бактерии лежат во влажной плёнке в узкой щели, по ним бежит рябь света, золотые искры гема"
+  heroAlt: "Иллюстрация: пухлые тёмные палочки спокойно живут в смешанной биоплёнке кармана; когда сообщество сдвигается, они выделяют ферменты, режущие защитные белки, а просачивающаяся жидкость их кормит"
 referral:
   product: ""
   mayaLog: ""

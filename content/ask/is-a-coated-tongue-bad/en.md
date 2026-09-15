@@ -97,10 +97,11 @@ sources:
     doi: "10.1088/1752-7163/aaa3a1"
     pmid: "29269592"
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-preview.webp"
+  hero: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-hero.webp"
+  og: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-og.jpg"
+  previewAlt: "Illustration: flakes of shed surface cells with tiny chains of bacteria, settled in a narrow valley between tongue papillae"
+  heroAlt: "Illustration: a row of tongue papillae with shed flakes and bacteria in the valleys between them, thin in nine valleys and thicker in one, faint gas lifting off"
 referral:
   product: ""
   mayaLog: ""

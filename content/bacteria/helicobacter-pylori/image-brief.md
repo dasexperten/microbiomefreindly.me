@@ -13,34 +13,41 @@ Slots: preview 3:2 (card + og band) · hero 16:9 (article page) — per Marika's
 3. Organism / structure in the preview:        Helicobacter pylori, settled in the mucus gel over the stomach lining
 4. Morphology, in words (truth, Magnus/Maya):  slender spiral or gently curved rods, a few turns each, with a small tuft of several whip-like flagella at ONE end only; not spheres, not straight rods, not comma shapes. They sit inside the translucent mucus film just above the stomach's own surface cells, not in the open acid.
 5. Preview mood (one line, warm science):      a pale, glassy mucus film in morning light with three or four spiral cells resting in it, each in a faint clearer pocket of its own — something that has moved in and means to stay
-6. Hero scene (one sentence, one moment):      the scientist explains — Magnus at a plain lab bench, holding a small culture plate up towards the window light and reading it with a weighing, unalarmed face, as if writing down both columns of a ledger in his head
-7. Cast — R2 REF file name(s), Owner-named:    refs/characters/MagnusLarsen.jpg (house face for Magnus's lane; portrait master MagnusLarsen_portrait.jpg for identity check)
-8. Place + wardrobe (credible, no logos):      quiet university-style microbiology bench; white lab coat open over a visible shirt collar; on the far side of the frame a few plain unmarked culture plates, a rack, a warm-lit incubator door — nothing with a maker's name on it
-9. Must not appear:                            any product or packaging of any kind; any letters, labels, scale bars or microscope interface; a second person; an invented face or hand; blood, ulcers, pus or an anatomical stomach cross-section; black background or blue neon glow; the stock DNA helix or glowing pill; a hero that is a wider crop of the preview; spherical or comma-shaped cells
+6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16: Helicobacter pylori buffers a small neutral pocket around itself with urease, swims out of the acid into the stomach's mucus and fastens to the lining, usually for life.
+7. Three beats (first → next → outcome):       (1) in the open acid, a spiral cell wraps itself in a small clear neutral cloud of its own making; (2) its one-ended tuft of flagella drives it, corkscrewing, down into the thick mucus gel; (3) outcome: it fastens to the surface of a stomach lining cell beside a few others already settled there, and stays.
+8. The one number (keyFacts, source id):       none shown — clause dropped. Every figure in keyFacts counts patients (58 of 100, s1; 36 of 1246, s6), populations (24.4 % to 70.1 %, 4.4 billion, s5) or cancer cases (810 000 of 2.2 million, s7); none is a count of cells, and turning people or cancer cases into bacteria in the mucus would misstate what was measured. The hero has no people to count.
+9. Must not appear:                            any product or packaging of any kind; any letters, labels, scale bars or microscope interface; no person, face or hand in either frame; blood, ulcers, pus or an anatomical stomach cross-section; black background or blue neon glow; the stock DNA helix or glowing pill; a hero that is a wider crop of the preview; spherical or comma-shaped cells
 10. Locales + alt text per locale:
-    en preview:  Spiral Helicobacter pylori cells resting in the pale mucus film over the stomach lining
-    en hero:     Magnus Larsen at a lab bench holding a culture plate up to the light
-    ru / de / ja / ar: to follow with each locale's article text — RU via Alexandra; EN alt is the master
+
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
+
+- en preview alt: "Illustration: spiral bacteria with a tuft of tails at one end rest in mucus over the stomach lining, one in a clear pocket"
+- en hero alt: "Illustration: a spiral bacterium wraps itself in a small neutral cloud in stomach acid, corkscrews down into the mucus and fastens to the lining beside others already settled"
+- ru preview alt: "Иллюстрация: спиральные бактерии с пучком жгутиков на одном конце лежат в слизи над слизистой желудка, одна в прозрачном кармане"
+- ru hero alt: "Иллюстрация: спиральная бактерия окружает себя маленьким нейтральным облаком в желудочной кислоте, ввинчивается в слизь и закрепляется на слизистой рядом с уже осевшими"
 ```
 
 ---
 
-## Notes for Lisa — what the two frames are about
+## Notes for Lisa and Otto — what the two frames are about
 
-**The one idea both images carry.** This organism is neither passenger nor partner. It solved the problem of living in acid — it made itself a small neutral pocket and anchored there for life — and that same trick inflames the tissue underneath for decades. The preview should feel *settled*, not invaded: a tenant, not an attack. The hero should feel *weighed*, not warned: a man reading evidence, not a man pointing at danger.
+**The one idea both images carry.** This organism is neither passenger nor partner. It solved the problem of living in acid — it made itself a small neutral pocket and anchored there for life — and that same trick inflames the tissue underneath for decades. Both frames should feel *settled*, not invaded: a tenant, not an attack. The harm is told in the words of the article, never pictured.
 
 **The mechanism in one sentence.** The bacterium makes an enzyme that turns urea into ammonia, which neutralises the acid immediately around it; its tail-end flagella then drive it out of the acid and into the near-neutral mucus gel, where it fastens to the stomach's surface cells and usually stays for life.
 
-**Why the preview looks the way it does.** The "clearer pocket" around each cell in field 5 is that neutral bubble — the one honest visual clue to the mechanism that needs no label. The scale cue is the mucus film itself: a soft translucent layer, with the faint shoulder of the lining cells suggested beneath it. Nothing about it should read as a hospital picture; it is an illustration of a micro-world, not a diagnostic image.
+**Why the clear pocket matters.** The "clearer pocket" around a cell is that neutral bubble — the one honest visual clue to the mechanism that needs no label. The scale cue is the mucus itself: a soft translucent layer, with the faint shoulders of the lining cells beneath it. Nothing about either frame should read as a hospital picture; they are illustrations of a micro-world, not diagnostic images.
 
-**Colour, from the portal tokens only.** Ivory ground (#F1EADC / science #FBFAF6), the cells in navy #1B3856 with teal #178B7A in the mucus, green #2F7D55 as a quiet second tone in the film. **One accent:** a small gold #C7A24B note for the neutral pocket around one cell — a whisper, not a wash. No violet or coral in this frame. The hero shares the same warm ground and the same navy/teal/green, skin true to the REF; the same single gold note is allowed on the bench light, nothing more.
-
-**Preview safe band.** Subject stays inside the middle 1.91:1 band of the 3:2 frame; top and bottom are air, so the og crop loses only air.
-
-**Hero composition.** One scene, one frame, one moment. Magnus on one side (roughly 40 % of the width), the bench world on the other; his eyes in the upper third. He looks at the plate, not at the camera. Both layers of the wardrobe visible — coat and collar.
+**Colour, from the portal tokens only.** Ground warm greige to paper, forms in charcoal, navy and teal, one accent per frame as Marika's block names it. No violet.
 
 **Priority.** Bacteria = evergreen. No deadline pressure; get the shape right rather than fast. A frame with spheres, a straight rod, or a tuft at both ends is a return, not a fix.
 
-**File names (Jurgen's pattern).** `helicobacter-pylori-preview` · `helicobacter-pylori-hero` (plus the derived og / thumb / @2x set per Marika's §1). R2 path per Marika's proposal: `mbf/bacteria/helicobacter-pylori/`.
+**Safe band and file names.** Subject stays inside the middle 1.91:1 band of the 3:2 frame; top and bottom are air, so the og crop loses only air. Files per Jurgen's pattern: `helicobacter-pylori-preview` · `helicobacter-pylori-hero` (plus the derived og / thumb / @2x set per Marika's §1). R2 path: `mbf/bacteria/helicobacter-pylori/`.
 
-— Magnus Larsen · 2026-09-02
+— Magnus Larsen · 2026-09-02 · fields 6–10 updated 2026-09-16
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** three or four spiral cells, each with its one-ended flagellar tuft, resting in thick mucus; the nearest one sits in a faint clear pocket and is sharpest. Subject inside the middle 1.91:1 band. **World:** a thick, glassy-grey gastric mucus gel lying over the cobbled, pitted surface of the stomach lining cells; bright hard noon light straight from above, neutral-white, crisp short shadows. **Accent:** lime on the one clear neutral pocket only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left, one spiral cell in open acid inside its small neutral cloud; centre, the same cell corkscrewing down into the mucus gel, tuft trailing; right, it fastens to a lining cell beside a few settled cells. The eye reads left to right. **Light:** cool slate dusk light from the upper right, long soft shadows. **Accent:** coral on the neutral cloud around the travelling cell.

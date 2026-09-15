@@ -118,8 +118,8 @@ images:
   preview: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-preview.webp"
   hero: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-hero.webp"
   og: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-og.jpg"
-  previewAlt: "Illustration of forked, Y-shaped Bifidobacterium cells resting in a pale milky film"
-  heroAlt: "Magnus Larsen at a lab bench holding one culture plate up to the window light, a row of other plates waiting beside him"
+  previewAlt: "Illustration: forked, Y-shaped Bifidobacterium cells in a still pocket of clear gut contents, a coral droplet in one fork"
+  heroAlt: "Illustration: milk sugars pass the infant gut lining untouched, forked Bifidobacterium rods ferment them into lime acetate droplets, and nineteen of twenty cells at right are theirs"
 referral:
   product: ""
   mayaLog: ""

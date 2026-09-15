@@ -94,8 +94,8 @@ images:
   preview: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-preview.webp"
   hero: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-hero.webp"
   og: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-og.jpg"
-  previewAlt: "Short dark rods of Porphyromonas gingivalis resting in a thin wet film on a pale surface, illustrated in navy and teal"
-  heroAlt: "Magnus Larsen at a laboratory bench holding a culture plate with dark-pigmented colonies up to the window light"
+  previewAlt: "Illustration: plump dark rod-shaped bacteria rest in a wet film inside a narrow crevice, rippling light and gold haem glints"
+  heroAlt: "Illustration: plump dark rods rest in a mixed pocket biofilm; as the community shifts they release enzymes that snip defence proteins apart, and seeping fluid brings them food"
 referral:
   product: ""
   mayaLog: ""

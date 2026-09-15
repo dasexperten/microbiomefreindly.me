@@ -62,11 +62,11 @@ sources:
     doi: "10.3945/ajcn.113.073023"
     pmid: "24695892"
 images:
-  preview: ""
-  hero: ""
-  og: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-preview.webp"
+  hero: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-hero.webp"
+  og: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-og.jpg"
+  previewAlt: "Illustration: chains of round cells, long rods and large budding yeasts among tiny bubbles in a live ferment"
+  heroAlt: "Illustration: bacteria from a live ferment drift across the gut lining; of twenty, one takes a place, acids seep into the mucus, and the resident bacteria end up more varied"
 referral:
   product: ""
   mayaLog: ""

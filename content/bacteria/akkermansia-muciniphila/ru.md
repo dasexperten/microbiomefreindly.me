@@ -96,8 +96,8 @@ images:
   preview: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-preview.webp"
   hero: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-hero.webp"
   og: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-og.jpg"
-  previewAlt: "Oval Akkermansia muciniphila cells resting in pairs inside a pale mucus film over the gut lining, illustrated"
-  heroAlt: "Magnus Larsen at a lab bench holding a sealed culture jar up to the window light"
+  previewAlt: "Иллюстрация: овальные клетки Akkermansia парами покоятся глубоко в прозрачном слизистом геле, под одной парой поднимается золотистая капля свежей слизи"
+  heroAlt: "Иллюстрация: овальные клетки Akkermansia оседают в слое слизи кишечника и выедают неглубокую ямку, а слизистая снизу выталкивает свежую слизь, и слой становится толще"
 referral:
   product: ""
   mayaLog: ""

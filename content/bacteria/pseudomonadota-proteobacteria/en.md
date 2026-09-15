@@ -97,8 +97,8 @@ images:
   preview: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-preview.webp"
   hero: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-hero.webp"
   og: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-og.jpg"
-  previewAlt: "Short navy and teal rod bacteria gathered at the folded surface of the gut lining, lit warmly from one side."
-  heroAlt: "Magnus Larsen at a lab bench by a window, holding a culture plate with a few small colonies up to the morning light."
+  previewAlt: "Illustration: short rod-shaped bacteria gather in a thin lime haze just above the rounded cells of the gut lining"
+  heroAlt: "Illustration: a few short rods live among many gut bacteria on an airless lining; as the lining leaks a faint haze of oxygen, the rods multiply and the others thin out"
 referral:
   product: ""
   mayaLog: ""

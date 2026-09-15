@@ -13,10 +13,11 @@ voice: greger
 answer: "The immune system is not built to eliminate microbes; it is built to live with them. Bacteria on the gut lining teach immune cells — macrophages, regulatory T cells — which signals mean danger and which mean neighbour. That learning, called tolerance, starts at birth. When it fails, the result is chronic inflammation rather than infection."
 sources: []
 images:
-  preview: ""
-  hero: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/hubs/immunity/immunity-preview.webp"
+  hero: "/assets/img/mbf/hubs/immunity/immunity-hero.webp"
+  og: "/assets/img/mbf/hubs/immunity/immunity-og.jpg"
+  previewAlt: "Illustration: a macrophage under the gut lining curls a coral arm around one rod-shaped bacterium in a warm spot of light"
+  heroAlt: "Illustration: bacteria above the one-cell-thick gut lining release small molecules; a macrophage below takes them in and stays calm beside gold regulatory T cells"
 referral:
   product: ""
   mayaLog: ""

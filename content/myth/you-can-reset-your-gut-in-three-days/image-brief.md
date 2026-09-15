@@ -28,7 +28,7 @@ The frame is a **gut bacterial community**, not one species — that is the hone
 - ***Roseburia*** — slightly curved, comma-leaning rods, motile by several flagella that leave one side of the cell as fine filaments.
 - ***Eubacterium rectale*** — straight to slightly curved rods with blunt ends, often lying end to end in short pairs.
 - ***Ruminococcus bromii*** — the one **coccus** in this cast: small round to oval cells, in pairs and short chains. It is the exception that keeps the frame honest — everything else here is a rod.
-- **The setting:** a soft, semi-transparent mucus layer over the rounded, finger-like folds of the intestinal lining. A living surface, not a hard crust and not a tunnel.
+- **The setting:** the colon, where this stool-sampled community lives — a loose, netlike outer mucus layer over a firm inner layer and a flat lining pitted with the round mouths of crypts, with fragments of plant fibre and starch from the diet lying in the loose layer. A living surface, not a hard crust and not a tunnel. No finger-like folds: villi belong to the small intestine (corrected 2026-09-16).
 
 Morphology is truth (§ rules that outlive any engine, 3): rods stay rods, and only *R. bromii* is round. No spores anywhere in this frame — none of these organisms form them.
 
@@ -38,7 +38,7 @@ Taken from the article's H2 skeleton, in one reading path:
 
 1. **First — the diet arrives.** New food reaches the mucus layer and the mix visibly tips: the bile-tolerant rods (*Bacteroides*, *Alistipes*, *Bilophila*) crowd forward while the plant-fermenting rods and the single coccus (*Roseburia*, *E. rectale*, *R. bromii*) thin out. This happens within one day.
 2. **Next — the diet stops.** The crowd unwinds. Within two days the proportions slide back to exactly the arrangement they held before the food changed. Nothing new was removed and nothing new stayed.
-3. **Outcome — the residents were never the ones moving.** The same individual cells sit in the same mucus, at the same density, as in beat one. What changed was how many of each were active, not who lived there.
+3. **Outcome — the residents were never the ones moving.** The community settles back to the same strains in the same mucus, at the same density, as in beat one — and most of them hold on for years: of every ten resident strains, six are still there five years on. What three days changed was how many of each were active, not who lived there. (Corrected 2026-09-16: strains persist, individual cells do not; the retention figure is over five years, not over the diet.)
 
 The eye should read **shift → return → unchanged residents** in one path, and arrive at the third beat feeling that it has come back to where it started. That is the whole argument of the piece.
 
@@ -47,17 +47,18 @@ The eye should read **shift → return → unchanged residents** in one path, an
 **60 % of about 200 strains, retained over five years.**
 Source: Faith J.J. et al., *Science*, 2013 — doi `10.1126/science.1237439`, PMID `23828941` (article source `s3`).
 
-Show it as **proportion, never as a printed figure**: in the outcome beat, roughly six of every ten cells are visibly the same individuals that were there in the first beat — same shape, same position, same orientation — and about four in ten differ. That ratio is the only quantity in the frame, and it is the number that decides the myth. It is expressed by how many cells stayed, not by any digit, bar, dial or gauge.
+Show it as **proportion, never as a printed figure**: in the outcome beat, of ten resident groups of cells, exactly six are visibly the same strains that were there in the first beat — same shape, same place, same arrangement — and four have been replaced by newcomers of other shapes or arrangements. That ratio is the only quantity in the frame, and it is the number that decides the myth. It is expressed by how many cells stayed, not by any digit, bar, dial or gauge.
 
 No second number goes into the image. The one-day and two-day timings are the article's words; they are carried by the reading path, not by any clock, calendar or hourglass — those would smuggle numerals into a frame that forbids them.
 
-## 6. Preview alt text (EN, ≤ 125 characters)
+## 6–7. Alt text
 
-`Rod-shaped gut bacteria and one round species in a mucus layer, most unchanged after a diet shift and a few replaced`
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
 
-## 7. Hero alt text (EN)
-
-`A wide view of a gut bacterial community where a temporary bloom fades and the long-settled residents stay in place`
+- en preview alt: "Illustration: plump rod-shaped gut bacteria and pairs of small round cells settled on a fragment of plant fibre"
+- en hero alt: "Illustration: a gut community tips when new food arrives, slides back when it stops, and years later six in ten resident groups are the same ones"
+- ru preview alt: "Иллюстрация: толстые палочковидные кишечные бактерии и пары мелких круглых клеток на обрывке растительного волокна"
+- ru hero alt: "Иллюстрация: сообщество кишечных бактерий сдвигается с новой едой, возвращается, когда она кончается, а годы спустя шесть групп из десяти остаются прежними"
 
 ## 8. What must never appear
 
@@ -68,21 +69,28 @@ No second number goes into the image. The one-day and two-day timings are the ar
 - **No people, faces, hands or bodies**, and no human digestive anatomy drawn as a body part — no torso, no cutaway abdomen, no visible mouth or anus.
 - **No medical horror** — no blood, pus, wounds, inflamed or ulcerated tissue.
 - **No before/after split panel, no collage, no inset, no diptych.** One frame, one world. The three beats live inside a single composition.
-- **Preview is never a crop of the hero and the hero is never a crop of the preview** — two masters, born natively at their own ratios.
+- **Neither master is ever a crop of the other** — two masters, born natively at their own ratios.
 - **No spores, no flagella on the *Bacteroides*-type rods, no spheres for any organism except *Ruminococcus bromii*.** Wrong morphology is a factual error, not a style choice.
 - No black background, no blue neon glow, no false-colour electron-micrograph cliché, no stock DNA helix, no glowing pill, no invented microscope or screen interface.
 - Nothing that could be mistaken for a real photograph of a real diagnostic image.
 
 ## 9. File keyword
 
-`you-can-reset-your-gut-in-three-days-preview` · `you-can-reset-your-gut-in-three-days-hero` (with `-og`, `-thumb` and `@2x` derived per `docs/BRAND_IMAGE_SPEC.md` §1). One slug serves every locale; only `alt` changes per language.
+Stem `you-can-reset-your-gut-in-three-days`, with the two slot suffixes and the `-og`, `-thumb` and `@2x` derivatives of `docs/BRAND_IMAGE_SPEC.md` §1. One slug serves every locale; only the descriptive line changes per language.
 
 ## 10. Locales live for this piece
 
-**`en`** (`en.md`, voice greger, status published) and **`ru`** (`ru.md`, voice komarovsky, status published) — both dated 2026-09-04. No other locale file exists in this folder, so no other locale is declared. The two images are shared by both; the RU `alt` lines come from Alexandra Vetrova, not from me.
+**`en`** (`en.md`, voice greger, status published) and **`ru`** (`ru.md`, voice komarovsky, status published) — both dated 2026-09-04. No other locale file exists in this folder, so no other locale is declared. The two images are shared by both; the Russian lines in fields 6–7 still pass through Alexandra Vetrova's register gate.
 
 ---
 
 **Truth note.** No product appears in either frame and no health claim is made by either image, so no Maya consult is needed for this brief. The only number in the images is the sourced 60 % over five years (Faith 2013), shown as a proportion of cells; every other figure in the article stays in the text where its source marker can follow it.
 
 — Magnus Larsen · 2026-09-04
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a small settled community on one pale, ridged fragment of plant cell wall with a rounded starch granule on it — plump rods of uneven length, straight blunt rods lying end to end in pairs, and pairs of small round cells on the starch granule; the group sharp at the centre, the fibre ends softening away. Subject inside the middle 1.91:1 band. **World:** a fragment of plant fibre and starch lying in loose gut mucus; blue hour — cool, dim, grey-blue ambient light — with one small warm highlight from the lower left catching the settled group. **Accent:** gold on the warm highlight across the settled group only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** one continuous stretch of loose colon mucus read left to right — ten resident groups of cells as food fragments arrive and the bile-tolerant rods crowd forward; the proportions sliding back as the food thins away; on the right ten resident groups again, exactly six the same as on the left, four replaced by newcomers. **Light:** clear, cool silver light raking from the upper right at a low angle, crisp shadows toward the lower left. **Accent:** coral on the four newcomer groups only.

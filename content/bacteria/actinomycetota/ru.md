@@ -103,8 +103,8 @@ images:
   preview: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-preview.webp"
   hero: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-hero.webp"
   og: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-og.jpg"
-  previewAlt: "Forked, Y-shaped bifidobacterium rods resting in a pale milk film, drawn in warm light"
-  heroAlt: "Magnus Larsen at a lab bench holding a culture plate up to the window light, studying its colonies"
+  previewAlt: "Иллюстрация: тонкие ветвящиеся нити почвенных бактерий на влажных частицах почвы, их поднятые кончики заканчиваются светло-зелёными цепочками спор"
+  heroAlt: "Иллюстрация: ветвящиеся почвенные бактерии выпускают молекулы антибиотика, шесть из девяти коралловые, а через весь кадр вилообразные палочки бифидобактерий лежат на слизистой кишечника"
 referral:
   product: ""
   mayaLog: ""

@@ -1,35 +1,45 @@
 # Image brief — Bacillota (formerly Firmicutes)
 
-As of: 2026-09-02
-From: Magnus Larsen → Marika Nowicka (slot) → Lisa (still)
+As of: 2026-09-02 · amended 2026-09-16
+From: Magnus Larsen → Marika Nowicka (slot and focus) → Otto (hero) · Lisa (preview)
 Template: Marika's BRAND IMAGE SPEC §5 (fields 1–5 preview · 6–8 hero · 9–10 both). Plain editorial words only; Lisa writes the engine side.
 
 ```
 1. Slug (ASCII, language-neutral):             bacillota-firmicutes
 2. Article title (EN) + one-line summary:      "Bacillota (formerly Firmicutes): the 'fat bacteria' that aren't" — the biggest bar on a stool test got a new name in 2021; the phylum holds both the butyrate producers that feed the colon lining and Clostridioides difficile, and the Firmicutes/Bacteroidetes ratio cannot diagnose anyone.
-3. Organism / structure in the preview:        Bacillota, shown through its typical body plan: thick-walled rods, some carrying a spore, sitting on a strand of undigested plant fibre (the mechanism of the article — fibre fermented into butyrate)
-4. Morphology, in words (truth, Magnus/Maya):  rod-shaped cells, straight or slightly curved, rounded ends, lying single and in short chains of two to four; wall visibly thick and single-layered, smooth, no outer sheath; in two or three of the rods one bright oval spore sits near one end and swells the cell slightly there; no spheres, no Y-shapes, no flagella tufts drawn. Scale cue: the fibre strand they rest on is a plant-cell fragment many times longer than any cell, faintly ribbed
-5. Preview mood (one line, warm science):      a warm ivory field, one soft morning light from the side; the rods in deep navy and teal, the fibre strand in muted green, and a single small gold note where one spore catches the light — a quiet, well-fed colony at work, not a threat
-6. Hero scene (one sentence, one moment):      Magnus at a bench by a window, holding one culture plate up to the daylight and looking at it with the calm, faintly amused expression of a man about to say "the label changed, the bacteria did not" — the scientist explains
-7. Cast — R2 REF file name(s), Owner-named:    refs/characters/MagnusLarsen.jpg (Magnus's own house REF, one person only)
-8. Place + wardrobe (credible, no logos):      a plain lab bench in morning light, a rack of closed culture plates and a notebook beside him; white lab coat open over a visible knit collar; the world of the article (plates, bench, window) fills the side of the frame he is not in
-9. Must not appear:                            any product or packaging of any brand; any letters, numbers, glyphs, labels, scale bars, bar charts or a "test report"; a second person, an invented face or hand; black background, blue neon glow, false-colour microscope look; a collage, split panel or inset; blood, pus, wounds or any sick-looking gut; a hero that is a wider crop of the preview
-10. Locales + alt text per locale:             en (below) — ru via Alexandra, de/ja/ar by the locale owners after the EN line is accepted; one line each, same meaning
+3. Organism / structure in the preview:        Bacillota, shown through its typical body plan: thick-walled rods, some carrying a spore, sitting on food that reached the colon undigested (the mechanism of the article — fibre and resistant starch fermented into butyrate). Amended 2026-09-16: the surface is a granule of resistant starch, named in the article, because the bacteroidota entry in the same image wave carries the plant-fibre strand
+4. Morphology, in words (truth, Magnus/Maya):  rod-shaped cells, straight or slightly curved, rounded ends, lying single and in short chains of two to four; wall visibly thick and single-layered, smooth, no outer sheath; in two or three of the rods one bright oval spore sits near one end and swells the cell slightly there; no spheres, no Y-shapes, no flagella tufts drawn. Scale cue: the resistant-starch granule they rest on — a smooth, rounded, faintly ringed grain — is many times larger than any cell
+5. Preview mood (one line, warm science):      a warm field, one soft light from the side; the rods in deep navy and teal on a pale starch granule, and a single small accent where the rods have pitted the granule — a quiet, well-fed colony at work, not a threat. Light and accent as in Marika's slot-and-focus block below (2026-09-16)
+6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16:
+                                               Bacillota rods ferment the fibre and resistant starch that reach the colon undigested into butyrate, the preferred fuel of the colon lining — and the same tough wall and spore run through the whole phylum, pathogens included.
+7. Three beats (first → next → outcome):      (1) a large resistant-starch granule and a few ribbed fibre shreds arrive in the colon untouched; (2) thick-walled rods of many kinds work along the granule's pitted edge and release small droplets of butyrate; (3) outcome: the droplets pass into a row of smooth lining cells that take them in as fuel, while many of the rods beside them carry a sealed oval spore.
+8. The one number (keyFacts, source id):      at least 50–60 % of bacterial genera in a healthy gut make resilient spores (s7, Browne et al. 2016). Shown only as proportion: the working group is exactly ten rods of ten visibly different kinds (length, thickness, curve), and six of the ten carry one oval spore near one end. Never printed.
+9. Must not appear:                            any product or packaging of any brand; any letters, numbers, glyphs, labels, scale bars, bar charts or a "test report"; no person, face or hand in either frame; no capsule or supplement shape; no intestine drawn as an organ cut-away; black background, blue neon glow, false-colour microscope look; a collage, split panel or inset; blood, pus, wounds or any sick-looking gut; a hero that is a wider crop of the preview
+10. Locales + text per locale:                 en and ru are live; the four lines sit directly below this block
 ```
 
-## Alt text (EN)
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
 
-- Preview alt (≤ 125 chars): `Illustration of thick-walled rod bacteria, a few holding spores, resting on a strand of plant fibre`
-- Hero alt: `Magnus Larsen at a lab bench holding a culture plate up to the window light, a rack of plates beside him`
+- en preview alt: "Illustration: thick-walled rod bacteria, two holding oval spores, resting on a starch granule pitted coral where they feed"
+- en hero alt: "Illustration: thick-walled rods break down a resistant starch granule into gold butyrate droplets that the colon lining takes in; six of the ten rods carry a spore"
+- ru preview alt: "Иллюстрация: толстостенные палочковидные бактерии, у двух овальные споры, лежат на грануле крахмала, изъеденной до кораллового цвета там, где они питаются"
+- ru hero alt: "Иллюстрация: толстостенные палочки разбирают гранулу резистентного крахмала на золотистые капли бутирата, которые впитывает слизистая толстой кишки; у шести из десяти палочек есть спора"
 
 ## Notes for Marika and Lisa
 
-- **The single idea both images carry:** one phylum, two faces. The same tough body — thick wall, resilient spore — belongs to the bacteria that feed the gut lining and to the pathogen the hospital fears, and a bar on a test cannot tell you which you have. The preview shows the body plan; the hero shows the person who reads the bar honestly.
+- **The single idea both images carry:** one phylum, two faces. The same tough body — thick wall, resilient spore — belongs to the bacteria that feed the gut lining and to the pathogen the hospital fears, and a bar on a test cannot tell you which you have. The card shows the body plan at its meal; the article image shows the meal turning into the lining's fuel.
 - **The mechanism in one sentence (for Lisa's understanding):** fibre and resistant starch reach the colon undigested, Bacillota rods ferment them into butyrate, the preferred fuel of the cells lining the colon, and the same rods survive the trip between people as spores.
-- **File-name keyword (Jurgen's pattern):** `bacillota-firmicutes-preview` · `bacillota-firmicutes-hero` (plus Marika's derived `-og`, `-thumb`, `@2x` set).
 - **Priority:** bacteria entry — evergreen, no week lock; it may queue behind any news brief.
-- **Why a spore and a fibre strand, not a colony plate:** the article's honest claim is that the phylum's resilience (spore, wall) is what makes it both ally and threat; a spore in a rod is the truest picture of that, and the fibre strand is what the helpful members actually eat. The preview must stay warm and calm — the reader should not think "infection."
-- **Why Magnus and a plate, not a chart:** the reader's own experience is a stool-test bar chart, but a chart means letters and numbers, which the portal never bakes into pixels. The plate held to the light says "I look at the organisms themselves" without a single glyph.
+- **Why a spore and a starch granule, not a colony plate:** the article's honest claim is that the phylum's resilience (spore, wall) is what makes it both ally and threat; a spore in a rod is the truest picture of that, and undigested starch and fibre are what the helpful members actually eat. The card image must stay warm and calm — the reader should not think "infection."
+- **Why a fermentation path, not a chart:** the reader's own experience is a stool-test bar chart, but a chart means letters and numbers, which the portal never bakes into pixels. The path from granule to lining says "look at what the organisms do" without a single glyph.
+- **File-name keyword (Jurgen's pattern):** `bacillota-firmicutes`, with the two slot suffixes and Marika's derived `-og`, `-thumb`, `@2x` set.
 - Nothing above is an engine prompt; Lisa writes that side herself from these words and generates in the house engine only, native ratio per Marika's slot table.
 
-— Magnus Larsen · 2026-09-02
+— Magnus Larsen · 2026-09-02 · hero fields 2026-09-16
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** two thick-walled rods lying across the curved face of one starch granule, one with its oval spore swelling the end, sharp in the centre; the granule's far curve and neighbouring rods soften away. Subject inside the middle 1.91:1 band. **World:** a smooth, rounded, faintly ringed granule of resistant starch resting in a shallow wet film of colon contents; warm lamp-amber evening light, low from the right. **Accent:** coral on the small pitted patch of the granule where the rods are feeding, and nowhere else.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left the untouched granule and fibre shreds arriving, centre the ten rods of ten kinds working its pitted edge (six with spores) and releasing droplets, right the lining cells taking the droplets in; read left to right. **Light:** crisp cool midday light from directly above, its own and not the preview's. **Accent:** gold on the butyrate droplets only.

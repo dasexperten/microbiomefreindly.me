@@ -63,8 +63,8 @@ images:
   preview: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-preview.webp"
   hero: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-hero.webp"
   og: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-og.jpg"
-  previewAlt: "Illustration of a nerve network under the gut lining, a thin film of"
-  heroAlt: "Magnus Larsen at a lab bench in morning light, holding a small clear"
+  previewAlt: "Иллюстрация: кружево нервных узлов просвечивает сквозь тонкую ткань кишки, сверху оседает прозрачная янтарная плёнка, несколько узлов светятся коралловым"
+  heroAlt: "Иллюстрация: тонкая янтарная плёнка жидкости оседает на слизистой кишки; фермент отрезает рецептор на нервной клетке, она загорается и будит соседние узлы нервной сети"
 referral:
   product: ""
   mayaLog: ""

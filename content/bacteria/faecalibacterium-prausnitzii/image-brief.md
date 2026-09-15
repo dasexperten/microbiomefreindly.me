@@ -35,44 +35,53 @@ Plain words only. I describe what the reader should see and feel; Lisa turns it 
                                                rods down toward the lining — that is the fuel they hand over. No violet.
                                                Subject in the middle band (og crop must lose only air, top and bottom).
 
-6. Hero scene (one sentence, one moment):      "The scientist explains": Magnus at a lab bench in morning light, holding
-                                               a sealed, gas-tight culture jar up at eye level and looking at it with the
-                                               quiet care you give something that dies if the lid comes off — the subject
-                                               world (bench, a closed anaerobic jar, a couple of covered culture plates)
-                                               fills the other side of the wide frame.
-                                               Mood: calm, respectful, slightly amused — "this is the most common
-                                               resident in your gut, and it cannot survive the room we are standing in."
+6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16:
+                                               Faecalibacterium prausnitzii, one of the most abundant bacteria in a
+                                               healthy colon, turns the acetate its neighbours discard into butyrate,
+                                               the main fuel of the cells lining the colon.
 
-7. Cast — R2 REF file name(s), Owner-named:    refs/characters/MagnusLarsen.jpg (bucket dasexperten-images).
-                                               One person, no second person.
+7. Three beats (first → next → outcome):       (1) in the airless mucus over the colon lining, one slender rod lies in
+                                               a mixed crowd of other gut bacteria; (2) it takes in small beads of
+                                               acetate released by its neighbours and gives out butyrate; (3) outcome:
+                                               the butyrate beads sink through the mucus into the lining cells beneath,
+                                               which take them in as fuel.
 
-8. Place + wardrobe (credible, no logos):      A plain, well-lit research bench — pale surfaces, warm daylight from one
-                                               window, navy/teal/green in the scene, one gold accent at most.
-                                               Lab coat open over a visible shirt collar (both layers visible), sleeves
-                                               plain. No badges, no logos, no writing anywhere.
+8. The one number (keyFacts, source id):       more than 5 % of the total bacterial population in healthy adults
+                                               (s2, Miquel 2013). Shown only by proportion: of a crowd of exactly
+                                               twenty bacteria in the mucus, one is the slender rod — one in twenty,
+                                               the floor of "more than 5 %", never fewer. Never printed.
 
 9. Must not appear:                            Any product of any brand, any packaging, any tube/box/jar with a brand
-                                               look; any letters, digits, labels, scale bars, microscope UI; any
-                                               invented face or hand; a second person; a collage, split panel or inset;
+                                               look; any letters, digits, labels, scale bars, microscope UI; no person,
+                                               face or hand in either frame; a collage, split panel or inset;
                                                black background, blue neon glow, false-colour "electron microscope"
                                                look; glowing pills, DNA helices; pus, wounds, blood; a hero that is a
-                                               wider crop of the preview. In the preview: no people at all.
+                                               wider crop of the preview. Nothing bubbly or frothy in either frame.
 
 10. Locales + alt text per locale:
-    en preview:  Slender rod-shaped Faecalibacterium cells resting in a mucus film above the colon lining, in warm light.
-    en hero:     Magnus Larsen at a lab bench holding a sealed culture jar up to the light — the kind kept closed because the culture inside dies in air.
-    de preview:  Schlanke stäbchenförmige Faecalibacterium-Zellen ruhen in einem Schleimfilm über der Darmschleimhaut, im warmen Licht.
-    de hero:     Magnus Larsen an einer Laborbank hält ein verschlossenes Kulturgefäß ins Licht – es bleibt zu, weil die Kultur an der Luft stirbt.
-    ru / ja / ar: one line each, same content — RU via Alexandra, JA and AR via the locale seats. Not invented here.
+
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
+
+- en preview alt: "Illustration: slender rod-shaped bacteria lie in dense mucus over the colon lining, tiny coral beads drifting down from them"
+- en hero alt: "Illustration: among twenty gut bacteria in airless mucus, one slender rod takes in its neighbours' leftovers and releases gold butyrate beads that pass into the colon lining"
+- ru preview alt: "Иллюстрация: тонкие палочковидные бактерии лежат в плотной слизи над слизистой толстой кишки, от них вниз опускаются крошечные коралловые капли"
+- ru hero alt: "Иллюстрация: среди двадцати кишечных бактерий в бескислородной слизи одна тонкая палочка забирает остатки соседей и выделяет золотые капли бутирата, которые уходят в клетки слизистой толстой кишки"
 ```
 
-## Notes for Lisa (plain words)
+## Notes for Lisa and Otto (plain words)
 
-- **File name keyword (Jurgen's pattern):** `faecalibacterium-prausnitzii-preview` · `faecalibacterium-prausnitzii-hero` (+ `-og`, `-thumb` as Marika's table).
 - **Priority:** evergreen (bacteria entry). Not this week's news; no rush over a news slot.
-- **The single idea both images carry:** *shelter*. This organism only exists where there is no air, and something outside it — the lining in the preview, Magnus's closed jar in the hero — is keeping the air away. If a viewer feels "this thing is being kept safe from the room," the frame is right.
+- **The single idea both images carry:** *shelter and supply*. This organism only exists where there is no air, and it sits right against the tissue it feeds. If a viewer feels "this thing is kept safe from the room, and it is feeding the wall", the frame is right.
 - **The mechanism in one sentence:** Faecalibacterium prausnitzii lives in the oxygen-free colon, eats the acetate other bacteria discard, and turns it into butyrate — the fuel that the cells lining the colon burn first — so a picture of it is a picture of a supplier sitting right against the tissue it feeds.
-- **Preview truth check (Marika's item 9):** rods, not spheres, not branched; lying in a film, not swimming; no oxygen anywhere in the story, so nothing bubbly, nothing frothy, nothing "breathing".
-- **Hero truth check:** the jar is a plain sealed culture vessel, no brand look; Magnus's face is the R2 REF side by side, not a resemblance.
+- **Truth check for both frames:** rods, not spheres, not branched; lying in a film, not swimming; no oxygen anywhere in the story, so nothing bubbly, nothing frothy, nothing "breathing". No jar, no bench, no person: the built infographic replaces the 2026-09-02 character scene.
 
-— Magnus Larsen · 2026-09-02
+— Magnus Larsen · 2026-09-02 · fields 6–10 updated 2026-09-16
+
+**File name keyword (Jurgen's pattern):** `faecalibacterium-prausnitzii-preview` · `faecalibacterium-prausnitzii-hero` (+ `-og`, `-thumb` as Marika's table).
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** three slender rods lying flat, deep in dense mucus gel, the middle one sharpest; a few tiny beads drift from it down toward the lining. Subject inside the middle 1.91:1 band. **World:** a dense, still inner mucus gel pressed over a flat colon lining dotted with small round crypt openings; cool silver moonlike light from high above, low intensity, pewter temperature. **Accent:** coral on the tiny butyrate beads only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left, a crowd of exactly twenty bacteria in airless mucus with one slender rod among them; centre, that rod takes in grey acetate beads and gives out butyrate beads; right, the beads pass into a row of lining cells. The eye reads left to right. **Light:** warm apricot light from the upper left, soft shadows — its own, not the preview's. **Accent:** gold on the butyrate beads.

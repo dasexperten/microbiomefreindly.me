@@ -1,9 +1,9 @@
 # Image brief — Fermented foods: the microbes you eat aren't the point
 
 As of: 2026-09-04
-From: Magnus Larsen → Roberta (prompt) → Lisa (generation, Grok or Codex) → Marika (acceptance)
+From: Magnus Larsen → Roberta (words) → Marika Nowicka (slot and focus) → Otto (hero) · Lisa (preview)
 
-Plain words only. I supply the mechanism, the morphology and the one number; Roberta writes the prompt paragraph from `docs/IMAGE_PROMPT.md`; Lisa generates; Marika accepts the frame and then the frame on the live page. I write no prompt text, no camera settings, no model names.
+Plain words only. I supply the mechanism, the morphology and the one number; Otto (the 16:9 infographic) and Lisa (the 3:2 macro world) each write their own engine words from `docs/IMAGE_PROMPT.md`; Marika accepts the frame and then the frame on the live page. No person, face or hand in either frame. I write no prompt text, no camera settings, no model names.
 
 ---
 
@@ -53,17 +53,18 @@ The eye must walk that path in one pass: a crowded ferment → cells drifting pa
 
 Shown as **proportion in beat two**: of roughly twenty newly arrived cells crossing the resident field, exactly one takes a place among the residents and the rest travel on. About one in twenty is the honest visual reading of 5.4 % at its highest point; the picture shows the smallness of the share, not a printed figure. The number is never printed, never labelled, never written anywhere in the pixels, and the frame must not imply a precise percentage — quantity and proportion are the whole of it.
 
-**6. Preview alt text (EN, ≤ 125 characters)**
+**6–7. Alt text**
 
-Illustration: lactic acid bacteria from fermented food drift past gut residents, one in twenty settling among them
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
 
-**7. Hero alt text (EN)**
-
-Illustration: fermented-food bacteria in three moments — a crowded field of long rods, chains of round cells and large budding yeasts in the ferment; the same cells drifting across the gut lining without settling, only one in twenty taking a place, while acids and broken-down sugars seep through the mucus; and the resident community ending more varied than it began.
+- en preview alt: "Illustration: chains of round cells, long rods and large budding yeasts among tiny bubbles in a live ferment"
+- en hero alt: "Illustration: bacteria from a live ferment drift across the gut lining; of twenty, one takes a place, acids seep into the mucus, and the resident bacteria end up more varied"
+- ru preview alt: "Иллюстрация: цепочки круглых клеток, длинные палочки и крупные почкующиеся дрожжи среди мелких пузырьков живой закваски"
+- ru hero alt: "Иллюстрация: бактерии из живой закваски проплывают над слизистой кишечника; из двадцати задерживается одна, кислоты просачиваются в слизь, а собственные бактерии становятся разнообразнее"
 
 **8. What must never appear**
 
-No jar, glass, tub, pot, bottle, carton, lid, spoon, bowl or plate — nothing that reads as packaging or as a container, and no product, capsule, tablet, sachet or brand mark of any kind. No kitchen and no food photography: no recognisable cabbage, cucumber, milk pour, yoghurt swirl or kimchi; the foods appear only as plant cell-wall material and a soft matrix at the scale of the bacteria. No text, letters, numerals, labels, worded arrows, scale bars, watermarks, chemical formulae, invented microscope or screen interfaces. No people, faces, hands, mouths or bodies. No medical horror — no blood, no wound, no inflamed or ulcerated tissue. No black background, no blue neon glow, no false-colour electron-micrograph cliché, no stock DNA helix. No collage of separate plates, no split panel, no inset. No hero that is a wider version of the preview and no preview cut from the hero — two frames, two worlds. No forked or spherical cell standing in for a rod: the morphology in field 3 is the truth of this frame.
+No jar, glass, tub, pot, bottle, carton, lid, spoon, bowl or plate — nothing that reads as packaging or as a container, and no product, capsule, tablet, sachet or brand mark of any kind. No kitchen and no food photography: no recognisable cabbage, cucumber, milk pour, yoghurt swirl or kimchi; the foods appear only as plant cell-wall material and a soft matrix at the scale of the bacteria. No text, letters, numerals, labels, worded arrows, scale bars, watermarks, chemical formulae, invented microscope or screen interfaces. No person, face or hand in either frame, and no body. No medical horror — no blood, no wound, no inflamed or ulcerated tissue. No black background, no blue neon glow, no false-colour electron-micrograph cliché, no stock DNA helix. No collage of separate plates, no split panel, no inset. The wide infographic is never a wider version of the card frame and the card frame is never cut from it — two frames, two worlds. No forked or spherical cell standing in for a rod: the morphology in field 3 is the truth of this frame.
 
 Four honesty limits, as binding as the bans above:
 
@@ -78,4 +79,11 @@ Four honesty limits, as binding as the bans above:
 
 **10. Locales live for this piece**
 
-`en` and `ru` — both files exist and are published. One image set serves both; only the alt line changes per language. English alt above; the Russian alt comes from Alexandra Vetrova, not from a translation of mine.
+`en` and `ru` — both files exist and are published. One image set serves both; only the description line changes per language (fields 6–7). The Russian lines pass Alexandra Vetrova's register gate before they go live.
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** two large oval yeast cells, each with a smaller daughter bud swelling from its side, sharp at the centre, with a chain of five or six round cells and a few long straight rods lying against the skin of small gas bubbles around them; further bubbles and cells soften away. Subject inside the middle 1.91:1 band. **World:** the inside of a live milk ferment at the scale of the cells — a soft, pale, translucent curd matrix threaded with tiny round gas bubbles, no jar, glass, spoon or surface of a food; low candle-warm glow from a single small source at lower right, deep amber, soft falling shadows. **Accent:** lime on the daughter buds only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left, a crowded field of arrivals — long rods, chains of round cells, plump short rods, a few big budding yeasts — on plant cell-wall strands and in a soft matrix; centre, exactly twenty arrivals drifting across the mucus over the finger-shaped folds, one of them lodged among the resident rods, the other nineteen passing on, with a soft drift of dissolved acids and broken-down sugars seeping into the mucus; right, the resident field itself holding more different shapes than in the centre. **Light:** cool silvery early-morning light, low from the left, long soft shadows. **Accent:** gold on the soft chemical drift seeping into the mucus only — never on any cell.

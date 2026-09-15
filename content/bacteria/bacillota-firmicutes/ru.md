@@ -115,8 +115,8 @@ images:
   preview: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-preview.webp"
   hero: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-hero.webp"
   og: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-og.jpg"
-  previewAlt: "Illustration of thick-walled rod bacteria, a few holding spores, resting on a strand of plant fibre"
-  heroAlt: "Magnus Larsen at a lab bench holding a culture plate up to the window light, a rack of plates beside him"
+  previewAlt: "Иллюстрация: толстостенные палочковидные бактерии, у двух овальные споры, лежат на грануле крахмала, изъеденной до кораллового цвета там, где они питаются"
+  heroAlt: "Иллюстрация: толстостенные палочки разбирают гранулу резистентного крахмала на золотистые капли бутирата, которые впитывает слизистая толстой кишки; у шести из десяти палочек есть спора"
 referral:
   product: ""
   mayaLog: ""

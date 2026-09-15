@@ -1,0 +1,61 @@
+# Image brief — metabolic (hub)
+
+As of: 2026-09-16
+From: Magnus Larsen → Marika Nowicka (slot and focus) → Otto (hero) · Lisa (preview)
+Template: BRAND_IMAGE_SPEC §5, 10 fields. Plain words only; Otto and Lisa write their own engine words. This hub carries no keyFacts, so no number is shown in either frame.
+
+## The brief
+
+**1. Slug (ASCII, language-neutral):** `metabolic`
+File names: `metabolic-preview` · `metabolic-hero`.
+
+**2. Article title (EN) + one-line summary:** "Microbes and metabolism: GLP-1, Akkermansia, fatty acids" — gut bacteria ferment fibre into short-chain fatty acids that feed the gut wall and signal the cells that release GLP-1, while Akkermansia muciniphila keeps the mucus barrier thick; a pathway, not a cure.
+
+**3. Organism / structure in the preview:** *Akkermansia muciniphila* in the mucus layer — the mucus-eater the hub names, whose grazing prompts the gut wall to make more mucus.
+
+**4. Morphology, in words (truth, Magnus):**
+- *Akkermansia muciniphila*: short oval cells, a little longer than they are wide, rounded ends, single or in pairs; no tails (non-motile), no spores, no chains. Never spirals, never long rods. Same shape as the encyclopedia entry.
+- The mucus layer: a thick translucent gel with a layered, softly stranded texture, separating the bacteria from the gut wall.
+- The gut wall below it: a row of rounded cell tops; where the wall makes more mucus, a fresh glossy bead of gel emerges between them.
+- Fermenting bacteria (second frame): the hub names no species for them, so generic short rods and small round cocci on plant fibre — torn honeycomb sheets of plant cell walls.
+- Short-chain fatty acids — acetate, propionate, butyrate: tiny molecules, each a short zigzag of a few linked beads.
+- Enteroendocrine cell (second frame): the hormone-releasing cell of the lining, flask-shaped — a narrow tip reaching the gut space, a broad base packed with tiny round granules of GLP-1.
+- A small blood vessel just beneath the lining: a thin, translucent tube.
+
+**5. Preview mood (one line, warm science):** pairs of oval cells resting in a thick, layered, hazy mucus gel under hot white midday light diffused through haze; at the wall below, a fresh bead of mucus carries the only lime.
+
+**6. Hero mechanism (the answer, one clause):** gut bacteria ferment fibre into short-chain fatty acids that signal the hormone-releasing cells of the gut to release GLP-1, while Akkermansia keeps the mucus barrier thick.
+
+**7. Three beats (first → next → outcome):** (1) fermenting bacteria on plant fibre release short-chain fatty acid molecules; (2) the molecules pass through a thick mucus layer where oval Akkermansia cells rest, and dock on the tip of a flask-shaped hormone-releasing cell in the lining; (3) outcome: that cell releases its GLP-1 granules from its base into a small blood vessel beneath, which carries them away out of the frame.
+
+**8. The one number (keyFacts, source id):** none in keyFacts — clause dropped, nothing shown as a number.
+
+**9. Must not appear:** any product, capsule, pill, injection pen, syringe, bottle, packaging or brand mark — nothing that reads as a weight-loss drug; no scales, tape measures or food plates; any text, letters, numerals, labels, arrows, scale bars, watermarks or interface; no person, face or hand in either frame; no body silhouette; no intestine drawn as an anatomical organ cut-away; no blood or gore; no black background, no blue neon glow, no false-colour micrograph cliché, no DNA helix; no collage, split panel or inset; neither frame is a crop of the other.
+
+**10. Locales + alt text per locale:** en and ru are live for this hub. One image set serves both.
+
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
+
+- en preview alt: "Illustration: a flask-shaped hormone cell in the gut lining holds glowing gold GLP-1 granules as fatty acid molecules settle on its tip"
+- en hero alt: "Illustration: bacteria ferment fibre into fatty acid molecules that dock on a hormone cell in the gut lining; it releases gold GLP-1 granules into a small blood vessel"
+- ru preview alt: "Иллюстрация: колбовидная гормональная клетка слизистой кишечника с золотыми гранулами GLP-1, на её верхушку садятся молекулы жирных кислот"
+- ru hero alt: "Иллюстрация: бактерии сбраживают клетчатку в молекулы жирных кислот, те садятся на гормональную клетку слизистой, и она выпускает золотые гранулы GLP-1 в мелкий сосуд"
+
+Only these four descriptive lines change per language; the pixels stay the same.
+
+## Truth check — Magnus
+
+- Akkermansia muciniphila, the mucus layer, fibre, the three short-chain fatty acids, enteroendocrine cells and GLP-1 are all named in the hub.
+- The frames show a pathway; nothing suggests weight loss, a supplement or a drug. The hub says it is a pathway, not a cure.
+- PYY and the liver, muscle and fat destinations are left out so the eye walks one line, not denied.
+
+— Magnus Larsen · 2026-09-16
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one pair of oval Akkermansia cells sharp in the layered mucus at the centre, a few more pairs softening away; just below, the rounded tops of the wall cells releasing one fresh bead of mucus. Subject inside the middle 1.91:1 band. **World:** a thick, layered, faintly stranded mucus gel over the gut wall; hot white midday light diffused through haze, bright, soft, almost shadowless. **Accent:** lime on the fresh bead of mucus only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** bacteria fermenting fibre and releasing fatty acid molecules → the molecules crossing the mucus past resting Akkermansia and docking on the flask-shaped hormone cell → GLP-1 granules released into the small vessel beneath and carried out of frame, left to right. **Light:** low golden light from behind on the right, rimming the forms. **Accent:** gold on the GLP-1 granules only.
+
+**Marika, 2026-09-16, after the side-by-side check:** the first preview (Akkermansia pairs in layered mucus) read as the same plate as the Akkermansia encyclopedia card. The preview moves to the hub's other named actor: **Focus:** one flask-shaped GLP-1 cell of the colon lining, its gold granules and the fatty-acid molecules settling on its tuft; **World:** the lining at cell scale, hot white midday haze; **Accent:** gold on the granules. Field 3 for this frame reads: the GLP-1-releasing hormone cell named in the hub.

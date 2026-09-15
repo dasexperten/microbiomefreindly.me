@@ -111,8 +111,8 @@ images:
   preview: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-preview.webp"
   hero: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-hero.webp"
   og: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-og.jpg"
-  previewAlt: "Spiral Helicobacter pylori cells resting in the pale mucus film over the stomach lining"
-  heroAlt: "Magnus Larsen at a lab bench holding a culture plate up to the light"
+  previewAlt: "Illustration: spiral bacteria with a tuft of tails at one end rest in mucus over the stomach lining, one in a clear pocket"
+  heroAlt: "Illustration: a spiral bacterium wraps itself in a small neutral cloud in stomach acid, corkscrews down into the mucus and fastens to the lining beside others already settled"
 referral:
   product: ""
   mayaLog: ""

@@ -77,11 +77,11 @@ sources:
     doi: "10.1016/j.chom.2019.10.011"
     pmid: "31726029"
 images:
-  preview: ""
-  hero: ""
-  og: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/routine/eating-after-antibiotics/eating-after-antibiotics-preview.webp"
+  hero: "/assets/img/mbf/routine/eating-after-antibiotics/eating-after-antibiotics-hero.webp"
+  og: "/assets/img/mbf/routine/eating-after-antibiotics/eating-after-antibiotics-og.jpg"
+  previewAlt: "Иллюстрация: палочки и вильчатые бактерии кишечника снова оседают на разорванных стенках растительных клеток в мягком утреннем свете"
+  heroAlt: "Иллюстрация: растительная клетчатка над слизистой кишечника — почти пустая после антибиотиков, затем бактерии заселяют её волокна, и в конце поле снова плотное, но девять мест остаются пустыми"
 referral:
   product: ""
   mayaLog: ""

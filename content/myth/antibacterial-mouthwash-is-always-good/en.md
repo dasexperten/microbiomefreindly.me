@@ -67,11 +67,11 @@ sources:
     doi: "10.1371/journal.pone.0088645"
     pmid: "24670812"
 images:
-  preview: ""
-  hero: ""
-  og: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-preview.webp"
+  hero: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-hero.webp"
+  og: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-og.jpg"
+  previewAlt: "Illustration: a clear rinse sweeps over a mixed mat of rods, round cells and spindles, leaving it thin behind its edge"
+  heroAlt: "Illustration: a rinse sweeps the mixed bacterial mat on the tongue surface, and the stream of particles it sends toward a blood vessel falls to a tenth"
 referral:
   product: ""
   mayaLog: ""

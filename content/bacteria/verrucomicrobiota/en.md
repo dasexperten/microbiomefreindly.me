@@ -104,8 +104,8 @@ images:
   preview: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-preview.webp"
   hero: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-hero.webp"
   og: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-og.jpg"
-  previewAlt: "Pale mucus gel over the folded gut lining, short oval rods resting in it, the film worn thin at one edge."
-  heroAlt: "A microbiologist at a laboratory bench in morning light, mid-explanation, one hand open beside a plain culture dish and an open notebook."
+  previewAlt: "Illustration: oval bacteria rest among stretched strands of mucus over the gut lining, one strand fraying where a cell feeds"
+  heroAlt: "Illustration: oval bacteria graze the mucus layer over the colon lining, which takes in gold fuel and makes fresh mucus; further right, crowded bacteria wear the layer down to a thin veil"
 referral:
   product: ""
   mayaLog: ""

@@ -72,11 +72,11 @@ sources:
     doi: "10.1038/nature12506"
     pmid: "23985870"
 images:
-  preview: ""
-  hero: ""
-  og: ""
-  previewAlt: ""
-  heroAlt: ""
+  preview: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-preview.webp"
+  hero: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-hero.webp"
+  og: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-og.jpg"
+  previewAlt: "Illustration: two identical groups of rod-shaped bacteria on rippled gut mucus; the mucus shifts under one and not the other"
+  heroAlt: "Illustration: six identical clusters of rod-shaped bacteria settle on the same gut mucus; under four the mucus visibly changes, under two it stays untouched"
 referral:
   product: ""
   mayaLog: ""

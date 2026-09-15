@@ -48,13 +48,14 @@ Show it as **quantity, never as a printed figure**: six clusters in the frame, f
 
 No second number goes into the image. Every other figure in the piece — the 1.98 kg, the 30 × 10⁹ CFU, the 12 weeks, the 1–2 days — stays in the text where its source marker can follow it.
 
-## 6. Preview alt text (EN, ≤ 125 characters)
+## 6–7. Alt text
 
-`Illustration: six look-alike groups of rod bacteria on gut mucus, four visibly changing it and two leaving it untouched`
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
 
-## 7. Hero alt text (EN)
-
-`A wide illustration of identical rod-shaped probiotic cells meeting the same stretch of gut lining, where only some of them change what they touch`
+- en preview alt: "Illustration: two identical groups of rod-shaped bacteria on rippled gut mucus; the mucus shifts under one and not the other"
+- en hero alt: "Illustration: six identical clusters of rod-shaped bacteria settle on the same gut mucus; under four the mucus visibly changes, under two it stays untouched"
+- ru preview alt: "Иллюстрация: две одинаковые группы палочковидных бактерий на волнистой кишечной слизи; под одной слизь меняется, под другой нет"
+- ru hero alt: "Иллюстрация: шесть одинаковых скоплений палочковидных бактерий оседают на одну и ту же кишечную слизь; под четырьмя она заметно меняется, под двумя остаётся нетронутой"
 
 ## 8. What must never appear
 
@@ -66,20 +67,27 @@ No second number goes into the image. Every other figure in the piece — the 1.
 - **No people, faces, hands or bodies**, and no human digestive anatomy drawn as a body part — no torso, no cutaway abdomen, no mouth.
 - **No medical horror** — no blood, pus, wounds, inflamed or ulcerated tissue.
 - **No before/after split panel, no collage, no inset, no diptych.** One frame, one world; the three beats live inside a single composition.
-- **Preview is never a crop of the hero and the hero is never a crop of the preview** — two masters, born natively at their own ratios.
+- **Neither master is ever a crop of the other** — two masters, born natively at their own ratios.
 - No black background, no blue neon glow, no false-colour electron-micrograph cliché, no stock DNA helix, no glowing pill, no invented microscope or screen interface.
 - Nothing that could be mistaken for a real photograph or a real diagnostic image.
 
 ## 9. File keyword
 
-`why-did-a-probiotic-work-for-my-friend-preview` · `why-did-a-probiotic-work-for-my-friend-hero` (with `-og`, `-thumb` and `@2x` derived per `docs/BRAND_IMAGE_SPEC.md` §1). One slug serves every locale; only `alt` changes per language.
+Stem `why-did-a-probiotic-work-for-my-friend`, with the two slot suffixes and the `-og`, `-thumb` and `@2x` derivatives of `docs/BRAND_IMAGE_SPEC.md` §1. One slug serves every locale; only the descriptive line changes per language.
 
 ## 10. Locales live for this piece
 
-**`en`** (`en.md`, voice greger, status published) and **`ru`** (`ru.md`, voice komarovsky, status published) — both dated 2026-09-04. No other locale file exists in this folder, so no other locale is declared. The two images are shared by both; the RU `alt` lines come from Alexandra Vetrova, not from a translation of mine.
+**`en`** (`en.md`, voice greger, status published) and **`ru`** (`ru.md`, voice komarovsky, status published) — both dated 2026-09-04. No other locale file exists in this folder, so no other locale is declared. The two images are shared by both; the Russian lines in fields 6–7 still pass through Alexandra Vetrova's register gate.
 
 ---
 
 **Truth note.** No product appears in either frame and no health claim is made by either image, so no Maya consult is needed for this brief. The only number in the images is the sourced four of six (McFarland 2018), shown as a count of clusters.
 
 — Magnus Larsen · 2026-09-04
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** two small, identical groups of rice-grain rods resting a little apart on the mucus surface — same shape, size and colour; under the nearer group the fine ripples of the mucus have loosened into a changed, softer pattern, under the other they run on unbroken. The nearer group sharp, the far one slightly soft. Subject inside the middle 1.91:1 band. **World:** the upper surface of the gut mucus layer, finely rippled and crisp like wind-packed snow; clear icy early-morning light, cool and bright, low from the left, thin sharp shadows in the ripples. **Accent:** gold on the changed mucus under the nearer group only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** read left to right — six identical clusters of rods drifting down toward the mucus film on the left; the same six touching down on the same film over rounded folds in the centre; on the right the six at rest in a row, the film visibly changed beneath four and untouched beneath two. **Light:** neutral, crisp noon light from directly overhead, short contact shadows. **Accent:** lime on the changed film beneath the four clusters only.

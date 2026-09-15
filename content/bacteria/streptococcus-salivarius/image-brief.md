@@ -34,46 +34,60 @@ Plain words only. I do not write prompts, camera settings or engine names — th
                                                of focus, nothing threatening. The reader should feel "this has been here
                                                since my first day and it is minding the place."
 
-6. Hero scene (one sentence, one moment):      Magnus at a laboratory bench in morning window light, lifting a lidded
-                                               culture plate with small pale colonies up toward the window and looking at
-                                               it the way a person looks at something useful that still deserves respect —
-                                               the scientist explains, mid-thought, about to tell you both halves of the story.
+6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16:
+                                               Streptococcus salivarius settles on the tongue within days of birth and
+                                               defends its patch with bacteriocins, protein antibiotics aimed at rival
+                                               bacteria.
 
-7. Cast — R2 REF file name(s), Owner-named:    refs/characters/MagnusLarsen.jpg (Magnus's own REF — the scene is
-                                               "the scientist explains"; no second person)
+7. Three beats (first → next → outcome):       (1) short bead-chains of round cells settle into the saliva film between
+                                               soft rounded ridges; (2) they release a fine scatter of tiny protein-
+                                               antibiotic particles into the film around them; (3) outcome: rival chains
+                                               drifting toward the patch go slack and pale at its edge, and the patch
+                                               stays held.
 
-8. Place + wardrobe (credible, no logos):      A real teaching-lab bench: plain white lab coat over a visible knit or
-                                               shirt collar, both layers showing; on the bench a couple of lidded culture
-                                               plates and a plain notebook, nothing labelled. Magnus on one side of the
-                                               wide frame, the bench and the window on the other; eyes in the upper third.
+8. The one number (keyFacts, source id):       none shown — clause dropped. The keyFacts figures count newborns (12,
+                                               s1), years of searching (about 40, s3), days and weeks of detection
+                                               (day 8, three weeks, s5) and trials and participants (four, 1 846, s8);
+                                               none is a count or share of cells on the tongue, and a time course cannot
+                                               be shown by scale in one frame without drawing a chart.
 
 9. Must not appear:                            Any product, any packaging, any lozenge or probiotic box; any text, letters,
-                                               labels, scale bars or microscope screen; branded lab glassware; an invented
-                                               face or hand; a second person; a collage or split frame; a syringe, needle,
-                                               spinal tap or hospital scene (the dark side is told in words, not pictured);
-                                               yoghurt or a yoghurt pot (that is the other species); blue neon, black
-                                               background, false-colour electron-microscope look; pus, wounds, blood.
+                                               labels, scale bars or microscope screen; branded lab glassware; no person,
+                                               face or hand in either frame; no tongue or mouth drawn as a body part — the
+                                               ridges are a cell-scale landscape only; a collage or split frame; a syringe,
+                                               needle, spinal tap or hospital scene (the dark side is told in words, not
+                                               pictured); yoghurt or a yoghurt pot (that is the other species); blue neon,
+                                               black background, false-colour electron-microscope look; pus, wounds, blood.
 
-10. Locales + alt text per locale:             en — preview: "Chains of round Streptococcus salivarius cells resting in a
-                                               film of saliva on the ridged surface of the tongue, illustration" (124 chars)
-                                               en — hero: "Magnus Larsen at a laboratory bench lifting a lidded culture
-                                               plate toward the window light and studying its small colonies"
-                                               ru / de / ja / ar — one line each via Alexandra once EN is accepted;
-                                               the image set is shared, only the alt changes.
+10. Locales + alt text per locale:
+
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
+
+- en preview alt: "Illustration: bead-like chains of round bacteria rest in a wet film between soft ridges, a faint coral halo around one chain"
+- en hero alt: "Illustration: chains of round bacteria settle in a wet film on soft ridges and release tiny gold particles; rival chains drifting in go slack at the edge of their patch"
+- ru preview alt: "Иллюстрация: цепочки круглых бактерий лежат во влажной плёнке между мягкими бугорками, вокруг одной цепочки слабый коралловый ореол"
+- ru hero alt: "Иллюстрация: цепочки круглых бактерий оседают во влажной плёнке на мягких бугорках и выпускают крошечные золотые частицы; чужие цепочки, подплывая, обмякают у края их участка"
 ```
 
 ---
 
-## For Lisa's understanding — beyond the template
+## For Lisa's and Otto's understanding — beyond the template
 
-**The single idea both images carry:** a good neighbour, defined by its address. On the tongue it keeps the peace; the preview shows it at home, the hero shows the person who knows where it must never be allowed to go.
-
-**File-name keyword (Jurgen's pattern):** `streptococcus-salivarius-preview` · `streptococcus-salivarius-hero` (og and thumb follow Marika's table from the preview master).
+**The single idea both images carry:** a good neighbour, defined by its address. On the tongue it keeps the peace and holds its ground against rivals; where it must never be allowed to go is told in the article's words, not in pixels.
 
 **Priority:** bacteria entry — evergreen, not this week's news. Behind any dated news piece in the queue.
 
 **The mechanism in one sentence:** *S. salivarius* holds its ground on the tongue by making its own targeted protein antibiotics against rival streptococci and by splitting urea into ammonia, which buffers the acid that would otherwise favour the decay-causing bacteria — and it is harmless only as long as it stays on that soft tissue, because carried into the spinal fluid on a contaminated needle it becomes a cause of meningitis.
 
-**What "truth" means for acceptance (Marika's checklist item 9):** chains of round cells on soft tongue tissue in saliva. If the frame shows rods, grape-like clusters, cells on tooth enamel or in plaque, it is a different organism and is rejected.
+**What "truth" means for acceptance (Marika's checklist item 9):** chains of round cells on soft ridged tissue in saliva. If a frame shows rods, grape-like clusters, cells on tooth enamel or in plaque, it is a different organism and is rejected.
 
-— Magnus Larsen · 2026-09-02
+**File-name keyword (Jurgen's pattern):** `streptococcus-salivarius-preview` · `streptococcus-salivarius-hero` (og and thumb follow Marika's table from the preview master).
+
+— Magnus Larsen · 2026-09-02 · fields 6–10 updated 2026-09-16
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** three or four bead-chains of round cells resting in the wet film in the hollow between two soft rounded ridges; the nearest chain sharpest. Subject inside the middle 1.91:1 band. **World:** the soft, rounded, finely textured ridges of tongue papillae as a cell-scale landscape, glistening with a thin saliva film; cold bright snow-bounce light, even and crisp, white-blue temperature bouncing up from below. **Accent:** coral as a faint halo in the film around the sharpest chain only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left, bead-chains settling into the wet film between soft ridges; centre, the chains releasing a fine scatter of tiny particles into the film; right, grey rival chains drifting in and going slack at the patch's edge while the patch holds. The eye reads left to right. **Light:** golden late-afternoon light raking low from the right. **Accent:** gold on the protein-antibiotic particles.

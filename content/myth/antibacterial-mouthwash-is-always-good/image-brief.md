@@ -44,24 +44,32 @@ Built on the article's own H2 skeleton. The eye must walk it in one path.
 
 **Ninety per cent: oral nitrite production cut to a tenth.** Seven days of chlorhexidine rinsing cut oral nitrite production by 90 % and plasma nitrite by 25 %, and systolic and diastolic blood pressure rose by 2–3.5 mmHg — Kapil V. et al., *Free Radical Biology & Medicine*, 2013 (`s2` in the article, doi 10.1016/j.freeradbiomed.2012.11.013, PMID 23183324).
 
-Shown as **proportion, in the third beat**: the flow leaving the intact mat is a wide, dense band of particles; the flow leaving the thinned mat is unmistakably **one tenth of it** — a thin thread beside a broad stream. The gap must be obvious at a glance without counting. The number is never printed, never labelled, never written anywhere in the pixels; scale and quantity carry all of it.
+Shown as **proportion, in the third beat**: the flow leaving the intact mat is a wide, dense band of particles; the flow leaving the thinned mat is unmistakably **one tenth of it** — a thin thread beside a broad stream: about forty particles rising from the intact mat, four from the thinned one. The gap must be obvious at a glance without counting. The number is never printed, never labelled, never written anywhere in the pixels; scale and quantity carry all of it.
 
-**6. Preview alt text (EN, ≤ 125 characters)**
+**6–7. Alt text**
 
-Illustration: mixed bacterial mat in tongue grooves, thinned by an antiseptic rinse, its flow to a vessel cut to a tenth
+Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
 
-**7. Hero alt text (EN)**
-
-Illustration: the resident bacterial mat on the tongue's grooved surface — plump rods, clustered round cells, paired cells and slender spindles together — swept by a clear antiseptic rinse that spares none of them, leaving a thinner, lopsided community whose broad flow toward an open blood vessel has fallen to a thin thread while the vessel wall draws tighter.
+- en preview alt: "Illustration: a clear rinse sweeps over a mixed mat of rods, round cells and spindles, leaving it thin behind its edge"
+- en hero alt: "Illustration: a rinse sweeps the mixed bacterial mat on the tongue surface, and the stream of particles it sends toward a blood vessel falls to a tenth"
+- ru preview alt: "Иллюстрация: прозрачный ополаскиватель накрывает смешанный слой палочек, круглых клеток и веретён и оставляет его редким за своей кромкой"
+- ru hero alt: "Иллюстрация: ополаскиватель смывает смешанный слой бактерий на поверхности языка, и поток частиц, который этот слой посылает к сосуду, падает до десятой части"
 
 **8. What must never appear**
 
-No mouthwash bottle, cap, measuring cup, sachet, tube, toothbrush, toothpaste, pack or label of any kind — no product and nothing product-shaped, and no brand mark: this piece carries no product mention at all and the pixels must carry none either. No blood-pressure cuff, gauge, dial, monitor, syringe or any medical device — a dial has numerals on it. No text, letters, numerals, digits, labels, worded arrows, scale bars, graphs, charts, watermarks, invented microscope or screen interfaces; a printed figure would undo the whole point of showing the 90 % by proportion. No people, faces, hands or bodies — and specifically no human mouth: the tongue appears only as a micro-landscape of papillae and grooves, never as a tongue in a face, never with lips, teeth, gums or a jaw in the frame. No medical horror — no blood, no wound, no pus, no inflamed or ulcerated tissue; the vessel in the third beat is a calm soft form, not an anatomical specimen. No black background, no blue neon glow, no false-colour electron-micrograph cliché, no stock DNA helix, no glowing pill, no bubbling antiseptic foam presented as a hero object. No collage of separate plates, no split panel, no inset, no frame divided by a drawn line — the three beats live in one continuous space. No hero that is a wider version of the preview and no preview cut from the hero — two frames, two worlds. And no single-species field, no spores, no spirals, no branching filaments: the mixture described in field 3 is the truth of this frame.
+No mouthwash bottle, cap, measuring cup, sachet, tube, toothbrush, toothpaste, pack or label of any kind — no product and nothing product-shaped, and no brand mark: this piece carries no product mention at all and the pixels must carry none either. No blood-pressure cuff, gauge, dial, monitor, syringe or any medical device — a dial has numerals on it. No text, letters, numerals, digits, labels, worded arrows, scale bars, graphs, charts, watermarks, invented microscope or screen interfaces; a printed figure would undo the whole point of showing the 90 % by proportion. No people, faces, hands or bodies — and specifically no human mouth: the tongue appears only as a micro-landscape of papillae and grooves, never as a tongue in a face, never with lips, teeth, gums or a jaw in the frame. No medical horror — no blood, no wound, no pus, no inflamed or ulcerated tissue; the vessel in the third beat is a calm soft form, not an anatomical specimen. No black background, no blue neon glow, no false-colour electron-micrograph cliché, no stock DNA helix, no glowing pill, no bubbling antiseptic foam presented as the main object. No collage of separate plates, no split panel, no inset, no frame divided by a drawn line — the three beats live in one continuous space. Neither master is a wider version or a crop of the other — two frames, two worlds. And no single-species field, no spores, no spirals, no branching filaments: the mixture described in field 3 is the truth of this frame.
 
 **9. File keyword**
 
-`antibacterial-mouthwash-is-always-good-preview` and `antibacterial-mouthwash-is-always-good-hero`.
+Stem `antibacterial-mouthwash-is-always-good`, with the two slot suffixes of `docs/BRAND_IMAGE_SPEC.md` §1 (card master 3:2, article master 16:9).
 
 **10. Locales live for this piece**
 
-`en` and `ru` — both files exist and are published. One image set serves both; only the alt line changes per language. English alt above; the Russian alt comes from Alexandra Vetrova, not from a translation of mine.
+`en` and `ru` — both files exist and are published. One image set serves both; only the descriptive line changes per language. English and Russian lines are in fields 6–7; the Russian register still passes through Alexandra Vetrova.
+
+## Slot and focus — Marika Nowicka · 2026-09-16
+
+Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{aspect-ratio:16/9}`.
+
+- **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** the advancing edge of a clear rinse — a thin liquid sheet with a rounded, beaded rim — rolling across the mixed mat: ahead of the rim the grooves are packed with plump rods, bunched round cells, paired cells and slender spindles; behind it the mat is thin and patchy with every shape reduced. The rim sharp at the centre, both sides softening away. The low rounded papillae read as a cell-scale landscape, never as an organ. Subject inside the middle 1.91:1 band. **World:** a soft, velvety biofilm mat over low rounded papillae and shaded grooves, half under a clear wash; soft rose evening light, low and warm-pink, from the right. **Accent:** lime on the beaded rim of the advancing rinse only.
+- **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** one continuous grooved landscape read left to right under a soft tube-like vessel that runs along the top of the frame — on the left the packed mixed mat sends a broad stream of about forty particles up into a wide, relaxed stretch of the vessel; in the centre a clear rinse sweeps across the grooves; on the right the thinned, lopsided mat sends only four particles up into a slightly narrower stretch. **Light:** pale, cool backlight from behind the scene, rim-lighting every edge. **Accent:** gold on the rising particles only.

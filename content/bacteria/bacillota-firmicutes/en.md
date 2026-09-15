@@ -115,8 +115,8 @@ images:
   preview: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-preview.webp"
   hero: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-hero.webp"
   og: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-og.jpg"
-  previewAlt: "Illustration of thick-walled rod bacteria, a few holding spores, resting on a strand of plant fibre"
-  heroAlt: "Magnus Larsen at a lab bench holding a culture plate up to the window light, a rack of plates beside him"
+  previewAlt: "Illustration: thick-walled rod bacteria, two holding oval spores, resting on a starch granule pitted coral where they feed"
+  heroAlt: "Illustration: thick-walled rods break down a resistant starch granule into gold butyrate droplets that the colon lining takes in; six of the ten rods carry a spore"
 referral:
   product: ""
   mayaLog: ""

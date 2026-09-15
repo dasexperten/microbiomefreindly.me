@@ -65,8 +65,8 @@ images:
   preview: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-preview.webp"
   hero: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-hero.webp"
   og: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-og.jpg"
-  previewAlt: "Short rods of Bacteroides fragilis on a pale mucus film, membrane rims catching light as faint air motes drift by"
-  heroAlt: "Magnus Larsen at a morning lab bench, holding a plain sealed culture vessel up to the light as he explains a finding"
+  previewAlt: "Illustration: short rods of Bacteroides fragilis backlit on a young gut surface, one sealed membrane rim gleaming lime"
+  heroAlt: "Illustration: a short rod holds its sealed membrane rim while air motes drift past, and the same membrane fat is handed on to a young immune cell that grows by reading it"
 referral:
   product: ""
   mayaLog: ""
