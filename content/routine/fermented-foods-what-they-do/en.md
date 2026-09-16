@@ -1,6 +1,6 @@
 ---
 title: "Fermented foods: the microbes you eat aren't the point"
-meta: "Stanford put 36 adults through a 17-week trial, half of them on a target of six servings a day: gut diversity rose and 19 inflammatory proteins fell. The swallowed microbes were not the cause — and the jar still has to be a live one."
+meta: "Stanford put 36 adults through a 17-week trial, half on six servings a day: gut diversity rose and 19 inflammatory proteins fell — not from the microbes."
 kicker: "Fermented foods"
 type: routine
 topic: gut
@@ -10,7 +10,7 @@ date: 2026-09-04
 asOf: 2026-09-04
 author: magnus-larsen
 voice: greger
-answer: "Kefir, yoghurt, kimchi and sauerkraut carry live lactic acid bacteria — the souring microbes of the ferment — up to 10¹¹ cells, a hundred billion, in one serving. In a 17-week Stanford trial (Cell, 2021), six servings a day raised gut microbial diversity, the count of different species living in you, and lowered 19 inflammatory blood proteins, the markers that rise when the body runs hot. The bacteria you swallow mostly do not settle; your resident community — the microbes already living down there — shifts instead. Pasteurised versions, heated until nothing in them is alive, contain none, which is why the live jar is still the one to buy."
+answer: "Kefir, yoghurt, kimchi and sauerkraut carry live lactic acid bacteria, up to a hundred billion cells a serving. In a 17-week Stanford trial (Cell, 2021), six servings a day raised gut microbial diversity and lowered 19 inflammatory blood proteins. The bacteria you swallow mostly do not settle; your resident community shifts instead. Pasteurised jars contain none."
 keyFacts:
   - fact: "Retail yoghurt cultures range from under 10⁴ to 10⁹ CFU per gram or mL; commercial kimchi carries 7.14–9.23 log CFU/g of lactic acid bacteria, while reported sauerkraut counts run from 3.79 to 8.3 log CFU/g across studies."
     source: s3

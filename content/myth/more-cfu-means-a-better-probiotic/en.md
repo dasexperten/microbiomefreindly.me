@@ -10,7 +10,7 @@ date: 2026-09-04
 asOf: 2026-09-04
 author: magnus-larsen
 voice: greger
-answer: "Partly true. Dose matters, but only inside one strain — one named variety of a bacterium — and one outcome, meaning the exact illness being treated. In one trial 100 billion CFU (colony-forming units, the count of live bacteria) beat 50 billion for antibiotic-associated diarrhoea; in another, a hundredfold jump in the same organism changed nothing in children with acute diarrhoea. A label number is a claim about quantity, not about evidence."
+answer: "Partly true. Dose matters, but only inside one strain and one outcome. In one trial 100 billion CFU beat 50 billion for antibiotic-associated diarrhoea; in another, a hundredfold jump in the same organism changed nothing in children with acute diarrhoea. A label number is a claim about quantity, not about evidence."
 keyFacts:
   - fact: "In a randomised double-blind dose-ranging trial in 255 hospital inpatients, two probiotic capsules a day of a Lactobacillus acidophilus CL1285 and Lactobacillus casei LBC80R blend (100 billion CFU) lowered antibiotic-associated diarrhoea to 15.5 % against 28.2 % for one capsule (50 billion CFU) and 44.1 % for placebo."
     source: s2

@@ -1,6 +1,6 @@
 ---
 title: "Sleep badly and your gut hears it — then answers"
-meta: "Studies using wrist actigraphy — a watch that records how you actually slept — tie poor, irregular sleep to lower gut diversity, meaning fewer kinds of bacteria. The two controlled human sleep-restriction experiments disagree with each other. What that means for Tuesday."
+meta: "Wrist-watch sleep studies tie poor, irregular sleep to lower gut diversity. The two controlled human sleep-restriction experiments disagree with each other."
 kicker: "Sleep and the gut"
 type: routine
 topic: brain
@@ -10,7 +10,7 @@ date: 2026-09-04
 asOf: 2026-09-04
 author: magnus-larsen
 voice: greger
-answer: "Sleep and the gut move together, but the evidence is far stronger in one direction than the other. Observational work — studies that watch people rather than change anything — links poor, irregular sleep to lower microbial diversity, meaning fewer kinds of bacteria. The two controlled human sleep-restriction experiments disagree: one found two short nights nudged relative abundances, the share each group holds, without changing overall community structure, the mix taken as a whole; the other found no change at all. Trials that treat sleep through the microbiome are small and mostly self-reported. Fibre, and getting up at the same hour every day, are the moves with evidence."
+answer: "Sleep and the gut move together, but the evidence is stronger in one direction. Observational work links poor, irregular sleep to lower microbial diversity. The two controlled human sleep-restriction experiments disagree: one found two short nights nudged the share each group holds; the other found no change. Fibre, and a fixed waking hour, are the moves with evidence."
 keyFacts:
   - fact: "In 720 adults from the Survey of the Health of Wisconsin, greater night-to-night variability in sleep duration, more time awake after falling asleep, lower sleep efficiency and worse self-rated sleep were each associated with lower gut microbiome richness and diversity."
     source: s1

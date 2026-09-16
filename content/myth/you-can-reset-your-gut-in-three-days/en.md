@@ -1,6 +1,6 @@
 ---
 title: "Three days will change your gut. Then it changes back"
-meta: "A three-day gut reset is sold everywhere. The measurements say your gut bacteria shift in one day, revert in two, and keep 60 % of their strains — the specific bacteria you carry — for years."
+meta: "A three-day gut reset is sold everywhere. The measurements say your gut bacteria shift in one day, revert in two, and keep 60 % of their strains for years."
 kicker: "Myth check"
 type: myth
 topic: gut
@@ -10,7 +10,7 @@ date: 2026-09-04
 asOf: 2026-09-04
 author: magnus-larsen
 voice: greger
-answer: "False. Food does move the gut community — the mix of bacteria living in you — and it moves it fast. Eleven volunteers ate two extreme diets in turn, a crossover, with ten of them on each diet: the mix shifted one day after the food arrived, and went back to what it had been two days after the diet stopped (Nature, 2014). Meanwhile about 60 % of an adult's strains — the specific bacteria that person carries — are still there five years later (Science, 2013). Three days changes the reading, not the residents."
+answer: "False. Food does move the gut community, and fast. Eleven volunteers ate two extreme diets in turn: the mix shifted one day after the food arrived and went back two days after the diet stopped (Nature, 2014). About 60 % of an adult’s strains are still there five years later (Science, 2013). Three days changes the reading, not the residents."
 keyFacts:
   - fact: "Gut community composition shifted one day after an entirely animal-based diet reached the gut, and reverted to its original structure two days after that diet ended, in eleven recruited volunteers — ten per five-day diet arm, nine completing both arms."
     source: s1

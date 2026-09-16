@@ -10,7 +10,7 @@ date: 2026-09-04
 asOf: 2026-09-04
 author: magnus-larsen
 voice: greger
-answer: "Because you and your friend did not run the same experiment. The effect depends on the exact strain — the named variety, not just the species — on the dose and how long you take it, and possibly on the gut community you started with. A 2026 trial in 120 overweight adults missed its primary endpoint, the one thing it was built to measure, and saw a weight difference only in a secondary analysis, a look taken after that answer was already in, of the half whose guts held the fewest different bacteria to begin with."
+answer: "Because you did not run the same experiment. The effect depends on the exact strain, the dose, how long you take it, and possibly on the community you started with. A 2026 trial in 120 overweight adults missed its primary endpoint and saw a weight difference only in a later look at the half whose guts held the fewest species."
 keyFacts:
   - fact: "Across 228 randomised trials of 25 identifiable probiotics, efficacy was both strain-specific and disease-specific: 7 of 10 types tested for prevention and 11 of 17 tested for treatment showed significant benefit; the rest did not."
     source: s3

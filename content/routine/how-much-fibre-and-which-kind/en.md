@@ -1,6 +1,6 @@
 ---
 title: "Not all fibre feeds your bacteria, and more isn't better"
-meta: "Fermentable fibre — the kind gut bacteria eat — feeds them; viscous (gel-forming) and coarse fibre do other jobs. How much trials measured, and how to add it without bloating."
+meta: "Fermentable fibre feeds your gut bacteria; viscous and coarse fibre do other jobs. How much the trials measured, and how to add it without bloating."
 kicker: "Food & routine"
 type: routine
 topic: gut
@@ -10,7 +10,7 @@ date: 2026-09-04
 asOf: 2026-09-04
 author: magnus-larsen
 voice: greger
-answer: "Fermentable fibre — fructans, galacto-oligosaccharides, resistant starch, the kinds you cannot digest yourself but your colon bacteria can — is what those bacteria eat. Viscous (gel-forming) and coarse fibres do other jobs entirely. Pooled data from studies that tracked people for years put the greatest risk reduction between 25 g and 29 g a day, and fermentation effects plateau — they level off rather than rise forever. Add it over weeks: gas tracks the daily dose."
+answer: "Fermentable fibre — fructans, galacto-oligosaccharides, resistant starch — is what your colon bacteria eat; you cannot digest it yourself. Viscous and coarse fibres do other jobs. Pooled data from studies tracking people for years put the greatest risk reduction between 25 g and 29 g a day, and fermentation effects plateau. Add it over weeks."
 keyFacts:
   - fact: "Pooling 185 prospective studies and 58 clinical trials, risk reduction across critical outcomes was greatest when daily dietary fibre intake was between 25 g and 29 g; the certainty of that evidence was graded moderate."
     source: s1

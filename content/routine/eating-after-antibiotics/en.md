@@ -1,6 +1,6 @@
 ---
 title: "Nine species still missing: what to eat after antibiotics"
-meta: "Your gut is near baseline — how it was before — 1.5 months after a course, but nine species were undetectable in most men at 180 days. What the food and probiotic trials show."
+meta: "Your gut is near baseline 1.5 months after a course, but nine species were undetectable in most men at 180 days. What the food and probiotic trials show."
 kicker: "After antibiotics"
 type: routine
 topic: gut
@@ -10,7 +10,7 @@ date: 2026-09-04
 asOf: 2026-09-04
 author: magnus-larsen
 voice: greger
-answer: "Fibre-rich plants and fermented foods, and patience. Most of the community — the gut bacteria taken together — was back near baseline, meaning close to how it looked before, about 1.5 months after the 4-day antibiotic cocktail that was studied (Nature Microbiology, 2018), but nine common species were still undetectable in most of the men at 180 days. Probiotics cut antibiotic-associated diarrhoea — the loose stools that come with a course — in outpatient trials, yet the one study of mucosal reconstitution, the rebuilding of the gut lining's own bacteria, found they delayed it."
+answer: "Fibre-rich plants, fermented foods and patience. Most of the community was back near baseline about 1.5 months after the 4-day antibiotic cocktail studied (Nature Microbiology, 2018), but nine common species were still undetectable in most men at 180 days. Probiotics cut antibiotic-associated diarrhoea, yet the one study of the gut lining found they delayed its rebuilding."
 keyFacts:
   - fact: "In 12 healthy men given a 4-day cocktail of meropenem, gentamicin and vancomycin, the gut community returned to near-baseline composition within 1.5 months, but 9 common species present in everyone beforehand were still undetectable in most of them at 180 days."
     source: s1

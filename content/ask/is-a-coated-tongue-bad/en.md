@@ -10,7 +10,7 @@ date: 2026-09-04
 asOf: 2026-09-04
 author: magnus-larsen
 voice: greger
-answer: "Mostly it is normal. The film is shed cells from your own mouth, food remnants and anaerobic bacteria — the kind that live without oxygen — held between the papillae, the tiny bumps that give the tongue its rough surface. In healthy young adults a thin coating at the back — white or a shade of yellow — is the usual finding, not a warning. Three things change that: it thickens, it wipes off and leaves raw tissue underneath, or it comes with a mouth that has gone dry."
+answer: "Mostly it is normal. The film is shed cells, food remnants and airless-loving bacteria caught between the papillae. In young adults a thin coating at the back, white or yellowish, is the usual finding, not a warning. Three things change that: it thickens, it wipes off leaving raw tissue, or the mouth has gone dry."
 keyFacts:
   - fact: "The coating is food remnants, shed epithelial cells and anaerobic bacteria held on roughly 25 cm² of irregular tongue surface."
     source: s1

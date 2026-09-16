@@ -80,7 +80,7 @@ That gene is the reason this story exists. If bad breath is an enzyme doing its 
 
 The study is Haque and colleagues, published in the *Journal of Oral Microbiology* in 2026 [s1]. It has two halves, and they are not equally strong.
 
-The first half was done in culture. The researchers took two lactic-acid bacteria — *Lactobacillus gasseri* HHuMIN D and *Lacticaseibacillus paracasei* OK, together called Complex OK — grew them, and used only the liquid they left behind: the culture supernatant, mixed into the pathogen's medium at 20 %. They exposed two of the mouth's best-known anaerobes to it and measured how loudly *mgl* was expressed.
+The first half was done in culture. The researchers took two lactic-acid bacteria — *Lactobacillus gasseri* HHuMIN D and *Lacticaseibacillus paracasei* OK, together called Complex OK — grew them, and used only the liquid they left behind: the culture supernatant, mixed into the pathogen's medium at 20 %. They exposed two of the mouth's best-known anaerobes to it and measured how loudly *mgl* was expressed [s1].
 
 In [*Porphyromonas gingivalis*](/bacteria/porphyromonas-gingivalis/), the gasseri supernatant cut *mgl* expression by 60 %, the paracasei supernatant by 86 %, and a 1:1 mix of the two by 98 % [s1]. In *Fusobacterium nucleatum*, a member of the [Fusobacteriota](/bacteria/fusobacteriota/), the single strains managed only 15 % and 39 % — but the mix reached 88 % [s1]. Two organisms, same direction: the pair does something neither does alone.
 

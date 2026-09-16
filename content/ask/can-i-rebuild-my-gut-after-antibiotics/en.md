@@ -1,6 +1,6 @@
 ---
 title: "Yes, but not all of it: your gut after antibiotics"
-meta: "Twelve healthy men, three last-resort antibiotics, six months of stool samples: the community came back near baseline in about 1.5 months. Nine species, in most of them, did not."
+meta: "Twelve healthy men, three last-resort antibiotics, six months of samples: the community came back near baseline in 1.5 months. Nine species did not."
 kicker: "Ask Magnus"
 type: ask
 topic: gut

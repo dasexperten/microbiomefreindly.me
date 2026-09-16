@@ -10,7 +10,7 @@ date: 2026-09-04
 asOf: 2026-09-04
 author: magnus-larsen
 voice: greger
-answer: "Some do. Spore-formers — bacteria that travel as tough dormant seeds rather than living cells — survive by construction; delicate strains mostly do not, though encapsulation, a protective coating around the cells, and a meal improve the odds. But survival is the wrong finish line: the study that looked directly at the human gut lining, the mucosa, found swallowed strains viable after the trip, yet settling on that lining in some people and not others — and never in a way a stool test could show. Passing through is not moving in."
+answer: "Some do. Spore-formers survive by construction; delicate strains mostly do not, though a coating and a meal improve the odds. Survival is the wrong finish line: the one study of the human gut lining found swallowed strains viable after the trip, settling in some people and not others. Passing through is not moving in."
 keyFacts:
   - fact: "In a barcoded mouse experiment with a gut pathogen, a population carrying more than 2,000 distinguishable lineages was cut to an average of 12–43 founding lineages across the gut regions sampled."
     source: s1

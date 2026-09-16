@@ -1,6 +1,6 @@
 ---
 title: "Mouthwash kills the microbes your blood pressure needs"
-meta: "Is killing more mouth bacteria always better? A 2013 trial says no: seven days of antiseptic rinsing cut oral nitrite — raw material for a blood-vessel relaxant — by 90 % and nudged blood pressure up."
+meta: "Is killing more mouth bacteria always better? A 2013 trial says no: seven days of antiseptic rinsing cut oral nitrite by 90 % and nudged blood pressure up."
 kicker: "Myth check"
 type: myth
 topic: oral
@@ -10,7 +10,7 @@ date: 2026-09-04
 asOf: 2026-09-04
 author: magnus-larsen
 voice: greger
-answer: "False. A broad antiseptic rinse does not perform triage — it cannot sort the harmful microbes from the useful ones, so it flattens the resident community, the bacteria that live in your mouth all the time. In a 2013 trial, seven days of chlorhexidine rinsing — chlorhexidine being the antiseptic in prescription mouthwash — cut oral nitrite production, the step your body needs in order to relax blood vessels, by 90 % and raised blood pressure by 2–3.5 mmHg, the units marked on a blood-pressure cuff. A rinse is a treatment for a named problem, not a daily habit."
+answer: "False. A broad antiseptic rinse cannot sort harmful microbes from useful ones, so it flattens your mouth’s own community. In a 2013 trial, seven days of chlorhexidine rinsing cut oral nitrite — what the body uses to relax blood vessels — by 90 % and raised blood pressure by 2–3.5 mmHg. A rinse treats a problem, not a routine."
 keyFacts:
   - fact: "In 36 healthy adults, 7 days of 0.2 % chlorhexidine rinsing shifted the salivary community — more Firmicutes and Proteobacteria, fewer Bacteroidetes and Fusobacteria."
     source: s1
