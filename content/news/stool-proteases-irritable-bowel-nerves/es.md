@@ -1,5 +1,5 @@
 ---
-title: "La colitis nerviosa no está en tu cabeza: unas enzimas pican los nervios"
+title: "La colitis nerviosa no está en tu cabeza"
 meta: "El líquido de las heces de pacientes con colitis nerviosa hizo disparar los nervios del intestino mucho más, según un estudio de 2026 en Gut. Qué muestra."
 kicker: "Colitis nerviosa"
 type: news
@@ -65,16 +65,16 @@ sources:
     doi: "10.1126/science.1110591"
     pmid: "15831718"
 images:
-  card: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-card-en.webp"
-  cardLine: "Is the pain really physical?"
-  cardAlt: "Is the pain really physical? — a woman stops in an office corridor, a forearm pressed across her middle"
-  og: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-og-en.jpg"
+  card: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-card-es.webp"
+  cardLine: "¿El dolor sí es físico?"
+  cardAlt: "¿El dolor sí es físico? — una mujer se detiene en el pasillo de la oficina con el antebrazo cruzado sobre el vientre"
+  og: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-og-es.jpg"
   preview: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-preview.webp"
-  previewAlt: "Illustration: a lace of nerve knots glowing through thin gut tissue, a clear amber film settling on it, a few knots lit coral"
-  plate: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-plate-en.webp"
-  plateLines: "First — stool fluid touches the gut wall · Then — an enzyme clips a nerve receptor · So — the nerve net fires far harder"
+  previewAlt: "Ilustración: un encaje de nudos nerviosos brilla a través de un tejido intestinal delgado, una película ámbar se posa encima y unos nudos se encienden en coral"
+  plate: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-plate-es.webp"
+  plateLines: "Primero — el líquido de las heces toca la pared del intestino · Luego — una enzima corta un receptor nervioso · Resultado — la red nerviosa dispara mucho más"
   hero: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-hero.webp"
-  heroAlt: "Illustration: a thin amber fluid film settles on the gut lining; an enzyme clips a receptor on a nerve cell, which lights up and wakes the knots of the nerve net around it"
+  heroAlt: "Ilustración: una película delgada de líquido ámbar se posa sobre la mucosa del intestino; una enzima corta un receptor de una célula nerviosa, que se enciende y despierta los nudos de la red que la rodea"
 referral:
   product: ""
   mayaLog: ""

@@ -1,5 +1,5 @@
 ---
-title: "Microbiota y sistema inmune: la tolerancia se aprende, no se nace con ella"
+title: "Microbiota y sistema inmune: la tolerancia se aprende"
 meta: "Microbiota y sistema inmune: cómo las bacterias del intestino moldean macrófagos, tolerancia e inflamación, qué se pregunta la gente y qué sigue sin probarse."
 kicker: "Microbiota y sistema inmune"
 type: hubs
@@ -18,16 +18,16 @@ voice: greger
 answer: "El sistema inmunitario no está hecho para eliminar microbios, sino para convivir con ellos. Las bacterias de la mucosa intestinal enseñan a las células de defensa —macrófagos, linfocitos T reguladores— qué señales significan peligro y cuáles vecino. Ese aprendizaje, la tolerancia, empieza al nacer. Cuando falla, el resultado no es una infección, sino inflamación crónica."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/immunity/immunity-card-en.webp"
-  cardLine: "How is tolerance learned?"
-  cardAlt: "How is tolerance learned? — a woman stops at an empty playground gate in low late-afternoon sun"
-  og: "/assets/img/mbf/hubs/immunity/immunity-og-en.jpg"
+  card: "/assets/img/mbf/hubs/immunity/immunity-card-es.webp"
+  cardLine: "¿Cómo se aprende la tolerancia?"
+  cardAlt: "¿Cómo se aprende la tolerancia? — una mujer se detiene ante la reja de un parque infantil vacío bajo el sol de la tarde"
+  og: "/assets/img/mbf/hubs/immunity/immunity-og-es.jpg"
   preview: "/assets/img/mbf/hubs/immunity/immunity-preview.webp"
-  previewAlt: "Illustration: a macrophage under the gut lining curls a coral arm around one rod-shaped bacterium in a warm spot of light"
-  plate: "/assets/img/mbf/hubs/immunity/immunity-plate-en.webp"
-  plateLines: "First — bacteria signal across the wall · Then — the patrol cell stays quiet · So — tolerance holds, no alarm"
+  previewAlt: "Ilustración: un macrófago bajo la mucosa del intestino rodea con un brazo coral a una bacteria alargada en un punto de luz cálida"
+  plate: "/assets/img/mbf/hubs/immunity/immunity-plate-es.webp"
+  plateLines: "Primero — las bacterias avisan a través de la pared · Luego — la célula de guardia sigue tranquila · Resultado — la tolerancia aguanta, sin alarma"
   hero: "/assets/img/mbf/hubs/immunity/immunity-hero.webp"
-  heroAlt: "Illustration: bacteria above the one-cell-thick gut lining release small molecules; a macrophage below takes them in and stays calm beside gold regulatory T cells"
+  heroAlt: "Ilustración: las bacterias sobre la mucosa del intestino, de una sola célula de grosor, sueltan moléculas pequeñas; debajo, un macrófago las recoge y sigue en calma junto a linfocitos T reguladores dorados"
 referral:
   product: ""
   mayaLog: ""

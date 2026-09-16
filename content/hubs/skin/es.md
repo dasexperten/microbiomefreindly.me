@@ -1,5 +1,5 @@
 ---
-title: "El eje intestino piel: cómo habla el intestino con tu piel y hasta dónde"
+title: "El eje intestino piel: hasta dónde llega de verdad"
 meta: "El eje intestino piel: cómo llegan a la piel los metabolitos y las células de defensa del intestino, y qué se pregunta del acné, el eccema y la rosácea."
 kicker: "Eje intestino–piel"
 type: hubs
@@ -18,16 +18,16 @@ voice: greger
 answer: "El eje intestino–piel une intestino y piel en ambos sentidos. Las bacterias del intestino moldean las células inmunitarias y los metabolitos que llegan a la piel; los microbios de la piel responden a ese tono. Eccema, acné y rosácea se asocian a cambios intestinales por inflamación, barrera y dieta, no por bacterias que viajen a la cara."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/skin/skin-card-en.webp"
-  cardLine: "Can the gut show on skin?"
-  cardAlt: "Can the gut show on skin? — a woman at a sunlit window in the morning, fingertips resting at her jaw"
-  og: "/assets/img/mbf/hubs/skin/skin-og-en.jpg"
+  card: "/assets/img/mbf/hubs/skin/skin-card-es.webp"
+  cardLine: "¿La piel refleja el intestino?"
+  cardAlt: "¿La piel refleja el intestino? — una mujer junto a la ventana soleada por la mañana, las yemas en la mandíbula"
+  og: "/assets/img/mbf/hubs/skin/skin-og-es.jpg"
   preview: "/assets/img/mbf/hubs/skin/skin-preview.webp"
-  previewAlt: "Illustration: grape-like clusters of round bacteria on flat skin surface cells, and coral short rods at the rim of a pore"
-  plate: "/assets/img/mbf/hubs/skin/skin-plate-en.webp"
-  plateLines: "First — gut bacteria release molecules · Then — blood carries them, not bacteria · So — the skin's own microbes answer"
+  previewAlt: "Ilustración: racimos de bacterias redondas sobre las células planas de la superficie de la piel y bastones cortos de color coral en el borde de un poro"
+  plate: "/assets/img/mbf/hubs/skin/skin-plate-es.webp"
+  plateLines: "Primero — las bacterias del intestino sueltan moléculas · Luego — la sangre las lleva, a ellas no · Resultado — responden los microbios de la piel"
   hero: "/assets/img/mbf/hubs/skin/skin-hero.webp"
-  heroAlt: "Illustration: gut bacteria stay put while lime molecules and immune cells from the gut lining travel in the bloodstream to the skin surface and its own microbes"
+  heroAlt: "Ilustración: las bacterias del intestino se quedan donde están mientras moléculas de color lima y células de defensa de la mucosa viajan por la sangre hasta la superficie de la piel y sus propios microbios"
 referral:
   product: ""
   mayaLog: ""

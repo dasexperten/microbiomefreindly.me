@@ -23,9 +23,9 @@ keyFacts:
     source: s3
   - fact: "Quítale la fibra de la dieta a una comunidad intestinal y esta recurre a las glucoproteínas del moco que segrega su huésped como fuente de nutrientes —con miembros de Bacteroides entre las degradadoras—, desgastando la barrera de moco del colon."
     source: s5
-  - fact: "Bacteroides fragilis supone solo alrededor del 0,5 % de la flora del colon humano y, aun así, es el patógeno anaerobio que más se aísla; las especies de Bacteroides aparecen en la mayoría de las infecciones anaerobias, con una mortalidad asociada de más del 19 %."
+  - fact: "Bacteroides fragilis supone solo alrededor del 0,5 % de la flora del colon humano y, aun así, es el patógeno anaerobio que más se aísla; las especies de Bacteroides aparecen en la mayoría de las infecciones anaerobias, con una mortalidad asociada de más del 19 %."
     source: s6
-  - fact: "En pacientes con neoplasia colorrectal, el gen de la toxina de B. fragilis apareció en el 85,7 % de las muestras de mucosa del lado izquierdo y en el 91,7 % del lado derecho, frente al 53,1 % y el 55,5 % en los controles."
+  - fact: "En pacientes con neoplasia colorrectal, el gen de la toxina de B. fragilis apareció en el 85,7 % de las muestras de mucosa del lado izquierdo y en el 91,7 % del lado derecho, frente al 53,1 % y el 55,5 % en los controles."
     source: s9
 faq:
   - q: "¿Bacteroidota es buena o mala para mí?"
@@ -33,7 +33,7 @@ faq:
   - q: "¿Por qué el nombre cambia entre Bacteroidetes y Bacteroidota?"
     a: "Porque el rango de filo entró hace muy poco en las reglas formales de la nomenclatura de procariotas. En 2021, un artículo del International Journal of Systematic and Evolutionary Microbiology dio rango formal a 42 nombres de filos, y Bacteroidetes pasó a ser Bacteroidota. Los artículos antiguos y la mayoría de las bases de datos siguen llevando el nombre viejo, así que aparecen los dos."
   - q: "¿Un índice alto de Bacteroidota frente a Firmicutes significa que estoy sano o que tengo sobrepeso?"
-    a: "Las pruebas no respaldan ese uso. Un metaanálisis de 2016 que juntó diez conjuntos de datos no encontró ninguna asociación significativa entre la obesidad y el índice Bacteroidetes/Firmicutes, y los modelos que predecían obesidad a partir de la composición de la comunidad intestinal sacaron una precisión mediana de entre el 33,01 % y el 64,77 %. Toma ese índice como un titular, no como un resultado."
+    a: "Las pruebas no respaldan ese uso. Un metaanálisis de 2016 que juntó diez conjuntos de datos no encontró ninguna asociación significativa entre la obesidad y el índice Bacteroidetes/Firmicutes, y los modelos que predecían obesidad a partir de la composición de la comunidad intestinal sacaron una precisión mediana de entre el 33,01 % y el 64,77 %. Toma ese índice como un titular, no como un resultado."
   - q: "¿Las Bacteroidota viven en algún sitio además del intestino?"
     a: "Sí. El filo también domina en el suelo, donde sus miembros segregan baterías de enzimas activas sobre carbohidratos para descomponer glicanos de plantas y de hongos. En el cuerpo, sus parientes ocupan la boca, las vías respiratorias y la vagina, y uno de ellos, Porphyromonas gingivalis, es el ejemplo de manual de un organismo poco abundante capaz de remodelar toda una comunidad."
   - q: "¿Puedo comer de modo que tenga más Bacteroidota?"
@@ -106,16 +106,16 @@ entity:
   wikidata: "Q9810870"
   ncbiTaxId: "976"
 images:
-  card: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-card-en.webp"
-  cardLine: "What happens without fibre?"
-  cardAlt: "What happens without fibre? — a woman in her forties sets a paper bag of greens on a market table at noon"
-  og: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-og-en.jpg"
+  card: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-card-es.webp"
+  cardLine: "¿Qué pasa sin fibra?"
+  cardAlt: "¿Qué pasa sin fibra? — una mujer de unos cuarenta deja una bolsa de papel con verduras en un puesto del mercado"
+  og: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-og-es.jpg"
   preview: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-preview.webp"
-  previewAlt: "Illustration: plump Bacteroidota rods gathered on the frayed, lime-tinted torn end of a plant fibre strand, lit from behind"
-  plate: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-plate-en.webp"
-  plateLines: "First — plant fibre reaches them whole · Then — they take it apart for you · So — no fibre, and they eat your lining"
+  previewAlt: "Ilustración: bastones rollizos de Bacteroidota reunidos en el extremo deshilachado, teñido de lima, de una hebra de fibra vegetal, iluminados desde atrás"
+  plate: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-plate-es.webp"
+  plateLines: "Primero — la fibra vegetal les llega entera · Después — la desarman para ti · Resultado — sin fibra, se comen tu mucosa"
   hero: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-hero.webp"
-  heroAlt: "Illustration: plump rods take plant fibre apart into gold fragments above a thick mucus layer; further right, with no fibre left, the same rods graze the mucus and it thins"
+  heroAlt: "Ilustración: bastones rollizos deshacen fibra vegetal en fragmentos dorados sobre una capa gruesa de moco; más a la derecha, sin fibra, esos mismos bastones pastan el moco y la capa adelgaza"
 referral:
   product: ""
   mayaLog: ""
@@ -154,11 +154,11 @@ La salvedad, dicha en voz alta: eran ratones libres de gérmenes. Es una demostr
 
 ## Qué hace en nuestra contra
 
-**Fuera del intestino es un patógeno serio.** La revisión de Hannah Wexler en *Clinical Microbiology Reviews* es tajante con la aritmética: las especies de *Bacteroides* aparecen en la mayoría de las infecciones anaerobias, con una mortalidad asociada de más del 19 %, y *B. fragilis* —que supone solo alrededor del 0,5 % de la flora del colon humano— es el patógeno anaerobio que más se aísla, por sus factores de virulencia y no por su abundancia [s6]. Cuando la pared del intestino se rompe por una cirugía, una perforación o un traumatismo, una habitante silenciosa se convierte en un absceso.
+**Fuera del intestino es un patógeno serio.** La revisión de Hannah Wexler en *Clinical Microbiology Reviews* es tajante con la aritmética: las especies de *Bacteroides* aparecen en la mayoría de las infecciones anaerobias, con una mortalidad asociada de más del 19 %, y *B. fragilis* —que supone solo alrededor del 0,5 % de la flora del colon humano— es el patógeno anaerobio que más se aísla, por sus factores de virulencia y no por su abundancia [s6]. Cuando la pared del intestino se rompe por una cirugía, una perforación o un traumatismo, una habitante silenciosa se convierte en un absceso.
 
 **Carga con una resistencia a antibióticos formidable.** La misma revisión señala que las especies de *Bacteroides* tienen la mayor cantidad de mecanismos de resistencia a antibióticos y las tasas de resistencia más altas de todos los patógenos anaerobios, con una resistencia clínica creciente a cefoxitina, clindamicina, metronidazol, carbapenémicos y fluoroquinolonas [s6]. Eso es un motivo para usar bien los antibióticos, no para tenerle miedo a tu propio colon.
 
-**Un tipo de cepa tiene expediente oncológico.** Algunos *B. fragilis* llevan un gen de una toxina que secretan. Wu y sus colegas demostraron en *Nature Medicine*, en 2009, que el *B. fragilis* enterotoxigénico, y no la forma no toxigénica, desencadenó colitis e indujo con fuerza tumores de colon en un modelo de ratón con neoplasia intestinal, a través de una vía inflamatoria Th17 que se podía bloquear neutralizando la interleucina-17 [s8]. En personas, Boleij y sus colegas compararon biopsias de mucosa de 49 pacientes con neoplasia colorrectal con las de 49 controles y encontraron el gen de la toxina en el 85,7 % de las muestras del lado izquierdo y en el 91,7 % del lado derecho de los casos, frente al 53,1 % y el 55,5 % de las biopsias de control [s9].
+**Un tipo de cepa tiene expediente oncológico.** Algunos *B. fragilis* llevan un gen de una toxina que secretan. Wu y sus colegas demostraron en *Nature Medicine*, en 2009, que el *B. fragilis* enterotoxigénico, y no la forma no toxigénica, desencadenó colitis e indujo con fuerza tumores de colon en un modelo de ratón con neoplasia intestinal, a través de una vía inflamatoria Th17 que se podía bloquear neutralizando la interleucina-17 [s8]. En personas, Boleij y sus colegas compararon biopsias de mucosa de 49 pacientes con neoplasia colorrectal con las de 49 controles y encontraron el gen de la toxina en el 85,7 % de las muestras del lado izquierdo y en el 91,7 % del lado derecho de los casos, frente al 53,1 % y el 55,5 % de las biopsias de control [s9].
 
 La salvedad, y es grande: eso es una asociación en un estudio pequeño, la mitad de los controles también llevaba el gen, y llevar un gen de toxina no es lo mismo que desarrollar cáncer. El trabajo en ratones muestra que existe un mecanismo; el trabajo en personas muestra una correlación que merece estudiarse. Ninguno demuestra causalidad en personas.
 
@@ -170,6 +170,6 @@ Los dos nombres son correctos; uno es el actual. Hasta hace poco el rango de fil
 
 ## El titular del «índice del intestino delgado» y por qué desconfiar de él
 
-Seguramente te has topado con la idea de que un índice alto de Bacteroidetes frente a Firmicutes marca un intestino de persona delgada. No se ha sostenido. Sze y Schloss juntaron diez conjuntos de datos independientes en *mBio*, en 2016, y encontraron que, aunque algunas medidas de diversidad se asociaban débilmente con la obesidad, el índice Bacteroidetes/Firmicutes y las abundancias de cada filo por separado no lo hacían; los modelos de aprendizaje automático entrenados con un conjunto de datos y probados en los demás lograron una precisión mediana de clasificación de entre el 33,01 % y el 64,77 %, y la diferencia de diversidad de Shannon entre personas con obesidad y sin ella fue del 2,07 % [s11].
+Seguramente te has topado con la idea de que un índice alto de Bacteroidetes frente a Firmicutes marca un intestino de persona delgada. No se ha sostenido. Sze y Schloss juntaron diez conjuntos de datos independientes en *mBio*, en 2016, y encontraron que, aunque algunas medidas de diversidad se asociaban débilmente con la obesidad, el índice Bacteroidetes/Firmicutes y las abundancias de cada filo por separado no lo hacían; los modelos de aprendizaje automático entrenados con un conjunto de datos y probados en los demás lograron una precisión mediana de clasificación de entre el 33,01 % y el 64,77 %, y la diferencia de diversidad de Shannon entre personas con obesidad y sin ella fue del 2,07 % [s11].
 
 Ese es el resumen honesto de una década de titulares. El filo importa enormemente para cómo funciona tu intestino. No es, con las pruebas actuales, un dial que puedas leer en un análisis de heces y sobre el que puedas actuar.

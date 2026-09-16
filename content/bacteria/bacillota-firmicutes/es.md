@@ -1,5 +1,5 @@
 ---
-title: "Bacillota (antes Firmicutes): las «bacterias de la grasa» que no lo son"
+title: "Bacillota (Firmicutes): no son las bacterias de la grasa"
 meta: "Bacillota (antes Firmicutes) le da butirato a tu intestino y alberga a C. difficile. Qué dicen los estudios y por qué el «índice de la grasa» no te diagnostica."
 kicker: "Bacillota"
 type: bacteria
@@ -27,7 +27,7 @@ keyFacts:
     source: s5
   - fact: "Faecalibacterium prausnitzii, un miembro importante de Bacillota, bajó la IL-12 y el IFN-gamma proinflamatorios y subió la IL-10 en células sanguíneas humanas, y su pérdida predijo la recaída de la enfermedad de Crohn 6 meses después de la cirugía."
     source: s6
-  - fact: "Al menos entre el 50 y el 60 % de los géneros bacterianos de un intestino sano forman esporas resistentes, hechas para pasar de una persona a otra; el estudio aisló 137 especies intestinales que se habían dado por «incultivables»."
+  - fact: "Al menos entre el 50 y el 60 % de los géneros bacterianos de un intestino sano forman esporas resistentes, hechas para pasar de una persona a otra; el estudio aisló 137 especies intestinales que se habían dado por «incultivables»."
     source: s7
   - fact: "Clostridioides difficile, miembro de Bacillota, causó unas 453.000 infecciones y alrededor de 29.000 muertes en Estados Unidos en 2011."
     source: s12
@@ -117,16 +117,16 @@ entity:
   wikidata: "Q25519942"
   ncbiTaxId: "1239"
 images:
-  card: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-card-en.webp"
-  cardLine: "Do gut bacteria make you fat?"
-  cardAlt: "Do gut bacteria make you fat? — a woman in her fifties stands beside the bathroom scale at dusk, unimpressed"
-  og: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-og-en.jpg"
+  card: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-card-es.webp"
+  cardLine: "¿Las bacterias del intestino engordan?"
+  cardAlt: "¿Las bacterias del intestino engordan? — una mujer de unos cincuenta junto a la báscula del baño al anochecer"
+  og: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-og-es.jpg"
   preview: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-preview.webp"
-  previewAlt: "Illustration: thick-walled rod bacteria, two holding oval spores, resting on a starch granule pitted coral where they feed"
-  plate: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-plate-en.webp"
-  plateLines: "First — starch reaches the colon whole · Then — rods ferment it to butyrate · So — the lining eats; spores in 50–60 %"
+  previewAlt: "Ilustración: bacterias con forma de bastón y pared gruesa, dos de ellas con esporas ovaladas, sobre un gránulo de almidón picado de coral donde comen"
+  plate: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-plate-es.webp"
+  plateLines: "Primero — el almidón llega entero al colon · Después — los bastones lo fermentan en butirato · Resultado — la mucosa come; esporas en 50–60 %"
   hero: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-hero.webp"
-  heroAlt: "Illustration: thick-walled rods break down a resistant starch granule into gold butyrate droplets that the colon lining takes in; six of the ten rods carry a spore"
+  heroAlt: "Ilustración: bastones de pared gruesa deshacen un gránulo de almidón resistente en gotas doradas de butirato que absorbe la mucosa del colon; seis de los diez llevan una espora"
 referral:
   product: ""
   mayaLog: ""
@@ -159,11 +159,11 @@ Empieza por el mecanismo, porque el beneficio se desprende de él. La fibra y el
 
 La mejor estudiada de esas productoras tiene pruebas propias. Sokol y sus colegas siguieron a pacientes con enfermedad de Crohn después de una resección quirúrgica y encontraron que una proporción menor de F. prausnitzii en la pared intestinal predecía la recaída 6 meses [s6] más tarde. En el laboratorio, la bacteria hizo que células sanguíneas humanas produjeran bastante menos IL-12 e IFN-gamma y más IL-10, y el líquido de su cultivo bloqueó la activación de NF-kappaB, un interruptor central de la inflamación [s6]. La salvedad, dicha en voz alta: el brazo de tratamiento de ese estudio eran ratones con colitis inducida químicamente, no personas. Muestra un mecanismo plausible, no una terapia probada.
 
-También hay un truco de supervivencia. Browne y sus colegas, en el Instituto Sanger, consiguieron cultivar 137 [s7] especies de heces humanas sanas que se habían dado por incultivables, y sus genomas sugerían que al menos entre el 50 y el 60 % [s7] de los géneros bacterianos del intestino forman esporas resistentes. Casi todas esas formadoras de esporas son Bacillota. Las esporas permiten que bacterias intestinales que detestan el oxígeno sobrevivan al viaje de una persona a otra, que es probablemente la razón de que buena parte de esta comunidad se comparta [s7].
+También hay un truco de supervivencia. Browne y sus colegas, en el Instituto Sanger, consiguieron cultivar 137 [s7] especies de heces humanas sanas que se habían dado por incultivables, y sus genomas sugerían que al menos entre el 50 y el 60 % [s7] de los géneros bacterianos del intestino forman esporas resistentes. Casi todas esas formadoras de esporas son Bacillota. Las esporas permiten que bacterias intestinales que detestan el oxígeno sobrevivan al viaje de una persona a otra, que es probablemente la razón de que buena parte de esta comunidad se comparta [s7].
 
 ## Qué hace en nuestra contra
 
-El mismo filo alberga a algunos de los patógenos más serios que llevamos encima. Clostridioides difficile es un miembro de Bacillota formador de esporas que se apodera del colon cuando los antibióticos barren a sus competidores. En una vigilancia activa en 10 [s12] regiones de Estados Unidos, Lessa y sus colegas estimaron 453.000 [s12] infecciones y unas 29.000 [s12] muertes solo en 2011 [s12]; el 65,8 % [s12] de los casos estaban relacionados con la atención sanitaria, y las personas de 65 [s12] años o más tenían una razón de tasas de 8,65 [s12] frente a los adultos más jóvenes. Staphylococcus aureus es el otro ejemplo de todos los días: la revisión de Wertheim señala que quienes lo llevan en la nariz tienen más riesgo de acabar con una infección por su propia cepa, y que la creciente resistencia a los antibióticos de este patógeno complica el tratamiento en todo el mundo [s13].
+El mismo filo alberga a algunos de los patógenos más serios que llevamos encima. Clostridioides difficile es un miembro de Bacillota formador de esporas que se apodera del colon cuando los antibióticos barren a sus competidores. En una vigilancia activa en 10 [s12] regiones de Estados Unidos, Lessa y sus colegas estimaron 453.000 [s12] infecciones y unas 29.000 [s12] muertes solo en 2011 [s12]; el 65,8 % [s12] de los casos estaban relacionados con la atención sanitaria, y las personas de 65 [s12] años o más tenían una razón de tasas de 8,65 [s12] frente a los adultos más jóvenes. Staphylococcus aureus es el otro ejemplo de todos los días: la revisión de Wertheim señala que quienes lo llevan en la nariz tienen más riesgo de acabar con una infección por su propia cepa, y que la creciente resistencia a los antibióticos de este patógeno complica el tratamiento en todo el mundo [s13].
 
 Fíjate en lo que estos dos comparten con los miembros útiles de arriba: la espora, la pared gruesa, la persistencia. Los rasgos que hacen de Bacillota un aliado resistente son los que hacen que sus patógenos sean difíciles de quitar de encima.
 

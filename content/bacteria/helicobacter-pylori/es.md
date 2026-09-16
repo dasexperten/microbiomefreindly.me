@@ -1,5 +1,5 @@
 ---
-title: "La bacteria Helicobacter pylori: cancerígena y, aun así, ligada a menos asma"
+title: "La bacteria Helicobacter pylori: cancerígena y ambigua"
 meta: "La mitad del mundo lleva la bacteria Helicobacter pylori. Causa úlceras y cáncer de estómago, pero va con menos asma y menos cáncer de esófago."
 kicker: "Helicobacter pylori"
 type: bacteria
@@ -113,16 +113,16 @@ entity:
   wikidata: "Q180556"
   ncbiTaxId: "210"
 images:
-  card: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-card-en.webp"
-  cardLine: "Is something this common a pathogen?"
-  cardAlt: "Is something this common a pathogen? — a woman pauses in her hallway after lunch, a hand flat below her ribs"
-  og: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-og-en.jpg"
+  card: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-card-es.webp"
+  cardLine: "¿Tan común y aun así patógena?"
+  cardAlt: "¿Tan común y aun así patógena? — una mujer se detiene en el pasillo tras comer, la mano plana bajo las costillas"
+  og: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-og-es.jpg"
   preview: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-preview.webp"
-  previewAlt: "Illustration: spiral bacteria with a tuft of tails at one end rest in mucus over the stomach lining, one in a clear pocket"
-  plate: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-plate-en.webp"
-  plateLines: "First — it makes a neutral cloud in acid · Then — it drills down into the mucus · So — it fastens to the lining for life"
+  previewAlt: "Ilustración: bacterias en espiral con un penacho de flagelos en un extremo reposan en el moco sobre la mucosa del estómago, una de ellas en una burbuja clara"
+  plate: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-plate-es.webp"
+  plateLines: "Primero — se rodea de una nube neutra en el ácido · Luego — se abre paso hacia el moco · Resultado — se fija a la mucosa de por vida"
   hero: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-hero.webp"
-  heroAlt: "Illustration: a spiral bacterium wraps itself in a small neutral cloud in stomach acid, corkscrews down into the mucus and fastens to the lining beside others already settled"
+  heroAlt: "Ilustración: una bacteria en espiral se envuelve en una pequeña nube neutra dentro del ácido del estómago, se abre paso a rosca hacia el moco y se fija a la mucosa junto a otras ya asentadas"
 referral:
   product: ""
   mayaLog: ""

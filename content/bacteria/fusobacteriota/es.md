@@ -1,5 +1,5 @@
 ---
-title: "Por qué Fusobacterium, la «bacteria del cáncer de colon», es normal en tu boca"
+title: "Fusobacterium: la bacteria del cáncer vive en tu boca"
 meta: "Fusobacteriota (antes Fusobacteria) es un filo entero de bacterias normales de la boca. Un clado pequeño se liga al cáncer de colon; el resto no."
 kicker: "Fusobacteriota"
 type: bacteria
@@ -101,16 +101,16 @@ entity:
   wikidata: ""
   ncbiTaxId: "32066"
 images:
-  card: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-card-en.webp"
-  cardLine: "Should this live in my mouth?"
-  cardAlt: "Should this live in my mouth? — a woman drying her hands at a bathroom basin late at night"
-  og: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-og-en.jpg"
+  card: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-card-es.webp"
+  cardLine: "¿Esto debe vivir en mi boca?"
+  cardAlt: "¿Esto debe vivir en mi boca? — una mujer se seca las manos en el lavabo del baño ya entrada la noche"
+  og: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-og-es.jpg"
   preview: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-preview.webp"
-  previewAlt: "Illustration: a spindle-shaped bacterium lies like a beam between clusters of round cells in a plaque reef, lit from below"
-  plate: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-plate-en.webp"
-  plateLines: "First — round settlers form a layer · Then — long spindles lie across them · So — the plaque holds as one"
+  previewAlt: "Ilustración: una bacteria con forma de huso se tiende como una viga entre grupos de células redondas en un arrecife de placa dental, iluminada desde abajo"
+  plate: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-plate-es.webp"
+  plateLines: "Primero — las colonizadoras redondas forman una capa · Luego — largos husos se tienden encima · Resultado — la placa se sostiene como una sola"
   hero: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-hero.webp"
-  heroAlt: "Illustration: round early settlers form a layer on a mineral surface, long spindle-shaped cells lie across it, and later cells of other shapes fasten along them into one ordered community"
+  heroAlt: "Ilustración: colonizadoras redondas forman una capa sobre una superficie mineral, largas células con forma de huso se tienden encima y células posteriores de otras formas se sujetan a ellas hasta armar una comunidad ordenada"
 referral:
   product: ""
   mayaLog: ""

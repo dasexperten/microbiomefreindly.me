@@ -32,6 +32,10 @@
         "question": "Where did our antibiotics begin?",
         "plateLines": "First — threads grow in damp soil · Then — they release antibiotics · So — two-thirds of ours began here"
       },
+      "es": {
+        "question": "¿De dónde salen los antibióticos?",
+        "plateLines": "Primero — los hilos crecen en tierra húmeda · Después — liberan antibióticos · Resultado — dos tercios de los nuestros nacieron aquí"
+      },
       "ru": {
         "question": "Антибиотики родом из земли?",
         "plateLines": "Сначала — нити растут в сырой земле · Затем — они выделяют антибиотик · Итог — две трети антибиотиков отсюда"
@@ -70,6 +74,10 @@
       "en": {
         "question": "Is eating mucus good news?",
         "plateLines": "First — it settles in your mucus · Then — it grazes a hollow · So — the lining renews it; 1 % of cells"
+      },
+      "es": {
+        "question": "¿Comer moco es buena noticia?",
+        "plateLines": "Primero — se instala en tu moco · Después — pasta un hueco · Resultado — la mucosa lo renueva; 1 % de las células"
       },
       "ru": {
         "question": "Она полезная или вредная?",
@@ -110,6 +118,10 @@
         "question": "Do gut bacteria make you fat?",
         "plateLines": "First — starch reaches the colon whole · Then — rods ferment it to butyrate · So — the lining eats; spores in 50–60 %"
       },
+      "es": {
+        "question": "¿Las bacterias del intestino engordan?",
+        "plateLines": "Primero — el almidón llega entero al colon · Después — los bastones lo fermentan en butirato · Resultado — la mucosa come; esporas en 50–60 %"
+      },
       "ru": {
         "question": "От бактерий полнеют?",
         "plateLines": "Сначала — крахмал доходит целым · Затем — палочки делают из него бутират · Итог — стенка сыта; 50–60 % со спорами"
@@ -148,6 +160,10 @@
       "en": {
         "question": "Do probiotic spores stay?",
         "plateLines": "First — spores arrive asleep and whole · Then — one wakes and sours the sugar · So — they drift past and leave"
+      },
+      "es": {
+        "question": "¿Las esporas se quedan?",
+        "plateLines": "Primero — las esporas llegan dormidas y enteras · Después — una despierta y agria el azúcar · Resultado — pasan de largo y se van"
       },
       "ru": {
         "question": "Пробиотик остаётся в кишечнике?",
@@ -188,6 +204,10 @@
         "question": "What happens without fibre?",
         "plateLines": "First — plant fibre reaches them whole · Then — they take it apart for you · So — no fibre, and they eat your lining"
       },
+      "es": {
+        "question": "¿Qué pasa sin fibra?",
+        "plateLines": "Primero — la fibra vegetal les llega entera · Después — la desarman para ti · Resultado — sin fibra, se comen tu mucosa"
+      },
       "ru": {
         "question": "Что будет без клетчатки?",
         "plateLines": "Сначала — клетчатка доходит целой · Затем — они разбирают её для вас · Итог — без клетчатки едят вашу слизь"
@@ -226,6 +246,10 @@
       "en": {
         "question": "Is every bifidobacterium good?",
         "plateLines": "First — milk sugars pass the baby by · Then — these rods eat what she cannot · So — over 90 % of her gut is theirs"
+      },
+      "es": {
+        "question": "¿Toda bifidobacteria es buena?",
+        "plateLines": "Primero — los azúcares de la leche se le escapan al bebé · Después — estos bastones comen lo que él no puede · Resultado — más del 90 % de su intestino es suyo"
       },
       "ru": {
         "question": "Все бифидобактерии полезные?",
@@ -266,6 +290,10 @@
         "question": "Does carrying it mean illness?",
         "plateLines": "First — the neighbours hold it down · Then — antibiotics sweep them away · So — the spores wake and multiply"
       },
+      "es": {
+        "question": "¿Ser portador es estar enfermo?",
+        "plateLines": "Primero — las vecinas la mantienen a raya · Luego — los antibióticos las barren · Resultado — las esporas despiertan y se multiplican"
+      },
       "ru": {
         "question": "Носитель — значит больной?",
         "plateLines": "Сначала — соседи держат её в узде · Затем — антибиотик сметает соседей · Итог — споры просыпаются и растут"
@@ -304,6 +332,10 @@
       "en": {
         "question": "Is E. coli always dangerous?",
         "plateLines": "First — oxygen seeps from the lining · Then — these rods breathe it away · So — over 90 % of us carry them"
+      },
+      "es": {
+        "question": "¿E. coli es siempre peligrosa?",
+        "plateLines": "Primero — el oxígeno se filtra desde la pared · Luego — estos bastones lo consumen · Resultado — más del 90 % de nosotros los lleva"
       },
       "ru": {
         "question": "Кишечная палочка всегда опасна?",
@@ -344,6 +376,10 @@
         "question": "What feeds your gut lining?",
         "plateLines": "First — it hides where no air reaches · Then — it eats what neighbours drop · So — the lining is fed; over 5 % of all"
       },
+      "es": {
+        "question": "¿Qué alimenta tu mucosa intestinal?",
+        "plateLines": "Primero — se esconde donde no llega el aire · Luego — come lo que sueltan sus vecinas · Resultado — la mucosa se alimenta; más del 5 % del total"
+      },
       "ru": {
         "question": "Чем питается стенка кишечника?",
         "plateLines": "Сначала — прячется там, где нет воздуха · Затем — ест то, что бросили соседи · Итог — стенка сыта; больше 5 % бактерий"
@@ -382,6 +418,10 @@
       "en": {
         "question": "Should this live in my mouth?",
         "plateLines": "First — round settlers form a layer · Then — long spindles lie across them · So — the plaque holds as one"
+      },
+      "es": {
+        "question": "¿Esto debe vivir en mi boca?",
+        "plateLines": "Primero — las colonizadoras redondas forman una capa · Luego — largos husos se tienden encima · Resultado — la placa se sostiene como una sola"
       },
       "ru": {
         "question": "Ей место во рту?",
@@ -422,6 +462,10 @@
         "question": "Is something this common a pathogen?",
         "plateLines": "First — it makes a neutral cloud in acid · Then — it drills down into the mucus · So — it fastens to the lining for life"
       },
+      "es": {
+        "question": "¿Tan común y aun así patógena?",
+        "plateLines": "Primero — se rodea de una nube neutra en el ácido · Luego — se abre paso hacia el moco · Resultado — se fija a la mucosa de por vida"
+      },
       "ru": {
         "question": "Носит половина мира — и опасна?",
         "plateLines": "Сначала — гасит кислоту вокруг себя · Затем — ввинчивается в слизь · Итог — держится на стенке всю жизнь"
@@ -460,6 +504,10 @@
       "en": {
         "question": "Does yogurt live in your gut?",
         "plateLines": "First — rods eat sugar in a still pocket · Then — their acid sours the space · So — in the gut about 0.01 %"
+      },
+      "es": {
+        "question": "¿El yogur vive en tu intestino?",
+        "plateLines": "Primero — los bastones comen azúcar en un hueco quieto · Luego — su ácido acidifica el espacio · Resultado — en el intestino, un 0,01 %"
       },
       "ru": {
         "question": "Йогурт живёт в кишечнике?",
@@ -500,6 +548,10 @@
         "question": "Does carrying it mean disease?",
         "plateLines": "First — it rests quiet among neighbours · Then — the balance tips, its enzymes cut · So — the pocket seeps and feeds it"
       },
+      "es": {
+        "question": "¿Tenerla significa enfermedad?",
+        "plateLines": "Primero — vive tranquila entre vecinas · Luego — el equilibrio se rompe, sus enzimas cortan · Resultado — la bolsa rezuma y la alimenta"
+      },
       "ru": {
         "question": "Нашли — значит, болезнь?",
         "plateLines": "Сначала — тихо живёт среди соседей · Затем — баланс сдвинут, ферменты режут · Итог — карман сочится и кормит её"
@@ -538,6 +590,10 @@
       "en": {
         "question": "Are these the bad bacteria?",
         "plateLines": "First — a few rods in an airless crowd · Then — the sore lining leaks oxygen · So — they bloom and the rest thin out"
+      },
+      "es": {
+        "question": "¿Son las bacterias malas?",
+        "plateLines": "Primero — pocos bastones en una multitud sin aire · Luego — la mucosa herida deja pasar oxígeno · Resultado — se multiplican y el resto mengua"
       },
       "ru": {
         "question": "Это правда плохие бактерии?",
@@ -578,6 +634,10 @@
         "question": "Does everyone carry the cavity germ?",
         "plateLines": "First — sugar lands on the plaque · Then — they spin glue and make acid · So — the enamel under it dissolves"
       },
+      "es": {
+        "question": "¿La tenemos todos?",
+        "plateLines": "Primero — el azúcar cae sobre la placa · Luego — hilan pegamento y hacen ácido · Resultado — el esmalte de abajo se disuelve"
+      },
       "ru": {
         "question": "Он есть у всех?",
         "plateLines": "Сначала — на налёт попадает сахар · Затем — прядут клей и дают кислоту · Итог — эмаль под ним растворяется"
@@ -616,6 +676,10 @@
       "en": {
         "question": "Is the tongue's own microbe safe?",
         "plateLines": "First — on the tongue since birth · Then — it releases its own antibiotics · So — rivals stall at its edge"
+      },
+      "es": {
+        "question": "¿Es inofensivo en la lengua?",
+        "plateLines": "Primero — en la lengua desde el nacimiento · Luego — suelta sus propios antibióticos · Resultado — los rivales se frenan en su borde"
       },
       "ru": {
         "question": "Опасен ли житель языка?",
@@ -656,6 +720,10 @@
         "question": "Is the mucus eater good?",
         "plateLines": "First — it grazes the gut's mucus coat · Then — the lining feeds and makes more · So — without fibre the coat wears thin"
       },
+      "es": {
+        "question": "¿Comer moco es bueno?",
+        "plateLines": "Primero — pasta el moco del intestino · Luego — la pared se alimenta y fabrica más · Resultado — sin fibra la capa se adelgaza"
+      },
       "ru": {
         "question": "Едок слизи — это хорошо?",
         "plateLines": "Сначала — объедает слизь кишечника · Затем — стенка кормится и даёт новую · Итог — без клетчатки слой истончается"
@@ -694,6 +762,10 @@
       "en": {
         "question": "Did the trial fail?",
         "plateLines": "First — dead cells settle in the mucus · Then — one gut cell lets out GLP-1 · So — 30 billion cells, nothing moved"
+      },
+      "es": {
+        "question": "¿Fracasó el ensayo?",
+        "plateLines": "Primero — células muertas se posan en el moco · Luego — una célula del intestino suelta GLP-1 · Resultado — 30 mil millones de células, nada se movió"
       },
       "ru": {
         "question": "Значит, испытание провалилось?",
@@ -734,6 +806,10 @@
         "question": "Does sugar cause mouth cancer?",
         "plateLines": "First — sugar and alcohol reach plaque · Then — the microbes make a carcinogen · So — the peptide killed 91.37 %, not all"
       },
+      "es": {
+        "question": "¿El azúcar causa cáncer bucal?",
+        "plateLines": "Primero — el azúcar y el alcohol llegan a la placa · Luego — los microbios fabrican un carcinógeno · Resultado — el péptido mató 91,37 %, no a todas"
+      },
       "ru": {
         "question": "Сахар вызывает рак во рту?",
         "plateLines": "Сначала — сахар и спирт попадают в налёт · Затем — микробы делают канцероген · Итог — пептид убил 91,37 %, не всех"
@@ -772,6 +848,10 @@
       "en": {
         "question": "Is long covid from the gut?",
         "plateLines": "First — a bacterial tail breaks off · Then — immune cells read it as alarm · So — tissue far from the gut inflames"
+      },
+      "es": {
+        "question": "¿El covid largo viene del intestino?",
+        "plateLines": "Primero — se desprende un flagelo bacteriano · Luego — las células inmunitarias lo leen como alarma · Resultado — se inflama un tejido lejos del intestino"
       },
       "ru": {
         "question": "Виноват ли тут кишечник?",
@@ -812,6 +892,10 @@
         "question": "Is a newborn gut airless?",
         "plateLines": "First — air still lingers in a new gut · Then — one fat seals the microbe's wall · So — the same fat teaches immune cells"
       },
+      "es": {
+        "question": "¿El intestino del bebé tiene aire?",
+        "plateLines": "Primero — en el intestino nuevo todavía hay aire · Luego — una grasa sella la pared del microbio · Resultado — esa misma grasa enseña a las células inmunitarias"
+      },
       "ru": {
         "question": "В кишечнике младенца есть воздух?",
         "plateLines": "Сначала — в юной кишке ещё есть воздух · Затем — жир запечатывает её оболочку · Итог — тот же жир учит иммунные клетки"
@@ -850,6 +934,10 @@
       "en": {
         "question": "Why her and not you?",
         "plateLines": "First — the same dead cells, two guts · Then — a crowded gut has no room left · So — only the sparse gut changed"
+      },
+      "es": {
+        "question": "¿Por qué a ella sí?",
+        "plateLines": "Primero — las mismas células muertas, dos intestinos · Luego — en el intestino lleno no queda lugar · Resultado — solo cambió el intestino pobre"
       },
       "ru": {
         "question": "Кому это вообще помогает?",
@@ -890,6 +978,10 @@
         "question": "What actually causes bad breath?",
         "plateLines": "First — mouth microbes eat protein · Then — an enzyme cuts the sulfur free · So — that gene fell 98 %, in a dish"
       },
+      "es": {
+        "question": "¿Qué causa el mal aliento?",
+        "plateLines": "Primero — los microbios de la boca comen proteína · Luego — una enzima libera el azufre · Resultado — ese gen bajó 98 %, en placa"
+      },
       "ru": {
         "question": "Отчего на самом деле пахнет?",
         "plateLines": "Сначала — микробы рта едят белок · Затем — фермент отрывает серу · Итог — ген притих на 98 %, в пробирке"
@@ -928,6 +1020,10 @@
       "en": {
         "question": "Is the pain really physical?",
         "plateLines": "First — stool fluid touches the gut wall · Then — an enzyme clips a nerve receptor · So — the nerve net fires far harder"
+      },
+      "es": {
+        "question": "¿El dolor sí es físico?",
+        "plateLines": "Primero — el líquido de las heces toca la pared del intestino · Luego — una enzima corta un receptor nervioso · Resultado — la red nerviosa dispara mucho más"
       },
       "ru": {
         "question": "Эта боль правда телесная?",
@@ -968,6 +1064,10 @@
         "question": "Who carries the vitamin there?",
         "plateLines": "First — gut bacteria wake the lining · Then — carrier proteins pick up retinol · So — under 2 % reaches immune cells"
       },
+      "es": {
+        "question": "¿Quién lleva la vitamina?",
+        "plateLines": "Primero — las bacterias despiertan la mucosa · Luego — las proteínas transportadoras recogen el retinol · Resultado — menos del 2 % llega a las células inmunitarias"
+      },
       "ru": {
         "question": "Кто доносит витамин?",
         "plateLines": "Сначала — бактерии будят стенку кишки · Затем — белки-носильщики берут витамин · Итог — до иммунных клеток меньше 2 %"
@@ -1006,6 +1106,10 @@
       "en": {
         "question": "Can I rebuild my gut?",
         "plateLines": "First — antibiotics strip it bare · Then — it refills in six weeks · So — 9 species are still missing"
+      },
+      "es": {
+        "question": "¿Se recupera mi flora intestinal?",
+        "plateLines": "Primero — los antibióticos lo arrasan todo · Luego — se vuelve a llenar en seis semanas · Resultado — siguen faltando 9 especies"
       },
       "ru": {
         "question": "Кишечник восстановится после антибиотиков?",
@@ -1046,6 +1150,10 @@
         "question": "With food or empty stomach?",
         "plateLines": "First — the crowd meets the acid · Then — spores pass, delicate cells fall · So — 18.5 % arrive, few settle"
       },
+      "es": {
+        "question": "¿Con comida o en ayunas?",
+        "plateLines": "Primero — todas entran juntas en el ácido · Luego — pasan las esporas, caen las delicadas · Resultado — llega el 18,5 %, casi ninguna se queda"
+      },
       "ru": {
         "question": "С едой или натощак?",
         "plateLines": "Сначала — все вместе входят в кислоту · Затем — споры проходят, нежные гибнут · Итог — доходит 18,5 %, но не селится"
@@ -1084,6 +1192,10 @@
       "en": {
         "question": "Is a coated tongue bad?",
         "plateLines": "First — shed cells fill the grooves · Then — airless bacteria make the smell · So — a thin coating in 90.7 %"
+      },
+      "es": {
+        "question": "¿Es malo tener la lengua blanca?",
+        "plateLines": "Primero — las células llenan los surcos · Luego — las bacterias sin aire dan el olor · Resultado — capa fina en el 90,7 %"
       },
       "ru": {
         "question": "Налёт на языке — это плохо?",
@@ -1124,6 +1236,10 @@
         "question": "It helped her. Why not me?",
         "plateLines": "First — six strains look identical · Then — same gut, same conditions · So — 4 of 6 did anything"
       },
+      "es": {
+        "question": "¿Por qué a mí no funcionó?",
+        "plateLines": "Primero — seis cepas se ven iguales · Luego — el mismo intestino, las mismas condiciones · Resultado — solo 4 de 6 hicieron algo"
+      },
       "ru": {
         "question": "Пробиотик другу помог. А мне?",
         "plateLines": "Сначала — 6 штаммов на вид одинаковы · Затем — кишечник один и тот же · Итог — помогли 4 из 6"
@@ -1162,6 +1278,10 @@
       "en": {
         "question": "Should I rinse every day?",
         "plateLines": "First — the rinse does not choose · Then — the mouth community thins · So — nitrite falls by 90 %"
+      },
+      "es": {
+        "question": "¿Me enjuago todos los días?",
+        "plateLines": "Primero — el enjuague no elige · Luego — la comunidad de la boca se adelgaza · Resultado — el nitrito cae un 90 %"
       },
       "ru": {
         "question": "Полоскать рот каждый день?",
@@ -1202,6 +1322,10 @@
         "question": "Is it coming from my stomach?",
         "plateLines": "First — the coating closes off the air · Then — bacteria strip sulphur from it · So — mouth 87 %, gut 1 %"
       },
+      "es": {
+        "question": "¿Será mi estómago?",
+        "plateLines": "Primero — la capa cierra el paso del aire · Luego — las bacterias arrancan el azufre · Resultado — boca 87 %, intestino 1 %"
+      },
       "ru": {
         "question": "Это всё-таки желудок?",
         "plateLines": "Сначала — налёт закрывает доступ воздуха · Затем — бактерии отщепляют серу · Итог — рот 87 %, кишечник 1 %"
@@ -1240,6 +1364,10 @@
       "en": {
         "question": "Is a bigger number better?",
         "plateLines": "First — doubling the dose helped once · Then — the same strain, far more of it · So — 100× more changed nothing"
+      },
+      "es": {
+        "question": "¿Un número más grande es mejor?",
+        "plateLines": "Primero — duplicar la dosis ayudó una vez · Luego — la misma cepa, mucha más cantidad · Resultado — 100 × más no cambió nada"
       },
       "ru": {
         "question": "Большое число — это лучше?",
@@ -1280,6 +1408,10 @@
         "question": "Can three days reset it?",
         "plateLines": "First — food shifts the mix in a day · Then — two days later it slides back · So — 60 % of strains stay for years"
       },
+      "es": {
+        "question": "¿Tres días bastan?",
+        "plateLines": "Primero — la comida mueve la mezcla en un día · Luego — dos días después vuelve atrás · Resultado — el 60 % de las cepas se queda años"
+      },
       "ru": {
         "question": "Три дня что-то меняют?",
         "plateLines": "Сначала — еда сдвигает состав за сутки · Затем — через двое суток всё назад · Итог — 60 % штаммов живут годами"
@@ -1318,6 +1450,10 @@
       "en": {
         "question": "What should I eat now?",
         "plateLines": "First — the course leaves it bare · Then — fibre and ferments refill it · So — 9 species missing at day 180"
+      },
+      "es": {
+        "question": "¿Qué como ahora?",
+        "plateLines": "Primero — el tratamiento deja el campo vacío · Luego — la fibra y lo fermentado lo vuelven a llenar · Resultado — faltan 9 especies el día 180"
       },
       "ru": {
         "question": "Что теперь есть?",
@@ -1358,6 +1494,10 @@
         "question": "Do fermented foods really work?",
         "plateLines": "First — live cells come with the food · Then — they pass through, few stay · So — 19 inflammatory proteins fell"
       },
+      "es": {
+        "question": "¿Lo fermentado sirve de algo?",
+        "plateLines": "Primero — las células vivas llegan con la comida · Luego — pasan de largo y pocas se quedan · Resultado — bajaron 19 proteínas de inflamación"
+      },
       "ru": {
         "question": "Кефир вообще что-то даёт?",
         "plateLines": "Сначала — живые клетки идут с едой · Затем — проходят мимо, редко остаются · Итог — 19 белков воспаления упали"
@@ -1396,6 +1536,10 @@
       "en": {
         "question": "How much fibre is enough?",
         "plateLines": "First — three kinds of fibre arrive · Then — only one of them is eaten · So — 25–29 g a day, then it levels"
+      },
+      "es": {
+        "question": "¿Cuánta fibra al día?",
+        "plateLines": "Primero — llegan tres clases de fibra · Luego — solo una de ellas se come · Resultado — 25–29 g al día y luego se aplana"
       },
       "ru": {
         "question": "Сколько клетчатки в день?",
@@ -1436,6 +1580,10 @@
         "question": "Does bad sleep hurt my gut?",
         "plateLines": "First — a steady rhythm, many kinds · Then — the rhythm goes ragged · So — just as full, fewer kinds"
       },
+      "es": {
+        "question": "¿Dormir mal daña el intestino?",
+        "plateLines": "Primero — ritmo parejo, muchas clases · Luego — el ritmo se vuelve irregular · Resultado — igual de densa, menos clases"
+      },
       "ru": {
         "question": "Плохой сон вредит кишечнику?",
         "plateLines": "Сначала — ровный ритм, много видов · Затем — ритм становится рваным · Итог — так же густо, видов меньше"
@@ -1474,6 +1622,10 @@
       "en": {
         "question": "Can gut bacteria affect my mood?",
         "plateLines": "First — gut microbes give off molecules · Then — a gut cell senses and signals · So — the nerve carries it, they stay"
+      },
+      "es": {
+        "question": "¿Las bacterias afectan al ánimo?",
+        "plateLines": "Primero — los microbios sueltan moléculas · Luego — una célula del intestino lo percibe y avisa · Resultado — el nervio lo lleva, ellas se quedan"
       },
       "ru": {
         "question": "Бактерии влияют на настроение?",
@@ -1514,6 +1666,10 @@
         "question": "Do enzymes kill bacteria?",
         "plateLines": "First — a sugar web holds the plaque · Then — the enzyme cuts one link · So — the web falls, the cells live"
       },
+      "es": {
+        "question": "¿Las enzimas matan bacterias?",
+        "plateLines": "Primero — una red de azúcar sostiene la placa · Luego — la enzima corta un eslabón · Resultado — la red cae, las células siguen vivas"
+      },
       "ru": {
         "question": "Ферменты убивают бактерии?",
         "plateLines": "Сначала — сахарная сетка держит налёт · Затем — фермент режет одно звено · Итог — каркас рассыпается, клетки целы"
@@ -1552,6 +1708,10 @@
       "en": {
         "question": "Is my gut microbiome healthy?",
         "plateLines": "First — fibre we cannot digest arrives · Then — the crowd ferments it · So — the acids feed the gut wall"
+      },
+      "es": {
+        "question": "¿Mi microbiota está sana?",
+        "plateLines": "Primero — llega la fibra que no digerimos · Luego — la multitud la fermenta · Resultado — los ácidos alimentan la pared"
       },
       "ru": {
         "question": "Мой микробиом здоровый?",
@@ -1592,6 +1752,10 @@
         "question": "How is tolerance learned?",
         "plateLines": "First — bacteria signal across the wall · Then — the patrol cell stays quiet · So — tolerance holds, no alarm"
       },
+      "es": {
+        "question": "¿Cómo se aprende la tolerancia?",
+        "plateLines": "Primero — las bacterias avisan a través de la pared · Luego — la célula de guardia sigue tranquila · Resultado — la tolerancia aguanta, sin alarma"
+      },
       "ru": {
         "question": "Откуда берётся терпимость?",
         "plateLines": "Сначала — бактерии сигналят через стенку · Затем — клетка-страж остаётся спокойной · Итог — мир держится, тревоги нет"
@@ -1630,6 +1794,10 @@
       "en": {
         "question": "What makes you feel full?",
         "plateLines": "First — bacteria ferment fibre · Then — fatty acids reach a gut cell · So — it releases GLP-1 into the blood"
+      },
+      "es": {
+        "question": "¿Qué te hace sentir lleno?",
+        "plateLines": "Primero — las bacterias fermentan la fibra · Luego — los ácidos llegan a una célula del intestino · Resultado — suelta GLP-1 a la sangre"
       },
       "ru": {
         "question": "Отчего приходит сытость?",
@@ -1670,6 +1838,10 @@
         "question": "Where does plaque come from?",
         "plateLines": "First — bacteria stick to the enamel · Then — sugar feeds the acid-makers · So — the enamel softens beneath"
       },
+      "es": {
+        "question": "¿De dónde viene la placa?",
+        "plateLines": "Primero — las bacterias se pegan al esmalte · Luego — el azúcar alimenta a las que hacen ácido · Resultado — el esmalte se ablanda debajo"
+      },
       "ru": {
         "question": "Кто строит налёт на зубах?",
         "plateLines": "Сначала — бактерии липнут к эмали · Затем — сахар кормит кислотообразующих · Итог — эмаль под налётом размягчается"
@@ -1708,6 +1880,10 @@
       "en": {
         "question": "Can the gut show on skin?",
         "plateLines": "First — gut bacteria release molecules · Then — blood carries them, not bacteria · So — the skin's own microbes answer"
+      },
+      "es": {
+        "question": "¿La piel refleja el intestino?",
+        "plateLines": "Primero — las bacterias del intestino sueltan moléculas · Luego — la sangre las lleva, a ellas no · Resultado — responden los microbios de la piel"
       },
       "ru": {
         "question": "Кожа зависит от кишечника?",

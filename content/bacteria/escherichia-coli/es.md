@@ -1,5 +1,5 @@
 ---
-title: "Escherichia coli vive en tu intestino, no solo en la comida echada a perder"
+title: "Escherichia coli vive en tu intestino, no en la comida"
 meta: "Escherichia coli vive en el intestino de más del 90 % de las personas. Qué hace a favor, qué hace en contra y dónde se acaba la evidencia honesta."
 kicker: "Escherichia coli"
 type: bacteria
@@ -112,16 +112,16 @@ entity:
   wikidata: "Q25419"
   ncbiTaxId: "562"
 images:
-  card: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-card-en.webp"
-  cardLine: "Is E. coli always dangerous?"
-  cardAlt: "Is E. coli always dangerous? — a woman in her thirties pauses her fork over a bowl of salad at a canteen table"
-  og: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-og-en.jpg"
+  card: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-card-es.webp"
+  cardLine: "¿E. coli es siempre peligrosa?"
+  cardAlt: "¿E. coli es siempre peligrosa? — una mujer de treinta y tantos detiene el tenedor sobre un plato de ensalada"
+  og: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-og-es.jpg"
   preview: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-preview.webp"
-  previewAlt: "Illustration: rod-shaped E. coli cells fringed with fine threads beside a gas bubble in wet gut contents, one thread lit gold"
-  plate: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-plate-en.webp"
-  plateLines: "First — oxygen seeps from the lining · Then — these rods breathe it away · So — over 90 % of us carry them"
+  previewAlt: "Ilustración: células de E. coli con forma de bastón orladas de hilos finos junto a una burbuja de gas en el contenido húmedo del intestino, un hilo encendido en dorado"
+  plate: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-plate-es.webp"
+  plateLines: "Primero — el oxígeno se filtra desde la pared · Luego — estos bastones lo consumen · Resultado — más del 90 % de nosotros los lleva"
   hero: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-hero.webp"
-  heroAlt: "Illustration: traces of oxygen rise from the gut lining, fringed E. coli rods beside it take them up, and beyond them strict anaerobes crowd the airless space"
+  heroAlt: "Ilustración: trazas de oxígeno suben desde la mucosa intestinal, los bastones orlados de E. coli las captan y, más allá, los anaerobios estrictos llenan el espacio sin aire"
 referral:
   product: ""
   mayaLog: ""

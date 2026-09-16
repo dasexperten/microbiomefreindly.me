@@ -1,5 +1,5 @@
 ---
-title: "Actinomycetota: el filo que protege a los bebés y causa la tuberculosis"
+title: "Actinomycetota: protege a los bebés y causa tuberculosis"
 meta: "Actinomycetota, antes Actinobacteria: el filo de Bifidobacterium y de la tuberculosis. Dónde vive en tu cuerpo, qué hace a tu favor y en tu contra."
 kicker: "Actinomycetota"
 type: bacteria
@@ -105,16 +105,16 @@ entity:
   wikidata: "Q62573436"
   ncbiTaxId: "201174"
 images:
-  card: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-card-en.webp"
-  cardLine: "Where did our antibiotics begin?"
-  cardAlt: "Where did our antibiotics begin? — a man in his seventies presses damp soil around a seedling in his garden"
-  og: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-og-en.jpg"
+  card: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-card-es.webp"
+  cardLine: "¿De dónde salen los antibióticos?"
+  cardAlt: "¿De dónde salen los antibióticos? — un hombre de más de setenta aprieta tierra húmeda junto a un brote en su jardín"
+  og: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-og-es.jpg"
   preview: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-preview.webp"
-  previewAlt: "Illustration: fine branching soil bacteria threads over damp soil grains, raised tips ending in pale green spore chains"
-  plate: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-plate-en.webp"
-  plateLines: "First — threads grow in damp soil · Then — they release antibiotics · So — two-thirds of ours began here"
+  previewAlt: "Ilustración: finos hilos ramificados de bacterias del suelo sobre granos de tierra húmeda, con las puntas levantadas terminando en cadenas de esporas verde pálido"
+  plate: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-plate-es.webp"
+  plateLines: "Primero — los hilos crecen en tierra húmeda · Después — liberan antibióticos · Resultado — dos tercios de los nuestros nacieron aquí"
   hero: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-hero.webp"
-  heroAlt: "Illustration: branching soil bacteria release antibiotic molecules, six of nine in coral, while across the frame forked Bifidobacterium rods rest on a gut lining"
+  heroAlt: "Ilustración: bacterias ramificadas del suelo liberan moléculas de antibiótico, seis de nueve en coral, mientras al otro lado del cuadro bastones bifurcados de Bifidobacterium reposan sobre una mucosa intestinal"
 referral:
   product: ""
   mayaLog: ""

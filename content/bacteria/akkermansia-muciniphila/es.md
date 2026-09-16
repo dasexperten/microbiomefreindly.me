@@ -19,11 +19,11 @@ answer: "Akkermansia muciniphila es una bacteria que vive en la capa de moco del
 keyFacts:
   - fact: "Se nombró y describió en 2004 a partir de heces humanas cultivadas con mucina como única fuente de carbono y nitrógeno; la cepa tipo es MucT."
     source: s1
-  - fact: "Se contó en más del 1 % de todas las células bacterianas de las heces humanas mediante hibridación fluorescente in situ."
+  - fact: "Se contó en más del 1 % de todas las células bacterianas de las heces humanas mediante hibridación fluorescente in situ."
     source: s2
   - fact: "En ratones, A. muciniphila viva revirtió la ganancia de masa grasa y la resistencia a la insulina causadas por una dieta rica en grasa; las células muertas por calor no lo hicieron."
     source: s3
-  - fact: "En un ensayo exploratorio en personas, con 32 participantes, tres meses de A. muciniphila pasteurizada mejoraron la sensibilidad a la insulina un 28,62 % frente al placebo (P = 0,002)."
+  - fact: "En un ensayo exploratorio en personas, con 32 participantes, tres meses de A. muciniphila pasteurizada mejoraron la sensibilidad a la insulina un 28,62 % frente al placebo (P = 0,002)."
     source: s5
   - fact: "En ratones gnotobióticos infectados con Salmonella Typhimurium, A. muciniphila empeoró la inflamación intestinal y multiplicó por diez, aproximadamente, el recuento de Salmonella en los ganglios linfáticos mesentéricos."
     source: s6
@@ -98,16 +98,16 @@ entity:
   wikidata: "Q15020908"
   ncbiTaxId: "239935"
 images:
-  card: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-card-en.webp"
-  cardLine: "Is eating mucus good news?"
-  cardAlt: "Is eating mucus good news? — a woman in her forties tips chopped vegetables into a pan in her morning kitchen"
-  og: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-og-en.jpg"
+  card: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-card-es.webp"
+  cardLine: "¿Comer moco es buena noticia?"
+  cardAlt: "¿Comer moco es buena noticia? — una mujer de unos cuarenta echa verduras picadas a una sartén en su cocina"
+  og: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-og-es.jpg"
   preview: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-preview.webp"
-  previewAlt: "Illustration: oval Akkermansia cells resting in pairs in a clear mucus gel, a gold bead of fresh mucus rising under one pair"
-  plate: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-plate-en.webp"
-  plateLines: "First — it settles in your mucus · Then — it grazes a hollow · So — the lining renews it; 1 % of cells"
+  previewAlt: "Ilustración: células ovaladas de Akkermansia descansan en parejas dentro de un gel de moco transparente, con una gota dorada de moco fresco que sube bajo una pareja"
+  plate: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-plate-es.webp"
+  plateLines: "Primero — se instala en tu moco · Después — pasta un hueco · Resultado — la mucosa lo renueva; 1 % de las células"
   hero: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-hero.webp"
-  heroAlt: "Illustration: oval Akkermansia cells settle into the gut's mucus layer and graze a shallow hollow, and the lining below pushes up fresh mucus that thickens the layer"
+  heroAlt: "Ilustración: células ovaladas de Akkermansia se instalan en la capa de moco del intestino y pastan un hueco poco profundo, y la mucosa de abajo empuja moco fresco que engrosa la capa"
 referral:
   product: ""
   mayaLog: ""
@@ -122,7 +122,7 @@ status: published
 
 Empieza por el organismo, no por el titular. En 2004, unos microbiólogos de la Universidad de Wageningen hicieron algo deliberadamente cruel con una muestra de heces humanas: la diluyeron hasta que casi nada sobrevivió y después ofrecieron a los supervivientes un solo alimento, mucina gástrica, la proteína que vuelve resbaladizo al moco [s1]. Sin azúcar, sin almidón, sin fibra. O te comes el revestimiento, o te mueres de hambre.
 
-Algo se comió el revestimiento. Era una célula ovalada gramnegativa, anaerobia estricta, inmóvil y sin esporas, que crecía suelta y en parejas, y su pariente descrito más cercano compartía solo el 92 % de la secuencia de su gen del ARN ribosómico 16S: bastante lejano como para necesitar un género propio [s1]. La llamaron *Akkermansia muciniphila*, «la que ama el moco». Eso no es una metáfora. Es la descripción del puesto de trabajo.
+Algo se comió el revestimiento. Era una célula ovalada gramnegativa, anaerobia estricta, inmóvil y sin esporas, que crecía suelta y en parejas, y su pariente descrito más cercano compartía solo el 92 % de la secuencia de su gen del ARN ribosómico 16S: bastante lejano como para necesitar un género propio [s1]. La llamaron *Akkermansia muciniphila*, «la que ama el moco». Eso no es una metáfora. Es la descripción del puesto de trabajo.
 
 ## Qué es, en una frase
 
@@ -130,7 +130,7 @@ Algo se comió el revestimiento. Era una célula ovalada gramnegativa, anaerobia
 
 ## Dónde vive en el cuerpo
 
-No en medio del contenido intestinal, que es donde se cuentan casi todas las bacterias intestinales famosas, sino en la capa que está justo encima de las células: la manta de moco que la pared del intestino renueva sin descanso. Esa dirección explica todo lo demás de este organismo. Cuando el equipo original construyó una sonda genética y contó la especie en las heces, salió en más del 1 % de todas las células bacterianas [s2], lo cual, para una sola especie dentro de un ecosistema de cientos, es muchísimo. Y ahora la salvedad, en voz alta: un recuento en heces es un sustituto. La casa de verdad de esta bacteria es el moco; las heces son lo que sale del edificio.
+No en medio del contenido intestinal, que es donde se cuentan casi todas las bacterias intestinales famosas, sino en la capa que está justo encima de las células: la manta de moco que la pared del intestino renueva sin descanso. Esa dirección explica todo lo demás de este organismo. Cuando el equipo original construyó una sonda genética y contó la especie en las heces, salió en más del 1 % de todas las células bacterianas [s2], lo cual, para una sola especie dentro de un ecosistema de cientos, es muchísimo. Y ahora la salvedad, en voz alta: un recuento en heces es un sustituto. La casa de verdad de esta bacteria es el moco; las heces son lo que sale del edificio.
 
 ## Qué hace a nuestro favor
 
@@ -140,7 +140,7 @@ Aquí las pruebas se ponen interesantes, y aquí quiero estudios con nombre y ap
 
 **Detrás hay una molécula.** En 2017 se purificó una proteína abundante de la membrana externa, parecida a un pelo o pili, llamada Amuc_1100, y se demostró que envía señales a través de los receptores tipo Toll 2 y 4, que impulsa la interleucina-10 y que eleva la resistencia transepitelial, una medida de laboratorio de lo hermética que es una barrera epitelial [s4]. Primero el mecanismo: una bacteria sentada en el moco, hablándoles a los receptores inmunitarios de las células que tiene debajo, y la barrera que se cierra en respuesta.
 
-**Se le ha dado a personas una vez, con cuidado.** El ensayo de prueba de concepto publicado en 2019 en *Nature Medicine* reclutó a 40 voluntarios con sobrepeso y resistencia a la insulina; 32 completaron tres meses de toma diaria: bacterias vivas, bacterias pasteurizadas o placebo [s5]. Fue seguro y bien tolerado. La forma pasteurizada mejoró la sensibilidad a la insulina un 28,62 % (P = 0,002), redujo la insulinemia un 34,08 % y el colesterol total un 8,68 % [s5]. Ahora la salvedad a todo volumen: el peso corporal bajó 2,27 kg frente al placebo y la masa grasa 1,37 kg frente a la del propio grupo al inicio, y ninguna de las dos cosas alcanzó significación estadística (P = 0,091 y P = 0,092) [s5]. Fue un piloto exploratorio de un solo centro, en 32 personas, cuyos objetivos principales eran la seguridad, la tolerabilidad y los parámetros metabólicos [s5]. Es un motivo para hacer un ensayo más grande. No es un resultado sobre el que montar una dieta.
+**Se le ha dado a personas una vez, con cuidado.** El ensayo de prueba de concepto publicado en 2019 en *Nature Medicine* reclutó a 40 voluntarios con sobrepeso y resistencia a la insulina; 32 completaron tres meses de toma diaria: bacterias vivas, bacterias pasteurizadas o placebo [s5]. Fue seguro y bien tolerado. La forma pasteurizada mejoró la sensibilidad a la insulina un 28,62 % (P = 0,002), redujo la insulinemia un 34,08 % y el colesterol total un 8,68 % [s5]. Ahora la salvedad a todo volumen: el peso corporal bajó 2,27 kg frente al placebo y la masa grasa 1,37 kg frente a la del propio grupo al inicio, y ninguna de las dos cosas alcanzó significación estadística (P = 0,091 y P = 0,092) [s5]. Fue un piloto exploratorio de un solo centro, en 32 personas, cuyos objetivos principales eran la seguridad, la tolerabilidad y los parámetros metabólicos [s5]. Es un motivo para hacer un ensayo más grande. No es un resultado sobre el que montar una dieta.
 
 **Acompaña a la respuesta a la inmunoterapia contra el cáncer.** En el estudio publicado en 2018 en *Science* sobre pacientes tratados con bloqueo de PD-1, la abundancia relativa de *A. muciniphila* en las heces en el momento del diagnóstico iba de la mano de la respuesta clínica, y darla por vía oral restauró la respuesta en ratones que habían recibido heces de pacientes que no respondían [s9]. Correlación en humanos; causalidad en ratones. Las dos mitades de esa frase importan.
 

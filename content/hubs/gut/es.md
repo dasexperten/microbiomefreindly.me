@@ -1,5 +1,5 @@
 ---
-title: "La microbiota intestinal: lo que dice la ciencia y lo que no puede decir"
+title: "La microbiota intestinal: qué dice y qué no dice la ciencia"
 meta: "La microbiota intestinal sin exageraciones: qué hace la comunidad de microbios de tu intestino, las tres preguntas de siempre y dónde se acaban las pruebas."
 kicker: "Microbiota intestinal"
 type: hubs
@@ -18,16 +18,16 @@ voice: greger
 answer: "La microbiota intestinal es la comunidad de bacterias, arqueas, hongos y virus que vive sobre todo en el intestino grueso. Digiere la fibra que tú no puedes, fabrica ácidos grasos de cadena corta y vitaminas, entrena la defensa del cuerpo y alimenta la mucosa. Lo moldean la dieta, el parto, los antibióticos y la edad, y cambia en días."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/gut/gut-card-en.webp"
-  cardLine: "Is my gut microbiome healthy?"
-  cardAlt: "Is my gut microbiome healthy? — a woman comes up her front steps at evening with a bag of vegetables"
-  og: "/assets/img/mbf/hubs/gut/gut-og-en.jpg"
+  card: "/assets/img/mbf/hubs/gut/gut-card-es.webp"
+  cardLine: "¿Mi microbiota está sana?"
+  cardAlt: "¿Mi microbiota está sana? — una mujer sube los escalones de su casa al atardecer con una bolsa de verduras"
+  og: "/assets/img/mbf/hubs/gut/gut-og-es.jpg"
   preview: "/assets/img/mbf/hubs/gut/gut-preview.webp"
-  previewAlt: "Illustration: a mixed crowd of rod-shaped and round gut bacteria feeding on a fragment of plant fibre, its frayed edge gold"
-  plate: "/assets/img/mbf/hubs/gut/gut-plate-en.webp"
-  plateLines: "First — fibre we cannot digest arrives · Then — the crowd ferments it · So — the acids feed the gut wall"
+  previewAlt: "Ilustración: una multitud mezclada de bacterias alargadas y redondas del intestino se alimenta de un trozo de fibra vegetal con el borde deshilachado dorado"
+  plate: "/assets/img/mbf/hubs/gut/gut-plate-es.webp"
+  plateLines: "Primero — llega la fibra que no digerimos · Luego — la multitud la fermenta · Resultado — los ácidos alimentan la pared"
   hero: "/assets/img/mbf/hubs/gut/gut-hero.webp"
-  heroAlt: "Illustration: plant fibre reaches the colon, bacteria ferment it, and coral short-chain fatty acid molecules pass into the cells of the gut lining"
+  heroAlt: "Ilustración: la fibra vegetal llega al colon, las bacterias la fermentan y moléculas coral de ácidos grasos de cadena corta pasan a las células de la mucosa del intestino"
 referral:
   product: ""
   mayaLog: ""

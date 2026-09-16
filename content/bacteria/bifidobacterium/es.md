@@ -17,7 +17,7 @@ author: magnus-larsen
 voice: greger
 answer: "Bifidobacterium es un género de bacterias bifurcadas (en forma de Y) y anaerobias (que rehúyen el aire) que dominan el intestino del bebé amamantado comiendo azúcares de la leche. Casi todas son inofensivas: los fermentan en acetato y lactato, dos ácidos suaves. Unas pocas no: B. dentium favorece las caries; cepas probióticas han llegado a la sangre de prematuros."
 keyFacts:
-  - fact: "En lactantes amamantados, las bifidobacterias pueden llegar a más del 90 % de toda la población bacteriana del intestino."
+  - fact: "En lactantes amamantados, las bifidobacterias pueden llegar a más del 90 % de toda la población bacteriana del intestino."
     source: s1
   - fact: "Los oligosacáridos de la leche materna son su tercer componente sólido más abundante, y el recién nacido no puede digerirlos; las bifidobacterias sí."
     source: s3
@@ -27,7 +27,7 @@ keyFacts:
     source: s7
   - fact: "Bifidobacterium dentium es una especie que favorece las caries de manera oportunista; su genoma Bd1 lleva adaptaciones para sobrevivir en el medio ácido de la boca."
     source: s9
-  - fact: "Entre 2.109 bebés prematuros que recibieron probióticos en una misma unidad de cuidados intensivos neonatales, 12 (el 0,6 %) desarrollaron una bacteriemia por un organismo del producto; no se atribuyó ninguna muerte a ello."
+  - fact: "Entre 2.109 bebés prematuros que recibieron probióticos en una misma unidad de cuidados intensivos neonatales, 12 (el 0,6 %) desarrollaron una bacteriemia por un organismo del producto; no se atribuyó ninguna muerte a ello."
     source: s10
   - fact: "Orla-Jensen dio al género el nombre Bifidobacterium en 1924; su especie tipo la describió por primera vez Tissier en 1900."
     source: s14
@@ -39,7 +39,7 @@ faq:
   - q: "¿Tomar un suplemento de Bifidobacterium reconstruye mi intestino?"
     a: "Esa afirmación se adelanta a los datos. Un gran ensayo de fase 3 en bebés muy prematuros, PiPS, repartió al azar a 1.315 bebés entre una cepa de Bifidobacterium breve y placebo, y no encontró beneficio en ninguno de sus tres objetivos principales. Un metaanálisis en red de 51 ensayos, hecho cepa por cepa, encontró que solo 3 de 25 combinaciones de tratamiento reducían la mortalidad. Los efectos pertenecen a cepas concretas en poblaciones concretas, no al género."
   - q: "¿Es peligrosa?"
-    a: "Rara vez, y sobre todo en una población. Se han descrito bacteriemias por bifidobacterias en bebés prematuros de muy bajo peso al nacer que recibían probióticos, y el aislado de sangre coincidía con la cepa del producto. En un centro se vieron afectados 12 de 2.109 bebés expuestos (el 0,6 %) y no se atribuyó ninguna muerte a ello. Eso es un riesgo pequeño en un grupo frágil, no una advertencia general para adultos sanos."
+    a: "Rara vez, y sobre todo en una población. Se han descrito bacteriemias por bifidobacterias en bebés prematuros de muy bajo peso al nacer que recibían probióticos, y el aislado de sangre coincidía con la cepa del producto. En un centro se vieron afectados 12 de 2.109 bebés expuestos (el 0,6 %) y no se atribuyó ninguna muerte a ello. Eso es un riesgo pequeño en un grupo frágil, no una advertencia general para adultos sanos."
   - q: "¿Ha cambiado su nombre científico?"
     a: "El del género no. El del filo que lo contiene, sí: lo que durante décadas se publicó como Actinobacteria se publicó válidamente en 2021 con el nombre Actinomycetota, que es el linaje que NCBI muestra hoy para Bifidobacterium. Dentro del género, los métodos de genoma completo también han detectado clasificaciones aparentemente erróneas hechas con técnicas antiguas de un solo marcador."
 sources:
@@ -120,16 +120,16 @@ entity:
   wikidata: "Q132656"
   ncbiTaxId: "1678"
 images:
-  card: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-card-en.webp"
-  cardLine: "Is every bifidobacterium good?"
-  cardAlt: "Is every bifidobacterium good? — a woman in her late twenties sits with a mug on the sofa in lamp light"
-  og: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-og-en.jpg"
+  card: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-card-es.webp"
+  cardLine: "¿Toda bifidobacteria es buena?"
+  cardAlt: "¿Toda bifidobacteria es buena? — una mujer de casi treinta con una taza en el sofá bajo la luz de una lámpara"
+  og: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-og-es.jpg"
   preview: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-preview.webp"
-  previewAlt: "Illustration: forked, Y-shaped Bifidobacterium cells in a still pocket of clear gut contents, a coral droplet in one fork"
-  plate: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-plate-en.webp"
-  plateLines: "First — milk sugars pass the baby by · Then — these rods eat what she cannot · So — over 90 % of her gut is theirs"
+  previewAlt: "Ilustración: células bifurcadas de Bifidobacterium en forma de Y en un bolsillo quieto de contenido intestinal transparente, con una gota coral en una de las horquillas"
+  plate: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-plate-es.webp"
+  plateLines: "Primero — los azúcares de la leche se le escapan al bebé · Después — estos bastones comen lo que él no puede · Resultado — más del 90 % de su intestino es suyo"
   hero: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-hero.webp"
-  heroAlt: "Illustration: milk sugars pass the infant gut lining untouched, forked Bifidobacterium rods ferment them into lime acetate droplets, and nineteen of twenty cells at right are theirs"
+  heroAlt: "Ilustración: los azúcares de la leche pasan intactos junto a la mucosa intestinal del bebé, bastones bifurcados de Bifidobacterium los fermentan en gotas de acetato color lima, y a la derecha diecinueve de cada veinte células son suyas"
 referral:
   product: ""
   mayaLog: ""
@@ -142,13 +142,13 @@ gates:
 status: published
 ---
 
-Pídele a alguien que nombre una bacteria y oirás *E. coli*, o *Salmonella*, o algo que leyó una vez en la etiqueta de un pollo. Casi nadie nombra a la que llega primero. A los pocos días de nacer, en un bebé amamantado, un género llamado *Bifidobacterium* se apodera del intestino grueso de manera tan completa que puede representar más del 90 % de las bacterias que viven ahí [s1].
+Pídele a alguien que nombre una bacteria y oirás *E. coli*, o *Salmonella*, o algo que leyó una vez en la etiqueta de un pollo. Casi nadie nombra a la que llega primero. A los pocos días de nacer, en un bebé amamantado, un género llamado *Bifidobacterium* se apodera del intestino grueso de manera tan completa que puede representar más del 90 % de las bacterias que viven ahí [s1].
 
 Vale la pena detenerse en eso. Un género, un órgano, una ventana de la vida, y una proporción de la población a la que no llega ningún otro microbio del intestino. Así que desarmémoslo como desarmaríamos un medicamento: qué es, dónde está, qué dicen las pruebas que hace a nuestro favor y —la parte que suele caerse del anuncio— qué hace en nuestra contra.
 
 ## Qué es en realidad
 
-*Bifidobacterium* es un género de bacterias grampositivas con alto contenido de G+C, anaerobias, con una forma celular bifurcada —«bífida»—, que fermentan azúcares por la vía bífida hasta acetato y lactato (aproximadamente 1,5 mol de acetato y 1 mol de lactato por cada mol de glucosa) y que viven sobre todo en la microbiota intestinal de mamíferos y otros animales, con el grupo *B. asteroides* típico de los insectos y el grupo *B. pullorum* de las aves [s1][s2].
+*Bifidobacterium* es un género de bacterias grampositivas con alto contenido de G+C, anaerobias, con una forma celular bifurcada —«bífida»—, que fermentan azúcares por la vía bífida hasta acetato y lactato (aproximadamente 1,5 mol de acetato y 1 mol de lactato por cada mol de glucosa) y que viven sobre todo en la microbiota intestinal de mamíferos y otros animales, con el grupo *B. asteroides* típico de los insectos y el grupo *B. pullorum* de las aves [s1][s2].
 
 Dos palabras de esa frase hacen casi todo el trabajo. **Anaerobias**: el aire es un problema para estos organismos, y por eso prosperan en las profundidades del colon y por eso mantenerlos vivos fuera del cuerpo es un problema de fabricación y no un eslogan. **Bífida**: el nombre viene de *bifidus*, hendido en dos; fue la forma bifurcada de las células que Tissier encontró en las heces de bebés amamantados en 1900 lo que les dio el nombre de *Bacillus bifidus* [s1].
 
@@ -164,7 +164,7 @@ Tres mecanismos, cada uno con un estudio detrás.
 
 **Fabrica acetato, y el acetato defiende la pared intestinal.** Este es el resultado de mecanismo más limpio del campo. Trabajando con ratones gnotobióticos y un modelo de infección mortal por *E. coli* enterohemorrágica O157:H7, Fukuda y sus colegas demostraron que ciertas cepas de bifidobacterias protegían a los animales de la muerte, que la protección iba de la mano de una mayor producción de acetato y que el paso de la toxina Shiga desde el interior del intestino a la sangre quedaba bloqueado [s5]. Di la salvedad en voz alta: ratones, un patógeno, cepas concretas. Muestra que un mecanismo puede funcionar. No muestra que tu yogur lo haga.
 
-**Le habla al sistema inmunitario con sus metabolitos.** Alimentada con oligosacáridos de la leche materna en lugar de lactosa sola, *B. infantis* produce bastante más ácido indol-3-láctico, un metabolito del triptófano; a una concentración de 1–10 mM ese compuesto amortiguó la activación de NF-κB impulsada por LPS en una línea celular de macrófagos y redujo el aumento de interleucina-8 inducido por TNF-α y LPS en líneas celulares del epitelio intestinal [s6]. De nuevo: cultivo celular, no personas. Pero nombra una molécula, que es más de lo que consigue la mayoría de las afirmaciones sobre «apoyar las defensas».
+**Le habla al sistema inmunitario con sus metabolitos.** Alimentada con oligosacáridos de la leche materna en lugar de lactosa sola, *B. infantis* produce bastante más ácido indol-3-láctico, un metabolito del triptófano; a una concentración de 1–10 mM ese compuesto amortiguó la activación de NF-κB impulsada por LPS en una línea celular de macrófagos y redujo el aumento de interleucina-8 inducido por TNF-α y LPS en líneas celulares del epitelio intestinal [s6]. De nuevo: cultivo celular, no personas. Pero nombra una molécula, que es más de lo que consigue la mayoría de las afirmaciones sobre «apoyar las defensas».
 
 ## Qué hace en nuestra contra
 
@@ -172,9 +172,9 @@ Aquí es donde una entrada de enciclopedia honesta se separa de una etiqueta.
 
 **Una especie favorece las caries.** *Bifidobacterium dentium* se aisló de caries dentales, y secuenciar su genoma Bd1 —un único cromosoma circular de 2.636.368 pares de bases con 2.143 marcos abiertos de lectura predichos— reveló adaptaciones para exactamente esa vida: tolerancia al ácido, adhesión a los tejidos y metabolismo de compuestos de la saliva humana [s9]. Lo que muestran los datos de los autores se puede decir así, en espíritu: la frontera entre un comensal y un oportunista es estrecha.
 
-**Las cepas probióticas pueden entrar en la sangre.** Tres bebés prematuros de muy bajo peso al nacer que tomaban un probiótico con *B. longum* viable desarrollaron una bacteriemia por ese mismo organismo, y el análisis bioquímico, por espectrometría de masas y molecular demostró que los aislados de sangre y la cepa de la cápsula eran el mismo [s11]. No es un riesgo hipotético; se rastreó la cepa. ¿Con qué frecuencia? En una unidad de cuidados intensivos neonatales que usó probióticos de varias cepas durante más de una década, hubo 12 casos de bacteriemia por un organismo del producto entre 2.109 bebés expuestos —el 0,6 %— y no se atribuyó ninguna muerte a ninguno de ellos [s10]. Pequeño, real y limitado a una población frágil.
+**Las cepas probióticas pueden entrar en la sangre.** Tres bebés prematuros de muy bajo peso al nacer que tomaban un probiótico con *B. longum* viable desarrollaron una bacteriemia por ese mismo organismo, y el análisis bioquímico, por espectrometría de masas y molecular demostró que los aislados de sangre y la cepa de la cápsula eran el mismo [s11]. No es un riesgo hipotético; se rastreó la cepa. ¿Con qué frecuencia? En una unidad de cuidados intensivos neonatales que usó probióticos de varias cepas durante más de una década, hubo 12 casos de bacteriemia por un organismo del producto entre 2.109 bebés expuestos —el 0,6 %— y no se atribuyó ninguna muerte a ninguno de ellos [s10]. Pequeño, real y limitado a una población frágil.
 
-**El beneficio es mucho menos general que la publicidad.** El ensayo PiPS repartió al azar a 1.315 bebés muy prematuros entre *B. breve* BBG-001 y placebo [s7]. La enterocolitis necrosante apareció en el 9 % del grupo del probiótico y en el 10 % del grupo del placebo (razón de riesgo ajustada de 0,93), y tampoco hubo diferencia significativa en sepsis ni en muerte [s7]. Y cuando 51 ensayos aleatorizados con 11.231 bebés prematuros se analizaron cepa por cepa en vez de meterlos en un mismo saco, solo 3 de 25 tratamientos probióticos estudiados redujeron la mortalidad de forma significativa [s8]. Meter todas las cepas en un solo gráfico de bosque favorece al género. Desarmarlo, no.
+**El beneficio es mucho menos general que la publicidad.** El ensayo PiPS repartió al azar a 1.315 bebés muy prematuros entre *B. breve* BBG-001 y placebo [s7]. La enterocolitis necrosante apareció en el 9 % del grupo del probiótico y en el 10 % del grupo del placebo (razón de riesgo ajustada de 0,93), y tampoco hubo diferencia significativa en sepsis ni en muerte [s7]. Y cuando 51 ensayos aleatorizados con 11.231 bebés prematuros se analizaron cepa por cepa en vez de meterlos en un mismo saco, solo 3 de 25 tratamientos probióticos estudiados redujeron la mortalidad de forma significativa [s8]. Meter todas las cepas en un solo gráfico de bosque favorece al género. Desarmarlo, no.
 
 ## El nombre, viejo y nuevo
 

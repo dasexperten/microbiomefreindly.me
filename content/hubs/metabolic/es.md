@@ -1,5 +1,5 @@
 ---
-title: "Microbios y metabolismo: GLP-1, Akkermansia muciniphila y ácidos grasos"
+title: "Akkermansia muciniphila, GLP-1 y el metabolismo"
 meta: "Cómo hablan las bacterias con tu metabolismo: ácidos grasos de cadena corta, Akkermansia muciniphila y la hormona GLP-1. Qué es mecanismo, ratón y persona."
 kicker: "Microbios y metabolismo"
 type: hubs
@@ -18,16 +18,16 @@ voice: greger
 answer: "Las bacterias del intestino fermentan la fibra y producen ácidos grasos de cadena corta: acetato, propionato y butirato. Alimentan la pared intestinal y avisan a las células que liberan GLP-1, la hormona que frena el estómago y le dice al cerebro que estás lleno. Akkermansia muciniphila, que vive del moco, refuerza esa barrera. Es una vía, no una cura."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/metabolic/metabolic-card-en.webp"
-  cardLine: "What makes you feel full?"
-  cardAlt: "What makes you feel full? — a man stops at the edge of the park at dusk to get his breath back"
-  og: "/assets/img/mbf/hubs/metabolic/metabolic-og-en.jpg"
+  card: "/assets/img/mbf/hubs/metabolic/metabolic-card-es.webp"
+  cardLine: "¿Qué te hace sentir lleno?"
+  cardAlt: "¿Qué te hace sentir lleno? — un hombre se detiene al borde del parque al anochecer para recuperar el aliento"
+  og: "/assets/img/mbf/hubs/metabolic/metabolic-og-es.jpg"
   preview: "/assets/img/mbf/hubs/metabolic/metabolic-preview.webp"
-  previewAlt: "Illustration: a flask-shaped hormone cell in the gut lining holds glowing gold GLP-1 granules as fatty acid molecules settle on its tip"
-  plate: "/assets/img/mbf/hubs/metabolic/metabolic-plate-en.webp"
-  plateLines: "First — bacteria ferment fibre · Then — fatty acids reach a gut cell · So — it releases GLP-1 into the blood"
+  previewAlt: "Ilustración: una célula hormonal con forma de matraz en la mucosa del intestino guarda gránulos dorados de GLP-1 mientras moléculas de ácidos grasos se posan en su punta"
+  plate: "/assets/img/mbf/hubs/metabolic/metabolic-plate-es.webp"
+  plateLines: "Primero — las bacterias fermentan la fibra · Luego — los ácidos llegan a una célula del intestino · Resultado — suelta GLP-1 a la sangre"
   hero: "/assets/img/mbf/hubs/metabolic/metabolic-hero.webp"
-  heroAlt: "Illustration: bacteria ferment fibre into fatty acid molecules that dock on a hormone cell in the gut lining; it releases gold GLP-1 granules into a small blood vessel"
+  heroAlt: "Ilustración: las bacterias fermentan la fibra en moléculas de ácidos grasos que se acoplan a una célula hormonal de la mucosa del intestino; esta suelta gránulos dorados de GLP-1 a un vaso pequeño"
 referral:
   product: ""
   mayaLog: ""

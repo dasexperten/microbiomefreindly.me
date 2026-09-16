@@ -1,5 +1,5 @@
 ---
-title: "Restaurar la flora intestinal tras los antibióticos: sí, pero no del todo"
+title: "Restaurar la flora intestinal: sí, pero no del todo"
 meta: "Doce hombres sanos, tres antibióticos de último recurso, seis meses de muestras: la comunidad volvió casi a su punto de partida en 1,5 meses. Nueve especies no."
 kicker: "Magnus responde"
 type: ask
@@ -77,16 +77,16 @@ sources:
     doi: "10.1016/j.chom.2019.10.011"
     pmid: "31726029"
 images:
-  card: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-card-en.webp"
-  cardLine: "Can I rebuild my gut?"
-  cardAlt: "Can I rebuild my gut? — a woman at her kitchen table late in the evening, the course finished"
-  og: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-og-en.jpg"
+  card: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-card-es.webp"
+  cardLine: "¿Se recupera mi flora intestinal?"
+  cardAlt: "¿Se recupera mi flora intestinal? — una mujer en la mesa de su cocina ya de noche, terminado el tratamiento"
+  og: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-og-es.jpg"
   preview: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-preview.webp"
-  previewAlt: "Illustration: forked Bifidobacterium cells regrowing in loose gut mucus beside an empty hollow where cells once stood"
-  plate: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-plate-en.webp"
-  plateLines: "First — antibiotics strip it bare · Then — it refills in six weeks · So — 9 species are still missing"
+  previewAlt: "Ilustración: células bifurcadas de Bifidobacterium vuelven a crecer en el moco intestinal suelto, junto a un hueco vacío donde antes había células"
+  plate: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-plate-es.webp"
+  plateLines: "Primero — los antibióticos lo arrasan todo · Luego — se vuelve a llenar en seis semanas · Resultado — siguen faltando 9 especies"
   hero: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-hero.webp"
-  heroAlt: "Illustration: a gut bacterial community in three moments: crowded, stripped almost bare by antibiotics, then crowded again with nine places left empty"
+  heroAlt: "Ilustración: una comunidad de bacterias intestinales en tres momentos: llena, casi arrasada por los antibióticos y llena otra vez, con nueve lugares vacíos"
 referral:
   product: ""
   mayaLog: ""

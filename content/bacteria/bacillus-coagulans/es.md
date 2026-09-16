@@ -19,11 +19,11 @@ answer: "Bacillus coagulans es una bacteria láctica que sobrevive como espora d
 keyFacts:
   - fact: "Forma esporas y se comporta como una bacteria láctica: la cepa LMG S-24828, aislada de heces humanas sanas, sobrevivió a una digestión simulada y germinó en el intestino humano."
     source: s3
-  - fact: "Una revisión sistemática de ocho estudios de salud bucal encontró menos Streptococcus mutans en saliva, pero solo tres se pudieron combinar: efecto −0,74 (IC del 95 % de −1,38 a −0,10) con heterogeneidad I² = 98,3 %, y los autores concluyeron que las pruebas actuales son insuficientes."
+  - fact: "Una revisión sistemática de ocho estudios de salud bucal encontró menos Streptococcus mutans en saliva, pero solo tres se pudieron combinar: efecto −0,74 (IC del 95 % de −1,38 a −0,10) con heterogeneidad I² = 98,3 %, y los autores concluyeron que las pruebas actuales son insuficientes."
     source: s1
   - fact: "En los ensayos sobre intestino irritable los síntomas mejoraron, pero las citocinas medidas no se movieron: IL-6, IL-12, TNF-α, IFN-γ e IL-10 quedaron igual tras ocho semanas."
     source: s4
-  - fact: "La misma especie echa a perder alimentos: crece desde los 23,77 °C, alcanza su máximo a 52,89 °C y tolera un pH de hasta 4,70, el perfil de la comida tibia, ácida y de larga vida en anaquel."
+  - fact: "La misma especie echa a perder alimentos: crece desde los 23,77 °C, alcanza su máximo a 52,89 °C y tolera un pH de hasta 4,70, el perfil de la comida tibia, ácida y de larga vida en anaquel."
     source: s6
   - fact: "Los dos nombres están publicados válidamente: Heyndrickxia coagulans viene de una reclasificación basada en genomas de 2023, pero la LPSN mantiene Bacillus coagulans como nombre correcto y como el recomendado para uso médico, y deja la nueva combinación en suspenso hasta 2028 a más tardar."
     source: s2
@@ -91,16 +91,16 @@ entity:
   wikidata: "Q2603895"
   ncbiTaxId: "1398"
 images:
-  card: "/assets/img/mbf/bacteria/bacillus-coagulans/bacillus-coagulans-card-en.webp"
-  cardLine: "Do probiotic spores stay?"
-  cardAlt: "Do probiotic spores stay? — a woman in her thirties waits at a bus stop with her bag in cold daylight"
-  og: "/assets/img/mbf/bacteria/bacillus-coagulans/bacillus-coagulans-og-en.jpg"
+  card: "/assets/img/mbf/bacteria/bacillus-coagulans/bacillus-coagulans-card-es.webp"
+  cardLine: "¿Las esporas se quedan?"
+  cardAlt: "¿Las esporas se quedan? — una mujer de unos treinta espera en la parada del autobús con su bolsa, luz fría"
+  og: "/assets/img/mbf/bacteria/bacillus-coagulans/bacillus-coagulans-og-es.jpg"
   preview: "/assets/img/mbf/bacteria/bacillus-coagulans/bacillus-coagulans-preview.webp"
-  previewAlt: "Illustration: a rod-shaped Bacillus coagulans cell holding one gold oval spore, free spores beside it on a dry plant husk"
-  plate: "/assets/img/mbf/bacteria/bacillus-coagulans/bacillus-coagulans-plate-en.webp"
-  plateLines: "First — spores arrive asleep and whole · Then — one wakes and sours the sugar · So — they drift past and leave"
+  previewAlt: "Ilustración: una célula de Bacillus coagulans con forma de bastón que guarda una espora ovalada dorada, con esporas sueltas al lado sobre una cáscara vegetal seca"
+  plate: "/assets/img/mbf/bacteria/bacillus-coagulans/bacillus-coagulans-plate-es.webp"
+  plateLines: "Primero — las esporas llegan dormidas y enteras · Después — una despierta y agria el azúcar · Resultado — pasan de largo y se van"
   hero: "/assets/img/mbf/bacteria/bacillus-coagulans/bacillus-coagulans-hero.webp"
-  heroAlt: "Illustration: dormant Bacillus coagulans spores arrive in the gut, one splits open as a coral rod grows out, and the rods drift past the lining and away without settling"
+  heroAlt: "Ilustración: esporas dormidas de Bacillus coagulans llegan al intestino, una se abre y de ella crece un bastón coral, y los bastones pasan de largo junto a la mucosa y se van sin instalarse"
 referral:
   product: ""
   mayaLog: ""
@@ -135,7 +135,7 @@ Di la salvedad en voz alta: la germinación en el intestino humano vivo se demos
 
 **En la boca.** La síntesis a la que hay que mirar es una revisión sistemática con metaanálisis de Cirio y sus colegas, en la Universidad de Milán, publicada en *Frontiers in Oral Health* en enero de 2026 [s1]. Ocho estudios cumplieron los criterios —siete ensayos aleatorizados y un estudio no aleatorizado— con entre 30 y 183 participantes cada uno y edades de 5 a 73 años [s1]. Administrada en tabletas masticables, enjuague bucal o comida, la bacteria se asoció a menos *Streptococcus mutans* en saliva, el organismo más asociado a las caries dentales, aunque conviene leer con cuidado los estudios en adultos: en los dos que la hornearon dentro de un pastel, el grupo del probiótico no bajó, el que subió fue el del placebo [s1]. Dos estudios, uno en gingivitis y otro en periodontitis crónica, informaron de mejoras en el índice gingival, el sangrado al sondaje y el nivel de inserción clínica; en el ensayo de periodontitis, la única medida que superó al grupo control fue el índice de sangrado gingival [s1]. No se notificaron efectos adversos significativos [s1].
 
-Ahora la salvedad, que no es pequeña. Solo tres de los ocho estudios se pudieron combinar, y el efecto combinado fue de −0,74, con un intervalo de confianza del 95 % de −1,38 a −0,10 y una heterogeneidad I² = 98,3 % [s1]. Eso es casi el techo. Significa que esos tres estudios se contradecían entre sí con tanta violencia que la cifra combinada resume un desacuerdo en vez de medir un efecto. Una cosa más que conviene saber antes de citarla: el resumen del artículo imprime un número distinto —−0,99 a partir de cuatro estudios— del que aparece en su propia sección de resultados y en su gráfico, y hay que citar la sección de resultados [s1]. La dirección es constante: *S. mutans* baja. El tamaño de la bajada no está establecido, y la conclusión de los propios autores es que las pruebas actuales son insuficientes para respaldar una eficacia clínica en salud bucal [s1].
+Ahora la salvedad, que no es pequeña. Solo tres de los ocho estudios se pudieron combinar, y el efecto combinado fue de −0,74, con un intervalo de confianza del 95 % de −1,38 a −0,10 y una heterogeneidad I² = 98,3 % [s1]. Eso es casi el techo. Significa que esos tres estudios se contradecían entre sí con tanta violencia que la cifra combinada resume un desacuerdo en vez de medir un efecto. Una cosa más que conviene saber antes de citarla: el resumen del artículo imprime un número distinto —−0,99 a partir de cuatro estudios— del que aparece en su propia sección de resultados y en su gráfico, y hay que citar la sección de resultados [s1]. La dirección es constante: *S. mutans* baja. El tamaño de la bajada no está establecido, y la conclusión de los propios autores es que las pruebas actuales son insuficientes para respaldar una eficacia clínica en salud bucal [s1].
 
 **En el intestino.** Ensayos aleatorizados y controlados con placebo, todos en síndrome de intestino irritable. Madempudi y sus colegas repartieron al azar a 136 adultos entre la cepa Unique IS2, a 2 mil millones de unidades formadoras de colonias (UFC) al día, o placebo durante 8 semanas, y describieron una mejora significativa del dolor abdominal y de los objetivos relacionados con la evacuación [s4]. Majeed y sus colegas dieron a 36 pacientes con intestino irritable con predominio de diarrea la cepa MTCC 5856, a 2 × 10⁹ UFC al día, junto con la atención habitual durante 90 días, con menos distensión, menos dolor y menos frecuencia de evacuaciones [s5]. Shaikh y Kumar siguieron a 100 participantes con la cepa BCP92 durante 12 semanas y describieron una mejora de la gravedad del cuadro y de la consistencia de las heces [s9].
 
@@ -145,11 +145,11 @@ Algo más pertenece a esa frase: varios de estos ensayos los diseñaron o los fi
 
 ## Qué hace en nuestra contra
 
-**Echa a perder la comida.** Misiou y sus colegas construyeron un modelo de crecimiento validado para *B. coagulans* DSM 1 y le pusieron números al riesgo: el crecimiento empieza alrededor de los 23,77 °C, alcanza su máximo a 52,89 °C, cesa cerca de 59,37 °C y continúa hasta un pH de 4,70 [s6]. Léelo como la descripción de un plato preparado tibio, ácido y de larga vida en anaquel. Las esporas sobreviven al paso de calor, el producto viaja tibio, el organismo germina y lo agria; y como produce ácido sin mucho gas, el envase no se hincha. Nada parece estar mal hasta que lo pruebas.
+**Echa a perder la comida.** Misiou y sus colegas construyeron un modelo de crecimiento validado para *B. coagulans* DSM 1 y le pusieron números al riesgo: el crecimiento empieza alrededor de los 23,77 °C, alcanza su máximo a 52,89 °C, cesa cerca de 59,37 °C y continúa hasta un pH de 4,70 [s6]. Léelo como la descripción de un plato preparado tibio, ácido y de larga vida en anaquel. Las esporas sobreviven al paso de calor, el producto viaja tibio, el organismo germina y lo agria; y como produce ácido sin mucho gas, el envase no se hincha. Nada parece estar mal hasta que lo pruebas.
 
 **Es un organismo vivo, y los organismos vivos se meten de vez en cuando donde no deben.** Aquí no hay ningún brote ni motivo de alarma, pero el mecanismo es real: una pared intestinal dañada, un catéter venoso central o un sistema inmunitario debilitado pueden dejar pasar a la sangre una bacteria que has tragado. Qi y sus colegas usaron secuenciación del genoma completo para emparejar los aislados de hemocultivo de un hombre de 85 años, después de una cirugía de páncreas, con las cápsulas de probiótico que le habían dado [s8]. Hay que decir con claridad qué es ese caso y qué no es: se trataba de *Bacillus licheniformis* y *Lactiplantibacillus plantarum*, **no** de esta especie. El principio se generaliza; el caso, no.
 
-**La literatura sobre seguridad es más delgada de lo que parece.** La revisión de la AHRQ, de Hempel y sus colegas, cribó 11.977 publicaciones e incluyó 622 estudios sobre la seguridad de los probióticos [s7]. En el conjunto de los ensayos aleatorizados no hubo un aumento estadísticamente significativo de efectos adversos: riesgo relativo de 1,00, con un intervalo de confianza del 95 % de 0,93 a 1,07 para el número total de efectos adversos, y de 1,06, de 0,97 a 1,16, para otros efectos, incluidos los graves [s7]. Pero la conclusión de los propios autores fue que los efectos adversos estaban mal documentados y que los daños raros siguen siendo difíciles de detectar. Esa es la línea correcta: ni prueba de peligro ni prueba de seguridad.
+**La literatura sobre seguridad es más delgada de lo que parece.** La revisión de la AHRQ, de Hempel y sus colegas, cribó 11.977 publicaciones e incluyó 622 estudios sobre la seguridad de los probióticos [s7]. En el conjunto de los ensayos aleatorizados no hubo un aumento estadísticamente significativo de efectos adversos: riesgo relativo de 1,00, con un intervalo de confianza del 95 % de 0,93 a 1,07 para el número total de efectos adversos, y de 1,06, de 0,97 a 1,16, para otros efectos, incluidos los graves [s7]. Pero la conclusión de los propios autores fue que los efectos adversos estaban mal documentados y que los daños raros siguen siendo difíciles de detectar. Esa es la línea correcta: ni prueba de peligro ni prueba de seguridad.
 
 **Y los detalles son de cepa, no de especie.** El equipo de Duncan analizó su cepa específicamente en busca de producción de D-lactato, desconjugación de sales biliares, hemólisis y genes transmisibles de resistencia a antibióticos, y no encontró ninguno [s3]. Útil, y te dice que esas son propiedades que conviene comprobar en cada cepa, no garantías que se heredan del nombre de la especie.
 
