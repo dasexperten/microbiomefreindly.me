@@ -14,8 +14,16 @@ proved is empty, and the plate's band is a composed surface of its own, not a pa
 
   python3 tools/plates/build.py --strings data/plates/lines.json --masters <dir> --out rendered/
 """
-import argparse, json, os, re, sys
+import argparse, json, os, re, subprocess, sys, tempfile
 from PIL import Image, ImageDraw, ImageFont
+
+# Scripts this machine's Pillow cannot set honestly: it has FreeType but no raqm, so Arabic comes out
+# unjoined and Thai marks land wrong, and Nunito carries no CJK at all. Those lines are set by
+# tools/plates/shape.mjs — the browser's own shaping engine — and composited here. Same laws either
+# way: zero tracking, shrink-to-fit, nothing painted behind a line.
+SHAPED = {'ja', 'ko', 'zh-Hans', 'zh-hans', 'zh', 'th', 'ar'}
+RTL = {'ar'}
+DEFERRED = []   # {'img': Image, 'out': path, 'box': [...], 'job': {...}}
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 FONT = os.path.join(HERE, 'fonts', 'Nunito[wght].ttf')  # one family on the surface (§4h)
@@ -92,7 +100,19 @@ def fit(draw, text, box_w, box_h, weight, start, floor_ratio=0.80, leading=1.18)
     return None
 
 
-def draw_block(img, box, text, weight, start, ink, align='left'):
+def draw_block(img, box, text, weight, start, ink, align='left', lang=None, out=None):
+    """Set a block of words into a measured box. Returns True when the line is set or queued."""
+    if lang and lang.lower() in SHAPED:
+        # queued for the browser: it shapes, we composite. The box travels unchanged, so the field
+        # the measurement proved is the field the words land in.
+        jid = 'j%04d' % len(DEFERRED)
+        DEFERRED.append({'img': img, 'out': out, 'box': list(box), 'job': {
+            'id': jid, 'w': box[2], 'h': box[3], 'text': glue(text), 'ink': list(ink),
+            'lang': lang, 'dir': 'rtl' if lang.lower() in RTL else 'ltr',
+            'start': start, 'weight': weight,
+            'align': 'right' if lang.lower() in RTL else align,
+        }})
+        return True
     d = ImageDraw.Draw(img)
     x, y, w, h = box
     got = fit(d, glue(text), w, h, weight, start)
@@ -108,7 +128,36 @@ def draw_block(img, box, text, weight, start, ink, align='left'):
     return True
 
 
-def card_and_og(master, geo, question, out_card, out_og):
+def flush_shaped():
+    """Hand every queued line to the browser at once, then composite and save."""
+    if not DEFERRED:
+        return 0
+    with tempfile.TemporaryDirectory() as tmp:
+        jf = os.path.join(tmp, 'jobs.json')
+        with open(jf, 'w') as f:
+            json.dump([d['job'] for d in DEFERRED], f)
+        r = subprocess.run(['node', os.path.join(HERE, 'shape.mjs'), jf, tmp],
+                           capture_output=True, text=True)
+        try:
+            report = {x['id']: x for x in json.loads(r.stdout.strip().splitlines()[-1])}
+        except Exception:
+            print('SHAPE: the browser returned nothing — ' + (r.stderr or '').strip()[:200])
+            return len(DEFERRED)
+        bad = 0
+        for d in DEFERRED:
+            jid = d['job']['id']
+            layer = os.path.join(tmp, jid + '.png')
+            if not report.get(jid, {}).get('fitted') or not os.path.exists(layer):
+                print('FIT %s: the line does not fit its measured field — shorten the words' % d['out'])
+                bad += 1
+                continue
+            lay = Image.open(layer).convert('RGBA')
+            d['img'].paste(lay, (d['box'][0], d['box'][1]), lay)
+            d['img'].save(d['out'])
+        return bad
+
+
+def card_and_og(master, geo, question, out_card, out_og, lang=None):
     im = Image.open(master).convert('RGB')
     if im.size != (CARD_W, CARD_H):
         im = im.resize((CARD_W, CARD_H), Image.LANCZOS)
@@ -118,9 +167,10 @@ def card_and_og(master, geo, question, out_card, out_og):
     box = [int(v * k) for v in geo['box']]
     ink = geo.get('ink', list(INK))
     card = im.copy()
-    if not draw_block(card, box, question, 800, int(box[3] * 0.40), ink):
+    if not draw_block(card, box, question, 800, int(box[3] * 0.40), ink, lang=lang, out=out_card):
         return f'the question does not fit the measured field at the floor size — shorten the words, never the letters'
-    card.save(out_card)
+    if not (lang and lang.lower() in SHAPED):
+        card.save(out_card)
 
     # the social image is the centre band of the same frame, and the question is set again for its size
     band_top = int(CARD_H * 0.106)
@@ -129,13 +179,14 @@ def card_and_og(master, geo, question, out_card, out_og):
     ob = [int(box[0] * sx), int((box[1] - band_top) * sy), int(box[2] * sx), int(box[3] * sy)]
     ob[1] = max(12, min(ob[1], OG_H - ob[3] - 12))
     ob[2] = min(int(ob[2] * 1.15), OG_W - ob[0] - 24)
-    if not draw_block(og, ob, question, 800, int(ob[3] * 0.34), ink):
+    if not draw_block(og, ob, question, 800, int(ob[3] * 0.34), ink, lang=lang, out=out_og):
         return 'the question does not fit the social band'
-    og.save(out_og)
+    if not (lang and lang.lower() in SHAPED):
+        og.save(out_og)
     return None
 
 
-def plate(master, lines_text, out):
+def plate(master, lines_text, out, lang=None):
     """The accepted infographic keeps every pixel; the words sit on a band of the portal's own paper."""
     im = Image.open(master).convert('RGB')
     if im.size != (PLATE_W, FRAME_H):
@@ -148,15 +199,24 @@ def plate(master, lines_text, out):
     parts = [p.strip() for p in lines_text.split('·') if p.strip()]
     pad = 90
     col_w = (PLATE_W - pad * 2 - 80 * (len(parts) - 1)) // max(1, len(parts))
-    x = pad
     num_f = face(46, 700)
+    rtl = bool(lang) and lang.lower() in RTL
     for i, part in enumerate(parts, 1):
-        d.text((x, FRAME_H + 78), f'{i}', font=num_f, fill=TEAL)
-        ok = draw_block(sheet, [x + 62, FRAME_H + 66, col_w - 62, BAND_H - 150], part, 600, 54, list(INK))
+        # a band is read in the direction of its language: in Arabic the first beat is the rightmost
+        # column and its numeral stands to the right of the words it counts
+        col = (len(parts) - i) if rtl else (i - 1)
+        x = pad + col * (col_w + 80)
+        nx = x + col_w - 34 if rtl else x
+        tx = x if rtl else x + 62
+        d.text((nx, FRAME_H + 78), f'{i}', font=num_f, fill=TEAL)
+        ok = draw_block(sheet, [tx, FRAME_H + 66, col_w - 62, BAND_H - 150], part, 600, 54, list(INK),
+                        lang=lang, out=out)
         if not ok:
             return f'band line {i} does not fit — shorten it'
         x += col_w + 80
-    sheet.save(out)
+    # a shaped band is saved once, after the browser has set all three of its lines
+    if not (lang and lang.lower() in SHAPED):
+        sheet.save(out)
     return None
 
 
@@ -178,32 +238,35 @@ def main():
         cm = os.path.join(a.masters, typ, slug, f'{slug}-card.png')
         hm = os.path.join(a.masters, typ, slug, f'{slug}-hero.png')
         for lang, s in t['locales'].items():
+            shaped = lang.lower() in SHAPED
             if s.get('question'):
-                miss = covered(s['question'])
+                miss = [] if shaped else covered(s['question'])
                 if miss:
                     print(f'GLYPH {slug} {lang}: the face has no {miss} — the line is not set (§4h: one family, no silent swap)')
                     fails += 1
                     continue
                 if os.path.exists(cm):
-                    err = card_and_og(cm, t['geometry'], s['question'], os.path.join(od, f'{slug}-card-{lang}.png'), os.path.join(od, f'{slug}-og-{lang}.png'))
+                    err = card_and_og(cm, t['geometry'], s['question'], os.path.join(od, f'{slug}-card-{lang}.png'), os.path.join(od, f'{slug}-og-{lang}.png'), lang=lang)
                     if err:
                         print(f'FIT {slug} {lang}: {err}')
                         fails += 1
                     else:
                         made += 2
             if s.get('plateLines') and os.path.exists(hm):
-                miss = covered(s['plateLines'])
+                miss = [] if shaped else covered(s['plateLines'])
                 if miss:
                     print(f'GLYPH {slug} {lang} band: the face has no {miss}')
                     fails += 1
                     continue
-                err = plate(hm, s['plateLines'], os.path.join(od, f'{slug}-plate-{lang}.png'))
+                err = plate(hm, s['plateLines'], os.path.join(od, f'{slug}-plate-{lang}.png'), lang=lang)
                 if err:
                     print(f'FIT {slug} {lang}: {err}')
                     fails += 1
                 else:
                     made += 1
-    print(f'plates: {made} files · {fails} refused')
+    shaped_bad = flush_shaped()
+    fails += shaped_bad
+    print(f'plates: {made} files · {fails} refused' + (f' · {len(DEFERRED)} set by the browser' if DEFERRED else ''))
     sys.exit(1 if fails else 0)
 
 
