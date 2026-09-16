@@ -18,13 +18,13 @@ voice: greger
 answer: "입속 미생물은 치아와 잇몸, 혀, 볼 안쪽에 사는 세균의 무리입니다. 치아 위에서는 치태를 이룹니다. 세균이 스스로 만든 당이 붙들어 주는 짜임새 있는 바이오필름이지요. 균형이 맞을 때는 지켜 주지만, 당이 잦거나 닦는 일이 드물면 산을 만드는 종이 우세해지고, 법랑질이 녹고 잇몸에 염증이 생깁니다."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/oral/oral-card-en.webp"
+  card: "/assets/img/mbf/hubs/oral/oral-card-ko.webp"
   cardLine: "치태는 어디서 생길까?"
   cardAlt: "치태는 어디서 생길까? — 서늘한 새벽빛 속에서 여성이 막 입을 헹구고 세면대 위로 몸을 숙인다"
-  og: "/assets/img/mbf/hubs/oral/oral-og-en.jpg"
+  og: "/assets/img/mbf/hubs/oral/oral-og-ko.jpg"
   preview: "/assets/img/mbf/hubs/oral/oral-preview.webp"
   previewAlt: "일러스트: 치아 법랑질 위에 짧은 사슬을 이룬 둥근 세균이 갓 쌓인 더미를 이루고, 금빛 테두리의 반들거리는 당 젤에 싸여 있다"
-  plate: "/assets/img/mbf/hubs/oral/oral-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/oral/oral-plate-ko.webp"
   plateLines: "먼저 — 세균이 법랑질에 들러붙는다 · 그다음 — 당이 산을 만드는 균을 먹인다 · 결과 — 그 아래 법랑질이 물러진다"
   hero: "/assets/img/mbf/hubs/oral/oral-hero.webp"
   heroAlt: "일러스트: 치아 법랑질 위 치태 더미에 당이 계속 닿고, 산을 만드는 둥근 세균이 우세해지며, 산호색 산의 아지랑이가 그 아래 법랑질을 무르게 한다"

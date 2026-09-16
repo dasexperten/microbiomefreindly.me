@@ -18,13 +18,13 @@ voice: greger
 answer: "장-피부 축은 장내 미생물과 피부 사이의 양방향 연결입니다. 장내 세균은 피부로 도는 면역세포와 대사산물을 빚고, 피부 자신의 미생물은 그 면역의 결에 응답합니다. 습진과 여드름, 주사는 장의 변화와 연관돼 있습니다. 세균이 얼굴로 옮겨 가서가 아니라 염증과 장벽 기능, 식사를 통해서입니다."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/skin/skin-card-en.webp"
+  card: "/assets/img/mbf/hubs/skin/skin-card-ko.webp"
   cardLine: "장이 피부에 드러날까?"
   cardAlt: "장이 피부에 드러날까? — 아침 햇살이 드는 창가에서 여성이 손끝을 턱에 가볍게 얹고 있다"
-  og: "/assets/img/mbf/hubs/skin/skin-og-en.jpg"
+  og: "/assets/img/mbf/hubs/skin/skin-og-ko.jpg"
   preview: "/assets/img/mbf/hubs/skin/skin-preview.webp"
   previewAlt: "일러스트: 납작한 피부 표면 세포 위에 포도송이처럼 모인 둥근 세균, 그리고 모공 가장자리의 산호색 짧은 막대균"
-  plate: "/assets/img/mbf/hubs/skin/skin-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/skin/skin-plate-ko.webp"
   plateLines: "먼저 — 장내 세균이 분자를 내놓는다 · 그다음 — 세균이 아니라 혈액이 그것을 나른다 · 결과 — 피부의 미생물이 답한다"
   hero: "/assets/img/mbf/hubs/skin/skin-hero.webp"
   heroAlt: "일러스트: 장내 세균은 제자리에 머물고, 장 점막에서 나온 라임색 분자와 면역세포가 혈류를 타고 피부 표면과 그곳의 미생물에게 닿는다"

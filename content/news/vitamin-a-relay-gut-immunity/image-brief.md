@@ -168,3 +168,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ms card alt: "Siapa bawa vitamin ke sana? — seorang wanita menghiris lobak merah di kaunter dapurnya di bawah lampu petang"
 - ms card question: "Siapa bawa vitamin ke sana?"
 - ms plate lines: "Mula-mula — bakteria usus mengejutkan lapisan usus · Kemudian — protein pembawa mengambil retinol · Hasilnya — kurang 2 % sampai ke sel imun"
+
+- ja preview alt: "イラスト：腸の粘膜のやわらかいひだに、節のある細菌の糸が先端で根を下ろし、入り込むところに小さな金色のきらめきがある"
+- ja hero alt: "イラスト：腸の粘膜に根を下ろした節のある細菌。その粘膜の細胞は金色のビタミンAの滴を抱えており、滴の一つが枝分かれした免疫細胞へ、さらにT細胞へと渡っていく"
+- ja card alt: "誰がビタミンを運ぶ？ — 夜のランプの下、女性がキッチンカウンターでにんじんを切っている"
+- ja card question: "誰がビタミンを運ぶ？"
+- ja plate lines: "まず — 腸内細菌が粘膜を起こす · 次に — 運び屋タンパク質がレチノールを拾う · 結果 — 免疫細胞に届くのは2%未満"
+
+- tl preview alt: "Ilustrasyon: mga hibla ng bacteria na hati-hati sa segment at nakaugat ang dulo sa malambot na tupi ng lining ng bituka, may maliit na gintong kislap kung saan pumapasok ang isa"
+- tl hero alt: "Ilustrasyon: mga bacteria na hati-hati sa segment na nakaugat sa lining ng bituka, na ang mga selula ay may hawak na gintong patak ng vitamin A; isang patak ang naipapasa sa isang sanga-sangang immune cell at saka sa mga T cell"
+- tl card alt: "Sino ang nagdadala ng bitamina? — isang babaeng naghihiwa ng karot sa lamesa ng kusina sa ilalim ng lampara sa gabi"
+- tl card question: "Sino ang nagdadala ng bitamina?"
+- tl plate lines: "Una — ginigising ng gut bacteria ang lining · Tapos — kinukuha ng protinang tagadala ang retinol · Kaya — wala pang 2 % ang umaabot sa immune cell"

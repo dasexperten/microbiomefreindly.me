@@ -18,13 +18,13 @@ voice: greger
 answer: "Ang gut–skin axis ay ang dalawang-daang ugnayan ng gut microbiome at ng balat. Hinuhubog ng gut bacteria ang immune cells at metabolite na umaabot sa balat; tumutugon dito ang sariling microbes ng balat. Nauugnay ang eczema, acne at rosacea sa pagbabago sa bituka — sa inflammation, sa hadlang at sa diyeta, hindi sa bacteria na naglalakbay sa mukha."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/skin/skin-card-en.webp"
+  card: "/assets/img/mbf/hubs/skin/skin-card-tl.webp"
   cardLine: "Nakikita sa balat ang gut?"
   cardAlt: "Nakikita sa balat ang gut? — isang babae sa may bintanang sinisikatan ng araw sa umaga, nakadantay ang mga daliri sa panga"
-  og: "/assets/img/mbf/hubs/skin/skin-og-en.jpg"
+  og: "/assets/img/mbf/hubs/skin/skin-og-tl.jpg"
   preview: "/assets/img/mbf/hubs/skin/skin-preview.webp"
   previewAlt: "Ilustrasyon: mga kumpol na parang ubas ng bilog na bacteria sa patag na selula ng balat, at korales na maiikling rod sa labi ng pores"
-  plate: "/assets/img/mbf/hubs/skin/skin-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/skin/skin-plate-tl.webp"
   plateLines: "Una — naglalabas ng molekula ang gut bacteria · Tapos — dugo ang naghahatid, hindi bacteria · Kaya — sumasagot ang sariling microbes ng balat"
   hero: "/assets/img/mbf/hubs/skin/skin-hero.webp"
   heroAlt: "Ilustrasyon: nananatili sa kinaroroonan ang gut bacteria habang naglalakbay sa dugo ang berdeng molekula at immune cells mula sa lining ng bituka patungo sa balat at sa sariling microbes nito"

@@ -18,13 +18,13 @@ voice: greger
 answer: "Bacteriile din intestin fermentează fibrele în acizi grași cu lanț scurt — acetat, propionat, butirat. Aceștia hrănesc peretele intestinului și dau semnal celulelor care eliberează GLP-1, hormonul care încetinește stomacul și îi spune creierului că ești sătul. Akkermansia muciniphila, care trăiește din mucus, întărește bariera ce ține discuția în ordine. Este o cale, nu un leac."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/metabolic/metabolic-card-en.webp"
+  card: "/assets/img/mbf/hubs/metabolic/metabolic-card-ro.webp"
   cardLine: "De ce te simți sătul?"
   cardAlt: "De ce te simți sătul? — un bărbat se oprește la marginea parcului, în amurg, ca să-și tragă sufletul"
-  og: "/assets/img/mbf/hubs/metabolic/metabolic-og-en.jpg"
+  og: "/assets/img/mbf/hubs/metabolic/metabolic-og-ro.jpg"
   preview: "/assets/img/mbf/hubs/metabolic/metabolic-preview.webp"
   previewAlt: "Ilustrație: o celulă hormonală în formă de balon din mucoasa intestinului ține granule aurii de GLP-1, în timp ce molecule de acizi grași se așază pe vârful ei"
-  plate: "/assets/img/mbf/hubs/metabolic/metabolic-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/metabolic/metabolic-plate-ro.webp"
   plateLines: "Întâi — bacteriile fermentează fibrele · Apoi — acizii grași ajung la o celulă a intestinului · Rezultat — ea eliberează GLP-1 în sânge"
   hero: "/assets/img/mbf/hubs/metabolic/metabolic-hero.webp"
   heroAlt: "Ilustrație: bacteriile fermentează fibrele în molecule de acizi grași care se prind de o celulă hormonală din mucoasa intestinului; ea eliberează granule aurii de GLP-1 într-un vas mic de sânge"

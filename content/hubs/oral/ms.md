@@ -18,13 +18,13 @@ voice: greger
 answer: "Mikrobiom mulut ialah komuniti bakteria yang hidup pada gigi, gusi, lidah dan pipi. Pada gigi ia membentuk plak — biofilem bertata yang dilekatkan oleh gula yang dibuat bakteria itu sendiri. Dalam keadaan seimbang ia melindungi; apabila gula kerap masuk atau pembersihan jarang, spesies penghasil asid mengambil alih, enamel larut dan gusi meradang."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/oral/oral-card-en.webp"
+  card: "/assets/img/mbf/hubs/oral/oral-card-ms.webp"
   cardLine: "Dari mana datangnya plak?"
   cardAlt: "Dari mana datangnya plak? — seorang wanita tunduk di atas sinki dalam cahaya pagi yang dingin, baru selesai berkumur"
-  og: "/assets/img/mbf/hubs/oral/oral-og-en.jpg"
+  og: "/assets/img/mbf/hubs/oral/oral-og-ms.jpg"
   preview: "/assets/img/mbf/hubs/oral/oral-preview.webp"
   previewAlt: "Ilustrasi: busut muda bakteria bulat dalam rantai pendek pada enamel gigi, berbalut gel gula berkilat dengan birai keemasan"
-  plate: "/assets/img/mbf/hubs/oral/oral-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/oral/oral-plate-ms.webp"
   plateLines: "Mula-mula — bakteria melekat pada enamel · Kemudian — gula memberi makan penghasil asid · Hasilnya — enamel melembut di bawahnya"
   hero: "/assets/img/mbf/hubs/oral/oral-hero.webp"
   heroAlt: "Ilustrasi: gula terus sampai ke busut plak pada enamel gigi, bakteria bulat penghasil asid mengambil alih, dan kabus asid berwarna karang melembutkan enamel di bawahnya"

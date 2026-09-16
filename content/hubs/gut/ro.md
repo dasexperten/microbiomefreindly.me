@@ -18,13 +18,13 @@ voice: greger
 answer: "Microbiomul intestinal este comunitatea de bacterii, arhee, fungi și virusuri care trăiesc mai ales în intestinul gros. Digeră fibrele pe care noi nu le putem digera, face acizi grași cu lanț scurt și vitamine, antrenează sistemul imunitar și ține hrănită mucoasa intestinului. Îl modelează alimentația, nașterea, antibioticele și vârsta — și se schimbă în câteva zile."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/gut/gut-card-en.webp"
+  card: "/assets/img/mbf/hubs/gut/gut-card-ro.webp"
   cardLine: "E sănătos intestinul meu?"
   cardAlt: "E sănătos intestinul meu? — o femeie urcă seara treptele casei cu o sacoșă de legume"
-  og: "/assets/img/mbf/hubs/gut/gut-og-en.jpg"
+  og: "/assets/img/mbf/hubs/gut/gut-og-ro.jpg"
   preview: "/assets/img/mbf/hubs/gut/gut-preview.webp"
   previewAlt: "Ilustrație: o mulțime amestecată de bacterii intestinale, în formă de bastonaș și rotunde, se hrănește pe un fragment de fibră vegetală cu marginea destrămată aurie"
-  plate: "/assets/img/mbf/hubs/gut/gut-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/gut/gut-plate-ro.webp"
   plateLines: "Întâi — sosesc fibrele pe care nu le digerăm · Apoi — mulțimea le fermentează · Rezultat — acizii hrănesc peretele"
   hero: "/assets/img/mbf/hubs/gut/gut-hero.webp"
   heroAlt: "Ilustrație: fibra vegetală ajunge în colon, bacteriile o fermentează, iar molecule coral de acizi grași cu lanț scurt trec în celulele mucoasei intestinale"

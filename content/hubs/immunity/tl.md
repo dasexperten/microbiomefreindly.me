@@ -18,13 +18,13 @@ voice: greger
 answer: "Hindi ginawa ang immune system para lipulin ang microbes; ginawa ito para makisama sa kanila. Tinuturuan ng bacteria sa lining ng bituka ang immune cells — macrophages, regulatory T cells — kung aling hudyat ang panganib at alin ang kapitbahay. Ang pagkatutong iyon, ang tolerance, ay nagsisimula sa kapanganakan. Kapag nabigo ito, chronic inflammation ang bunga, hindi impeksiyon."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/immunity/immunity-card-en.webp"
+  card: "/assets/img/mbf/hubs/immunity/immunity-card-tl.webp"
   cardLine: "Paano natututo ang immune system?"
   cardAlt: "Paano natututo ang immune system? — huminto ang isang babae sa tarangkahan ng walang taong palaruan sa hapon"
-  og: "/assets/img/mbf/hubs/immunity/immunity-og-en.jpg"
+  og: "/assets/img/mbf/hubs/immunity/immunity-og-tl.jpg"
   preview: "/assets/img/mbf/hubs/immunity/immunity-preview.webp"
   previewAlt: "Ilustrasyon: pinupulupot ng macrophage sa ilalim ng lining ng bituka ang korales na braso nito sa isang pahabang bacterium sa mainit na liwanag"
-  plate: "/assets/img/mbf/hubs/immunity/immunity-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/immunity/immunity-plate-tl.webp"
   plateLines: "Una — nagsesenyas ang bacteria sa kabila ng dingding · Tapos — tahimik lang ang selulang nagbabantay · Kaya — humahawak ang tolerance, walang alarma"
   hero: "/assets/img/mbf/hubs/immunity/immunity-hero.webp"
   heroAlt: "Ilustrasyon: naglalabas ng maliliit na molekula ang bacteria sa ibabaw ng manipis na lining ng bituka; sinisipsip ito ng macrophage sa ilalim at nananatiling kalmado katabi ng gintong regulatory T cells"

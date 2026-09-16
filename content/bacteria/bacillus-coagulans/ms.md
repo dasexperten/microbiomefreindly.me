@@ -23,7 +23,7 @@ keyFacts:
     source: s1
   - fact: "Dalam ujian IBS, gejala bertambah baik sedangkan sitokin yang diukur tidak: IL-6, IL-12, TNF-α, IFN-γ dan IL-10 tidak berubah selepas lapan minggu."
     source: s4
-  - fact: "Spesies yang sama ialah organisma perosak makanan: ia tumbuh bermula 23.77 °C, memuncak pada 52.89 °C, dan tahan pH serendah 4.70 — profil makanan panas, berasid dan tahan simpan."
+  - fact: "Spesies yang sama ialah organisma perosak makanan: ia tumbuh bermula 23.77 °C, memuncak pada 52.89 °C, dan tahan pH serendah 4.70 — profil makanan panas, berasid dan tahan simpan."
     source: s6
   - fact: "Kedua-dua nama diterbitkan secara sah: Heyndrickxia coagulans datang daripada pengelasan semula berasaskan genom pada 2023, tetapi LPSN mengekalkan Bacillus coagulans sebagai nama yang betul dan nama yang disarankan untuk kegunaan perubatan, menangguhkan gabungan baharu itu sehingga selewat-lewatnya 2028."
     source: s2
@@ -145,7 +145,7 @@ Satu lagi perkara yang wajar ada dalam ayat ini: beberapa daripada ujian tersebu
 
 ## Apa yang ia lakukan terhadap kita
 
-**Ia merosakkan makanan.** Misiou dan rakan-rakan membina model pertumbuhan yang disahkan bagi *B. coagulans* DSM 1 dan meletakkan angka pada risikonya: pertumbuhan bermula sekitar 23.77 °C, memuncak pada 52.89 °C, berhenti berhampiran 59.37 °C, dan berterusan sehingga pH 4.70 [s6]. Bacalah itu sebagai huraian tentang makanan siap saji yang panas, berasid dan tahan simpan. Spora bertahan melalui langkah pemanasan, produk itu duduk panas semasa dihantar, organisma itu bercambah dan memasamkannya — dan kerana ia menghasilkan asid tanpa banyak gas, bungkusannya tidak mengembung. Tiada apa-apa yang kelihatan salah sehinggalah anda merasainya.
+**Ia merosakkan makanan.** Misiou dan rakan-rakan membina model pertumbuhan yang disahkan bagi *B. coagulans* DSM 1 dan meletakkan angka pada risikonya: pertumbuhan bermula sekitar 23.77 °C, memuncak pada 52.89 °C, berhenti berhampiran 59.37 °C, dan berterusan sehingga pH 4.70 [s6]. Bacalah itu sebagai huraian tentang makanan siap saji yang panas, berasid dan tahan simpan. Spora bertahan melalui langkah pemanasan, produk itu duduk panas semasa dihantar, organisma itu bercambah dan memasamkannya — dan kerana ia menghasilkan asid tanpa banyak gas, bungkusannya tidak mengembung. Tiada apa-apa yang kelihatan salah sehinggalah anda merasainya.
 
 **Ia organisma hidup, dan organisma hidup sekali-sekala masuk ke tempat yang sepatutnya tidak.** Tiada wabak di sini dan tiada sebab untuk cemas, tetapi mekanismenya benar: lapisan usus yang rosak, kateter vena pusat atau sistem imun yang tertekan boleh membenarkan bakteria yang ditelan masuk ke dalam aliran darah. Qi dan rakan-rakan menggunakan penjujukan genom penuh untuk memadankan pencilan kultur darah pada seorang lelaki berusia 85 tahun selepas pembedahan pankreas dengan kapsul probiotik yang telah diberikan kepadanya [s8]. Nyatakan dengan jelas apa kes itu dan apa yang bukan: ia melibatkan *Bacillus licheniformis* dan *Lactiplantibacillus plantarum*, **bukan** spesies ini. Prinsipnya boleh diumumkan; kesnya tidak.
 

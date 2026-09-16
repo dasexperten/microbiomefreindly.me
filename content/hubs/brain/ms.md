@@ -18,13 +18,13 @@ voice: greger
 answer: "Paksi usus–otak ialah himpunan laluan yang membolehkan usus dan mikrobnya bercakap dengan otak: saraf vagus, hormon daripada sel usus, utusan imun dan metabolit bakteria dalam darah. Kebanyakan serotonin badan dihasilkan dalam usus, di bawah pengaruh mikrob. Hubungan itu nyata; sebesar mana kesannya pada mood manusia masih sedang diukur."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/brain/brain-card-en.webp"
+  card: "/assets/img/mbf/hubs/brain/brain-card-ms.webp"
   cardLine: "Bolehkah bakteria usus ubah mood?"
   cardAlt: "Bolehkah bakteria usus ubah mood? — seorang wanita berdiri di tingkap ruang tamu waktu senja, tangan di leher"
-  og: "/assets/img/mbf/hubs/brain/brain-og-en.jpg"
+  og: "/assets/img/mbf/hubs/brain/brain-og-ms.jpg"
   preview: "/assets/img/mbf/hubs/brain/brain-preview.webp"
   previewAlt: "Ilustrasi: jaringan kelompok sel saraf yang disambung berkas serabut pada dinding otot usus, satu kelompok berwarna hijau limau"
-  plate: "/assets/img/mbf/hubs/brain/brain-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/brain/brain-plate-ms.webp"
   plateLines: "Mula-mula — mikrob usus melepaskan molekul · Kemudian — sel usus mengesan dan memberi isyarat · Hasilnya — saraf membawanya, mereka kekal"
   hero: "/assets/img/mbf/hubs/brain/brain-hero.webp"
   heroAlt: "Ilustrasi: bakteria usus melepaskan molekul kecil, sel hormon pada lapisan usus mengesannya, dan isyarat emas meluncur menyusur saraf ke arah otak"

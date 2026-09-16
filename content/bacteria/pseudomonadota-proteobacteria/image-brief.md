@@ -149,3 +149,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - tl card alt: "Ito ba ang masasamang bacteria? — isang babaeng nakaluhod sa hanay ng beans sa taniman sa hapon"
 - tl card question: "Ito ba ang masasamang bacteria?"
 - tl plate lines: "Una — iilang baras sa dami na walang hangin · Tapos — tumatagas ang oxygen sa masakit na lining · Kaya — dumarami sila at nanipis ang iba"
+
+- th preview alt: "ภาพประกอบ: แบคทีเรียรูปแท่งสั้นรวมตัวกันอยู่ในหมอกบาง ๆ สีเขียวมะนาว เหนือเซลล์ทรงมนของเยื่อบุลำไส้ขึ้นมาเล็กน้อย"
+- th hero alt: "ภาพประกอบ: แท่งสั้นไม่กี่ตัวอาศัยอยู่ท่ามกลางแบคทีเรียในลำไส้จำนวนมากบนเยื่อบุที่ไร้อากาศ พอเยื่อบุปล่อยหมอกออกซิเจนจาง ๆ รั่วออกมา แท่งเหล่านั้นก็เพิ่มจำนวนและตัวอื่นก็บางตาลง"
+- th card alt: "พวกนี้คือแบคทีเรียตัวร้ายหรือ? — หญิงคนหนึ่งคุกเข่าอยู่ที่แถวถั่วในแปลงผักยามบ่ายแก่"
+- th card question: "พวกนี้คือแบคทีเรียตัวร้ายหรือ?"
+- th plate lines: "ก่อนอื่น — แท่งไม่กี่ตัวในฝูงที่ไร้อากาศ · จากนั้น — เยื่อบุที่ระบมปล่อยออกซิเจนรั่วออกมา · ผลลัพธ์ — พวกมันเบ่งบานและตัวอื่นบางตาลง"

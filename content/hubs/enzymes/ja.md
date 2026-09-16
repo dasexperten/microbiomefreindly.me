@@ -18,13 +18,13 @@ voice: greger
 answer: "酵素は、決まった結合をひとつだけ切るタンパク質です。デキストラナーゼは歯垢の糖ののりを切り、パパインとブロメラインはタンパク質を切り、リゾチームは細菌の細胞壁を切り、グルコースオキシダーゼはブドウ糖を穏やかな消毒成分に変えます。どれも広く殺しはしません。構造を取り除くのが仕事で、だから抗菌薬ではなくバイオフィルム対策として研究されています。"
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/enzymes/enzymes-card-en.webp"
+  card: "/assets/img/mbf/hubs/enzymes/enzymes-card-ja.webp"
   cardLine: "酵素は細菌を殺すの？"
   cardAlt: "酵素は細菌を殺すの？ — 午前遅くの日差しの中、女性が食卓でパイナップルとパパイヤを切る"
-  og: "/assets/img/mbf/hubs/enzymes/enzymes-og-en.jpg"
+  og: "/assets/img/mbf/hubs/enzymes/enzymes-og-ja.jpg"
   preview: "/assets/img/mbf/hubs/enzymes/enzymes-preview.webp"
   previewAlt: "イラスト：折りたたまれた酵素タンパク質が溝に糖の鎖を抱え、珊瑚色に示された結合をひとつ切る。暖かい逆光の中で"
-  plate: "/assets/img/mbf/hubs/enzymes/enzymes-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/enzymes/enzymes-plate-ja.webp"
   plateLines: "まず — 糖の網が歯垢をつなぎ止める · 次に — 酵素が結合をひとつ切る · 結果 — 網は崩れ、細菌は生きている"
   hero: "/assets/img/mbf/hubs/enzymes/enzymes-hero.webp"
   heroAlt: "イラスト：糖の鎖の網に捕らえられた球菌の連なり。酵素タンパク質がライム色の点で鎖を切り、放たれた細菌は形を保ったまま漂い出す"

@@ -18,13 +18,13 @@ voice: greger
 answer: "腸内フローラは、主に大腸にすむ細菌・古細菌・真菌・ウイルスの群れです。私たちに消化できない食物繊維を分解し、短鎖脂肪酸やビタミンを作り、免疫を教育し、腸の粘膜を養います。食事、出産、抗生物質、加齢がその形を決め、しかも数日で変わります。"
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/gut/gut-card-en.webp"
+  card: "/assets/img/mbf/hubs/gut/gut-card-ja.webp"
   cardLine: "私の腸内フローラは健康？"
   cardAlt: "私の腸内フローラは健康？ — 夕暮れ、野菜の袋を提げた女性が自宅の玄関階段を上がる"
-  og: "/assets/img/mbf/hubs/gut/gut-og-en.jpg"
+  og: "/assets/img/mbf/hubs/gut/gut-og-ja.jpg"
   preview: "/assets/img/mbf/hubs/gut/gut-preview.webp"
   previewAlt: "イラスト：棒状と球状の腸内細菌が入り混じった群れが、ふちのほつれた植物繊維の断片で食事をしている。ほつれた縁だけが金色に光る"
-  plate: "/assets/img/mbf/hubs/gut/gut-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/gut/gut-plate-ja.webp"
   plateLines: "まず — 消化できない繊維が届く · 次に — 群れがそれを発酵させる · 結果 — 酸が腸の壁を養う"
   hero: "/assets/img/mbf/hubs/gut/gut-hero.webp"
   heroAlt: "イラスト：植物繊維が大腸に届き、細菌がそれを発酵させ、珊瑚色の短鎖脂肪酸の分子が腸粘膜の細胞へ入っていく"

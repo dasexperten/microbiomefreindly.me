@@ -18,13 +18,13 @@ voice: greger
 answer: "Sistemul imunitar nu este făcut ca să șteargă microbii; este făcut ca să trăiască cu ei. Bacteriile de pe mucoasa intestinului învață celulele imunitare — macrofage, limfocite T reglatoare — care semnale înseamnă pericol și care înseamnă vecin. Învățătura aceasta, numită toleranță, începe la naștere. Când dă greș, urmarea este inflamația cronică, nu infecția."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/immunity/immunity-card-en.webp"
+  card: "/assets/img/mbf/hubs/immunity/immunity-card-ro.webp"
   cardLine: "Cum se învață toleranța?"
   cardAlt: "Cum se învață toleranța? — o femeie se oprește la poarta unui loc de joacă gol, în lumina joasă de după-amiază"
-  og: "/assets/img/mbf/hubs/immunity/immunity-og-en.jpg"
+  og: "/assets/img/mbf/hubs/immunity/immunity-og-ro.jpg"
   preview: "/assets/img/mbf/hubs/immunity/immunity-preview.webp"
   previewAlt: "Ilustrație: un macrofag de sub mucoasa intestinului cuprinde cu un braț coral o bacterie în formă de bastonaș, într-o pată caldă de lumină"
-  plate: "/assets/img/mbf/hubs/immunity/immunity-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/immunity/immunity-plate-ro.webp"
   plateLines: "Întâi — bacteriile transmit semnale prin perete · Apoi — celula de pază rămâne tăcută · Rezultat — toleranța ține, fără alarmă"
   hero: "/assets/img/mbf/hubs/immunity/immunity-hero.webp"
   heroAlt: "Ilustrație: bacteriile de deasupra mucoasei groase de o celulă eliberează molecule mici; macrofagul de dedesubt le preia și rămâne calm, lângă limfocite T reglatoare aurii"

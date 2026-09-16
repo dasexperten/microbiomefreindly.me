@@ -18,13 +18,13 @@ voice: greger
 answer: "Enzim ialah protein yang memotong satu ikatan tertentu. Dekstranase memotong gam gula plak gigi; papain dan bromelain memotong protein; lisozim memotong dinding sel bakteria; glukosa oksidase menukar glukosa menjadi antiseptik lembut. Tiada satu pun membunuh secara meluas. Semuanya bekerja dengan membuang struktur — sebab itulah ia dikaji terhadap biofilem, bukan sebagai antibiotik."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/enzymes/enzymes-card-en.webp"
+  card: "/assets/img/mbf/hubs/enzymes/enzymes-card-ms.webp"
   cardLine: "Adakah enzim bunuh bakteria?"
   cardAlt: "Adakah enzim bunuh bakteria? — seorang wanita memotong nanas dan betik di meja makan dalam cahaya pagi lewat"
-  og: "/assets/img/mbf/hubs/enzymes/enzymes-og-en.jpg"
+  og: "/assets/img/mbf/hubs/enzymes/enzymes-og-ms.jpg"
   preview: "/assets/img/mbf/hubs/enzymes/enzymes-preview.webp"
   previewAlt: "Ilustrasi: protein enzim terlipat memegang rantai gula dalam alurnya dan memotong satu pautan, bertanda karang, dalam cahaya belakang yang hangat"
-  plate: "/assets/img/mbf/hubs/enzymes/enzymes-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/enzymes/enzymes-plate-ms.webp"
   plateLines: "Mula-mula — jaringan gula memegang plak · Kemudian — enzim memotong satu pautan · Hasilnya — jaringan runtuh, sel terus hidup"
   hero: "/assets/img/mbf/hubs/enzymes/enzymes-hero.webp"
   heroAlt: "Ilustrasi: rantai bakteria bulat terperangkap dalam jaringan rantai gula; protein enzim memotong rantai itu pada titik hijau limau, dan bakteria yang terlepas hanyut, masih utuh"

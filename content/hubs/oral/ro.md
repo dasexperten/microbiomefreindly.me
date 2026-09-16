@@ -18,13 +18,13 @@ voice: greger
 answer: "Microbiomul gurii este comunitatea de bacterii care trăiesc pe dinți, pe gingii, pe limbă și pe obraji. Pe dinți formează placa — un biofilm structurat, ținut laolaltă de zaharuri făcute chiar de bacterii. În echilibru, protejează; când zahărul vine des sau curățarea e rară, speciile care fac acid preiau locul, smalțul se dizolvă, iar gingiile se inflamează."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/oral/oral-card-en.webp"
+  card: "/assets/img/mbf/hubs/oral/oral-card-ro.webp"
   cardLine: "De unde vine placa?"
   cardAlt: "De unde vine placa? — o femeie se apleacă peste chiuvetă în lumina rece a dimineții, după ce tocmai s-a clătit"
-  og: "/assets/img/mbf/hubs/oral/oral-og-en.jpg"
+  og: "/assets/img/mbf/hubs/oral/oral-og-ro.jpg"
   preview: "/assets/img/mbf/hubs/oral/oral-preview.webp"
   previewAlt: "Ilustrație: o movilă tânără de bacterii rotunde, în lănțișoare scurte, pe smalțul dintelui, învelită într-un gel de zahăr lucios cu margine aurie"
-  plate: "/assets/img/mbf/hubs/oral/oral-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/oral/oral-plate-ro.webp"
   plateLines: "Întâi — bacteriile se lipesc de smalț · Apoi — zahărul hrănește producătorii de acid · Rezultat — smalțul se înmoaie dedesubt"
   hero: "/assets/img/mbf/hubs/oral/oral-hero.webp"
   heroAlt: "Ilustrație: zahărul ajunge mereu la movila de placă de pe smalț, bacteriile rotunde producătoare de acid preiau locul, iar o ceață coral de acid înmoaie smalțul de dedesubt"

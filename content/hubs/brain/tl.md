@@ -18,13 +18,13 @@ voice: greger
 answer: "Ang gut–brain axis ay ang mga daan kung saan nag-uusap ang bituka at ang utak: ang vagus nerve, mga hormone mula sa selula ng bituka, immune messengers at bacterial metabolites sa dugo. Sa bituka ginagawa ang halos lahat ng serotonin ng katawan, sa tulong ng microbes. Totoo ang ugnayan; sinusukat pa kung gaano kalaki ito sa mood ng tao."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/brain/brain-card-en.webp"
+  card: "/assets/img/mbf/hubs/brain/brain-card-tl.webp"
   cardLine: "Nakakaapekto ang gut sa mood?"
   cardAlt: "Nakakaapekto ang gut sa mood? — nakatayo ang isang babae sa bintana ng sala sa dapithapon, nakahawak sa leeg"
-  og: "/assets/img/mbf/hubs/brain/brain-og-en.jpg"
+  og: "/assets/img/mbf/hubs/brain/brain-og-tl.jpg"
   preview: "/assets/img/mbf/hubs/brain/brain-preview.webp"
   previewAlt: "Ilustrasyon: lambat ng mga kumpol ng nerve cell na pinagdurugtong ng mga bigkis ng hibla sa muscle wall ng bituka, berde ang isang kumpol"
-  plate: "/assets/img/mbf/hubs/brain/brain-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/brain/brain-plate-tl.webp"
   plateLines: "Una — naglalabas ng molekula ang gut microbes · Tapos — nararamdaman at inihuhudyat ng selula · Kaya — dinadala ng nerve, hindi sila umaalis"
   hero: "/assets/img/mbf/hubs/brain/brain-hero.webp"
   heroAlt: "Ilustrasyon: naglalabas ng maliliit na molekula ang gut bacteria, nararamdaman ito ng hormone cell sa lining ng bituka, at may gintong hudyat na tumatakbo sa nerve papuntang utak"

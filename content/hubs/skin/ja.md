@@ -18,13 +18,13 @@ voice: greger
 answer: "腸と皮膚のつながりは双方向です。腸内細菌は、皮膚へめぐる免疫細胞と代謝産物を形づくり、皮膚の常在菌はその免疫の調子に応えます。湿疹、にきび、酒さは腸の変化と結びついていますが、それは炎症とバリアと食事を通してであって、細菌が顔まで旅をするからではありません。"
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/skin/skin-card-en.webp"
+  card: "/assets/img/mbf/hubs/skin/skin-card-ja.webp"
   cardLine: "腸は肌に出るの？"
   cardAlt: "腸は肌に出るの？ — 朝、日の差す窓辺で女性が指先をあごに添えている"
-  og: "/assets/img/mbf/hubs/skin/skin-og-en.jpg"
+  og: "/assets/img/mbf/hubs/skin/skin-og-ja.jpg"
   preview: "/assets/img/mbf/hubs/skin/skin-preview.webp"
   previewAlt: "イラスト：平たい皮膚表面の細胞の上でぶどうの房のように集まる球菌と、毛穴のふちにいる珊瑚色の短い桿菌"
-  plate: "/assets/img/mbf/hubs/skin/skin-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/skin/skin-plate-ja.webp"
   plateLines: "まず — 腸内細菌が分子を放つ · 次に — 血流が運ぶのは分子で、細菌ではない · 結果 — 皮膚の常在菌が応える"
   hero: "/assets/img/mbf/hubs/skin/skin-hero.webp"
   heroAlt: "イラスト：腸内細菌はその場にとどまり、腸粘膜から出たライム色の分子と免疫細胞が血流に乗って皮膚の表面とそこにすむ細菌のもとへ向かう"

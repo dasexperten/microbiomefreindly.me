@@ -18,13 +18,13 @@ voice: greger
 answer: "Axa intestin–creier este mulțimea de drumuri pe care intestinul și microbii lui vorbesc cu creierul: nervul vag, hormoni dați de celulele intestinului, mesageri imunitari și metaboliți bacterieni din sânge. Cea mai mare parte a serotoninei din corp se face în intestin, sub influența microbilor. Legătura e reală; mărimea ei în dispoziția omului încă se măsoară."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/brain/brain-card-en.webp"
+  card: "/assets/img/mbf/hubs/brain/brain-card-ro.webp"
   cardLine: "Bacteriile îmi schimbă starea?"
   cardAlt: "Bacteriile îmi schimbă starea? — o femeie stă la fereastra din living în amurg, cu mâna la ceafă"
-  og: "/assets/img/mbf/hubs/brain/brain-og-en.jpg"
+  og: "/assets/img/mbf/hubs/brain/brain-og-ro.jpg"
   preview: "/assets/img/mbf/hubs/brain/brain-preview.webp"
   previewAlt: "Ilustrație: o rețea de ciorchini de celule nervoase, uniți prin mănunchiuri de fibre, pe peretele muscular al intestinului, cu un ciorchine colorat în verde-lămâie"
-  plate: "/assets/img/mbf/hubs/brain/brain-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/brain/brain-plate-ro.webp"
   plateLines: "Întâi — microbii din intestin dau molecule · Apoi — o celulă a mucoasei simte și transmite · Rezultat — nervul duce semnalul, ele rămân"
   hero: "/assets/img/mbf/hubs/brain/brain-hero.webp"
   heroAlt: "Ilustrație: bacteriile intestinale eliberează molecule mici, o celulă hormonală din mucoasă le simte, iar un semnal auriu pleacă de-a lungul unui nerv spre creier"

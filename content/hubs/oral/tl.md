@@ -18,13 +18,13 @@ voice: greger
 answer: "Ang mouth microbiome ay ang komunidad ng bacteria sa ngipin, gilagid, dila at pisngi. Sa ngipin, plaque ang binubuo nito — isang organisadong biofilm na pinagdidikit ng asukal na sila mismo ang gumagawa. Kapag balanse, nagpoprotekta ito; kapag madalas ang matamis o bihira ang paglilinis, nangingibabaw ang gumagawa ng asido, natutunaw ang enamel at namamaga ang gilagid."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/oral/oral-card-en.webp"
+  card: "/assets/img/mbf/hubs/oral/oral-card-tl.webp"
   cardLine: "Saan nanggagaling ang plaque?"
   cardAlt: "Saan nanggagaling ang plaque? — nakayuko ang isang babae sa lababo sa malamig na liwanag ng umaga, katatapos magmumog"
-  og: "/assets/img/mbf/hubs/oral/oral-og-en.jpg"
+  og: "/assets/img/mbf/hubs/oral/oral-og-tl.jpg"
   preview: "/assets/img/mbf/hubs/oral/oral-preview.webp"
   previewAlt: "Ilustrasyon: batang bunton ng bilog na bacteria sa maiikling kadena sa enamel ng ngipin, nakabalot sa makintab na sugar gel na ginintuan ang gilid"
-  plate: "/assets/img/mbf/hubs/oral/oral-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/oral/oral-plate-tl.webp"
   plateLines: "Una — dumidikit ang bacteria sa enamel · Tapos — pinapakain ng asukal ang gumagawa ng asido · Kaya — lumalambot ang enamel sa ilalim"
   hero: "/assets/img/mbf/hubs/oral/oral-hero.webp"
   heroAlt: "Ilustrasyon: tuloy-tuloy na dumarating ang asukal sa bunton ng plaque sa enamel ng ngipin, nangingibabaw ang bilog na bacteria na gumagawa ng asido, at pinalalambot ng korales na ulap ng asido ang enamel sa ilalim"

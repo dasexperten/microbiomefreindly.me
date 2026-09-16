@@ -18,13 +18,13 @@ voice: greger
 answer: "Paksi usus–kulit ialah hubungan dua hala antara mikrobiom usus dan kulit. Bakteria usus membentuk sel imun dan metabolit yang beredar ke kulit; mikrob kulit sendiri pula membalas nada imun itu. Ekzema, jerawat dan rosacea dikaitkan dengan perubahan usus — melalui keradangan, fungsi sawar dan pemakanan, bukan melalui bakteria yang mengembara ke muka."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/skin/skin-card-en.webp"
+  card: "/assets/img/mbf/hubs/skin/skin-card-ms.webp"
   cardLine: "Adakah usus mempengaruhi kulit?"
   cardAlt: "Adakah usus mempengaruhi kulit? — seorang wanita di tingkap bermandi cahaya pagi, hujung jari bersandar di rahang"
-  og: "/assets/img/mbf/hubs/skin/skin-og-en.jpg"
+  og: "/assets/img/mbf/hubs/skin/skin-og-ms.jpg"
   preview: "/assets/img/mbf/hubs/skin/skin-preview.webp"
   previewAlt: "Ilustrasi: gugusan bakteria bulat seperti anggur pada sel permukaan kulit yang rata, dan batang pendek berwarna karang di birai liang roma"
-  plate: "/assets/img/mbf/hubs/skin/skin-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/skin/skin-plate-ms.webp"
   plateLines: "Mula-mula — bakteria usus melepaskan molekul · Kemudian — darah membawanya, bukan bakteria · Hasilnya — mikrob kulit sendiri menjawab"
   hero: "/assets/img/mbf/hubs/skin/skin-hero.webp"
   heroAlt: "Ilustrasi: bakteria usus kekal di tempatnya sementara molekul hijau limau dan sel imun dari lapisan usus mengembara dalam aliran darah ke permukaan kulit dan mikrobnya sendiri"

@@ -197,8 +197,8 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - ro preview alt: "Ilustrație: bastonașe scurte de Bacteroides fragilis luminate din spate pe suprafața unui intestin tânăr, cu marginea unei membrane sigilate sclipind verzui"
 - ro hero alt: "Ilustrație: un bastonaș scurt își ține marginea sigilată a membranei în timp ce firicele de aer trec pe lângă el, iar aceeași grăsime de membrană e predată unei celule imune tinere, care crește citind-o"
-- ro card alt: "Intestinul nou-născutului e fără aer? — o proaspătă mamă se lasă pe spate în fotoliul de la fereastră, în zori"
-- ro card question: "Intestinul nou-născutului e fără aer?"
+- ro card alt: "Există aer acolo? — o proaspătă mamă se lasă pe spate în fotoliul de la fereastră, în zori"
+- ro card question: "Există aer acolo?"
 - ro plate lines: "Mai întâi — aerul mai zăbovește într-un intestin nou · Apoi — o grăsime sigilează peretele microbului · Rezultat — aceeași grăsime învață celulele imune"
 
 - zh-Hans preview alt: "插画：幼嫩肠壁上短杆状的脆弱拟杆菌被逆光照着，其中一圈封好的细胞膜边缘泛着青柠色的光"

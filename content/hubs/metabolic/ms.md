@@ -18,13 +18,13 @@ voice: greger
 answer: "Bakteria usus menapai serat menjadi asid lemak rantai pendek — asetat, propionat, butirat. Semuanya memberi makan dinding usus dan memberi isyarat kepada sel yang membebaskan GLP-1, hormon yang melambatkan perut dan memberitahu otak bahawa anda sudah kenyang. Akkermansia muciniphila, yang hidup atas lendir, mengukuhkan sawar yang menjaga perbualan ini teratur. Ia satu laluan, bukan penawar."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/metabolic/metabolic-card-en.webp"
+  card: "/assets/img/mbf/hubs/metabolic/metabolic-card-ms.webp"
   cardLine: "Apa buat anda rasa kenyang?"
   cardAlt: "Apa buat anda rasa kenyang? — seorang lelaki berhenti di tepi taman waktu senja untuk menarik nafas"
-  og: "/assets/img/mbf/hubs/metabolic/metabolic-og-en.jpg"
+  og: "/assets/img/mbf/hubs/metabolic/metabolic-og-ms.jpg"
   preview: "/assets/img/mbf/hubs/metabolic/metabolic-preview.webp"
   previewAlt: "Ilustrasi: sel hormon berbentuk kelalang pada lapisan usus memegang granul GLP-1 keemasan yang bersinar sementara molekul asid lemak hinggap di hujungnya"
-  plate: "/assets/img/mbf/hubs/metabolic/metabolic-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/metabolic/metabolic-plate-ms.webp"
   plateLines: "Mula-mula — bakteria menapai serat · Kemudian — asid lemak sampai ke sel usus · Hasilnya — ia melepaskan GLP-1 ke dalam darah"
   hero: "/assets/img/mbf/hubs/metabolic/metabolic-hero.webp"
   heroAlt: "Ilustrasi: bakteria menapai serat menjadi molekul asid lemak yang berlabuh pada sel hormon di lapisan usus; sel itu melepaskan granul GLP-1 emas ke dalam salur darah kecil"

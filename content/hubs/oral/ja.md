@@ -18,13 +18,13 @@ voice: greger
 answer: "口の中の細菌叢とは、歯、歯ぐき、舌、頬にすむ細菌の群れのことです。歯の上ではそれが歯垢になります。細菌が自分で作る糖でまとまった、構造のあるバイオフィルムです。つり合いがとれていれば守ってくれますが、糖が頻繁だったり清掃がまれだったりすると酸を作る菌が優勢になり、エナメル質が溶け、歯ぐきが炎症を起こします。"
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/oral/oral-card-en.webp"
+  card: "/assets/img/mbf/hubs/oral/oral-card-ja.webp"
   cardLine: "歯垢はどこから来るの？"
   cardAlt: "歯垢はどこから来るの？ — 朝の冷たい光の中、うがいを終えた女性が洗面台にかがみこむ"
-  og: "/assets/img/mbf/hubs/oral/oral-og-en.jpg"
+  og: "/assets/img/mbf/hubs/oral/oral-og-ja.jpg"
   preview: "/assets/img/mbf/hubs/oral/oral-preview.webp"
   previewAlt: "イラスト：エナメル質の上にできたばかりの球菌の小山。短い連なりが、金色のふちを持つつやのある糖のゲルに包まれている"
-  plate: "/assets/img/mbf/hubs/oral/oral-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/oral/oral-plate-ja.webp"
   plateLines: "まず — 細菌がエナメル質に貼りつく · 次に — 糖が酸を作る菌を育てる · 結果 — 下のエナメル質がやわらぐ"
   hero: "/assets/img/mbf/hubs/oral/oral-hero.webp"
   heroAlt: "イラスト：エナメル質の歯垢の小山へ糖が届きつづけ、酸を作る球菌が優勢になり、珊瑚色の酸のもやが下のエナメル質をやわらげていく"

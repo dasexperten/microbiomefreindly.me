@@ -18,13 +18,13 @@ voice: greger
 answer: "장내 미생물은 주로 대장에 사는 세균, 고세균, 곰팡이, 바이러스의 무리입니다. 우리가 소화하지 못하는 식이섬유를 분해해 단쇄지방산과 비타민을 만들고, 면역계를 가르치고, 장 점막을 먹여 살립니다. 식사와 출생 방식, 항생제, 나이가 그 모습을 빚으며 — 며칠 만에도 달라집니다."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/gut/gut-card-en.webp"
+  card: "/assets/img/mbf/hubs/gut/gut-card-ko.webp"
   cardLine: "내 장은 건강할까?"
   cardAlt: "내 장은 건강할까? — 저녁 무렵 채소 봉지를 든 여성이 자기 집 현관 계단을 오른다"
-  og: "/assets/img/mbf/hubs/gut/gut-og-en.jpg"
+  og: "/assets/img/mbf/hubs/gut/gut-og-ko.jpg"
   preview: "/assets/img/mbf/hubs/gut/gut-preview.webp"
   previewAlt: "일러스트: 막대 모양과 둥근 모양이 섞인 장내 세균 무리가 식물 섬유 조각에서 먹이를 먹는다. 올이 풀린 가장자리만 금빛이다"
-  plate: "/assets/img/mbf/hubs/gut/gut-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/gut/gut-plate-ko.webp"
   plateLines: "먼저 — 소화되지 않는 섬유가 도착한다 · 그다음 — 무리가 그것을 발효시킨다 · 결과 — 산이 장 점막을 먹여 살린다"
   hero: "/assets/img/mbf/hubs/gut/gut-hero.webp"
   heroAlt: "일러스트: 식물 섬유가 대장에 닿고, 세균이 그것을 발효시키며, 산호색 단쇄지방산 분자가 장 점막 세포 안으로 들어간다"

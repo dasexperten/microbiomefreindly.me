@@ -18,13 +18,13 @@ voice: greger
 answer: "면역계는 미생물을 없애도록 만들어지지 않았습니다. 함께 살도록 만들어졌습니다. 장 점막의 세균은 대식세포와 조절 T세포 같은 면역세포에게 어떤 신호가 위험이고 어떤 신호가 이웃인지 가르칩니다. 면역 관용이라 부르는 이 배움은 태어날 때 시작됩니다. 그것이 어긋나면 결과는 감염이 아니라 만성 염증입니다."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/immunity/immunity-card-en.webp"
+  card: "/assets/img/mbf/hubs/immunity/immunity-card-ko.webp"
   cardLine: "면역 관용은 어떻게 배울까?"
   cardAlt: "면역 관용은 어떻게 배울까? — 늦은 오후 낮은 햇살 속에서 여성이 텅 빈 놀이터 문 앞에 멈춰 선다"
-  og: "/assets/img/mbf/hubs/immunity/immunity-og-en.jpg"
+  og: "/assets/img/mbf/hubs/immunity/immunity-og-ko.jpg"
   preview: "/assets/img/mbf/hubs/immunity/immunity-preview.webp"
   previewAlt: "일러스트: 따뜻한 빛 한 자락 속에서 장 점막 아래의 대식세포가 산호색 팔로 막대 모양 세균 하나를 감싼다"
-  plate: "/assets/img/mbf/hubs/immunity/immunity-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/immunity/immunity-plate-ko.webp"
   plateLines: "먼저 — 세균이 장 점막 너머로 신호를 보낸다 · 그다음 — 순찰 세포가 조용히 있는다 · 결과 — 관용이 유지되고 경보는 울리지 않는다"
   hero: "/assets/img/mbf/hubs/immunity/immunity-hero.webp"
   heroAlt: "일러스트: 세포 한 겹 두께의 장 점막 위쪽 세균이 작은 분자를 내놓고, 아래쪽 대식세포가 그것을 받아들인 뒤 금빛 조절 T세포 곁에서 조용히 머문다"

@@ -87,7 +87,7 @@ gates:
 status: published
 ---
 
-Jika anda menghidap sindrom usus rengsa, anda kenal temu janji itu. Kamera tidak menemui apa-apa. Ujian darahnya bersih. Dan di suatu tempat menghampiri penghujungnya datang ayat yang melukakan: *tiada apa-apa yang tidak kena dengan usus anda.* Ini bukan perbualan yang jarang. Dalam Kajian Global Rome Foundation, yang menyoal 73,076 orang dewasa merentas 33 negara, 40.3 % responden internet memenuhi kriteria bagi sekurang-kurangnya satu gangguan interaksi usus dan otak [s4]. Itu amat ramai orang yang diberitahu bahawa sakit mereka tiada alamat.
+Jika anda menghidap sindrom usus rengsa, anda kenal temu janji itu. Kamera tidak menemui apa-apa. Ujian darahnya bersih. Dan di suatu tempat menghampiri penghujungnya datang ayat yang melukakan: *tiada apa-apa yang tidak kena dengan usus anda.* Ini bukan perbualan yang jarang. Dalam Kajian Global Rome Foundation, yang menyoal 73,076 orang dewasa merentas 33 negara, 40.3 % responden internet memenuhi kriteria bagi sekurang-kurangnya satu gangguan interaksi usus dan otak [s4]. Itu amat ramai orang yang diberitahu bahawa sakit mereka tiada alamat.
 
 Satu kajian yang diterbitkan dalam jurnal *Gut* pada 2026, diterajui Lejla Ridžal dan Anita Annaházi bersama rakan-rakan di Universiti Teknikal Munich, pergi mencari alamat itu [s1].
 

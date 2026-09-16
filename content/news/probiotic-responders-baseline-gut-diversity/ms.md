@@ -31,7 +31,7 @@ faq:
   - q: "Adakah ini bermakna saya patut mengambil probiotik jika kepelbagaian usus saya rendah?"
     a: "Tidak. Ujian itu tidak dibina untuk menguji soalan tersebut; pembahagian kepelbagaian itu ialah analisis sekunder berstrata dan bukan perbandingan utama ujian tersebut, kumpulan penyambut itu hanya 24 orang, dan titik akhir jisim lemak yang utama tidak dicapai. Para penulis sendiri menyeru ujian prospektif yang menggunakan kepelbagaian asas sebagai pemboleh ubah strata."
   - q: "Adakah ini probiotik hidup?"
-    a: "Tidak. Ia paraprobiotik: Lactiplantibacillus plantarum LRCC5282 yang dipanaskan pada 90 °C selama 30 minit, jadi selnya mati. Apa pun yang berlaku, ia bukan pengkolonian oleh bakteria hidup."
+    a: "Tidak. Ia paraprobiotik: Lactiplantibacillus plantarum LRCC5282 yang dipanaskan pada 90 °C selama 30 minit, jadi selnya mati. Apa pun yang berlaku, ia bukan pengkolonian oleh bakteria hidup."
   - q: "Bolehkah saya mengetahui kepelbagaian usus saya sendiri?"
     a: "Ujian najis komersial melaporkan indeks kepelbagaian, tetapi ujian itu menggunakan gabungan lima indeks, yang disusun mengikut persentil dalam setiap lengan rawatan dan dipotong pada median lengan itu. Tiada ujian farmasi yang menghasilkan semula titik potong itu, jadi keputusan di rumah tidak dapat memberitahu anda separuh yang mana anda akan berada."
   - q: "Siapa yang membiayai kajian itu?"
@@ -79,7 +79,7 @@ Dua orang membeli probiotik yang sama. Seorang turun beberapa kilogram lalu bers
 
 ## Ujian itu, dengan namanya
 
-Lim dan rakan-rakan di Pusat R&D LOTTE di Seoul merekrut 120 orang dewasa berlebihan berat badan [s1], yang ditakrifkan sebagai indeks jisim badan antara 25 dan 30 [s1], di tiga buah hospital Korea [s1]. Mereka dirawakkan, secara buta ganda, kepada 12 minggu [s1] satu paket sehari yang mengandungi sama ada plasebo atau sediaan *Lactiplantibacillus plantarum* LRCC5282 yang mati haba [s1], iaitu spesies yang dahulu difailkan di bawah [*Lactobacillus*](/bacteria/lactobacillus/). Mati haba ialah perkataan yang penting. Sel itu dinyahaktifkan pada 90 °C selama 30 minit [s1], jadi ini "paraprobiotik": tiada apa-apa di sini bergantung pada bakteria hidup yang menetap dalam usus anda. Titik akhir utamanya, yang ditetapkan sebelum ujian bermula, ialah perubahan jumlah lemak badan pada imbasan DXA [s1].
+Lim dan rakan-rakan di Pusat R&D LOTTE di Seoul merekrut 120 orang dewasa berlebihan berat badan [s1], yang ditakrifkan sebagai indeks jisim badan antara 25 dan 30 [s1], di tiga buah hospital Korea [s1]. Mereka dirawakkan, secara buta ganda, kepada 12 minggu [s1] satu paket sehari yang mengandungi sama ada plasebo atau sediaan *Lactiplantibacillus plantarum* LRCC5282 yang mati haba [s1], iaitu spesies yang dahulu difailkan di bawah [*Lactobacillus*](/bacteria/lactobacillus/). Mati haba ialah perkataan yang penting. Sel itu dinyahaktifkan pada 90 °C selama 30 minit [s1], jadi ini "paraprobiotik": tiada apa-apa di sini bergantung pada bakteria hidup yang menetap dalam usus anda. Titik akhir utamanya, yang ditetapkan sebelum ujian bermula, ialah perubahan jumlah lemak badan pada imbasan DXA [s1].
 
 Merentas seluruh kumpulan itu, jawapannya tiada apa-apa. Lemak badan tidak berbeza antara lengan [s1]. Berat turun 1.33 kg dengan paraprobiotik dan 0.94 kg dengan plasebo [s1], satu jurang yang jauh di dalam ruang kebetulan. Tiada ukuran klinikal lain yang memisahkan kumpulan itu [s1].
 

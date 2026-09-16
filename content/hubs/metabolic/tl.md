@@ -18,13 +18,13 @@ voice: greger
 answer: "Ginagawang short-chain fatty acids ng gut bacteria ang fiber — acetate, propionate, butyrate. Pinapakain nito ang dingding ng bituka at hinuhudyatan ang mga selulang naglalabas ng GLP-1, ang hormone na nagpapabagal sa tiyan at nagsasabi sa utak na busog ka na. Pinatitibay ng Akkermansia muciniphila, na nabubuhay sa mucus, ang hadlang na nag-aayos sa usapang ito. Daanan ito, hindi lunas."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/metabolic/metabolic-card-en.webp"
+  card: "/assets/img/mbf/hubs/metabolic/metabolic-card-tl.webp"
   cardLine: "Ano ang nagpapabusog sa iyo?"
   cardAlt: "Ano ang nagpapabusog sa iyo? — huminto ang isang lalaki sa gilid ng parke sa dapithapon para maghabol ng hininga"
-  og: "/assets/img/mbf/hubs/metabolic/metabolic-og-en.jpg"
+  og: "/assets/img/mbf/hubs/metabolic/metabolic-og-tl.jpg"
   preview: "/assets/img/mbf/hubs/metabolic/metabolic-preview.webp"
   previewAlt: "Ilustrasyon: may hawak na kumikinang na gintong GLP-1 granules ang hugis-prasko na hormone cell sa lining ng bituka habang dumadapo ang mga molekula ng fatty acid sa dulo nito"
-  plate: "/assets/img/mbf/hubs/metabolic/metabolic-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/metabolic/metabolic-plate-tl.webp"
   plateLines: "Una — pina-ferment ng bacteria ang fiber · Tapos — umaabot ang fatty acids sa selula · Kaya — naglalabas ito ng GLP-1 sa dugo"
   hero: "/assets/img/mbf/hubs/metabolic/metabolic-hero.webp"
   heroAlt: "Ilustrasyon: pina-ferment ng bacteria ang fiber tungo sa mga molekula ng fatty acid na dumadaong sa hormone cell sa lining ng bituka; naglalabas ito ng gintong GLP-1 granules sa maliit na ugat"

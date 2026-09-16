@@ -18,13 +18,13 @@ voice: greger
 answer: "장내 세균은 식이섬유를 발효해 아세트산, 프로피온산, 부티르산 같은 단쇄지방산을 만듭니다. 이들은 장 점막을 먹이고, GLP-1을 내놓는 세포에 신호를 보냅니다. GLP-1은 위를 늦추고 뇌에 배부르다고 알리는 호르몬입니다. 점액에 사는 Akkermansia muciniphila는 이 대화를 질서 있게 지켜 주는 장벽을 튼튼하게 합니다. 길이지, 치료제가 아닙니다."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/metabolic/metabolic-card-en.webp"
+  card: "/assets/img/mbf/hubs/metabolic/metabolic-card-ko.webp"
   cardLine: "무엇이 배부름을 만들까?"
   cardAlt: "무엇이 배부름을 만들까? — 해 질 무렵 한 남성이 공원 가장자리에 멈춰 숨을 고른다"
-  og: "/assets/img/mbf/hubs/metabolic/metabolic-og-en.jpg"
+  og: "/assets/img/mbf/hubs/metabolic/metabolic-og-ko.jpg"
   preview: "/assets/img/mbf/hubs/metabolic/metabolic-preview.webp"
   previewAlt: "일러스트: 장 점막의 플라스크 모양 호르몬 세포가 금빛으로 빛나는 GLP-1 과립을 품고, 지방산 분자들이 그 끝에 내려앉는다"
-  plate: "/assets/img/mbf/hubs/metabolic/metabolic-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/metabolic/metabolic-plate-ko.webp"
   plateLines: "먼저 — 세균이 섬유를 발효시킨다 · 그다음 — 지방산이 장 세포에 닿는다 · 결과 — 세포가 GLP-1을 혈액으로 내보낸다"
   hero: "/assets/img/mbf/hubs/metabolic/metabolic-hero.webp"
   heroAlt: "일러스트: 세균이 섬유를 발효시켜 만든 지방산 분자가 장 점막의 호르몬 세포에 붙고, 세포는 금빛 GLP-1 과립을 작은 혈관 안으로 내보낸다"

@@ -18,13 +18,13 @@ voice: greger
 answer: "Axa intestin–piele este legătura în ambele sensuri dintre microbiomul intestinal și piele. Bacteriile din intestin modelează celulele imunitare și metaboliții care ajung pe cale sangvină la piele; microbii proprii ai pielii răspund acelui ton imunitar. Eczema, acneea și rozaceea sunt asociate cu schimbări din intestin — prin inflamație, barieră și alimentație, nu prin bacterii care călătoresc spre față."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/skin/skin-card-en.webp"
+  card: "/assets/img/mbf/hubs/skin/skin-card-ro.webp"
   cardLine: "Se vede intestinul pe piele?"
   cardAlt: "Se vede intestinul pe piele? — o femeie la o fereastră însorită, dimineața, cu vârfurile degetelor la maxilar"
-  og: "/assets/img/mbf/hubs/skin/skin-og-en.jpg"
+  og: "/assets/img/mbf/hubs/skin/skin-og-ro.jpg"
   preview: "/assets/img/mbf/hubs/skin/skin-preview.webp"
   previewAlt: "Ilustrație: ciorchini ca de strugure de bacterii rotunde pe celulele plate de la suprafața pielii și bastonașe scurte coral la marginea unui por"
-  plate: "/assets/img/mbf/hubs/skin/skin-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/skin/skin-plate-ro.webp"
   plateLines: "Întâi — bacteriile intestinale dau molecule · Apoi — sângele le duce, nu și bacteriile · Rezultat — microbii pielii răspund"
   hero: "/assets/img/mbf/hubs/skin/skin-hero.webp"
   heroAlt: "Ilustrație: bacteriile intestinale rămân pe loc, în timp ce molecule verzi-lămâie și celule imunitare din mucoasa intestinului călătoresc prin sânge până la suprafața pielii și la microbii ei"

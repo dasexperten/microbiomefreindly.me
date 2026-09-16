@@ -18,13 +18,13 @@ voice: greger
 answer: "효소는 특정한 결합 하나를 끊는 단백질입니다. 덱스트라나아제는 치태의 당 접착제를 끊고, 파파인과 브로멜라인은 단백질을 끊고, 라이소자임은 세균 세포벽을 끊고, 글루코스 옥시다아제는 포도당을 순한 소독제로 바꿉니다. 어느 것도 널리 죽이지는 않습니다. 구조를 걷어내는 방식으로 일하기에 항생제가 아니라 바이오필름을 상대로 연구됩니다."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/enzymes/enzymes-card-en.webp"
+  card: "/assets/img/mbf/hubs/enzymes/enzymes-card-ko.webp"
   cardLine: "효소가 세균을 죽일까?"
   cardAlt: "효소가 세균을 죽일까? — 늦은 아침 햇살 속에서 여성이 식탁에서 파인애플과 파파야를 썬다"
-  og: "/assets/img/mbf/hubs/enzymes/enzymes-og-en.jpg"
+  og: "/assets/img/mbf/hubs/enzymes/enzymes-og-ko.jpg"
   preview: "/assets/img/mbf/hubs/enzymes/enzymes-preview.webp"
   previewAlt: "일러스트: 접힌 효소 단백질이 홈에 당 사슬을 물고 고리 하나를 끊는다. 끊긴 자리는 산호색, 따뜻한 역광"
-  plate: "/assets/img/mbf/hubs/enzymes/enzymes-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/enzymes/enzymes-plate-ko.webp"
   plateLines: "먼저 — 당 그물이 치태를 붙든다 · 그다음 — 효소가 고리 하나를 끊는다 · 결과 — 그물은 무너지고 세균은 살아 있다"
   hero: "/assets/img/mbf/hubs/enzymes/enzymes-hero.webp"
   heroAlt: "일러스트: 당 사슬 그물에 붙들린 둥근 세균 사슬들. 효소 단백질이 라임색 지점에서 사슬을 끊고, 풀려난 세균은 멀쩡한 채 흩어진다"

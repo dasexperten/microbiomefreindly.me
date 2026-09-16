@@ -18,13 +18,13 @@ voice: greger
 answer: "O enzimă este o proteină care taie o singură legătură anume. Dextranaza taie cleiul de zahăr al plăcii dentare; papaina și bromelaina taie proteine; lizozimul taie pereții celulari bacterieni; glucozoxidaza transformă glucoza într-un antiseptic blând. Niciuna nu omoară pe scară largă. Ele lucrează îndepărtând structura — de aceea sunt studiate împotriva biofilmelor, nu ca antibiotice."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/enzymes/enzymes-card-en.webp"
+  card: "/assets/img/mbf/hubs/enzymes/enzymes-card-ro.webp"
   cardLine: "Enzimele omoară bacteriile?"
   cardAlt: "Enzimele omoară bacteriile? — o femeie taie ananas și papaya la masa din sufragerie, în soarele de dimineață"
-  og: "/assets/img/mbf/hubs/enzymes/enzymes-og-en.jpg"
+  og: "/assets/img/mbf/hubs/enzymes/enzymes-og-ro.jpg"
   preview: "/assets/img/mbf/hubs/enzymes/enzymes-preview.webp"
   previewAlt: "Ilustrație: o enzimă pliată ține un lanț de zahăr în șănțulețul ei și taie o verigă, marcată cu coral, în lumina caldă din spate"
-  plate: "/assets/img/mbf/hubs/enzymes/enzymes-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/enzymes/enzymes-plate-ro.webp"
   plateLines: "Întâi — o plasă de zahăr ține placa · Apoi — enzima taie o verigă · Rezultat — plasa cade, celulele trăiesc"
   hero: "/assets/img/mbf/hubs/enzymes/enzymes-hero.webp"
   heroAlt: "Ilustrație: lanțuri de bacterii rotunde prinse într-o plasă de lanțuri de zahăr; enzimele taie lanțurile în puncte verzi-lămâie, iar bacteriile eliberate plutesc libere, întregi"

@@ -18,13 +18,13 @@ voice: greger
 answer: "Ang gut microbiome ay ang komunidad ng bacteria, archaea, fungi at virus na nakatira sa malaking bituka. Tinutunaw nito ang fiber na hindi natin kaya, gumagawa ng short-chain fatty acids at bitamina, sinasanay ang immune system, at pinapakain ang lining ng bituka. Hinuhubog ito ng pagkain, kapanganakan, antibiotics at edad — at nagbabago ito sa loob ng ilang araw."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/gut/gut-card-en.webp"
+  card: "/assets/img/mbf/hubs/gut/gut-card-tl.webp"
   cardLine: "Malusog ba ang gut ko?"
   cardAlt: "Malusog ba ang gut ko? — umaakyat ang isang babae sa hagdan ng bahay niya sa gabi, may bitbit na bag ng gulay"
-  og: "/assets/img/mbf/hubs/gut/gut-og-en.jpg"
+  og: "/assets/img/mbf/hubs/gut/gut-og-tl.jpg"
   preview: "/assets/img/mbf/hubs/gut/gut-preview.webp"
   previewAlt: "Ilustrasyon: halo-halong pulutong ng pahaba at bilog na gut bacteria na kumakain sa piraso ng fiber ng halaman, ginintuan ang gutay na gilid nito"
-  plate: "/assets/img/mbf/hubs/gut/gut-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/gut/gut-plate-tl.webp"
   plateLines: "Una — dumarating ang fiber na hindi natin natutunaw · Tapos — pina-ferment ito ng pulutong · Kaya — pinapakain ng asido ang dingding ng bituka"
   hero: "/assets/img/mbf/hubs/gut/gut-hero.webp"
   heroAlt: "Ilustrasyon: umaabot sa malaking bituka ang fiber ng halaman, pina-ferment ito ng bacteria, at pumapasok sa mga selula ng lining ng bituka ang korales na molekula ng short-chain fatty acids"

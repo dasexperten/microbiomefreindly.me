@@ -18,13 +18,13 @@ voice: greger
 answer: "Sistem imun tidak dibina untuk menghapuskan mikrob; ia dibina untuk hidup bersama mereka. Bakteria pada lapisan usus mengajar sel imun — makrofaj, sel T pengawal atur — isyarat mana yang bermakna bahaya dan mana yang bermakna jiran. Pembelajaran itu, yang dipanggil toleransi, bermula sejak lahir. Apabila ia gagal, hasilnya keradangan kronik, bukan jangkitan."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/immunity/immunity-card-en.webp"
+  card: "/assets/img/mbf/hubs/immunity/immunity-card-ms.webp"
   cardLine: "Bagaimana toleransi dipelajari?"
   cardAlt: "Bagaimana toleransi dipelajari? — seorang wanita berhenti di pagar taman permainan yang lengang dalam cahaya petang"
-  og: "/assets/img/mbf/hubs/immunity/immunity-og-en.jpg"
+  og: "/assets/img/mbf/hubs/immunity/immunity-og-ms.jpg"
   preview: "/assets/img/mbf/hubs/immunity/immunity-preview.webp"
   previewAlt: "Ilustrasi: makrofaj di bawah lapisan usus melingkarkan lengan karang pada satu bakteria berbentuk batang dalam tompok cahaya hangat"
-  plate: "/assets/img/mbf/hubs/immunity/immunity-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/immunity/immunity-plate-ms.webp"
   plateLines: "Mula-mula — bakteria memberi isyarat merentas dinding · Kemudian — sel peronda kekal senyap · Hasilnya — toleransi bertahan, tiada penggera"
   hero: "/assets/img/mbf/hubs/immunity/immunity-hero.webp"
   heroAlt: "Ilustrasi: bakteria di atas lapisan usus setebal satu sel melepaskan molekul kecil; makrofaj di bawah menyerapnya dan kekal tenang di sisi sel T pengawal atur berwarna emas"

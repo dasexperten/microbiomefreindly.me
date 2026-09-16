@@ -18,13 +18,13 @@ voice: greger
 answer: "免疫は微生物を排除するためにできているのではなく、微生物と暮らすためにできています。腸粘膜の上の細菌が、マクロファージや制御性T細胞に、どの合図が危険でどの合図が隣人なのかを教えます。寛容と呼ばれるこの学習は生まれた日に始まります。うまくいかなかったとき起きるのは感染ではなく、慢性の炎症です。"
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/immunity/immunity-card-en.webp"
+  card: "/assets/img/mbf/hubs/immunity/immunity-card-ja.webp"
   cardLine: "免疫の寛容はどう学ぶ？"
   cardAlt: "免疫の寛容はどう学ぶ？ — 夕方の低い日差しの中、女性が誰もいない公園の門の前で足を止める"
-  og: "/assets/img/mbf/hubs/immunity/immunity-og-en.jpg"
+  og: "/assets/img/mbf/hubs/immunity/immunity-og-ja.jpg"
   preview: "/assets/img/mbf/hubs/immunity/immunity-preview.webp"
   previewAlt: "イラスト：腸粘膜の下のマクロファージが、暖かい光だまりの中でひとつの棒状の細菌に珊瑚色の腕を巻きつける"
-  plate: "/assets/img/mbf/hubs/immunity/immunity-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/immunity/immunity-plate-ja.webp"
   plateLines: "まず — 細菌が壁ごしに信号を送る · 次に — 見回りの細胞は静かなまま · 結果 — 寛容が保たれ、警報は鳴らない"
   hero: "/assets/img/mbf/hubs/immunity/immunity-hero.webp"
   heroAlt: "イラスト：細胞ひとつ分の厚さの腸粘膜の上で細菌が小さな分子を放ち、下のマクロファージがそれを取り込み、金色の制御性T細胞のかたわらで静かにしている"

@@ -18,13 +18,13 @@ voice: greger
 answer: "Protinang pumuputol ng isang tiyak na bond ang enzyme. Pinuputol ng dextranase ang asukal na pandikit ng plaque; ng protina ang papain at bromelain; ng cell wall ng bacteria ang lysozyme; ginagawang banayad na antiseptiko ng glucose oxidase ang glucose. Wala sa kanila ang pumapatay nang malawakan: inaalis nila ang istruktura, kaya laban sa biofilm sila pinag-aaralan, hindi bilang antibiotics."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/enzymes/enzymes-card-en.webp"
+  card: "/assets/img/mbf/hubs/enzymes/enzymes-card-tl.webp"
   cardLine: "Pumapatay ng bacteria ang enzymes?"
   cardAlt: "Pumapatay ng bacteria ang enzymes? — naghihiwa ng pinya at papaya ang isang babae sa hapag niya sa sikat ng tanghali"
-  og: "/assets/img/mbf/hubs/enzymes/enzymes-og-en.jpg"
+  og: "/assets/img/mbf/hubs/enzymes/enzymes-og-tl.jpg"
   preview: "/assets/img/mbf/hubs/enzymes/enzymes-preview.webp"
   previewAlt: "Ilustrasyon: hawak ng nakatuping enzyme protein ang isang sugar chain sa uka nito at pinuputol ang isang link, korales ang marka, sa mainit na backlight"
-  plate: "/assets/img/mbf/hubs/enzymes/enzymes-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/enzymes/enzymes-plate-tl.webp"
   plateLines: "Una — hawak ng sugar web ang plaque · Tapos — pinuputol ng enzyme ang isang link · Kaya — bumabagsak ang web, buhay ang selula"
   hero: "/assets/img/mbf/hubs/enzymes/enzymes-hero.webp"
   heroAlt: "Ilustrasyon: mga kadena ng bilog na bacteria na hawak ng lambat ng sugar chains; pinuputol ng mga enzyme protein ang mga kadena sa berdeng puntos, at lumalayo ang mga nakawalang bacteria, buo pa rin"

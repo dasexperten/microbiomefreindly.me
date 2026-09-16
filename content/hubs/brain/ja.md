@@ -18,13 +18,13 @@ voice: greger
 answer: "腸脳相関とは、腸とそこにすむ細菌が脳と話すための道筋のことです。迷走神経、腸の細胞が出すホルモン、免疫の伝令、そして血中を流れる細菌の代謝産物。体のセロトニンの大半は腸で、細菌の影響のもとで作られます。つながりは本物ですが、人の気分にどれだけ効くのかはまだ測っている最中です。"
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/brain/brain-card-en.webp"
+  card: "/assets/img/mbf/hubs/brain/brain-card-ja.webp"
   cardLine: "腸内細菌は気分に効く？"
   cardAlt: "腸内細菌は気分に効く？ — 夕暮れ、首元に手をやった女性が居間の窓辺に立つ"
-  og: "/assets/img/mbf/hubs/brain/brain-og-en.jpg"
+  og: "/assets/img/mbf/hubs/brain/brain-og-ja.jpg"
   preview: "/assets/img/mbf/hubs/brain/brain-preview.webp"
   previewAlt: "イラスト：腸の筋層の上で、神経細胞の集まりが線維の束でつながる網。ひとつの集まりだけがライム色に染まる"
-  plate: "/assets/img/mbf/hubs/brain/brain-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/brain/brain-plate-ja.webp"
   plateLines: "まず — 腸内細菌が分子を放つ · 次に — 腸の細胞が感じて信号を出す · 結果 — 神経が運び、細菌は腸に残る"
   hero: "/assets/img/mbf/hubs/brain/brain-hero.webp"
   heroAlt: "イラスト：腸内細菌が小さな分子を放ち、腸粘膜のホルモン細胞がそれを感じ取り、金色の信号が神経を伝って脳へ走る"

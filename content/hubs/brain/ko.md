@@ -18,13 +18,13 @@ voice: greger
 answer: "장-뇌 축은 장과 그 미생물이 뇌와 이야기하는 통로들을 함께 이르는 말입니다. 미주신경, 장 세포가 내놓는 호르몬, 면역 전령, 혈액 속 세균 대사산물이 그 길입니다. 몸속 세로토닌의 대부분은 미생물의 영향 아래 장에서 만들어집니다. 연결은 실재하고, 사람의 기분에서 그 크기는 아직 재는 중입니다."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/brain/brain-card-en.webp"
+  card: "/assets/img/mbf/hubs/brain/brain-card-ko.webp"
   cardLine: "장내 세균이 기분을 바꿀까?"
   cardAlt: "장내 세균이 기분을 바꿀까? — 해 질 무렵 거실 창가에 선 여성이 한 손을 목에 얹고 있다"
-  og: "/assets/img/mbf/hubs/brain/brain-og-en.jpg"
+  og: "/assets/img/mbf/hubs/brain/brain-og-ko.jpg"
   preview: "/assets/img/mbf/hubs/brain/brain-preview.webp"
   previewAlt: "일러스트: 장의 근육벽 위에서 섬유 다발로 이어진 신경세포 덩어리들의 그물, 그중 한 덩어리가 라임색을 띤다"
-  plate: "/assets/img/mbf/hubs/brain/brain-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/brain/brain-plate-ko.webp"
   plateLines: "먼저 — 장내 미생물이 분자를 내놓는다 · 그다음 — 장 세포가 감지해 신호를 보낸다 · 결과 — 신경이 그것을 나르고, 세균은 그대로 머문다"
   hero: "/assets/img/mbf/hubs/brain/brain-hero.webp"
   heroAlt: "일러스트: 장내 세균이 작은 분자를 내놓고, 장 점막의 호르몬 세포가 그것을 감지하며, 금빛 신호가 신경을 타고 뇌 쪽으로 달려간다"

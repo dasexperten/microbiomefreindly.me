@@ -218,3 +218,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ms card alt: "Adakah sakit itu benar-benar fizikal? — seorang wanita berhenti di koridor pejabat, lengan ditekan melintang perutnya"
 - ms card question: "Adakah sakit itu benar-benar fizikal?"
 - ms plate lines: "Mula-mula — cecair najis menyentuh dinding usus · Kemudian — satu enzim mengerat reseptor saraf · Hasilnya — jaringan saraf mencetus jauh lebih kuat"
+
+- ja preview alt: "イラスト：薄い腸の組織を透かしてレースのような神経の結び目が光り、その上に透明な琥珀色の膜が落ち着き、いくつかの結び目が珊瑚色に灯っている"
+- ja hero alt: "イラスト：薄い琥珀色の液の膜が腸の粘膜に落ち着く。酵素が神経細胞の受容体を切り、その細胞が灯り、まわりの神経網の結び目を目覚めさせる"
+- ja card alt: "その痛みは本当に体？ — 女性がオフィスの廊下で足を止め、前腕をおなかに押し当てている"
+- ja card question: "その痛みは本当に体？"
+- ja plate lines: "まず — 便の液が腸の壁に触れる · 次に — 酵素が神経の受容体を切る · 結果 — 神経網がはるかに強く発火する"
+
+- tl preview alt: "Ilustrasyon: puntas ng mga buhol ng nerbiyo na kumikinang sa manipis na tisyu ng bituka, may malinaw na amber na pelikulang dumadapo rito, at may iilang buhol na kulay coral"
+- tl hero alt: "Ilustrasyon: dumadapo ang manipis na amber na pelikula ng likido sa lining ng bituka; may enzyme na pumuputol ng receptor sa isang selula ng nerbiyo, na nagliliwanag at ginigising ang mga buhol ng lambat ng nerbiyo sa paligid nito"
+- tl card alt: "Pisikal ba talaga ang sakit? — isang babaeng huminto sa pasilyo ng opisina, nakadiin ang bisig sa tiyan"
+- tl card question: "Pisikal ba talaga ang sakit?"
+- tl plate lines: "Una — dumadapo sa dingding ng bituka ang likido ng dumi · Tapos — pinuputol ng enzyme ang receptor ng nerbiyo · Kaya — mas malakas pumutok ang lambat"

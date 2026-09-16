@@ -18,13 +18,13 @@ voice: greger
 answer: "Mikrobiom usus ialah komuniti bakteria, arkea, kulat dan virus yang hidup terutamanya dalam usus besar. Ia menghadam serat yang kita sendiri tidak mampu hadam, menghasilkan asid lemak rantai pendek dan vitamin, melatih sistem imun dan memberi makan lapisan usus. Ia dibentuk oleh pemakanan, kelahiran, antibiotik dan usia — dan ia berubah dalam beberapa hari."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/gut/gut-card-en.webp"
+  card: "/assets/img/mbf/hubs/gut/gut-card-ms.webp"
   cardLine: "Adakah usus saya sihat?"
   cardAlt: "Adakah usus saya sihat? — seorang wanita menaiki tangga rumahnya pada waktu petang dengan beg sayur"
-  og: "/assets/img/mbf/hubs/gut/gut-og-en.jpg"
+  og: "/assets/img/mbf/hubs/gut/gut-og-ms.jpg"
   preview: "/assets/img/mbf/hubs/gut/gut-preview.webp"
   previewAlt: "Ilustrasi: sekumpulan bakteria usus berbentuk batang dan bulat sedang makan pada serpihan serat tumbuhan yang tepinya berjumbai keemasan"
-  plate: "/assets/img/mbf/hubs/gut/gut-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/gut/gut-plate-ms.webp"
   plateLines: "Mula-mula — serat yang tidak kita hadam tiba · Kemudian — kumpulan itu menapainya · Hasilnya — asid memberi makan dinding usus"
   hero: "/assets/img/mbf/hubs/gut/gut-hero.webp"
   heroAlt: "Ilustrasi: serat tumbuhan sampai ke usus besar, bakteria menapainya, dan molekul asid lemak rantai pendek berwarna karang masuk ke dalam sel lapisan usus"

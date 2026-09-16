@@ -18,13 +18,13 @@ voice: greger
 answer: "腸内細菌は食物繊維を発酵させて短鎖脂肪酸——酢酸、プロピオン酸、酪酸——を作ります。これが腸の壁を養い、GLP-1を出す細胞に合図を送ります。GLP-1は胃の動きを遅くし、満腹を脳に伝えるホルモンです。粘液にすむAkkermansia muciniphilaは、この会話を整えるバリアを厚くします。これは経路であって、治療ではありません。"
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/metabolic/metabolic-card-en.webp"
+  card: "/assets/img/mbf/hubs/metabolic/metabolic-card-ja.webp"
   cardLine: "満腹感は何が作るの？"
   cardAlt: "満腹感は何が作るの？ — 夕暮れ、男性が公園のはずれで足を止めて息を整える"
-  og: "/assets/img/mbf/hubs/metabolic/metabolic-og-en.jpg"
+  og: "/assets/img/mbf/hubs/metabolic/metabolic-og-ja.jpg"
   preview: "/assets/img/mbf/hubs/metabolic/metabolic-preview.webp"
   previewAlt: "イラスト：腸粘膜のフラスコ形のホルモン細胞が金色に光るGLP-1の顆粒を抱え、脂肪酸の分子がその先端に降り立つ"
-  plate: "/assets/img/mbf/hubs/metabolic/metabolic-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/metabolic/metabolic-plate-ja.webp"
   plateLines: "まず — 細菌が食物繊維を発酵させる · 次に — 脂肪酸が腸の細胞に届く · 結果 — 細胞がGLP-1を血中へ放つ"
   hero: "/assets/img/mbf/hubs/metabolic/metabolic-hero.webp"
   heroAlt: "イラスト：細菌が食物繊維を発酵させて脂肪酸の分子に変え、それが腸粘膜のホルモン細胞に結合し、細胞は金色のGLP-1の顆粒を細い血管へ放つ"
