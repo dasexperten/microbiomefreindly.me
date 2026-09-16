@@ -201,3 +201,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - tl card alt: "Bakit siya at hindi ikaw? — isang lalaking naghihintay sa bangko ng labahan sa patag na liwanag ng huling umaga"
 - tl card question: "Bakit siya at hindi ikaw?"
 - tl plate lines: "Una — parehong patay na selula, dalawang gut · Tapos — wala nang puwang ang siksikang gut · Kaya — ang kakaunting gut lang ang nagbago"
+
+- th preview alt: "ภาพประกอบ: เซลล์รูปแท่งที่ถูกฆ่าด้วยความร้อนไม่กี่ตัวนอนนิ่งอยู่ในช่องว่างของชุมชนจุลินทรีย์ลำไส้ที่เบาบาง ท่ามกลางเศษใยอาหาร"
+- th hero alt: "ภาพประกอบ: เซลล์รูปแท่งที่ตายแล้วชุดเดียวกันนอนอยู่เฉย ๆ บนชุมชนจุลินทรีย์ลำไส้ที่แน่นขนัด แต่กลับลงหลักในช่องว่างของชุมชนที่เบาบาง ซึ่งมีผู้อาศัยใหม่และหยดเล็ก ๆ ปรากฏขึ้น"
+- th card alt: "ทำไมได้ผลกับเธอ แต่ไม่ได้ผลกับคุณ? — ชายคนหนึ่งนั่งรออยู่บนม้านั่งในร้านซักผ้าในแสงสายที่เรียบแบน"
+- th card question: "ทำไมได้ผลกับเธอ แต่ไม่ได้ผลกับคุณ?"
+- th plate lines: "ก่อนอื่น — เซลล์ที่ตายแล้วชุดเดียวกัน สองลำไส้ · จากนั้น — ลำไส้ที่แน่นขนัดไม่เหลือที่ว่าง · ผลลัพธ์ — มีเพียงลำไส้ที่เบาบางที่เปลี่ยนไป"

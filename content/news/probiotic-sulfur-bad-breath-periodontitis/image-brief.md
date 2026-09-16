@@ -189,3 +189,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - tl card alt: "Ano ba talaga ang mabahong hininga? — isang babae sa harap ng pinto niya na humihinga sa nakakuyom na palad"
 - tl card question: "Ano ba talaga ang mabahong hininga?"
 - tl plate lines: "Una — kumakain ng protina ang mikrobyo sa bibig · Tapos — pinuputol ng enzyme ang sulfur · Kaya — bumaba nang 98 % ang gene, sa lalagyan"
+
+- th preview alt: "ภาพประกอบ: แบคทีเรียรูปกระสวยและรูปป้อมสั้นอยู่ในฝ้าระหว่างปุ่มลิ้นทรงมน มีฟองแก๊สสีทองเล็ก ๆ ลอยขึ้นมา"
+- th hero alt: "ภาพประกอบ: แบคทีเรียไม่ใช้ออกซิเจนในช่องปากที่เต็มไปด้วยเอนไซม์ตัดกำมะถันปล่อยฟองเล็ก ๆ ออกมา แล้วของเหลวจากแบคทีเรียกรดแลกติกก็ไหลผ่านมา จนเอนไซม์เหล่านั้นแทบหายไป"
+- th card alt: "อะไรทำให้ปากมีกลิ่นกันแน่? — หญิงคนหนึ่งยืนอยู่หน้าประตูบ้านตัวเองแล้วหายใจใส่ฝ่ามือที่ป้องไว้"
+- th card question: "อะไรทำให้ปากมีกลิ่นกันแน่?"
+- th plate lines: "ก่อนอื่น — จุลินทรีย์ในปากกินโปรตีน · จากนั้น — เอนไซม์ตัดกำมะถันออกมา · ผลลัพธ์ — ยีนนั้นลดลง 98 % ในจานเพาะเลี้ยง"

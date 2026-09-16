@@ -1,6 +1,6 @@
 ---
 title: "Faecalibacterium prausnitzii: мікроб, що гине в повітрі"
-meta: "Faecalibacterium prausnitzii — понад 5 % ваших кишкових бактерій, і вона годує вистилку товстої кишки. Що показують названі дослідження — і чого не показують."
+meta: "Faecalibacterium prausnitzii — понад 5 % ваших кишкових бактерій, і вона годує вистилку товстої кишки. Що показують названі дослідження — і чого ні."
 kicker: "Faecalibacterium"
 type: bacteria
 topic: immunity

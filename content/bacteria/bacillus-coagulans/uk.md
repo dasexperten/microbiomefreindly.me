@@ -1,6 +1,6 @@
 ---
 title: "Bacillus coagulans: спора проїздом, а не мешканець"
-meta: "Bacillus coagulans (він же Heyndrickxia coagulans — один мікроб, дві назви): що цей споровий пробіотик робить для рота і кишківника і де докази спиняються."
+meta: "Bacillus coagulans (він же Heyndrickxia coagulans): що цей споровий пробіотик робить для рота і кишківника і де докази спиняються."
 kicker: "Bacillus coagulans"
 type: bacteria
 topic: oral
