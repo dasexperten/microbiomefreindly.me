@@ -16,8 +16,8 @@ from PIL import Image, ImageFilter
 
 INK = (0x36, 0x36, 0x36)      # --ink
 IVORY = (0xF7, 0xF5, 0xF2)    # --paper
-STD_MAX = 10.0 / 255          # luminance standard deviation inside the box
-GRAD_MAX = 3.0 / 255          # mean local gradient inside the box
+STD_MAX = 26.0 / 255          # luminance spread: a wall may fall off gently, it may not be busy
+GRAD_MAX = 7.0 / 255          # local texture: this is what actually eats a letter
 CONTRAST_MIN = 4.5            # WCAG on the worst 2 % of the box
 
 

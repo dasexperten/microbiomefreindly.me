@@ -21,10 +21,24 @@ for (const line of readFileSync(join(ROOT, 'docs/CASTING_CARDS_2026-09-16.md'), 
   if (m) cast[m[1].split('/')[1]] = { face: m[2].trim(), url: m[3].trim(), media: m[4] || '' };
 }
 
+/* The briefs come in two shapes — the 2026-09-02 fixed-column template and the marked-up one — so the
+ * label is read either way, and a value wrapped onto the next lines is picked up with it. */
 const field = (txt, label) => {
-  const re = new RegExp(`\\*\\*${label}[^*]*\\*\\*:?\\s*([^\\n]+)`, 'i');
-  const m = txt.match(re);
-  return m ? m[1].replace(/^[:\s]+/, '').trim() : '';
+  const lines = txt.split('\n');
+  const head = new RegExp(`^\\s*(?:[-*]\\s*)?(?:\\*\\*)?${label}[^:]*:?(?:\\*\\*)?\\s*:?\\s*(.*)$`, 'i');
+  for (let i = 0; i < lines.length; i++) {
+    const m = lines[i].match(head);
+    if (!m) continue;
+    let val = m[1].trim();
+    for (let j = i + 1; j < lines.length; j++) {
+      const nx = lines[j];
+      if (!nx.trim() || /^\s*(?:[-*#]|\*\*)/.test(nx) || /^\s*[A-ZА-Я0-9][^:]{0,60}:\s/.test(nx)) break;
+      val += ' ' + nx.trim();
+    }
+    val = val.replace(/^[:\s]+/, '').replace(/\*\*/g, '').trim();
+    if (val) return val;
+  }
+  return '';
 };
 
 const BANS = 'Absolutely no text of any kind anywhere in the frame: no letters, no numerals, no signage, no labels, no packaging text, no watermark, no invented glyphs, nothing written on clothing, mugs, jars, packets or in the background. No product, no packaging, no bottle, no capsule, no pill, no sachet, no jar, no brand mark. No second person, no other face, no lab coat, no scrubs, no clinic, no hospital, no microscope. No medical horror. No black background, no neon, no studio gloss.';
