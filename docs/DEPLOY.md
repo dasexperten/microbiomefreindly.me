@@ -48,4 +48,5 @@ Mail is untouched: the `mail` A record, MX and DMARC stay as they were.
 | 2026-09-16 | `5fafa7e` | session | wave 2 live — 36 more topics |
 | 2026-09-16 | `26c7b9f` | session | last five topics; all 44 carry both masters |
 | 2026-09-16 | `446398f` | session | image URLs fingerprinted — the edge was still serving the replaced frames |
+| 2026-09-16 | `558592e` | session (Lisa · Otto · Marika) | eight cards recast with men after the Owner freed our own people's portraits — 36 women, 8 men, one man on every feed but food and routine. Two frames reshot on measurement, alt text rewritten with the faces. The ninth is open: the engine refused it twice and failed twice |
 | 2026-09-16 | `0d3e6ad` | session (Lisa · Otto · Marika) | the three-image shape: 44 character cards with the topic's question baked per language, the macro world and the infographic moved into the body, the infographic given a band of three numbered beats. 440 derived files, 88 locale files rewired. Live check: 1302 image URLs on the edge, 0 bad. Look accepted at 1440 and 390 px |
