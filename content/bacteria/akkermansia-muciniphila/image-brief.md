@@ -134,3 +134,27 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Comer moco es buena noticia? — una mujer de unos cuarenta echa verduras picadas a una sartén en su cocina"
 - es card question: "¿Comer moco es buena noticia?"
 - es plate lines: "Primero — se instala en tu moco · Después — pasta un hueco · Resultado — la mucosa lo renueva; 1 % de las células"
+
+- pt-BR preview alt: "Ilustração: células ovais de Akkermansia repousam aos pares num gel de muco transparente, com uma gota dourada de muco novo subindo sob um dos pares"
+- pt-BR hero alt: "Ilustração: células ovais de Akkermansia se acomodam na camada de muco do intestino e abrem uma cavidade rasa, e a mucosa abaixo empurra muco novo que engrossa a camada"
+- pt-BR card alt: "Comer muco é boa notícia? — uma mulher de uns quarenta anos põe legumes picados numa panela na cozinha de manhã"
+- pt-BR card question: "Comer muco é boa notícia?"
+- pt-BR plate lines: "Primeiro — ela se instala no seu muco · Depois — abre uma cavidade rasa · Resultado — a mucosa renova o muco; 1 % das células"
+
+- vi preview alt: "Minh họa: những tế bào Akkermansia hình bầu dục nằm thành cặp trong lớp gel chất nhầy trong suốt, một giọt chất nhầy mới màu vàng kim dâng lên dưới một cặp"
+- vi hero alt: "Minh họa: các tế bào Akkermansia hình bầu dục lắng vào lớp chất nhầy của ruột và gặm một hõm nông, còn niêm mạc bên dưới đẩy lên chất nhầy mới làm lớp ấy dày lại"
+- vi card alt: "Ăn chất nhầy có tốt không? — một phụ nữ ngoài bốn mươi trút rau đã thái vào chảo trong gian bếp buổi sáng"
+- vi card question: "Ăn chất nhầy có tốt không?"
+- vi plate lines: "Đầu tiên — nó định cư trong chất nhầy của bạn · Sau đó — nó gặm một hõm nông · Kết quả — niêm mạc làm mới lớp ấy; 1 % số tế bào"
+
+- uk preview alt: "Ілюстрація: овальні клітини Akkermansia лежать парами в прозорому слизовому гелі, під однією парою піднімається золота крапля свіжого слизу"
+- uk hero alt: "Ілюстрація: овальні клітини Akkermansia осідають у шарі слизу кишківника і виїдають неглибоку заглибину, а вистилка під ними виштовхує свіжий слиз, який потовщує шар"
+- uk card alt: "Чи корисно їсти слиз? — жінка за сорок висипає нарізані овочі на сковороду у своїй ранковій кухні"
+- uk card question: "Чи корисно їсти слиз?"
+- uk plate lines: "Спершу — вона осідає у вашому слизі · Потім — виїдає в ньому заглибину · Наслідок — вистилка його оновлює; 1 % клітин"
+
+- ar preview alt: "رسم توضيحي: خلايا Akkermansia بيضوية ترقد أزواجًا في هلام مخاطي صافٍ، وحبة مخاط ذهبية طازجة ترتفع تحت أحد الأزواج"
+- ar hero alt: "رسم توضيحي: خلايا Akkermansia بيضوية تستقرّ في طبقة مخاط الأمعاء وترعى فيها حفرة ضحلة، والبطانة تحتها تدفع مخاطًا طازجًا يزيد الطبقة سماكة"
+- ar card alt: "هل أكل المخاط خبر سارّ؟ — امرأة في الأربعين تُفرغ خضارًا مقطّعًا في مقلاة في مطبخها الصباحي"
+- ar card question: "هل أكل المخاط خبر سارّ؟"
+- ar plate lines: "أولًا — تستقرّ في مخاطك · ثم — ترعى فيه حفرة ضحلة · والنتيجة — البطانة تجدّده؛ 1 % من الخلايا"

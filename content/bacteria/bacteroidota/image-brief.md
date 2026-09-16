@@ -78,3 +78,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Qué pasa sin fibra? — una mujer de unos cuarenta deja una bolsa de papel con verduras en un puesto del mercado"
 - es card question: "¿Qué pasa sin fibra?"
 - es plate lines: "Primero — la fibra vegetal les llega entera · Después — la desarman para ti · Resultado — sin fibra, se comen tu mucosa"
+
+- pt-BR preview alt: "Ilustração: bastonetes rechonchudos de Bacteroidota reunidos na ponta rasgada e esgarçada, de tom verde-limão, de um filamento de fibra vegetal, iluminado por trás"
+- pt-BR hero alt: "Ilustração: bastonetes rechonchudos desmontam a fibra vegetal em fragmentos dourados acima de uma camada espessa de muco; mais à direita, sem fibra nenhuma, os mesmos bastonetes pastam o muco e ele afina"
+- pt-BR card alt: "O que acontece sem fibra? — mulher de quarenta anos põe um saco de papel com verduras numa banca de feira ao meio-dia"
+- pt-BR card question: "O que acontece sem fibra?"
+- pt-BR plate lines: "Primeiro — a fibra vegetal chega inteira até elas · Depois — elas a desmontam para você · Resultado — sem fibra, elas comem a sua mucosa"
+
+- vi preview alt: "Minh họa: những que Bacteroidota mập tụ lại ở đầu sợi chất xơ thực vật bị xé tướp, ánh màu xanh chanh, được rọi sáng từ phía sau"
+- vi hero alt: "Minh họa: những que mập tháo rời chất xơ thực vật thành các mảnh màu vàng kim bên trên một lớp chất nhầy dày; xa hơn về bên phải, khi hết chất xơ, chính những que ấy gặm lớp chất nhầy và nó mỏng đi"
+- vi card alt: "Không có chất xơ thì sao? — một phụ nữ ngoài bốn mươi đặt túi giấy đựng rau lên bàn chợ lúc giữa trưa"
+- vi card question: "Không có chất xơ thì sao?"
+- vi plate lines: "Đầu tiên — chất xơ thực vật tới chỗ chúng còn nguyên · Sau đó — chúng tháo rời nó giúp bạn · Kết quả — hết chất xơ, chúng ăn niêm mạc của bạn"
+
+- ar preview alt: "رسم توضيحي: عصيات Bacteroidota ممتلئة متجمّعة على الطرف الممزّق المتهدّب بلون الليمون من خصلة ألياف نباتية، مضاءة من الخلف"
+- ar hero alt: "رسم توضيحي: عصيات ممتلئة تفكّك ألياف النبات إلى شظايا ذهبية فوق طبقة مخاط سميكة؛ وإلى اليمين، حيث لم تبقَ ألياف، ترعى العصيات نفسها المخاط فيرقّ"
+- ar card alt: "ماذا يحدث بلا ألياف؟ — امرأة في الأربعينيات تضع كيسًا ورقيًا من الخضار على طاولة سوق عند الظهيرة"
+- ar card question: "ماذا يحدث بلا ألياف؟"
+- ar plate lines: "أولًا — ألياف النبات تصلها كاملة · ثم — تفكّكها من أجلك · والنتيجة — بلا ألياف، تأكل بطانتك"

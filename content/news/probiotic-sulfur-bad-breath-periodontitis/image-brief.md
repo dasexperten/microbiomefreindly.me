@@ -111,3 +111,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Qué causa el mal aliento? — una mujer en la puerta de su casa echa el aliento en la mano ahuecada"
 - es card question: "¿Qué causa el mal aliento?"
 - es plate lines: "Primero — los microbios de la boca comen proteína · Luego — una enzima libera el azufre · Resultado — ese gen bajó 98 %, en placa"
+
+- pt-BR preview alt: "Ilustração: bactérias em fuso e bactérias atarracadas na camada entre as papilas arredondadas da língua, com bolhinhas douradas de gás subindo"
+- pt-BR hero alt: "Ilustração: anaeróbios da boca cheios de enzimas que cortam enxofre soltam bolhinhas; o líquido de bactérias lácticas passa por cima e as enzimas quase somem"
+- pt-BR card alt: "O que causa o mau hálito? — uma mulher na porta de casa sopra o hálito na mão em concha"
+- pt-BR card question: "O que causa o mau hálito?"
+- pt-BR plate lines: "Primeiro — os micróbios da boca comem proteína · Depois — uma enzima solta o enxofre · Resultado — esse gene caiu 98 %, em placa"
+
+- vi preview alt: "Minh họa: vi khuẩn hình thoi và hình mập ngắn nằm trong lớp rêu giữa các gai lưỡi tròn, những bọt khí vàng li ti đang nổi lên"
+- vi hero alt: "Minh họa: vi khuẩn kỵ khí trong miệng đầy enzyme cắt lưu huỳnh đang nhả ra bọt khí nhỏ; dịch từ vi khuẩn lactic tràn qua và các enzyme gần như biến mất"
+- vi card alt: "Hôi miệng thật ra do đâu? — một phụ nữ đứng trước cửa nhà mình, thở vào lòng bàn tay khum lại"
+- vi card question: "Hôi miệng thật ra do đâu?"
+- vi plate lines: "Đầu tiên — vi khuẩn miệng ăn protein · Sau đó — một enzyme cắt lưu huỳnh ra · Kết quả — gen đó giảm 98 %, trong đĩa"

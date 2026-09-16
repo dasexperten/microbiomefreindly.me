@@ -67,3 +67,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Las esporas se quedan? — una mujer de unos treinta espera en la parada del autobús con su bolsa, luz fría"
 - es card question: "¿Las esporas se quedan?"
 - es plate lines: "Primero — las esporas llegan dormidas y enteras · Después — una despierta y agria el azúcar · Resultado — pasan de largo y se van"
+
+- pt-BR preview alt: "Ilustração: uma célula em bastonete de Bacillus coagulans segura um esporo oval dourado, com esporos soltos ao lado dela sobre uma casca vegetal seca"
+- pt-BR hero alt: "Ilustração: esporos dormentes de Bacillus coagulans chegam ao intestino, um deles se abre e dele brota um bastonete coral, e os bastonetes passam pela mucosa e vão embora sem se instalar"
+- pt-BR card alt: "O esporo probiótico fica? — uma mulher de uns trinta anos espera no ponto de ônibus com a bolsa, na luz fria do dia"
+- pt-BR card question: "O esporo probiótico fica?"
+- pt-BR plate lines: "Primeiro — os esporos chegam adormecidos e inteiros · Depois — um deles acorda e azeda o açúcar · Resultado — eles passam direto e vão embora"
+
+- vi preview alt: "Minh họa: một tế bào Bacillus coagulans hình que đang giữ một bào tử bầu dục màu vàng kim, cạnh nó là các bào tử tự do trên một vỏ trấu khô"
+- vi hero alt: "Minh họa: các bào tử Bacillus coagulans đang ngủ đi tới ruột, một bào tử nứt ra và một que màu san hô mọc lên, rồi các que trôi qua niêm mạc và đi mất mà không định cư"
+- vi card alt: "Bào tử lợi khuẩn ở lại? — một phụ nữ ngoài ba mươi đợi xe buýt cùng chiếc túi trong ánh sáng lạnh"
+- vi card question: "Bào tử lợi khuẩn ở lại?"
+- vi plate lines: "Đầu tiên — bào tử tới nơi, còn ngủ và còn nguyên · Sau đó — một con thức dậy và làm chua đường · Kết quả — chúng trôi qua rồi đi"
+
+- ar preview alt: "رسم توضيحي: خلية Bacillus coagulans عصوية الشكل تحمل بوغًا بيضويًا ذهبيًا، وإلى جانبها أبواغ حرة على قشرة نباتية جافة"
+- ar hero alt: "رسم توضيحي: أبواغ Bacillus coagulans الخاملة تصل إلى الأمعاء، أحدها ينشقّ وتنمو منه عصية مرجانية، ثم تمرّ العصيات بجانب البطانة وتمضي دون أن تستقرّ"
+- ar card alt: "هل تبقى أبواغ البروبيوتيك؟ — امرأة في الثلاثينيات تنتظر الحافلة وحقيبتها معها في ضوء نهار بارد"
+- ar card question: "هل تبقى أبواغ البروبيوتيك؟"
+- ar plate lines: "أولًا — الأبواغ تصل نائمة وسليمة · ثم — أحدها يستيقظ ويُحمّض السكر · والنتيجة — تمرّ بجانبها وتمضي"

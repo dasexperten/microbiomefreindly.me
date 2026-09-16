@@ -142,3 +142,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Comer moco es bueno? — una mujer elige verduras de hoja en un mercado techado un sábado por la mañana"
 - es card question: "¿Comer moco es bueno?"
 - es plate lines: "Primero — pasta el moco del intestino · Luego — la pared se alimenta y fabrica más · Resultado — sin fibra la capa se adelgaza"
+
+- pt-BR preview alt: "Ilustração: bactérias ovais repousam entre fios esticados de muco sobre a mucosa intestinal, com um fio se desfiando onde uma célula se alimenta"
+- pt-BR hero alt: "Ilustração: bactérias ovais pastam a camada de muco sobre a mucosa do cólon, que absorve um combustível dourado e faz muco novo; mais à direita, bactérias apinhadas gastam a camada até virar um véu fino"
+- pt-BR card alt: "A comedora de muco é boa? — uma mulher escolhe verduras num mercado coberto na manhã de sábado"
+- pt-BR card question: "A comedora de muco é boa?"
+- pt-BR plate lines: "Primeiro — ela pasta na capa de muco do intestino · Depois — a mucosa se alimenta e faz mais · Resultado — sem fibra a capa fica fina"
+
+- vi preview alt: "Minh họa: những vi khuẩn bầu dục nằm giữa các sợi chất nhầy căng ra trên niêm mạc ruột, một sợi tưa ra ở chỗ có tế bào đang ăn"
+- vi hero alt: "Minh họa: những vi khuẩn bầu dục gặm lớp chất nhầy trên niêm mạc đại tràng, lớp niêm mạc hút nhiên liệu vàng và tiết ra chất nhầy mới; xa hơn về bên phải, vi khuẩn chen chúc mài lớp ấy mỏng thành một tấm màn"
+- vi card alt: "Kẻ ăn chất nhầy có tốt? — một phụ nữ chọn rau lá xanh trong khu chợ có mái vào sáng thứ Bảy"
+- vi card question: "Kẻ ăn chất nhầy có tốt?"
+- vi plate lines: "Đầu tiên — nó gặm lớp chất nhầy của ruột · Sau đó — niêm mạc được nuôi và tiết thêm · Kết quả — thiếu chất xơ thì lớp áo mỏng đi"

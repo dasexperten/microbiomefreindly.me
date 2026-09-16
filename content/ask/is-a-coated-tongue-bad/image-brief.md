@@ -103,3 +103,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Es malo tener la lengua blanca? — una mujer frente al espejo del baño al amanecer, mirándose la lengua"
 - es card question: "¿Es malo tener la lengua blanca?"
 - es plate lines: "Primero — las células llenan los surcos · Luego — las bacterias sin aire dan el olor · Resultado — capa fina en el 90,7 %"
+
+- pt-BR preview alt: "Ilustração: escamas de células soltas da superfície com correntinhas de bactérias, assentadas num vale estreito entre as papilas da língua"
+- pt-BR hero alt: "Ilustração: uma fileira de papilas da língua com escamas soltas e bactérias nos vales entre elas, fina em nove vales e mais grossa em um, com um gás leve subindo"
+- pt-BR card alt: "Língua branca é ruim? — uma mulher diante do espelho do banheiro ao amanhecer, olhando a própria língua"
+- pt-BR card question: "Língua branca é ruim?"
+- pt-BR plate lines: "Primeiro — as células soltas enchem os sulcos · Depois — bactérias sem ar fazem o cheiro · Resultado — camada fina em 90,7 %"
+
+- vi preview alt: "Minh họa: những mảnh tế bào bề mặt bong ra cùng các chuỗi vi khuẩn tí hon, lắng trong một khe hẹp giữa các gai lưỡi"
+- vi hero alt: "Minh họa: một hàng gai lưỡi với mảnh tế bào bong và vi khuẩn trong các rãnh giữa chúng, mỏng ở chín rãnh và dày hơn ở một rãnh, hơi khí mờ bốc lên"
+- vi card alt: "Lưỡi có rêu là xấu không? — một phụ nữ soi gương nhà tắm lúc trời vừa sáng, nhìn cái lưỡi của mình"
+- vi card question: "Lưỡi có rêu là xấu không?"
+- vi plate lines: "Đầu tiên — tế bào bong lấp đầy các rãnh · Sau đó — vi khuẩn thiếu khí tạo ra mùi · Kết quả — rêu mỏng ở 90,7 %"

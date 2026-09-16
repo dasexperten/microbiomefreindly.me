@@ -83,3 +83,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿El covid largo viene del intestino? — una mujer deja la ropa a medio doblar y se sienta en la orilla de la cama"
 - es card question: "¿El covid largo viene del intestino?"
 - es plate lines: "Primero — se desprende un flagelo bacteriano · Luego — las células inmunitarias lo leen como alarma · Resultado — se inflama un tejido lejos del intestino"
+
+- pt-BR preview alt: "Ilustração: bactérias finas do intestino com rabos longos em saca-rolhas num muco à deriva, com um rabo solto boiando numa mancha de luz dourada"
+- pt-BR hero alt: "Ilustração: um pedaço de rabo bacteriano solto sai do intestino, um neutrófilo lança uma teia e sinaliza para um macrófago, e um tecido distante engrossa de fibras"
+- pt-BR card alt: "A covid longa vem do intestino? — uma mulher para no meio da roupa lavada e senta na beira da cama"
+- pt-BR card question: "A covid longa vem do intestino?"
+- pt-BR plate lines: "Primeiro — um rabo bacteriano se solta · Depois — as células de defesa leem isso como alarme · Resultado — inflama um tecido longe do intestino"
+
+- vi preview alt: "Minh họa: những vi khuẩn ruột mảnh mai với roi dài xoắn ốc trong lớp chất nhầy đang trôi, một chiếc roi rụng lạc giữa vệt sáng vàng"
+- vi hero alt: "Minh họa: một mảnh roi vi khuẩn rụng rời khỏi ruột, một bạch cầu trung tính quăng lưới và báo cho đại thực bào, rồi mô ở xa dày lên những sợi xơ"
+- vi card alt: "Covid kéo dài đến từ ruột? — một phụ nữ dừng giữa chừng việc giặt giũ và ngồi xuống mép giường"
+- vi card question: "Covid kéo dài đến từ ruột?"
+- vi plate lines: "Đầu tiên — một chiếc roi vi khuẩn gãy rời · Sau đó — tế bào miễn dịch đọc nó như báo động · Kết quả — mô ở xa ruột phát viêm"

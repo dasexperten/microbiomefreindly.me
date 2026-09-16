@@ -127,3 +127,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Cuánta fibra al día? — una mujer en la mesa del comedor muy temprano, con un tazón de avena delante"
 - es card question: "¿Cuánta fibra al día?"
 - es plate lines: "Primero — llegan tres clases de fibra · Luego — solo una de ellas se come · Resultado — 25–29 g al día y luego se aplana"
+
+- pt-BR preview alt: "Ilustração: bactérias intestinais bifurcadas desmontam cadeias macias e ramificadas de fibra enquanto uma fita lisa de gel desliza ao lado"
+- pt-BR hero alt: "Ilustração: três fibras chegam à mucosa do intestino; as bactérias comem só as cadeias ramificadas, uma fita de gel e um floco de farelo passam inteiros, e porções maiores deixam de render mais"
+- pt-BR card alt: "Quanta fibra é suficiente? — uma mulher à mesa de jantar de manhã cedo, com uma tigela de mingau à frente"
+- pt-BR card question: "Quanta fibra é suficiente?"
+- pt-BR plate lines: "Primeiro — chegam três tipos de fibra · Depois — só um deles é comido · Resultado — 25–29 g por dia, depois estabiliza"
+
+- vi preview alt: "Minh họa: vi khuẩn đường ruột hình chạc tháo rời các chuỗi chất xơ phân nhánh mềm trong khi một dải gel trơn trượt qua"
+- vi hero alt: "Minh họa: ba loại chất xơ tới niêm mạc ruột; vi khuẩn chỉ ăn những chuỗi phân nhánh, một dải gel và một mảnh cám đi qua nguyên vẹn, và phần ăn lớn hơn thì thôi không cho thêm gì nữa"
+- vi card alt: "Bao nhiêu chất xơ là đủ? — một phụ nữ ngồi ở bàn ăn lúc sáng sớm, trước mặt là bát cháo yến mạch"
+- vi card question: "Bao nhiêu chất xơ là đủ?"
+- vi plate lines: "Đầu tiên — ba loại chất xơ cùng tới · Sau đó — chỉ một loại được ăn · Kết quả — 25–29 g mỗi ngày, rồi chững lại"

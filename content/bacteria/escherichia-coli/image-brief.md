@@ -66,3 +66,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿E. coli es siempre peligrosa? — una mujer de treinta y tantos detiene el tenedor sobre un plato de ensalada"
 - es card question: "¿E. coli es siempre peligrosa?"
 - es plate lines: "Primero — el oxígeno se filtra desde la pared · Luego — estos bastones lo consumen · Resultado — más del 90 % de nosotros los lleva"
+
+- pt-BR preview alt: "Ilustração: células de E. coli em bastonete, franjadas de fios finos, ao lado de uma bolha de gás no conteúdo úmido do intestino, com um dos fios iluminado de dourado"
+- pt-BR hero alt: "Ilustração: vestígios de oxigênio sobem da mucosa intestinal, bastonetes franjados de E. coli ao lado dela os absorvem e, mais além, anaeróbios estritos lotam o espaço sem ar"
+- pt-BR card alt: "E. coli é sempre perigosa? — uma mulher de uns trinta anos para o garfo sobre uma tigela de salada na mesa do refeitório"
+- pt-BR card question: "E. coli é sempre perigosa?"
+- pt-BR plate lines: "Primeiro — o oxigênio escapa da mucosa · Depois — estes bastonetes o consomem · Resultado — mais de 90 % de nós os carrega"
+
+- vi preview alt: "Minh họa: những tế bào E. coli hình que viền quanh bằng các sợi mảnh, bên cạnh một bọt khí trong dịch ruột ẩm, một sợi ánh lên màu vàng kim"
+- vi hero alt: "Minh họa: những vệt oxy dâng lên từ niêm mạc ruột, các que E. coli có viền sợi ở ngay cạnh hút chúng vào, và xa hơn là những kẻ kỵ khí bắt buộc chen chúc trong khoảng không không có khí"
+- vi card alt: "E. coli luôn nguy hiểm? — một phụ nữ ngoài ba mươi dừng nĩa trên tô rau trộn ở bàn nhà ăn"
+- vi card question: "E. coli luôn nguy hiểm?"
+- vi plate lines: "Đầu tiên — oxy rỉ ra từ niêm mạc · Sau đó — những que này thở hết chỗ oxy ấy · Kết quả — hơn 90 % chúng ta mang chúng"
+
+- ar preview alt: "رسم توضيحي: خلايا E. coli العصوية محاطة بهدب من خيوط دقيقة إلى جانب فقاعة غاز في محتوى معوي رطب، وخيط واحد مضاء بالذهبي"
+- ar hero alt: "رسم توضيحي: آثار أكسجين تصعد من الغشاء المبطِّن للأمعاء، وعصيات E. coli المهدّبة بجانبه تلتقطها، وخلفها تزدحم اللاهوائيات الصارمة في الفراغ الخالي من الهواء"
+- ar card alt: "هل E. coli خطيرة دائمًا؟ — امرأة في الثلاثينيات توقف شوكتها فوق صحن سلطة على طاولة مقصف"
+- ar card question: "هل E. coli خطيرة دائمًا؟"
+- ar plate lines: "أولًا — الأكسجين يرشح من الجدار · ثم — هذه العصيات تتنفسه · والنتيجة — أكثر من 90 % منا يحملونها"

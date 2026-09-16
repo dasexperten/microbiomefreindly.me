@@ -152,3 +152,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿El dolor sí es físico? — una mujer se detiene en el pasillo de la oficina con el antebrazo cruzado sobre el vientre"
 - es card question: "¿El dolor sí es físico?"
 - es plate lines: "Primero — el líquido de las heces toca la pared del intestino · Luego — una enzima corta un receptor nervioso · Resultado — la red nerviosa dispara mucho más"
+
+- pt-BR preview alt: "Ilustração: uma renda de nós nervosos brilhando através do tecido fino do intestino, uma película âmbar transparente se depositando e alguns nós acesos em coral"
+- pt-BR hero alt: "Ilustração: uma película fina de líquido âmbar se deposita na mucosa do intestino; uma enzima corta um receptor de uma célula nervosa, que se acende e desperta os nós da rede nervosa ao redor"
+- pt-BR card alt: "A dor é mesmo física? — uma mulher para no corredor do escritório com o antebraço cruzado sobre a barriga"
+- pt-BR card question: "A dor é mesmo física?"
+- pt-BR plate lines: "Primeiro — o líquido das fezes toca a parede do intestino · Depois — uma enzima corta um receptor nervoso · Resultado — a rede nervosa dispara bem mais forte"
+
+- vi preview alt: "Minh họa: một tấm ren gồm các nút thần kinh phát sáng xuyên qua mô ruột mỏng, một màng hổ phách trong suốt đang lắng xuống, vài nút sáng lên màu san hô"
+- vi hero alt: "Minh họa: một màng dịch hổ phách mỏng lắng trên niêm mạc ruột; một enzyme cắt thụ thể trên tế bào thần kinh, tế bào đó sáng lên và đánh thức các nút thần kinh quanh nó"
+- vi card alt: "Cơn đau này có thật không? — một phụ nữ dừng lại giữa hành lang văn phòng, cẳng tay ép ngang bụng"
+- vi card question: "Cơn đau này có thật không?"
+- vi plate lines: "Đầu tiên — dịch phân chạm thành ruột · Sau đó — enzyme cắt một thụ thể thần kinh · Kết quả — mạng thần kinh phóng điện mạnh hơn hẳn"

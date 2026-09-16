@@ -99,3 +99,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Me enjuago todos los días? — una mujer se detiene en el pasillo, con el abrigo a medio poner, pasadas las ocho"
 - es card question: "¿Me enjuago todos los días?"
 - es plate lines: "Primero — el enjuague no elige · Luego — la comunidad de la boca se adelgaza · Resultado — el nitrito cae un 90 %"
+
+- pt-BR preview alt: "Ilustração: um enxaguante transparente varre um tapete misto de bastonetes, células redondas e fusos, e o deixa ralo atrás da sua borda"
+- pt-BR hero alt: "Ilustração: um enxaguante varre o tapete misto de bactérias da superfície da língua, e o fluxo de partículas que ele manda a um vaso sanguíneo cai a um décimo"
+- pt-BR card alt: "Devo enxaguar todo dia? — uma mulher para no corredor de casa, casaco pela metade, pouco depois das oito"
+- pt-BR card question: "Devo enxaguar todo dia?"
+- pt-BR plate lines: "Primeiro — o enxaguante não escolhe · Depois — a comunidade da boca rareia · Resultado — o nitrito cai 90 %"
+
+- vi preview alt: "Minh họa: một dòng nước súc trong suốt quét qua thảm vi khuẩn hỗn hợp gồm que, cầu và hình thoi, để lại phía sau mép nước một lớp thưa thớt"
+- vi hero alt: "Minh họa: một dòng nước súc quét qua thảm vi khuẩn hỗn hợp trên mặt lưỡi, và dòng hạt mà nó gửi về phía một mạch máu giảm còn một phần mười"
+- vi card alt: "Ngày nào cũng súc miệng ư? — một phụ nữ khựng lại ở hành lang nhà, áo khoác mặc dở, vừa qua tám giờ"
+- vi card question: "Ngày nào cũng súc miệng ư?"
+- vi plate lines: "Đầu tiên — nước súc không chọn lựa · Sau đó — cộng đồng trong miệng thưa đi · Kết quả — nitrit giảm 90 %"
+
+- uk preview alt: "Ілюстрація: прозорий ополіскувач проходить по змішаному килимі з паличок, круглих клітин і веретен, лишаючи його за своїм краєм рідким"
+- uk hero alt: "Ілюстрація: ополіскувач змиває змішаний бактерійний килим на поверхні язика, і потік часточок, який той слав до судини, падає до десятої частини"
+- uk card alt: "Чи треба полоскати щодня? — жінка спинилася в передпокої, пальто наполовину вдягнене, щойно по восьмій"
+- uk card question: "Чи треба полоскати щодня?"
+- uk plate lines: "Спочатку — ополіскувач не вибирає · Потім — спільнота рота рідшає · Підсумок — нітрит падає на 90 %"

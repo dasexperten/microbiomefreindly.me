@@ -84,3 +84,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Las bacterias afectan al ánimo? — una mujer junto a la ventana de la sala al anochecer, la mano en la nuca"
 - es card question: "¿Las bacterias afectan al ánimo?"
 - es plate lines: "Primero — los microbios sueltan moléculas · Luego — una célula del intestino lo percibe y avisa · Resultado — el nervio lo lleva, ellas se quedan"
+
+- pt-BR preview alt: "Ilustração: uma rede de aglomerados de células nervosas unidos por feixes de fibras na parede muscular do intestino, um deles tingido de verde-limão"
+- pt-BR hero alt: "Ilustração: bactérias do intestino soltam moléculas pequenas, uma célula hormonal da mucosa as percebe e um sinal dourado corre por um nervo em direção ao cérebro"
+- pt-BR card alt: "As bactérias mudam o humor? — uma mulher à janela da sala ao anoitecer, a mão no pescoço"
+- pt-BR card question: "As bactérias mudam o humor?"
+- pt-BR plate lines: "Primeiro — os micróbios soltam moléculas · Depois — uma célula do intestino sinaliza · Resultado — o nervo leva o recado"
+
+- vi preview alt: "Minh họa: một mạng lưới các cụm tế bào thần kinh nối bằng bó sợi trên thành cơ của ruột, một cụm ngả sang màu chanh"
+- vi hero alt: "Minh họa: vi khuẩn ruột nhả ra các phân tử nhỏ, một tế bào nội tiết trong niêm mạc ruột nhận ra chúng, và một tín hiệu vàng chạy dọc dây thần kinh về phía não"
+- vi card alt: "Vi khuẩn đổi tâm trạng? — một phụ nữ đứng bên cửa sổ phòng khách lúc chạng vạng, một tay đặt lên cổ"
+- vi card question: "Vi khuẩn đổi tâm trạng?"
+- vi plate lines: "Đầu tiên — vi khuẩn ruột nhả ra phân tử · Sau đó — tế bào ruột nhận ra và báo tin · Kết quả — dây thần kinh mang đi, chúng ở lại"

@@ -123,3 +123,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Será mi estómago? — una mujer en su auto estacionado por la mañana, la palma apoyada en el estómago"
 - es card question: "¿Será mi estómago?"
 - es plate lines: "Primero — la capa cierra el paso del aire · Luego — las bacterias arrancan el azufre · Resultado — boca 87 %, intestino 1 %"
+
+- pt-BR preview alt: "Ilustração: bastonetes anaeróbios curtos e gordos no fundo de um sulco estreito da gengiva, com finas colunas de gás sulfuroso subindo dali"
+- pt-BR hero alt: "Ilustração: uma multidão de colunas de gás sulfuroso sobe das bactérias da camada no fundo da língua, enquanto uma única coluna fina sobe da profundidade abaixo"
+- pt-BR card alt: "Será que é meu estômago? — uma mulher no carro estacionado de manhã, a palma da mão sobre o estômago"
+- pt-BR card question: "Será que é meu estômago?"
+- pt-BR plate lines: "Primeiro — a camada fecha a passagem do ar · Depois — as bactérias arrancam o enxofre · Resultado — boca 87 %, intestino 1 %"
+
+- vi preview alt: "Minh họa: những trực khuẩn kỵ khí ngắn và mập nằm sâu trong một khe lợi hẹp, các luồng khí lưu huỳnh mảnh bốc lên từ đó"
+- vi hero alt: "Minh họa: cả một đám luồng khí lưu huỳnh bốc lên từ vi khuẩn trong lớp rêu ở phía trong lưỡi, trong khi chỉ một luồng mảnh bốc lên từ vùng sâu bên dưới"
+- vi card alt: "Mùi này bốc từ dạ dày? — một phụ nữ ngồi trong xe đỗ giữa buổi sáng, lòng bàn tay áp phẳng lên bụng"
+- vi card question: "Mùi này bốc từ dạ dày?"
+- vi plate lines: "Đầu tiên — lớp rêu chặn hết không khí · Sau đó — vi khuẩn tách lưu huỳnh ra · Kết quả — miệng 87 %, ruột 1 %"
+
+- uk preview alt: "Ілюстрація: короткі пухкі анаеробні палички глибоко у вузькій ясенній борозні, з якої піднімаються тонкі струмені сірчаного газу"
+- uk hero alt: "Ілюстрація: юрба струменів сірчаного газу піднімається від бактерій у нальоті на корені язика, а з глибини внизу підіймається один тонкий струмінь"
+- uk card alt: "Це йде з мого шлунка? — жінка у припаркованому авті серед ранку, долоня притиснута до живота"
+- uk card question: "Це йде з мого шлунка?"
+- uk plate lines: "Спочатку — наліт перекриває повітря · Потім — бактерії зривають з нього сірку · Підсумок — рот 87 %, кишківник 1 %"

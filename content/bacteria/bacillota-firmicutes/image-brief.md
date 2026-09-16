@@ -66,3 +66,27 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Las bacterias del intestino engordan? — una mujer de unos cincuenta junto a la báscula del baño al anochecer"
 - es card question: "¿Las bacterias del intestino engordan?"
 - es plate lines: "Primero — el almidón llega entero al colon · Después — los bastones lo fermentan en butirato · Resultado — la mucosa come; esporas en 50–60 %"
+
+- pt-BR preview alt: "Ilustração: bactérias em bastonete de parede grossa, duas delas com esporos ovais, repousam sobre um grânulo de amido marcado de coral onde se alimentam"
+- pt-BR hero alt: "Ilustração: bastonetes de parede grossa desmontam um grânulo de amido resistente em gotas douradas de butirato que a mucosa do cólon absorve; seis dos dez bastonetes carregam um esporo"
+- pt-BR card alt: "Bactéria intestinal engorda a gente? — mulher de cinquenta anos ao lado da balança do banheiro ao anoitecer, sem se abalar"
+- pt-BR card question: "Bactéria intestinal engorda a gente?"
+- pt-BR plate lines: "Primeiro — o amido chega inteiro ao cólon · Depois — os bastonetes o fermentam em butirato · Resultado — a mucosa se alimenta; esporos em 50–60 %"
+
+- vi preview alt: "Minh họa: những vi khuẩn hình que vách dày, hai con đang giữ bào tử hình bầu dục, nằm trên một hạt tinh bột rỗ màu san hô nơi chúng kiếm ăn"
+- vi hero alt: "Minh họa: những que vách dày phân giải một hạt tinh bột kháng thành các giọt butyrat màu vàng kim mà niêm mạc đại tràng hấp thu; sáu trong mười que mang bào tử"
+- vi card alt: "Vi khuẩn ruột làm ta béo? — một phụ nữ ngoài năm mươi đứng cạnh cái cân trong phòng tắm lúc chiều muộn"
+- vi card question: "Vi khuẩn ruột làm ta béo?"
+- vi plate lines: "Đầu tiên — tinh bột tới đại tràng còn nguyên · Sau đó — các que lên men nó thành butyrat · Kết quả — niêm mạc được ăn; bào tử ở 50–60 %"
+
+- uk preview alt: "Ілюстрація: товстостінні палички, дві з них тримають овальні спори, лежать на крохмальному зерні, поцяткованому ямками там, де вони живляться"
+- uk hero alt: "Ілюстрація: товстостінні палички розщеплюють зерно резистентного крохмалю на золоті краплі бутирату, які вбирає вистилка товстої кишки; шість із десяти паличок несуть спору"
+- uk card alt: "Від кишкових бактерій гладшають? — жінка за п'ятдесят стоїть надвечір біля ваги у ванній, без захвату"
+- uk card question: "Від кишкових бактерій гладшають?"
+- uk plate lines: "Спершу — крохмаль доходить до товстої кишки цілим · Потім — палички зброджують його на бутират · Наслідок — вистилка живиться; спори у 50–60 %"
+
+- ar preview alt: "رسم توضيحي: عصيات بكتيرية سميكة الجدار، اثنتان منها تحملان بوغين بيضويين، ترقد على حبيبة نشا محفورة بلون مرجاني حيث تتغذى"
+- ar hero alt: "رسم توضيحي: عصيات سميكة الجدار تفكّك حبيبة نشا مقاوم إلى قطرات بوتيرات ذهبية تمتصّها بطانة القولون؛ ستّ من العصيات العشر تحمل بوغًا"
+- ar card alt: "هل بكتيريا الأمعاء تُسمّنك؟ — امرأة في الخمسين تقف إلى جانب ميزان الحمّام عند الغروب، غير مكترثة"
+- ar card question: "هل بكتيريا الأمعاء تُسمّنك؟"
+- ar plate lines: "أولًا — النشا يصل القولون كاملًا · ثم — العصيات تخمّره إلى بوتيرات · والنتيجة — البطانة تتغذى؛ أبواغ في 50–60 %"

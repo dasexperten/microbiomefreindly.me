@@ -89,3 +89,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿La tenemos todos? — un joven toma un dulce de una bolsa de papel en su escritorio"
 - es card question: "¿La tenemos todos?"
 - es plate lines: "Primero — el azúcar cae sobre la placa · Luego — hilan pegamento y hacen ácido · Resultado — el esmalte de abajo se disuelve"
+
+- pt-BR preview alt: "Ilustração: cadeias de bactérias ovais presas em fios grudentos sobre um esmalte pálido e estriado, com um cristal de açúcar verde-limão na borda"
+- pt-BR hero alt: "Ilustração: o açúcar se dissolve entre cadeias de bactérias ovais sobre o esmalte; elas tecem fios grudentos que as colam ali e soltam ácido, e sob a névoa ácida a superfície mineral se solta"
+- pt-BR card alt: "Todos têm o germe da cárie? — um rapaz pega uma bala de um saquinho de papel na mesa de trabalho"
+- pt-BR card question: "Todos têm o germe da cárie?"
+- pt-BR plate lines: "Primeiro — o açúcar cai sobre a placa · Depois — elas tecem cola e fazem ácido · Resultado — o esmalte embaixo se dissolve"
+
+- vi preview alt: "Minh họa: những chuỗi vi khuẩn hình bầu dục bị giữ trong các sợi dính trên men răng nhạt màu có gờ, một tinh thể đường xanh chanh ở mép"
+- vi hero alt: "Minh họa: đường tan giữa những chuỗi vi khuẩn bầu dục trên men răng; chúng dệt các sợi dính để gắn mình xuống và nhả ra axit, và dưới làn sương axit ấy bề mặt khoáng lỏng dần"
+- vi card alt: "Ai cũng mang khuẩn sâu răng? — một chàng trai lấy viên kẹo từ túi giấy trên bàn làm việc"
+- vi card question: "Ai cũng mang khuẩn sâu răng?"
+- vi plate lines: "Đầu tiên — đường rơi xuống mảng bám · Sau đó — chúng dệt keo và tạo axit · Kết quả — men răng bên dưới tan ra"
+
+- ar preview alt: "رسم توضيحي: سلاسل من بكتيريا بيضوية محبوسة في خيوط لزجة على مينا شاحبة مضلّعة، وبلورة سكر ليمونية عند الحافة"
+- ar hero alt: "رسم توضيحي: السكر يذوب بين سلاسل بكتيريا بيضوية على المينا؛ تغزل خيوطاً لزجة تلصقها بالسطح وتطلق حمضاً، وتحت ضباب الحمض يتراخى السطح المعدني"
+- ar card alt: "هل يحمل الجميع جرثومة التسوس؟ — شاب يأخذ حلوى من كيس ورقي عند مكتبه"
+- ar card question: "هل يحمل الجميع جرثومة التسوس؟"
+- ar plate lines: "أولاً — السكر يحطّ على اللويحة · ثم — تغزل غراءً وتصنع حمضاً · النتيجة — المينا تحتها تذوب"

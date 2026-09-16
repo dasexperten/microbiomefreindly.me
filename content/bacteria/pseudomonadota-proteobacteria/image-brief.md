@@ -71,3 +71,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Son las bacterias malas? — una mujer arrodillada junto a las hileras de frijol de un huerto bajo el sol de la tarde"
 - es card question: "¿Son las bacterias malas?"
 - es plate lines: "Primero — pocos bastones en una multitud sin aire · Luego — la mucosa herida deja pasar oxígeno · Resultado — se multiplican y el resto mengua"
+
+- pt-BR preview alt: "Ilustração: bactérias curtas em forma de bastonete se juntam numa fina névoa verde-limão logo acima das células arredondadas da mucosa intestinal"
+- pt-BR hero alt: "Ilustração: poucos bastonetes curtos vivem entre muitas bactérias intestinais sobre uma mucosa sem ar; quando a mucosa deixa vazar uma leve névoa de oxigênio, os bastonetes se multiplicam e os outros rareiam"
+- pt-BR card alt: "São essas as bactérias ruins? — uma mulher ajoelhada nas fileiras de feijão de uma horta no sol do fim da tarde"
+- pt-BR card question: "São essas as bactérias ruins?"
+- pt-BR plate lines: "Primeiro — poucos bastonetes numa multidão sem ar · Depois — a mucosa irritada deixa vazar oxigênio · Resultado — eles proliferam e os outros rareiam"
+
+- vi preview alt: "Minh họa: những que ngắn tụ lại trong một làn sương xanh chanh mỏng ngay trên các tế bào tròn của niêm mạc ruột"
+- vi hero alt: "Minh họa: vài que ngắn sống giữa nhiều vi khuẩn ruột trên một lớp niêm mạc không có khí; khi niêm mạc rò ra một làn oxy mờ, các que nhân lên còn những loài khác thưa dần"
+- vi card alt: "Đây có phải vi khuẩn xấu? — một phụ nữ quỳ bên những luống đậu của mảnh vườn dưới nắng chiều muộn"
+- vi card question: "Đây có phải vi khuẩn xấu?"
+- vi plate lines: "Đầu tiên — vài que giữa đám đông không có khí · Sau đó — niêm mạc tổn thương rò oxy · Kết quả — chúng bùng lên, số còn lại thưa đi"
+
+- ar preview alt: "رسم توضيحي: بكتيريا عصوية قصيرة تتجمع في ضباب ليموني رقيق فوق الخلايا المستديرة لبطانة الأمعاء مباشرة"
+- ar hero alt: "رسم توضيحي: عصيات قصيرة قليلة تعيش بين كثير من بكتيريا الأمعاء على بطانة بلا هواء؛ وحين تسرّب البطانة ضباباً خفيفاً من الأكسجين تتكاثر العصيات ويتضاءل الآخرون"
+- ar card alt: "هل هذه البكتيريا السيئة؟ — امرأة تجثو عند صفوف الفاصولياء في حديقة مستأجرة تحت شمس العصر"
+- ar card question: "هل هذه البكتيريا السيئة؟"
+- ar plate lines: "أولاً — عصيات قليلة في زحام بلا هواء · ثم — البطانة المتقرحة تسرّب الأكسجين · النتيجة — تزدهر ويتضاءل الباقون"

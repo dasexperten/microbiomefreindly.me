@@ -136,3 +136,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Es inofensivo en la lengua? — una mujer sentada con una taza de té en su balcón por la mañana"
 - es card question: "¿Es inofensivo en la lengua?"
 - es plate lines: "Primero — en la lengua desde el nacimiento · Luego — suelta sus propios antibióticos · Resultado — los rivales se frenan en su borde"
+
+- pt-BR preview alt: "Ilustração: cadeias de bactérias redondas, feito contas de colar, repousam numa película úmida entre sulcos macios, com um leve halo coral em volta de uma cadeia"
+- pt-BR hero alt: "Ilustração: cadeias de bactérias redondas se assentam numa película úmida sobre sulcos macios e soltam partículas douradas minúsculas; cadeias rivais que chegam boiando perdem a força na borda do território delas"
+- pt-BR card alt: "O micróbio da língua é seguro? — uma mulher sentada com uma xícara de chá na varanda pela manhã"
+- pt-BR card question: "O micróbio da língua é seguro?"
+- pt-BR plate lines: "Primeiro — na língua desde o nascimento · Depois — ela solta os próprios antibióticos · Resultado — as rivais empacam na borda"
+
+- vi preview alt: "Minh họa: những chuỗi vi khuẩn tròn như hạt cườm nằm trong màng ẩm giữa các gờ mềm, quanh một chuỗi là quầng san hô mờ"
+- vi hero alt: "Minh họa: những chuỗi vi khuẩn tròn đậu xuống màng ẩm trên các gờ mềm và nhả ra những hạt vàng li ti; các chuỗi đối thủ trôi tới thì rũ xuống ở rìa lãnh thổ của chúng"
+- vi card alt: "Vi khuẩn trên lưỡi có hại? — một phụ nữ ngồi với tách trà trên ban công vào buổi sáng"
+- vi card question: "Vi khuẩn trên lưỡi có hại?"
+- vi plate lines: "Đầu tiên — trên lưỡi từ lúc mới sinh · Sau đó — nó nhả ra kháng sinh của chính mình · Kết quả — đối thủ khựng lại ở rìa"

@@ -83,3 +83,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿De dónde viene la placa? — una mujer se inclina sobre el lavabo en la luz fría del amanecer, recién enjuagada"
 - es card question: "¿De dónde viene la placa?"
 - es plate lines: "Primero — las bacterias se pegan al esmalte · Luego — el azúcar alimenta a las que hacen ácido · Resultado — el esmalte se ablanda debajo"
+
+- pt-BR preview alt: "Ilustração: um montinho novo de bactérias redondas em cadeias curtas sobre o esmalte do dente, envolto num gel de açúcar brilhante com a borda dourada"
+- pt-BR hero alt: "Ilustração: o açúcar continua chegando a um montinho de placa no esmalte do dente, as bactérias redondas que fazem ácido tomam conta e uma névoa coral de ácido amolece o esmalte embaixo delas"
+- pt-BR card alt: "De onde vem a placa? — uma mulher se inclina sobre a pia na luz fria do amanhecer, recém-enxaguada"
+- pt-BR card question: "De onde vem a placa?"
+- pt-BR plate lines: "Primeiro — as bactérias grudam no esmalte · Depois — o açúcar alimenta quem faz ácido · Resultado — o esmalte amolece por baixo"
+
+- vi preview alt: "Minh họa: một ụ vi khuẩn hình tròn còn non xếp thành chuỗi ngắn trên men răng, bọc trong lớp gel đường bóng có viền vàng"
+- vi hero alt: "Minh họa: đường cứ tới một ụ mảng bám trên men răng, các vi khuẩn hình tròn sinh axit chiếm chỗ, và một làn axit màu san hô làm mềm lớp men bên dưới chúng"
+- vi card alt: "Mảng bám từ đâu ra? — một phụ nữ cúi trên bồn rửa trong ánh sáng sớm lành lạnh, vừa súc miệng xong"
+- vi card question: "Mảng bám từ đâu ra?"
+- vi plate lines: "Đầu tiên — vi khuẩn bám vào men răng · Sau đó — đường nuôi đám sinh axit · Kết quả — men răng bên dưới mềm đi"

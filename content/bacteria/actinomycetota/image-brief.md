@@ -101,3 +101,27 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿De dónde salen los antibióticos? — un hombre de más de setenta aprieta tierra húmeda junto a un brote en su jardín"
 - es card question: "¿De dónde salen los antibióticos?"
 - es plate lines: "Primero — los hilos crecen en tierra húmeda · Después — liberan antibióticos · Resultado — dos tercios de los nuestros nacieron aquí"
+
+- vi preview alt: "Minh họa: những sợi vi khuẩn đất phân nhánh mảnh trải trên các hạt đất ẩm, đầu sợi vươn lên kết thúc bằng chuỗi bào tử màu xanh nhạt"
+- vi hero alt: "Minh họa: vi khuẩn đất phân nhánh giải phóng các phân tử kháng sinh, sáu trong chín phân tử màu san hô, trong khi bên kia khung hình những que Bifidobacterium chẻ nhánh nằm trên niêm mạc ruột"
+- vi card alt: "Kháng sinh bắt đầu từ đâu? — một người đàn ông ngoài bảy mươi ấn đất ẩm quanh cây non trong vườn"
+- vi card question: "Kháng sinh bắt đầu từ đâu?"
+- vi plate lines: "Đầu tiên — sợi mọc trong đất ẩm · Sau đó — chúng tiết ra kháng sinh · Kết quả — hai phần ba kháng sinh của ta bắt đầu ở đây"
+
+- pt-BR preview alt: "Ilustração: finos filamentos ramificados de bactérias do solo sobre grãos de terra úmida, com as pontas erguidas terminando em cadeias de esporos verde-claro"
+- pt-BR hero alt: "Ilustração: bactérias ramificadas do solo liberam moléculas de antibiótico, seis das nove em coral, enquanto do outro lado do quadro bastonetes bifurcados de Bifidobacterium repousam sobre uma mucosa intestinal"
+- pt-BR card alt: "De onde vêm os antibióticos? — um homem de uns setenta anos aperta terra úmida em volta de uma muda no jardim"
+- pt-BR card question: "De onde vêm os antibióticos?"
+- pt-BR plate lines: "Primeiro — os filamentos crescem na terra úmida · Depois — liberam antibióticos · Resultado — dois terços dos nossos nasceram aqui"
+
+- ar preview alt: "رسم توضيحي: خيوط دقيقة متفرعة من بكتيريا التربة فوق حبيبات تراب رطب، وأطرافها المرتفعة تنتهي بسلاسل أبواغ خضراء باهتة"
+- ar hero alt: "رسم توضيحي: بكتيريا تربة متفرعة تطلق جزيئات مضاد حيوي، ستة من تسعة بلون مرجاني، بينما ترقد في الطرف الآخر من الكادر عصيات Bifidobacterium المتشعبة على بطانة معوية"
+- ar card alt: "من أين جاءت المضادات الحيوية؟ — رجل في السبعين يضغط ترابًا رطبًا حول شتلة في حديقته"
+- ar card question: "من أين جاءت المضادات الحيوية؟"
+- ar plate lines: "أولًا — خيوط تنمو في تراب رطب · ثم — تطلق مضادات حيوية · والنتيجة — ثلثا مضاداتنا بدأت هنا"
+
+- uk preview alt: "Ілюстрація: тонкі розгалужені нитки ґрунтових бактерій на вологих частинках землі, їхні підняті кінчики закінчуються блідо-зеленими ланцюжками спор"
+- uk hero alt: "Ілюстрація: розгалужені ґрунтові бактерії виділяють молекули антибіотика, шість із дев'яти коралові, а через увесь кадр вилчасті палички Bifidobacterium лежать на слизовій кишківника"
+- uk card alt: "Звідки взялися антибіотики? — чоловік за сімдесят притискає вологу землю навколо сіянця у своєму саду"
+- uk card question: "Звідки взялися антибіотики?"
+- uk plate lines: "Спершу — нитки ростуть у вологій землі · Потім — вони виділяють антибіотики · Наслідок — дві третини наших почалися тут"

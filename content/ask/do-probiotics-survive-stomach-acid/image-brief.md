@@ -95,3 +95,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Con comida o en ayunas? — un hombre ante su comida en la mesa de un comedor a media jornada"
 - es card question: "¿Con comida o en ayunas?"
 - es plate lines: "Primero — todas entran juntas en el ácido · Luego — pasan las esporas, caen las delicadas · Resultado — llega el 18,5 %, casi ninguna se queda"
+
+- pt-BR preview alt: "Ilustração: uma bactéria com esporo blindado e três esporos soltos seguem inteiros no ácido, enquanto as bactérias delicadas ao redor se desfazem"
+- pt-BR hero alt: "Ilustração: bactérias engolidas atravessam o ácido do estômago; a maioria das soltas se desfaz, esporos e um grupo com casca passam inteiros e, na mucosa do intestino, duas sobreviventes se instalam no muco enquanto outras passam direto"
+- pt-BR card alt: "Com comida ou em jejum? — um homem diante do almoço na mesa de um refeitório no meio do dia"
+- pt-BR card question: "Com comida ou em jejum?"
+- pt-BR plate lines: "Primeiro — a multidão encontra o ácido · Depois — os esporos passam, as delicadas caem · Resultado — chegam 18,5 %, poucas ficam"
+
+- vi preview alt: "Minh họa: một trực khuẩn mang bào tử có vỏ giáp và ba bào tử tự do nằm nguyên vẹn trong axit, còn các trực khuẩn mỏng manh quanh chúng thì sụp xuống"
+- vi hero alt: "Minh họa: vi khuẩn nuốt vào đi qua axit dạ dày; phần lớn trực khuẩn tự do sụp xuống, bào tử và một cụm có vỏ đi qua nguyên vẹn, và ở niêm mạc ruột hai kẻ sống sót trụ lại trong lớp nhầy trong khi những con khác trôi qua"
+- vi card alt: "Uống lúc no hay lúc đói? — một người đàn ông bên bữa trưa ở bàn ăn căng tin giữa ngày"
+- vi card question: "Uống lúc no hay lúc đói?"
+- vi plate lines: "Đầu tiên — cả đám gặp axit · Sau đó — bào tử đi qua, tế bào mỏng manh gục · Kết quả — 18,5 % tới nơi, ít con trụ lại"

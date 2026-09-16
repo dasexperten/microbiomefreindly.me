@@ -74,3 +74,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Esto debe vivir en mi boca? — una mujer se seca las manos en el lavabo del baño ya entrada la noche"
 - es card question: "¿Esto debe vivir en mi boca?"
 - es plate lines: "Primero — las colonizadoras redondas forman una capa · Luego — largos husos se tienden encima · Resultado — la placa se sostiene como una sola"
+
+- pt-BR preview alt: "Ilustração: uma bactéria em forma de fuso deitada como uma viga entre grupos de células redondas num recife de placa, iluminada por baixo"
+- pt-BR hero alt: "Ilustração: colonizadores redondos iniciais formam uma camada sobre uma superfície mineral, células longas em forma de fuso se deitam sobre ela, e células posteriores de outros formatos se prendem ao longo delas numa comunidade ordenada"
+- pt-BR card alt: "Isso deve morar na minha boca? — uma mulher enxuga as mãos na pia do banheiro tarde da noite"
+- pt-BR card question: "Isso deve morar na minha boca?"
+- pt-BR plate lines: "Primeiro — os colonizadores redondos formam uma camada · Depois — os fusos longos se deitam sobre eles · Resultado — a placa se mantém como um só corpo"
+
+- vi preview alt: "Minh họa: một vi khuẩn hình thoi nằm như một thanh xà giữa các cụm tế bào tròn trong rạn mảng bám, được rọi sáng từ bên dưới"
+- vi hero alt: "Minh họa: những kẻ định cư sớm hình tròn tạo thành một lớp trên bề mặt khoáng, các tế bào hình thoi dài nằm vắt ngang lớp ấy, rồi những tế bào đến sau với hình dạng khác bám dọc theo chúng thành một quần thể có trật tự"
+- vi card alt: "Thứ này nên ở trong miệng? — một phụ nữ lau khô tay bên bồn rửa trong phòng tắm lúc đêm muộn"
+- vi card question: "Thứ này nên ở trong miệng?"
+- vi plate lines: "Đầu tiên — những kẻ định cư tròn tạo một lớp · Sau đó — các hình thoi dài nằm vắt ngang · Kết quả — mảng bám giữ được như một khối"
+
+- ar preview alt: "رسم توضيحي: بكتيريا مغزلية الشكل تمتد كالعارضة بين عناقيد من خلايا مستديرة في شعاب من اللويحة السنية، مضاءة من الأسفل"
+- ar hero alt: "رسم توضيحي: مستوطنون أوائل مستديرون يشكّلون طبقة على سطح معدني، وخلايا مغزلية طويلة تمتد فوقها، وخلايا لاحقة بأشكال أخرى تتشبّث بها في مجتمع واحد مرتّب"
+- ar card alt: "هل مكان هذه في فمي؟ — امرأة تجفّف يديها عند مغسلة الحمّام في وقت متأخر من الليل"
+- ar card question: "هل مكان هذه في فمي؟"
+- ar plate lines: "أولًا — مستوطنون مستديرون يشكّلون طبقة · ثم — مغازل طويلة تمتد فوقهم · والنتيجة — اللويحة تتماسك ككتلة واحدة"

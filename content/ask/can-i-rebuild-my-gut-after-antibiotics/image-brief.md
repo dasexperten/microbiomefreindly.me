@@ -96,3 +96,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Se recupera mi flora intestinal? — una mujer en la mesa de su cocina ya de noche, terminado el tratamiento"
 - es card question: "¿Se recupera mi flora intestinal?"
 - es plate lines: "Primero — los antibióticos lo arrasan todo · Luego — se vuelve a llenar en seis semanas · Resultado — siguen faltando 9 especies"
+
+- pt-BR preview alt: "Ilustração: células bifurcadas de Bifidobacterium crescendo de novo no muco solto do intestino, ao lado de um vão vazio onde antes havia células"
+- pt-BR hero alt: "Ilustração: uma comunidade de bactérias do intestino em três momentos: cheia, quase arrasada pelos antibióticos e cheia de novo, com nove lugares vazios"
+- pt-BR card alt: "Dá para recuperar meu intestino? — uma mulher à mesa da cozinha tarde da noite, terminado o tratamento"
+- pt-BR card question: "Dá para recuperar meu intestino?"
+- pt-BR plate lines: "Primeiro — os antibióticos arrasam tudo · Depois — enche de novo em seis semanas · Resultado — 9 espécies ainda faltam"
+
+- vi preview alt: "Minh họa: các tế bào Bifidobacterium hình chạc mọc lại trong lớp nhầy ruột lỏng lẻo, bên cạnh một khoảng trống nơi từng có tế bào"
+- vi hero alt: "Minh họa: một quần thể vi khuẩn đường ruột trong ba thời điểm: đông đúc, bị kháng sinh quét gần như trơ trụi, rồi đông đúc trở lại với chín chỗ vẫn bỏ trống"
+- vi card alt: "Ruột tôi dựng lại được không? — một phụ nữ ngồi bên bàn bếp lúc đêm muộn, đợt thuốc đã xong"
+- vi card question: "Ruột tôi dựng lại được không?"
+- vi plate lines: "Đầu tiên — kháng sinh quét sạch · Sau đó — đầy lại trong sáu tuần · Kết quả — 9 loài vẫn còn thiếu"

@@ -95,3 +95,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Un número más grande es mejor? — un hombre con las manos vacías en el pasillo de frutas y verduras al final de la mañana"
 - es card question: "¿Un número más grande es mejor?"
 - es plate lines: "Primero — duplicar la dosis ayudó una vez · Luego — la misma cepa, mucha más cantidad · Resultado — 100 × más no cambió nada"
+
+- pt-BR preview alt: "Ilustração: um pequeno grupo de bactérias em bastonete ao lado de uma multidão dos mesmos bastonetes cem vezes maior, sobre muco liso"
+- pt-BR hero alt: "Ilustração: bactérias probióticas em bastonete sobre o muco do intestino; um grupo dobrado deixa a mucosa mais calma, mas uma multidão cem vezes maior não muda nada"
+- pt-BR card alt: "Número maior é melhor? — um homem de mãos vazias no corredor de frutas e verduras no fim da manhã"
+- pt-BR card question: "Número maior é melhor?"
+- pt-BR plate lines: "Primeiro — dobrar a dose ajudou uma vez · Depois — a mesma cepa, muito mais dela · Resultado — 100× a mais não mudou nada"
+
+- vi preview alt: "Minh họa: một cụm nhỏ vi khuẩn hình que bên cạnh một đám cũng những que ấy nhưng lớn gấp một trăm lần, trên lớp nhầy nhẵn"
+- vi hero alt: "Minh họa: vi khuẩn lợi khuẩn hình que trên lớp nhầy ruột; một nhóm được nhân đôi để lại niêm mạc yên hơn, còn một đám lớn gấp một trăm lần chẳng làm đổi khác gì cả"
+- vi card alt: "Số lớn hơn là tốt hơn? — một người đàn ông tay không đứng giữa quầy rau củ vào cuối buổi sáng"
+- vi card question: "Số lớn hơn là tốt hơn?"
+- vi plate lines: "Đầu tiên — liều gấp đôi từng giúp một lần · Sau đó — cùng chủng đó, nhiều hơn hẳn · Kết quả — gấp 100 lần chẳng đổi gì"
+
+- uk preview alt: "Ілюстрація: маленька купка паличкоподібних бактерій поряд із юрбою таких самих паличок, у сто разів більшою, на гладенькому слизу"
+- uk hero alt: "Ілюстрація: паличкоподібні бактерії пробіотика на кишковому слизу; подвоєна група лишає слизову спокійнішою, а юрба у сто разів більша не змінює під собою нічого"
+- uk card alt: "Більше число — це краще? — чоловік з порожніми руками в овочевому ряду перед полуднем"
+- uk card question: "Більше число — це краще?"
+- uk plate lines: "Спочатку — подвійна доза раз допомогла · Потім — той самий штам, значно більше · Підсумок — у 100 разів більше не змінило нічого"

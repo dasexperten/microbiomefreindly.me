@@ -83,3 +83,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Las enzimas matan bacterias? — una mujer corta piña y papaya en la mesa del comedor bajo el sol de media mañana"
 - es card question: "¿Las enzimas matan bacterias?"
 - es plate lines: "Primero — una red de azúcar sostiene la placa · Luego — la enzima corta un eslabón · Resultado — la red cae, las células siguen vivas"
+
+- pt-BR preview alt: "Ilustração: uma proteína enzimática dobrada segura uma cadeia de açúcar no seu sulco e corta um elo, marcado em coral, em contraluz quente"
+- pt-BR hero alt: "Ilustração: cadeias de bactérias redondas presas numa teia de cadeias de açúcar; proteínas enzimáticas cortam as cadeias em pontos verde-limão, e as bactérias libertadas flutuam soltas, ainda inteiras"
+- pt-BR card alt: "As enzimas matam bactérias? — uma mulher corta abacaxi e mamão na mesa da sala no sol do fim da manhã"
+- pt-BR card question: "As enzimas matam bactérias?"
+- pt-BR plate lines: "Primeiro — uma teia de açúcar sustenta a placa · Depois — a enzima corta um elo · Resultado — a teia cai, as células vivem"
+
+- vi preview alt: "Minh họa: một enzyme gấp nếp giữ chuỗi đường trong rãnh của nó và cắt đứt một mắt xích, màu san hô, dưới ánh ngược ấm"
+- vi hero alt: "Minh họa: những chuỗi vi khuẩn hình tròn bị giữ trong mạng chuỗi đường; các phân tử enzyme cắt chuỗi tại những điểm màu chanh, và vi khuẩn được thả ra trôi đi, vẫn còn nguyên vẹn"
+- vi card alt: "Enzyme có diệt vi khuẩn? — một phụ nữ cắt dứa và đu đủ trên bàn ăn dưới nắng cuối buổi sáng"
+- vi card question: "Enzyme có diệt vi khuẩn?"
+- vi plate lines: "Đầu tiên — mạng đường giữ chặt mảng bám · Sau đó — enzyme cắt một mắt xích · Kết quả — mạng rã ra, tế bào vẫn sống"

@@ -86,3 +86,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Qué te hace sentir lleno? — un hombre se detiene al borde del parque al anochecer para recuperar el aliento"
 - es card question: "¿Qué te hace sentir lleno?"
 - es plate lines: "Primero — las bacterias fermentan la fibra · Luego — los ácidos llegan a una célula del intestino · Resultado — suelta GLP-1 a la sangre"
+
+- pt-BR preview alt: "Ilustração: uma célula hormonal em forma de frasco na mucosa do intestino guarda grânulos dourados de GLP-1 enquanto moléculas de ácidos graxos pousam na sua ponta"
+- pt-BR hero alt: "Ilustração: bactérias fermentam a fibra em moléculas de ácidos graxos que se encaixam numa célula hormonal da mucosa do intestino; ela solta grânulos dourados de GLP-1 num vaso sanguíneo pequeno"
+- pt-BR card alt: "O que dá saciedade? — um homem para na beira do parque ao anoitecer para recuperar o fôlego"
+- pt-BR card question: "O que dá saciedade?"
+- pt-BR plate lines: "Primeiro — as bactérias fermentam a fibra · Depois — os ácidos chegam a uma célula · Resultado — ela solta GLP-1 no sangue"
+
+- vi preview alt: "Minh họa: một tế bào nội tiết hình bình trong niêm mạc ruột chứa hạt GLP-1 vàng rực khi phân tử axit béo đậu xuống chóp nó"
+- vi hero alt: "Minh họa: vi khuẩn lên men chất xơ thành các phân tử axit béo, chúng gắn vào một tế bào nội tiết trong niêm mạc ruột; tế bào ấy nhả các hạt GLP-1 màu vàng vào một mạch máu nhỏ"
+- vi card alt: "Điều gì làm bạn no? — một người đàn ông dừng lại ở rìa công viên lúc chạng vạng để lấy lại hơi"
+- vi card question: "Điều gì làm bạn no?"
+- vi plate lines: "Đầu tiên — vi khuẩn lên men chất xơ · Sau đó — axit béo tới một tế bào ruột · Kết quả — nó nhả GLP-1 vào máu"

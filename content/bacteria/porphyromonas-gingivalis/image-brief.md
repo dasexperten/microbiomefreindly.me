@@ -64,3 +64,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Tenerla significa enfermedad? — una mujer sentada de noche en el borde de su cama con un vaso de agua en las manos"
 - es card question: "¿Tenerla significa enfermedad?"
 - es plate lines: "Primero — vive tranquila entre vecinas · Luego — el equilibrio se rompe, sus enzimas cortan · Resultado — la bolsa rezuma y la alimenta"
+
+- pt-BR preview alt: "Ilustração: bactérias escuras e rechonchudas em forma de bastonete repousam numa película úmida dentro de uma fenda estreita, com luz ondulante e brilhos dourados de heme"
+- pt-BR hero alt: "Ilustração: bastonetes escuros e rechonchudos repousam no biofilme misto de uma bolsa; quando a comunidade muda, eles liberam enzimas que recortam as proteínas de defesa, e o líquido que exsuda lhes traz comida"
+- pt-BR card alt: "Ter a bactéria é ter doença? — uma mulher sentada na beira da cama à noite, um copo de água nas duas mãos"
+- pt-BR card question: "Ter a bactéria é ter doença?"
+- pt-BR plate lines: "Primeiro — ela fica quieta entre as vizinhas · Depois — o equilíbrio vira e suas enzimas cortam · Resultado — a bolsa exsuda e a alimenta"
+
+- vi preview alt: "Minh họa: những que sẫm màu, mập mạp nằm trong màng ẩm bên trong một khe hẹp, ánh sáng gợn sóng và những chớp vàng của hem"
+- vi hero alt: "Minh họa: những que sẫm mập nằm trong màng sinh học hỗn hợp của túi lợi; khi cộng đồng đổi chiều, chúng tiết enzyme cắt vụn các đạm phòng vệ, và dịch rỉ ra mang thức ăn đến cho chúng"
+- vi card alt: "Mang nó là đã bệnh? — một phụ nữ ngồi bên mép giường trong đêm, hai tay ôm một ly nước"
+- vi card question: "Mang nó là đã bệnh?"
+- vi plate lines: "Đầu tiên — nó nằm yên giữa hàng xóm · Sau đó — cân bằng nghiêng đi, enzyme của nó cắt · Kết quả — túi rỉ dịch và nuôi nó"
+
+- ar preview alt: "رسم توضيحي: بكتيريا عصوية ممتلئة داكنة ترقد في غشاء رطب داخل شق ضيق، مع ضوء متموج ولمعات ذهبية من الهيم"
+- ar hero alt: "رسم توضيحي: عصيات داكنة ممتلئة ترقد في غشاء حيوي مختلط داخل الجيب؛ وحين يتبدّل المجتمع تُطلق إنزيمات تقصّ بروتينات الدفاع، والسائل النازّ يجلب لها الغذاء"
+- ar card alt: "هل حملها يعني المرض؟ — امرأة تجلس على حافة سريرها ليلاً وكوب ماء بين يديها"
+- ar card question: "هل حملها يعني المرض؟"
+- ar plate lines: "أولاً — ترقد هادئة بين جيرانها · ثم — يميل التوازن وتقصّ إنزيماتها · النتيجة — الجيب ينزّ ويغذّيها"

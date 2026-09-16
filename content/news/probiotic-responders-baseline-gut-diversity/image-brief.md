@@ -123,3 +123,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Por qué a ella sí? — un hombre espera en la banca de una lavandería con la luz plana de media mañana"
 - es card question: "¿Por qué a ella sí?"
 - es plate lines: "Primero — las mismas células muertas, dos intestinos · Luego — en el intestino lleno no queda lugar · Resultado — solo cambió el intestino pobre"
+
+- pt-BR preview alt: "Ilustração: algumas células em bastonete, paradas e mortas pelo calor, deitadas nos vãos abertos de uma comunidade intestinal rala, entre fragmentos de fibra"
+- pt-BR hero alt: "Ilustração: as mesmas células mortas em bastonete ficam sem uso numa comunidade intestinal lotada, mas se acomodam nos vãos abertos de uma rala, onde surgem novos moradores e gotículas pequenas"
+- pt-BR card alt: "Por que só nela funcionou? — um homem espera no banco de uma lavanderia na luz chapada do fim da manhã"
+- pt-BR card question: "Por que só nela funcionou?"
+- pt-BR plate lines: "Primeiro — as mesmas células mortas, dois intestinos · Depois — o intestino lotado não tem mais lugar · Resultado — só o intestino ralo mudou"
+
+- vi preview alt: "Minh họa: vài tế bào hình que đã đun chết nằm bất động trong những khoảng trống của một cộng đồng ruột thưa thớt, giữa các mảnh chất xơ"
+- vi hero alt: "Minh họa: cũng những tế bào que đã chết ấy nằm vô dụng trên một cộng đồng ruột đông đúc, nhưng lại lọt vào các khoảng trống của một cộng đồng thưa, nơi xuất hiện những cư dân mới và những giọt nhỏ"
+- vi card alt: "Sao cô ấy được, bạn không? — một người đàn ông ngồi đợi trên ghế tiệm giặt trong ánh sáng phẳng giữa buổi sáng"
+- vi card question: "Sao cô ấy được, bạn không?"
+- vi plate lines: "Đầu tiên — cùng những tế bào chết, hai cái ruột · Sau đó — ruột đông đúc không còn chỗ · Kết quả — chỉ cái ruột thưa mới đổi"

@@ -121,3 +121,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Dormir mal daña el intestino? — una mujer al borde de su cama a las tres de la mañana junto a una lámpara tenue"
 - es card question: "¿Dormir mal daña el intestino?"
 - es plate lines: "Primero — ritmo parejo, muchas clases · Luego — el ritmo se vuelve irregular · Resultado — igual de densa, menos clases"
+
+- pt-BR preview alt: "Ilustração: quatro tipos de bactérias do intestino lado a lado num filme de muco brilhante sob a luz azul-escura da noite"
+- pt-BR hero alt: "Ilustração: bactérias do intestino ao longo da mucosa numa onda regular que se desfaz, a multidão seguindo igualmente cheia, mas feita de menos tipos de célula"
+- pt-BR card alt: "Dormir mal afeta o intestino? — uma mulher na beira da cama às três da manhã sob um abajur fraco"
+- pt-BR card question: "Dormir mal afeta o intestino?"
+- pt-BR plate lines: "Primeiro — ritmo constante, muitos tipos · Depois — o ritmo se desfaz · Resultado — igualmente cheio, menos tipos"
+
+- vi preview alt: "Minh họa: bốn loại vi khuẩn đường ruột nằm cạnh nhau trong màng nhầy óng ánh dưới ánh đêm xanh thẫm"
+- vi hero alt: "Minh họa: vi khuẩn đường ruột dọc theo niêm mạc xếp thành một làn sóng đều rồi trở nên rối; đám đông vẫn dày như thế nhưng gồm ít loại tế bào khác nhau hơn"
+- vi card alt: "Ngủ kém có hại ruột? — một phụ nữ ngồi ở mép giường lúc ba giờ sáng bên ngọn đèn mờ"
+- vi card question: "Ngủ kém có hại ruột?"
+- vi plate lines: "Đầu tiên — nhịp đều đặn, nhiều loại · Sau đó — nhịp trở nên rối · Kết quả — vẫn dày như thế, ít loại hơn"

@@ -130,3 +130,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Qué alimenta tu mucosa intestinal? — una joven come un plato de avena en su balcón con el último sol"
 - es card question: "¿Qué alimenta tu mucosa intestinal?"
 - es plate lines: "Primero — se esconde donde no llega el aire · Luego — come lo que sueltan sus vecinas · Resultado — la mucosa se alimenta; más del 5 % del total"
+
+- pt-BR preview alt: "Ilustração: bactérias finas em bastonete deitadas num muco denso sobre a mucosa do cólon, com minúsculas contas coral descendo delas"
+- pt-BR hero alt: "Ilustração: entre vinte bactérias do intestino num muco sem ar, um bastonete fino absorve as sobras dos vizinhos e libera contas douradas de butirato que passam para a mucosa do cólon"
+- pt-BR card alt: "O que alimenta sua mucosa? — uma mulher de uns vinte anos come uma tigela de aveia na varanda, no último sol"
+- pt-BR card question: "O que alimenta sua mucosa?"
+- pt-BR plate lines: "Primeiro — ela se esconde onde não chega ar · Depois — come o que os vizinhos largam · Resultado — a mucosa é alimentada; mais de 5 % de tudo"
+
+- vi preview alt: "Minh họa: những vi khuẩn hình que mảnh nằm trong lớp chất nhầy dày phủ trên niêm mạc đại tràng, các hạt nhỏ màu san hô trôi xuống từ chúng"
+- vi hero alt: "Minh họa: giữa hai mươi vi khuẩn đường ruột trong lớp chất nhầy không có khí, một que mảnh thu nhận đồ thừa của hàng xóm và nhả ra những hạt butyrat màu vàng kim đi vào niêm mạc đại tràng"
+- vi card alt: "Cái gì nuôi niêm mạc ruột? — một phụ nữ ngoài hai mươi ăn tô yến mạch trên ban công dưới nắng cuối ngày"
+- vi card question: "Cái gì nuôi niêm mạc ruột?"
+- vi plate lines: "Đầu tiên — nó trốn nơi không khí không tới · Sau đó — nó ăn thứ hàng xóm bỏ lại · Kết quả — niêm mạc được nuôi; hơn 5 % tổng số"
+
+- ar preview alt: "رسم توضيحي: بكتيريا عصوية نحيلة ترقد في مخاط كثيف فوق بطانة القولون، وتتساقط منها حبيبات مرجانية دقيقة"
+- ar hero alt: "رسم توضيحي: بين عشرين بكتيريا معوية في مخاط خالٍ من الهواء، تلتقط عصية نحيلة فضلات جيرانها وتطلق حبيبات بوتيرات ذهبية تنفذ إلى بطانة القولون"
+- ar card alt: "ما الذي يغذّي بطانة أمعائك؟ — شابة في العشرينيات تأكل صحن شوفان في شرفتها تحت آخر ضوء الشمس"
+- ar card question: "ما الذي يغذّي بطانة أمعائك؟"
+- ar plate lines: "أولًا — تختبئ حيث لا يصل الهواء · ثم — تأكل ما يسقط من الجيران · والنتيجة — البطانة تتغذى؛ وأكثر من 5 % من الجميع"

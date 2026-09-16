@@ -120,3 +120,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Tres días bastan? — una mujer junto a la ventana de su sala con la luz de la tarde, los brazos cruzados"
 - es card question: "¿Tres días bastan?"
 - es plate lines: "Primero — la comida mueve la mezcla en un día · Luego — dos días después vuelve atrás · Resultado — el 60 % de las cepas se queda años"
+
+- pt-BR preview alt: "Ilustração: bactérias intestinais gordas em bastonete e pares de pequenas células redondas assentadas num pedaço de fibra vegetal"
+- pt-BR hero alt: "Ilustração: duas fileiras de dez grupos de bactérias do intestino no muco enquanto a comida chega; na fileira de trás, seis grupos seguem iguais e quatro foram trocados por recém-chegados"
+- pt-BR card alt: "Três dias resetam mesmo? — uma mulher junto à janela da sala na luz do fim da tarde, braços cruzados"
+- pt-BR card question: "Três dias resetam mesmo?"
+- pt-BR plate lines: "Primeiro — a comida muda a mistura em um dia · Depois — dois dias depois ela volta · Resultado — 60 % das cepas ficam anos"
+
+- vi preview alt: "Minh họa: những vi khuẩn đường ruột hình que mập và các cặp tế bào tròn nhỏ đậu trên một mảnh chất xơ thực vật"
+- vi hero alt: "Minh họa: hai hàng, mỗi hàng mười nhóm vi khuẩn đường ruột trong lớp nhầy khi thức ăn trôi tới; ở hàng sau, sáu nhóm vẫn nguyên và bốn nhóm bị kẻ mới thay chỗ"
+- vi card alt: "Ba ngày đủ để làm lại? — một phụ nữ bên cửa sổ phòng khách trong ánh chiều muộn, khoanh tay"
+- vi card question: "Ba ngày đủ để làm lại?"
+- vi plate lines: "Đầu tiên — thức ăn đổi hỗn hợp trong một ngày · Sau đó — hai ngày sau nó trượt về cũ · Kết quả — 60 % số chủng ở lại nhiều năm"

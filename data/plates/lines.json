@@ -24,6 +24,10 @@
       "pass": true
     },
     "locales": {
+      "ar": {
+        "question": "من أين جاءت المضادات الحيوية؟",
+        "plateLines": "أولًا — خيوط تنمو في تراب رطب · ثم — تطلق مضادات حيوية · والنتيجة — ثلثا مضاداتنا بدأت هنا"
+      },
       "de": {
         "question": "Kommen Antibiotika aus der Erde?",
         "plateLines": "Zuerst — Fäden wachsen in feuchter Erde · Dann — sie geben Antibiotika ab · Ergebnis — zwei Drittel der unseren begannen hier"
@@ -36,9 +40,21 @@
         "question": "¿De dónde salen los antibióticos?",
         "plateLines": "Primero — los hilos crecen en tierra húmeda · Después — liberan antibióticos · Resultado — dos tercios de los nuestros nacieron aquí"
       },
+      "pt-BR": {
+        "question": "De onde vêm os antibióticos?",
+        "plateLines": "Primeiro — os filamentos crescem na terra úmida · Depois — liberam antibióticos · Resultado — dois terços dos nossos nasceram aqui"
+      },
       "ru": {
         "question": "Антибиотики родом из земли?",
         "plateLines": "Сначала — нити растут в сырой земле · Затем — они выделяют антибиотик · Итог — две трети антибиотиков отсюда"
+      },
+      "uk": {
+        "question": "Звідки взялися антибіотики?",
+        "plateLines": "Спершу — нитки ростуть у вологій землі · Потім — вони виділяють антибіотики · Наслідок — дві третини наших почалися тут"
+      },
+      "vi": {
+        "question": "Kháng sinh bắt đầu từ đâu?",
+        "plateLines": "Đầu tiên — sợi mọc trong đất ẩm · Sau đó — chúng tiết ra kháng sinh · Kết quả — hai phần ba kháng sinh của ta bắt đầu ở đây"
       }
     }
   },
@@ -67,6 +83,10 @@
       "pass": true
     },
     "locales": {
+      "ar": {
+        "question": "هل أكل المخاط خبر سارّ؟",
+        "plateLines": "أولًا — تستقرّ في مخاطك · ثم — ترعى فيه حفرة ضحلة · والنتيجة — البطانة تجدّده؛ 1 % من الخلايا"
+      },
       "de": {
         "question": "Ist Schleimfressen gut für mich?",
         "plateLines": "Zuerst — sie siedelt sich in Ihrem Schleim an · Dann — sie weidet eine Mulde ab · Ergebnis — die Schleimhaut erneuert ihn; 1 % der Zellen"
@@ -79,9 +99,21 @@
         "question": "¿Comer moco es buena noticia?",
         "plateLines": "Primero — se instala en tu moco · Después — pasta un hueco · Resultado — la mucosa lo renueva; 1 % de las células"
       },
+      "pt-BR": {
+        "question": "Comer muco é boa notícia?",
+        "plateLines": "Primeiro — ela se instala no seu muco · Depois — abre uma cavidade rasa · Resultado — a mucosa renova o muco; 1 % das células"
+      },
       "ru": {
         "question": "Она полезная или вредная?",
         "plateLines": "Сначала — она садится в вашу слизь · Затем — выедает ямку · Итог — слой обновляется; 1 % клеток"
+      },
+      "uk": {
+        "question": "Чи корисно їсти слиз?",
+        "plateLines": "Спершу — вона осідає у вашому слизі · Потім — виїдає в ньому заглибину · Наслідок — вистилка його оновлює; 1 % клітин"
+      },
+      "vi": {
+        "question": "Ăn chất nhầy có tốt không?",
+        "plateLines": "Đầu tiên — nó định cư trong chất nhầy của bạn · Sau đó — nó gặm một hõm nông · Kết quả — niêm mạc làm mới lớp ấy; 1 % số tế bào"
       }
     }
   },
@@ -110,6 +142,10 @@
       "pass": true
     },
     "locales": {
+      "ar": {
+        "question": "هل بكتيريا الأمعاء تُسمّنك؟",
+        "plateLines": "أولًا — النشا يصل القولون كاملًا · ثم — العصيات تخمّره إلى بوتيرات · والنتيجة — البطانة تتغذى؛ أبواغ في 50–60 %"
+      },
       "de": {
         "question": "Machen Darmbakterien dick?",
         "plateLines": "Zuerst — Stärke erreicht den Dickdarm ganz · Dann — Stäbchen vergären sie zu Butyrat · Ergebnis — die Schleimhaut isst; Sporen bei 50–60 %"
@@ -122,9 +158,21 @@
         "question": "¿Las bacterias del intestino engordan?",
         "plateLines": "Primero — el almidón llega entero al colon · Después — los bastones lo fermentan en butirato · Resultado — la mucosa come; esporas en 50–60 %"
       },
+      "pt-BR": {
+        "question": "Bactéria intestinal engorda a gente?",
+        "plateLines": "Primeiro — o amido chega inteiro ao cólon · Depois — os bastonetes o fermentam em butirato · Resultado — a mucosa se alimenta; esporos em 50–60 %"
+      },
       "ru": {
         "question": "От бактерий полнеют?",
         "plateLines": "Сначала — крахмал доходит целым · Затем — палочки делают из него бутират · Итог — стенка сыта; 50–60 % со спорами"
+      },
+      "uk": {
+        "question": "Від кишкових бактерій гладшають?",
+        "plateLines": "Спершу — крохмаль доходить до товстої кишки цілим · Потім — палички зброджують його на бутират · Наслідок — вистилка живиться; спори у 50–60 %"
+      },
+      "vi": {
+        "question": "Vi khuẩn ruột làm ta béo?",
+        "plateLines": "Đầu tiên — tinh bột tới đại tràng còn nguyên · Sau đó — các que lên men nó thành butyrat · Kết quả — niêm mạc được ăn; bào tử ở 50–60 %"
       }
     }
   },
@@ -153,6 +201,10 @@
       "pass": true
     },
     "locales": {
+      "ar": {
+        "question": "هل تبقى أبواغ البروبيوتيك؟",
+        "plateLines": "أولًا — الأبواغ تصل نائمة وسليمة · ثم — أحدها يستيقظ ويُحمّض السكر · والنتيجة — تمرّ بجانبها وتمضي"
+      },
       "de": {
         "question": "Bleiben probiotische Sporen im Darm?",
         "plateLines": "Zuerst — Sporen kommen schlafend und ganz an · Dann — eine wacht auf und säuert den Zucker · Ergebnis — sie treiben vorbei und gehen"
@@ -165,9 +217,17 @@
         "question": "¿Las esporas se quedan?",
         "plateLines": "Primero — las esporas llegan dormidas y enteras · Después — una despierta y agria el azúcar · Resultado — pasan de largo y se van"
       },
+      "pt-BR": {
+        "question": "O esporo probiótico fica?",
+        "plateLines": "Primeiro — os esporos chegam adormecidos e inteiros · Depois — um deles acorda e azeda o açúcar · Resultado — eles passam direto e vão embora"
+      },
       "ru": {
         "question": "Пробиотик остаётся в кишечнике?",
         "plateLines": "Сначала — споры приходят спящими · Затем — одна прорастает в палочку · Итог — проплывают мимо и уходят"
+      },
+      "vi": {
+        "question": "Bào tử lợi khuẩn ở lại?",
+        "plateLines": "Đầu tiên — bào tử tới nơi, còn ngủ và còn nguyên · Sau đó — một con thức dậy và làm chua đường · Kết quả — chúng trôi qua rồi đi"
       }
     }
   },
@@ -196,6 +256,10 @@
       "pass": true
     },
     "locales": {
+      "ar": {
+        "question": "ماذا يحدث بلا ألياف؟",
+        "plateLines": "أولًا — ألياف النبات تصلها كاملة · ثم — تفكّكها من أجلك · والنتيجة — بلا ألياف، تأكل بطانتك"
+      },
       "de": {
         "question": "Was passiert ohne Ballaststoffe?",
         "plateLines": "Zuerst — Pflanzenfaser erreicht sie ganz · Dann — sie zerlegen sie für Sie · Ergebnis — ohne Faser fressen sie Ihre Schleimhaut"
@@ -208,9 +272,17 @@
         "question": "¿Qué pasa sin fibra?",
         "plateLines": "Primero — la fibra vegetal les llega entera · Después — la desarman para ti · Resultado — sin fibra, se comen tu mucosa"
       },
+      "pt-BR": {
+        "question": "O que acontece sem fibra?",
+        "plateLines": "Primeiro — a fibra vegetal chega inteira até elas · Depois — elas a desmontam para você · Resultado — sem fibra, elas comem a sua mucosa"
+      },
       "ru": {
         "question": "Что будет без клетчатки?",
         "plateLines": "Сначала — клетчатка доходит целой · Затем — они разбирают её для вас · Итог — без клетчатки едят вашу слизь"
+      },
+      "vi": {
+        "question": "Không có chất xơ thì sao?",
+        "plateLines": "Đầu tiên — chất xơ thực vật tới chỗ chúng còn nguyên · Sau đó — chúng tháo rời nó giúp bạn · Kết quả — hết chất xơ, chúng ăn niêm mạc của bạn"
       }
     }
   },
@@ -239,6 +311,10 @@
       "pass": true
     },
     "locales": {
+      "ar": {
+        "question": "هل كل بيفيدوبكتيريا نافعة؟",
+        "plateLines": "أولًا — سكريات الحليب تمرّ بالرضيعة دون أن تُهضم · ثم — هذه العصيات تأكل ما تعجز هي عنه · والنتيجة — أكثر من 90 % من أمعائها لها"
+      },
       "de": {
         "question": "Sind alle Bifidobakterien gut?",
         "plateLines": "Zuerst — Milchzucker geht am Baby vorbei · Dann — diese Stäbchen fressen, was es nicht kann · Ergebnis — über 90 % ihres Darms gehören ihnen"
@@ -251,9 +327,17 @@
         "question": "¿Toda bifidobacteria es buena?",
         "plateLines": "Primero — los azúcares de la leche se le escapan al bebé · Después — estos bastones comen lo que él no puede · Resultado — más del 90 % de su intestino es suyo"
       },
+      "pt-BR": {
+        "question": "Toda bifidobactéria é boa?",
+        "plateLines": "Primeiro — os açúcares do leite passam direto pelo bebê · Depois — estes bastonetes comem o que ela não come · Resultado — mais de 90 % do intestino dela é deles"
+      },
       "ru": {
         "question": "Все бифидобактерии полезные?",
         "plateLines": "Сначала — сахара молока ей не по зубам · Затем — их съедают эти палочки · Итог — в юном кишечнике их больше 90 %"
+      },
+      "vi": {
+        "question": "Bifidobacterium nào cũng tốt?",
+        "plateLines": "Đầu tiên — đường sữa đi ngang em bé · Sau đó — những que này ăn thứ bé không ăn nổi · Kết quả — hơn 90 % ruột bé là của chúng"
       }
     }
   },
@@ -282,6 +366,10 @@
       "pass": true
     },
     "locales": {
+      "ar": {
+        "question": "هل الحمل يعني المرض؟",
+        "plateLines": "أولًا — الجيران يكبحونها · ثم — المضادات الحيوية تجرفهم · والنتيجة — الأبواغ تستيقظ وتتكاثر"
+      },
       "de": {
         "question": "Träger — heißt das krank?",
         "plateLines": "Zuerst — die Nachbarn halten es nieder · Dann — Antibiotika fegen sie fort · Ergebnis — die Sporen wachen auf und vermehren sich"
@@ -294,9 +382,17 @@
         "question": "¿Ser portador es estar enfermo?",
         "plateLines": "Primero — las vecinas la mantienen a raya · Luego — los antibióticos las barren · Resultado — las esporas despiertan y se multiplican"
       },
+      "pt-BR": {
+        "question": "Carregar já é estar doente?",
+        "plateLines": "Primeiro — os vizinhos a mantêm sob controle · Depois — os antibióticos varrem os vizinhos · Resultado — os esporos acordam e se multiplicam"
+      },
       "ru": {
         "question": "Носитель — значит больной?",
         "plateLines": "Сначала — соседи держат её в узде · Затем — антибиотик сметает соседей · Итог — споры просыпаются и растут"
+      },
+      "vi": {
+        "question": "Mang nó là bị bệnh?",
+        "plateLines": "Đầu tiên — hàng xóm ghìm nó xuống · Sau đó — kháng sinh quét sạch hàng xóm · Kết quả — bào tử thức dậy và nhân lên"
       }
     }
   },
@@ -325,6 +421,10 @@
       "pass": true
     },
     "locales": {
+      "ar": {
+        "question": "هل E. coli خطيرة دائمًا؟",
+        "plateLines": "أولًا — الأكسجين يرشح من الجدار · ثم — هذه العصيات تتنفسه · والنتيجة — أكثر من 90 % منا يحملونها"
+      },
       "de": {
         "question": "Ist E. coli immer gefährlich?",
         "plateLines": "Zuerst — Sauerstoff sickert aus der Wand · Dann — diese Stäbchen veratmen ihn · Ergebnis — über 90 % der Menschen tragen sie"
@@ -337,9 +437,17 @@
         "question": "¿E. coli es siempre peligrosa?",
         "plateLines": "Primero — el oxígeno se filtra desde la pared · Luego — estos bastones lo consumen · Resultado — más del 90 % de nosotros los lleva"
       },
+      "pt-BR": {
+        "question": "E. coli é sempre perigosa?",
+        "plateLines": "Primeiro — o oxigênio escapa da mucosa · Depois — estes bastonetes o consomem · Resultado — mais de 90 % de nós os carrega"
+      },
       "ru": {
         "question": "Кишечная палочка всегда опасна?",
         "plateLines": "Сначала — от стенки идёт кислород · Затем — палочки его забирают · Итог — их носят больше 90 % людей"
+      },
+      "vi": {
+        "question": "E. coli luôn nguy hiểm?",
+        "plateLines": "Đầu tiên — oxy rỉ ra từ niêm mạc · Sau đó — những que này thở hết chỗ oxy ấy · Kết quả — hơn 90 % chúng ta mang chúng"
       }
     }
   },
@@ -368,6 +476,10 @@
       "pass": true
     },
     "locales": {
+      "ar": {
+        "question": "ما الذي يغذّي بطانة أمعائك؟",
+        "plateLines": "أولًا — تختبئ حيث لا يصل الهواء · ثم — تأكل ما يسقط من الجيران · والنتيجة — البطانة تتغذى؛ وأكثر من 5 % من الجميع"
+      },
       "de": {
         "question": "Was ernährt die Darmschleimhaut?",
         "plateLines": "Zuerst — es versteckt sich, wo keine Luft hinkommt · Dann — es isst, was die Nachbarn fallen lassen · Ergebnis — die Schleimhaut ist satt; über 5 % aller"
@@ -380,9 +492,17 @@
         "question": "¿Qué alimenta tu mucosa intestinal?",
         "plateLines": "Primero — se esconde donde no llega el aire · Luego — come lo que sueltan sus vecinas · Resultado — la mucosa se alimenta; más del 5 % del total"
       },
+      "pt-BR": {
+        "question": "O que alimenta sua mucosa?",
+        "plateLines": "Primeiro — ela se esconde onde não chega ar · Depois — come o que os vizinhos largam · Resultado — a mucosa é alimentada; mais de 5 % de tudo"
+      },
       "ru": {
         "question": "Чем питается стенка кишечника?",
         "plateLines": "Сначала — прячется там, где нет воздуха · Затем — ест то, что бросили соседи · Итог — стенка сыта; больше 5 % бактерий"
+      },
+      "vi": {
+        "question": "Cái gì nuôi niêm mạc ruột?",
+        "plateLines": "Đầu tiên — nó trốn nơi không khí không tới · Sau đó — nó ăn thứ hàng xóm bỏ lại · Kết quả — niêm mạc được nuôi; hơn 5 % tổng số"
       }
     }
   },
@@ -411,6 +531,10 @@
       "pass": true
     },
     "locales": {
+      "ar": {
+        "question": "هل مكان هذه في فمي؟",
+        "plateLines": "أولًا — مستوطنون مستديرون يشكّلون طبقة · ثم — مغازل طويلة تمتد فوقهم · والنتيجة — اللويحة تتماسك ككتلة واحدة"
+      },
       "de": {
         "question": "Gehört die in meinen Mund?",
         "plateLines": "Zuerst — runde Erstbesiedler bilden eine Schicht · Dann — lange Spindeln legen sich quer darüber · Ergebnis — der Belag hält als Ganzes"
@@ -423,9 +547,17 @@
         "question": "¿Esto debe vivir en mi boca?",
         "plateLines": "Primero — las colonizadoras redondas forman una capa · Luego — largos husos se tienden encima · Resultado — la placa se sostiene como una sola"
       },
+      "pt-BR": {
+        "question": "Isso deve morar na minha boca?",
+        "plateLines": "Primeiro — os colonizadores redondos formam uma camada · Depois — os fusos longos se deitam sobre eles · Resultado — a placa se mantém como um só corpo"
+      },
       "ru": {
         "question": "Ей место во рту?",
         "plateLines": "Сначала — первый слой круглых клеток · Затем — поперёк ложатся веретёна · Итог — налёт держится как одно целое"
+      },
+      "vi": {
+        "question": "Thứ này nên ở trong miệng?",
+        "plateLines": "Đầu tiên — những kẻ định cư tròn tạo một lớp · Sau đó — các hình thoi dài nằm vắt ngang · Kết quả — mảng bám giữ được như một khối"
       }
     }
   },
@@ -454,6 +586,10 @@
       "pass": true
     },
     "locales": {
+      "ar": {
+        "question": "هل تكون بكتيريا شائعة ممرضة؟",
+        "plateLines": "أولًا — تصنع سحابة متعادلة داخل الحمض · ثم — تحفر نزولًا في المخاط · والنتيجة — تتشبّث بالبطانة مدى الحياة"
+      },
       "de": {
         "question": "So verbreitet und trotzdem gefährlich?",
         "plateLines": "Zuerst — es umgibt sich in der Säure mit einer neutralen Wolke · Dann — es bohrt sich in den Schleim · Ergebnis — es hält lebenslang an der Wand"
@@ -466,9 +602,17 @@
         "question": "¿Tan común y aun así patógena?",
         "plateLines": "Primero — se rodea de una nube neutra en el ácido · Luego — se abre paso hacia el moco · Resultado — se fija a la mucosa de por vida"
       },
+      "pt-BR": {
+        "question": "Algo tão comum é patógeno?",
+        "plateLines": "Primeiro — ela faz uma nuvem neutra no ácido · Depois — perfura até o fundo do muco · Resultado — ela se prende à mucosa para sempre"
+      },
       "ru": {
         "question": "Носит половина мира — и опасна?",
         "plateLines": "Сначала — гасит кислоту вокруг себя · Затем — ввинчивается в слизь · Итог — держится на стенке всю жизнь"
+      },
+      "vi": {
+        "question": "Phổ biến vậy mà gây bệnh?",
+        "plateLines": "Đầu tiên — nó tạo một đám mây trung tính trong axit · Sau đó — nó khoan xuống lớp chất nhầy · Kết quả — nó bám vào niêm mạc suốt đời"
       }
     }
   },
@@ -497,6 +641,10 @@
       "pass": true
     },
     "locales": {
+      "ar": {
+        "question": "هل يعيش الزبادي في أمعائك؟",
+        "plateLines": "أولاً — العصيات تأكل السكر في جيب ساكن · ثم — حمضها يحمّض المكان · النتيجة — في الأمعاء نحو 0.01 %"
+      },
       "de": {
         "question": "Lebt Joghurt in Ihrem Darm?",
         "plateLines": "Zuerst — Stäbchen essen Zucker in einer stillen Nische · Dann — ihre Säure säuert den Raum · Ergebnis — im Darm etwa 0,01 %"
@@ -509,9 +657,17 @@
         "question": "¿El yogur vive en tu intestino?",
         "plateLines": "Primero — los bastones comen azúcar en un hueco quieto · Luego — su ácido acidifica el espacio · Resultado — en el intestino, un 0,01 %"
       },
+      "pt-BR": {
+        "question": "O iogurte vive no seu intestino?",
+        "plateLines": "Primeiro — bastonetes comem açúcar num canto parado · Depois — o ácido deles azeda o espaço · Resultado — no intestino, cerca de 0,01 %"
+      },
       "ru": {
         "question": "Йогурт живёт в кишечнике?",
         "plateLines": "Сначала — палочки едят сахар · Затем — кислота закисляет карман · Итог — в кишечнике около 0,01 %"
+      },
+      "vi": {
+        "question": "Sữa chua có sống trong ruột?",
+        "plateLines": "Đầu tiên — các que ăn đường trong một ngách tĩnh · Sau đó — axit của chúng làm chua cả khoảng không · Kết quả — trong ruột khoảng 0,01 %"
       }
     }
   },
@@ -540,6 +696,10 @@
       "pass": true
     },
     "locales": {
+      "ar": {
+        "question": "هل حملها يعني المرض؟",
+        "plateLines": "أولاً — ترقد هادئة بين جيرانها · ثم — يميل التوازن وتقصّ إنزيماتها · النتيجة — الجيب ينزّ ويغذّيها"
+      },
       "de": {
         "question": "Gefunden — heißt das Krankheit?",
         "plateLines": "Zuerst — es ruht still unter Nachbarn · Dann — das Gleichgewicht kippt, Enzyme schneiden · Ergebnis — die Tasche nässt und füttert es"
@@ -552,9 +712,17 @@
         "question": "¿Tenerla significa enfermedad?",
         "plateLines": "Primero — vive tranquila entre vecinas · Luego — el equilibrio se rompe, sus enzimas cortan · Resultado — la bolsa rezuma y la alimenta"
       },
+      "pt-BR": {
+        "question": "Ter a bactéria é ter doença?",
+        "plateLines": "Primeiro — ela fica quieta entre as vizinhas · Depois — o equilíbrio vira e suas enzimas cortam · Resultado — a bolsa exsuda e a alimenta"
+      },
       "ru": {
         "question": "Нашли — значит, болезнь?",
         "plateLines": "Сначала — тихо живёт среди соседей · Затем — баланс сдвинут, ферменты режут · Итог — карман сочится и кормит её"
+      },
+      "vi": {
+        "question": "Mang nó là đã bệnh?",
+        "plateLines": "Đầu tiên — nó nằm yên giữa hàng xóm · Sau đó — cân bằng nghiêng đi, enzyme của nó cắt · Kết quả — túi rỉ dịch và nuôi nó"
       }
     }
   },
@@ -583,6 +751,10 @@
       "pass": true
     },
     "locales": {
+      "ar": {
+        "question": "هل هذه البكتيريا السيئة؟",
+        "plateLines": "أولاً — عصيات قليلة في زحام بلا هواء · ثم — البطانة المتقرحة تسرّب الأكسجين · النتيجة — تزدهر ويتضاءل الباقون"
+      },
       "de": {
         "question": "Sind das die bösen Bakterien?",
         "plateLines": "Zuerst — wenige Stäbchen in luftloser Menge · Dann — die wunde Schleimhaut lässt Sauerstoff durch · Ergebnis — sie vermehren sich, der Rest schwindet"
@@ -595,9 +767,17 @@
         "question": "¿Son las bacterias malas?",
         "plateLines": "Primero — pocos bastones en una multitud sin aire · Luego — la mucosa herida deja pasar oxígeno · Resultado — se multiplican y el resto mengua"
       },
+      "pt-BR": {
+        "question": "São essas as bactérias ruins?",
+        "plateLines": "Primeiro — poucos bastonetes numa multidão sem ar · Depois — a mucosa irritada deixa vazar oxigênio · Resultado — eles proliferam e os outros rareiam"
+      },
       "ru": {
         "question": "Это правда плохие бактерии?",
         "plateLines": "Сначала — их мало в бескислородной толпе · Затем — стенка пропускает кислород · Итог — они множатся, других меньше"
+      },
+      "vi": {
+        "question": "Đây có phải vi khuẩn xấu?",
+        "plateLines": "Đầu tiên — vài que giữa đám đông không có khí · Sau đó — niêm mạc tổn thương rò oxy · Kết quả — chúng bùng lên, số còn lại thưa đi"
       }
     }
   },
@@ -638,9 +818,17 @@
         "question": "¿La tenemos todos?",
         "plateLines": "Primero — el azúcar cae sobre la placa · Luego — hilan pegamento y hacen ácido · Resultado — el esmalte de abajo se disuelve"
       },
+      "pt-BR": {
+        "question": "Todos têm o germe da cárie?",
+        "plateLines": "Primeiro — o açúcar cai sobre a placa · Depois — elas tecem cola e fazem ácido · Resultado — o esmalte embaixo se dissolve"
+      },
       "ru": {
         "question": "Он есть у всех?",
         "plateLines": "Сначала — на налёт попадает сахар · Затем — прядут клей и дают кислоту · Итог — эмаль под ним растворяется"
+      },
+      "vi": {
+        "question": "Ai cũng mang khuẩn sâu răng?",
+        "plateLines": "Đầu tiên — đường rơi xuống mảng bám · Sau đó — chúng dệt keo và tạo axit · Kết quả — men răng bên dưới tan ra"
       }
     }
   },
@@ -681,9 +869,17 @@
         "question": "¿Es inofensivo en la lengua?",
         "plateLines": "Primero — en la lengua desde el nacimiento · Luego — suelta sus propios antibióticos · Resultado — los rivales se frenan en su borde"
       },
+      "pt-BR": {
+        "question": "O micróbio da língua é seguro?",
+        "plateLines": "Primeiro — na língua desde o nascimento · Depois — ela solta os próprios antibióticos · Resultado — as rivais empacam na borda"
+      },
       "ru": {
         "question": "Опасен ли житель языка?",
         "plateLines": "Сначала — селится на языке с рождения · Затем — выпускает свои антибиотики · Итог — чужаки глохнут у края участка"
+      },
+      "vi": {
+        "question": "Vi khuẩn trên lưỡi có hại?",
+        "plateLines": "Đầu tiên — trên lưỡi từ lúc mới sinh · Sau đó — nó nhả ra kháng sinh của chính mình · Kết quả — đối thủ khựng lại ở rìa"
       }
     }
   },
@@ -724,9 +920,17 @@
         "question": "¿Comer moco es bueno?",
         "plateLines": "Primero — pasta el moco del intestino · Luego — la pared se alimenta y fabrica más · Resultado — sin fibra la capa se adelgaza"
       },
+      "pt-BR": {
+        "question": "A comedora de muco é boa?",
+        "plateLines": "Primeiro — ela pasta na capa de muco do intestino · Depois — a mucosa se alimenta e faz mais · Resultado — sem fibra a capa fica fina"
+      },
       "ru": {
         "question": "Едок слизи — это хорошо?",
         "plateLines": "Сначала — объедает слизь кишечника · Затем — стенка кормится и даёт новую · Итог — без клетчатки слой истончается"
+      },
+      "vi": {
+        "question": "Kẻ ăn chất nhầy có tốt?",
+        "plateLines": "Đầu tiên — nó gặm lớp chất nhầy của ruột · Sau đó — niêm mạc được nuôi và tiết thêm · Kết quả — thiếu chất xơ thì lớp áo mỏng đi"
       }
     }
   },
@@ -767,9 +971,17 @@
         "question": "¿Fracasó el ensayo?",
         "plateLines": "Primero — células muertas se posan en el moco · Luego — una célula del intestino suelta GLP-1 · Resultado — 30 mil millones de células, nada se movió"
       },
+      "pt-BR": {
+        "question": "O ensaio fracassou?",
+        "plateLines": "Primeiro — células mortas se assentam no muco · Depois — uma célula do intestino solta GLP-1 · Resultado — 30 bilhões de células, nada mudou"
+      },
       "ru": {
         "question": "Значит, испытание провалилось?",
         "plateLines": "Сначала — мёртвые клетки ложатся в слизь · Затем — клетка кишки выпускает ГПП-1 · Итог — 30 млрд клеток, сдвига нет"
+      },
+      "vi": {
+        "question": "Thử nghiệm đã thất bại?",
+        "plateLines": "Đầu tiên — tế bào chết lắng vào lớp nhầy · Sau đó — một tế bào ruột nhả ra GLP-1 · Kết quả — 30 tỷ tế bào, không gì dịch chuyển"
       }
     }
   },
@@ -810,9 +1022,17 @@
         "question": "¿El azúcar causa cáncer bucal?",
         "plateLines": "Primero — el azúcar y el alcohol llegan a la placa · Luego — los microbios fabrican un carcinógeno · Resultado — el péptido mató 91,37 %, no a todas"
       },
+      "pt-BR": {
+        "question": "Açúcar causa câncer de boca?",
+        "plateLines": "Primeiro — açúcar e álcool chegam à placa · Depois — os micróbios fazem um cancerígeno · Resultado — o peptídeo matou 91,37 %, não todos"
+      },
       "ru": {
         "question": "Сахар вызывает рак во рту?",
         "plateLines": "Сначала — сахар и спирт попадают в налёт · Затем — микробы делают канцероген · Итог — пептид убил 91,37 %, не всех"
+      },
+      "vi": {
+        "question": "Đường có gây ung thư miệng?",
+        "plateLines": "Đầu tiên — đường và rượu tới mảng bám · Sau đó — vi sinh vật tạo chất gây ung thư · Kết quả — peptide diệt 91,37 %, không phải tất cả"
       }
     }
   },
@@ -853,9 +1073,17 @@
         "question": "¿El covid largo viene del intestino?",
         "plateLines": "Primero — se desprende un flagelo bacteriano · Luego — las células inmunitarias lo leen como alarma · Resultado — se inflama un tejido lejos del intestino"
       },
+      "pt-BR": {
+        "question": "A covid longa vem do intestino?",
+        "plateLines": "Primeiro — um rabo bacteriano se solta · Depois — as células de defesa leem isso como alarme · Resultado — inflama um tecido longe do intestino"
+      },
       "ru": {
         "question": "Виноват ли тут кишечник?",
         "plateLines": "Сначала — жгутик бактерии отрывается · Затем — иммунитет читает его как тревогу · Итог — воспаляются далёкие органы"
+      },
+      "vi": {
+        "question": "Covid kéo dài đến từ ruột?",
+        "plateLines": "Đầu tiên — một chiếc roi vi khuẩn gãy rời · Sau đó — tế bào miễn dịch đọc nó như báo động · Kết quả — mô ở xa ruột phát viêm"
       }
     }
   },
@@ -896,9 +1124,17 @@
         "question": "¿El intestino del bebé tiene aire?",
         "plateLines": "Primero — en el intestino nuevo todavía hay aire · Luego — una grasa sella la pared del microbio · Resultado — esa misma grasa enseña a las células inmunitarias"
       },
+      "pt-BR": {
+        "question": "O intestino do bebê tem ar?",
+        "plateLines": "Primeiro — ainda resta ar num intestino novo · Depois — uma gordura veda a parede do micróbio · Resultado — a mesma gordura ensina as células de defesa"
+      },
       "ru": {
         "question": "В кишечнике младенца есть воздух?",
         "plateLines": "Сначала — в юной кишке ещё есть воздух · Затем — жир запечатывает её оболочку · Итог — тот же жир учит иммунные клетки"
+      },
+      "vi": {
+        "question": "Ruột sơ sinh có khí không?",
+        "plateLines": "Đầu tiên — khí còn vương trong một cái ruột mới · Sau đó — một chất béo bịt kín vách vi khuẩn · Kết quả — chính chất béo ấy dạy tế bào miễn dịch"
       }
     }
   },
@@ -939,9 +1175,17 @@
         "question": "¿Por qué a ella sí?",
         "plateLines": "Primero — las mismas células muertas, dos intestinos · Luego — en el intestino lleno no queda lugar · Resultado — solo cambió el intestino pobre"
       },
+      "pt-BR": {
+        "question": "Por que só nela funcionou?",
+        "plateLines": "Primeiro — as mesmas células mortas, dois intestinos · Depois — o intestino lotado não tem mais lugar · Resultado — só o intestino ralo mudou"
+      },
       "ru": {
         "question": "Кому это вообще помогает?",
         "plateLines": "Сначала — те же клетки, две кишки · Затем — в плотной кишке нет места · Итог — сдвинулась только бедная"
+      },
+      "vi": {
+        "question": "Sao cô ấy được, bạn không?",
+        "plateLines": "Đầu tiên — cùng những tế bào chết, hai cái ruột · Sau đó — ruột đông đúc không còn chỗ · Kết quả — chỉ cái ruột thưa mới đổi"
       }
     }
   },
@@ -982,9 +1226,17 @@
         "question": "¿Qué causa el mal aliento?",
         "plateLines": "Primero — los microbios de la boca comen proteína · Luego — una enzima libera el azufre · Resultado — ese gen bajó 98 %, en placa"
       },
+      "pt-BR": {
+        "question": "O que causa o mau hálito?",
+        "plateLines": "Primeiro — os micróbios da boca comem proteína · Depois — uma enzima solta o enxofre · Resultado — esse gene caiu 98 %, em placa"
+      },
       "ru": {
         "question": "Отчего на самом деле пахнет?",
         "plateLines": "Сначала — микробы рта едят белок · Затем — фермент отрывает серу · Итог — ген притих на 98 %, в пробирке"
+      },
+      "vi": {
+        "question": "Hôi miệng thật ra do đâu?",
+        "plateLines": "Đầu tiên — vi khuẩn miệng ăn protein · Sau đó — một enzyme cắt lưu huỳnh ra · Kết quả — gen đó giảm 98 %, trong đĩa"
       }
     }
   },
@@ -1025,9 +1277,17 @@
         "question": "¿El dolor sí es físico?",
         "plateLines": "Primero — el líquido de las heces toca la pared del intestino · Luego — una enzima corta un receptor nervioso · Resultado — la red nerviosa dispara mucho más"
       },
+      "pt-BR": {
+        "question": "A dor é mesmo física?",
+        "plateLines": "Primeiro — o líquido das fezes toca a parede do intestino · Depois — uma enzima corta um receptor nervoso · Resultado — a rede nervosa dispara bem mais forte"
+      },
       "ru": {
         "question": "Эта боль правда телесная?",
         "plateLines": "Сначала — жидкость стула касается стенки · Затем — фермент срезает рецептор нерва · Итог — нервная сеть возбуждается сильнее"
+      },
+      "vi": {
+        "question": "Cơn đau này có thật không?",
+        "plateLines": "Đầu tiên — dịch phân chạm thành ruột · Sau đó — enzyme cắt một thụ thể thần kinh · Kết quả — mạng thần kinh phóng điện mạnh hơn hẳn"
       }
     }
   },
@@ -1068,9 +1328,17 @@
         "question": "¿Quién lleva la vitamina?",
         "plateLines": "Primero — las bacterias despiertan la mucosa · Luego — las proteínas transportadoras recogen el retinol · Resultado — menos del 2 % llega a las células inmunitarias"
       },
+      "pt-BR": {
+        "question": "Quem leva a vitamina até lá?",
+        "plateLines": "Primeiro — as bactérias acordam a mucosa · Depois — proteínas transportadoras pegam o retinol · Resultado — menos de 2 % chega às células de defesa"
+      },
       "ru": {
         "question": "Кто доносит витамин?",
         "plateLines": "Сначала — бактерии будят стенку кишки · Затем — белки-носильщики берут витамин · Итог — до иммунных клеток меньше 2 %"
+      },
+      "vi": {
+        "question": "Ai mang vitamin tới đó?",
+        "plateLines": "Đầu tiên — vi khuẩn ruột đánh thức niêm mạc · Sau đó — protein vận chuyển nhận retinol · Kết quả — dưới 2 % tới được tế bào miễn dịch"
       }
     }
   },
@@ -1111,9 +1379,17 @@
         "question": "¿Se recupera mi flora intestinal?",
         "plateLines": "Primero — los antibióticos lo arrasan todo · Luego — se vuelve a llenar en seis semanas · Resultado — siguen faltando 9 especies"
       },
+      "pt-BR": {
+        "question": "Dá para recuperar meu intestino?",
+        "plateLines": "Primeiro — os antibióticos arrasam tudo · Depois — enche de novo em seis semanas · Resultado — 9 espécies ainda faltam"
+      },
       "ru": {
         "question": "Кишечник восстановится после антибиотиков?",
         "plateLines": "Сначала — антибиотики выметают всё · Затем — за полтора месяца возвращается · Итог — 9 видов так и нет"
+      },
+      "vi": {
+        "question": "Ruột tôi dựng lại được không?",
+        "plateLines": "Đầu tiên — kháng sinh quét sạch · Sau đó — đầy lại trong sáu tuần · Kết quả — 9 loài vẫn còn thiếu"
       }
     }
   },
@@ -1154,9 +1430,17 @@
         "question": "¿Con comida o en ayunas?",
         "plateLines": "Primero — todas entran juntas en el ácido · Luego — pasan las esporas, caen las delicadas · Resultado — llega el 18,5 %, casi ninguna se queda"
       },
+      "pt-BR": {
+        "question": "Com comida ou em jejum?",
+        "plateLines": "Primeiro — a multidão encontra o ácido · Depois — os esporos passam, as delicadas caem · Resultado — chegam 18,5 %, poucas ficam"
+      },
       "ru": {
         "question": "С едой или натощак?",
         "plateLines": "Сначала — все вместе входят в кислоту · Затем — споры проходят, нежные гибнут · Итог — доходит 18,5 %, но не селится"
+      },
+      "vi": {
+        "question": "Uống lúc no hay lúc đói?",
+        "plateLines": "Đầu tiên — cả đám gặp axit · Sau đó — bào tử đi qua, tế bào mỏng manh gục · Kết quả — 18,5 % tới nơi, ít con trụ lại"
       }
     }
   },
@@ -1197,9 +1481,17 @@
         "question": "¿Es malo tener la lengua blanca?",
         "plateLines": "Primero — las células llenan los surcos · Luego — las bacterias sin aire dan el olor · Resultado — capa fina en el 90,7 %"
       },
+      "pt-BR": {
+        "question": "Língua branca é ruim?",
+        "plateLines": "Primeiro — as células soltas enchem os sulcos · Depois — bactérias sem ar fazem o cheiro · Resultado — camada fina em 90,7 %"
+      },
       "ru": {
         "question": "Налёт на языке — это плохо?",
         "plateLines": "Сначала — в бороздках копятся клетки · Затем — бактерии без воздуха дают запах · Итог — тонкий налёт у 90,7 %"
+      },
+      "vi": {
+        "question": "Lưỡi có rêu là xấu không?",
+        "plateLines": "Đầu tiên — tế bào bong lấp đầy các rãnh · Sau đó — vi khuẩn thiếu khí tạo ra mùi · Kết quả — rêu mỏng ở 90,7 %"
       }
     }
   },
@@ -1240,9 +1532,17 @@
         "question": "¿Por qué a mí no funcionó?",
         "plateLines": "Primero — seis cepas se ven iguales · Luego — el mismo intestino, las mismas condiciones · Resultado — solo 4 de 6 hicieron algo"
       },
+      "pt-BR": {
+        "question": "Por que não funcionou comigo?",
+        "plateLines": "Primeiro — seis cepas parecem iguais · Depois — mesmo intestino, mesmas condições · Resultado — só 4 de 6 fizeram algo"
+      },
       "ru": {
         "question": "Пробиотик другу помог. А мне?",
         "plateLines": "Сначала — 6 штаммов на вид одинаковы · Затем — кишечник один и тот же · Итог — помогли 4 из 6"
+      },
+      "vi": {
+        "question": "Cô ấy hợp, sao tôi không?",
+        "plateLines": "Đầu tiên — sáu chủng trông giống hệt nhau · Sau đó — cùng một ruột, cùng điều kiện · Kết quả — chỉ 4 trong 6 làm được gì đó"
       }
     }
   },
@@ -1283,9 +1583,17 @@
         "question": "¿Me enjuago todos los días?",
         "plateLines": "Primero — el enjuague no elige · Luego — la comunidad de la boca se adelgaza · Resultado — el nitrito cae un 90 %"
       },
+      "pt-BR": {
+        "question": "Devo enxaguar todo dia?",
+        "plateLines": "Primeiro — o enxaguante não escolhe · Depois — a comunidade da boca rareia · Resultado — o nitrito cai 90 %"
+      },
       "ru": {
         "question": "Полоскать рот каждый день?",
         "plateLines": "Сначала — антисептик не выбирает · Затем — своих бактерий меньше · Итог — нитрита на 90 % меньше"
+      },
+      "vi": {
+        "question": "Ngày nào cũng súc miệng ư?",
+        "plateLines": "Đầu tiên — nước súc không chọn lựa · Sau đó — cộng đồng trong miệng thưa đi · Kết quả — nitrit giảm 90 %"
       }
     }
   },
@@ -1326,9 +1634,21 @@
         "question": "¿Será mi estómago?",
         "plateLines": "Primero — la capa cierra el paso del aire · Luego — las bacterias arrancan el azufre · Resultado — boca 87 %, intestino 1 %"
       },
+      "pt-BR": {
+        "question": "Será que é meu estômago?",
+        "plateLines": "Primeiro — a camada fecha a passagem do ar · Depois — as bactérias arrancam o enxofre · Resultado — boca 87 %, intestino 1 %"
+      },
       "ru": {
         "question": "Это всё-таки желудок?",
         "plateLines": "Сначала — налёт закрывает доступ воздуха · Затем — бактерии отщепляют серу · Итог — рот 87 %, кишечник 1 %"
+      },
+      "uk": {
+        "question": "Це йде з мого шлунка?",
+        "plateLines": "Спочатку — наліт перекриває повітря · Потім — бактерії зривають з нього сірку · Підсумок — рот 87 %, кишківник 1 %"
+      },
+      "vi": {
+        "question": "Mùi này bốc từ dạ dày?",
+        "plateLines": "Đầu tiên — lớp rêu chặn hết không khí · Sau đó — vi khuẩn tách lưu huỳnh ra · Kết quả — miệng 87 %, ruột 1 %"
       }
     }
   },
@@ -1369,9 +1689,21 @@
         "question": "¿Un número más grande es mejor?",
         "plateLines": "Primero — duplicar la dosis ayudó una vez · Luego — la misma cepa, mucha más cantidad · Resultado — 100 × más no cambió nada"
       },
+      "pt-BR": {
+        "question": "Número maior é melhor?",
+        "plateLines": "Primeiro — dobrar a dose ajudou uma vez · Depois — a mesma cepa, muito mais dela · Resultado — 100× a mais não mudou nada"
+      },
       "ru": {
         "question": "Большое число — это лучше?",
         "plateLines": "Сначала — двойная доза раз помогла · Затем — тот же штамм, доза больше · Итог — в 100 раз больше — то же самое"
+      },
+      "uk": {
+        "question": "Більше число — це краще?",
+        "plateLines": "Спочатку — подвійна доза раз допомогла · Потім — той самий штам, значно більше · Підсумок — у 100 разів більше не змінило нічого"
+      },
+      "vi": {
+        "question": "Số lớn hơn là tốt hơn?",
+        "plateLines": "Đầu tiên — liều gấp đôi từng giúp một lần · Sau đó — cùng chủng đó, nhiều hơn hẳn · Kết quả — gấp 100 lần chẳng đổi gì"
       }
     }
   },
@@ -1412,9 +1744,17 @@
         "question": "¿Tres días bastan?",
         "plateLines": "Primero — la comida mueve la mezcla en un día · Luego — dos días después vuelve atrás · Resultado — el 60 % de las cepas se queda años"
       },
+      "pt-BR": {
+        "question": "Três dias resetam mesmo?",
+        "plateLines": "Primeiro — a comida muda a mistura em um dia · Depois — dois dias depois ela volta · Resultado — 60 % das cepas ficam anos"
+      },
       "ru": {
         "question": "Три дня что-то меняют?",
         "plateLines": "Сначала — еда сдвигает состав за сутки · Затем — через двое суток всё назад · Итог — 60 % штаммов живут годами"
+      },
+      "vi": {
+        "question": "Ba ngày đủ để làm lại?",
+        "plateLines": "Đầu tiên — thức ăn đổi hỗn hợp trong một ngày · Sau đó — hai ngày sau nó trượt về cũ · Kết quả — 60 % số chủng ở lại nhiều năm"
       }
     }
   },
@@ -1455,9 +1795,17 @@
         "question": "¿Qué como ahora?",
         "plateLines": "Primero — el tratamiento deja el campo vacío · Luego — la fibra y lo fermentado lo vuelven a llenar · Resultado — faltan 9 especies el día 180"
       },
+      "pt-BR": {
+        "question": "O que comer agora?",
+        "plateLines": "Primeiro — o tratamento deixa o campo vazio · Depois — fibra e fermentados o preenchem · Resultado — 9 espécies faltam no dia 180"
+      },
       "ru": {
         "question": "Что теперь есть?",
         "plateLines": "Сначала — после курса поле пустое · Затем — клетчатка и квашеное кормят · Итог — 9 видов нет и на 180-й день"
+      },
+      "vi": {
+        "question": "Giờ tôi nên ăn gì?",
+        "plateLines": "Đầu tiên — đợt kháng sinh để lại chỗ trống · Sau đó — chất xơ và món lên men lấp đầy · Kết quả — 9 loài vẫn vắng ở ngày 180"
       }
     }
   },
@@ -1498,9 +1846,17 @@
         "question": "¿Lo fermentado sirve de algo?",
         "plateLines": "Primero — las células vivas llegan con la comida · Luego — pasan de largo y pocas se quedan · Resultado — bajaron 19 proteínas de inflamación"
       },
+      "pt-BR": {
+        "question": "Fermentados funcionam mesmo?",
+        "plateLines": "Primeiro — células vivas vêm com o alimento · Depois — elas passam, poucas ficam · Resultado — 19 proteínas inflamatórias caíram"
+      },
       "ru": {
         "question": "Кефир вообще что-то даёт?",
         "plateLines": "Сначала — живые клетки идут с едой · Затем — проходят мимо, редко остаются · Итог — 19 белков воспаления упали"
+      },
+      "vi": {
+        "question": "Đồ lên men có tác dụng?",
+        "plateLines": "Đầu tiên — tế bào sống theo thức ăn vào · Sau đó — chúng đi qua, ít kẻ ở lại · Kết quả — 19 protein viêm giảm xuống"
       }
     }
   },
@@ -1541,9 +1897,17 @@
         "question": "¿Cuánta fibra al día?",
         "plateLines": "Primero — llegan tres clases de fibra · Luego — solo una de ellas se come · Resultado — 25–29 g al día y luego se aplana"
       },
+      "pt-BR": {
+        "question": "Quanta fibra é suficiente?",
+        "plateLines": "Primeiro — chegam três tipos de fibra · Depois — só um deles é comido · Resultado — 25–29 g por dia, depois estabiliza"
+      },
       "ru": {
         "question": "Сколько клетчатки в день?",
         "plateLines": "Сначала — приходят три вида клетчатки · Затем — едят только один из них · Итог — 25–29 г в день, дальше плато"
+      },
+      "vi": {
+        "question": "Bao nhiêu chất xơ là đủ?",
+        "plateLines": "Đầu tiên — ba loại chất xơ cùng tới · Sau đó — chỉ một loại được ăn · Kết quả — 25–29 g mỗi ngày, rồi chững lại"
       }
     }
   },
@@ -1584,9 +1948,17 @@
         "question": "¿Dormir mal daña el intestino?",
         "plateLines": "Primero — ritmo parejo, muchas clases · Luego — el ritmo se vuelve irregular · Resultado — igual de densa, menos clases"
       },
+      "pt-BR": {
+        "question": "Dormir mal afeta o intestino?",
+        "plateLines": "Primeiro — ritmo constante, muitos tipos · Depois — o ritmo se desfaz · Resultado — igualmente cheio, menos tipos"
+      },
       "ru": {
         "question": "Плохой сон вредит кишечнику?",
         "plateLines": "Сначала — ровный ритм, много видов · Затем — ритм становится рваным · Итог — так же густо, видов меньше"
+      },
+      "vi": {
+        "question": "Ngủ kém có hại ruột?",
+        "plateLines": "Đầu tiên — nhịp đều đặn, nhiều loại · Sau đó — nhịp trở nên rối · Kết quả — vẫn dày như thế, ít loại hơn"
       }
     }
   },
@@ -1627,9 +1999,17 @@
         "question": "¿Las bacterias afectan al ánimo?",
         "plateLines": "Primero — los microbios sueltan moléculas · Luego — una célula del intestino lo percibe y avisa · Resultado — el nervio lo lleva, ellas se quedan"
       },
+      "pt-BR": {
+        "question": "As bactérias mudam o humor?",
+        "plateLines": "Primeiro — os micróbios soltam moléculas · Depois — uma célula do intestino sinaliza · Resultado — o nervo leva o recado"
+      },
       "ru": {
         "question": "Бактерии влияют на настроение?",
         "plateLines": "Сначала — микробы выделяют молекулы · Затем — клетка стенки их улавливает · Итог — нерв несёт сигнал, они на месте"
+      },
+      "vi": {
+        "question": "Vi khuẩn đổi tâm trạng?",
+        "plateLines": "Đầu tiên — vi khuẩn ruột nhả ra phân tử · Sau đó — tế bào ruột nhận ra và báo tin · Kết quả — dây thần kinh mang đi, chúng ở lại"
       }
     }
   },
@@ -1670,9 +2050,17 @@
         "question": "¿Las enzimas matan bacterias?",
         "plateLines": "Primero — una red de azúcar sostiene la placa · Luego — la enzima corta un eslabón · Resultado — la red cae, las células siguen vivas"
       },
+      "pt-BR": {
+        "question": "As enzimas matam bactérias?",
+        "plateLines": "Primeiro — uma teia de açúcar sustenta a placa · Depois — a enzima corta um elo · Resultado — a teia cai, as células vivem"
+      },
       "ru": {
         "question": "Ферменты убивают бактерии?",
         "plateLines": "Сначала — сахарная сетка держит налёт · Затем — фермент режет одно звено · Итог — каркас рассыпается, клетки целы"
+      },
+      "vi": {
+        "question": "Enzyme có diệt vi khuẩn?",
+        "plateLines": "Đầu tiên — mạng đường giữ chặt mảng bám · Sau đó — enzyme cắt một mắt xích · Kết quả — mạng rã ra, tế bào vẫn sống"
       }
     }
   },
@@ -1713,9 +2101,17 @@
         "question": "¿Mi microbiota está sana?",
         "plateLines": "Primero — llega la fibra que no digerimos · Luego — la multitud la fermenta · Resultado — los ácidos alimentan la pared"
       },
+      "pt-BR": {
+        "question": "Minha microbiota está saudável?",
+        "plateLines": "Primeiro — chega a fibra que não digerimos · Depois — a multidão a fermenta · Resultado — os ácidos alimentam a parede"
+      },
       "ru": {
         "question": "Мой микробиом здоровый?",
         "plateLines": "Сначала — приходит клетчатка · Затем — её сбраживают бактерии · Итог — кислоты кормят стенку кишки"
+      },
+      "vi": {
+        "question": "Ruột tôi có khỏe không?",
+        "plateLines": "Đầu tiên — chất xơ ta không tiêu được tới nơi · Sau đó — cả đám lên men nó · Kết quả — axit nuôi thành ruột"
       }
     }
   },
@@ -1756,9 +2152,17 @@
         "question": "¿Cómo se aprende la tolerancia?",
         "plateLines": "Primero — las bacterias avisan a través de la pared · Luego — la célula de guardia sigue tranquila · Resultado — la tolerancia aguanta, sin alarma"
       },
+      "pt-BR": {
+        "question": "Como se aprende a tolerância?",
+        "plateLines": "Primeiro — as bactérias sinalizam pela parede · Depois — a célula de patrulha fica quieta · Resultado — a tolerância se mantém"
+      },
       "ru": {
         "question": "Откуда берётся терпимость?",
         "plateLines": "Сначала — бактерии сигналят через стенку · Затем — клетка-страж остаётся спокойной · Итог — мир держится, тревоги нет"
+      },
+      "vi": {
+        "question": "Dung nạp học từ đâu?",
+        "plateLines": "Đầu tiên — vi khuẩn phát tín hiệu qua thành ruột · Sau đó — tế bào tuần tra vẫn im lặng · Kết quả — dung nạp được giữ, không báo động"
       }
     }
   },
@@ -1799,9 +2203,17 @@
         "question": "¿Qué te hace sentir lleno?",
         "plateLines": "Primero — las bacterias fermentan la fibra · Luego — los ácidos llegan a una célula del intestino · Resultado — suelta GLP-1 a la sangre"
       },
+      "pt-BR": {
+        "question": "O que dá saciedade?",
+        "plateLines": "Primeiro — as bactérias fermentam a fibra · Depois — os ácidos chegam a uma célula · Resultado — ela solta GLP-1 no sangue"
+      },
       "ru": {
         "question": "Отчего приходит сытость?",
         "plateLines": "Сначала — бактерии сбраживают клетчатку · Затем — кислоты доходят до клетки кишки · Итог — она выпускает ГПП-1 в кровь"
+      },
+      "vi": {
+        "question": "Điều gì làm bạn no?",
+        "plateLines": "Đầu tiên — vi khuẩn lên men chất xơ · Sau đó — axit béo tới một tế bào ruột · Kết quả — nó nhả GLP-1 vào máu"
       }
     }
   },
@@ -1842,9 +2254,17 @@
         "question": "¿De dónde viene la placa?",
         "plateLines": "Primero — las bacterias se pegan al esmalte · Luego — el azúcar alimenta a las que hacen ácido · Resultado — el esmalte se ablanda debajo"
       },
+      "pt-BR": {
+        "question": "De onde vem a placa?",
+        "plateLines": "Primeiro — as bactérias grudam no esmalte · Depois — o açúcar alimenta quem faz ácido · Resultado — o esmalte amolece por baixo"
+      },
       "ru": {
         "question": "Кто строит налёт на зубах?",
         "plateLines": "Сначала — бактерии липнут к эмали · Затем — сахар кормит кислотообразующих · Итог — эмаль под налётом размягчается"
+      },
+      "vi": {
+        "question": "Mảng bám từ đâu ra?",
+        "plateLines": "Đầu tiên — vi khuẩn bám vào men răng · Sau đó — đường nuôi đám sinh axit · Kết quả — men răng bên dưới mềm đi"
       }
     }
   },
@@ -1885,9 +2305,17 @@
         "question": "¿La piel refleja el intestino?",
         "plateLines": "Primero — las bacterias del intestino sueltan moléculas · Luego — la sangre las lleva, a ellas no · Resultado — responden los microbios de la piel"
       },
+      "pt-BR": {
+        "question": "O intestino aparece na pele?",
+        "plateLines": "Primeiro — as bactérias do intestino soltam moléculas · Depois — o sangue as leva, não as bactérias · Resultado — os micróbios da pele respondem"
+      },
       "ru": {
         "question": "Кожа зависит от кишечника?",
         "plateLines": "Сначала — бактерии кишки дают молекулы · Затем — кровь несёт их, а не бактерий · Итог — кожные микробы отвечают"
+      },
+      "vi": {
+        "question": "Ruột có hiện lên da?",
+        "plateLines": "Đầu tiên — vi khuẩn ruột nhả ra phân tử · Sau đó — máu mang phân tử đi, không mang vi khuẩn · Kết quả — vi sinh vật của da đáp lời"
       }
     }
   }

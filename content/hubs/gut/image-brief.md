@@ -82,3 +82,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Mi microbiota está sana? — una mujer sube los escalones de su casa al atardecer con una bolsa de verduras"
 - es card question: "¿Mi microbiota está sana?"
 - es plate lines: "Primero — llega la fibra que no digerimos · Luego — la multitud la fermenta · Resultado — los ácidos alimentan la pared"
+
+- pt-BR preview alt: "Ilustração: uma multidão mista de bactérias do intestino, em bastão e redondas, se alimenta de um pedaço de fibra vegetal com a borda desfiada dourada"
+- pt-BR hero alt: "Ilustração: a fibra vegetal chega ao cólon, as bactérias a fermentam e moléculas coral de ácidos graxos de cadeia curta passam para as células da mucosa do intestino"
+- pt-BR card alt: "Minha microbiota está saudável? — uma mulher sobe os degraus de casa ao entardecer com uma sacola de verduras"
+- pt-BR card question: "Minha microbiota está saudável?"
+- pt-BR plate lines: "Primeiro — chega a fibra que não digerimos · Depois — a multidão a fermenta · Resultado — os ácidos alimentam a parede"
+
+- vi preview alt: "Minh họa: một đám vi khuẩn đường ruột hình que và hình tròn lẫn lộn đang ăn trên mẩu chất xơ thực vật có rìa tưa vàng"
+- vi hero alt: "Minh họa: chất xơ thực vật tới ruột già, vi khuẩn lên men nó, và những phân tử axit béo chuỗi ngắn màu san hô đi vào tế bào niêm mạc ruột"
+- vi card alt: "Ruột tôi có khỏe không? — một phụ nữ bước lên bậc thềm nhà lúc chiều tối, tay xách túi rau"
+- vi card question: "Ruột tôi có khỏe không?"
+- vi plate lines: "Đầu tiên — chất xơ ta không tiêu được tới nơi · Sau đó — cả đám lên men nó · Kết quả — axit nuôi thành ruột"

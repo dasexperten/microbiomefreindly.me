@@ -82,3 +82,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Cómo se aprende la tolerancia? — una mujer se detiene ante la reja de un parque infantil vacío bajo el sol de la tarde"
 - es card question: "¿Cómo se aprende la tolerancia?"
 - es plate lines: "Primero — las bacterias avisan a través de la pared · Luego — la célula de guardia sigue tranquila · Resultado — la tolerancia aguanta, sin alarma"
+
+- pt-BR preview alt: "Ilustração: um macrófago sob a mucosa do intestino enrola um braço coral em volta de uma bactéria em bastão numa mancha de luz quente"
+- pt-BR hero alt: "Ilustração: bactérias acima da mucosa do intestino, com a espessura de uma célula, soltam moléculas pequenas; abaixo, um macrófago as recolhe e fica calmo ao lado de células T reguladoras douradas"
+- pt-BR card alt: "Como se aprende a tolerância? — uma mulher para no portão de um parquinho vazio sob o sol baixo da tarde"
+- pt-BR card question: "Como se aprende a tolerância?"
+- pt-BR plate lines: "Primeiro — as bactérias sinalizam pela parede · Depois — a célula de patrulha fica quieta · Resultado — a tolerância se mantém"
+
+- vi preview alt: "Minh họa: một đại thực bào dưới niêm mạc ruột cuộn cánh tay màu san hô quanh một vi khuẩn hình que trong vệt sáng ấm"
+- vi hero alt: "Minh họa: vi khuẩn phía trên lớp niêm mạc ruột dày một tế bào nhả ra các phân tử nhỏ; bên dưới, một đại thực bào thu nhận chúng và vẫn điềm tĩnh bên các tế bào T điều hòa màu vàng"
+- vi card alt: "Dung nạp học từ đâu? — một phụ nữ dừng lại ở cổng sân chơi vắng dưới nắng xế chiều thấp"
+- vi card question: "Dung nạp học từ đâu?"
+- vi plate lines: "Đầu tiên — vi khuẩn phát tín hiệu qua thành ruột · Sau đó — tế bào tuần tra vẫn im lặng · Kết quả — dung nạp được giữ, không báo động"

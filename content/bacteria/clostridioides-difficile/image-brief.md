@@ -80,3 +80,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Ser portador es estar enfermo? — una mujer de más de setenta descansa en un rellano con la bolsa del mandado"
 - es card question: "¿Ser portador es estar enfermo?"
 - es plate lines: "Primero — las vecinas la mantienen a raya · Luego — los antibióticos las barren · Resultado — las esporas despiertan y se multiplican"
+
+- pt-BR preview alt: "Ilustração: um bastonete fino com a ponta inchada por um esporo e esporos selados com revestimento verde-limão, cercado por uma multidão de micróbios do intestino"
+- pt-BR hero alt: "Ilustração: esporos dormentes ficam entre os moradores do intestino sob uma névoa dourada; depois que os moradores são varridos, os esporos se abrem em bastonetes que se multiplicam e afrouxam as costuras da mucosa"
+- pt-BR card alt: "Carregar já é estar doente? — uma mulher de uns setenta anos descansa no patamar da escada com a sacola de compras"
+- pt-BR card question: "Carregar já é estar doente?"
+- pt-BR plate lines: "Primeiro — os vizinhos a mantêm sob controle · Depois — os antibióticos varrem os vizinhos · Resultado — os esporos acordam e se multiplicam"
+
+- vi preview alt: "Minh họa: một que mảnh với một đầu phình chứa bào tử và những bào tử niêm kín phủ màu xanh chanh, bị vây kín bởi một đám vi khuẩn đường ruột"
+- vi hero alt: "Minh họa: những bào tử đang ngủ nằm giữa các cư dân đường ruột dưới một lớp sương vàng kim; khi các cư dân bị quét đi, bào tử mở ra thành những que nhân lên và làm bung các mối nối của niêm mạc"
+- vi card alt: "Mang nó là bị bệnh? — một phụ nữ ngoài bảy mươi ngồi nghỉ ở chiếu nghỉ cầu thang cùng túi đồ đi chợ"
+- vi card question: "Mang nó là bị bệnh?"
+- vi plate lines: "Đầu tiên — hàng xóm ghìm nó xuống · Sau đó — kháng sinh quét sạch hàng xóm · Kết quả — bào tử thức dậy và nhân lên"
+
+- ar preview alt: "رسم توضيحي: عصية نحيلة بطرف منتفخ فيه بوغ، وأبواغ مغلقة بغلاف ليموني، محشورة وسط حشد من ميكروبات الأمعاء"
+- ar hero alt: "رسم توضيحي: أبواغ ساكنة بين سكان الأمعاء تحت ضباب ذهبي؛ وحين يُجرف الجيران تنفتح الأبواغ إلى عصيات تتكاثر وتُرخي دروز الغشاء المبطِّن"
+- ar card alt: "هل الحمل يعني المرض؟ — امرأة في السبعينيات تستريح على بسطة درج وبيدها كيس تسوّقها"
+- ar card question: "هل الحمل يعني المرض؟"
+- ar plate lines: "أولًا — الجيران يكبحونها · ثم — المضادات الحيوية تجرفهم · والنتيجة — الأبواغ تستيقظ وتتكاثر"

@@ -84,3 +84,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿El yogur vive en tu intestino? — un hombre come yogur natural en la barra de su cocina al amanecer"
 - es card question: "¿El yogur vive en tu intestino?"
 - es plate lines: "Primero — los bastones comen azúcar en un hueco quieto · Luego — su ácido acidifica el espacio · Resultado — en el intestino, un 0,01 %"
+
+- pt-BR preview alt: "Ilustração: cadeias curtas de células de Lactobacillus em forma de bastonete repousam numa película de leite azedando, com uma leve névoa dourada em volta de uma cadeia"
+- pt-BR hero alt: "Ilustração: à esquerda os bastonetes de Lactobacillus se amontoam num canto ácido de tom dourado e, à direita, sobre a mucosa intestinal, uma cadeia pequena fica entre incontáveis outras bactérias"
+- pt-BR card alt: "O iogurte vive no seu intestino? — um homem come iogurte natural na bancada da cozinha à primeira luz"
+- pt-BR card question: "O iogurte vive no seu intestino?"
+- pt-BR plate lines: "Primeiro — bastonetes comem açúcar num canto parado · Depois — o ácido deles azeda o espaço · Resultado — no intestino, cerca de 0,01 %"
+
+- vi preview alt: "Minh họa: những chuỗi ngắn tế bào Lactobacillus hình que nằm trong màng sữa đang chua, quanh một chuỗi là quầng vàng mờ"
+- vi hero alt: "Minh họa: bên trái, các que Lactobacillus chen chúc trong một ngách chua ánh vàng; bên phải, trên niêm mạc ruột, một chuỗi nhỏ lọt giữa vô số vi khuẩn khác"
+- vi card alt: "Sữa chua có sống trong ruột? — một người đàn ông ăn sữa chua không đường bên bàn bếp trong ánh sáng đầu ngày"
+- vi card question: "Sữa chua có sống trong ruột?"
+- vi plate lines: "Đầu tiên — các que ăn đường trong một ngách tĩnh · Sau đó — axit của chúng làm chua cả khoảng không · Kết quả — trong ruột khoảng 0,01 %"
+
+- ar preview alt: "رسم توضيحي: سلاسل قصيرة من خلايا Lactobacillus العصوية ترقد في غشاء حليب يحمض، وحول إحدى السلاسل ضباب ذهبي خفيف"
+- ar hero alt: "رسم توضيحي: على اليسار تتزاحم عصيات Lactobacillus في جيب حامض بلمسة ذهبية، وعلى اليمين فوق بطانة الأمعاء تجلس سلسلة صغيرة واحدة بين بكتيريا أخرى لا تُحصى"
+- ar card alt: "هل يعيش الزبادي في أمعائك؟ — رجل يأكل زبادي سادة عند طاولة مطبخه في أول الضوء"
+- ar card question: "هل يعيش الزبادي في أمعائك؟"
+- ar plate lines: "أولاً — العصيات تأكل السكر في جيب ساكن · ثم — حمضها يحمّض المكان · النتيجة — في الأمعاء نحو 0.01 %"

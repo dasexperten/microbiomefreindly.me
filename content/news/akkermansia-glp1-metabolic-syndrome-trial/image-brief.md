@@ -107,3 +107,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Fracasó el ensayo? — un hombre de cuarenta y tantos espera solo en una parada de autobús con luz fría"
 - es card question: "¿Fracasó el ensayo?"
 - es plate lines: "Primero — células muertas se posan en el moco · Luego — una célula del intestino suelta GLP-1 · Resultado — 30 mil millones de células, nada se movió"
+
+- pt-BR preview alt: "Ilustração: células ovais inteiras e paradas de Akkermansia deitadas em covas pastadas do muco intestinal, com um brilho coral da mucosa embaixo"
+- pt-BR hero alt: "Ilustração: um banco denso de células ovais de Akkermansia mortas pelo calor no muco intestinal; uma célula hormonal da mucosa solta um jato dourado enquanto o tecido em volta segue igual"
+- pt-BR card alt: "O ensaio fracassou? — um homem de quarenta e poucos anos espera sozinho num ponto de ônibus na luz fria do amanhecer"
+- pt-BR card question: "O ensaio fracassou?"
+- pt-BR plate lines: "Primeiro — células mortas se assentam no muco · Depois — uma célula do intestino solta GLP-1 · Resultado — 30 bilhões de células, nada mudou"
+
+- vi preview alt: "Minh họa: những tế bào Akkermansia bầu dục còn nguyên vẹn, bất động, nằm trong các hõm đã bị gặm của lớp chất nhầy ruột, bên dưới ánh lên sắc san hô của niêm mạc"
+- vi hero alt: "Minh họa: một đám dày tế bào Akkermansia bầu dục đã đun chết trong lớp chất nhầy ruột; một tế bào nội tiết của niêm mạc bật ra một chớp vàng trong khi mô phía xa vẫn không đổi"
+- vi card alt: "Thử nghiệm đã thất bại? — một người đàn ông ngoài bốn mươi đợi một mình ở trạm xe buýt trong ánh sáng lạnh sớm mai"
+- vi card question: "Thử nghiệm đã thất bại?"
+- vi plate lines: "Đầu tiên — tế bào chết lắng vào lớp nhầy · Sau đó — một tế bào ruột nhả ra GLP-1 · Kết quả — 30 tỷ tế bào, không gì dịch chuyển"

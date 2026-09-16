@@ -101,3 +101,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Qué como ahora? — una mujer en un puesto del mercado por la mañana, con una bolsa de papel con verduras en la mano"
 - es card question: "¿Qué como ahora?"
 - es plate lines: "Primero — el tratamiento deja el campo vacío · Luego — la fibra y lo fermentado lo vuelven a llenar · Resultado — faltan 9 especies el día 180"
+
+- pt-BR preview alt: "Ilustração: bacilos e bactérias intestinais bifurcadas voltam a se assentar sobre paredes rompidas de células vegetais na luz suave da manhã"
+- pt-BR hero alt: "Ilustração: fibra vegetal sobre a mucosa do intestino, quase vazia depois dos antibióticos, depois se enchendo de bactérias ao longo dos fios e, por fim, cheia de novo com nove lugares que ficam vazios"
+- pt-BR card alt: "O que comer agora? — uma mulher numa banca de feira pela manhã, com um saco de papel com verduras na mão"
+- pt-BR card question: "O que comer agora?"
+- pt-BR plate lines: "Primeiro — o tratamento deixa o campo vazio · Depois — fibra e fermentados o preenchem · Resultado — 9 espécies faltam no dia 180"
+
+- vi preview alt: "Minh họa: vi khuẩn đường ruột hình que và hình chạc quay về đóng đô dọc các vách tế bào thực vật rách trong ánh sáng sớm dịu"
+- vi hero alt: "Minh họa: chất xơ thực vật trên niêm mạc ruột, gần như trơ trụi sau kháng sinh, rồi dày dần lên bằng vi khuẩn dọc các sợi, và cuối cùng lại đông đúc nhưng còn chín chỗ bỏ trống"
+- vi card alt: "Giờ tôi nên ăn gì? — một phụ nữ ở quầy chợ giữa buổi sáng, tay cầm túi giấy đựng rau"
+- vi card question: "Giờ tôi nên ăn gì?"
+- vi plate lines: "Đầu tiên — đợt kháng sinh để lại chỗ trống · Sau đó — chất xơ và món lên men lấp đầy · Kết quả — 9 loài vẫn vắng ở ngày 180"

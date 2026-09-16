@@ -54,9 +54,13 @@ for (const file of walk(SRC)) {
   const [type0, slug] = rel.split('/'); const type = type0 === 'news' ? 'articles' : type0; const name = basename(file, extname(file));
   const stem = basename(file, extname(file));
   if (RENDERED) {
-    const m = stem.match(/^(.+?)-(card|og|plate)-([a-z0-9-]+)$/);
+    /* A locale code may carry capitals — pt-BR, zh-Hans — but a served file never does: the page
+     * gate looks for `-card-<lang.toLowerCase()>.`, and a capital in a URL is a 404 waiting to be
+     * reported as "works on my machine". Match either spelling, write only the lower one. */
+    const m = stem.match(/^(.+?)-(card|og|plate)-([A-Za-z0-9-]+)$/);
     if (!m) continue;
-    const [, , slot, lang] = m;
+    const [, , slot] = m;
+    const lang = m[3].toLowerCase();
     const img = sharp(file); const meta = await img.metadata();
     if (slot === 'card') {
       await out(img, `${type}/${slug}/${slug}-card-${lang}.webp`, { w: 720, h: 480, fmt: 'webp' });

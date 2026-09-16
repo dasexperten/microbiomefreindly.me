@@ -109,3 +109,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Toda bifidobacteria es buena? — una mujer de casi treinta con una taza en el sofá bajo la luz de una lámpara"
 - es card question: "¿Toda bifidobacteria es buena?"
 - es plate lines: "Primero — los azúcares de la leche se le escapan al bebé · Después — estos bastones comen lo que él no puede · Resultado — más del 90 % de su intestino es suyo"
+
+- pt-BR preview alt: "Ilustração: células bifurcadas de Bifidobacterium, em forma de Y, num bolsão parado de conteúdo intestinal transparente, com uma gota coral numa das forquilhas"
+- pt-BR hero alt: "Ilustração: os açúcares do leite passam intocados pela mucosa intestinal do bebê, bastonetes bifurcados de Bifidobacterium os fermentam em gotas verde-limão de acetato, e dezenove de cada vinte células à direita são deles"
+- pt-BR card alt: "Toda bifidobactéria é boa? — uma mulher de quase trinta anos sentada no sofá com uma caneca, sob a luz do abajur"
+- pt-BR card question: "Toda bifidobactéria é boa?"
+- pt-BR plate lines: "Primeiro — os açúcares do leite passam direto pelo bebê · Depois — estes bastonetes comem o que ela não come · Resultado — mais de 90 % do intestino dela é deles"
+
+- vi preview alt: "Minh họa: những tế bào Bifidobacterium chẻ đôi hình chữ Y trong một khoảng lặng của dịch ruột trong suốt, một giọt màu san hô nằm ở chạc chẻ của một tế bào"
+- vi hero alt: "Minh họa: các phân tử đường sữa đi qua niêm mạc ruột trẻ sơ sinh mà không bị đụng tới, những que Bifidobacterium chẻ đôi lên men chúng thành các giọt axetat màu xanh chanh, và mười chín trong hai mươi tế bào ở bên phải là của chúng"
+- vi card alt: "Bifidobacterium nào cũng tốt? — một phụ nữ gần ba mươi ngồi trên ghế sofa với tách trà dưới ánh đèn"
+- vi card question: "Bifidobacterium nào cũng tốt?"
+- vi plate lines: "Đầu tiên — đường sữa đi ngang em bé · Sau đó — những que này ăn thứ bé không ăn nổi · Kết quả — hơn 90 % ruột bé là của chúng"
+
+- ar preview alt: "رسم توضيحي: خلايا Bifidobacterium متشعّبة على هيئة حرف Y في جيب ساكن من محتويات معوية صافية، وقطرة مرجانية في إحدى الشوكات"
+- ar hero alt: "رسم توضيحي: سكريات الحليب تمرّ ببطانة أمعاء الرضيع دون أن تُمسّ، وعصيات Bifidobacterium المتشعّبة تُخمّرها إلى قطرات أسيتات ليمونية اللون، وتسع عشرة خلية من كل عشرين إلى اليمين هي لها"
+- ar card alt: "هل كل بيفيدوبكتيريا نافعة؟ — امرأة في أواخر العشرينيات تجلس على الأريكة وبيدها كوب في ضوء مصباح"
+- ar card question: "هل كل بيفيدوبكتيريا نافعة؟"
+- ar plate lines: "أولًا — سكريات الحليب تمرّ بالرضيعة دون أن تُهضم · ثم — هذه العصيات تأكل ما تعجز هي عنه · والنتيجة — أكثر من 90 % من أمعائها لها"

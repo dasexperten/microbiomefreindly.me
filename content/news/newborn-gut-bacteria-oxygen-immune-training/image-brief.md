@@ -152,3 +152,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿El intestino del bebé tiene aire? — una madre primeriza se recarga en el sillón junto a la ventana con la primera luz"
 - es card question: "¿El intestino del bebé tiene aire?"
 - es plate lines: "Primero — en el intestino nuevo todavía hay aire · Luego — una grasa sella la pared del microbio · Resultado — esa misma grasa enseña a las células inmunitarias"
+
+- pt-BR preview alt: "Ilustração: bastonetes curtos de Bacteroides fragilis em contraluz sobre a superfície de um intestino novo, com a borda vedada de uma membrana brilhando em verde-limão"
+- pt-BR hero alt: "Ilustração: um bastonete curto segura a borda vedada da sua membrana enquanto partículas de ar passam, e a mesma gordura da membrana é entregue a uma célula de defesa jovem que cresce ao lê-la"
+- pt-BR card alt: "O intestino do bebê tem ar? — uma mãe recente se recosta na poltrona ao lado da janela na primeira luz"
+- pt-BR card question: "O intestino do bebê tem ar?"
+- pt-BR plate lines: "Primeiro — ainda resta ar num intestino novo · Depois — uma gordura veda a parede do micróbio · Resultado — a mesma gordura ensina as células de defesa"
+
+- vi preview alt: "Minh họa: những que ngắn Bacteroides fragilis ngược sáng trên bề mặt một cái ruột còn non, một viền màng đã bịt kín ánh lên màu xanh chanh"
+- vi hero alt: "Minh họa: một que ngắn giữ viền màng đã bịt kín của mình trong lúc những hạt khí trôi qua, và chính chất béo màng ấy được trao cho một tế bào miễn dịch non đang lớn lên nhờ đọc nó"
+- vi card alt: "Ruột sơ sinh có khí không? — một người mẹ mới sinh ngả lưng vào ghế bên cửa sổ trong ánh sáng đầu ngày"
+- vi card question: "Ruột sơ sinh có khí không?"
+- vi plate lines: "Đầu tiên — khí còn vương trong một cái ruột mới · Sau đó — một chất béo bịt kín vách vi khuẩn · Kết quả — chính chất béo ấy dạy tế bào miễn dịch"

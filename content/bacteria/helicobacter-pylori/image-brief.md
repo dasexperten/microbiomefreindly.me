@@ -74,3 +74,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Tan común y aun así patógena? — una mujer se detiene en el pasillo tras comer, la mano plana bajo las costillas"
 - es card question: "¿Tan común y aun así patógena?"
 - es plate lines: "Primero — se rodea de una nube neutra en el ácido · Luego — se abre paso hacia el moco · Resultado — se fija a la mucosa de por vida"
+
+- pt-BR preview alt: "Ilustração: bactérias espiraladas com um tufo de caudas numa das pontas repousam no muco sobre a mucosa do estômago, uma delas num bolsão transparente"
+- pt-BR hero alt: "Ilustração: uma bactéria espiralada se envolve numa pequena nuvem neutra dentro do ácido do estômago, desce em saca-rolhas até o muco e se prende à mucosa ao lado de outras já instaladas"
+- pt-BR card alt: "Algo tão comum é patógeno? — uma mulher para no corredor de casa depois do almoço, a mão espalmada abaixo das costelas"
+- pt-BR card question: "Algo tão comum é patógeno?"
+- pt-BR plate lines: "Primeiro — ela faz uma nuvem neutra no ácido · Depois — perfura até o fundo do muco · Resultado — ela se prende à mucosa para sempre"
+
+- ar preview alt: "رسم توضيحي: بكتيريا حلزونية بخصلة من الأسواط في أحد طرفيها تستقر في المخاط فوق بطانة المعدة، وواحدة منها في جيب صافٍ"
+- ar hero alt: "رسم توضيحي: بكتيريا حلزونية تلفّ نفسها بسحابة متعادلة صغيرة داخل حمض المعدة، ثم تحفر كالبريمة نزولًا في المخاط وتتشبّث بالبطانة إلى جانب أخريات استقرّت قبلها"
+- ar card alt: "هل تكون بكتيريا شائعة ممرضة؟ — امرأة تتوقّف في ممرّ بيتها بعد الغداء ويدها مبسوطة تحت أضلاعها"
+- ar card question: "هل تكون بكتيريا شائعة ممرضة؟"
+- ar plate lines: "أولًا — تصنع سحابة متعادلة داخل الحمض · ثم — تحفر نزولًا في المخاط · والنتيجة — تتشبّث بالبطانة مدى الحياة"
+
+- vi preview alt: "Minh họa: những vi khuẩn hình xoắn với một chùm đuôi ở một đầu nằm trong lớp chất nhầy phủ trên niêm mạc dạ dày, một con nằm trong một khoảng trống trong suốt"
+- vi hero alt: "Minh họa: một vi khuẩn hình xoắn tự quấn quanh mình một đám mây trung tính nhỏ giữa axit dạ dày, xoáy như mũi khoan xuống lớp chất nhầy và bám vào niêm mạc bên cạnh những con đã định cư trước"
+- vi card alt: "Phổ biến vậy mà gây bệnh? — một phụ nữ dừng lại ở hành lang sau bữa trưa, bàn tay áp phẳng dưới xương sườn"
+- vi card question: "Phổ biến vậy mà gây bệnh?"
+- vi plate lines: "Đầu tiên — nó tạo một đám mây trung tính trong axit · Sau đó — nó khoan xuống lớp chất nhầy · Kết quả — nó bám vào niêm mạc suốt đời"

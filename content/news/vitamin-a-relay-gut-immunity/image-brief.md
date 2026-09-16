@@ -102,3 +102,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Quién lleva la vitamina? — una mujer corta zanahorias en la barra de su cocina bajo una lámpara nocturna"
 - es card question: "¿Quién lleva la vitamina?"
 - es plate lines: "Primero — las bacterias despiertan la mucosa · Luego — las proteínas transportadoras recogen el retinol · Resultado — menos del 2 % llega a las células inmunitarias"
+
+- pt-BR preview alt: "Ilustração: fios bacterianos segmentados enraizados pelas pontas numa dobra macia da mucosa do intestino, com um pequeno brilho dourado onde um deles entra"
+- pt-BR hero alt: "Ilustração: bactérias segmentadas enraizadas na mucosa do intestino, cujas células guardam gotas douradas de vitamina A; uma gota passa a uma célula de defesa ramificada e daí aos linfócitos T"
+- pt-BR card alt: "Quem leva a vitamina até lá? — uma mulher corta cenouras na bancada da cozinha sob a luz da noite"
+- pt-BR card question: "Quem leva a vitamina até lá?"
+- pt-BR plate lines: "Primeiro — as bactérias acordam a mucosa · Depois — proteínas transportadoras pegam o retinol · Resultado — menos de 2 % chega às células de defesa"
+
+- vi preview alt: "Minh họa: những sợi vi khuẩn phân đoạn cắm đầu vào một nếp gấp mềm của niêm mạc ruột, một ánh vàng nhỏ ở chỗ một sợi đi vào"
+- vi hero alt: "Minh họa: vi khuẩn phân đoạn cắm vào niêm mạc ruột, các tế bào niêm mạc chứa những giọt vitamin A màu vàng; một giọt chuyển sang tế bào miễn dịch phân nhánh rồi đi tiếp tới tế bào T"
+- vi card alt: "Ai mang vitamin tới đó? — một phụ nữ thái cà rốt trên mặt bếp dưới ngọn đèn buổi tối"
+- vi card question: "Ai mang vitamin tới đó?"
+- vi plate lines: "Đầu tiên — vi khuẩn ruột đánh thức niêm mạc · Sau đó — protein vận chuyển nhận retinol · Kết quả — dưới 2 % tới được tế bào miễn dịch"

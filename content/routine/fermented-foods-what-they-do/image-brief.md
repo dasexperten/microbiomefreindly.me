@@ -113,3 +113,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Lo fermentado sirve de algo? — un hombre come un tazón de kéfir en una mesita de su balcón por la tarde"
 - es card question: "¿Lo fermentado sirve de algo?"
 - es plate lines: "Primero — las células vivas llegan con la comida · Luego — pasan de largo y pocas se quedan · Resultado — bajaron 19 proteínas de inflamación"
+
+- pt-BR preview alt: "Ilustração: cadeias de células redondas, bacilos longos e leveduras grandes brotando entre bolhinhas num fermentado vivo"
+- pt-BR hero alt: "Ilustração: bactérias de um fermentado vivo passam pela mucosa do intestino; de vinte, uma se fixa, ácidos escorrem pelo muco e as bactérias residentes acabam mais variadas"
+- pt-BR card alt: "Fermentados funcionam mesmo? — um homem toma uma tigela de kefir numa mesinha da varanda à tarde"
+- pt-BR card question: "Fermentados funcionam mesmo?"
+- pt-BR plate lines: "Primeiro — células vivas vêm com o alimento · Depois — elas passam, poucas ficam · Resultado — 19 proteínas inflamatórias caíram"
+
+- vi preview alt: "Minh họa: những chuỗi tế bào tròn, các que dài và nấm men lớn đang nảy chồi giữa vô số bọt li ti trong một mẻ lên men sống"
+- vi hero alt: "Minh họa: vi khuẩn từ một mẻ lên men sống trôi qua niêm mạc ruột; trong hai mươi con thì một con chiếm được chỗ, các axit thấm vào lớp chất nhầy, và đám vi khuẩn cư trú cuối cùng trở nên đa dạng hơn"
+- vi card alt: "Đồ lên men có tác dụng? — một người đàn ông ăn bát kefir ở chiếc bàn nhỏ trên ban công buổi chiều"
+- vi card question: "Đồ lên men có tác dụng?"
+- vi plate lines: "Đầu tiên — tế bào sống theo thức ăn vào · Sau đó — chúng đi qua, ít kẻ ở lại · Kết quả — 19 protein viêm giảm xuống"

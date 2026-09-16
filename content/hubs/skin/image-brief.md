@@ -85,3 +85,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿La piel refleja el intestino? — una mujer junto a la ventana soleada por la mañana, las yemas en la mandíbula"
 - es card question: "¿La piel refleja el intestino?"
 - es plate lines: "Primero — las bacterias del intestino sueltan moléculas · Luego — la sangre las lleva, a ellas no · Resultado — responden los microbios de la piel"
+
+- pt-BR preview alt: "Ilustração: cachos de bactérias redondas, como uvas, sobre células achatadas da superfície da pele, e bacilos curtos coral na borda de um poro"
+- pt-BR hero alt: "Ilustração: as bactérias do intestino ficam onde estão enquanto moléculas verde-limão e células de defesa da mucosa viajam pelo sangue até a superfície da pele e os micróbios dela"
+- pt-BR card alt: "O intestino aparece na pele? — uma mulher à janela ensolarada de manhã, com as pontas dos dedos no maxilar"
+- pt-BR card question: "O intestino aparece na pele?"
+- pt-BR plate lines: "Primeiro — as bactérias do intestino soltam moléculas · Depois — o sangue as leva, não as bactérias · Resultado — os micróbios da pele respondem"
+
+- vi preview alt: "Minh họa: các chùm vi khuẩn tròn như chùm nho trên tế bào dẹt ở bề mặt da, và que ngắn màu san hô ở miệng lỗ chân lông"
+- vi hero alt: "Minh họa: vi khuẩn ruột vẫn ở nguyên chỗ trong khi các phân tử màu chanh và tế bào miễn dịch từ niêm mạc ruột theo dòng máu đi tới bề mặt da và đám vi sinh vật của da"
+- vi card alt: "Ruột có hiện lên da? — một phụ nữ bên cửa sổ đầy nắng buổi sáng, các đầu ngón tay đặt hờ nơi quai hàm"
+- vi card question: "Ruột có hiện lên da?"
+- vi plate lines: "Đầu tiên — vi khuẩn ruột nhả ra phân tử · Sau đó — máu mang phân tử đi, không mang vi khuẩn · Kết quả — vi sinh vật của da đáp lời"

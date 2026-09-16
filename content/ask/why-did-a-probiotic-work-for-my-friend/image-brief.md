@@ -117,3 +117,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿Por qué a mí no funcionó? — una mujer en la mesa de un café por la tarde, una segunda taza enfrente"
 - es card question: "¿Por qué a mí no funcionó?"
 - es plate lines: "Primero — seis cepas se ven iguales · Luego — el mismo intestino, las mismas condiciones · Resultado — solo 4 de 6 hicieron algo"
+
+- pt-BR preview alt: "Ilustração: dois grupos idênticos de bactérias em bastonete sobre muco intestinal ondulado; sob um deles o muco muda, sob o outro não"
+- pt-BR hero alt: "Ilustração: seis grupos idênticos de bactérias em bastonete se assentam no mesmo muco intestinal; sob quatro deles o muco muda à vista, sob dois fica intacto"
+- pt-BR card alt: "Por que não funcionou comigo? — uma mulher à mesa de um café à tarde, uma segunda xícara à sua frente"
+- pt-BR card question: "Por que não funcionou comigo?"
+- pt-BR plate lines: "Primeiro — seis cepas parecem iguais · Depois — mesmo intestino, mesmas condições · Resultado — só 4 de 6 fizeram algo"
+
+- vi preview alt: "Minh họa: hai nhóm vi khuẩn hình que giống hệt nhau trên lớp nhầy ruột gợn sóng; lớp nhầy đổi khác dưới nhóm này mà không đổi dưới nhóm kia"
+- vi hero alt: "Minh họa: sáu cụm vi khuẩn hình que giống hệt nhau trụ lại trên cùng một lớp nhầy ruột; dưới bốn cụm lớp nhầy đổi khác thấy rõ, dưới hai cụm nó vẫn nguyên"
+- vi card alt: "Cô ấy hợp, sao tôi không? — một phụ nữ bên bàn quán cà phê buổi chiều, ly thứ hai đặt đối diện"
+- vi card question: "Cô ấy hợp, sao tôi không?"
+- vi plate lines: "Đầu tiên — sáu chủng trông giống hệt nhau · Sau đó — cùng một ruột, cùng điều kiện · Kết quả — chỉ 4 trong 6 làm được gì đó"

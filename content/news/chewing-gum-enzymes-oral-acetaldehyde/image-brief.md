@@ -127,3 +127,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - es card alt: "¿El azúcar causa cáncer bucal? — una mujer en su balcón de noche, masticando, una copa de vino en la mano"
 - es card question: "¿El azúcar causa cáncer bucal?"
 - es plate lines: "Primero — el azúcar y el alcohol llegan a la placa · Luego — los microbios fabrican un carcinógeno · Resultado — el péptido mató 91,37 %, no a todas"
+
+- pt-BR preview alt: "Ilustração: cadeias de bactérias redondas e leveduras brotando presas numa película grudenta sobre o esmalte pálido, com um ponto afinado aceso em verde-limão"
+- pt-BR hero alt: "Ilustração: micróbios numa casca de placa sobre o esmalte soltam acetaldeído; um peptídeo silencia a maioria e três células abrigadas sobrevivem até as enzimas dissolverem a casca"
+- pt-BR card alt: "Açúcar causa câncer de boca? — uma mulher na varanda tarde da noite, mastigando, com uma taça de vinho na mão"
+- pt-BR card question: "Açúcar causa câncer de boca?"
+- pt-BR plate lines: "Primeiro — açúcar e álcool chegam à placa · Depois — os micróbios fazem um cancerígeno · Resultado — o peptídeo matou 91,37 %, não todos"
+
+- vi preview alt: "Minh họa: những chuỗi vi khuẩn tròn và nấm men đang nảy chồi bị giữ trong một màng dính trên men răng nhạt màu, một chỗ mỏng đi sáng lên màu xanh chanh"
+- vi hero alt: "Minh họa: vi sinh vật trong vỏ mảng bám trên men răng nhả ra acetaldehyde; một peptide làm im phần lớn, ba tế bào núp kỹ sống sót cho tới khi enzyme hòa tan lớp vỏ"
+- vi card alt: "Đường có gây ung thư miệng? — một phụ nữ trên ban công lúc đêm khuya, đang nhai, tay cầm ly rượu vang"
+- vi card question: "Đường có gây ung thư miệng?"
+- vi plate lines: "Đầu tiên — đường và rượu tới mảng bám · Sau đó — vi sinh vật tạo chất gây ung thư · Kết quả — peptide diệt 91,37 %, không phải tất cả"
