@@ -103,26 +103,29 @@ H2  Sources
 ```
 Headings translate as **questions in that language**, not as English labels — English H2 blocks on localized pages were a live defect (JW-MEM-260809-01).
 
-### 2.3 Images — preview + hero
+### 2.3 Images — card + macro world + infographic plate
+
+Three slots since **Owner 2026-09-16**, where this section read "preview + hero" before. Two of them are cut per locale, which changes what this brief has to check: a file name is now evidence of the page's language.
 
 | Point | Rule |
 |---|---|
-| Produced by | Brand Studio lanes (§4d): Lisa stills · Marika layout · Taras video. Jurgen names filename, alt, slot only. No self-made collage (JW-HARD-260724-02). Products/people only from R2 REF (§4) |
-| Filename | `/assets/{section}/{typed-keyword}-{entity}-{shot}.webp` — e.g. `akkermansia-muciniphila-mucin-layer-hero.webp`, `…-preview.webp` (pattern from `docs/SCIENCE_IMAGE_SEO.md`, JW-MEM-260724-02: filenames are their own traffic channel) |
-| Host | Portal domain, **not** the `pub-….r2.dev` service host — images on an unverified host earn the site nothing (JW-MEM-260824-02) |
-| Sizes | preview 1200×630 (cards + `og:image`), hero 1600×900 — *mine*; `width`/`height` attributes **mandatory** on both (2 325 of 3 301 tags lacked them on dasexperten, JW-MEM-260824-02) |
-| Alt | Page language, honest description, ≤ 125 chars: **preview** = headline in plain words; **hero** = what the picture shows + organism name. Never empty, never a keyword list, never the SKU name alone |
-| Caption | Visible `<figcaption>` on hero; the image sitemap reads it |
+| Produced by | Brand Studio lanes (§4d): Lisa stills · Otto built imagery and **every word set on a surface** · Marika layout · Taras video. Jurgen names filename, alt, slot only. No self-made collage (JW-HARD-260724-02). Products/people only from R2 REF (§4) |
+| Filename | `/assets/img/mbf/{type}/{slug}/{slug}-{slot}[-{lang}][@2x].{ext}` — `…-card-ru.webp`, `…-og-ru.jpg`, `…-preview.webp`, `…-plate-ru.webp`, `…-hero.webp`, `…-thumb.webp`. Slugs stay ASCII and language-neutral, one slug for every locale; the **locale suffix** carries the language, never the slug (pattern reconciled with `docs/BRAND_IMAGE_SPEC.md` §1; filenames are their own traffic channel, JW-MEM-260724-02) |
+| Host | Portal domain, **not** the `pub-….r2.dev` service host — images on an unverified host earn the site nothing (JW-MEM-260824-02). Every URL carries a `?v=<sha1>` fingerprint, because these files are served immutable for a year |
+| Sizes | card 720×480 / 1440×960 · og 1200×630 · macro world 720×480 / 1440×960 · plate 1200×900 / 2400×1800 · thumb 360×240; `width`/`height` attributes **mandatory** on every one (2 325 of 3 301 tags lacked them on dasexperten, JW-MEM-260824-02) |
+| Alt | Page language, honest description, ≤ 125 chars: **card** = the question baked into the frame, repeated verbatim, plus what is in the picture; **macro world** = what the picture shows + organism name; **plate** = the mechanism it draws. Never empty, never a keyword list, never the SKU name alone |
+| Caption | **No figure carries a visible `<figcaption>` on the new lane**, and the reason is the same each time: the words are already in the picture, in this page's language. The card's question is set into the frame; the plate's explanation is set on the band beneath it; the macro world states what it shows in its `alt`. A caption would be that sentence twice — the duplicate-text defect, not a caption. The only `<figcaption>` the build still emits is on a **fallback** plate (a bare `hero` with no band yet), carrying `heroAlt`. Where an image sitemap is built (§4 — not on the surface yet), it reads the `alt`, since that is where the description lives |
+| Per locale | `card`, `og` and `plate` differ by language; `preview`, `hero` and `thumb` are one file for all. A card or plate whose file name does not end in the page's own locale fails `src/check.mjs` |
 
 ### 2.4 OpenGraph / Twitter
 
-`og:type=article` · `og:title` · `og:description` · `og:url` (= canonical) · `og:image` (preview, absolute, portal host) · `og:image:width/height` · `og:locale` + `og:locale:alternate` × live translations · `article:published_time` · `article:modified_time` · `article:section` · `twitter:card=summary_large_image` · `twitter:title/description/image`. Social image URLs without `www`/wrong host gave 68 extra redirects on `.ru` (JW-MEM-260828-09) — same string as the `<img>`.
+`og:type=article` · `og:title` · `og:description` · `og:url` (= canonical) · `og:image` (**this locale's** `-og-<lang>.jpg`, absolute, portal host — the social card differs by language, so a Russian share must not show English words) · `og:image:width/height` · `og:image:alt` · `og:locale` + `og:locale:alternate` × live translations · `article:published_time` · `article:modified_time` · `article:section` · `twitter:card=summary_large_image` · `twitter:title/description/image`. Social image URLs without `www`/wrong host gave 68 extra redirects on `.ru` (JW-MEM-260828-09) — same string as the `<img>`.
 
 ### 2.5 JSON-LD — types and required fields
 
 | Type | Where | Required |
 |---|---|---|
-| `NewsArticle` | news | `headline` (≤ 110), `datePublished`, `dateModified`, `inLanguage`, `image` [preview, hero], `author` (Person — the seat that wrote it, Magnus), `publisher` (Organization ref), `mainEntityOfPage` = canonical, `isBasedOn` / `citation` → source DOI or URL, `about` → organism page URLs |
+| `NewsArticle` | news | `headline` (≤ 110), `datePublished`, `dateModified`, `inLanguage`, `image` [card, preview, plate] — card first, the image the page leads with — `author` (Person — the seat that wrote it, Magnus), `publisher` (Organization ref), `mainEntityOfPage` = canonical, `isBasedOn` / `citation` → source DOI or URL, `about` → organism page URLs |
 | `Article` | bacteria, hubs | `headline`, `datePublished`, `dateModified`, `inLanguage`, `image`, `author`, `publisher`, `mainEntityOfPage`, `about` `{Thing, name, sameAs: NCBI Taxonomy / Wikidata}`, `citation` per source |
 | `FAQPage` | only where a visible FAQ exists | `mainEntity` Q/A with text **identical** to the visible block. No rich result since 2026-05-07; markup stays for LLMs and page understanding (JW-028). Never promise a snippet |
 | `BreadcrumbList` | every page | Home › Section › (Phylum › Genus ›) Page — every `item` in canonical form, portal host |
@@ -187,7 +190,7 @@ Locale priority when time is short (Owner 2026-08-09): `en · es · vn · ru · 
 1. `<title>` present, unique per locale, within §2.1 cap, ends with the brand string, not English on a non-EN page.
 2. Exactly one `<h1>`; H2/H3 in page language; meta description ≤ 160 (≤ 150 Cyrillic) and ≠ lead.
 3. `hreflang` count = 18 + `x-default` (19) when all locales are live; otherwise exactly *live count* + 1; every href fetched with `redirect: 'manual'` returns 200; codes match the §1.1 map (no `vn`, no bare `zh`).
-4. Both images present: `<img>` with non-empty `alt`, `width`, `height`, `src` on the portal host; hero has a `<figcaption>`.
+4. All three images present: `<img>` with non-empty `alt`, `width`, `height`, `src` on the portal host; `card` and `plate` file names end in this page's own locale, and `og:image` is that locale's file. No `<figcaption>` is expected on the new lane — the words are in the frames — so a caption that repeats the card's baked question is a **defect**, not a miss.
 5. `rel=canonical` = self in final form = `og:url` = JSON-LD `mainEntityOfPage`; the alternate slash form answers 301 to it.
 6. Every `application/ld+json` block `JSON.parse`s; required types for the page type present (§2.5); FAQ text in JSON equals visible text; `inLanguage` = locale string.
 7. The URL is listed in `/sitemaps/sitemap-<lang>.xml` with `lastmod` = `dateModified`, page not `noindex`, and `<loc>` host is followed by `/`.

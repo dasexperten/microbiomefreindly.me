@@ -1,6 +1,6 @@
 # Content schema — how an article file is written
 
-**As of:** 2026-09-02 · Owner of the format: Magnus Larsen (`magnus-larsen`) · Law behind it: organizacia `HARD_RULES.md` §0b (facts only), §4c (product facts via Maya), §7a (write the typed word), §9c (dated sources).
+**As of:** 2026-09-02 · `images:` block rewritten 2026-09-16 · Owner of the format: Magnus Larsen (`magnus-larsen`) · Law behind it: organizacia `HARD_RULES.md` §0b (facts only), §4c (product facts via Maya), §7a (write the typed word), §9c (dated sources).
 
 One article = one folder. One language = one Markdown file inside it. The build (`src/build.mjs`) turns every file into a page; a language file that does not exist is simply not published and not declared in hreflang.
 
@@ -8,7 +8,8 @@ One article = one folder. One language = one Markdown file inside it. The build 
 content/
   news/<slug>/            news item rewritten from a named source
     en.md  ru.md  de.md …  one file per locale, same slug for every locale
-    image-brief.md         Magnus's plain-words brief for Brand Studio (Marika → Lisa)
+    image-brief.md         Magnus's plain-words brief for Brand Studio (Marika → Lisa → Otto)
+    overlay.json           the empty field measured on the accepted card master — written by tools/plates/measure.py, never by hand
   bacteria/<slug>/        encyclopedia entry (phylum · genus · species)
     en.md  ru.md …
     image-brief.md
@@ -52,10 +53,16 @@ entity:                                                  # bacteria pages only
   synonyms: ["Verrucomicrobia"]
   wikidata: "Q…"                                         # leave empty if not verified — never invent
   ncbiTaxId: "239935"
-images:
-  preview: ""                                            # R2 public URL of the preview (macro / "zoomed") image — filled by Lisa after Marika accepts
-  hero: ""                                               # R2 public URL of the hero — Otto's 3D infographic, no people (Owner 2026-09-16)
+images:                                                  # three images per topic (Owner 2026-09-16, second decision of that day)
+  card: "…-card-en.webp"                                 # per locale — Lisa's character frame with the question set into it by code
+  cardLine: "Can three days reset it?"                   # per locale — the exact words baked into that frame, 3–6 words
+  cardAlt: "…"                                           # per locale — ≤ 125 chars, must contain cardLine verbatim
+  og: "…-og-en.jpg"                                      # per locale — the centre band of the card master, question re-set at its own size
+  preview: ""                                            # the macro world (Lisa, no people, no words) — unchanged file, now shown inside the body
   previewAlt: "…"
+  plate: "…-plate-en.webp"                               # per locale — the accepted hero + a band of paper carrying three numbered beats
+  plateLines: "first · second · third"                   # per locale — the three beats set on that band, separated by ` · `
+  hero: ""                                               # unchanged, text-free master of record — the plate is built from it, it is not served alone
   heroAlt: "…"
 referral:                                                # at most one product mention, after the mechanism, never in the first half
   product: ""                                            # empty = no referral in this piece (honest "no mention")
@@ -86,11 +93,25 @@ Markdown after the front-matter. Rules:
 
 ## Image brief (`image-brief.md`)
 
-Plain words from Magnus to Brand Studio — the fields are in `docs/BRAND_IMAGE_SPEC.md` (Marika). Magnus never writes an engine prompt (§4e-1); Otto writes the hero's, Lisa the preview's, each generates; Marika accepts; the two R2 URLs then go into `images.preview` / `images.hero`.
+Plain words from Magnus to Brand Studio — the fields are in `docs/BRAND_IMAGE_SPEC.md` (Marika). Magnus never writes an engine prompt (§4e-1); Otto writes the infographic's, Lisa the macro world's and the character frame's, each generates; Marika accepts; the URLs then go into the `images:` block above.
+
+Since **Owner 2026-09-16** every brief also carries the character card, in the same plain words:
+
+| Field | What it says |
+|---|---|
+| `Card (Lisa · person)` | who stands in the frame — a named file from the REF library `refs/characters/` on R2, cast in `docs/CASTING_CARDS_2026-09-16.md`. Magnus Larsen is never cast: he is the author, not a model |
+| `Card scene` | the one moment, in a sentence |
+| `Wardrobe and place` | what she wears and where she is |
+| `EMPTY FIELD` | which third of the frame stays calm, so the question has real air to sit in. It must name a **plain pale plane** — a wall, a door, a sky. Never a textured surface (fence boards, tile joints): the letters die in the texture and the frame comes back for a reshoot |
+| `- en/ru card question:` | the question, 3–6 words, per locale — the words that will be baked |
+| `- en/ru card alt:` | the alt text, per locale, ≤ 125 chars, containing the question verbatim |
+| `- en/ru plate lines:` | the three beats of the infographic band, per locale, separated by ` · ` |
+
+The words in the brief are the only source: `tools/plates/make-lines.mjs` carries them to the typesetter and `tools/alt-check.mjs` reads the same lines, so the pixels and the alt text cannot drift apart.
 
 ## Sections (Owner 2026-09-04)
 
-Five article types now share this schema, the same gates and the same two images:
+Five article types now share this schema, the same gates and the same three images (two until **Owner 2026-09-16**, when the character card was added and the other two moved into the body):
 
 | `type` | Folder | What it is | URL |
 |---|---|---|---|

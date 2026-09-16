@@ -18,7 +18,7 @@ git fetch origin && git status -sb          # must be clean and equal to origin/
 PORTAL_ORIGIN=https://microbiomefriendly.me npm run deploy   # = bash tools/deploy.sh; WRANGLER_OAUTH=1 uses the machine's wrangler login
 ```
 
-Images are served from the portal's own domain (`/assets/img/mbf/…`, fingerprinted per file) and the same files plus the two masters live in R2 `dasexperten-images/mbf/…`.
+Images are served from the portal's own domain (`/assets/img/mbf/…`, fingerprinted per file) and the same files live in R2 `dasexperten-images/mbf/…`. Since **Owner 2026-09-16** that means the per-locale derived set — `-card-<lang>.webp` (+`@2x`), `-og-<lang>.jpg`, `-plate-<lang>.webp` (+`@2x`) — beside the shared `-preview.webp`, `-hero.webp` and `-thumb.webp`, and **three masters** per topic under `mbf/masters/<slug>/`: the character card, the macro world and the text-free hero of record from which the plate is built. Masters are never served to a reader; they exist so a language can be re-set without asking an engine for the frame again.
 
 `tools/deploy.sh` refuses a dirty tree or a HEAD that differs from `origin/main`, builds (`src/build.mjs`), runs the gate (`src/check.mjs`), writes `dist/BUILD_SHA`, then `wrangler pages deploy dist --project-name=microbiomefriendly-portal --branch=main`.
 
@@ -48,3 +48,4 @@ Mail is untouched: the `mail` A record, MX and DMARC stay as they were.
 | 2026-09-16 | `5fafa7e` | session | wave 2 live — 36 more topics |
 | 2026-09-16 | `26c7b9f` | session | last five topics; all 44 carry both masters |
 | 2026-09-16 | `446398f` | session | image URLs fingerprinted — the edge was still serving the replaced frames |
+| 2026-09-16 | `0d3e6ad` | session (Lisa · Otto · Marika) | the three-image shape: 44 character cards with the topic's question baked per language, the macro world and the infographic moved into the body, the infographic given a band of three numbered beats. 440 derived files, 88 locale files rewired. Live check: 1302 image URLs on the edge, 0 bad. Look accepted at 1440 and 390 px |

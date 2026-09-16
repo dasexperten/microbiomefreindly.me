@@ -1,7 +1,7 @@
 # BRAND IMAGE SPEC — microbiomefriendly.me · slots, proportions, acceptance
 
 **Who:** Marika Nowicka — head of Brand Studio · **For:** Magnus Larsen (briefs), Otto Zuckerman (hero), Lisa (preview), Mina (deploy)
-**Why:** Owner brief 2026-09-02 — two images per topic: a *preview* (micro-world, no people) and a *hero*. **Owner 2026-09-16 — the lane is settled:** the hero is **Otto Zuckerman's 3D scientific infographic, no people** (built imagery is Otto's since 2026-09-05, §4d); the preview is **Lisa's macro world**. The 2026-09-02 character hero is withdrawn; it returns only on the Owner's word, and then as Lisa's frame under REF law.
+**Why:** Owner brief 2026-09-02 — two images per topic: a *preview* (micro-world, no people) and a *hero*. **Owner 2026-09-16, morning — the lane is settled:** the hero is **Otto Zuckerman's 3D scientific infographic, no people** (built imagery is Otto's since 2026-09-05, §4d); the preview is **Lisa's macro world**. **Owner 2026-09-16, same day, second word — the shape changed again, and this is the live one:** every topic now leads with a **character card** — a real person from `refs/characters/`, Lisa's frame, carrying **the topic's question in each language, set into the frame by code**. The two frames above keep every pixel and **move into the body of the article**. Three images per topic, not two. The character hero of 2026-09-02 is therefore not withdrawn any more; it is back, as the card, under REF law.
 **Law:** HARD_RULES §4 · §4b · §4d · §4e · §4e-1 · §4f · §4h · §4h-2 · §4i. This file is the slot brief. Until the slot and the ratio below are named, nothing is generated (§4f · §4e-1).
 
 I looked first. Below is the place and the proportion for every image the portal will carry. One surface — one slot — one native ratio. A frame is born in its ratio; it is never stretched or cropped into a neighbour's frame.
@@ -10,21 +10,42 @@ I looked first. Below is the place and the proportion for every image the portal
 
 ## 1. Slots and proportions
 
-The portal is one brand with one card grid, so every article and every encyclopedia entry takes the same two masters. Locales share the image set; only `alt` changes per language.
+The portal is one brand with one card grid, so every article and every encyclopedia entry takes the same three masters. **Two of the four served slots are per language**, because they carry words in their pixels: the card and the plate. The other files are one set for all locales, and only `alt` changes.
 
 | Slot | Where on the page | Ratio | 1x | 2x | Weight cap (webp) | Format | File |
 |---|---|---|---|---|---|---|---|
-| **Card preview** | `.card-cover`, first node inside the card, above kicker + title. Grid 3-up desktop (`minmax(0,1fr)` ×3), 1-up mobile | **3:2** | **720×480** | **1440×960** | 1x ≤ 110 KB · 2x ≤ 220 KB | webp + jpg fallback | `<slug>-preview.webp` · `-preview@2x.webp` · `-preview.jpg` |
-| **og:image** | `<meta property="og:image">` + twitter card | **1.91:1** | **1200×630** | — | ≤ 280 KB | **jpg only** (scrapers do not read webp reliably) | `<slug>-og.jpg` |
-| **Article hero** | `.article-hero`, full content width directly under H1 and lead, before the first paragraph | **16:9** | **1200×675** | **2400×1350** | 1x ≤ 170 KB · 2x ≤ 340 KB | webp + jpg fallback | `<slug>-hero.webp` · `-hero@2x.webp` · `-hero.jpg` |
+| **Character card** | `.card-cover` in the feed; `.article-card` at the top of the article, directly under H1 and lead | **3:2** | **720×480** | **1440×960** | 1x ≤ 110 KB · 2x ≤ 220 KB | webp | `<slug>-card-<lang>.webp` · `-card-<lang>@2x.webp` |
+| **og:image** | `<meta property="og:image">` + twitter card | **1.91:1** | **1200×630** | — | ≤ 280 KB | **jpg only** (scrapers do not read webp reliably) | `<slug>-og-<lang>.jpg` |
+| **Macro world** | `figure.figworld` **inside the article body**, before the 2nd `## ` | **3:2** | **720×480** | **1440×960** | 1x ≤ 110 KB · 2x ≤ 220 KB | webp + jpg fallback | `<slug>-preview.webp` · `-preview@2x.webp` · `-preview.jpg` |
+| **Infographic plate** | `figure.figplate--band` **inside the article body**, before the 4th `## ` | **4:3** | **1200×900** | **2400×1800** | 1x ≤ 170 KB · 2x ≤ 340 KB | webp | `<slug>-plate-<lang>.webp` · `-plate-<lang>@2x.webp` |
 | **Thumb** | related-articles rail, encyclopedia index rows, search results | 3:2 | 360×240 | 720×480 | ≤ 40 KB | webp | `<slug>-thumb.webp` |
+| **Hero, master of record** | not served on the page any more; the plate is built from it | 16:9 | 1200×675 | 2400×1350 | — | webp + jpg | `<slug>-hero.webp` · `-hero@2x.webp` · `-hero.jpg` |
 
-**Masters, born native (Owner 2026-09-16):** preview **3:2 at 1440×960** — **Lisa**; hero **16:9 at 2400×1350** — **Otto**. Engine: platform-native generation for this lane (Codex `$imagegen` or Grok `/imagine`), **not Higgsfield**. Where the engine only renders sizes on its own grid, it renders the same ratio exactly and `tools/images.mjs` scales to the master size — scale, never crop. Everything in the table is a *resize* of its own master, never a crop — with one exception, named aloud:
+**The fallback chain in `src/build.mjs`, so that a topic without a card still renders exactly as it did:**
 
-- **og:image is the centre band of the preview master** (1440×960 → 1440×754 → 1200×630). I allow it because the preview carries **no people and no product** — §4f exists so that bodies do not come out unnatural, and a bacterial colony has no body. Condition: Lisa keeps the subject inside the **middle 1.91:1 band** of the 3:2 frame (top and bottom 11 % are air). If the subject touches that margin, the frame is reshot, not the CSS.
-- The hero is **never** the source of the preview, and the preview is never the source of the hero. Two masters, two worlds (Owner 2026-09-02, Lisa `LZ-MEM-260902-01`).
+```
+top image    = images.card || images.preview
+in-body 3:2  = images.preview,  only when images.card exists
+in-body 4:3  = images.plate || images.hero
+og           = images.og || images.card || images.preview
+```
 
-**CSS canon.** `.card-cover{aspect-ratio:3/2;overflow:hidden}` · `.article-hero{aspect-ratio:16/9}` · `img{width:100%;height:100%;object-fit:cover;display:block}` with `width`/`height` attributes set to the 1x size. `aspect-ratio` sits on the cell, not on the `<img>`. Hover on cards: `scale(1.03)` — quiet, it is a reading surface. `loading="lazy"` on cards and thumbs, `fetchpriority="high"` on the hero.
+**Masters, born native:** card **3:2 at 1440×960** — **Lisa**, engine **Higgsfield `nano_banana_2`** with the R2 REF as image input, because identity lock is the whole point of that frame (§4b · §4e-3); preview **3:2 at 1440×960** — **Lisa**; hero **16:9 at 2400×1350** — **Otto**. For the two text-free, people-free masters the engine is platform-native generation (Codex `$imagegen` or Grok `/imagine`), **not Higgsfield** (Owner 2026-09-16, morning). Where the engine only renders sizes on its own grid, it renders the same ratio exactly and `tools/images.mjs` scales to the master size — scale, never crop. Everything in the table is a *resize* of its own master, never a crop — with one exception, named aloud:
+
+- **og:image is the centre band of the card master** (1440×960 → 1440×754 → 1200×630), and now there *is* a body in that frame. The condition is therefore stricter, not waived: the person's head and shoulders sit inside the **middle 1.91:1 band** and the empty field does too, so the band crop loses only air and never slices a face. **The words are set after the crop, at the band's own size** — baked type is never resized into a second surface, because a 1440-wide line scaled to 1200 is a line nobody measured.
+- **The plate is the accepted hero plus a composed band, not a crop of it** — the 16:9 master keeps every pixel at the top of a 4:3 sheet, and 450 px of brand paper are added underneath. Nothing is painted over the art.
+- The hero is **never** the source of the preview, and the preview is never the source of the hero. Three masters, three worlds (Owner 2026-09-02, Lisa `LZ-MEM-260902-01`).
+
+**CSS canon.** `.card-cover{aspect-ratio:3/2;overflow:hidden}` · `.article-card{aspect-ratio:3/2;max-width:860px}` · `.prose .figworld{aspect-ratio:3/2}` · `.prose .figplate--band{aspect-ratio:4/3}` · `img{width:100%;height:100%;object-fit:cover;display:block}` with `width`/`height` attributes set to the 1x size. `aspect-ratio` sits on the cell, not on the `<img>`. `loading="lazy"` on cards and thumbs, `fetchpriority="high"` on the article card.
+
+**Where words are baked, the cell ratio equals the frame ratio, or the words are not shown.** `object-fit:cover` in a cell of a different proportion eats the line before anyone notices. Two consequences, both live:
+
+- Hover on a worded card is **switched off** — `.card-cover--worded img{transform:none}`. The old quiet `scale(1.03)` moved the question under the cell edge.
+- The **home hero cell keeps the text-free preview**, not the card. That cell stretches on desktop and `.hero__cap` already prints the title over it; the card there would be cropped type under a second voice saying the same thing.
+
+**In-body figures are `<figure>`, never `<div>`.** A `<div>` inside `.prose` silently truncates the NBSP gate in `src/check.mjs`; the gate is the reason the rule exists.
+
+**No figure on this lane carries a `<figcaption>`** — each for its own reason: the card's words are already in the frame, the plate's are on its band, and the macro world's belong in its `alt`. A caption that repeats a baked line is a defect, not an omission: it is the same sentence said twice, once in pixels nobody can select and once in text. The only exception is the fallback case — a topic that still has a bare `hero` and no band gets the old caption until its plate is built.
 
 **Slug.** Language-neutral, ASCII, the English working slug of the article (`akkermansia-muciniphila-mucus-layer`). Encyclopedia entries take the binomial (`lactobacillus-rhamnosus`). One slug serves all locales.
 
@@ -42,7 +63,23 @@ Public base `https://pub-1d1b12958f2d4ea380276bd8d0a1ff02.r2.dev/mbf/...`; the p
 
 ## 2. Visual language
 
-### 2a. Preview — the zoomed world (cards, og:image)
+### 2a-0. Card — the person and the reader's own question (feed, article top, social) · Owner 2026-09-16
+
+The first thing anyone sees is a person having the moment the article is about, and the question they would ask, in their own language, standing in the air of that photograph. It is **Lisa's** frame (§4d — a living person in frame is hers) and **Otto's** type (§4d — he composes words; he never asks an engine for letters).
+
+| Point | Rule |
+|---|---|
+| Who | A named face from R2 `refs/characters/`, identity-locked by passing the REF to the engine as image input (§4 · §4e-3). **Never an invented face.** **Magnus Larsen is excluded** — he is the portal's author, not a model — and so are the four SKU faces. The cast sheet is `docs/CASTING_CARDS_2026-09-16.md`: 44 rows, 44 distinct faces, each REF verified live before it was used |
+| The moment | One ordinary person, one ordinary hour, doing or feeling the thing the topic is about. One person only. No second face, no lab coat, no clinic, no microscope |
+| The empty field | Marika reserves it in the brief **before generation**: which third of the frame stays calm, and it must be a **plain pale plane** — a wall, a door, a sky, a blank cupboard. Never boards, tiles, foliage or anything with a joint in it. The person stands on the opposite third |
+| The words | **The topic's question, 3–6 words**, per language, set into that field by `tools/plates/build.py`. Not the title — the question the reader is actually holding. The same string lives in `cardLine` in the front matter and inside `cardAlt`, so pixels and alt can never drift |
+| Proof before type | `tools/plates/measure.py` measures the field on the accepted master and writes `overlay.json`: box, ink, luminance spread ≤ 26/255, local gradient ≤ 7/255, and the contrast on the **worst two percent** of the box — not an average, which hides a dark patch. Floor **3.0:1** for display type at 72 px and up (§4j reserves 4.5:1 for body). Below it, or no calm box at all, the **frame** is reshot. The typography never shrinks to rescue a bad frame, and **nothing is ever drawn behind a line** (§4k) |
+| Type | Nunito variable (OFL, Latin + Cyrillic) in `tools/plates/fonts/`. Ink is chosen per frame from charcoal `#363636`, navy `#1F2A3E` or ivory `#F7F5F2` — whichever actually reads on that wall. **Zero tracking, ever** (§4h): a line that does not fit is set smaller, then shortened — never spaced out. A number never leaves its unit (§4h-2). A glyph the face does not carry is a refusal, not a silent swap |
+| Light · palette | The photograph's own light, one source, matte, natural skin; ground, wall and cloth greige `#EFEBE7` to paper `#F7F5F2`, at most one quiet accent in the whole frame |
+| Forbidden | Any letter, numeral or sign **made by the engine**; product, packaging, capsule, sachet, jar, brand mark; a second person; medical horror; black ground, neon, studio gloss; letterbox, bars, border or vignette — the photograph fills the frame edge to edge |
+| Cost | **One generation per topic** (§4e-2); a second only with the reason written down. A wrong word afterwards costs no generation at all, and a new language costs none either — that is the whole reason the words are not in the engine's hands |
+
+### 2a. Macro world — the zoomed world (now inside the article body)
 
 "Zoomed things" in this brand means **macro biology photographed warmly**, not a sci-fi render. The reader should feel a laboratory bench in morning light, with the lens six millimetres from life.
 
@@ -57,9 +94,13 @@ Public base `https://pub-1d1b12958f2d4ea380276bd8d0a1ff02.r2.dev/mbf/...`; the p
 | Pen | **Lisa** (§4d — a shot-looking world). She writes her engine words from `docs/IMAGE_PROMPT.md` |
 | Honesty | It is an illustration of a micro-world, never presented as a diagnostic image. `alt` says what is depicted, not "microscope photo of…" |
 
-### 2b. Hero — Otto's 3D scientific infographic (article page) · Owner 2026-09-16
+### 2b. Plate — Otto's 3D scientific infographic with its band (inside the article body) · Owner 2026-09-16
 
-The hero explains the topic's mechanism as a **built image**: matte 3D volumes, one warm directional light, a process the eye walks in one path. It is Otto Zuckerman's lane (§4d — built imagery: molecules, enzymes, biofilm, cells, flows) and his pen (§4e-1a). **No people.**
+The plate explains the topic's mechanism as a **built image**: matte 3D volumes, one warm directional light, a process the eye walks in one path. It is Otto Zuckerman's lane (§4d — built imagery: molecules, enzymes, biofilm, cells, flows) and his pen (§4e-1a). **No people.** The frame itself stays exactly as it was accepted; what is new is the **band underneath**.
+
+**The band (Owner's choice, 2026-09-16).** The accepted 16:9 frame sits at the top of a 4:3 sheet and 450 px of brand paper `#F7F5F2` carry **three numbered beats** — first → next → outcome, in the language of the page, teal numerals `#1B5F56`, Nunito 600 ink `#363636`, a single hairline `#D6CFC7` between art and paper.
+
+The Owner chose the band over re-shooting, and the measurement is why it was the honest choice: `measure.py` was run over all 44 accepted infographics and **only one** had air calm and contrasty enough to hold a line of type inside the picture. Type laid into the other 43 would have needed a shape under it, and a shape that exists only to sit under a line of text is forbidden (§4k). **Zero accepted frames were regenerated, and zero credits were spent on this decision.**
 
 | Point | Rule |
 |---|---|
@@ -67,9 +108,8 @@ The hero explains the topic's mechanism as a **built image**: matte 3D volumes, 
 | Subject | The mechanism from the article's `answer`, built around the organism or structure with the morphology of field 4. A *Lactobacillus* hero never gets spheres |
 | The number | One sourced figure from `keyFacts`, shown **by scale, quantity or proportion**, never printed. No figure in keyFacts → the clause is dropped, nothing is invented |
 | Light · palette | Ground greige `#EFEBE7` to paper `#F7F5F2`; forms charcoal `#363636`, navy `#1F2A3E`, teal `#1B5F56`; at most one accent — gold `#C7A24B`, coral `#E2725B`, lime `#D9EB99` — on the element the reader must notice. Its own light and temperature, not the preview's |
-| Words | **None in pixels** — no letters, numerals, labels, worded arrows, scale bars, interfaces, logo. Caption and alt carry the words, so one set serves all 18 locales. (Otto's standard of type laid over by code does not apply on this portal: the Owner's 2026-09-16 word is no text in any frame) |
-| Forbidden | People, faces, hands, bodies; organ cut-aways; product, packaging, capsule-as-product, brand mark; black ground, blue neon, false-colour micrograph, stock DNA helix, medical horror; a hero that is a wider crop of the preview |
-| Character hero | Withdrawn 2026-09-16. Returns only on the Owner's word; then it is **Lisa's** frame under §4 / §4e-3 (REF from R2 `refs/characters/`, never an invented face) and the REF rules of the 2026-09-02 edition apply again |
+| Words | **None inside the picture** — no letters, numerals, labels, worded arrows, scale bars, interfaces, logo. The engine is never asked for a glyph. The words live on the band below, set by code per language (`plateLines`, three parts separated by ` · `), and the alt carries them too |
+| Forbidden | People, faces, hands, bodies; organ cut-aways; product, packaging, capsule-as-product, brand mark; black ground, blue neon, false-colour micrograph, stock DNA helix, medical horror; a plate that is a wider crop of the macro world |
 
 ---
 
@@ -77,28 +117,29 @@ The hero explains the topic's mechanism as a **built image**: matte 3D volumes, 
 
 | Step | Who | What |
 |---|---|---|
-| 1 | **Magnus** | Plain words: mechanism, morphology (field 4), the one sourced number, the three beats. **Never prompt text** (§4e-1). Roberta words the brief |
-| 2 | **Marika** | Slot + ratio — this file — **and the focus of each frame**, written per topic in the brief before generation |
-| 3 | **Otto** (hero) · **Lisa** (preview) | Each writes their own engine words (§4e-1a) and generates on the platform-native engine, **not Higgsfield**; native ratio; one frame per master, two at most with a named reason (§4e-2); does not accept their own work |
-| 4 | **Marika** | Accepts the frame **and** its look in the live cell — twice, not once |
-| 5 | Mina | Uploads to R2, wires `<img>`, `og:image`, `ImageObject`, image sitemap |
+| 1 | **Magnus** | Plain words: mechanism, morphology (field 4), the one sourced number, the three beats — **and the question**, 3–6 words, the one the reader is actually holding. **Never prompt text** (§4e-1). Roberta words the brief; Roberta and Alexandra hold the EN and RU register of every line that will be baked |
+| 2 | **Marika** | Slot + ratio — this file — **the focus of each frame, and the empty field the words will sit in**, written per topic in the brief before generation (§4f) |
+| 3 | **Lisa** (card, preview) · **Otto** (plate) | Each writes their own engine words (§4e-1a); the card generates on **Higgsfield** with the REF locked, the two people-free frames on the platform-native engine; native ratio; one frame per master, two at most with a named reason (§4e-2); nobody accepts their own work |
+| 4 | **Otto** | Measures the field, then sets every word by code, per language — card, social band and plate band. He writes into no other file |
+| 5 | **Marika** | Accepts the frame, **then** its look in the live cell — twice, not once (§4n), with a `Look-accepted:` line in the commit that changes CSS or templates |
+| 6 | Mina | Uploads to R2, wires `<img>`, `og:image`, `ImageObject`, image sitemap |
 
 **Acceptance checklist — every item measured, none intended:**
 
-1. **No people** — no face, hand or body in either frame. (Only if the Owner brings a character hero back: identity matches the R2 REF side by side; "resembles" is a reject.)
+1. **Identity** — on the card, the face matches its R2 REF side by side; "resembles" is a reject. One person, nobody else. On the macro world and the plate: **no face, hand or body at all**.
 2. **No product re-synthesis** — no tube, box, brush, jar with a brand look anywhere in the frame; no invented packaging.
-3. **Ratio born right** — file dimensions equal the master size in §1 (1440×960 / 2400×1350); no stretch, no crop other than the og band.
-4. **Preview safe band** — subject inside the middle 1.91:1; og crop loses only air.
-5. **No text in image** — zero letters, zero glyphs, zero invented labels (the engine composes writing; it never copies it — Lisa `LZ-LAW-260902-02`).
-6. **Overlay text** — none baked into pixels. If a locale needs a badge, it is an HTML layer: navy `#1B3856` scrim at 72 % with ivory `#F1EADC` text, contrast ≥ 4.5:1, measured on the darkest and lightest hero of the batch.
-7. **No tracking** — search the page template and any overlay for the spacing property: zero positive matches (§4h).
-8. **Weight** — under the caps in §1, checked on the exported file, not the master.
+3. **Ratio born right** — file dimensions equal the master size in §1 (1440×960 / 2400×1350); no stretch; no crop other than the social band; no letterbox, bar or border inside the photograph.
+4. **Safe band** — on the card, the person's head and shoulders **and** the empty field inside the middle 1.91:1; the social crop loses only air and never a face or a line.
+5. **No text the engine made** — zero letters, zero glyphs, zero invented labels in any generated frame (the engine composes writing; it never copies it — Lisa `LZ-LAW-260902-02`). Every word on the page's pixels was laid by `tools/plates/build.py`.
+6. **Baked type** — set into a field `measure.py` proved empty, worst-2 % contrast ≥ 3.0:1 recorded in `overlay.json`, **no shape of any kind behind a line** (§4k), the question 3–6 words, `cardLine` identical to the pixels and contained verbatim in `cardAlt`.
+7. **No tracking** — search the page template, the plate builder and any overlay for the spacing property: zero positive matches (§4h). A number never split from its unit (§4h-2), re-joined at the last moment before the line is set.
+8. **Weight** — under the caps in §1, checked on the exported file, not the master, and the webp quality floor holds at 66 so the step-down loop never smears a baked letter.
 9. **Truth** — the organism's morphology matches field 4 of the brief; Maya's consult is logged when a product or a health claim is nearby (§4c).
-10. **Live cell** — screenshot of the card at 3-up desktop and 1-up 360 px mobile; nothing important is cut by `object-fit:cover`.
-11. **Set, side by side** — the previews of a wave on one contact sheet, the heroes on another: each frame its own world, light and temperature; no two read as crops of one plate.
+10. **Live cell** — screenshots of the real page at **1440 and 390 px**: the question legible, nothing cut by `object-fit:cover`, no horizontal overflow.
+11. **Set, side by side** — the cards of a wave on one contact sheet, the worlds on another: each frame its own face, room, hour, light and temperature; no two read as crops of one plate, and no face appears twice on one feed page.
 12. **Palette** — ground greige to paper, forms charcoal / navy / teal, at most one accent on the element the reader must notice.
 
-A frame with an invented hand, face or product is rejected without correction and the batch is not shown to the Owner (§4).
+A frame with an invented face, an invented hand or an invented product is rejected without correction and the batch is not shown to the Owner (§4).
 
 ---
 
@@ -126,7 +167,8 @@ Display weight on fallback scripts is **700**, not 800 — system CJK and Arabic
 - **No monospace numbers.** Numbers are set in Hanken Grotesk; `tabular-nums` is allowed only inside a data table.
 - **No positive tracking** (§4h). Zero is the ceiling; `-.01em…-.03em` on display ≥ 40 px allowed. No uppercase micro-labels — drop the transform, gain size and weight.
 - **Number never split from its unit** (§4h-2): `10&nbsp;⁹&nbsp;CFU`, `37&nbsp;°C`, `2&nbsp;g`, `1&nbsp;844`; `white-space:nowrap` on the span; checked at 320 px.
-- No second display family, no gradient text, no text baked into images, no navy other than `#1B3856`.
+- No second display family, no gradient text, no navy other than `#1B3856`.
+- **Text baked into images** was banned here until 2026-09-16 and is now allowed in exactly two places — the card and the plate band — under the conditions in §2a-0 and §2b: laid by code, never by an engine; per language; into measured air; with no shape underneath. Everywhere else the ban stands.
 
 ---
 
@@ -140,16 +182,29 @@ Copy the block into `content/<type>/<slug>/image-brief.md` in the portal repo. P
 3. Organism / structure in the preview:        Akkermansia muciniphila
 4. Morphology, in words (truth, Magnus/Maya):  oval short rods, single or in pairs, non-motile, in a mucus layer over villi
 5. Preview mood (one line, warm science):      pale mucus film catching morning light, cells resting in it
-6. Hero mechanism (the answer, one clause):    Akkermansia grazes the mucus layer and the gut wall renews it
+6. Plate mechanism (the answer, one clause):   Akkermansia grazes the mucus layer and the gut wall renews it
 7. Three beats (first → next → outcome):       cells settle in mucus → they feed on it → the lining thickens its mucus
 8. The one number (keyFacts, source id):       shown by proportion only — or "none in keyFacts, clause dropped"
 9. Must not appear:                            any product, any text, second person, blue neon
 10. Locales + alt text per locale (RU via Alexandra): en / ru / de / ja / ar — one alt line each
+
+— the card block, added 2026-09-16 —
+Card (Lisa · person):      the named face from refs/characters/ and who they are in this moment
+Card scene:                one sentence — the ordinary hour the topic lives in
+Wardrobe and place:        …
+EMPTY FIELD:               left third, a plain pale wall — a flat plane, never boards, tiles or foliage
+Card must not appear:      any letter the engine makes, product, second person, letterbox or border
+- en card question:        Can three days reset it?      (3–6 words)
+- ru card question:        Три дня что-то меняют?
+- en card alt:             … (≤125 chars, contains the question verbatim)
+- ru card alt:             …
+- en plate lines:          First — food shifts it in a day · Then — back in two days · Outcome — 60 % of strains stay for years
+- ru plate lines:          …
 ```
 
-Fields 1–5 produce Lisa's preview, 6–8 Otto's hero, 9–10 belong to both. A brief missing field 4 or 6 is returned — an organism without a shape and a hero without a mechanism are the two ways this portal would end up inventing something, and we do not invent. Before generation Marika adds one line per master: slot, ratio and focus (Owner 2026-09-16). Briefs written 2026-09-02 with a character hero keep their preview fields and receive the three hero fields above in place of scene, cast and wardrobe.
+Fields 1–5 produce Lisa's macro world, 6–8 Otto's plate and its band, 9–10 belong to both, and the card block produces the frame the reader meets first. A brief missing field 4 or 6 is returned — an organism without a shape and a plate without a mechanism are the two ways this portal would end up inventing something, and we do not invent. A brief whose **EMPTY FIELD** names a textured surface is returned too: five of the first forty-four named fence boards and tile joints, and all five had to be reshot after the measurement refused them. Before generation Marika adds one line per master: slot, ratio, focus and that empty field.
 
-— Marika Nowicka · Brand Studio · 2026-09-02
+— Marika Nowicka · Brand Studio · 2026-09-02, slots rewritten to the three-image shape 2026-09-16
 
 ---
 

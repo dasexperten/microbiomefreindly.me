@@ -67,14 +67,14 @@ definition_one_line: "<Name> is a <rank> of <parent> that <one sourced trait>."
 
 ## 4 · Machine layer
 
-**4a · `llms.txt`** — root plus `/<locale>/llms.txt` for every locale (the dasexperten.com file is English-only; that is the defect named in `docs/MARKET_PRIORITY.md`). Myth guard from seo-master: `llms.txt` is **not a citation lever**; it is a map. Order: one-paragraph site definition → author entity line (Magnus, role, sameAs) → `## Encyclopedia` (one line per taxon: canonical name · one-line definition · URL) → `## Topic hubs` → `## News (last 30 days)` → `## Sources policy` (one line pointing to §3) → `## Media` (hero and preview URLs for direct fetch, `JF-MEM-260724-03`). Names verbatim — CFU, strain codes, Latin — anti-simplicity rule.
+**4a · `llms.txt`** — root plus `/<locale>/llms.txt` for every locale (the dasexperten.com file is English-only; that is the defect named in `docs/MARKET_PRIORITY.md`). Myth guard from seo-master: `llms.txt` is **not a citation lever**; it is a map. Order: one-paragraph site definition → author entity line (Magnus, role, sameAs) → `## Encyclopedia` (one line per taxon: canonical name · one-line definition · URL) → `## Topic hubs` → `## News (last 30 days)` → `## Sources policy` (one line pointing to §3) → `## Media` (three URLs per topic for direct fetch — the character card and the infographic plate in **that locale's** file, plus the macro world, which is one file for every language, `JF-MEM-260724-03`). Names verbatim — CFU, strain codes, Latin — anti-simplicity rule.
 **4b · `llms-full.txt`** — **not on file**; nothing on our estate ships one. Proposal, marked as mine: concatenate answer-first + Key facts + FAQ + Sources of every encyclopedia page (not news), regenerated at build, kept to a size a model pulls whole; excluded from the retrieval KPI as a non-content path (`GEO_PRIMARY_KPI.md` rule 2).
 **4c · JSON-LD beyond Jurgen's set.** On file for dasexperten.com: `Organization` (+ QID), `BreadcrumbList`, `FAQPage`, `ItemList`, `Article`, `ImageObject`, `Product`; `DefinedTerm` proposed on science leaves. Portal additions:
 - News: `NewsArticle` with `isBasedOn` = the named source URL, `dateModified`, `inLanguage`, `author` → `Person` (Magnus) with `sameAs`.
 - Encyclopedia: `Article` + `DefinedTerm` (`name` = canonical Latin, `description` = the one-line definition, `sameAs` = Wikidata / NCBI) + `about` → the same entity. schema.org carries a pending `Taxon` type — **not on file**; Jurgen decides after checking validator eligibility.
 - **`citation`** on `Article` / `NewsArticle`: array of `ScholarlyArticle` objects with `headline`, `author`, `datePublished`, `isPartOf` (journal), `sameAs` = `https://doi.org/…`. It mirrors the visible Sources section — schema mirrors visible content only (seo-master law).
 - `Dataset` **only** if a downloadable table is actually published (e.g. the taxon synonym CSV). No file, no `Dataset`.
-- Two images per article (preview + hero): both `ImageObject`, `Article.image` = hero, both in `sitemap-images.xml`, real `<img>` in HTML — the reachability list that shipped on the science cover 2026-07-24.
+- Three images per article (Owner 2026-09-16 — card + macro world + infographic plate, where it was preview + hero before): all `ImageObject`, `Article.image` = the array `[card, preview, plate || hero]` with the **card first**, because that is the image the page actually leads with and the one a model shows beside the answer. The card and the plate are that locale's own files; the macro world is shared. All in `sitemap-images.xml`, all real `<img>` in HTML — the reachability list that shipped on the science cover 2026-07-24.
 **4d · "Sources" section format** (mirrors EN_MASTER, extended):
 ```
 ## Sources
@@ -117,7 +117,7 @@ Run on built HTML + front-matter, every article, every locale. Any line red → 
 6. **No unsourced percentage:** every `\d+([.,]\d+)?\s?%` in the body sits in a sentence or table row carrying a `[n]`, `doi:` or `PMID:` token.
 7. Encyclopedia pages: `wikidata_qid` matches `^Q\d+$`; `sameAs` contains a wikidata.org URL; genus / species also carry `ncbi_taxid`.
 8. ≥5 `<h2>` and ≥1 `<table>`; a `## Sources` heading exists and is the last content section.
-9. Both images present — preview + hero — each with `alt`, both in `sitemap-images.xml`, hero in `ImageObject`.
+9. All three images present — card + macro world + infographic plate — each with `alt`, all in `sitemap-images.xml`, all in `ImageObject`, and `Article.image` an array led by the card. The card and the plate file names end in this page's own locale; the card's `alt` repeats the words baked into the frame verbatim.
 10. If any SKU name appears: `product_claims_confirmed_by` is set and its first occurrence is below 50 % of body length; hreflang lists only locales whose file exists.
 
 Owner of the script: Jurgen (site technical). Owner of the truth it checks: Magnus. Owner of what "cited" means afterwards: this seat.
