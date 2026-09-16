@@ -89,12 +89,17 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: oval Akkermansia cells settle into the gut's mucus layer and graze a shallow hollow, and the lining below pushes up fresh mucus that thickens the layer"
 - ru preview alt: "Иллюстрация: овальные клетки Akkermansia парами покоятся глубоко в прозрачном слизистом геле, под одной парой поднимается золотистая капля свежей слизи"
 - ru hero alt: "Иллюстрация: овальные клетки Akkermansia оседают в слое слизи кишечника и выедают неглубокую ямку, а слизистая снизу выталкивает свежую слизь, и слой становится толще"
+- de preview alt: "Illustration: ovale Akkermansia-Zellen ruhen paarweise in einem klaren Schleimgel, unter einem Paar steigt ein goldenes Tröpfchen frischen Schleims auf"
+- de hero alt: "Illustration: ovale Akkermansia-Zellen setzen sich in die Schleimschicht des Darms und weiden eine flache Mulde ab, und die Schleimhaut darunter schiebt frischen Schleim nach, der die Schicht dicker macht"
 - en card alt: "Is eating mucus good news? — a woman in her forties tips chopped vegetables into a pan in her morning kitchen"
 - ru card alt: "Она полезная или вредная? — женщина за сорок высыпает нарезанные овощи в сковороду на утренней кухне"
+- de card alt: "Ist Schleimfressen gut für mich? — eine Frau um die vierzig gibt geschnittenes Gemüse in eine Pfanne in ihrer Küche"
 - en card question: "Is eating mucus good news?"
 - ru card question: "Она полезная или вредная?"
+- de card question: "Ist Schleimfressen gut für mich?"
 - en plate lines: "First — it settles in your mucus · Then — it grazes a hollow · So — the lining renews it; 1 % of cells"
 - ru plate lines: "Сначала — она садится в вашу слизь · Затем — выедает ямку · Итог — слой обновляется; 1 % клеток"
+- de plate lines: "Zuerst — sie siedelt sich in Ihrem Schleim an · Dann — sie weidet eine Mulde ab · Ergebnis — die Schleimhaut erneuert ihn; 1 % der Zellen"
 
 ---
 

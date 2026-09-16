@@ -67,6 +67,11 @@ Alt lines written 2026-09-16 against the accepted frames (RU register: Alexandra
 - ru card question: "Кто доносит витамин?"
 - en plate lines: "First — gut bacteria wake the lining · Then — carrier proteins pick up retinol · So — under 2 % reaches immune cells"
 - ru plate lines: "Сначала — бактерии будят стенку кишки · Затем — белки-носильщики берут витамин · Итог — до иммунных клеток меньше 2 %"
+- de preview alt: "Illustration: segmentierte Bakterienfäden, mit ihren Spitzen in einer weichen Falte der Darmschleimhaut verwurzelt, ein kleiner goldener Schimmer dort, wo einer eintritt"
+- de hero alt: "Illustration: segmentierte Bakterien, in der Darmschleimhaut verwurzelt, deren Zellen goldene Vitamin-A-Tropfen halten; ein Tropfen geht an eine verzweigte Immunzelle und weiter an T-Zellen"
+- de card alt: "Wer bringt das Vitamin hin? — eine Frau schneidet am Küchentisch Karotten unter einer Abendlampe"
+- de card question: "Wer bringt das Vitamin hin?"
+- de plate lines: "Zuerst — Darmbakterien wecken die Schleimhaut · Dann — Transportproteine nehmen das Retinol auf · Ergebnis — weniger als 2 % erreichen die Immunzellen"
 
 ---
 

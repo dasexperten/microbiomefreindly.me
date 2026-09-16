@@ -36,6 +36,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Кишечная палочка всегда опасна?"
 - en plate lines: "First — oxygen seeps from the lining · Then — these rods breathe it away · So — over 90 % of us carry them"
 - ru plate lines: "Сначала — от стенки идёт кислород · Затем — палочки его забирают · Итог — их носят больше 90 % людей"
+- de preview alt: "Illustration: stäbchenförmige E.-coli-Zellen mit einem Saum feiner Fäden neben einer Gasblase im feuchten Darminhalt, ein Faden golden beleuchtet"
+- de hero alt: "Illustration: Spuren von Sauerstoff steigen von der Darmschleimhaut auf, die bewimperten E.-coli-Stäbchen daneben nehmen sie auf, und dahinter füllen strenge Anaerobier den luftlosen Raum"
+- de card alt: "Ist E. coli immer gefährlich? — eine Frau um die dreißig hält die Gabel über einer Schüssel Salat inne"
+- de card question: "Ist E. coli immer gefährlich?"
+- de plate lines: "Zuerst — Sauerstoff sickert aus der Wand · Dann — diese Stäbchen veratmen ihn · Ergebnis — über 90 % der Menschen tragen sie"
 
 ## Notes for Marika and Lisa (plain words, not prompt text)
 

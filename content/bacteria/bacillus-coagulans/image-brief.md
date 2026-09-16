@@ -30,12 +30,17 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: dormant Bacillus coagulans spores arrive in the gut, one splits open as a coral rod grows out, and the rods drift past the lining and away without settling"
 - ru preview alt: "Иллюстрация: палочка Bacillus coagulans с одной золотистой овальной спорой, рядом свободные споры на сухой растительной оболочке"
 - ru hero alt: "Иллюстрация: спящие споры Bacillus coagulans попадают в кишечник, одна раскрывается и из неё вырастает коралловая палочка, а палочки проплывают мимо слизистой и уходят, не оседая"
+- de preview alt: "Illustration: ein stäbchenförmiges Bacillus coagulans mit einer goldenen ovalen Spore, daneben freie Sporen auf einer trockenen Pflanzenhülse"
+- de hero alt: "Illustration: ruhende Sporen von Bacillus coagulans kommen im Darm an, eine springt auf und ein korallrotes Stäbchen wächst heraus, und die Stäbchen treiben an der Schleimhaut vorbei und davon, ohne sich anzusiedeln"
 - en card alt: "Do probiotic spores stay? — a woman in her thirties waits at a bus stop with her bag in cold daylight"
 - ru card alt: "Пробиотик остаётся в кишечнике? — женщина за тридцать ждёт автобус с сумкой на плече в холодный день"
+- de card alt: "Bleiben probiotische Sporen im Darm? — eine Frau um die dreißig wartet mit Tasche an der Haltestelle im kalten Licht"
 - en card question: "Do probiotic spores stay?"
 - ru card question: "Пробиотик остаётся в кишечнике?"
+- de card question: "Bleiben probiotische Sporen im Darm?"
 - en plate lines: "First — spores arrive asleep and whole · Then — one wakes and sours the sugar · So — they drift past and leave"
 - ru plate lines: "Сначала — споры приходят спящими · Затем — одна прорастает в палочку · Итог — проплывают мимо и уходят"
+- de plate lines: "Zuerst — Sporen kommen schlafend und ganz an · Dann — eine wacht auf und säuert den Zucker · Ergebnis — sie treiben vorbei und gehen"
 
 ## Extra lines for Lisa and Mina
 

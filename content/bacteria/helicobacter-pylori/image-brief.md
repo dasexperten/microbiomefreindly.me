@@ -36,6 +36,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Носит половина мира — и опасна?"
 - en plate lines: "First — it makes a neutral cloud in acid · Then — it drills down into the mucus · So — it fastens to the lining for life"
 - ru plate lines: "Сначала — гасит кислоту вокруг себя · Затем — ввинчивается в слизь · Итог — держится на стенке всю жизнь"
+- de preview alt: "Illustration: schraubenförmige Bakterien mit einem Geißelbüschel an einem Ende liegen im Schleim über der Magenschleimhaut, eines in einer klaren Blase"
+- de hero alt: "Illustration: ein schraubenförmiges Bakterium hüllt sich in der Magensäure in eine kleine neutrale Wolke, bohrt sich in den Schleim hinab und heftet sich neben bereits angesiedelten an die Schleimhaut"
+- de card alt: "So verbreitet und trotzdem gefährlich? — eine Frau hält im Flur inne, die Hand flach unter den Rippen"
+- de card question: "So verbreitet und trotzdem gefährlich?"
+- de plate lines: "Zuerst — es umgibt sich in der Säure mit einer neutralen Wolke · Dann — es bohrt sich in den Schleim · Ergebnis — es hält lebenslang an der Wand"
 ```
 
 ---

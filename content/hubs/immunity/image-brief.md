@@ -53,6 +53,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Откуда берётся терпимость?"
 - en plate lines: "First — bacteria signal across the wall · Then — the patrol cell stays quiet · So — tolerance holds, no alarm"
 - ru plate lines: "Сначала — бактерии сигналят через стенку · Затем — клетка-страж остаётся спокойной · Итог — мир держится, тревоги нет"
+- de preview alt: "Illustration: ein Makrophage unter der Darmschleimhaut legt einen korallenroten Arm um ein stäbchenförmiges Bakterium, in einem warmen Lichtfleck"
+- de hero alt: "Illustration: Bakterien über der eine Zelle dicken Darmschleimhaut geben kleine Moleküle ab; ein Makrophage darunter nimmt sie auf und bleibt ruhig neben goldenen regulatorischen T-Zellen"
+- de card alt: "Wie lernt der Körper Toleranz? — eine Frau hält am leeren Spielplatztor im tiefen Licht des Nachmittags"
+- de card question: "Wie lernt der Körper Toleranz?"
+- de plate lines: "Zuerst — Bakterien melden sich durch die Wand · Dann — die Wachzelle bleibt still · Ergebnis — Toleranz hält, kein Alarm"
 
 Only these four descriptive lines change per language; the pixels stay the same.
 
@@ -71,3 +76,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** the macrophage's arm closing into a cup around one rod-shaped bacterium, the cup the sharpest point; the single row of lining cells softly out of focus above. Subject inside the middle 1.91:1 band. **World:** loose, soft, fibre-threaded tissue just beneath the gut lining; cool blue-grey twilight with one warm spot of light falling on the macrophage. **Accent:** coral on the cupped arm around the bacterium only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** the bacterial crowd above the thin lining releasing small molecules → the quiet macrophage beneath taking them in → the calm group of small round regulatory T cells beside it, left to right. **Light:** even pearl-grey light from above with a faint warm rim from behind. **Accent:** gold on the regulatory T cells only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the small mitten in her hand; the empty swings soft behind her. **Empty field:** left side, 45 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 16:40 late autumn, low sun from the right, warm and long, the ground in shade.
+
+- es preview alt: "Ilustración: un macrófago bajo la mucosa del intestino rodea con un brazo coral a una bacteria alargada en un punto de luz cálida"
+- es hero alt: "Ilustración: las bacterias sobre la mucosa del intestino, de una sola célula de grosor, sueltan moléculas pequeñas; debajo, un macrófago las recoge y sigue en calma junto a linfocitos T reguladores dorados"
+- es card alt: "¿Cómo se aprende la tolerancia? — una mujer se detiene ante la reja de un parque infantil vacío bajo el sol de la tarde"
+- es card question: "¿Cómo se aprende la tolerancia?"
+- es plate lines: "Primero — las bacterias avisan a través de la pared · Luego — la célula de guardia sigue tranquila · Resultado — la tolerancia aguanta, sin alarma"

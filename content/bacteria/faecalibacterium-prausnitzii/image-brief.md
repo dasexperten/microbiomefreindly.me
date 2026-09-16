@@ -99,6 +99,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Чем питается стенка кишечника?"
 - en plate lines: "First — it hides where no air reaches · Then — it eats what neighbours drop · So — the lining is fed; over 5 % of all"
 - ru plate lines: "Сначала — прячется там, где нет воздуха · Затем — ест то, что бросили соседи · Итог — стенка сыта; больше 5 % бактерий"
+- de preview alt: "Illustration: schlanke stäbchenförmige Bakterien liegen in dichtem Schleim über der Dickdarmschleimhaut, von ihnen sinken winzige korallenfarbene Kügelchen herab"
+- de hero alt: "Illustration: unter zwanzig Darmbakterien in luftlosem Schleim nimmt ein schlankes Stäbchen die Reste seiner Nachbarn auf und gibt goldene Butyrat-Kügelchen ab, die in die Dickdarmschleimhaut übergehen"
+- de card alt: "Was ernährt die Darmschleimhaut? — eine junge Frau isst Haferbrei auf ihrem Balkon in der letzten Sonne"
+- de card question: "Was ernährt die Darmschleimhaut?"
+- de plate lines: "Zuerst — es versteckt sich, wo keine Luft hinkommt · Dann — es isst, was die Nachbarn fallen lassen · Ergebnis — die Schleimhaut ist satt; über 5 % aller"
 ```
 
 ## Notes for Lisa and Otto (plain words)

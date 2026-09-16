@@ -62,6 +62,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Большое число — это лучше?"
 - en plate lines: "First — doubling the dose helped once · Then — the same strain, far more of it · So — 100× more changed nothing"
 - ru plate lines: "Сначала — двойная доза раз помогла · Затем — тот же штамм, доза больше · Итог — в 100 раз больше — то же самое"
+- de preview alt: "Illustration: eine kleine Gruppe stäbchenförmiger Bakterien neben einer hundertmal größeren Menge derselben Stäbchen, auf glattem Schleim"
+- de hero alt: "Illustration: stäbchenförmige Probiotika-Bakterien auf Darmschleim; eine verdoppelte Gruppe lässt die Schleimhaut ruhiger zurück, eine hundertmal größere Menge verändert gar nichts"
+- de card alt: "Ist die größere Zahl besser? — ein Mann mit leeren Händen im Gemüsegang am späten Vormittag"
+- de card question: "Ist die größere Zahl besser?"
+- de plate lines: "Zuerst — doppelte Dosis half einmal · Dann — derselbe Stamm, viel mehr davon · Ergebnis — 100 × mehr änderte nichts"
 
 **8. What must never appear**
 

@@ -29,12 +29,17 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: thick-walled rods break down a resistant starch granule into gold butyrate droplets that the colon lining takes in; six of the ten rods carry a spore"
 - ru preview alt: "Иллюстрация: толстостенные палочковидные бактерии, у двух овальные споры, лежат на грануле крахмала, изъеденной до кораллового цвета там, где они питаются"
 - ru hero alt: "Иллюстрация: толстостенные палочки разбирают гранулу резистентного крахмала на золотистые капли бутирата, которые впитывает слизистая толстой кишки; у шести из десяти палочек есть спора"
+- de preview alt: "Illustration: dickwandige Stäbchenbakterien, zwei davon mit ovalen Sporen, liegen auf einem Stärkekorn, das dort korallrot angefressen ist, wo sie fressen"
+- de hero alt: "Illustration: dickwandige Stäbchen zerlegen ein Korn resistenter Stärke in goldene Butyrattröpfchen, die die Dickdarmschleimhaut aufnimmt; sechs der zehn Stäbchen tragen eine Spore"
 - en card alt: "Do gut bacteria make you fat? — a woman in her fifties stands beside the bathroom scale at dusk, unimpressed"
 - ru card alt: "От бактерий полнеют? — женщина за пятьдесят стоит у напольных весов в ванной в сумерках"
+- de card alt: "Machen Darmbakterien dick? — eine Frau um die fünfzig steht in der Dämmerung unbeeindruckt neben der Badezimmerwaage"
 - en card question: "Do gut bacteria make you fat?"
 - ru card question: "От бактерий полнеют?"
+- de card question: "Machen Darmbakterien dick?"
 - en plate lines: "First — starch reaches the colon whole · Then — rods ferment it to butyrate · So — the lining eats; spores in 50–60 %"
 - ru plate lines: "Сначала — крахмал доходит целым · Затем — палочки делают из него бутират · Итог — стенка сыта; 50–60 % со спорами"
+- de plate lines: "Zuerst — Stärke erreicht den Dickdarm ganz · Dann — Stäbchen vergären sie zu Butyrat · Ergebnis — die Schleimhaut isst; Sporen bei 50–60 %"
 
 ## Notes for Marika and Lisa
 

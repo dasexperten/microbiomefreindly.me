@@ -71,6 +71,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Это всё-таки желудок?"
 - en plate lines: "First — the coating closes off the air · Then — bacteria strip sulphur from it · So — mouth 87 %, gut 1 %"
 - ru plate lines: "Сначала — налёт закрывает доступ воздуха · Затем — бактерии отщепляют серу · Итог — рот 87 %, кишечник 1 %"
+- de preview alt: "Illustration: kurze, dicke anaerobe Stäbchen tief in einer schmalen Zahnfleischfurche, feine Fahnen Schwefelgas steigen daraus auf"
+- de hero alt: "Illustration: viele Fahnen Schwefelgas steigen von Bakterien im Belag auf dem hinteren Zungenrücken auf, während aus der Tiefe darunter nur eine einzige dünne Fahne kommt"
+- de card alt: "Kommt das aus dem Magen? — eine Frau vormittags in ihrem geparkten Auto, die Handfläche flach auf dem Bauch"
+- de card question: "Kommt das aus dem Magen?"
+- de plate lines: "Zuerst — der Belag schließt die Luft aus · Dann — Bakterien lösen Schwefel heraus · Ergebnis — Mund 87 %, Darm 1 %"
 
 ## 8. What must never appear
 

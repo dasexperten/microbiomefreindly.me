@@ -77,6 +77,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Сколько клетчатки в день?"
 - en plate lines: "First — three kinds of fibre arrive · Then — only one of them is eaten · So — 25–29 g a day, then it levels"
 - ru plate lines: "Сначала — приходят три вида клетчатки · Затем — едят только один из них · Итог — 25–29 г в день, дальше плато"
+- de preview alt: "Illustration: gegabelte Darmbakterien zerlegen weiche, verzweigte Ballaststoffketten, während ein glattes Gelband vorbeigleitet"
+- de hero alt: "Illustration: drei Ballaststoffe erreichen die Darmschleimhaut; die Bakterien fressen nur die verzweigten Ketten, ein Gelband und ein Kleieteilchen gehen unversehrt durch, und größere Portionen bringen nichts mehr dazu"
+- de card alt: "Wie viel Ballaststoff am Tag? — eine Frau früh am Morgen am Esstisch, vor ihr eine Schale Haferbrei"
+- de card question: "Wie viel Ballaststoff am Tag?"
+- de plate lines: "Zuerst — drei Arten Ballaststoff kommen an · Dann — nur eine davon wird gefressen · Ergebnis — 25–29 g am Tag, dann flacht es ab"
 
 ## 8. What must never appear
 

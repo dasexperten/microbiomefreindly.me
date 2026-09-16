@@ -62,6 +62,11 @@ Shown as **proportion in the delicate lane**: of every twenty free rods that ent
 - ru card question: "С едой или натощак?"
 - en plate lines: "First — the crowd meets the acid · Then — spores pass, delicate cells fall · So — 18.5 % arrive, few settle"
 - ru plate lines: "Сначала — все вместе входят в кислоту · Затем — споры проходят, нежные гибнут · Итог — доходит 18,5 %, но не селится"
+- de preview alt: "Illustration: eine Stäbchenzelle mit gepanzerter Spore und drei freie Sporen liegen unversehrt in der Säure, während die zarten Stäbchen ringsum zerfallen"
+- de hero alt: "Illustration: geschluckte Bakterien durchqueren die Magensäure; die meisten freien Stäbchen zerfallen, Sporen und ein umhüllter Zellhaufen kommen unversehrt durch, an der Darmschleimhaut setzen sich zwei Überlebende im Schleim fest, andere treiben vorbei"
+- de card alt: "Zum Essen oder nüchtern? — ein Mann über seinem Mittagessen an einem Kantinentisch mitten am Tag"
+- de card question: "Zum Essen oder nüchtern?"
+- de plate lines: "Zuerst — alle treffen auf die Säure · Dann — Sporen kommen durch, zarte Zellen fallen · Ergebnis — 18,5 % kommen an, kaum eine bleibt"
 
 **8. What must never appear**
 

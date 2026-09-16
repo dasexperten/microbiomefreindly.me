@@ -36,6 +36,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Ей место во рту?"
 - en plate lines: "First — round settlers form a layer · Then — long spindles lie across them · So — the plaque holds as one"
 - ru plate lines: "Сначала — первый слой круглых клеток · Затем — поперёк ложатся веретёна · Итог — налёт держится как одно целое"
+- de preview alt: "Illustration: ein spindelförmiges Bakterium liegt wie ein Balken zwischen Gruppen runder Zellen in einem Riff aus Zahnbelag, von unten beleuchtet"
+- de hero alt: "Illustration: runde Erstbesiedler bilden eine Schicht auf einer mineralischen Oberfläche, quer darüber liegen lange spindelförmige Zellen, und an ihnen heften sich spätere Zellen anderer Formen zu einer geordneten Gemeinschaft an"
+- de card alt: "Gehört die in meinen Mund? — eine Frau trocknet sich spätabends die Hände am Waschbecken im Bad"
+- de card question: "Gehört die in meinen Mund?"
+- de plate lines: "Zuerst — runde Erstbesiedler bilden eine Schicht · Dann — lange Spindeln legen sich quer darüber · Ergebnis — der Belag hält als Ganzes"
 ```
 
 ## The single idea both images must carry

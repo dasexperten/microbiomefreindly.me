@@ -66,6 +66,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Полоскать рот каждый день?"
 - en plate lines: "First — the rinse does not choose · Then — the mouth community thins · So — nitrite falls by 90 %"
 - ru plate lines: "Сначала — антисептик не выбирает · Затем — своих бактерий меньше · Итог — нитрита на 90 % меньше"
+- de preview alt: "Illustration: eine klare Spülung zieht über einen gemischten Rasen aus Stäbchen, runden Zellen und Spindeln und lässt ihn hinter ihrer Kante dünn zurück"
+- de hero alt: "Illustration: eine Spülung wischt den gemischten Bakterienrasen auf der Zungenoberfläche fort, und der Strom von Teilchen, den er zu einem Blutgefäß schickt, fällt auf ein Zehntel"
+- de card alt: "Soll ich täglich spülen? — eine Frau hält im Flur inne, den Mantel halb an, kurz nach acht"
+- de card question: "Soll ich täglich spülen?"
+- de plate lines: "Zuerst — die Spülung wählt nicht aus · Dann — die Gemeinschaft im Mund dünnt aus · Ergebnis — Nitrit fällt um 90 %"
 
 **8. What must never appear**
 

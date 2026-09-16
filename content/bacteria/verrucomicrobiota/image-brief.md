@@ -102,6 +102,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Едок слизи — это хорошо?"
 - en plate lines: "First — it grazes the gut's mucus coat · Then — the lining feeds and makes more · So — without fibre the coat wears thin"
 - ru plate lines: "Сначала — объедает слизь кишечника · Затем — стенка кормится и даёт новую · Итог — без клетчатки слой истончается"
+- de preview alt: "Illustration: ovale Bakterien ruhen zwischen gespannten Schleimfäden über der Darmschleimhaut, ein Faden franst dort aus, wo eine Zelle frisst"
+- de hero alt: "Illustration: ovale Bakterien weiden die Schleimschicht über der Dickdarmschleimhaut ab, die goldenen Brennstoff aufnimmt und frischen Schleim bildet; weiter rechts tragen gedrängte Bakterien die Schicht zu einem dünnen Schleier ab"
+- de card alt: "Ist der Schleimfresser gut? — eine Frau wählt samstagmorgens Blattgemüse in einer Markthalle"
+- de card question: "Ist der Schleimfresser gut?"
+- de plate lines: "Zuerst — es weidet den Schleim des Darms · Dann — die Schleimhaut nährt sich und bildet neu · Ergebnis — ohne Ballaststoffe wird die Schicht dünn"
 ```
 
 ---

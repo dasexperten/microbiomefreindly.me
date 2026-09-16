@@ -55,6 +55,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Бактерии влияют на настроение?"
 - en plate lines: "First — gut microbes give off molecules · Then — a gut cell senses and signals · So — the nerve carries it, they stay"
 - ru plate lines: "Сначала — микробы выделяют молекулы · Затем — клетка стенки их улавливает · Итог — нерв несёт сигнал, они на месте"
+- de preview alt: "Illustration: ein Netz aus Nervenzellknoten, verbunden durch Faserbündel, auf der Muskelwand des Darms; ein Knoten ist limettengrün getönt"
+- de hero alt: "Illustration: Darmbakterien geben kleine Moleküle ab, eine Hormonzelle der Darmschleimhaut nimmt sie wahr, und ein goldenes Signal läuft über einen Nerv in Richtung Gehirn"
+- de card alt: "Bakterien und Stimmung? — eine Frau am Wohnzimmerfenster in der Dämmerung, eine Hand im Nacken"
+- de card question: "Bakterien und Stimmung?"
+- de plate lines: "Zuerst — Darmmikroben geben Moleküle ab · Dann — eine Darmzelle nimmt wahr und meldet · Ergebnis — der Nerv trägt es, sie bleiben"
 
 Only these descriptive lines change per language; the pixels stay the same.
 
@@ -73,3 +78,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one knot of rounded nerve cell bodies at the centre, sharp, with the fibre bundles leading off it toward neighbouring knots that soften into shallow depth; the parallel spindle cells of the muscle wall as ground. Subject inside the middle 1.91:1 band. **World:** the ribbed muscular wall of the intestine with the nerve net lying across it; silvery overcast light, even and diffuse, cool-neutral, almost shadowless. **Accent:** lime on the central nerve-cell knot only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** bacteria releasing small molecules → the flask-shaped hormone cell in the lining taking them in → the signal running down the nerve fibre and out along the vagus bundle at the right edge, left to right. **Light:** soft warm lamplight from the upper left, amber-neutral, gentle shadows. **Accent:** gold on the signal only — the molecules taken in, the granules at the cell's base, the pulse along the fibre.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her eyes and the hand at the back of her neck. **Empty field:** right, 47 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 20:40, last blue daylight from the window on her face, one warm lamp far behind her.
+
+- es preview alt: "Ilustración: una red de racimos de células nerviosas unidos por haces de fibras sobre la pared muscular del intestino; un racimo teñido de lima"
+- es hero alt: "Ilustración: las bacterias del intestino sueltan moléculas pequeñas, una célula hormonal de la mucosa las percibe y una señal dorada recorre un nervio hacia el cerebro"
+- es card alt: "¿Las bacterias afectan al ánimo? — una mujer junto a la ventana de la sala al anochecer, la mano en la nuca"
+- es card question: "¿Las bacterias afectan al ánimo?"
+- es plate lines: "Primero — los microbios sueltan moléculas · Luego — una célula del intestino lo percibe y avisa · Resultado — el nervio lo lleva, ellas se quedan"

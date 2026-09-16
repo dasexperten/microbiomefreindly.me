@@ -33,6 +33,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Это правда плохие бактерии?"
 - en plate lines: "First — a few rods in an airless crowd · Then — the sore lining leaks oxygen · So — they bloom and the rest thin out"
 - ru plate lines: "Сначала — их мало в бескислородной толпе · Затем — стенка пропускает кислород · Итог — они множатся, других меньше"
+- de preview alt: "Illustration: kurze stäbchenförmige Bakterien sammeln sich in einem dünnen limettengrünen Dunst dicht über den runden Zellen der Darmschleimhaut"
+- de hero alt: "Illustration: wenige kurze Stäbchen leben unter vielen Darmbakterien an einer luftlosen Schleimhaut; als die Schleimhaut einen feinen Sauerstoffdunst durchlässt, vermehren sich die Stäbchen und die anderen werden weniger"
+- de card alt: "Sind das die bösen Bakterien? — eine Frau kniet in der Abendsonne vor den Bohnenreihen eines Schrebergartens"
+- de card question: "Sind das die bösen Bakterien?"
+- de plate lines: "Zuerst — wenige Stäbchen in luftloser Menge · Dann — die wunde Schleimhaut lässt Sauerstoff durch · Ergebnis — sie vermehren sich, der Rest schwindet"
 ```
 
 ## Editorial notes for Lisa, Otto and Marika (not prompt text)

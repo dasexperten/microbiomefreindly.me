@@ -63,6 +63,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Что теперь есть?"
 - en plate lines: "First — the course leaves it bare · Then — fibre and ferments refill it · So — 9 species missing at day 180"
 - ru plate lines: "Сначала — после курса поле пустое · Затем — клетчатка и квашеное кормят · Итог — 9 видов нет и на 180-й день"
+- de preview alt: "Illustration: Stäbchen und gegabelte Darmbakterien siedeln sich im weichen Morgenlicht wieder an zerrissenen Pflanzenzellwänden an"
+- de hero alt: "Illustration: Pflanzenfaser über der Darmschleimhaut, nach Antibiotika fast leer, dann füllt sie sich entlang ihrer Stränge mit Bakterien, und zuletzt ist sie wieder dicht besetzt, doch neun Plätze bleiben frei"
+- de card alt: "Was soll ich jetzt essen? — eine Frau vormittags am Marktstand, eine Papiertüte mit Gemüse in der Hand"
+- de card question: "Was soll ich jetzt essen?"
+- de plate lines: "Zuerst — die Kur lässt das Feld leer · Dann — Ballaststoffe und Fermentiertes füllen es · Ergebnis — 9 Arten fehlen an Tag 180"
 
 **8. What must never appear**
 

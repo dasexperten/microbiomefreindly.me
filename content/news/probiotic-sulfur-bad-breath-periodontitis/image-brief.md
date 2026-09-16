@@ -71,6 +71,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Отчего на самом деле пахнет?"
 - en plate lines: "First — mouth microbes eat protein · Then — an enzyme cuts the sulfur free · So — that gene fell 98 %, in a dish"
 - ru plate lines: "Сначала — микробы рта едят белок · Затем — фермент отрывает серу · Итог — ген притих на 98 %, в пробирке"
+- de preview alt: "Illustration: spindelförmige und gedrungene Bakterien im Belag zwischen runden Zungenpapillen, winzige goldene Gasbläschen steigen auf"
+- de hero alt: "Illustration: Anaerobier des Mundes voller schwefelabspaltender Enzyme geben winzige Bläschen ab; Flüssigkeit von Milchsäurebakterien spült darüber, und die Enzyme verschwinden fast"
+- de card alt: "Woher kommt Mundgeruch wirklich? — eine Frau an ihrer Wohnungstür haucht in die hohle Hand"
+- de card question: "Woher kommt Mundgeruch wirklich?"
+- de plate lines: "Zuerst — Mundmikroben essen Eiweiß · Dann — ein Enzym trennt den Schwefel ab · Ergebnis — das Gen fiel um 98 %, in der Schale"
 
 ---
 
@@ -100,3 +105,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a nest of long spindle rods and stubby oval rods in the soft coating at the foot of two rounded papilla domes, with a thin column of tiny bubbles lifting from them; the nearest bubbles are sharpest. Subject inside the middle 1.91:1 band. **World:** the tongue coating as a cell-scale landscape — rounded papilla domes draped in a soft, pale, semi-transparent film with deep shaded crevices between them; sharp raking light from low right, long shadows across the domes, clear neutral-warm. **Accent:** gold on the rising gas bubbles only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left to right — in a crevice of the coating, a stubby translucent cell holding fifty bead-like enzyme bodies, spindle rods beside it and tiny bubbles lifting; centre, clear fluid from short chains of lactic-acid rods seeping over them; right, the same stubby cell carrying one enzyme body, the crevice calm. **Light:** low soft light from the front-right, warm-neutral, shadows stretching back into the frame. **Accent:** coral on the bead-like enzyme bodies only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** the cupped hand at her mouth and her eyes above it. **Empty field:** left side, 44 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 08:15, hard morning light from a doorway on the right, warm-neutral, the hall behind her in soft shade.
+
+- es preview alt: "Ilustración: bacterias en huso y bacterias rechonchas en la capa entre las papilas redondeadas de la lengua, con burbujitas doradas de gas subiendo"
+- es hero alt: "Ilustración: anaerobios de la boca llenos de enzimas que cortan azufre sueltan burbujitas; el líquido de unas bacterias lácticas los baña y las enzimas casi desaparecen"
+- es card alt: "¿Qué causa el mal aliento? — una mujer en la puerta de su casa echa el aliento en la mano ahuecada"
+- es card question: "¿Qué causa el mal aliento?"
+- es plate lines: "Primero — los microbios de la boca comen proteína · Luego — una enzima libera el azufre · Resultado — ese gen bajó 98 %, en placa"

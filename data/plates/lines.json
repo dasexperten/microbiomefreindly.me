@@ -24,6 +24,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Kommen Antibiotika aus der Erde?",
+        "plateLines": "Zuerst — Fäden wachsen in feuchter Erde · Dann — sie geben Antibiotika ab · Ergebnis — zwei Drittel der unseren begannen hier"
+      },
       "en": {
         "question": "Where did our antibiotics begin?",
         "plateLines": "First — threads grow in damp soil · Then — they release antibiotics · So — two-thirds of ours began here"
@@ -59,6 +63,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Ist Schleimfressen gut für mich?",
+        "plateLines": "Zuerst — sie siedelt sich in Ihrem Schleim an · Dann — sie weidet eine Mulde ab · Ergebnis — die Schleimhaut erneuert ihn; 1 % der Zellen"
+      },
       "en": {
         "question": "Is eating mucus good news?",
         "plateLines": "First — it settles in your mucus · Then — it grazes a hollow · So — the lining renews it; 1 % of cells"
@@ -94,6 +102,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Machen Darmbakterien dick?",
+        "plateLines": "Zuerst — Stärke erreicht den Dickdarm ganz · Dann — Stäbchen vergären sie zu Butyrat · Ergebnis — die Schleimhaut isst; Sporen bei 50–60 %"
+      },
       "en": {
         "question": "Do gut bacteria make you fat?",
         "plateLines": "First — starch reaches the colon whole · Then — rods ferment it to butyrate · So — the lining eats; spores in 50–60 %"
@@ -129,6 +141,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Bleiben probiotische Sporen im Darm?",
+        "plateLines": "Zuerst — Sporen kommen schlafend und ganz an · Dann — eine wacht auf und säuert den Zucker · Ergebnis — sie treiben vorbei und gehen"
+      },
       "en": {
         "question": "Do probiotic spores stay?",
         "plateLines": "First — spores arrive asleep and whole · Then — one wakes and sours the sugar · So — they drift past and leave"
@@ -164,6 +180,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Was passiert ohne Ballaststoffe?",
+        "plateLines": "Zuerst — Pflanzenfaser erreicht sie ganz · Dann — sie zerlegen sie für Sie · Ergebnis — ohne Faser fressen sie Ihre Schleimhaut"
+      },
       "en": {
         "question": "What happens without fibre?",
         "plateLines": "First — plant fibre reaches them whole · Then — they take it apart for you · So — no fibre, and they eat your lining"
@@ -199,6 +219,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Sind alle Bifidobakterien gut?",
+        "plateLines": "Zuerst — Milchzucker geht am Baby vorbei · Dann — diese Stäbchen fressen, was es nicht kann · Ergebnis — über 90 % ihres Darms gehören ihnen"
+      },
       "en": {
         "question": "Is every bifidobacterium good?",
         "plateLines": "First — milk sugars pass the baby by · Then — these rods eat what she cannot · So — over 90 % of her gut is theirs"
@@ -234,6 +258,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Träger — heißt das krank?",
+        "plateLines": "Zuerst — die Nachbarn halten es nieder · Dann — Antibiotika fegen sie fort · Ergebnis — die Sporen wachen auf und vermehren sich"
+      },
       "en": {
         "question": "Does carrying it mean illness?",
         "plateLines": "First — the neighbours hold it down · Then — antibiotics sweep them away · So — the spores wake and multiply"
@@ -269,6 +297,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Ist E. coli immer gefährlich?",
+        "plateLines": "Zuerst — Sauerstoff sickert aus der Wand · Dann — diese Stäbchen veratmen ihn · Ergebnis — über 90 % der Menschen tragen sie"
+      },
       "en": {
         "question": "Is E. coli always dangerous?",
         "plateLines": "First — oxygen seeps from the lining · Then — these rods breathe it away · So — over 90 % of us carry them"
@@ -304,6 +336,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Was ernährt die Darmschleimhaut?",
+        "plateLines": "Zuerst — es versteckt sich, wo keine Luft hinkommt · Dann — es isst, was die Nachbarn fallen lassen · Ergebnis — die Schleimhaut ist satt; über 5 % aller"
+      },
       "en": {
         "question": "What feeds your gut lining?",
         "plateLines": "First — it hides where no air reaches · Then — it eats what neighbours drop · So — the lining is fed; over 5 % of all"
@@ -339,6 +375,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Gehört die in meinen Mund?",
+        "plateLines": "Zuerst — runde Erstbesiedler bilden eine Schicht · Dann — lange Spindeln legen sich quer darüber · Ergebnis — der Belag hält als Ganzes"
+      },
       "en": {
         "question": "Should this live in my mouth?",
         "plateLines": "First — round settlers form a layer · Then — long spindles lie across them · So — the plaque holds as one"
@@ -374,6 +414,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "So verbreitet und trotzdem gefährlich?",
+        "plateLines": "Zuerst — es umgibt sich in der Säure mit einer neutralen Wolke · Dann — es bohrt sich in den Schleim · Ergebnis — es hält lebenslang an der Wand"
+      },
       "en": {
         "question": "Is something this common a pathogen?",
         "plateLines": "First — it makes a neutral cloud in acid · Then — it drills down into the mucus · So — it fastens to the lining for life"
@@ -409,6 +453,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Lebt Joghurt in Ihrem Darm?",
+        "plateLines": "Zuerst — Stäbchen essen Zucker in einer stillen Nische · Dann — ihre Säure säuert den Raum · Ergebnis — im Darm etwa 0,01 %"
+      },
       "en": {
         "question": "Does yogurt live in your gut?",
         "plateLines": "First — rods eat sugar in a still pocket · Then — their acid sours the space · So — in the gut about 0.01 %"
@@ -444,6 +492,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Gefunden — heißt das Krankheit?",
+        "plateLines": "Zuerst — es ruht still unter Nachbarn · Dann — das Gleichgewicht kippt, Enzyme schneiden · Ergebnis — die Tasche nässt und füttert es"
+      },
       "en": {
         "question": "Does carrying it mean disease?",
         "plateLines": "First — it rests quiet among neighbours · Then — the balance tips, its enzymes cut · So — the pocket seeps and feeds it"
@@ -479,6 +531,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Sind das die bösen Bakterien?",
+        "plateLines": "Zuerst — wenige Stäbchen in luftloser Menge · Dann — die wunde Schleimhaut lässt Sauerstoff durch · Ergebnis — sie vermehren sich, der Rest schwindet"
+      },
       "en": {
         "question": "Are these the bad bacteria?",
         "plateLines": "First — a few rods in an airless crowd · Then — the sore lining leaks oxygen · So — they bloom and the rest thin out"
@@ -514,6 +570,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Hat wirklich jeder den Karieskeim?",
+        "plateLines": "Zuerst — Zucker landet auf dem Belag · Dann — sie spinnen Leim und machen Säure · Ergebnis — der Schmelz darunter löst sich auf"
+      },
       "en": {
         "question": "Does everyone carry the cavity germ?",
         "plateLines": "First — sugar lands on the plaque · Then — they spin glue and make acid · So — the enamel under it dissolves"
@@ -549,6 +609,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Ist der Zungenkeim harmlos?",
+        "plateLines": "Zuerst — seit der Geburt auf der Zunge · Dann — es setzt eigene Antibiotika frei · Ergebnis — Rivalen stocken an seinem Rand"
+      },
       "en": {
         "question": "Is the tongue's own microbe safe?",
         "plateLines": "First — on the tongue since birth · Then — it releases its own antibiotics · So — rivals stall at its edge"
@@ -584,6 +648,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Ist der Schleimfresser gut?",
+        "plateLines": "Zuerst — es weidet den Schleim des Darms · Dann — die Schleimhaut nährt sich und bildet neu · Ergebnis — ohne Ballaststoffe wird die Schicht dünn"
+      },
       "en": {
         "question": "Is the mucus eater good?",
         "plateLines": "First — it grazes the gut's mucus coat · Then — the lining feeds and makes more · So — without fibre the coat wears thin"
@@ -619,6 +687,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Ist die Studie gescheitert?",
+        "plateLines": "Zuerst — tote Zellen legen sich in den Schleim · Dann — eine Darmzelle gibt GLP-1 ab · Ergebnis — 30 Milliarden Zellen, nichts bewegt"
+      },
       "en": {
         "question": "Did the trial fail?",
         "plateLines": "First — dead cells settle in the mucus · Then — one gut cell lets out GLP-1 · So — 30 billion cells, nothing moved"
@@ -654,6 +726,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Macht Zucker Krebs im Mund?",
+        "plateLines": "Zuerst — Zucker und Alkohol erreichen den Belag · Dann — die Mikroben machen ein Karzinogen · Ergebnis — das Peptid tötete 91,37 %, nicht alle"
+      },
       "en": {
         "question": "Does sugar cause mouth cancer?",
         "plateLines": "First — sugar and alcohol reach plaque · Then — the microbes make a carcinogen · So — the peptide killed 91.37 %, not all"
@@ -689,6 +765,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Kommt Long Covid aus dem Darm?",
+        "plateLines": "Zuerst — eine Bakteriengeißel bricht ab · Dann — Immunzellen lesen sie als Alarm · Ergebnis — Gewebe fern des Darms entzündet sich"
+      },
       "en": {
         "question": "Is long covid from the gut?",
         "plateLines": "First — a bacterial tail breaks off · Then — immune cells read it as alarm · So — tissue far from the gut inflames"
@@ -724,6 +804,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Ist im Babydarm Luft?",
+        "plateLines": "Zuerst — im jungen Darm ist noch Luft · Dann — ein Fett dichtet die Hülle ab · Ergebnis — dasselbe Fett lehrt die Immunzellen"
+      },
       "en": {
         "question": "Is a newborn gut airless?",
         "plateLines": "First — air still lingers in a new gut · Then — one fat seals the microbe's wall · So — the same fat teaches immune cells"
@@ -759,6 +843,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Bei wem wirkt es überhaupt?",
+        "plateLines": "Zuerst — dieselben toten Zellen, zwei Därme · Dann — im dichten Darm ist kein Platz · Ergebnis — nur der artenarme Darm bewegte sich"
+      },
       "en": {
         "question": "Why her and not you?",
         "plateLines": "First — the same dead cells, two guts · Then — a crowded gut has no room left · So — only the sparse gut changed"
@@ -794,6 +882,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Woher kommt Mundgeruch wirklich?",
+        "plateLines": "Zuerst — Mundmikroben essen Eiweiß · Dann — ein Enzym trennt den Schwefel ab · Ergebnis — das Gen fiel um 98 %, in der Schale"
+      },
       "en": {
         "question": "What actually causes bad breath?",
         "plateLines": "First — mouth microbes eat protein · Then — an enzyme cuts the sulfur free · So — that gene fell 98 %, in a dish"
@@ -829,6 +921,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Ist der Schmerz wirklich körperlich?",
+        "plateLines": "Zuerst — Stuhlflüssigkeit berührt die Darmwand · Dann — ein Enzym schneidet einen Nervenrezeptor an · Ergebnis — das Nervennetz feuert weit stärker"
+      },
       "en": {
         "question": "Is the pain really physical?",
         "plateLines": "First — stool fluid touches the gut wall · Then — an enzyme clips a nerve receptor · So — the nerve net fires far harder"
@@ -864,6 +960,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Wer bringt das Vitamin hin?",
+        "plateLines": "Zuerst — Darmbakterien wecken die Schleimhaut · Dann — Transportproteine nehmen das Retinol auf · Ergebnis — weniger als 2 % erreichen die Immunzellen"
+      },
       "en": {
         "question": "Who carries the vitamin there?",
         "plateLines": "First — gut bacteria wake the lining · Then — carrier proteins pick up retinol · So — under 2 % reaches immune cells"
@@ -899,6 +999,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Erholt sich mein Darm wieder?",
+        "plateLines": "Zuerst — Antibiotika räumen alles kahl · Dann — in sechs Wochen füllt es sich wieder · Ergebnis — 9 Arten fehlen weiterhin"
+      },
       "en": {
         "question": "Can I rebuild my gut?",
         "plateLines": "First — antibiotics strip it bare · Then — it refills in six weeks · So — 9 species are still missing"
@@ -934,6 +1038,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Zum Essen oder nüchtern?",
+        "plateLines": "Zuerst — alle treffen auf die Säure · Dann — Sporen kommen durch, zarte Zellen fallen · Ergebnis — 18,5 % kommen an, kaum eine bleibt"
+      },
       "en": {
         "question": "With food or empty stomach?",
         "plateLines": "First — the crowd meets the acid · Then — spores pass, delicate cells fall · So — 18.5 % arrive, few settle"
@@ -969,6 +1077,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Ist Zungenbelag ein Problem?",
+        "plateLines": "Zuerst — abgestoßene Zellen füllen die Rinnen · Dann — Bakterien ohne Luft machen den Geruch · Ergebnis — dünner Belag bei 90,7 %"
+      },
       "en": {
         "question": "Is a coated tongue bad?",
         "plateLines": "First — shed cells fill the grooves · Then — airless bacteria make the smell · So — a thin coating in 90.7 %"
@@ -1004,6 +1116,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Ihr half es. Warum mir nicht?",
+        "plateLines": "Zuerst — sechs Stämme sehen gleich aus · Dann — derselbe Darm, dieselben Bedingungen · Ergebnis — 4 von 6 bewirkten etwas"
+      },
       "en": {
         "question": "It helped her. Why not me?",
         "plateLines": "First — six strains look identical · Then — same gut, same conditions · So — 4 of 6 did anything"
@@ -1039,6 +1155,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Soll ich täglich spülen?",
+        "plateLines": "Zuerst — die Spülung wählt nicht aus · Dann — die Gemeinschaft im Mund dünnt aus · Ergebnis — Nitrit fällt um 90 %"
+      },
       "en": {
         "question": "Should I rinse every day?",
         "plateLines": "First — the rinse does not choose · Then — the mouth community thins · So — nitrite falls by 90 %"
@@ -1074,6 +1194,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Kommt das aus dem Magen?",
+        "plateLines": "Zuerst — der Belag schließt die Luft aus · Dann — Bakterien lösen Schwefel heraus · Ergebnis — Mund 87 %, Darm 1 %"
+      },
       "en": {
         "question": "Is it coming from my stomach?",
         "plateLines": "First — the coating closes off the air · Then — bacteria strip sulphur from it · So — mouth 87 %, gut 1 %"
@@ -1109,6 +1233,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Ist die größere Zahl besser?",
+        "plateLines": "Zuerst — doppelte Dosis half einmal · Dann — derselbe Stamm, viel mehr davon · Ergebnis — 100 × mehr änderte nichts"
+      },
       "en": {
         "question": "Is a bigger number better?",
         "plateLines": "First — doubling the dose helped once · Then — the same strain, far more of it · So — 100× more changed nothing"
@@ -1144,6 +1272,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Setzen drei Tage den Darm zurück?",
+        "plateLines": "Zuerst — Essen verschiebt die Mischung an einem Tag · Dann — zwei Tage später rutscht sie zurück · Ergebnis — 60 % der Stämme bleiben jahrelang"
+      },
       "en": {
         "question": "Can three days reset it?",
         "plateLines": "First — food shifts the mix in a day · Then — two days later it slides back · So — 60 % of strains stay for years"
@@ -1179,6 +1311,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Was soll ich jetzt essen?",
+        "plateLines": "Zuerst — die Kur lässt das Feld leer · Dann — Ballaststoffe und Fermentiertes füllen es · Ergebnis — 9 Arten fehlen an Tag 180"
+      },
       "en": {
         "question": "What should I eat now?",
         "plateLines": "First — the course leaves it bare · Then — fibre and ferments refill it · So — 9 species missing at day 180"
@@ -1214,6 +1350,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Bringt Fermentiertes wirklich etwas?",
+        "plateLines": "Zuerst — lebende Zellen kommen mit dem Essen · Dann — sie ziehen durch, wenige bleiben · Ergebnis — 19 Entzündungseiweiße fielen"
+      },
       "en": {
         "question": "Do fermented foods really work?",
         "plateLines": "First — live cells come with the food · Then — they pass through, few stay · So — 19 inflammatory proteins fell"
@@ -1249,6 +1389,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Wie viel Ballaststoff am Tag?",
+        "plateLines": "Zuerst — drei Arten Ballaststoff kommen an · Dann — nur eine davon wird gefressen · Ergebnis — 25–29 g am Tag, dann flacht es ab"
+      },
       "en": {
         "question": "How much fibre is enough?",
         "plateLines": "First — three kinds of fibre arrive · Then — only one of them is eaten · So — 25–29 g a day, then it levels"
@@ -1284,6 +1428,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Schadet schlechter Schlaf dem Darm?",
+        "plateLines": "Zuerst — ruhiger Rhythmus, viele Arten · Dann — der Rhythmus zerfranst · Ergebnis — ebenso dicht, weniger Arten"
+      },
       "en": {
         "question": "Does bad sleep hurt my gut?",
         "plateLines": "First — a steady rhythm, many kinds · Then — the rhythm goes ragged · So — just as full, fewer kinds"
@@ -1319,6 +1467,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Bakterien und Stimmung?",
+        "plateLines": "Zuerst — Darmmikroben geben Moleküle ab · Dann — eine Darmzelle nimmt wahr und meldet · Ergebnis — der Nerv trägt es, sie bleiben"
+      },
       "en": {
         "question": "Can gut bacteria affect my mood?",
         "plateLines": "First — gut microbes give off molecules · Then — a gut cell senses and signals · So — the nerve carries it, they stay"
@@ -1354,6 +1506,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Töten Enzyme die Bakterien?",
+        "plateLines": "Zuerst — ein Zuckernetz hält den Belag · Dann — das Enzym durchtrennt ein Glied · Ergebnis — das Netz fällt, die Zellen leben"
+      },
       "en": {
         "question": "Do enzymes kill bacteria?",
         "plateLines": "First — a sugar web holds the plaque · Then — the enzyme cuts one link · So — the web falls, the cells live"
@@ -1389,6 +1545,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Ist mein Darm gesund?",
+        "plateLines": "Zuerst — unverdauliche Faser kommt an · Dann — die Schar vergärt sie · Ergebnis — die Säuren nähren die Darmwand"
+      },
       "en": {
         "question": "Is my gut microbiome healthy?",
         "plateLines": "First — fibre we cannot digest arrives · Then — the crowd ferments it · So — the acids feed the gut wall"
@@ -1424,6 +1584,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Wie lernt der Körper Toleranz?",
+        "plateLines": "Zuerst — Bakterien melden sich durch die Wand · Dann — die Wachzelle bleibt still · Ergebnis — Toleranz hält, kein Alarm"
+      },
       "en": {
         "question": "How is tolerance learned?",
         "plateLines": "First — bacteria signal across the wall · Then — the patrol cell stays quiet · So — tolerance holds, no alarm"
@@ -1459,6 +1623,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Was macht eigentlich satt?",
+        "plateLines": "Zuerst — Bakterien vergären Ballaststoffe · Dann — Fettsäuren erreichen eine Darmzelle · Ergebnis — sie gibt GLP-1 ins Blut ab"
+      },
       "en": {
         "question": "What makes you feel full?",
         "plateLines": "First — bacteria ferment fibre · Then — fatty acids reach a gut cell · So — it releases GLP-1 into the blood"
@@ -1494,6 +1662,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Woher kommt der Zahnbelag?",
+        "plateLines": "Zuerst — Bakterien haften am Zahnschmelz · Dann — Zucker füttert die Säurebildner · Ergebnis — der Schmelz weicht darunter auf"
+      },
       "en": {
         "question": "Where does plaque come from?",
         "plateLines": "First — bacteria stick to the enamel · Then — sugar feeds the acid-makers · So — the enamel softens beneath"
@@ -1529,6 +1701,10 @@
       "pass": true
     },
     "locales": {
+      "de": {
+        "question": "Spiegelt die Haut den Darm?",
+        "plateLines": "Zuerst — Darmbakterien geben Moleküle ab · Dann — das Blut trägt sie, nicht die Bakterien · Ergebnis — die hauteigenen Mikroben antworten"
+      },
       "en": {
         "question": "Can the gut show on skin?",
         "plateLines": "First — gut bacteria release molecules · Then — blood carries them, not bacteria · So — the skin's own microbes answer"

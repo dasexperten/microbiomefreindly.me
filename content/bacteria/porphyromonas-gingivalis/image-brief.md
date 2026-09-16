@@ -33,6 +33,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Нашли — значит, болезнь?"
 - en plate lines: "First — it rests quiet among neighbours · Then — the balance tips, its enzymes cut · So — the pocket seeps and feeds it"
 - ru plate lines: "Сначала — тихо живёт среди соседей · Затем — баланс сдвинут, ферменты режут · Итог — карман сочится и кормит её"
+- de preview alt: "Illustration: pralle dunkle stäbchenförmige Bakterien ruhen in einem feuchten Film in einer schmalen Spalte, wogendes Licht und goldene Häm-Funken"
+- de hero alt: "Illustration: pralle dunkle Stäbchen ruhen in einem gemischten Biofilm der Zahnfleischtasche; als sich die Gemeinschaft verschiebt, setzen sie Enzyme frei, die Abwehreiweiße zerschneiden, und sickernde Flüssigkeit bringt ihnen Nahrung"
+- de card alt: "Gefunden — heißt das Krankheit? — eine Frau sitzt nachts auf der Bettkante, ein Glas Wasser in beiden Händen"
+- de card question: "Gefunden — heißt das Krankheit?"
+- de plate lines: "Zuerst — es ruht still unter Nachbarn · Dann — das Gleichgewicht kippt, Enzyme schneiden · Ergebnis — die Tasche nässt und füttert es"
 ```
 
 ## Notes for Lisa and Otto, outside the template

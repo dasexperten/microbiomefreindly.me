@@ -90,6 +90,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Кому это вообще помогает?"
 - en plate lines: "First — the same dead cells, two guts · Then — a crowded gut has no room left · So — only the sparse gut changed"
 - ru plate lines: "Сначала — те же клетки, две кишки · Затем — в плотной кишке нет места · Итог — сдвинулась только бедная"
+- de preview alt: "Illustration: einige reglose, hitzeabgetötete Stäbchenzellen liegen in freien Lücken einer artenarmen Darmgemeinschaft zwischen Faserresten"
+- de hero alt: "Illustration: dieselben toten Stäbchenzellen liegen ungenutzt auf einer dichten Darmgemeinschaft, setzen sich aber in die freien Lücken einer artenarmen, wo neue Bewohner und kleine Tröpfchen erscheinen"
+- de card alt: "Bei wem wirkt es überhaupt? — ein Mann wartet auf der Bank eines Waschsalons im flachen Licht des späten Vormittags"
+- de card question: "Bei wem wirkt es überhaupt?"
+- de plate lines: "Zuerst — dieselben toten Zellen, zwei Därme · Dann — im dichten Darm ist kein Platz · Ergebnis — nur der artenarme Darm bewegte sich"
 
 ---
 
@@ -112,3 +117,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a short chain and two single dead rods, whole and still, lying in one open gap between widely spaced residents; the nearest rod is the sharpest spot. Subject inside the middle 1.91:1 band. **World:** the loose litter on the gut's inner surface — scattered plant-fibre fragments and thin mucus flakes with wide bare stretches between a few residents; flat soft studio north light, even and shadowless, neutral-cool. **Accent:** coral on the dead newcomer rods only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left to right — the dead rods lying unused on a crowded, many-kinded community; the landscape thinning into a sparse community where the same rods settle into open gaps; at right, new residents and a light scatter of tiny droplets around them, the crowded side unchanged. **Light:** soft warm light from above and behind, forms rim-lit, shadows falling toward the viewer. **Accent:** gold on the tiny droplets in the sparse community only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** his face and the coat folded on his knees; the row of machines behind him soft and markless. **Empty field:** right side, 45 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 11:00, flat daylight through the shopfront from the front-left, neutral-cool, almost shadowless.
+
+- es preview alt: "Ilustración: unas pocas células en bastón, muertas por calor y quietas, en los huecos abiertos de una comunidad intestinal pobre, entre restos de fibra"
+- es hero alt: "Ilustración: las mismas células muertas quedan sin uso sobre una comunidad intestinal densa, pero se acomodan en los huecos de una pobre, donde aparecen nuevos habitantes y gotitas"
+- es card alt: "¿Por qué a ella sí? — un hombre espera en la banca de una lavandería con la luz plana de media mañana"
+- es card question: "¿Por qué a ella sí?"
+- es plate lines: "Primero — las mismas células muertas, dos intestinos · Luego — en el intestino lleno no queda lugar · Resultado — solo cambió el intestino pobre"

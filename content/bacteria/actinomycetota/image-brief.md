@@ -55,12 +55,17 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: branching soil bacteria release antibiotic molecules, six of nine in coral, while across the frame forked Bifidobacterium rods rest on a gut lining"
 - ru preview alt: "Иллюстрация: тонкие ветвящиеся нити почвенных бактерий на влажных частицах почвы, их поднятые кончики заканчиваются светло-зелёными цепочками спор"
 - ru hero alt: "Иллюстрация: ветвящиеся почвенные бактерии выпускают молекулы антибиотика, шесть из девяти коралловые, а через весь кадр вилообразные палочки бифидобактерий лежат на слизистой кишечника"
+- de preview alt: "Illustration: feine, verzweigte Fäden von Bodenbakterien über feuchten Erdkörnern, ihre aufgerichteten Spitzen enden in blassgrünen Sporenketten"
+- de hero alt: "Illustration: verzweigte Bodenbakterien geben Antibiotikamoleküle ab, sechs von neun in Korallrot, während quer durch das Bild gegabelte Bifidobakterien-Stäbchen auf einer Darmschleimhaut ruhen"
 - en card alt: "Where did our antibiotics begin? — a man in his seventies presses damp soil around a seedling in his garden"
 - ru card alt: "Антибиотики родом из земли? — мужчина за семьдесят прижимает влажную землю у ростка в своём саду"
+- de card alt: "Kommen Antibiotika aus der Erde? — ein Mann über siebzig drückt feuchte Erde um einen Setzling in seinem Garten"
 - en card question: "Where did our antibiotics begin?"
 - ru card question: "Антибиотики родом из земли?"
+- de card question: "Kommen Antibiotika aus der Erde?"
 - en plate lines: "First — threads grow in damp soil · Then — they release antibiotics · So — two-thirds of ours began here"
 - ru plate lines: "Сначала — нити растут в сырой земле · Затем — они выделяют антибиотик · Итог — две трети антибиотиков отсюда"
+- de plate lines: "Zuerst — Fäden wachsen in feuchter Erde · Dann — sie geben Antibiotika ab · Ergebnis — zwei Drittel der unseren begannen hier"
 
 ---
 

@@ -71,6 +71,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Три дня что-то меняют?"
 - en plate lines: "First — food shifts the mix in a day · Then — two days later it slides back · So — 60 % of strains stay for years"
 - ru plate lines: "Сначала — еда сдвигает состав за сутки · Затем — через двое суток всё назад · Итог — 60 % штаммов живут годами"
+- de preview alt: "Illustration: dicke stäbchenförmige Darmbakterien und Paare kleiner runder Zellen auf einem Stück Pflanzenfaser"
+- de hero alt: "Illustration: zwei Reihen mit je zehn Gruppen von Darmbakterien im Schleim, während Essen hereintreibt; in der späteren Reihe sind sechs Gruppen unverändert und vier durch Neuankömmlinge ersetzt"
+- de card alt: "Setzen drei Tage den Darm zurück? — eine Frau am Wohnzimmerfenster im späten Licht, die Arme verschränkt"
+- de card question: "Setzen drei Tage den Darm zurück?"
+- de plate lines: "Zuerst — Essen verschiebt die Mischung an einem Tag · Dann — zwei Tage später rutscht sie zurück · Ergebnis — 60 % der Stämme bleiben jahrelang"
 
 ## 8. What must never appear
 

@@ -63,6 +63,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Налёт на языке — это плохо?"
 - en plate lines: "First — shed cells fill the grooves · Then — airless bacteria make the smell · So — a thin coating in 90.7 %"
 - ru plate lines: "Сначала — в бороздках копятся клетки · Затем — бактерии без воздуха дают запах · Итог — тонкий налёт у 90,7 %"
+- de preview alt: "Illustration: Schuppen abgestoßener Oberflächenzellen mit winzigen Bakterienketten, abgelagert in einer schmalen Rinne zwischen den Zungenpapillen"
+- de hero alt: "Illustration: eine Reihe von Zungenpapillen mit abgestoßenen Schuppen und Bakterien in den Rinnen dazwischen, in neun Rinnen dünn und in einer dicker, darüber steigt leichtes Gas auf"
+- de card alt: "Ist Zungenbelag ein Problem? — eine Frau am Badezimmerspiegel im ersten Licht betrachtet ihre Zunge"
+- de card question: "Ist Zungenbelag ein Problem?"
+- de plate lines: "Zuerst — abgestoßene Zellen füllen die Rinnen · Dann — Bakterien ohne Luft machen den Geruch · Ergebnis — dünner Belag bei 90,7 %"
 
 ## 8. What must never appear
 

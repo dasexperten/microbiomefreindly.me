@@ -68,6 +68,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Пробиотик другу помог. А мне?"
 - en plate lines: "First — six strains look identical · Then — same gut, same conditions · So — 4 of 6 did anything"
 - ru plate lines: "Сначала — 6 штаммов на вид одинаковы · Затем — кишечник один и тот же · Итог — помогли 4 из 6"
+- de preview alt: "Illustration: zwei gleiche Gruppen stäbchenförmiger Bakterien auf gewelltem Darmschleim; unter der einen verändert sich der Schleim, unter der anderen nicht"
+- de hero alt: "Illustration: sechs gleiche Häufchen stäbchenförmiger Bakterien setzen sich auf denselben Darmschleim; unter vieren verändert er sich sichtbar, unter zweien bleibt er unberührt"
+- de card alt: "Ihr half es. Warum mir nicht? — eine Frau nachmittags am Cafétisch, ihr gegenüber eine zweite Tasse"
+- de card question: "Ihr half es. Warum mir nicht?"
+- de plate lines: "Zuerst — sechs Stämme sehen gleich aus · Dann — derselbe Darm, dieselben Bedingungen · Ergebnis — 4 von 6 bewirkten etwas"
 
 ## 8. What must never appear
 

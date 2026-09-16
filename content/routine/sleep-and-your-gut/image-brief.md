@@ -78,6 +78,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Плохой сон вредит кишечнику?"
 - en plate lines: "First — a steady rhythm, many kinds · Then — the rhythm goes ragged · So — just as full, fewer kinds"
 - ru plate lines: "Сначала — ровный ритм, много видов · Затем — ритм становится рваным · Итог — так же густо, видов меньше"
+- de preview alt: "Illustration: vier Arten Darmbakterien nebeneinander in einem glänzenden Schleimfilm unter tiefblauem Nachtlicht"
+- de hero alt: "Illustration: Darmbakterien entlang der Schleimhaut in einer gleichmäßigen Welle, die zerfranst; die Menge bleibt ebenso dicht, besteht aber aus weniger verschiedenen Zellarten"
+- de card alt: "Schadet schlechter Schlaf dem Darm? — eine Frau um drei Uhr nachts auf der Bettkante bei einer gedämpften Lampe"
+- de card question: "Schadet schlechter Schlaf dem Darm?"
+- de plate lines: "Zuerst — ruhiger Rhythmus, viele Arten · Dann — der Rhythmus zerfranst · Ergebnis — ebenso dicht, weniger Arten"
 
 **8. What must never appear**
 

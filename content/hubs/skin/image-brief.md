@@ -56,6 +56,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Кожа зависит от кишечника?"
 - en plate lines: "First — gut bacteria release molecules · Then — blood carries them, not bacteria · So — the skin's own microbes answer"
 - ru plate lines: "Сначала — бактерии кишки дают молекулы · Затем — кровь несёт их, а не бактерий · Итог — кожные микробы отвечают"
+- de preview alt: "Illustration: traubenförmige Haufen runder Bakterien auf den flachen Zellen der Hautoberfläche und korallenrote kurze Stäbchen am Rand einer Pore"
+- de hero alt: "Illustration: Darmbakterien bleiben, wo sie sind, während limettengrüne Moleküle und Abwehrzellen aus der Darmschleimhaut mit dem Blut zur Hautoberfläche und ihren eigenen Mikroben reisen"
+- de card alt: "Spiegelt die Haut den Darm? — eine Frau morgens am sonnigen Fenster, die Fingerkuppen am Kiefer"
+- de card question: "Spiegelt die Haut den Darm?"
+- de plate lines: "Zuerst — Darmbakterien geben Moleküle ab · Dann — das Blut trägt sie, nicht die Bakterien · Ergebnis — die hauteigenen Mikroben antworten"
 
 Only these four descriptive lines change per language; the pixels stay the same.
 
@@ -74,3 +79,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** the rim of one small round follicle opening with its thin glossy sebum film and a small group of short, slightly club-shaped rods on it, sharp at the centre; grape-like clusters of cocci on the surrounding shingles soften away. Subject inside the middle 1.91:1 band. **World:** a pale shingled surface of flat overlapping cells like slabs of stone around a small round crater; clear cold daylight bouncing off pale stone, crisp, bright, blue-white. **Accent:** coral on the small group of rods at the rim only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** bacteria at the gut lining releasing molecules as immune cells set off → the molecules and immune cells riding the translucent vessel, no bacteria aboard → their arrival beneath the layered skin surface with its settled resident microbes, left to right. **Light:** clear warm light from the lower left, rising across the frame. **Accent:** lime on the travelling molecules and immune cells only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** the lit cheek and the fingertips at her jaw; the window and the room behind soft. **Empty field:** left side, 46 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 09:00, direct morning sun straight in at the window from the right, warm and clean.
+
+- es preview alt: "Ilustración: racimos de bacterias redondas sobre las células planas de la superficie de la piel y bastones cortos de color coral en el borde de un poro"
+- es hero alt: "Ilustración: las bacterias del intestino se quedan donde están mientras moléculas de color lima y células de defensa de la mucosa viajan por la sangre hasta la superficie de la piel y sus propios microbios"
+- es card alt: "¿La piel refleja el intestino? — una mujer junto a la ventana soleada por la mañana, las yemas en la mandíbula"
+- es card question: "¿La piel refleja el intestino?"
+- es plate lines: "Primero — las bacterias del intestino sueltan moléculas · Luego — la sangre las lleva, a ellas no · Resultado — responden los microbios de la piel"

@@ -49,6 +49,11 @@ Alt lines written 2026-09-16 against the accepted frames (RU register: Alexandra
 - ru card question: "Йогурт живёт в кишечнике?"
 - en plate lines: "First — rods eat sugar in a still pocket · Then — their acid sours the space · So — in the gut about 0.01 %"
 - ru plate lines: "Сначала — палочки едят сахар · Затем — кислота закисляет карман · Итог — в кишечнике около 0,01 %"
+- de preview alt: "Illustration: kurze Ketten stäbchenförmiger Lactobacillus-Zellen liegen in einem sauer werdenden Milchfilm, um eine Kette ein schwacher goldener Schleier"
+- de hero alt: "Illustration: links drängen sich Lactobacillus-Stäbchen in einer sauren, golden getönten Nische, rechts sitzt auf der Darmschleimhaut eine kleine Kette unter unzähligen anderen Bakterien"
+- de card alt: "Lebt Joghurt in Ihrem Darm? — ein Mann isst im ersten Licht Naturjoghurt an der Küchenzeile"
+- de card question: "Lebt Joghurt in Ihrem Darm?"
+- de plate lines: "Zuerst — Stäbchen essen Zucker in einer stillen Nische · Dann — ihre Säure säuert den Raum · Ergebnis — im Darm etwa 0,01 %"
 
 ## For Lisa — the idea and the mechanism
 

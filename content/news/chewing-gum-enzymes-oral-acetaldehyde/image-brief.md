@@ -91,6 +91,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Сахар вызывает рак во рту?"
 - en plate lines: "First — sugar and alcohol reach plaque · Then — the microbes make a carcinogen · So — the peptide killed 91.37 %, not all"
 - ru plate lines: "Сначала — сахар и спирт попадают в налёт · Затем — микробы делают канцероген · Итог — пептид убил 91,37 %, не всех"
+- de preview alt: "Illustration: Ketten runder Bakterien und knospende Hefen in einem klebrigen Film über heller Zahnschmelzfläche, eine ausgedünnte Stelle leuchtet limonengrün"
+- de hero alt: "Illustration: Mikroben in einer Belagshülle auf dem Zahnschmelz geben Acetaldehyd ab; ein Peptid legt die meisten still, drei geschützte Zellen überleben, bis Enzyme die Hülle auflösen"
+- de card alt: "Macht Zucker Krebs im Mund? — eine Frau spätabends auf ihrem Balkon, kauend, ein Glas Wein in der Hand"
+- de card question: "Macht Zucker Krebs im Mund?"
+- de plate lines: "Zuerst — Zucker und Alkohol erreichen den Belag · Dann — die Mikroben machen ein Karzinogen · Ergebnis — das Peptid tötete 91,37 %, nicht alle"
 
 ---
 
@@ -116,3 +121,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a low translucent dome of sticky biofilm clinging to the enamel, holding beaded chains of round streptococci and a few budding oval yeast cells; near its edge one place where the film has thinned, with the cells beneath it sharpest. Subject inside the middle 1.91:1 band. **World:** tooth enamel as a cell-scale mineral plain — glassy, faintly ridged, warm pale — with the biofilm stretched over it in strands; pink early dawn light, low and soft from the far side, rose-cool temperature. **Accent:** lime on the one thinned place in the film only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left to right — sugar grains reaching the shelled community and a faint haze lifting; centre, the peptide stage with most chained cells pale and inert and three round cells alive deep under the shell; right, the shell dissolving into parting strands and the enamel plain left bare. **Light:** hard low amber sunlight from the left, long raking shadows. **Accent:** coral on the three sheltered survivors only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her jaw and closed mouth, working, and the rim of the glass at her hand; the street below thrown out of focus. **Empty field:** left side, 44 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 22:15, warm lamplight from the room behind her at her back, cool blue night on her far side.
+
+- es preview alt: "Ilustración: cadenas de bacterias redondas y levaduras en gemación en una película pegajosa sobre esmalte claro, un punto adelgazado iluminado en lima"
+- es hero alt: "Ilustración: microbios en una envoltura de placa sobre el esmalte liberan acetaldehído; un péptido detiene a la mayoría, tres células resguardadas sobreviven hasta que unas enzimas disuelven la envoltura"
+- es card alt: "¿El azúcar causa cáncer bucal? — una mujer en su balcón de noche, masticando, una copa de vino en la mano"
+- es card question: "¿El azúcar causa cáncer bucal?"
+- es plate lines: "Primero — el azúcar y el alcohol llegan a la placa · Luego — los microbios fabrican un carcinógeno · Resultado — el péptido mató 91,37 %, no a todas"

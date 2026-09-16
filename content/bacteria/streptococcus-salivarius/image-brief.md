@@ -100,6 +100,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Опасен ли житель языка?"
 - en plate lines: "First — on the tongue since birth · Then — it releases its own antibiotics · So — rivals stall at its edge"
 - ru plate lines: "Сначала — селится на языке с рождения · Затем — выпускает свои антибиотики · Итог — чужаки глохнут у края участка"
+- de preview alt: "Illustration: perlenartige Ketten runder Bakterien ruhen in einem feuchten Film zwischen weichen Erhebungen, um eine Kette ein schwacher korallener Schein"
+- de hero alt: "Illustration: Ketten runder Bakterien setzen sich in einem feuchten Film auf weichen Erhebungen ab und geben winzige goldene Teilchen frei; heranschwebende fremde Ketten erschlaffen am Rand ihres Gebiets"
+- de card alt: "Ist der Zungenkeim harmlos? — eine Frau sitzt morgens mit einer Tasse Tee auf ihrem Balkon"
+- de card question: "Ist der Zungenkeim harmlos?"
+- de plate lines: "Zuerst — seit der Geburt auf der Zunge · Dann — es setzt eigene Antibiotika frei · Ergebnis — Rivalen stocken an seinem Rand"
 ```
 
 ---

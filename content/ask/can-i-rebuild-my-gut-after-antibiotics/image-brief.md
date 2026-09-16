@@ -63,6 +63,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Кишечник восстановится после антибиотиков?"
 - en plate lines: "First — antibiotics strip it bare · Then — it refills in six weeks · So — 9 species are still missing"
 - ru plate lines: "Сначала — антибиотики выметают всё · Затем — за полтора месяца возвращается · Итог — 9 видов так и нет"
+- de preview alt: "Illustration: gegabelte Bifidobacterium-Zellen wachsen im lockeren Darmschleim nach, daneben eine leere Mulde, wo einst Zellen standen"
+- de hero alt: "Illustration: eine Darmbakteriengemeinschaft in drei Momenten: dicht besetzt, von Antibiotika fast kahl geräumt, dann wieder dicht — mit neun leer gebliebenen Plätzen"
+- de card alt: "Erholt sich mein Darm wieder? — eine Frau spät abends am Küchentisch, die Kur ist zu Ende"
+- de card question: "Erholt sich mein Darm wieder?"
+- de plate lines: "Zuerst — Antibiotika räumen alles kahl · Dann — in sechs Wochen füllt es sich wieder · Ergebnis — 9 Arten fehlen weiterhin"
 
 **8. What must never appear**
 

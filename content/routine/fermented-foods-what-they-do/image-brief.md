@@ -73,6 +73,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Кефир вообще что-то даёт?"
 - en plate lines: "First — live cells come with the food · Then — they pass through, few stay · So — 19 inflammatory proteins fell"
 - ru plate lines: "Сначала — живые клетки идут с едой · Затем — проходят мимо, редко остаются · Итог — 19 белков воспаления упали"
+- de preview alt: "Illustration: Ketten runder Zellen, lange Stäbchen und große sprossende Hefen zwischen winzigen Bläschen in einem lebendigen Ferment"
+- de hero alt: "Illustration: Bakterien aus einem lebendigen Ferment treiben über die Darmschleimhaut; von zwanzig findet eine einen Platz, Säuren sickern in den Schleim, und die ansässigen Bakterien werden vielfältiger"
+- de card alt: "Bringt Fermentiertes wirklich etwas? — ein Mann isst nachmittags Kefir an einem kleinen Tisch auf seinem Balkon"
+- de card question: "Bringt Fermentiertes wirklich etwas?"
+- de plate lines: "Zuerst — lebende Zellen kommen mit dem Essen · Dann — sie ziehen durch, wenige bleiben · Ergebnis — 19 Entzündungseiweiße fielen"
 
 **8. What must never appear**
 

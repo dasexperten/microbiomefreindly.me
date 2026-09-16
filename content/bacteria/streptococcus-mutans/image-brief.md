@@ -58,6 +58,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Он есть у всех?"
 - en plate lines: "First — sugar lands on the plaque · Then — they spin glue and make acid · So — the enamel under it dissolves"
 - ru plate lines: "Сначала — на налёт попадает сахар · Затем — прядут клей и дают кислоту · Итог — эмаль под ним растворяется"
+- de preview alt: "Illustration: Ketten ovaler Bakterien in klebrigen Fäden auf blassem, geriffeltem Zahnschmelz, am Rand ein limettengrüner Zuckerkristall"
+- de hero alt: "Illustration: Zucker löst sich zwischen Ketten ovaler Bakterien auf dem Zahnschmelz; sie spinnen klebrige Fäden, die sie festkleben, und geben Säure ab, und unter dem Säuredunst lockert sich die mineralische Oberfläche"
+- de card alt: "Hat wirklich jeder den Karieskeim? — ein junger Mann nimmt am Schreibtisch ein Bonbon aus einer Papiertüte"
+- de card question: "Hat wirklich jeder den Karieskeim?"
+- de plate lines: "Zuerst — Zucker landet auf dem Belag · Dann — sie spinnen Leim und machen Säure · Ergebnis — der Schmelz darunter löst sich auf"
 
 ---
 

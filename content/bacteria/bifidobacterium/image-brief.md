@@ -64,12 +64,17 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: milk sugars pass the infant gut lining untouched, forked Bifidobacterium rods ferment them into lime acetate droplets, and nineteen of twenty cells at right are theirs"
 - ru preview alt: "Иллюстрация: вилообразные Y-образные клетки бифидобактерий в неподвижном кармане прозрачного содержимого кишечника, коралловая капля у развилки одной клетки"
 - ru hero alt: "Иллюстрация: молочные сахара нетронутыми проходят мимо слизистой кишечника младенца, вилообразные палочки бифидобактерий сбраживают их в лаймовые капли ацетата, и справа девятнадцать клеток из двадцати — их"
+- de preview alt: "Illustration: gegabelte, Y-förmige Bifidobakterien-Zellen in einer ruhigen Tasche klaren Darminhalts, ein korallroter Tropfen in einer Gabelung"
+- de hero alt: "Illustration: Milchzucker ziehen unberührt an der Darmschleimhaut des Säuglings vorbei, gegabelte Bifidobakterien-Stäbchen vergären sie zu limettengrünen Acetattröpfchen, und rechts gehören neunzehn von zwanzig Zellen ihnen"
 - en card alt: "Is every bifidobacterium good? — a woman in her late twenties sits with a mug on the sofa in lamp light"
 - ru card alt: "Все бифидобактерии полезные? — женщина под тридцать сидит с кружкой на диване при свете лампы"
+- de card alt: "Sind alle Bifidobakterien gut? — eine Frau Ende zwanzig sitzt mit einer Tasse bei Lampenlicht auf dem Sofa"
 - en card question: "Is every bifidobacterium good?"
 - ru card question: "Все бифидобактерии полезные?"
+- de card question: "Sind alle Bifidobakterien gut?"
 - en plate lines: "First — milk sugars pass the baby by · Then — these rods eat what she cannot · So — over 90 % of her gut is theirs"
 - ru plate lines: "Сначала — сахара молока ей не по зубам · Затем — их съедают эти палочки · Итог — в юном кишечнике их больше 90 %"
+- de plate lines: "Zuerst — Milchzucker geht am Baby vorbei · Dann — diese Stäbchen fressen, was es nicht kann · Ergebnis — über 90 % ihres Darms gehören ihnen"
 
 ---
 

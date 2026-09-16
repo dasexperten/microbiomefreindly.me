@@ -70,6 +70,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Значит, испытание провалилось?"
 - en plate lines: "First — dead cells settle in the mucus · Then — one gut cell lets out GLP-1 · So — 30 billion cells, nothing moved"
 - ru plate lines: "Сначала — мёртвые клетки ложатся в слизь · Затем — клетка кишки выпускает ГПП-1 · Итог — 30 млрд клеток, сдвига нет"
+- de preview alt: "Illustration: ganze, reglose ovale Akkermansia-Zellen liegen in abgeweideten Mulden des Darmschleims, darunter ein korallener Schimmer der Schleimhaut"
+- de hero alt: "Illustration: eine dichte Schwade hitzeabgetöteter ovaler Akkermansia-Zellen im Darmschleim; eine Hormonzelle der Schleimhaut gibt einen goldenen Stoß ab, während das Gewebe dahinter unverändert bleibt"
+- de card alt: "Ist die Studie gescheitert? — ein Mann Anfang vierzig wartet allein an einer Haltestelle im kalten Morgenlicht"
+- de card question: "Ist die Studie gescheitert?"
+- de plate lines: "Zuerst — tote Zellen legen sich in den Schleim · Dann — eine Darmzelle gibt GLP-1 ab · Ergebnis — 30 Milliarden Zellen, nichts bewegt"
 
 ---
 

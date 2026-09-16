@@ -49,6 +49,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Носитель — значит больной?"
 - en plate lines: "First — the neighbours hold it down · Then — antibiotics sweep them away · So — the spores wake and multiply"
 - ru plate lines: "Сначала — соседи держат её в узде · Затем — антибиотик сметает соседей · Итог — споры просыпаются и растут"
+- de preview alt: "Illustration: ein schlankes Stäbchen mit aufgeblähtem Sporenende und versiegelte Sporen in limettenfarbener Hülle, eingekeilt von einer Menge anderer Darmmikroben"
+- de hero alt: "Illustration: schlafende Sporen liegen unter goldenem Dunst zwischen Darmbewohnern; sind die Nachbarn fortgefegt, öffnen sich die Sporen zu Stäbchen, die sich vermehren und die Nähte der Schleimhaut lockern"
+- de card alt: "Träger — heißt das krank? — eine Frau über siebzig rastet mit ihrer Einkaufstasche auf einem Treppenabsatz"
+- de card question: "Träger — heißt das krank?"
+- de plate lines: "Zuerst — die Nachbarn halten es nieder · Dann — Antibiotika fegen sie fort · Ergebnis — die Sporen wachen auf und vermehren sich"
 
 **12. Locales:** en / ru / de / ja / ar share one image set; only the descriptive lines change per language (RU through Alexandra). No new pixels per locale.
 

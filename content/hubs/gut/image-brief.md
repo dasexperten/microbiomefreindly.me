@@ -53,6 +53,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Мой микробиом здоровый?"
 - en plate lines: "First — fibre we cannot digest arrives · Then — the crowd ferments it · So — the acids feed the gut wall"
 - ru plate lines: "Сначала — приходит клетчатка · Затем — её сбраживают бактерии · Итог — кислоты кормят стенку кишки"
+- de preview alt: "Illustration: eine gemischte Schar stäbchenförmiger und runder Darmbakterien nährt sich an einem Stück Pflanzenfaser mit golden ausgefranstem Rand"
+- de hero alt: "Illustration: Pflanzenfaser erreicht den Dickdarm, Bakterien vergären sie, und korallenrote Moleküle kurzkettiger Fettsäuren treten in die Zellen der Darmschleimhaut über"
+- de card alt: "Ist mein Darm gesund? — eine Frau kommt abends mit einer Tüte Gemüse die Stufen zur Haustür herauf"
+- de card question: "Ist mein Darm gesund?"
+- de plate lines: "Zuerst — unverdauliche Faser kommt an · Dann — die Schar vergärt sie · Ergebnis — die Säuren nähren die Darmwand"
 
 Only these descriptive lines change per language; the pixels stay the same.
 
@@ -71,3 +76,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** the frayed edge of one honeycomb sheet of plant fibre with a small crowd of rods and cocci feeding on it, sharp at the centre; the rest of the sheet and more bacteria soften away. Subject inside the middle 1.91:1 band. **World:** a torn sheet of plant fibre adrift in the soft, moist, dim contents of the colon; bright clean morning side light from the left, fresh neutral-white. **Accent:** gold on the frayed edge where the cells feed only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** intact fibre sheets arriving → the crowd of bacteria fermenting and breaking them apart → tiny fatty acid molecules entering the column-shaped cells of the flat, pitted colon wall, left to right. **Light:** warm late-morning sun slanting from high on the right. **Accent:** coral on the short-chain fatty acid molecules only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her eyes and the cloth bag on her hip. **Empty field:** left, 45 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 19:00, low golden evening sun down the street from behind her right shoulder, warm.
+
+- es preview alt: "Ilustración: una multitud mezclada de bacterias alargadas y redondas del intestino se alimenta de un trozo de fibra vegetal con el borde deshilachado dorado"
+- es hero alt: "Ilustración: la fibra vegetal llega al colon, las bacterias la fermentan y moléculas coral de ácidos grasos de cadena corta pasan a las células de la mucosa del intestino"
+- es card alt: "¿Mi microbiota está sana? — una mujer sube los escalones de su casa al atardecer con una bolsa de verduras"
+- es card question: "¿Mi microbiota está sana?"
+- es plate lines: "Primero — llega la fibra que no digerimos · Luego — la multitud la fermenta · Resultado — los ácidos alimentan la pared"
