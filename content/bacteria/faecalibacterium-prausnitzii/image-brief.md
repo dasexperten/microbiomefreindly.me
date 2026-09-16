@@ -154,3 +154,27 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Чим живиться вистилка кишківника? — жінка за двадцять їсть миску вівсянки на балконі в останньому сонці"
 - uk card question: "Чим живиться вистилка кишківника?"
 - uk plate lines: "Спершу — вона ховається там, куди не дістає повітря · Потім — їсть те, що кидають сусіди · Наслідок — вистилка нагодована; понад 5 % усіх"
+
+- pl preview alt: "Ilustracja: smukłe pałeczki leżą w gęstym śluzie nad wyściółką jelita grubego, opadają z nich drobniutkie koralowe kuleczki"
+- pl hero alt: "Ilustracja: wśród dwudziestu bakterii jelitowych w beztlenowym śluzie jedna smukła pałeczka pobiera resztki po sąsiadach i uwalnia złote kuleczki maślanu, które przechodzą do wyściółki jelita grubego"
+- pl card alt: "Co karmi wyściółkę jelita? — kobieta po dwudziestce je miskę owsianki na balkonie w ostatnim słońcu"
+- pl card question: "Co karmi wyściółkę jelita?"
+- pl plate lines: "Najpierw — chowa się tam, gdzie nie dociera powietrze · Potem — je to, co upuszczają sąsiedzi · Efekt — wyściółka nakarmiona; ponad 5 % wszystkich"
+
+- fr preview alt: "Illustration : de fines bactéries en bâtonnets reposent dans un mucus dense au-dessus de la muqueuse du côlon, de minuscules perles corail descendant d'elles"
+- fr hero alt: "Illustration : parmi vingt bactéries intestinales dans un mucus sans air, un bâtonnet élancé prend les restes de ses voisines et libère des perles dorées de butyrate qui passent dans la muqueuse du côlon"
+- fr card alt: "Qui nourrit votre muqueuse intestinale ? — une femme de vingt ans mange un bol de flocons d'avoine sur son balcon"
+- fr card question: "Qui nourrit votre muqueuse intestinale ?"
+- fr plate lines: "D'abord — il se cache là où l'air n'arrive pas · Ensuite — il mange ce que les voisines laissent · Résultat — la muqueuse est nourrie ; plus de 5 %"
+
+- tr preview alt: "Çizim: kalın bağırsak mukozasını örten yoğun mukusta uzanan ince çubuk biçimli bakteriler, üzerlerinden süzülen minik mercan renkli boncuklar"
+- tr hero alt: "Çizim: havasız mukustaki yirmi bağırsak bakterisi arasında ince bir çubuk komşularının artıklarını alıyor ve kalın bağırsak mukozasına geçen altın renkli bütirat boncukları salıyor"
+- tr card alt: "Bağırsak mukozasını ne besler? — yirmili yaşlarda bir kadın son güneşte balkonunda bir kâse yulaf yiyor"
+- tr card question: "Bağırsak mukozasını ne besler?"
+- tr plate lines: "Önce — havanın girmediği yere saklanır · Sonra — komşularının düşürdüğünü yer · Sonuç — mukoza beslenir; hepsinin %5'inden fazlası"
+
+- ro preview alt: "Ilustrație: bacterii subțiri în formă de bastonaș stau într-un mucus dens peste mucoasa colonului, cu mici mărgele coral plutind în jos de la ele"
+- ro hero alt: "Ilustrație: printre douăzeci de bacterii intestinale dintr-un mucus fără aer, un bastonaș subțire preia resturile vecinilor și eliberează mărgele aurii de butirat care trec în mucoasa colonului"
+- ro card alt: "Ce hrănește mucoasa intestinului? — o femeie de douăzeci de ani mănâncă ovăz pe balcon, în ultimul soare"
+- ro card question: "Ce hrănește mucoasa intestinului?"
+- ro plate lines: "Mai întâi — se ascunde unde nu ajunge aerul · Apoi — mănâncă ce scapă vecinii · Rezultat — mucoasa e hrănită; peste 5 % din total"

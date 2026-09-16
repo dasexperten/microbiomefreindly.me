@@ -176,3 +176,27 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Чи є повітря в кишківнику? — молода мати відкидається у кріслі біля вікна на світанку"
 - uk card question: "Чи є повітря в кишківнику?"
 - uk plate lines: "Спершу — у новому кишківнику ще є повітря · Потім — один жир ущільнює стінку мікроба · Підсумок — той самий жир навчає імунні клітини"
+
+- pl preview alt: "Ilustracja: krótkie pałeczki Bacteroides fragilis pod światło na młodej powierzchni jelita, jeden uszczelniony brzeg błony lśni limonkowo"
+- pl hero alt: "Ilustracja: krótka pałeczka trzyma swój uszczelniony brzeg błony, gdy obok przepływają drobinki powietrza, a ten sam tłuszcz błony zostaje przekazany młodej komórce odpornościowej, która rośnie, czytając go"
+- pl card alt: "Czy w jelicie noworodka jest tlen? — młoda matka odchyla się w fotelu przy oknie o pierwszym świetle"
+- pl card question: "Czy w jelicie noworodka jest tlen?"
+- pl plate lines: "Najpierw — w nowym jelicie wciąż jest powietrze · Potem — jeden tłuszcz uszczelnia ścianę drobnoustroju · Efekt — ten sam tłuszcz uczy komórki odpornościowe"
+
+- fr preview alt: "Illustration : de courts bâtonnets de Bacteroides fragilis à contre-jour sur une jeune surface intestinale, le bord scellé d'une membrane luisant de vert"
+- fr hero alt: "Illustration : un court bâtonnet garde le bord scellé de sa membrane tandis que des grains d'air passent, et la même graisse de membrane est transmise à une jeune cellule immunitaire qui grandit en la lisant"
+- fr card alt: "L'intestin du nouveau-né est-il sans air ? — une jeune mère s'adosse au fauteuil près de la fenêtre, à l'aube"
+- fr card question: "L'intestin du nouveau-né est-il sans air ?"
+- fr plate lines: "D'abord — il reste de l'air dans un intestin neuf · Ensuite — une graisse scelle la paroi du microbe · Résultat — la même graisse instruit l'immunité"
+
+- tr preview alt: "Çizim: genç bir bağırsak yüzeyinde arkadan aydınlatılmış kısa Bacteroides fragilis çubukları, mühürlü zar kenarlarından biri yeşille parlıyor"
+- tr hero alt: "Çizim: kısa bir çubuk mühürlü zar kenarını korurken yanından hava zerrecikleri geçiyor ve aynı zar yağı, onu okuyarak olgunlaşan genç bir bağışıklık hücresine aktarılıyor"
+- tr card alt: "Yenidoğan bağırsağı havasız mı? — yeni anne ilk ışıkta pencerenin yanındaki koltuğa yaslanıyor"
+- tr card question: "Yenidoğan bağırsağı havasız mı?"
+- tr plate lines: "Önce — yeni bağırsakta hâlâ hava vardır · Sonra — bir yağ mikrobun duvarını mühürler · Sonuç — aynı yağ bağışıklık hücrelerini eğitir"
+
+- ro preview alt: "Ilustrație: bastonașe scurte de Bacteroides fragilis luminate din spate pe suprafața unui intestin tânăr, cu marginea unei membrane sigilate sclipind verzui"
+- ro hero alt: "Ilustrație: un bastonaș scurt își ține marginea sigilată a membranei în timp ce firicele de aer trec pe lângă el, iar aceeași grăsime de membrană e predată unei celule imune tinere, care crește citind-o"
+- ro card alt: "Intestinul nou-născutului e fără aer? — o proaspătă mamă se lasă pe spate în fotoliul de la fereastră, în zori"
+- ro card question: "Intestinul nou-născutului e fără aer?"
+- ro plate lines: "Mai întâi — aerul mai zăbovește într-un intestin nou · Apoi — o grăsime sigilează peretele microbului · Rezultat — aceeași grăsime învață celulele imune"

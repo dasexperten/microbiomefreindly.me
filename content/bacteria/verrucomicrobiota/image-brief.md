@@ -166,3 +166,27 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Поїдач слизу корисний? — жінка вибирає зелень у критій ринковій залі суботнього ранку"
 - uk card question: "Поїдач слизу корисний?"
 - uk plate lines: "Спершу — він пасеться на слизовій шубі кишківника · Потім — стінка живиться і робить більше · Підсумок — без клітковини шуба тоншає"
+
+- pl preview alt: "Ilustracja: owalne bakterie spoczywają wśród rozciągniętych pasm śluzu nad wyściółką jelita, jedno pasmo strzępi się tam, gdzie żeruje komórka"
+- pl hero alt: "Ilustracja: owalne bakterie wyjadają warstwę śluzu nad wyściółką okrężnicy, która pobiera złote paliwo oraz wytwarza świeży śluz; dalej po prawej stłoczone bakterie ścierają warstwę do cienkiej zasłony"
+- pl card alt: "Czy zjadacz śluzu jest dobry? — kobieta wybiera warzywa liściaste na krytym targowisku sobotnim rankiem"
+- pl card question: "Czy zjadacz śluzu jest dobry?"
+- pl plate lines: "Najpierw — wyjada śluzową powłokę jelita · Potem — wyściółka karmi się oraz tworzy nową · Efekt — bez błonnika powłoka cienieje"
+
+- fr preview alt: "Illustration : des bactéries ovales reposent parmi des brins de mucus étirés au-dessus de la muqueuse intestinale, un brin s'effilochant là où une cellule se nourrit"
+- fr hero alt: "Illustration : des bactéries ovales broutent la couche de mucus au-dessus de la muqueuse du côlon, qui absorbe un carburant doré et fabrique du mucus frais ; plus à droite, des bactéries serrées usent la couche jusqu'à un voile mince"
+- fr card alt: "Le mangeur de mucus est-il bon ? — une femme choisit des légumes verts dans un marché couvert, un samedi matin"
+- fr card question: "Le mangeur de mucus est-il bon ?"
+- fr plate lines: "D'abord — elle broute le manteau de mucus de l'intestin · Ensuite — la muqueuse se nourrit et en refait · Résultat — sans fibres, le manteau s'amincit"
+
+- tr preview alt: "Çizim: bağırsak mukozasını örten gerilmiş mukus tellerinin arasında duran oval bakteriler, bir hücrenin beslendiği yerde bir tel saçaklanıyor"
+- tr hero alt: "Çizim: oval bakteriler kalın bağırsak mukozasını örten mukus tabakasını otluyor, mukoza altın renkli yakıtı alıp taze mukus yapıyor; daha sağda kalabalıklaşan bakteriler tabakayı ince bir örtüye kadar aşındırıyor"
+- tr card alt: "Mukus yiyen iyi midir? — bir kadın cumartesi sabahı kapalı pazar halinde yeşillik seçiyor"
+- tr card question: "Mukus yiyen iyi midir?"
+- tr plate lines: "Önce — bağırsağın mukus örtüsünü otlar · Sonra — mukoza beslenir ve daha çok yapar · Sonuç — lif yoksa örtü incelir"
+
+- ro preview alt: "Ilustrație: bacterii ovale se odihnesc printre filamente întinse de mucus peste mucoasa intestinală, un filament destrămându-se acolo unde se hrănește o celulă"
+- ro hero alt: "Ilustrație: bacterii ovale pasc stratul de mucus de peste mucoasa colonului, care preia combustibil auriu și face mucus proaspăt; mai la dreapta, bacterii înghesuite tocesc stratul până la un văl subțire"
+- ro card alt: "E bun mâncătorul de mucus? — o femeie alege verdețuri într-o hală de piață, într-o dimineață de sâmbătă"
+- ro card question: "E bun mâncătorul de mucus?"
+- ro plate lines: "Mai întâi — pasc mantaua de mucus a intestinului · Apoi — mucoasa se hrănește și face mai mult · Rezultat — fără fibre, mantaua se subțiază"

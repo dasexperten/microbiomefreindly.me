@@ -98,3 +98,27 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Чи може настільки поширене шкодити? — жінка спиняється в коридорі після обіду, долоня плазом під ребрами"
 - uk card question: "Чи може настільки поширене шкодити?"
 - uk plate lines: "Спершу — вона робить у кислоті нейтральну хмарку · Потім — угвинчується вглиб слизу · Наслідок — чіпляється до вистилки довіку"
+
+- pl preview alt: "Ilustracja: spiralne bakterie z pękiem witek na jednym końcu spoczywają w śluzie nad śluzówką żołądka, jedna w przejrzystym pęcherzyku"
+- pl hero alt: "Ilustracja: spiralna bakteria otula się w kwasie żołądkowym małą obojętną chmurą, wkręca się w dół w śluz i mocuje do śluzówki obok innych, już osiadłych"
+- pl card alt: "Tak powszechny, a jednak groźny? — kobieta przystaje w przedpokoju po obiedzie, dłoń płasko pod żebrami"
+- pl card question: "Tak powszechny, a jednak groźny?"
+- pl plate lines: "Najpierw — tworzy w kwasie obojętną chmurę · Potem — wwierca się w śluz · Efekt — mocuje się do śluzówki na całe życie"
+
+- fr preview alt: "Illustration : des bactéries en spirale, une touffe de flagelles à une extrémité, reposent dans le mucus au-dessus de la muqueuse de l'estomac, l'une dans une poche claire"
+- fr hero alt: "Illustration : une bactérie en spirale s'enveloppe d'un petit nuage neutre dans l'acide de l'estomac, s'enfonce en tire-bouchon dans le mucus et s'accroche à la muqueuse à côté d'autres déjà installées"
+- fr card alt: "Si commune, est-elle un pathogène ? — une femme s'arrête dans son couloir après le déjeuner, la main à plat sous les côtes"
+- fr card question: "Si commune, est-elle un pathogène ?"
+- fr plate lines: "D'abord — elle se fait un nuage neutre dans l'acide · Ensuite — elle s'enfonce dans le mucus · Résultat — elle s'accroche à la muqueuse pour la vie"
+
+- tr preview alt: "Çizim: bir ucunda kuyruk demeti olan spiral bakteriler mide mukozasını örten mukusta duruyor, biri berrak bir cebin içinde"
+- tr hero alt: "Çizim: spiral bir bakteri mide asidinde kendini küçük bir nötr bulutla sarıyor, tirbuşon gibi mukusun içine iniyor ve daha önce yerleşmiş ötekilerin yanında mukozaya tutunuyor"
+- tr card alt: "Bu kadar yaygını patojen mi? — bir kadın öğle yemeğinden sonra koridorda duraklıyor, eli kaburgalarının altında"
+- tr card question: "Bu kadar yaygını patojen mi?"
+- tr plate lines: "Önce — asitte nötr bir bulut yapar · Sonra — mukusun içine doğru deler · Sonuç — mukozaya ömür boyu tutunur"
+
+- ro preview alt: "Ilustrație: bacterii spiralate cu un smoc de cozi la un capăt stau în mucusul de peste mucoasa stomacului, una într-un colț limpede"
+- ro hero alt: "Ilustrație: o bacterie spiralată se învăluie într-un mic nor neutru în acidul gastric, se înșurubează în mucus și se prinde de mucoasă lângă altele deja instalate"
+- ro card alt: "Ceva atât de răspândit e patogen? — o femeie se oprește pe hol după prânz, cu palma sub coaste"
+- ro card question: "Ceva atât de răspândit e patogen?"
+- ro plate lines: "Mai întâi — își face un nor neutru în acid · Apoi — se înșurubează în mucus · Rezultat — se prinde de mucoasă pe viață"

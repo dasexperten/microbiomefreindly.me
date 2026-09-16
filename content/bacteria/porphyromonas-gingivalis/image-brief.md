@@ -88,3 +88,27 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Носійство означає хворобу? — жінка сидить уночі на краю ліжка, тримаючи склянку води обома руками"
 - uk card question: "Носійство означає хворобу?"
 - uk plate lines: "Спершу — вона тихо лежить серед сусідів · Потім — рівновага хитається, її ферменти ріжуть · Підсумок — кишеня сочиться і годує її"
+
+- pl preview alt: "Ilustracja: pulchne ciemne pałeczki spoczywają w wilgotnym filmie w wąskiej szczelinie, falujące światło i złote błyski hemu"
+- pl hero alt: "Ilustracja: pulchne ciemne pałeczki spoczywają w mieszanym biofilmie kieszonki; gdy społeczność się przesuwa, uwalniają enzymy tnące białka obronne, a sączący się płyn przynosi im pokarm"
+- pl card alt: "Czy nosicielstwo oznacza chorobę? — kobieta siedzi nocą na brzegu łóżka, szklanka wody w obu dłoniach"
+- pl card question: "Czy nosicielstwo oznacza chorobę?"
+- pl plate lines: "Najpierw — spoczywa cicho wśród sąsiadów · Potem — równowaga się przechyla, jej enzymy tną · Efekt — kieszonka sączy się i ją karmi"
+
+- fr preview alt: "Illustration : de gros bâtonnets sombres reposent dans une pellicule humide au fond d'une crevasse étroite, la lumière ondule et l'hème jette des éclats dorés"
+- fr hero alt: "Illustration : de gros bâtonnets sombres reposent dans le biofilm mixte d'une poche ; quand la communauté bascule, ils libèrent des enzymes qui découpent les protéines de défense, et le fluide qui suinte les nourrit"
+- fr card alt: "L'avoir signifie-t-il une maladie ? — une femme est assise au bord de son lit la nuit, un verre d'eau dans les mains"
+- fr card question: "L'avoir signifie-t-il une maladie ?"
+- fr plate lines: "D'abord — elle reste tranquille parmi ses voisines · Ensuite — l'équilibre bascule, ses enzymes coupent · Résultat — la poche suinte et la nourrit"
+
+- tr preview alt: "Çizim: dar bir yarığın içindeki ıslak bir filmde duran tombul, koyu renkli çubuk biçimli bakteriler, dalgalanan ışık ve altın hem parıltıları"
+- tr hero alt: "Çizim: tombul koyu çubuklar karışık bir cep biyofilminde duruyor; topluluk değiştikçe savunma proteinlerini kesip parçalayan enzimler salıyorlar ve sızan sıvı onlara yiyecek taşıyor"
+- tr card alt: "Taşıyan herkes hasta olur mu? — bir kadın gece yatağının kenarında oturuyor, iki eliyle bir bardak su tutuyor"
+- tr card question: "Taşıyan herkes hasta olur mu?"
+- tr plate lines: "Önce — komşuları arasında sessizce durur · Sonra — denge bozulur, enzimleri keser · Sonuç — cep sızar ve onu besler"
+
+- ro preview alt: "Ilustrație: bacterii-bastonaș durdulii și întunecate odihnindu-se într-o peliculă umedă dintr-o crăpătură îngustă, cu lumină vălurită și sclipiri aurii de hem"
+- ro hero alt: "Ilustrație: bastonașe întunecate și durdulii stau într-un biofilm mixt; când comunitatea se schimbă, eliberează enzime care taie în bucăți proteinele de apărare, iar lichidul care se prelinge le aduce hrană"
+- ro card alt: "O porți — înseamnă boală? — o femeie stă pe marginea patului noaptea, cu un pahar de apă în ambele mâini"
+- ro card question: "O porți — înseamnă boală?"
+- ro plate lines: "Mai întâi — stă liniștită printre vecini · Apoi — echilibrul se rupe, enzimele ei taie · Rezultat — punga se prelinge și o hrănește"

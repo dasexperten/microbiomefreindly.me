@@ -113,3 +113,27 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Мікроб карієсу є в кожного? — юнак бере цукерку з паперового пакета за робочим столом"
 - uk card question: "Мікроб карієсу є в кожного?"
 - uk plate lines: "Спершу — цукор падає на наліт · Потім — вони плетуть клей і роблять кислоту · Підсумок — емаль під ним розчиняється"
+
+- pl preview alt: "Ilustracja: łańcuchy owalnych bakterii uwięzione w lepkich niciach na bladym, pofałdowanym szkliwie, na brzegu jeden limonkowy kryształek cukru"
+- pl hero alt: "Ilustracja: cukier rozpuszcza się między łańcuchami owalnych bakterii na szkliwie; one przędą lepkie nici, które je przyklejają, i wydzielają kwas, a pod kwaśną mgiełką mineralna powierzchnia się rozluźnia"
+- pl card alt: "Czy każdy ma zarazek próchnicy? — młody mężczyzna sięga po cukierek z papierowej torebki przy biurku"
+- pl card question: "Czy każdy ma zarazek próchnicy?"
+- pl plate lines: "Najpierw — cukier ląduje na płytce · Potem — przędą klej i wytwarzają kwas · Efekt — szkliwo pod spodem się rozpuszcza"
+
+- fr preview alt: "Illustration : des chaînes de bactéries ovales retenues par des filaments collants sur un émail pâle et strié, un cristal de sucre vert clair sur le bord"
+- fr hero alt: "Illustration : le sucre se dissout parmi des chaînes de bactéries ovales sur l'émail ; elles filent une colle qui les fixe et dégagent de l'acide, et sous la brume acide la surface minérale se délite"
+- fr card alt: "Tout le monde a-t-il ce microbe ? — un jeune homme prend un bonbon dans un sachet en papier à son bureau"
+- fr card question: "Tout le monde a-t-il ce microbe ?"
+- fr plate lines: "D'abord — le sucre se dépose sur la plaque · Ensuite — elles filent la colle et font l'acide · Résultat — l'émail en dessous se dissout"
+
+- tr preview alt: "Çizim: soluk, ince çizgili mine üzerinde yapışkan tellerle tutulan oval bakteri zincirleri, kenarda yeşil tek bir şeker kristali"
+- tr hero alt: "Çizim: mine üzerindeki oval bakteri zincirlerinin arasında şeker çözünüyor; onları yerine yapıştıran yapışkan teller örüyor ve asit salıyorlar, asit pusunun altında mineral yüzey gevşiyor"
+- tr card alt: "Çürük mikrobu herkeste var mı? — genç bir adam masasında kâğıt torbadan bir şeker alıyor"
+- tr card question: "Çürük mikrobu herkeste var mı?"
+- tr plate lines: "Önce — şeker plağın üstüne düşer · Sonra — tutkal örüp asit yaparlar · Sonuç — altındaki mine çözünür"
+
+- ro preview alt: "Ilustrație: lanțuri de bacterii ovale prinse în filamente lipicioase pe smalț palid și striat, cu un cristal de zahăr verzui la margine"
+- ro hero alt: "Ilustrație: zahărul se dizolvă printre lanțuri de bacterii ovale de pe smalț; ele țes filamente lipicioase care le lipesc acolo și degajă acid, iar sub ceața acidă suprafața minerală se slăbește"
+- ro card alt: "Toți purtăm microbul cariei? — un tânăr ia o bomboană dintr-o pungă de hârtie, la biroul lui"
+- ro card question: "Toți purtăm microbul cariei?"
+- ro plate lines: "Mai întâi — zahărul ajunge pe placă · Apoi — ele țes clei și fac acid · Rezultat — smalțul de dedesubt se dizolvă"

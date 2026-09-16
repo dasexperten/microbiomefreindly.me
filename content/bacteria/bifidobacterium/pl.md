@@ -121,15 +121,15 @@ entity:
   ncbiTaxId: "1678"
 images:
   card: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-card-pl.webp"
-  cardLine: "Czy każda bifidobakteria jest dobra?"
-  cardAlt: "Czy każda bifidobakteria jest dobra? — kobieta pod trzydziestkę siedzi z kubkiem na kanapie w świetle lampy"
+  cardLine: "Czy każda jest dobra?"
+  cardAlt: "Czy każda jest dobra? — kobieta pod trzydziestkę siedzi z kubkiem na kanapie w świetle lampy"
   og: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-og-pl.jpg"
   preview: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-preview.webp"
-  previewAlt: "Ilustracja: rozwidlone komórki Bifidobacterium w kształcie litery Y w spokojnej kieszeni przejrzystej treści jelita, w jednym rozwidleniu koralowa kropla"
+  previewAlt: "Ilustracja: rozwidlone komórki Bifidobacterium w kształcie litery Y w spokojnej kieszeni przejrzystej treści jelita, w jednym rozwidleniu koralowa kropla"
   plate: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-plate-pl.webp"
-  plateLines: "Najpierw — cukry mleka przechodzą obok dziecka · Potem — te pałeczki jedzą to, czego ono nie potrafi · Efekt — ponad 90 % jego jelita należy do nich"
+  plateLines: "Najpierw — cukry mleka przechodzą obok dziecka · Potem — te pałeczki jedzą to, czego ono nie potrafi · Efekt — ponad 90 % jego jelita należy do nich"
   hero: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-hero.webp"
-  heroAlt: "Ilustracja: cukry mleka mijają wyściółkę jelita niemowlęcia nietknięte, rozwidlone pałeczki Bifidobacterium fermentują je na limonkowe krople octanu, a po prawej dziewiętnaście na dwadzieścia komórek należy do nich"
+  heroAlt: "Ilustracja: cukry mleka mijają wyściółkę jelita niemowlęcia nietknięte, rozwidlone pałeczki Bifidobacterium fermentują je na limonkowe krople octanu, a po prawej dziewiętnaście na dwadzieścia komórek należy do nich"
 referral:
   product: ""
   mayaLog: ""
@@ -148,9 +148,9 @@ Warto się przy tym zatrzymać. Jeden rodzaj, jeden narząd, jedno okno życia �
 
 ## Czym właściwie jest
 
-*Bifidobacterium* to rodzaj bakterii Gram-dodatnich o wysokiej zawartości G+C, beztlenowych, o rozwidlonym — „bifidowym" — kształcie komórki, które fermentują cukry szlakiem bifidowym do octanu i mleczanu (z grubsza 1,5 mola octanu i 1 mol mleczanu na mol glukozy) i żyją głównie w mikrobiocie jelitowej ssaków oraz innych zwierząt, przy czym grupa *B. asteroides* jest typowa dla owadów, a grupa *B. pullorum* dla ptaków [s1][s2].
+*Bifidobacterium* to rodzaj bakterii Gram-dodatnich o wysokiej zawartości G+C, beztlenowych, o rozwidlonym — „bifidowym” — kształcie komórki, które fermentują cukry szlakiem bifidowym do octanu i mleczanu (z grubsza 1,5 mola octanu i 1 mol mleczanu na mol glukozy) i żyją głównie w mikrobiocie jelitowej ssaków oraz innych zwierząt, przy czym grupa *B. asteroides* jest typowa dla owadów, a grupa *B. pullorum* dla ptaków [s1][s2].
 
-Dwa słowa w tym zdaniu wykonują większość pracy. **Beztlenowe**: powietrze jest dla tych organizmów problemem, dlatego rozkwitają w głębi okrężnicy i dlatego utrzymanie ich przy życiu poza ciałem jest problemem produkcyjnym, a nie hasłem. **Bifidowe**: nazwa pochodzi od *bifidus*, rozwidlony — to rozwidlony kształt komórek, które Tissier znalazł w stolcu niemowląt karmionych piersią w 1900 roku, dał im nazwę *Bacillus bifidus* [s1].
+Dwa słowa w tym zdaniu wykonują większość pracy. **Beztlenowe**: powietrze jest dla tych organizmów problemem, dlatego rozkwitają w głębi okrężnicy i dlatego utrzymanie ich przy życiu poza ciałem jest problemem produkcyjnym, a nie hasłem. **Bifidowe**: nazwa pochodzi od *bifidus*, rozwidlony — to właśnie rozwidlony kształt komórek, które Tissier znalazł w stolcu niemowląt karmionych piersią w 1900 roku, dał im nazwę *Bacillus bifidus* [s1].
 
 ## Gdzie żyje w ciele
 
@@ -164,7 +164,7 @@ Trzy mechanizmy, każdy z dołączonym badaniem.
 
 **Wytwarza octan, a octan broni ściany jelita.** To najczystszy wynik mechanistyczny w tej dziedzinie. Pracując na myszach gnotobiotycznych i śmiertelnym modelu zakażenia krwotocznym *E. coli* O157:H7, Fukuda i współpracownicy pokazali, że pewne szczepy bifidobakterii chroniły zwierzęta przed śmiercią, że ochrona szła w parze ze zwiększonym wytwarzaniem octanu i że przenikanie toksyny Shiga ze światła jelita do krwi było zahamowane [s5]. Powiedz zastrzeżenie na głos: myszy, jeden patogen, konkretne szczepy. To pokazuje, że mechanizm może działać. Nie pokazuje, że robi to twój jogurt.
 
-**Rozmawia z układem odpornościowym przez swoje metabolity.** Karmiony oligosacharydami mleka kobiecego zamiast zwykłą laktozą, *B. infantis* wytwarza wyraźnie więcej kwasu indolo-3-mlekowego, metabolitu tryptofanu; w stężeniu 1–10 mM związek ten tłumił aktywację NF-κB napędzaną przez LPS w linii komórek makrofagów i obniżał wywołany przez TNF-α oraz LPS wzrost interleukiny 8 w liniach komórek nabłonka jelita [s6]. Znowu — hodowla komórkowa, nie ludzie. Ale nazywa cząsteczkę, a to więcej, niż udaje się większości twierdzeń o „wspieraniu odporności".
+**Rozmawia z układem odpornościowym przez swoje metabolity.** Karmiony oligosacharydami mleka kobiecego zamiast zwykłą laktozą, *B. infantis* wytwarza wyraźnie więcej kwasu indolo-3-mlekowego, metabolitu tryptofanu; w stężeniu 1–10 mM związek ten tłumił aktywację NF-κB napędzaną przez LPS w linii komórek makrofagów i obniżał wywołany przez TNF-α oraz LPS wzrost interleukiny 8 w liniach komórek nabłonka jelita [s6]. Znowu — hodowla komórkowa, nie ludzie. Ale nazywa cząsteczkę, a to więcej, niż udaje się większości twierdzeń o „wspieraniu odporności”.
 
 ## Co robi przeciwko nam
 

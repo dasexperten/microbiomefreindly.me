@@ -147,3 +147,27 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Чому їй, а не вам? — чоловік чекає на лаві в пральні у рівному пізньоранковому світлі"
 - uk card question: "Чому їй, а не вам?"
 - uk plate lines: "Спершу — ті самі мертві клітини, два кишківники · Потім — у густому кишківнику місця немає · Підсумок — змінився лише рідкий"
+
+- pl preview alt: "Ilustracja: kilka nieruchomych, zabitych ciepłem komórek pałeczek leży w wolnych lukach ubogiej społeczności jelitowej wśród strzępów błonnika"
+- pl hero alt: "Ilustracja: te same martwe komórki pałeczek leżą niewykorzystane na gęstej społeczności jelitowej, ale osiadają w wolnych lukach ubogiej, gdzie pojawiają się nowi mieszkańcy i drobne kropelki"
+- pl card alt: "U kogo to w ogóle działa? — mężczyzna czeka na ławce w pralni samoobsługowej w płaskim świetle przedpołudnia"
+- pl card question: "U kogo to w ogóle działa?"
+- pl plate lines: "Najpierw — te same martwe komórki, dwa jelita · Potem — w zatłoczonym jelicie nie ma już miejsca · Efekt — zmieniło się tylko jelito ubogie"
+
+- fr preview alt: "Illustration : quelques cellules en bâtonnets, immobiles et tuées par la chaleur, dans les vides d'une communauté intestinale clairsemée, parmi des fragments de fibres"
+- fr hero alt: "Illustration : les mêmes cellules mortes restent inutilisées sur une communauté intestinale dense, mais se logent dans les vides d'une communauté clairsemée, où apparaissent de nouveaux habitants et de petites gouttelettes"
+- fr card alt: "Pourquoi elle et pas vous ? — un homme attend sur le banc d'une laverie dans la lumière plate de la matinée"
+- fr card question: "Pourquoi elle et pas vous ?"
+- fr plate lines: "D'abord — les mêmes cellules mortes, deux intestins · Ensuite — un intestin dense n'a plus de place · Résultat — seul l'intestin clairsemé a changé"
+
+- tr preview alt: "Çizim: seyrek bir bağırsak topluluğunun açık boşluklarında, lif parçaları arasında yatan birkaç hareketsiz, ısıyla öldürülmüş çubuk hücre"
+- tr hero alt: "Çizim: aynı ölü çubuk hücreler kalabalık bir bağırsak topluluğunda kullanılmadan duruyor, seyrek olanın açık boşluklarına ise yerleşiyor; orada yeni sakinler ve küçük damlacıklar beliriyor"
+- tr card alt: "Neden onda oldu, sizde olmadı? — bir adam öğleye doğru düz ışıkta çamaşırhanenin sırasında bekliyor"
+- tr card question: "Neden onda oldu, sizde olmadı?"
+- tr plate lines: "Önce — aynı ölü hücreler, iki bağırsak · Sonra — kalabalık bağırsakta yer kalmamıştır · Sonuç — yalnızca seyrek bağırsak değişti"
+
+- ro preview alt: "Ilustrație: câteva celule-bastonaș nemișcate, inactivate termic, stau în golurile deschise ale unei comunități intestinale sărace, printre fragmente de fibre"
+- ro hero alt: "Ilustrație: aceleași celule-bastonaș moarte zac nefolosite pe o comunitate intestinală aglomerată, dar se așază în golurile uneia sărace, unde apar locuitori noi și picături mici"
+- ro card alt: "De ce ei și nu ție? — un bărbat așteaptă pe banca unei spălătorii, în lumina plată de dinainte de prânz"
+- ro card question: "De ce ei și nu ție?"
+- ro plate lines: "Mai întâi — aceleași celule moarte, două intestine · Apoi — într-un intestin plin nu mai e loc · Rezultat — doar intestinul sărac s-a schimbat"

@@ -170,3 +170,33 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Це справді фізичний біль? — жінка спиняється в офісному коридорі, передпліччя притиснуте до живота"
 - uk card question: "Це справді фізичний біль?"
 - uk plate lines: "Спочатку — калова рідина торкається стінки кишки · Потім — фермент надрізає нервовий рецептор · Підсумок — нервова сітка збуджується набагато сильніше"
+
+- pl preview alt: "Ilustracja: koronka nerwowych węzełków prześwituje przez cienką tkankę jelita, osiada na niej przejrzysta bursztynowa błonka, kilka węzełków świeci koralowo"
+- pl hero alt: "Ilustracja: cienka bursztynowa błonka płynu osiada na wyściółce jelita; enzym przecina receptor na komórce nerwowej, ta się rozświetla i budzi węzełki otaczającej sieci nerwowej"
+- pl card alt: "Czy ten ból jest fizyczny? — kobieta przystaje na biurowym korytarzu, z przedramieniem przyciśniętym do brzucha"
+- pl card question: "Czy ten ból jest fizyczny?"
+- pl plate lines: "Najpierw — płyn ze stolca dotyka ściany jelita · Potem — enzym przecina receptor nerwu · Efekt — sieć nerwowa wyładowuje się mocniej"
+
+- ar preview alt: "رسم توضيحي: شبكة من عقد عصبية تتوهج عبر نسيج معوي رقيق، وغشاء كهرماني صافٍ يستقر فوقها، وبضع عقد مضيئة بلون مرجاني"
+- ar hero alt: "رسم توضيحي: غشاء سائل كهرماني رقيق يستقر على بطانة الأمعاء؛ إنزيم يقص مستقبلاً على خلية عصبية فتضيء وتوقظ عقد الشبكة العصبية حولها"
+- ar card alt: "هل الألم جسدي فعلاً؟ — امرأة تتوقف في ممر مكتب وساعدها مضغوط على وسط بطنها"
+- ar card question: "هل الألم جسدي فعلاً؟"
+- ar plate lines: "أولاً — سائل البراز يلامس جدار الأمعاء · ثم — إنزيم يقص مستقبلاً عصبياً · النتيجة — الشبكة العصبية تشتعل أقوى بكثير"
+
+- tr preview alt: "İllüstrasyon: ince bağırsak dokusunun içinden parlayan sinir düğümlerinden bir dantel, üzerine berrak kehribar rengi bir film çöküyor, birkaç düğüm mercan rengiyle yanıyor"
+- tr hero alt: "İllüstrasyon: bağırsak astarına ince kehribar rengi bir sıvı filmi çöküyor; bir enzim sinir hücresindeki bir alıcıyı kesiyor, hücre yanıyor ve çevresindeki sinir ağının düğümlerini uyandırıyor"
+- tr card alt: "Ağrı gerçekten fiziksel mi? — bir kadın ofis koridorunda duruyor, kolunu karnına bastırmış"
+- tr card question: "Ağrı gerçekten fiziksel mi?"
+- tr plate lines: "Önce — dışkı sıvısı bağırsak duvarına değer · Sonra — bir enzim sinir alıcısını keser · Sonuç — sinir ağı çok daha güçlü ateşler"
+
+- fr preview alt: "Illustration : une dentelle de nœuds nerveux qui luit à travers un fin tissu intestinal, un film ambré translucide s'y dépose, quelques nœuds allumés en corail"
+- fr hero alt: "Illustration : un mince film de liquide ambré se dépose sur la muqueuse intestinale ; une enzyme sectionne un récepteur sur une cellule nerveuse, qui s'allume et réveille les nœuds du réseau autour d'elle"
+- fr card alt: "La douleur est-elle physique ? — une femme s'arrête dans un couloir de bureau, un avant-bras pressé sur le ventre"
+- fr card question: "La douleur est-elle physique ?"
+- fr plate lines: "D'abord — le liquide des selles touche la paroi · Ensuite — une enzyme coupe un récepteur nerveux · Résultat — le réseau nerveux s'emballe"
+
+- ro preview alt: "Ilustrație: o dantelă de noduri nervoase strălucind prin țesutul subțire al intestinului, o peliculă limpede chihlimbarie așezându-se peste ea, câteva noduri luminate coral"
+- ro hero alt: "Ilustrație: o peliculă subțire de lichid chihlimbariu se așază pe mucoasa intestinului; o enzimă retează un receptor de pe o celulă nervoasă, care se aprinde și trezește nodurile rețelei din jur"
+- ro card alt: "Durerea e cu adevărat fizică? — o femeie se oprește pe un hol de birou, cu antebrațul apăsat pe abdomen"
+- ro card question: "Durerea e cu adevărat fizică?"
+- ro plate lines: "Mai întâi — lichidul din scaun atinge peretele · Apoi — o enzimă retează un receptor nervos · Rezultat — rețeaua nervoasă descarcă mult mai tare"

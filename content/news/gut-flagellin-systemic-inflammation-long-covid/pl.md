@@ -1,6 +1,6 @@
 ---
-title: "Długim covidem mogą sterować jelita, a nie płuca"
-meta: "Badanie z 2026 roku w Gut wiąże zapalenie daleko od jelit z flageliną, białkiem bakteryjnej wici, przez TLR5, IL-15 i kwas arachidonowy."
+title: "Długim covidem mogą sterować jelita, a nie płuca"
+meta: "Badanie z 2026 roku w Gut wiąże zapalenie daleko od jelit z flageliną, białkiem bakteryjnej wici, przez TLR5, IL-15 i kwas arachidonowy."
 kicker: "Flagelina"
 type: news
 topic: immunity
@@ -15,29 +15,29 @@ seo:
   pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
 author: magnus-larsen
 voice: greger
-answer: "Badanie z 2026 roku w Gut proponuje, że zapalenie w długim covidzie zaczyna się w jelitach: flagelina, białko, z którego bakterie budują swoje wici, przedostaje się dalej i uruchamia TLR5 na neutrofilach, a te wydzielają IL-15 i skłaniają makrofagi do wytwarzania kwasu arachidonowego, aż zapalają się odległe narządy. Ten sam wzorzec pojawił się w czterech chorobach; test przyczynowy tylko u myszy. Nic z tego nie jest leczeniem."
+answer: "Badanie z 2026 roku w Gut proponuje, że zapalenie w długim covidzie zaczyna się w jelitach: flagelina, białko bakteryjnych wici, przedostaje się dalej i uruchamia TLR5 na neutrofilach, a te wydzielają IL-15 i skłaniają makrofagi do kwasu arachidonowego, aż zapalają się odległe narządy. Ten sam wzorzec w czterech chorobach; test przyczynowy tylko u myszy. To nie jest leczenie."
 keyFacts:
-  - fact: "Rozrost bakterii z wiciami był wspólną sygnaturą jelitową w reumatoidalnym zapaleniu stawów, zesztywniającym zapaleniu stawów kręgosłupa, nieswoistym zapaleniu jelit i długim covidzie."
+  - fact: "Rozrost bakterii z wiciami był wspólną sygnaturą jelitową w reumatoidalnym zapaleniu stawów, zesztywniającym zapaleniu stawów kręgosłupa, nieswoistym zapaleniu jelit i długim covidzie."
     source: s1
-  - fact: "Proponowany łańcuch biegnie od flageliny do TLR5 na neutrofilach, do zewnątrzkomórkowych sieci neutrofilowych i uwolnienia IL-15, do wytwarzania kwasu arachidonowego przez makrofagi, do zapalenia w narządach daleko od jelit."
+  - fact: "Proponowany łańcuch biegnie od flageliny do TLR5 na neutrofilach, do zewnątrzkomórkowych sieci neutrofilowych i uwolnienia IL-15, do wytwarzania kwasu arachidonowego przez makrofagi, do zapalenia w narządach daleko od jelit."
     source: s1
-  - fact: "Wyłączenie u myszy syntezy kwasu arachidonowego w makrofagach albo IL-15 w neutrofilach zmniejszało uszkodzenie płuc; usunięcie mikrobioty jelitowej gentamycyną tłumiło zapalenie ogólnoustrojowe w sposób, którego pozostałe interwencje nie odtworzyły."
+  - fact: "Wyłączenie u myszy syntezy kwasu arachidonowego w makrofagach albo IL-15 w neutrofilach zmniejszało uszkodzenie płuc; usunięcie mikrobioty jelitowej gentamycyną tłumiło zapalenie ogólnoustrojowe w sposób, którego pozostałe interwencje nie odtworzyły."
     source: s1
-  - fact: "TLR5 rozpoznano jako ssaczy receptor bakteryjnej flageliny, pochodzącej zarówno z bakterii Gram-dodatnich, jak i Gram-ujemnych, w Nature w 2001 roku."
+  - fact: "TLR5 rozpoznano jako ssaczy receptor bakteryjnej flageliny, pochodzącej zarówno z bakterii Gram-dodatnich, jak i Gram-ujemnych, w Nature w 2001 roku."
     source: s2
-  - fact: "Flageliny rozpoznano jako dominujący antygen w chorobie Leśniowskiego-Crohna, z podwyższonym stężeniem IgG w surowicy przeciwko tym komensalnym flagelinom u chorych na tę chorobę, ale nie we wrzodziejącym zapaleniu jelita grubego ani w grupie kontrolnej."
+  - fact: "Flageliny rozpoznano jako dominujący antygen w chorobie Leśniowskiego-Crohna, z podwyższonym stężeniem IgG w surowicy przeciwko tym komensalnym flagelinom u chorych na tę chorobę, ale nie we wrzodziejącym zapaleniu jelita grubego ani w grupie kontrolnej."
     source: s4
 faq:
   - q: "Czy to znaczy, że długiego covida wywołują bakterie jelitowe?"
-    a: "Nie. Znaczy tyle, że jedna grupa badawcza zaproponowała łańcuch zaczynający się w jelitach i pokazała, że przerwanie tego łańcucha zmienia wynik u myszy. Praca u ludzi — metagenomy, sekwencjonowanie pojedynczych komórek i kohorty śledzone w czasie — opisuje tę samą oś u pacjentów, ale opisywanie to nie to samo co ingerowanie. To powód, żeby przeprowadzić kolejne badanie, a nie rozpoznanie."
-  - q: "Czy bakterie z wiciami to złe bakterie?"
-    a: "Same w sobie nie. Wić to sposób poruszania się, a nie broń, i bakterie z wiciami nosisz w zdrowym jelicie. Twierdzenie w tej pracy dotyczy tego, jak wiele ich jest i czy ich flagelina dociera do komórek odpornościowych, do których docierać nie powinna."
+    a: "Nie. Znaczy tyle, że jedna grupa badawcza zaproponowała łańcuch zaczynający się w jelitach i pokazała, że przerwanie tego łańcucha zmienia wynik u myszy. Praca u ludzi — metagenomy, sekwencjonowanie pojedynczych komórek i kohorty śledzone w czasie — opisuje tę samą oś u pacjentów, ale opisywanie to nie to samo co ingerowanie. To powód, żeby przeprowadzić kolejne badanie, a nie rozpoznanie."
+  - q: "Czy bakterie z wiciami to złe bakterie?"
+    a: "Same w sobie nie. Wić to sposób poruszania się, a nie broń, i bakterie z wiciami nosisz w zdrowym jelicie. Twierdzenie w tej pracy dotyczy tego, jak wiele ich jest i czy ich flagelina dociera do komórek odpornościowych, do których docierać nie powinna."
   - q: "Czy powinienem wziąć antybiotyk, żeby je usunąć?"
-    a: "Nie, i proszę, nie czytaj tak wyniku u myszy. Gentamycynę zastosowano u zwierząt jako narzędzie doświadczalne, żeby usunąć mikrobiotę jelitową i zobaczyć, co się stanie. Ogołocenie własnej społeczności jelitowej ma koszty, których to doświadczenie nigdy nie miało mierzyć."
+    a: "Nie, i proszę, nie czytaj tak wyniku u myszy. Gentamycynę zastosowano u zwierząt jako narzędzie doświadczalne, żeby usunąć mikrobiotę jelitową i zobaczyć, co się stanie. Ogołocenie własnej społeczności jelitowej ma koszty, których to doświadczenie nigdy nie miało mierzyć."
   - q: "Ilu pacjentów zbadano?"
-    a: "Nie wiem i nie zamierzam zgadywać. Opublikowane streszczenie nie podaje liczebności kohort, a pełny tekst jest za płatnym dostępem, więc ta liczba pozostaje niezweryfikowana. Liczebność próby bez źródła jest gorsza niż przyznana luka."
-  - q: "Czy problemem jest kwas arachidonowy w mojej diecie?"
-    a: "Nie to badano. Kwas arachidonowy, o który tu chodzi, powstawał w makrofagach wewnątrz zwierzęcia po sygnale IL-15, nie został zjedzony. Czy spożycie z dietą zasila tę samą ścieżkę, to osobne pytanie, na które ta praca nie odpowiada."
+    a: "Nie wiem i nie zamierzam zgadywać. Opublikowane streszczenie nie podaje liczebności kohort, a pełny tekst jest za płatnym dostępem, więc ta liczba pozostaje niezweryfikowana. Liczebność próby bez źródła jest gorsza niż przyznana luka."
+  - q: "Czy problemem jest kwas arachidonowy w mojej diecie?"
+    a: "Nie to badano. Kwas arachidonowy, o który tu chodzi, powstawał w makrofagach wewnątrz zwierzęcia po sygnale IL-15, nie został zjedzony. Czy spożycie z dietą zasila tę samą ścieżkę, to osobne pytanie, na które ta praca nie odpowiada."
 sources:
   - id: s1
     name: "Geng J. et al., Gut, 2026"
@@ -82,37 +82,37 @@ gates:
 status: published
 ---
 
-Każda bakteria, która pływa, robi to za pomocą wici. Ta wić to sztywna, spiralna nić, a nić jest zbudowana z wielu kopii jednego białka zwanego flageliną. Twój układ odpornościowy zna to białko od dawna. W 2001 roku [s2] Fumitaka Hayashi i współpracownicy donieśli w Nature, że jeden receptor ssaków, TLR5, rozpoznaje flagelinę zarówno bakterii Gram-dodatnich, jak i Gram-ujemnych, a samo spotkanie z nią wystarczy, by włączyć sygnalizację zapalną. To sensowne rozwiązanie, które mogło wyewoluować. Bakteria z silnikiem to bakteria, która może podróżować, a podróżujące bakterie to te, które docierają do tkanek, do których nigdy nie miały trafić.
+Każda bakteria, która pływa, robi to za pomocą wici. Ta wić to sztywna, spiralna nić, a nić jest zbudowana z wielu kopii jednego białka zwanego flageliną. Twój układ odpornościowy zna to białko od dawna. W 2001 roku [s2] Fumitaka Hayashi i współpracownicy donieśli w Nature, że jeden receptor ssaków, TLR5, rozpoznaje flagelinę zarówno bakterii Gram-dodatnich, jak i Gram-ujemnych, a samo spotkanie z nią wystarczy, by włączyć sygnalizację zapalną. To sensowne rozwiązanie, które mogło wyewoluować. Bakteria z silnikiem to bakteria, która może podróżować, a podróżujące bakterie to te, które docierają do tkanek, do których nigdy nie miały trafić.
 
-Nowa praca pyta o to, co się dzieje, gdy ten alarm jest pociągany codziennie, po cichu, z wnętrza twoich własnych jelit.
+Nowa praca pyta o to, co się dzieje, gdy ten alarm jest pociągany codziennie, po cichu, z wnętrza twoich własnych jelit.
 
-## Co zrobiono w badaniu
+## Co zrobiono w badaniu
 
-Pracę napisali Jiejie Geng i współpracownicy, a ukazała się w czasopiśmie Gut w 2026 roku [s1]. Porównali metagenomy jelitowe w czterech grupach pacjentów [s1] — reumatoidalne zapalenie stawów, zesztywniające zapalenie stawów kręgosłupa, nieswoiste zapalenie jelit i długi covid — i we wszystkich znaleźli to samo: rozrost bakterii z wiciami. Do pływaków w ludzkim jelicie należą przedstawiciele [Pseudomonadota](/bacteria/pseudomonadota-proteobacteria/) oraz wiciowe klostridia w obrębie [Bacillota](/bacteria/bacillota-firmicutes/), więc mowa o przesunięciu wewnątrz społeczności, którą już nosisz, a nie o infekcji przychodzącej z zewnątrz. Opublikowane streszczenie nie wymienia, które taksony się rozrosły, więc nie przypiszę żadnemu z nich udziału.
+Pracę napisali Jiejie Geng i współpracownicy, a ukazała się w czasopiśmie Gut w 2026 roku [s1]. Porównali metagenomy jelitowe w czterech grupach pacjentów [s1] — reumatoidalne zapalenie stawów, zesztywniające zapalenie stawów kręgosłupa, nieswoiste zapalenie jelit i długi covid — i we wszystkich znaleźli to samo: rozrost bakterii z wiciami. Do pływaków w ludzkim jelicie należą przedstawiciele [Pseudomonadota](/bacteria/pseudomonadota-proteobacteria/) oraz wiciowe klostridia w obrębie [Bacillota](/bacteria/bacillota-firmicutes/), więc mowa o przesunięciu wewnątrz społeczności, którą już nosisz, a nie o infekcji przychodzącej z zewnątrz. Opublikowane streszczenie nie wymienia, które taksony się rozrosły, więc nie przypiszę żadnemu z nich udziału.
 
-Potem wybrali długiego covida jako przypadek do rozłożenia na części, a ich powód wart jest powtórzenia: ma dającą się datować chwilę początku, a większość pacjentów nie była z jego powodu jeszcze leczona, więc biologia jest mniej zamącona niż w wieloletnim zapaleniu stawów.
+Potem wybrali długiego covida jako przypadek do rozłożenia na części, a ich powód wart jest powtórzenia: ma dającą się datować chwilę początku, a większość pacjentów nie była z jego powodu jeszcze leczona, więc biologia jest mniej zamącona niż w wieloletnim zapaleniu stawów.
 
 ## Łańcuch, ogniwo po ogniwie
 
-Korzystając z sekwencjonowania RNA pojedynczych komórek, badań czynnościowych w kohortach ludzi śledzonych w czasie i mysich modeli współzakażenia, autorzy układają łańcuch z czterech ogniw [s1]:
+Korzystając z sekwencjonowania RNA pojedynczych komórek, badań czynnościowych w kohortach ludzi śledzonych w czasie i mysich modeli współzakażenia, autorzy układają łańcuch z czterech ogniw [s1]:
 
-- bakterie z wiciami rozrastają się, a ich flagelina dociera do komórek odpornościowych;
-- flagelina pobudza TLR5 na neutrofilach, a te odpowiadają wyrzuceniem zewnątrzkomórkowych sieci neutrofilowych — sieci z własnego DNA — i uwolnieniem cytokiny IL-15;
+- bakterie z wiciami rozrastają się, a ich flagelina dociera do komórek odpornościowych;
+- flagelina pobudza TLR5 na neutrofilach, a te odpowiadają wyrzuceniem zewnątrzkomórkowych sieci neutrofilowych — sieci z własnego DNA — i uwolnieniem cytokiny IL-15;
 - IL-15 skłania makrofagi do wytwarzania kwasu arachidonowego, kwasu tłuszczowego, który zasila lipidową maszynerię zapalną organizmu;
 - narządy daleko od jelit zapalają się.
 
-U myszy współzakażonych tak, by naśladować przebieg u człowieka, rozwinęło się włóknienie płuc i skupiska limfatyczne w jelicie — obraz wielonarządowy, odtworzony u zwierzęcia. A potem przychodzi część, która ma znaczenie. Kiedy badacze genetycznie wyłączyli wytwarzanie kwasu arachidonowego w makrofagach albo IL-15 w neutrofilach, uszkodzenie płuc złagodniało. A kiedy usunęli mikrobiotę jelitową gentamycyną, zapalenie ogólnoustrojowe opadło w sposób, któremu pozostałe interwencje nie dorównały. Przetnij łańcuch, a odległy narząd cierpi mniej. To właśnie zamienia korelację w mechanizm kandydujący.
+U myszy współzakażonych tak, by naśladować przebieg u człowieka, rozwinęło się włóknienie płuc i skupiska limfatyczne w jelicie — obraz wielonarządowy, odtworzony u zwierzęcia. A potem przychodzi część, która ma znaczenie. Kiedy badacze genetycznie wyłączyli wytwarzanie kwasu arachidonowego w makrofagach albo IL-15 w neutrofilach, uszkodzenie płuc złagodniało. A kiedy usunęli mikrobiotę jelitową gentamycyną, zapalenie ogólnoustrojowe opadło w sposób, któremu pozostałe interwencje nie dorównały. Przetnij łańcuch, a odległy narząd cierpi mniej. To właśnie zamienia korelację w mechanizm kandydujący.
 
-Nic z tego nie bierze się znikąd. Flageliny rozpoznano jako dominujący antygen w chorobie Leśniowskiego-Crohna w 2004 roku [s4], z podwyższonym stężeniem IgG w surowicy przeciwko tym komensalnym flagelinom u chorych na tę chorobę, ale nie u chorych na wrzodziejące zapalenie jelita grubego ani u osób z grupy kontrolnej. A myszy hodowane bez TLR5, opisane w Science w 2010 roku [s3], dorastają ze zmienioną mikrobiotą i cechami zespołu metabolicznego — wiele z tych cech da się przenieść na myszy dzikiego typu wolne od drobnoustrojów przez samo przeszczepienie mikrobioty. Flagelina krąży wokół tego terenu już od dłuższego czasu.
+Nic z tego nie bierze się znikąd. Flageliny rozpoznano jako dominujący antygen w chorobie Leśniowskiego-Crohna w 2004 roku [s4], z podwyższonym stężeniem IgG w surowicy przeciwko tym komensalnym flagelinom u chorych na tę chorobę, ale nie u chorych na wrzodziejące zapalenie jelita grubego ani u osób z grupy kontrolnej. A myszy hodowane bez TLR5, opisane w Science w 2010 roku [s3], dorastają ze zmienioną mikrobiotą i cechami zespołu metabolicznego — wiele z tych cech da się przenieść na myszy dzikiego typu wolne od drobnoustrojów przez samo przeszczepienie mikrobioty. Flagelina krąży wokół tego terenu już od dłuższego czasu.
 
 ## Czego to badanie nie może ci powiedzieć
 
-Po pierwsze, i to jest rzecz najważniejsza: część tej pracy obejmująca wiele chorób to skojarzenie, a nie mechanizm. Znalezienie tej samej bakteryjnej sygnatury w reumatoidalnym zapaleniu stawów, zesztywniającym zapaleniu stawów kręgosłupa, nieswoistym zapaleniu jelit i długim covidzie nie dowodzi, że jeden proces napędza wszystkie cztery. Mechanizm rozebrano na części w długim covidzie i u myszy. Pozostałe trzy choroby wniosły wzorzec. Autorzy sami są w tym ostrożni — nazywają go mechanizmem kandydującym i proszą o prospektywne potwierdzenie ponad granicami chorób.
+Po pierwsze, i to jest rzecz najważniejsza: część tej pracy obejmująca wiele chorób to skojarzenie, a nie mechanizm. Znalezienie tej samej bakteryjnej sygnatury w reumatoidalnym zapaleniu stawów, zesztywniającym zapaleniu stawów kręgosłupa, nieswoistym zapaleniu jelit i długim covidzie nie dowodzi, że jeden proces napędza wszystkie cztery. Mechanizm rozebrano na części w długim covidzie i u myszy. Pozostałe trzy choroby wniosły wzorzec. Autorzy sami są w tym ostrożni — nazywają go mechanizmem kandydującym i proszą o prospektywne potwierdzenie ponad granicami chorób.
 
-Po drugie, nie potrafię ci powiedzieć, ile osób liczyły te kohorty. Opublikowane streszczenie nie podaje liczebności prób, a pełny tekst jest za płatnym dostępem, więc tej liczby nie zweryfikowałem. Wolę zostawić dziurę widoczną, niż wypełnić ją liczbą, do której nie umiem wskazać źródła.
+Po drugie, nie potrafię ci powiedzieć, ile osób liczyły te kohorty. Opublikowane streszczenie nie podaje liczebności prób, a pełny tekst jest za płatnym dostępem, więc tej liczby nie zweryfikowałem. Wolę zostawić dziurę widoczną, niż wypełnić ją liczbą, do której nie umiem wskazać źródła.
 
-Po trzecie, ratunek był genetyczny i farmakologiczny, i przeprowadzono go u myszy. Antybiotyk, który wycisza zapalenie u myszy, nie jest pozwoleniem, żeby go brać. Wymiecenie społeczności jelitowej ma koszty, których to doświadczenie nie było zbudowane, by zmierzyć.
+Po trzecie, ratunek był genetyczny i farmakologiczny, i przeprowadzono go u myszy. Antybiotyk, który wycisza zapalenie u myszy, nie jest pozwoleniem, żeby go brać. Wymiecenie społeczności jelitowej ma koszty, których to doświadczenie nie było zbudowane, by zmierzyć.
 
 ## Co zmienia dzisiaj — nic, na czym mógłbyś się oprzeć
 
-Na końcu tej pracy nie czeka żadna dieta, żaden test ani żaden suplement. To, co daje, to nazwany cel, który ktoś może pójść i sprawdzić — flagelina oraz biegnąca za nią linia TLR5–IL-15–kwas arachidonowy — a do tego podpowiedź, że kwas arachidonowy mógłby posłużyć za wskaźnik, który da się zmierzyć. Jeśli to przetrwa kohortę prospektywną — badaczy śledzących grupę pacjentów naprzód w czasie, zamiast patrzeć wstecz na dokumentację — ciekawym pytaniem staje się to, czy udział bakterii z wiciami w społeczności jelitowej da się przesunąć bez młota. Nikt takiego badania nie przeprowadził. Kiedy ktoś je przeprowadzi, podam liczby, które przyniesie, a nie te, które obiecuje.
+Na końcu tej pracy nie czeka żadna dieta, żaden test ani żaden suplement. To, co daje, to nazwany cel, który ktoś może pójść i sprawdzić — flagelina oraz biegnąca za nią linia TLR5–IL-15–kwas arachidonowy — a do tego podpowiedź, że kwas arachidonowy mógłby posłużyć za wskaźnik, który da się zmierzyć. Jeśli to przetrwa kohortę prospektywną — badaczy śledzących grupę pacjentów naprzód w czasie, zamiast patrzeć wstecz na dokumentację — ciekawym pytaniem staje się to, czy udział bakterii z wiciami w społeczności jelitowej da się przesunąć bez młota. Nikt takiego badania nie przeprowadził. Kiedy ktoś je przeprowadzi, podam liczby, które przyniesie, a nie te, które obiecuje.

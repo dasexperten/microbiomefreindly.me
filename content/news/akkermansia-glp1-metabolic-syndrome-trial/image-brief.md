@@ -131,3 +131,27 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Чи провалилося дослідження? — чоловік за сорок чекає сам на автобусній зупинці в холодному ранковому світлі"
 - uk card question: "Чи провалилося дослідження?"
 - uk plate lines: "Спершу — мертві клітини осідають у слизу · Потім — одна кишкова клітина випускає GLP-1 · Підсумок — 30 мільярдів клітин, нічого не зрушило"
+
+- pl preview alt: "Ilustracja: całe, nieruchome owalne komórki Akkermansia leżą pośród wyjedzonych zagłębień jelitowego śluzu, pod nimi koralowy połysk wyściółki"
+- pl hero alt: "Ilustracja: gęsta ława owalnych komórek Akkermansia zabitych ciepłem pośród jelitowego śluzu; jedna hormonalna komórka wyściółki wypuszcza złoty wyrzut, podczas gdy tkanka dalej pozostaje bez zmian"
+- pl card alt: "Czy badanie się nie udało? — mężczyzna po czterdziestce czeka sam na przystanku wczesnym chłodnym rankiem"
+- pl card question: "Czy badanie się nie udało?"
+- pl plate lines: "Najpierw — martwe komórki osiadają pośród śluzu · Potem — komórka jelita wypuszcza GLP-1 · Efekt — 30 miliardów komórek, nic się nie ruszyło"
+
+- fr preview alt: "Illustration : des cellules ovales d'Akkermansia, entières et immobiles, dans des creux broutés du mucus intestinal, un éclat corail de muqueuse en dessous"
+- fr hero alt: "Illustration : une dérive dense de cellules ovales d'Akkermansia tuées par la chaleur dans le mucus intestinal ; une cellule hormonale de la muqueuse libère une bouffée dorée tandis que le tissu au-delà reste inchangé"
+- fr card alt: "L'essai a-t-il échoué ? — un homme de quarante ans attend seul à un arrêt de bus dans la lumière froide du matin"
+- fr card question: "L'essai a-t-il échoué ?"
+- fr plate lines: "D'abord — des cellules mortes se posent dans le mucus · Ensuite — une cellule intestinale lâche du GLP-1 · Résultat — 30 milliards de cellules, rien n'a bougé"
+
+- tr preview alt: "Çizim: bağırsak mukusunun otlanmış çukurlarında yatan bütün, hareketsiz oval Akkermansia hücreleri, altlarında mukozanın mercan rengi parıltısı"
+- tr hero alt: "Çizim: bağırsak mukusunda ısıyla öldürülmüş oval Akkermansia hücrelerinden yoğun bir yığın; mukozadaki bir hormon hücresi altın renkli bir salınım yapıyor, ötesindeki doku ise değişmeden kalıyor"
+- tr card alt: "Çalışma başarısız mı oldu? — kırklı yaşlarda bir adam soğuk sabah ışığında otobüs durağında tek başına bekliyor"
+- tr card question: "Çalışma başarısız mı oldu?"
+- tr plate lines: "Önce — ölü hücreler mukusa yerleşir · Sonra — bir bağırsak hücresi GLP-1 salar · Sonuç — 30 milyar hücre, hiçbir şey değişmedi"
+
+- ro preview alt: "Ilustrație: celule ovale de Akkermansia, întregi și nemișcate, stau în adânciturile păscute ale mucusului intestinal, cu o sclipire coral a mucoasei dedesubt"
+- ro hero alt: "Ilustrație: o îngrămădire deasă de celule ovale de Akkermansia inactivate termic în mucusul intestinal; o celulă hormonală a mucoasei eliberează o izbucnire aurie, iar țesutul de dincolo rămâne neschimbat"
+- ro card alt: "A eșuat studiul clinic? — un bărbat de patruzeci de ani așteaptă singur în stație, în lumina rece a dimineții"
+- ro card question: "A eșuat studiul clinic?"
+- ro plate lines: "Mai întâi — celule moarte se așază în mucus · Apoi — o celulă intestinală eliberează GLP-1 · Rezultat — 30 de miliarde de celule, nimic schimbat"

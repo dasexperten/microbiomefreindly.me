@@ -95,3 +95,27 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Це і є погані бактерії? — жінка стоїть навколішки біля грядок квасолі на присадибній ділянці під пізнім сонцем"
 - uk card question: "Це і є погані бактерії?"
 - uk plate lines: "Спершу — кілька паличок у безповітряній юрбі · Потім — запалена стінка пропускає кисень · Підсумок — вони розростаються, решта рідшає"
+
+- pl preview alt: "Ilustracja: krótkie bakterie w kształcie pałeczek gromadzą się w cienkiej limonkowej mgiełce tuż nad zaokrąglonymi komórkami śluzówki jelita"
+- pl hero alt: "Ilustracja: kilka krótkich pałeczek żyje wśród wielu bakterii jelitowych na pozbawionej powietrza śluzówce; gdy śluzówka przepuszcza delikatną mgiełkę tlenu, pałeczki się mnożą, a pozostałe rzednieją"
+- pl card alt: "Czy to te złe bakterie? — kobieta klęczy przy rzędach fasoli na działce w popołudniowym słońcu"
+- pl card question: "Czy to te złe bakterie?"
+- pl plate lines: "Najpierw — kilka pałeczek w beztlenowym tłumie · Potem — chora śluzówka przepuszcza tlen · Efekt — rozkwitają, a reszta rzednieje"
+
+- fr preview alt: "Illustration : de courtes bactéries en bâtonnets se rassemblent dans une fine brume vert clair juste au-dessus des cellules arrondies de la muqueuse intestinale"
+- fr hero alt: "Illustration : quelques courts bâtonnets vivent parmi de nombreuses bactéries sur une muqueuse sans air ; quand la muqueuse laisse filtrer une brume d'oxygène, les bâtonnets se multiplient et les autres s'éclaircissent"
+- fr card alt: "Sont-elles les mauvaises bactéries ? — une femme s'agenouille près des rangs de haricots d'un jardin ouvrier, l'après-midi"
+- fr card question: "Sont-elles les mauvaises bactéries ?"
+- fr plate lines: "D'abord — quelques bâtonnets dans une foule sans air · Ensuite — la muqueuse enflammée laisse filtrer l'oxygène · Résultat — ils prolifèrent, les autres s'éclaircissent"
+
+- tr preview alt: "Çizim: bağırsak mukozasının yuvarlak hücrelerinin hemen üzerinde ince, yeşilimsi bir puste toplanan kısa çubuk biçimli bakteriler"
+- tr hero alt: "Çizim: havasız bir mukoza üzerinde birçok bağırsak bakterisi arasında birkaç kısa çubuk yaşıyor; mukoza soluk bir oksijen pusu sızdırdıkça çubuklar çoğalıyor ve ötekiler seyreliyor"
+- tr card alt: "Kötü bakteriler bunlar mı? — bir kadın ikindi güneşinde bir bostanın fasulye sıralarında diz çökmüş"
+- tr card question: "Kötü bakteriler bunlar mı?"
+- tr plate lines: "Önce — havasız kalabalıkta birkaç çubuk · Sonra — iltihaplı mukoza oksijen sızdırır · Sonuç — çoğalırlar, ötekiler seyrelir"
+
+- ro preview alt: "Ilustrație: bacterii scurte în formă de bastonaș se adună într-o ceață verzuie subțire, chiar deasupra celulelor rotunjite ale mucoasei intestinale"
+- ro hero alt: "Ilustrație: câteva bastonașe scurte trăiesc printre multe bacterii intestinale pe o mucoasă fără aer; când mucoasa lasă să scape o ceață slabă de oxigen, bastonașele se înmulțesc, iar celelalte se răresc"
+- ro card alt: "Acestea sunt bacteriile rele? — o femeie îngenunchează la rândurile de fasole dintr-o grădină, în soarele de după-amiază"
+- ro card question: "Acestea sunt bacteriile rele?"
+- ro plate lines: "Mai întâi — câteva bastonașe într-o mulțime fără aer · Apoi — mucoasa inflamată lasă să scape oxigen · Rezultat — ele se înmulțesc, restul se răresc"

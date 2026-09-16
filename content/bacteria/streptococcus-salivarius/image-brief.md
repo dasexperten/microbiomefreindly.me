@@ -160,3 +160,27 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Мікроб язика безпечний? — жінка сидить із чашкою чаю на своєму балконі вранці"
 - uk card question: "Мікроб язика безпечний?"
 - uk plate lines: "Спершу — на язику від народження · Потім — він випускає власні антибіотики · Підсумок — суперники спиняються скраю"
+
+- pl preview alt: "Ilustracja: koralikowe łańcuszki okrągłych bakterii spoczywają w wilgotnej błonce między miękkimi fałdami, wokół jednego łańcuszka słaba koralowa poświata"
+- pl hero alt: "Ilustracja: łańcuszki okrągłych bakterii osiadają w wilgotnej błonce na miękkich fałdach i uwalniają drobne złote cząstki; nadpływające obce łańcuszki wiotczeją na skraju ich działki"
+- pl card alt: "Czy bakteria z języka jest bezpieczna? — kobieta siedzi rano z filiżanką herbaty na swoim balkonie"
+- pl card question: "Czy bakteria z języka jest bezpieczna?"
+- pl plate lines: "Najpierw — na języku od narodzin · Potem — uwalnia własne antybiotyki · Efekt — rywale grzęzną na jego skraju"
+
+- fr preview alt: "Illustration : des chaînes de bactéries rondes, comme des perles, reposent dans une pellicule humide entre des reliefs souples, un léger halo corail autour d'une chaîne"
+- fr hero alt: "Illustration : des chaînes de bactéries rondes s'installent dans une pellicule humide sur des reliefs souples et libèrent de minuscules particules dorées ; des chaînes rivales qui approchent faiblissent au bord de leur territoire"
+- fr card alt: "Le microbe de la langue, inoffensif ? — une femme prend le thé sur son balcon, le matin"
+- fr card question: "Le microbe de la langue, inoffensif ?"
+- fr plate lines: "D'abord — sur la langue depuis la naissance · Ensuite — il libère ses propres antibiotiques · Résultat — les rivales calent à sa lisière"
+
+- tr preview alt: "Çizim: yumuşak kıvrımlar arasındaki ıslak bir filmde duran boncuk gibi yuvarlak bakteri zincirleri, bir zincirin çevresinde soluk mercan rengi bir hale"
+- tr hero alt: "Çizim: yuvarlak bakteri zincirleri yumuşak kıvrımlardaki ıslak bir filme yerleşip minik altın renkli parçacıklar salıyor; sürüklenip gelen rakip zincirler onların alanının kenarında gevşiyor"
+- tr card alt: "Dilin kendi mikrobu güvenli mi? — bir kadın sabah balkonunda elinde bir fincan çayla oturuyor"
+- tr card question: "Dilin kendi mikrobu güvenli mi?"
+- tr plate lines: "Önce — doğuştan beri dilin üstünde · Sonra — kendi antibiyotiğini salar · Sonuç — rakipler sınırında durur"
+
+- ro preview alt: "Ilustrație: lanțuri ca niște mărgele de bacterii rotunde stau într-o peliculă umedă între creste moi, cu un halou coral slab în jurul unui lanț"
+- ro hero alt: "Ilustrație: lanțuri de bacterii rotunde se așază într-o peliculă umedă pe creste moi și eliberează particule aurii mici; lanțurile rivale care plutesc spre ele slăbesc la marginea peticului lor"
+- ro card alt: "E sigur microbul propriei limbi? — o femeie stă cu o ceașcă de ceai pe balcon, dimineața"
+- ro card question: "E sigur microbul propriei limbi?"
+- ro plate lines: "Mai întâi — pe limbă încă de la naștere · Apoi — își eliberează propriile antibiotice · Rezultat — rivalii se opresc la marginea ei"

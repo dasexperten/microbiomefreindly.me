@@ -90,3 +90,27 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Чи E. coli завжди небезпечна? — жінка за тридцять спиняє виделку над мискою салату за столом у їдальні"
 - uk card question: "Чи E. coli завжди небезпечна?"
 - uk plate lines: "Спершу — з вистилки просочується кисень · Потім — ці палички його виїдають · Наслідок — понад 90 % із нас їх носять"
+
+- pl preview alt: "Ilustracja: pałeczki E. coli obrzeżone cienkimi niciami obok pęcherzyka gazu w wilgotnej treści jelitowej, jedna nić rozświetlona na złoto"
+- pl hero alt: "Ilustracja: ślady tlenu unoszą się znad wyściółki jelita, stojące obok orzęsione pałeczki E. coli je pochłaniają, a dalej bezwzględne beztlenowce wypełniają przestrzeń bez powietrza"
+- pl card alt: "Czy E. coli zawsze szkodzi? — kobieta po trzydziestce zatrzymuje widelec nad miską sałatki przy stole w stołówce"
+- pl card question: "Czy E. coli zawsze szkodzi?"
+- pl plate lines: "Najpierw — tlen przesącza się z wyściółki · Potem — te pałeczki go zużywają · Efekt — ponad 90 % z nas je nosi"
+
+- fr preview alt: "Illustration : des cellules d'E. coli en bâtonnets, frangées de fins filaments, à côté d'une bulle de gaz dans le contenu intestinal humide, un filament éclairé d'or"
+- fr hero alt: "Illustration : des traces d'oxygène montent de la muqueuse intestinale, des bâtonnets frangés d'E. coli les captent juste à côté, et au-delà d'eux des anaérobies strictes se pressent dans l'espace sans air"
+- fr card alt: "E. coli est-elle toujours dangereuse ? — une femme de trente ans suspend sa fourchette au-dessus d'une salade, à la cantine"
+- fr card question: "E. coli est-elle toujours dangereuse ?"
+- fr plate lines: "D'abord — l'oxygène suinte de la muqueuse · Ensuite — ces bâtonnets le consomment · Résultat — plus de 90 % d'entre nous les portent"
+
+- tr preview alt: "Çizim: ıslak bağırsak içeriğinde bir gaz kabarcığının yanında ince ipliklerle çevrili çubuk biçimli E. coli hücreleri, ipliklerden biri altın renginde parlıyor"
+- tr hero alt: "Çizim: bağırsak mukozasından oksijen izleri yükseliyor, yanındaki saçaklı E. coli çubukları onları alıyor ve ötelerinde zorunlu anaeroplar havasız alanı dolduruyor"
+- tr card alt: "E. coli her zaman tehlikeli mi? — otuzlu yaşlarda bir kadın yemekhane masasında salata kâsesinin üstünde çatalını durduruyor"
+- tr card question: "E. coli her zaman tehlikeli mi?"
+- tr plate lines: "Önce — mukozadan oksijen sızar · Sonra — bu çubuklar onu soluyup bitirir · Sonuç — %90'dan fazlamız onları taşır"
+
+- ro preview alt: "Ilustrație: celule de E. coli în formă de bastonaș, franjurate cu filamente fine, lângă o bulă de gaz în conținut intestinal umed, un filament luminat auriu"
+- ro hero alt: "Ilustrație: urme de oxigen se ridică din mucoasa intestinului, bastonașele franjurate de E. coli le preiau, iar dincolo de ele anaerobii stricți se înghesuie în spațiul fără aer"
+- ro card alt: "E. coli e mereu periculoasă? — o femeie de treizeci de ani își oprește furculița peste un bol cu salată, la cantină"
+- ro card question: "E. coli e mereu periculoasă?"
+- ro plate lines: "Mai întâi — oxigenul se prelinge din mucoasă · Apoi — aceste bastonașe îl consumă · Rezultat — peste 90 % dintre noi le purtăm"

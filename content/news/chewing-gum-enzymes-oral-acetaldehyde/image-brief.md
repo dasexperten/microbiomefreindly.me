@@ -151,3 +151,27 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Цукор спричиняє рак рота? — жінка пізно вночі на балконі, жує, у руці келих вина"
 - uk card question: "Цукор спричиняє рак рота?"
 - uk plate lines: "Спершу — цукор і алкоголь доходять до нальоту · Потім — мікроби роблять канцероген · Підсумок — пептид убив 91,37 %, не всіх"
+
+- pl preview alt: "Ilustracja: łańcuszki okrągłych bakterii oraz pączkujące drożdże uwięzione w lepkiej błonce na jasnym szkliwie, jedno przetarte miejsce świeci limonkowo"
+- pl hero alt: "Ilustracja: drobnoustroje w otoczce płytki na szkliwie oddają aldehyd octowy; peptyd wycisza większość, trzy osłonięte komórki przeżywają, dopóki enzymy nie rozpuszczą otoczki"
+- pl card alt: "Czy cukier powoduje raka ust? — kobieta późnym wieczorem na balkonie, żuje, trzyma kieliszek wina"
+- pl card question: "Czy cukier powoduje raka ust?"
+- pl plate lines: "Najpierw — cukier oraz alkohol docierają do płytki · Potem — drobnoustroje robią substancję rakotwórczą · Efekt — peptyd zabił 91,37 %, nie wszystkie"
+
+- fr preview alt: "Illustration : des chaînes de bactéries rondes et des levures bourgeonnantes prises dans une pellicule collante sur un émail pâle, un point aminci éclairé de vert"
+- fr hero alt: "Illustration : les microbes d'une coque de plaque sur l'émail dégagent de l'acétaldéhyde ; un peptide en immobilise la plupart, trois cellules abritées survivent jusqu'à ce que des enzymes dissolvent la coque"
+- fr card alt: "Le sucre cause-t-il un cancer buccal ? — une femme mâche sur son balcon tard le soir, un verre de vin à la main"
+- fr card question: "Le sucre cause-t-il un cancer buccal ?"
+- fr plate lines: "D'abord — le sucre et l'alcool atteignent la plaque · Ensuite — les microbes fabriquent un cancérogène · Résultat — le peptide en a tué 91,37 %, pas tous"
+
+- tr preview alt: "Çizim: soluk minenin üzerindeki yapışkan bir filmde tutulan yuvarlak bakteri zincirleri ve tomurcuklanan mayalar, incelmiş bir noktası yeşille aydınlanmış"
+- tr hero alt: "Çizim: mine üzerindeki plak kabuğunda mikroplar asetaldehit salıyor; bir peptit çoğunu durduruyor, korunaklı üç hücre ise enzimler kabuğu çözene kadar hayatta kalıyor"
+- tr card alt: "Şeker ağız kanseri yapar mı? — gece geç saatte balkonundaki bir kadın sakız çiğniyor, elinde bir kadeh şarap"
+- tr card question: "Şeker ağız kanseri yapar mı?"
+- tr plate lines: "Önce — şeker ve alkol plağa ulaşır · Sonra — mikroplar bir kanserojen üretir · Sonuç — peptit %91,37'sini öldürdü, hepsini değil"
+
+- ro preview alt: "Ilustrație: lanțuri de bacterii rotunde și drojdii care înmuguresc, prinse într-o peliculă lipicioasă peste smalț palid, cu un loc subțiat luminat verzui"
+- ro hero alt: "Ilustrație: microbii dintr-o crustă de placă de pe smalț degajă acetaldehidă; o peptidă îi amuțește pe cei mai mulți, trei celule adăpostite supraviețuiesc până când enzimele dizolvă crusta"
+- ro card alt: "Zahărul dă cancer bucal? — o femeie pe balcon, noaptea târziu, mestecând, cu un pahar de vin în mână"
+- ro card question: "Zahărul dă cancer bucal?"
+- ro plate lines: "Mai întâi — zahărul și alcoolul ajung la placă · Apoi — microbii fac un cancerigen · Rezultat — peptida a ucis 91,37 %, nu tot"

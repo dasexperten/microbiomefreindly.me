@@ -107,3 +107,27 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Тривалий ковід із кишківника? — жінка спиняється посеред прання і сідає на край ліжка"
 - uk card question: "Тривалий ковід із кишківника?"
 - uk plate lines: "Спершу — бактеріальний джгутик відламується · Потім — імунні клітини читають це як тривогу · Підсумок — запалюється тканина далеко від кишківника"
+
+- pl preview alt: "Ilustracja: smukłe bakterie jelitowe z długimi wiciami jak korkociągi w dryfującym śluzie, jedna oderwana wić płynie w plamie złotego światła"
+- pl hero alt: "Ilustracja: oderwany fragment bakteryjnej wici opuszcza jelito, neutrofil zarzuca sieć i sygnalizuje makrofagowi, a odległa tkanka gęstnieje od włókien"
+- pl card alt: "Czy długi covid pochodzi z jelit? — kobieta przerywa w połowie składanie prania i siada na brzegu łóżka"
+- pl card question: "Czy długi covid pochodzi z jelit?"
+- pl plate lines: "Najpierw — wić bakterii odrywa się · Potem — komórki odpornościowe czytają ją jako alarm · Efekt — zapala się tkanka daleko od jelit"
+
+- fr preview alt: "Illustration : de fines bactéries intestinales à longue queue en tire-bouchon dans un mucus à la dérive, une queue détachée flottant dans une tache de lumière dorée"
+- fr hero alt: "Illustration : un fragment de queue bactérienne quitte l'intestin, un neutrophile lance un filet et appelle un macrophage, et un tissu lointain s'épaissit de fibres"
+- fr card alt: "Le covid long vient-il de l'intestin ? — une femme interrompt sa lessive et s'assoit au bord du lit"
+- fr card question: "Le covid long vient-il de l'intestin ?"
+- fr plate lines: "D'abord — une queue bactérienne se détache · Ensuite — les cellules immunitaires y lisent une alarme · Résultat — un tissu loin de l'intestin s'enflamme"
+
+- tr preview alt: "Çizim: sürüklenen mukusta uzun tirbuşon kuyruklu ince bağırsak bakterileri, altın renkli bir ışık lekesinde başıboş kalmış bir kopuk kuyruk"
+- tr hero alt: "Çizim: kopan bir bakteri kuyruğu parçası bağırsaktan ayrılıyor, bir nötrofil ağ atıp bir makrofaja işaret veriyor ve uzaktaki doku liflerle kalınlaşıyor"
+- tr card alt: "Uzun kovid bağırsaktan mı? — bir kadın çamaşırı yarıda bırakıp yatağın kenarına oturuyor"
+- tr card question: "Uzun kovid bağırsaktan mı?"
+- tr plate lines: "Önce — bir bakteri kuyruğu kopar · Sonra — bağışıklık hücreleri bunu alarm sanır · Sonuç — bağırsaktan uzaktaki doku iltihaplanır"
+
+- ro preview alt: "Ilustrație: bacterii intestinale subțiri cu cozi lungi în tirbușon într-un mucus în derivă, o coadă desprinsă plutind într-un petic de lumină aurie"
+- ro hero alt: "Ilustrație: un fragment de coadă bacteriană părăsește intestinul, un neutrofil aruncă o plasă și semnalizează un macrofag, iar un țesut îndepărtat se îngroașă cu fibre"
+- ro card alt: "Covidul lung pornește din intestin? — o femeie se oprește în mijlocul rufelor și se așază pe marginea patului"
+- ro card question: "Covidul lung pornește din intestin?"
+- ro plate lines: "Mai întâi — o coadă bacteriană se rupe · Apoi — celulele imune o citesc ca alarmă · Rezultat — un țesut departe de intestin se inflamează"

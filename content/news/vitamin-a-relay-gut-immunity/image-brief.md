@@ -120,3 +120,33 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Хто несе туди вітамін? — жінка ріже моркву на кухонній стільниці під вечірньою лампою"
 - uk card question: "Хто несе туди вітамін?"
 - uk plate lines: "Спочатку — кишкові бактерії будять слизову · Потім — білки-носії підхоплюють ретинол · Підсумок — до імунних клітин доходить менш як 2 %"
+
+- pl preview alt: "Ilustracja: segmentowane nitki bakteryjne zakotwiczone końcami w miękkim fałdzie wyściółki jelita, mały złoty błysk tam, gdzie jedna wchodzi"
+- pl hero alt: "Ilustracja: segmentowane bakterie zakotwiczone w wyściółce jelita, której komórki trzymają złote kropelki witaminy A; jedna kropelka przechodzi do rozgałęzionej komórki odpornościowej i dalej do limfocytów T"
+- pl card alt: "Kto niesie tam witaminę? — kobieta kroi marchew na kuchennym blacie pod wieczorną lampą"
+- pl card question: "Kto niesie tam witaminę?"
+- pl plate lines: "Najpierw — bakterie jelit budzą wyściółkę · Potem — białka nośnikowe biorą retinol · Efekt — do odporności trafia poniżej 2 %"
+
+- ar preview alt: "رسم توضيحي: خيوط بكتيرية مقسّمة تتجذر بأطرافها في ثنية لينة من بطانة الأمعاء، مع وميض ذهبي صغير عند موضع دخول أحدها"
+- ar hero alt: "رسم توضيحي: بكتيريا مقسّمة متجذرة في بطانة الأمعاء وخلاياها تحمل قطرات ذهبية من فيتامين A؛ تنتقل قطرة إلى خلية مناعية متفرعة ثم إلى الخلايا التائية"
+- ar card alt: "من يوصل الفيتامين إلى هناك؟ — امرأة تقطّع الجزر على طاولة مطبخها تحت مصباح مسائي"
+- ar card question: "من يوصل الفيتامين إلى هناك؟"
+- ar plate lines: "أولاً — بكتيريا الأمعاء توقظ البطانة · ثم — بروتينات ناقلة تلتقط الريتينول · النتيجة — أقل من 2 % يصل إلى الخلايا المناعية"
+
+- tr preview alt: "İllüstrasyon: bağırsak astarının yumuşak bir kıvrımına uçlarından kök salmış bölmeli bakteri iplikleri, birinin girdiği yerde küçük altın bir parıltı"
+- tr hero alt: "İllüstrasyon: bağırsak astarına kök salmış bölmeli bakteriler; astarın hücreleri altın rengi A vitamini damlacıkları taşıyor, bir damlacık dallı bir bağışıklık hücresine, oradan T hücrelerine geçiyor"
+- tr card alt: "Vitamini oraya kim taşır? — bir kadın akşam lambası altında mutfak tezgâhında havuç doğruyor"
+- tr card question: "Vitamini oraya kim taşır?"
+- tr plate lines: "Önce — bağırsak bakterileri astarı uyandırır · Sonra — taşıyıcı proteinler retinolü alır · Sonuç — bağışıklık hücrelerine %2'den azı ulaşır"
+
+- fr preview alt: "Illustration : des filaments bactériens segmentés enracinés par la pointe dans un pli souple de la muqueuse intestinale, un petit éclat doré là où l'un d'eux pénètre"
+- fr hero alt: "Illustration : des bactéries segmentées enracinées dans la muqueuse intestinale, dont les cellules portent des gouttes dorées de vitamine A ; une goutte passe à une cellule immunitaire ramifiée puis aux lymphocytes T"
+- fr card alt: "Qui transporte la vitamine ? — une femme coupe des carottes sur son plan de travail sous la lampe du soir"
+- fr card question: "Qui transporte la vitamine ?"
+- fr plate lines: "D'abord — les bactéries réveillent la muqueuse · Ensuite — des protéines porteuses prennent le rétinol · Résultat — moins de 2 % atteint l'immunité"
+
+- ro preview alt: "Ilustrație: filamente bacteriene segmentate înfipte cu vârfurile într-o cută moale a mucoasei intestinale, cu o mică sclipire aurie acolo unde unul intră"
+- ro hero alt: "Ilustrație: bacterii segmentate înfipte în mucoasa intestinală, ale cărei celule țin picături aurii de vitamina A; o picătură trece la o celulă imună ramificată și mai departe la limfocitele T"
+- ro card alt: "Cine duce vitamina acolo? — o femeie taie morcovi la blatul din bucătărie, sub lampa de seară"
+- ro card question: "Cine duce vitamina acolo?"
+- ro plate lines: "Mai întâi — bacteriile intestinale trezesc mucoasa · Apoi — proteinele transportoare preiau retinolul · Rezultat — sub 2 % ajunge la celulele imune"

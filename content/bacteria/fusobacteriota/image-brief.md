@@ -98,3 +98,27 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Це має жити в роті? — жінка витирає руки біля умивальника у ванній пізно вночі"
 - uk card question: "Це має жити в роті?"
 - uk plate lines: "Спершу — круглі поселенці утворюють шар · Потім — довгі веретена лягають упоперек них · Наслідок — наліт тримається як одне ціле"
+
+- pl preview alt: "Ilustracja: bakteria o wrzecionowatym kształcie leży jak belka między skupiskami okrągłych komórek w rafie płytki nazębnej, oświetlona od dołu"
+- pl hero alt: "Ilustracja: okrągłe pierwsze osadniki tworzą warstwę na mineralnej powierzchni, w poprzek leżą długie wrzecionowate komórki, a wzdłuż nich przyczepiają się późniejsze komórki innych kształtów, składając się w jedną uporządkowaną społeczność"
+- pl card alt: "Czy to ma żyć w ustach? — kobieta wyciera ręce przy umywalce w łazience późną nocą"
+- pl card question: "Czy to ma żyć w ustach?"
+- pl plate lines: "Najpierw — okrągłe osadniki tworzą warstwę · Potem — długie wrzeciona kładą się w poprzek · Efekt — płytka trzyma się jako całość"
+
+- fr preview alt: "Illustration : une bactérie en fuseau posée comme une poutre entre des amas de cellules rondes dans un récif de plaque dentaire, éclairée par en dessous"
+- fr hero alt: "Illustration : des colonisatrices rondes forment une couche sur une surface minérale, de longues cellules en fuseau se couchent en travers, et des cellules d'autres formes s'y accrochent ensuite pour ne faire qu'une communauté ordonnée"
+- fr card alt: "Cela doit-il vivre dans ma bouche ? — une femme s'essuie les mains au lavabo de la salle de bains, tard le soir"
+- fr card question: "Cela doit-il vivre dans ma bouche ?"
+- fr plate lines: "D'abord — des rondes forment une couche · Ensuite — de longs fuseaux se couchent en travers · Résultat — la plaque tient d'un seul bloc"
+
+- tr preview alt: "Çizim: alttan aydınlatılmış bir plak resifinde yuvarlak hücre kümeleri arasında kiriş gibi uzanan iğ biçimli bir bakteri"
+- tr hero alt: "Çizim: yuvarlak ilk yerleşimciler mineral bir yüzeyde bir katman kuruyor, uzun iğ biçimli hücreler bunun üzerine boydan boya uzanıyor ve sonradan gelen başka biçimlerdeki hücreler onlara tutunarak tek ve düzenli bir topluluk oluşturuyor"
+- tr card alt: "Bu ağzımda yaşamalı mı? — gece geç saatte banyo lavabosunda ellerini kurulayan bir kadın"
+- tr card question: "Bu ağzımda yaşamalı mı?"
+- tr plate lines: "Önce — yuvarlak yerleşimciler bir katman kurar · Sonra — uzun iğler onların üzerine uzanır · Sonuç — plak tek parça olarak tutunur"
+
+- ro preview alt: "Ilustrație: o bacterie în formă de fus stă ca o grindă între ciorchini de celule rotunde într-un recif de placă dentară, luminată de jos"
+- ro hero alt: "Ilustrație: primii colonizatori rotunzi formează un strat pe o suprafață minerală, celule lungi în formă de fus se așază de-a curmezișul, iar celule de alte forme se prind de-a lungul lor într-o singură comunitate ordonată"
+- ro card alt: "Ar trebui să trăiască în gură? — o femeie își usucă mâinile la chiuveta din baie, târziu în noapte"
+- ro card question: "Ar trebui să trăiască în gură?"
+- ro plate lines: "Mai întâi — colonizatorii rotunzi fac un strat · Apoi — fusurile lungi se așază peste ei · Rezultat — placa ține ca un întreg"

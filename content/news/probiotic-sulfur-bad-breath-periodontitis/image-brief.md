@@ -129,3 +129,33 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Від чого насправді запах з рота? — жінка біля власних вхідних дверей дихає в складену долоню"
 - uk card question: "Від чого насправді запах з рота?"
 - uk plate lines: "Спочатку — мікроби рота їдять білок · Потім — фермент зрізає сірку · Підсумок — цей ген упав на 98 %, у чашці"
+
+- pl preview alt: "Ilustracja: wrzecionowate i krępe bakterie w nalocie między okrągłymi brodawkami języka, w górę unoszą się złote pęcherzyki gazu"
+- pl hero alt: "Ilustracja: beztlenowce jamy ustnej wypełnione enzymami tnącymi siarkę wypuszczają drobne pęcherzyki; płyn po bakteriach kwasu mlekowego obmywa je i enzymy prawie znikają"
+- pl card alt: "Skąd bierze się nieświeży oddech? — kobieta przy własnych drzwiach wejściowych chucha w złożoną dłoń"
+- pl card question: "Skąd bierze się nieświeży oddech?"
+- pl plate lines: "Najpierw — drobnoustroje ust jedzą białko · Potem — enzym uwalnia siarkę · Efekt — ten gen spadł o 98 %, w probówce"
+
+- ar preview alt: "رسم توضيحي: بكتيريا مغزلية الشكل وأخرى قصيرة ممتلئة داخل الطبقة بين حليمات اللسان المستديرة، وفقاعات غاز ذهبية دقيقة تتصاعد"
+- ar hero alt: "رسم توضيحي: بكتيريا الفم اللاهوائية مليئة بإنزيمات تقطع الكبريت وتطلق فقاعات دقيقة؛ ثم يغمرها سائل من بكتيريا حمض اللاكتيك فتكاد الإنزيمات تختفي"
+- ar card alt: "ما سبب رائحة الفم حقاً؟ — امرأة عند باب بيتها تنفخ في راحة يدها المقوسة"
+- ar card question: "ما سبب رائحة الفم حقاً؟"
+- ar plate lines: "أولاً — ميكروبات الفم تأكل البروتين · ثم — إنزيم يحرر الكبريت · النتيجة — الجين انخفض 98 % في طبق مخبري"
+
+- tr preview alt: "İllüstrasyon: yuvarlak dil papillalarının arasındaki tabakada iğ biçimli ve bodur bakteriler, yükselen minik altın rengi gaz kabarcıkları"
+- tr hero alt: "İllüstrasyon: kükürt kesen enzimlerle dolu ağız anaerobları minik kabarcıklar salıyor; laktik asit bakterilerinin sıvısı üzerlerinden geçiyor ve enzimler neredeyse yok oluyor"
+- tr card alt: "Ağız kokusu gerçekte neden olur? — bir kadın kendi kapısının önünde avucuna doğru nefes veriyor"
+- tr card question: "Ağız kokusu gerçekte neden olur?"
+- tr plate lines: "Önce — ağız mikropları protein yer · Sonra — bir enzim kükürdü serbest bırakır · Sonuç — o gen tüpte %98 düştü"
+
+- fr preview alt: "Illustration : des bactéries fusiformes et trapues dans l'enduit entre les papilles arrondies de la langue, de minuscules bulles de gaz dorées qui montent"
+- fr hero alt: "Illustration : des anaérobies de la bouche remplies d'enzymes qui coupent le soufre dégagent de minuscules bulles ; un liquide issu de bactéries lactiques les recouvre et les enzymes disparaissent presque"
+- fr card alt: "D'où vient la mauvaise haleine ? — une femme devant sa porte souffle dans le creux de sa main"
+- fr card question: "D'où vient la mauvaise haleine ?"
+- fr plate lines: "D'abord — les microbes de la bouche mangent des protéines · Ensuite — une enzyme libère le soufre · Résultat — ce gène a chuté de 98 %, en boîte"
+
+- ro preview alt: "Ilustrație: bacterii în formă de fus și bacterii scurte în depunerea dintre papilele rotunjite ale limbii, cu bule mici aurii de gaz urcând"
+- ro hero alt: "Ilustrație: anaerobi din gură, plini de enzime care taie sulful, degajă bule mici; un lichid de la bacterii lactice trece peste ei, iar enzimele aproape dispar"
+- ro card alt: "Ce provoacă de fapt halena? — o femeie suflă în palma făcută căuș, la propria ușă de la intrare"
+- ro card question: "Ce provoacă de fapt halena?"
+- ro plate lines: "Mai întâi — microbii gurii mănâncă proteine · Apoi — o enzimă eliberează sulful · Rezultat — gena a scăzut cu 98 %, în eprubetă"

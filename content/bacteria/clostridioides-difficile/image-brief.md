@@ -104,3 +104,33 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Носій — це вже хворий? — жінка за сімдесят перепочиває на сходовому майданчику з торбою покупок"
 - uk card question: "Носій — це вже хворий?"
 - uk plate lines: "Спершу — сусіди тримають її в шорах · Потім — антибіотики зметають їх геть · Наслідок — спори прокидаються і множаться"
+
+- pl preview alt: "Ilustracja: smukła pałeczka z rozdętym końcem przetrwalnika i szczelnie zamknięte przetrwalniki w limonkowej otoczce, ściśnięte przez tłum mikrobów jelitowych"
+- pl hero alt: "Ilustracja: uśpione przetrwalniki leżą wśród mieszkańców jelita pod złotą mgiełką; gdy sąsiedzi zostaną zmiecieni, przetrwalniki otwierają się w pałeczki, które mnożą się i rozluźniają szwy wyściółki"
+- pl card alt: "Nosicielstwo to już choroba? — kobieta po siedemdziesiątce odpoczywa z siatką z zakupami na podeście schodów"
+- pl card question: "Nosicielstwo to już choroba?"
+- pl plate lines: "Najpierw — sąsiedzi trzymają ją w ryzach · Potem — antybiotyki zmiatają sąsiadów · Efekt — przetrwalniki budzą się i mnożą"
+
+- fr preview alt: "Illustration : un bâtonnet élancé au bout renflé par une spore et des spores scellées, gainées de vert, cernés par une foule de microbes intestinaux"
+- fr hero alt: "Illustration : des spores dormantes reposent parmi les habitants de l'intestin sous une brume dorée ; une fois les habitants balayés, les spores s'ouvrent en bâtonnets qui se multiplient et desserrent les coutures de la muqueuse"
+- fr card alt: "La porter, est-ce être malade ? — une femme de soixante-dix ans se repose sur un palier, son sac de courses à la main"
+- fr card question: "La porter, est-ce être malade ?"
+- fr plate lines: "D'abord — les voisins la tiennent en respect · Ensuite — les antibiotiques les balaient · Résultat — les spores se réveillent et se multiplient"
+
+- tr preview alt: "Çizim: bir ucu spor yüzünden şişmiş ince bir çubuk ve yeşil kaplı mühürlü sporlar, çevrelerini saran bağırsak mikropları kalabalığının içinde"
+- tr hero alt: "Çizim: uykudaki sporlar altın bir pusun altında bağırsağın yerleşik sakinleri arasında duruyor; sakinler süpürülünce sporlar açılıp çoğalan çubuklara dönüşüyor ve mukozanın dikişlerini gevşetiyor"
+- tr card alt: "Taşımak hastalık demek mi? — yetmişli yaşlarda bir kadın alışveriş torbasıyla merdiven sahanlığında dinleniyor"
+- tr card question: "Taşımak hastalık demek mi?"
+- tr plate lines: "Önce — komşular onu bastırır · Sonra — antibiyotikler komşuları süpürür · Sonuç — sporlar uyanır ve çoğalır"
+
+- ro preview alt: "Ilustrație: un bastonaș subțire cu un capăt umflat de spor și spori sigilați, acoperiți cu verde-lime, încercuiți de o mulțime de microbi intestinali"
+- ro hero alt: "Ilustrație: spori adormiți stau printre locuitorii intestinului sub o ceață aurie; odată ce locuitorii sunt măturați, sporii se deschid în bastonașe care se înmulțesc și slăbesc încheieturile mucoasei"
+- ro card alt: "Dacă îl porți, te îmbolnăvești? — o femeie de șaptezeci de ani se odihnește pe un palier, cu plasa de cumpărături"
+- ro card question: "Dacă îl porți, te îmbolnăvești?"
+- ro plate lines: "Mai întâi — vecinii îl țin în frâu · Apoi — antibioticele îi mătură · Rezultat — sporii se trezesc și se înmulțesc"
+
+- zh-Hans preview alt: "插画：一根细长的杆菌，一端鼓出芽孢，旁边是封好的、裹着青柠色外壳的芽孢，四周被一群肠道微生物围得死死的"
+- zh-Hans hero alt: "插画：休眠的芽孢在金色薄雾下待在肠道住户之间；住户被清走之后，芽孢张开，长成不断增殖的杆菌，把肠壁的接缝一道道撬松"
+- zh-Hans card alt: "带着它就等于生病吗？ — 一位七十多岁的女性提着购物袋，在楼梯平台上歇脚"
+- zh-Hans card question: "带着它就等于生病吗？"
+- zh-Hans plate lines: "首先 — 邻居们把它按住 · 接着 — 抗生素把邻居扫走 · 结果 — 芽孢醒来，开始增殖"

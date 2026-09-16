@@ -108,14 +108,14 @@ entity:
 images:
   card: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-card-pl.webp"
   cardLine: "Co się dzieje bez błonnika?"
-  cardAlt: "Co się dzieje bez błonnika? — kobieta po czterdziestce kładzie papierową torbę z warzywami na straganie w południe"
+  cardAlt: "Co się dzieje bez błonnika? — kobieta po czterdziestce kładzie papierową torbę z warzywami na straganie w południe"
   og: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-og-pl.jpg"
   preview: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-preview.webp"
   previewAlt: "Ilustracja: pulchne pałeczki Bacteroidota zebrane na postrzępionym, limonkowo podbarwionym przerwanym końcu włókna roślinnego, podświetlone od tyłu"
   plate: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-plate-pl.webp"
   plateLines: "Najpierw — błonnik roślinny dociera do nich cały · Potem — rozbierają go za ciebie · Efekt — bez błonnika jedzą twoją wyściółkę"
   hero: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-hero.webp"
-  heroAlt: "Ilustracja: pulchne pałeczki rozbierają włókno roślinne na złote okruchy nad grubą warstwą śluzu; dalej po prawej, gdy błonnika już nie ma, te same pałeczki skubią śluz i warstwa cienieje"
+  heroAlt: "Ilustracja: pulchne pałeczki rozbierają włókno roślinne na złote okruchy nad grubą warstwą śluzu; dalej po prawej, gdy błonnika już nie ma, te same pałeczki skubią śluz i warstwa cienieje"
 referral:
   product: ""
   mayaLog: ""
@@ -166,9 +166,9 @@ Zastrzeżenie, i jest duże: to związek w małym badaniu, połowa grupy kontr
 
 ## Nazwa: Bacteroidota, dawniej Bacteroidetes
 
-Obie nazwy są poprawne; jedna jest aktualna. Do niedawna ranga typu nie miała pozycji w formalnym kodeksie nomenklatury prokariotów. Kiedy już ją zyskała, Oren i Garrity opublikowali w 2021 roku formalne opisy nadające ważną pozycję 42 nazwom typów i Bacteroidetes zostały uregulowane jako Bacteroidota [s1]. NCBI Taxonomy prowadzi ten typ pod jego aktualną nazwą, z „bakteriami grupy CFB" jako starszą, nieformalną etykietą; identyfikator taksonomiczny znajdziesz w panelu tej strony. Jeśli szukasz w piśmiennictwie, szukaj obu pisowni — większość klasycznych prac powyżej ukazała się pod tą starą.
+Obie nazwy są poprawne; jedna jest aktualna. Do niedawna ranga typu nie miała pozycji w formalnym kodeksie nomenklatury prokariotów. Kiedy już ją zyskała, Oren i Garrity opublikowali w 2021 roku formalne opisy nadające ważną pozycję 42 nazwom typów i Bacteroidetes zostały uregulowane jako Bacteroidota [s1]. NCBI Taxonomy prowadzi ten typ pod jego aktualną nazwą, z „bakteriami grupy CFB” jako starszą, nieformalną etykietą; identyfikator taksonomiczny znajdziesz w panelu tej strony. Jeśli szukasz w piśmiennictwie, szukaj obu pisowni — większość klasycznych prac powyżej ukazała się pod tą starą.
 
-## Nagłówek o „szczupłym jelicie" i dlaczego mu nie ufać
+## Nagłówek o „szczupłym jelicie” i dlaczego mu nie ufać
 
 Pewnie spotkałeś twierdzenie, że wysoki stosunek Bacteroidetes do Firmicutes znamionuje szczupłe jelito. Nie utrzymało się. Sze i Schloss połączyli dziesięć niezależnych zbiorów danych w *mBio* w 2016 roku i stwierdzili, że choć niektóre miary różnorodności były słabo związane z otyłością, stosunek Bacteroidetes do Firmicutes i liczebności poszczególnych typów już nie; modele uczenia maszynowego trenowane na jednym zbiorze i testowane na pozostałych osiągnęły medianę trafności klasyfikacji między 33,01 % a 64,77 %, a różnica w różnorodności Shannona między osobami z otyłością i bez niej wyniosła 2,07 % [s11].
 
