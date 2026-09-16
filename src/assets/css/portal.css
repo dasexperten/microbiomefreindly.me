@@ -67,8 +67,11 @@ sup{font-size:.6em;}
 .hdr__logo img{position:absolute;inset-inline-start:0;top:calc(50% - 52.5px + 42px);height:105px;width:auto;max-width:none;filter:drop-shadow(0 5px 14px rgba(31,42,62,.10));}
 /* menu titles +30 % (Owner 2026-09-03): 12 px → 15.6 px */
 .hdr__nav{display:flex;gap:30px;font-family:var(--sub);font-weight:600;font-size:15.6px;text-transform:uppercase;letter-spacing:0;}
-:lang(ja) .hdr__nav,:lang(ko) .hdr__nav,:lang(zh-Hans) .hdr__nav,:lang(ar) .hdr__nav,:lang(th) .hdr__nav{text-transform:none;font-size:18px;}
+:lang(ja) .hdr__nav,:lang(ko) .hdr__nav,:lang(zh-Hans) .hdr__nav,:lang(ar) .hdr__nav,:lang(th) .hdr__nav{text-transform:none;font-size:18px;gap:20px;}
 .hdr__nav a{padding:8px 10px;border-radius:var(--r);color:var(--ink-2);}
+/* Japanese, Korean and Chinese break between characters, which is ordinary in those scripts and is
+   left alone. Forbidding it here made the menu wider than the page. Thai is the different case — see
+   the 1200 px rule below: a break there produces two other words, not a wrapped one. */
 .hdr__nav a:hover{color:var(--ink);}
 .hdr__nav a[aria-current="page"]{background:var(--navy);color:#fff;}
 /* language ribbon — dasexperten.com pattern: flags + two-letter codes in one row */
@@ -87,15 +90,23 @@ sup{font-size:.6em;}
 /* ---------- header icons (phone) ----------
    The text menu is the desktop menu and does not change. Below 860 px the same four destinations
    become icon buttons on the same row, right of the mark, in the brand navy (Owner 2026-09-03). */
-.hdr__icons{display:none;}
+.hdr__icons{display:none;align-items:center;gap:2px;margin-inline-start:6px;}
+.hdr__icons a{display:flex;align-items:center;justify-content:center;width:44px;height:44px;
+  border-radius:var(--r);color:var(--navy);}
+.hdr__icons a svg{width:24px;height:24px;display:block;}
+.hdr__icons a:active{background:var(--ground-2);}
+.hdr__icons a[aria-current="page"]{background:var(--navy);color:#fff;}
+/* Thai is written without spaces, so when the menu row gets tight the browser breaks inside a word
+   by its own dictionary: "หลักฐาน" (evidence) came out as "หลัก / ฐาน", two different words on two
+   lines, and keep-all does not stop it. Below the width where the Thai menu still fits on one line,
+   the icon menu — already the answer on a phone — takes over instead of a broken word. */
+@media(max-width:1200px){
+  :lang(th) .hdr__nav{display:none;}
+  :lang(th) .hdr__icons{display:flex;}
+}
 @media(max-width:860px){
   .hdr__nav{display:none;}
-  .hdr__icons{display:flex;align-items:center;gap:2px;margin-inline-start:6px;}
-  .hdr__icons a{display:flex;align-items:center;justify-content:center;width:44px;height:44px;
-    border-radius:var(--r);color:var(--navy);}
-  .hdr__icons a svg{width:24px;height:24px;display:block;}
-  .hdr__icons a:active{background:var(--ground-2);}
-  .hdr__icons a[aria-current="page"]{background:var(--navy);color:#fff;}
+  .hdr__icons{display:flex;}
   .hdr__in{flex-wrap:nowrap;gap:8px;padding:10px 4%;}
   .hdr__logo{width:84px;height:44px;flex:none;}
   .hdr__logo img{position:absolute;height:80px;top:calc(50% - 40px + 32px);}
