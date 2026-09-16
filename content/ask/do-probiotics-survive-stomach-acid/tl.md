@@ -94,7 +94,7 @@ images:
   preview: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-preview.webp"
   previewAlt: "Ilustrasyon: buo sa asido ang isang rod na may nakabaluting spore at tatlong malayang spore, habang gumuguho ang maseselang rod sa paligid nila"
   plate: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-plate-en.webp"
-  plateLines: "Una — nakakasalubong ng pulutong ang asido · Tapos — dumadaan ang spore, bumabagsak ang maselan · Kaya — 18.5 % ang dumarating, kakaunti ang tumitira"
+  plateLines: "Una — nakakasalubong ng pulutong ang asido · Tapos — dumadaan ang spore, bumabagsak ang maselan · Kaya — 18.5 % ang dumarating, kakaunti ang tumitira"
   hero: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-hero.webp"
   heroAlt: "Ilustrasyon: tumatawid sa asido ng tiyan ang nilunok na bacteria; gumuguho ang karamihan sa malalayang rod, buong dumadaan ang mga spore at ang kumpol na may kabibi, at sa lining ng bituka ay dalawang nakaligtas ang tumitira sa mucus habang lumalampas ang iba"
 referral:

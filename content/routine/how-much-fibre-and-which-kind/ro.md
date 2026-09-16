@@ -89,7 +89,7 @@ images:
   preview: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-preview.webp"
   previewAlt: "Ilustrație: bacterii intestinale bifurcate descompun lanțuri moi și ramificate de fibre, în timp ce o panglică de gel neted alunecă pe lângă ele"
   plate: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-plate-en.webp"
-  plateLines: "Întâi — sosesc trei feluri de fibre · Apoi — doar unul dintre ele este mâncat · Rezultat — 25–29 g pe zi, apoi se oprește"
+  plateLines: "Întâi — sosesc trei feluri de fibre · Apoi — doar unul dintre ele este mâncat · Rezultat — 25–29 g pe zi, apoi se oprește"
   hero: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-hero.webp"
   heroAlt: "Ilustrație: trei fibre ajung la mucoasa intestinului; bacteriile mănâncă doar lanțurile ramificate, o panglică de gel și un fulg de tărâțe trec întregi, iar porțiile mai mari nu mai aduc nimic în plus"
 referral:

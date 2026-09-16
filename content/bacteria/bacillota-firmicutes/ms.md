@@ -124,7 +124,7 @@ images:
   preview: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-preview.webp"
   previewAlt: "Ilustrasi: bakteria rod berdinding tebal, dua daripadanya memegang spora bujur, terbaring pada butiran kanji yang berlubang warna karang tempat ia makan"
   plate: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-plate-ms.webp"
-  plateLines: "Mula-mula — kanji sampai ke kolon dalam keadaan utuh · Kemudian — rod menapainya menjadi butirat · Hasilnya — lapisan usus makan; spora pada 50–60 %"
+  plateLines: "Mula-mula — kanji sampai ke kolon dalam keadaan utuh · Kemudian — rod menapainya menjadi butirat · Hasilnya — lapisan usus makan; spora pada 50–60 %"
   hero: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-hero.webp"
   heroAlt: "Ilustrasi: rod berdinding tebal mengurai butiran kanji tahan cerna menjadi titisan butirat keemasan yang diserap oleh lapisan kolon; enam daripada sepuluh rod membawa spora"
 referral:

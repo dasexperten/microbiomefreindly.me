@@ -119,7 +119,7 @@ images:
   preview: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-preview.webp"
   previewAlt: "Ilustrasi: sel E. coli berbentuk rod berjurai benang halus di sisi gelembung gas dalam kandungan usus yang basah, satu benang bercahaya emas"
   plate: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-plate-ms.webp"
-  plateLines: "Mula-mula — oksigen merembes dari lapisan usus · Kemudian — rod ini menghabiskannya · Hasilnya — lebih 90 % daripada kita membawanya"
+  plateLines: "Mula-mula — oksigen merembes dari lapisan usus · Kemudian — rod ini menghabiskannya · Hasilnya — lebih 90 % daripada kita membawanya"
   hero: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-hero.webp"
   heroAlt: "Ilustrasi: kesan oksigen naik daripada lapisan usus, rod E. coli berjurai di sisinya mengambilnya, dan di sebalik mereka anaerob ketat berhimpit dalam ruang tanpa udara"
 referral:

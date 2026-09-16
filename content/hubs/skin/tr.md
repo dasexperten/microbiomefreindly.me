@@ -18,13 +18,13 @@ voice: greger
 answer: "Bağırsak–cilt ekseni, bağırsak mikrobiyomuyla cilt arasındaki çift yönlü bağdır. Bağırsak bakterileri cilde ulaşan bağışıklık hücrelerini ve metabolitleri biçimlendirir; cildin kendi mikropları da bu bağışıklık tonuna yanıt verir. Egzama, akne ve rozase bağırsaktaki değişimlerle ilişkilidir — bakteriler yüze göç ettiği için değil, iltihap, bariyer ve beslenme üzerinden."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/skin/skin-card-en.webp"
+  card: "/assets/img/mbf/hubs/skin/skin-card-tr.webp"
   cardLine: "Bağırsak cilde yansır mı?"
   cardAlt: "Bağırsak cilde yansır mı? — bir kadın sabah güneşli bir pencerede, parmak uçları çenesinde duruyor"
-  og: "/assets/img/mbf/hubs/skin/skin-og-en.jpg"
+  og: "/assets/img/mbf/hubs/skin/skin-og-tr.jpg"
   preview: "/assets/img/mbf/hubs/skin/skin-preview.webp"
   previewAlt: "İllüstrasyon: yassı deri yüzeyi hücreleri üzerinde üzüm salkımı gibi kümelenmiş yuvarlak bakteriler ve bir gözeneğin kenarında mercan rengi kısa çubuklar"
-  plate: "/assets/img/mbf/hubs/skin/skin-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/skin/skin-plate-tr.webp"
   plateLines: "Önce — bağırsak bakterileri molekül salar · Sonra — kan bakterileri değil molekülleri taşır · Sonuç — derinin kendi mikropları yanıt verir"
   hero: "/assets/img/mbf/hubs/skin/skin-hero.webp"
   heroAlt: "İllüstrasyon: bağırsak bakterileri yerinde kalırken bağırsak astarından gelen misket yeşili moleküller ve bağışıklık hücreleri kan dolaşımıyla deri yüzeyine ve oranın kendi mikroplarına ulaşıyor"

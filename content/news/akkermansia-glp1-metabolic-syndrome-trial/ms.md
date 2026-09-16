@@ -25,13 +25,13 @@ keyFacts:
     source: s1
   - fact: "Lonjakan GLP-1 selepas glukosa lebih tinggi dengan bakteria itu berbanding plasebo selepas tiga bulan (p < 0.01)."
     source: s1
-  - fact: "Satu ukuran sensitiviti insulin yang berwajaran hati naik 12 % pada peserta pradiabetes selepas tiga bulan, pada p = 0.054 — sedikit sahaja di bawah ambang lazim."
+  - fact: "Satu ukuran sensitiviti insulin yang berwajaran hati naik 12 % pada peserta pradiabetes selepas tiga bulan, pada p = 0.054 — sedikit sahaja di bawah ambang lazim."
     source: s1
   - fact: "Peserta yang bermula dengan paras Akkermansia usus yang rendah ialah mereka yang bergerak: sensitiviti insulin yang lebih baik dan lonjakan GLP-1 yang lebih besar pada tiga bulan, serta lemak batang tubuh yang berkurang menjelang empat bulan. Analisis itu bersifat penerokaan."
     source: s1
-  - fact: "Pada tikus, satu protein 84 kDa yang dirembeskan A. muciniphila, yang dinamakan P9, mencetuskan pelepasan GLP-1 dengan sendirinya melalui ikatan pada ICAM-2."
+  - fact: "Pada tikus, satu protein 84 kDa yang dirembeskan A. muciniphila, yang dinamakan P9, mencetuskan pelepasan GLP-1 dengan sendirinya melalui ikatan pada ICAM-2."
     source: s3
-  - fact: "Satu kajian penerokaan terdahulu — 40 orang dewasa berlebihan berat badan didaftarkan, 32 menamatkannya — melaporkan peningkatan 28.62 % dalam sensitiviti insulin dengan sel yang dipasteur berbanding plasebo (P = 0.002); ujian yang lebih besar tidak mengesahkannya."
+  - fact: "Satu kajian penerokaan terdahulu — 40 orang dewasa berlebihan berat badan didaftarkan, 32 menamatkannya — melaporkan peningkatan 28.62 % dalam sensitiviti insulin dengan sel yang dipasteur berbanding plasebo (P = 0.002); ujian yang lebih besar tidak mengesahkannya."
     source: s2
 faq:
   - q: "Adakah ujian itu gagal?"
@@ -99,7 +99,7 @@ Dua penemuan penerokaan masih berbaloi mendapat perhatian anda — berbaloi seba
 
 Pertama, selepas tiga bulan, kenaikan GLP-1 yang menyusuli minuman glukosa lebih besar dalam kumpulan yang dirawat berbanding plasebo, pada p < 0.01 — jurang sebesar itu tidak mungkin sekadar kebetulan [s1]. Menjelang empat bulan, perbezaan itu lebih lemah dan tidak lagi bererti [s1]. GLP-1 ialah hormon usus yang ditiru oleh ubat diabetes dan penurun berat badan yang ada sekarang. Tiada sesiapa menyuntik apa-apa di sini. Sel usus peserta sendiri yang melepaskan lebih banyak daripadanya.
 
-Kedua, pada peserta yang mengalami pradiabetes, satu ukuran sensitiviti insulin yang berwajaran hati — sejauh mana hati itu sendiri menyahut insulin — naik 12 % selepas tiga bulan — pada p = 0.054, sedikit sahaja di bawah ambang lazim, dan itu menjadikannya satu petunjuk dan bukan satu penemuan [s1]. Isyarat sempadan yang serupa pada ukuran berwajaran hati yang sama muncul pada peserta berumur 63 tahun dan ke atas [s1]. Pada wanita pascamenopaus (n = 46) — satu hirisan daripada kumpulan orang yang sama, diukur dengan indeks Matsuda yang sama yang kekal rata merentas ujian itu secara keseluruhan — indeks itu memang mencapai kebererartian selepas empat bulan (+21 %, p = 0.031) [s1]. Satu hirisan yang bergerak sementara keseluruhannya kekal rata bukanlah percanggahan; itulah rupa penemuan subkumpulan, dan itulah sebabnya ini kekal sebagai petunjuk dan bukan keputusan.
+Kedua, pada peserta yang mengalami pradiabetes, satu ukuran sensitiviti insulin yang berwajaran hati — sejauh mana hati itu sendiri menyahut insulin — naik 12 % selepas tiga bulan — pada p = 0.054, sedikit sahaja di bawah ambang lazim, dan itu menjadikannya satu petunjuk dan bukan satu penemuan [s1]. Isyarat sempadan yang serupa pada ukuran berwajaran hati yang sama muncul pada peserta berumur 63 tahun dan ke atas [s1]. Pada wanita pascamenopaus (n = 46) — satu hirisan daripada kumpulan orang yang sama, diukur dengan indeks Matsuda yang sama yang kekal rata merentas ujian itu secara keseluruhan — indeks itu memang mencapai kebererartian selepas empat bulan (+21 %, p = 0.031) [s1]. Satu hirisan yang bergerak sementara keseluruhannya kekal rata bukanlah percanggahan; itulah rupa penemuan subkumpulan, dan itulah sebabnya ini kekal sebagai petunjuk dan bukan keputusan.
 
 ## Kenapa bakteria yang mati boleh menggerakkan sesuatu hormon
 
@@ -107,7 +107,7 @@ Inilah bahagian yang berbaloi dibayangkan, kerana mekanismenya bukan sesuatu yan
 
 Bertaburan di sepanjang lapisan usus anda ada sel L enteroendokrin. Tugasnya ialah mengesan ketibaan hidangan dan melepaskan GLP-1, yang mendorong insulin, memperlahan perut dan memberitahu otak bahawa anda sudah makan. *Akkermansia* hidup dalam lendir yang terhimpit tepat pada lapisan itu, dan itu meletakkannya pada kedudukan fizikal untuk bercakap kepada sel tersebut.
 
-Pada tikus, satu protein yang dirembeskan bakteria itu — protein 84 kDa yang dinamakan P9 oleh penemunya — sudah cukup dengan sendirinya untuk mencetuskan pelepasan GLP-1, dengan mengikat satu molekul permukaan yang dipanggil ICAM-2 [s3]. Sama ada P9 bertahan melalui pempasteuran, sampai ke sel L manusia dan masih berfungsi, dalam kata-kata penulis ujian itu sendiri, tidak diketahui [s1].
+Pada tikus, satu protein yang dirembeskan bakteria itu — protein 84 kDa yang dinamakan P9 oleh penemunya — sudah cukup dengan sendirinya untuk mencetuskan pelepasan GLP-1, dengan mengikat satu molekul permukaan yang dipanggil ICAM-2 [s3]. Sama ada P9 bertahan melalui pempasteuran, sampai ke sel L manusia dan masih berfungsi, dalam kata-kata penulis ujian itu sendiri, tidak diketahui [s1].
 
 Jadi: satu bakteria peragut lendir, hidup ataupun tidak, menganjak sel hormon anda sendiri dari sebelah sana dinding yang nipis. Itulah gambarannya. Ia bukan ubat, dan ujian ini tidak menjalankan sebarang perbandingan dengan mana-mana ubat.
 
@@ -127,7 +127,7 @@ Keselamatannya tidak luar biasa: 104 daripada 142 peserta melaporkan sekurang-ku
 
 ## Di mana ini meninggalkan anda
 
-Pada 2019, satu kajian penerokaan yang jauh lebih kecil — 40 orang dewasa berlebihan berat badan didaftarkan, 32 menamatkannya — melaporkan penambahbaikan 28.62 % dalam sensitiviti insulin dengan sel yang dipasteur berbanding plasebo, pada P = 0.002 [s2]. Angka itulah punca keghairahan yang ada. Satu ujian yang lebih besar, berkuasa lebih baik dan berbilang pusat kini gagal menghasilkannya semula sebagai kesan seluruh tubuh.
+Pada 2019, satu kajian penerokaan yang jauh lebih kecil — 40 orang dewasa berlebihan berat badan didaftarkan, 32 menamatkannya — melaporkan penambahbaikan 28.62 % dalam sensitiviti insulin dengan sel yang dipasteur berbanding plasebo, pada P = 0.002 [s2]. Angka itulah punca keghairahan yang ada. Satu ujian yang lebih besar, berkuasa lebih baik dan berbilang pusat kini gagal menghasilkannya semula sebagai kesan seluruh tubuh.
 
 Itu bukan bencana. Itu proses yang berfungsi dengan betul, dan satu keputusan nol yang bersih — satu "tidak" yang jelas — mengajar lebih banyak daripada kajian perintis keempat yang penuh keghairahan. Yang bertahan ialah satu mekanisme yang munasabah dan boleh dibayangkan serta petunjuk terbaik makalah itu sendiri. Peserta yang memulakan ujian dengan *Akkermansia* usus yang rendah memang bertambah baik: sensitiviti insulin yang lebih baik dan lonjakan GLP-1 yang lebih besar pada tiga bulan, serta lemak batang tubuh dan lemak android yang berkurang — lemak yang dibawa di sekeliling pinggang — menjelang empat bulan [s1]. Analisis itu juga bersifat penerokaan, yang diputuskan selepas titik akhir utamanya sudah pun tersasar. Jadi soalan sama ada orang yang mendapat manfaat itu khususnya orang yang sedikit sahaja membawa bakteria ini pada mulanya kini menjadi satu hipotesis yang ada data di belakangnya, bukan satu jawapan.
 

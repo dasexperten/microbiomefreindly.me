@@ -18,13 +18,13 @@ voice: greger
 answer: "Enzim, tek bir belirli bağı kesen bir proteindir. Dekstranaz diş plağının şeker tutkalını keser; papain ve bromelain proteinleri keser; lizozim bakteri hücre duvarını keser; glukoz oksidaz glukozu hafif bir antiseptiğe çevirir. Hiçbiri geniş çaplı öldürmez. Yapıyı ortadan kaldırarak çalışırlar; bu yüzden antibiyotik olarak değil, biyofilme karşı araştırılırlar."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/enzymes/enzymes-card-en.webp"
+  card: "/assets/img/mbf/hubs/enzymes/enzymes-card-tr.webp"
   cardLine: "Enzimler bakteri öldürür mü?"
   cardAlt: "Enzimler bakteri öldürür mü? — bir kadın geç sabah güneşinde yemek masasında ananas ve papaya kesiyor"
-  og: "/assets/img/mbf/hubs/enzymes/enzymes-og-en.jpg"
+  og: "/assets/img/mbf/hubs/enzymes/enzymes-og-tr.jpg"
   preview: "/assets/img/mbf/hubs/enzymes/enzymes-preview.webp"
   previewAlt: "İllüstrasyon: katlanmış bir enzim proteini oluğunda bir şeker zincirini tutuyor ve mercan rengiyle işaretli tek bir bağı kesiyor, sıcak arka ışıkta"
-  plate: "/assets/img/mbf/hubs/enzymes/enzymes-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/enzymes/enzymes-plate-tr.webp"
   plateLines: "Önce — şeker ağı plağı bir arada tutar · Sonra — enzim tek bir bağı keser · Sonuç — ağ dağılır, hücreler yaşar"
   hero: "/assets/img/mbf/hubs/enzymes/enzymes-hero.webp"
   heroAlt: "İllüstrasyon: şeker zincirlerinden örülü bir ağda tutulan yuvarlak bakteri zincirleri; enzim proteinleri zincirleri misket yeşili noktalardan kesiyor ve serbest kalan bakteriler bütün hâlde süzülüyor"

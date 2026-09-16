@@ -18,13 +18,13 @@ voice: greger
 answer: "Bağırsak mikrobiyomu, çoğunlukla kalın bağırsakta yaşayan bakteri, arke, mantar ve virüs topluluğudur. Bizim sindiremediğimiz lifi sindirir, kısa zincirli yağ asitleri ve vitaminler üretir, bağışıklık sistemini eğitir ve bağırsak astarını tok tutar. Onu beslenme, doğum, antibiyotikler ve yaş biçimlendirir — ve günler içinde değişir."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/gut/gut-card-en.webp"
+  card: "/assets/img/mbf/hubs/gut/gut-card-tr.webp"
   cardLine: "Bağırsak floram sağlıklı mı?"
   cardAlt: "Bağırsak floram sağlıklı mı? — bir kadın akşamüstü elinde sebze torbasıyla evinin merdivenlerini çıkıyor"
-  og: "/assets/img/mbf/hubs/gut/gut-og-en.jpg"
+  og: "/assets/img/mbf/hubs/gut/gut-og-tr.jpg"
   preview: "/assets/img/mbf/hubs/gut/gut-preview.webp"
   previewAlt: "İllüstrasyon: çubuk ve yuvarlak biçimli bağırsak bakterilerinden oluşan karışık bir kalabalık, kenarı altın rengi püsküllenmiş bir bitkisel lif parçasıyla besleniyor"
-  plate: "/assets/img/mbf/hubs/gut/gut-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/gut/gut-plate-tr.webp"
   plateLines: "Önce — sindiremediğimiz lif gelir · Sonra — kalabalık onu fermente eder · Sonuç — asitler bağırsak duvarını besler"
   hero: "/assets/img/mbf/hubs/gut/gut-hero.webp"
   heroAlt: "İllüstrasyon: bitkisel lif kalın bağırsağa ulaşıyor, bakteriler onu fermente ediyor ve mercan rengi kısa zincirli yağ asidi molekülleri bağırsak astarının hücrelerine geçiyor"

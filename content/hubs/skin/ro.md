@@ -19,15 +19,15 @@ answer: "Axa intestin–piele este legătura în ambele sensuri dintre microbiom
 sources: []
 images:
   card: "/assets/img/mbf/hubs/skin/skin-card-en.webp"
-  cardLine: "Can the gut show on skin?"
-  cardAlt: "Can the gut show on skin? — a woman at a sunlit window in the morning, fingertips resting at her jaw"
+  cardLine: "Se vede intestinul pe piele?"
+  cardAlt: "Se vede intestinul pe piele? — o femeie la o fereastră însorită, dimineața, cu vârfurile degetelor la maxilar"
   og: "/assets/img/mbf/hubs/skin/skin-og-en.jpg"
   preview: "/assets/img/mbf/hubs/skin/skin-preview.webp"
-  previewAlt: "Illustration: grape-like clusters of round bacteria on flat skin surface cells, and coral short rods at the rim of a pore"
+  previewAlt: "Ilustrație: ciorchini ca de strugure de bacterii rotunde pe celulele plate de la suprafața pielii și bastonașe scurte coral la marginea unui por"
   plate: "/assets/img/mbf/hubs/skin/skin-plate-en.webp"
-  plateLines: "First — gut bacteria release molecules · Then — blood carries them, not bacteria · So — the skin's own microbes answer"
+  plateLines: "Întâi — bacteriile intestinale dau molecule · Apoi — sângele le duce, nu și bacteriile · Rezultat — microbii pielii răspund"
   hero: "/assets/img/mbf/hubs/skin/skin-hero.webp"
-  heroAlt: "Illustration: gut bacteria stay put while lime molecules and immune cells from the gut lining travel in the bloodstream to the skin surface and its own microbes"
+  heroAlt: "Ilustrație: bacteriile intestinale rămân pe loc, în timp ce molecule verzi-lămâie și celule imunitare din mucoasa intestinului călătoresc prin sânge până la suprafața pielii și la microbii ei"
 referral:
   product: ""
   mayaLog: ""

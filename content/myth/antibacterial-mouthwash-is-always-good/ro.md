@@ -79,7 +79,7 @@ images:
   preview: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-preview.webp"
   previewAlt: "Ilustrație: o clătire limpede mătură un covor amestecat de bastonașe, celule rotunde și fusuri, lăsându-l rărit în urma ei"
   plate: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-plate-en.webp"
-  plateLines: "Întâi — clătirea nu alege · Apoi — comunitatea din gură se rărește · Rezultat — nitritul scade cu 90 %"
+  plateLines: "Întâi — clătirea nu alege · Apoi — comunitatea din gură se rărește · Rezultat — nitritul scade cu 90 %"
   hero: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-hero.webp"
   heroAlt: "Ilustrație: clătirea mătură covorul bacterian amestecat de pe suprafața limbii, iar șuvoiul de particule pe care îl trimite spre un vas de sânge scade la a zecea parte"
 referral:

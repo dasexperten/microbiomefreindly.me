@@ -19,15 +19,15 @@ answer: "Microbiomul intestinal este comunitatea de bacterii, arhee, fungi și v
 sources: []
 images:
   card: "/assets/img/mbf/hubs/gut/gut-card-en.webp"
-  cardLine: "Is my gut microbiome healthy?"
-  cardAlt: "Is my gut microbiome healthy? — a woman comes up her front steps at evening with a bag of vegetables"
+  cardLine: "E sănătos intestinul meu?"
+  cardAlt: "E sănătos intestinul meu? — o femeie urcă seara treptele casei cu o sacoșă de legume"
   og: "/assets/img/mbf/hubs/gut/gut-og-en.jpg"
   preview: "/assets/img/mbf/hubs/gut/gut-preview.webp"
-  previewAlt: "Illustration: a mixed crowd of rod-shaped and round gut bacteria feeding on a fragment of plant fibre, its frayed edge gold"
+  previewAlt: "Ilustrație: o mulțime amestecată de bacterii intestinale, în formă de bastonaș și rotunde, se hrănește pe un fragment de fibră vegetală cu marginea destrămată aurie"
   plate: "/assets/img/mbf/hubs/gut/gut-plate-en.webp"
-  plateLines: "First — fibre we cannot digest arrives · Then — the crowd ferments it · So — the acids feed the gut wall"
+  plateLines: "Întâi — sosesc fibrele pe care nu le digerăm · Apoi — mulțimea le fermentează · Rezultat — acizii hrănesc peretele"
   hero: "/assets/img/mbf/hubs/gut/gut-hero.webp"
-  heroAlt: "Illustration: plant fibre reaches the colon, bacteria ferment it, and coral short-chain fatty acid molecules pass into the cells of the gut lining"
+  heroAlt: "Ilustrație: fibra vegetală ajunge în colon, bacteriile o fermentează, iar molecule coral de acizi grași cu lanț scurt trec în celulele mucoasei intestinale"
 referral:
   product: ""
   mayaLog: ""

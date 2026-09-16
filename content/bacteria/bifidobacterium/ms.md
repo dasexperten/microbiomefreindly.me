@@ -127,7 +127,7 @@ images:
   preview: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-preview.webp"
   previewAlt: "Ilustrasi: sel Bifidobacterium bercabang berbentuk Y dalam satu ruang tenang kandungan usus yang jernih, setitis warna karang pada satu cabang"
   plate: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-plate-ms.webp"
-  plateLines: "Mula-mula — gula susu berlalu tanpa diambil bayi · Kemudian — rod ini memakan apa yang bayi tidak mampu · Hasilnya — lebih 90 % ususnya milik mereka"
+  plateLines: "Mula-mula — gula susu berlalu tanpa diambil bayi · Kemudian — rod ini memakan apa yang bayi tidak mampu · Hasilnya — lebih 90 % ususnya milik mereka"
   hero: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-hero.webp"
   heroAlt: "Ilustrasi: gula susu melintasi lapisan usus bayi tanpa disentuh, rod Bifidobacterium bercabang menapainya menjadi titisan asetat berwarna limau nipis, dan sembilan belas daripada dua puluh sel di sebelah kanan ialah miliknya"
 referral:

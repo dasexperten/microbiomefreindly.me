@@ -19,15 +19,15 @@ answer: "Microbiomul gurii este comunitatea de bacterii care trăiesc pe dinți,
 sources: []
 images:
   card: "/assets/img/mbf/hubs/oral/oral-card-en.webp"
-  cardLine: "Where does plaque come from?"
-  cardAlt: "Where does plaque come from? — a woman leans over the basin in cool early light, having just rinsed"
+  cardLine: "De unde vine placa?"
+  cardAlt: "De unde vine placa? — o femeie se apleacă peste chiuvetă în lumina rece a dimineții, după ce tocmai s-a clătit"
   og: "/assets/img/mbf/hubs/oral/oral-og-en.jpg"
   preview: "/assets/img/mbf/hubs/oral/oral-preview.webp"
-  previewAlt: "Illustration: a young mound of round bacteria in short chains on tooth enamel, wrapped in a glossy sugar gel with a gold rim"
+  previewAlt: "Ilustrație: o movilă tânără de bacterii rotunde, în lănțișoare scurte, pe smalțul dintelui, învelită într-un gel de zahăr lucios cu margine aurie"
   plate: "/assets/img/mbf/hubs/oral/oral-plate-en.webp"
-  plateLines: "First — bacteria stick to the enamel · Then — sugar feeds the acid-makers · So — the enamel softens beneath"
+  plateLines: "Întâi — bacteriile se lipesc de smalț · Apoi — zahărul hrănește producătorii de acid · Rezultat — smalțul se înmoaie dedesubt"
   hero: "/assets/img/mbf/hubs/oral/oral-hero.webp"
-  heroAlt: "Illustration: sugar keeps reaching a plaque mound on tooth enamel, acid-making round bacteria take over, and a coral acid haze softens the enamel beneath them"
+  heroAlt: "Ilustrație: zahărul ajunge mereu la movila de placă de pe smalț, bacteriile rotunde producătoare de acid preiau locul, iar o ceață coral de acid înmoaie smalțul de dedesubt"
 referral:
   product: ""
   mayaLog: ""

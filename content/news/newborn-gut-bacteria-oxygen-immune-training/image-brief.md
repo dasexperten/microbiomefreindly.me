@@ -206,3 +206,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - zh-Hans card alt: "新生儿的肠道里没有空气吗？ — 一位新妈妈在晨光初现时靠坐在窗边的椅子上"
 - zh-Hans card question: "新生儿的肠道里没有空气吗？"
 - zh-Hans plate lines: "首先 — 新生的肠道里还留着空气 · 接着 — 一种脂把这个微生物的壁封住 · 结果 — 同一种脂在教免疫细胞"
+
+- ko preview alt: "일러스트: 어린 장 표면 위에서 뒤로부터 빛을 받은 Bacteroides fragilis의 짧은 막대들, 밀봉된 막의 테두리 하나가 연둣빛으로 빛난다"
+- ko hero alt: "일러스트: 공기의 티끌이 스쳐 가는 동안 짧은 막대균이 밀봉된 막 테두리를 지키고, 같은 막의 지방이 어린 면역세포에게 건네져 그 세포가 그것을 읽으며 자란다"
+- ko card alt: "신생아 장은 무산소인가요? — 갓 엄마가 된 여자가 첫 빛이 드는 창가 의자에 몸을 기댄다"
+- ko card question: "신생아 장은 무산소인가요?"
+- ko plate lines: "먼저 — 새 장에는 아직 공기가 남아 있다 · 그다음 — 지방 하나가 미생물의 벽을 봉한다 · 결과 — 같은 지방이 면역세포를 가르친다"

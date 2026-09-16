@@ -18,13 +18,13 @@ voice: greger
 answer: "Ağız mikrobiyomu; dişlerde, diş etlerinde, dilde ve yanaklarda yaşayan bakteri topluluğudur. Dişlerde plak oluşturur — bakterilerin kendi ürettiği şekerlerle bir arada tutulan, yapılı bir biyofilm. Dengedeyken korur; şeker sık geldiğinde ya da temizlik seyrekleştiğinde asit üreten türler baskın olur, mine çözünür ve diş etleri iltihaplanır."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/oral/oral-card-en.webp"
+  card: "/assets/img/mbf/hubs/oral/oral-card-tr.webp"
   cardLine: "Diş plağı nereden gelir?"
   cardAlt: "Diş plağı nereden gelir? — bir kadın serin sabah ışığında ağzını çalkalamış, lavabonun üzerine eğiliyor"
-  og: "/assets/img/mbf/hubs/oral/oral-og-en.jpg"
+  og: "/assets/img/mbf/hubs/oral/oral-og-tr.jpg"
   preview: "/assets/img/mbf/hubs/oral/oral-preview.webp"
   previewAlt: "İllüstrasyon: diş minesinde kısa zincirler hâlinde yuvarlak bakterilerden oluşan genç bir tümsek, altın kenarlı parlak bir şeker jeline sarılmış"
-  plate: "/assets/img/mbf/hubs/oral/oral-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/oral/oral-plate-tr.webp"
   plateLines: "Önce — bakteriler mineye yapışır · Sonra — şeker asit üreticilerini besler · Sonuç — altındaki mine yumuşar"
   hero: "/assets/img/mbf/hubs/oral/oral-hero.webp"
   heroAlt: "İllüstrasyon: diş minesindeki plak tümseğine durmadan şeker ulaşıyor, asit üreten yuvarlak bakteriler baskın hâle geliyor ve mercan rengi bir asit pusu altlarındaki mineyi yumuşatıyor"

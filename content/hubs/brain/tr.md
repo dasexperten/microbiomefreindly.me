@@ -18,13 +18,13 @@ voice: greger
 answer: "Bağırsak–beyin ekseni, bağırsağın ve mikroplarının beyinle konuştuğu yolların tümüdür: vagus siniri, bağırsak hücrelerinin hormonları, bağışıklık habercileri ve kandaki bakteri metabolitleri. Vücuttaki serotoninin büyük bölümü, mikropların etkisi altında bağırsakta üretilir. Bağlantı gerçek; insanda ruh hali üzerindeki payı hâlâ ölçülüyor."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/brain/brain-card-en.webp"
+  card: "/assets/img/mbf/hubs/brain/brain-card-tr.webp"
   cardLine: "Bağırsak ruh halimi etkiler mi?"
   cardAlt: "Bağırsak ruh halimi etkiler mi? — bir kadın alacakaranlıkta oturma odası penceresinde duruyor, eli boynunda"
-  og: "/assets/img/mbf/hubs/brain/brain-og-en.jpg"
+  og: "/assets/img/mbf/hubs/brain/brain-og-tr.jpg"
   preview: "/assets/img/mbf/hubs/brain/brain-preview.webp"
   previewAlt: "İllüstrasyon: bağırsağın kas duvarında lif demetleriyle birbirine bağlanmış sinir hücresi kümelerinden bir ağ, bir küme misket yeşiline boyanmış"
-  plate: "/assets/img/mbf/hubs/brain/brain-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/brain/brain-plate-tr.webp"
   plateLines: "Önce — bağırsak mikropları molekül salar · Sonra — bir bağırsak hücresi algılar ve sinyal verir · Sonuç — siniri sinyal taşır, bakteriler yerinde kalır"
   hero: "/assets/img/mbf/hubs/brain/brain-hero.webp"
   heroAlt: "İllüstrasyon: bağırsak bakterileri küçük moleküller salıyor, bağırsak astarındaki bir hormon hücresi bunları algılıyor ve altın rengi bir sinyal bir sinir boyunca beyne doğru koşuyor"

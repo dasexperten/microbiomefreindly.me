@@ -108,7 +108,7 @@ images:
   preview: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-preview.webp"
   previewAlt: "Ilustrație: bastonașe scurte și dolofane, anaerobe, adânc într-un șanț gingival îngust, din care se ridică fire fine de gaz cu sulf"
   plate: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-plate-en.webp"
-  plateLines: "Întâi — depozitul taie accesul aerului · Apoi — bacteriile desprind sulful · Rezultat — gura 87 %, intestinul 1 %"
+  plateLines: "Întâi — depozitul taie accesul aerului · Apoi — bacteriile desprind sulful · Rezultat — gura 87 %, intestinul 1 %"
   hero: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-hero.webp"
   heroAlt: "Ilustrație: o mulțime de fire de gaz cu sulf se ridică din bacteriile aflate în depozitul de pe spatele limbii, în timp ce un singur fir subțire urcă din adâncul de dedesubt"
 referral:

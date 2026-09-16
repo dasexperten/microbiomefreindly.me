@@ -179,3 +179,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - tl card alt: "Pumalpak ba ang trial? — isang lalaking kuwarentahin ang naghihintay mag-isa sa hintuan ng bus sa malamig na madaling-araw"
 - tl card question: "Pumalpak ba ang trial?"
 - tl plate lines: "Una — pumupwesto sa mucus ang mga patay na selula · Tapos — naglalabas ng GLP-1 ang isang selula ng gut · Kaya — 30 bilyong selula, walang gumalaw"
+
+- ja preview alt: "イラスト：腸の粘液の削られた窪みに、卵形のAkkermansiaの細胞がそのままの形で静かに横たわり、その下に粘膜の珊瑚色がのぞいている"
+- ja hero alt: "イラスト：腸の粘液の中に加熱して殺された卵形のAkkermansiaの細胞が密に漂う。粘膜のホルモン細胞が一つ金色の閃光を放つ一方、その先の組織は変わらないままでいる"
+- ja card alt: "試験は失敗したのですか？ — 40代の男性が冷たい朝の光の中、一人でバス停で待っている"
+- ja card question: "試験は失敗したのですか？"
+- ja plate lines: "まず — 死んだ細胞が粘液に落ち着く · 次に — 腸の細胞が一つGLP-1を放つ · 結果 — 300億個でも何も動かず"

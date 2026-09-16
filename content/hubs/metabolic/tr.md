@@ -18,13 +18,13 @@ voice: greger
 answer: "Bağırsak bakterileri lifi kısa zincirli yağ asitlerine fermente eder: asetat, propiyonat, bütirat. Bunlar bağırsak duvarını besler ve mideyi yavaşlatan, beyne doyduğunuzu söyleyen hormon GLP-1'i salan hücrelere sinyal verir. Mukusla yaşayan Akkermansia muciniphila, bu konuşmayı düzenli tutan bariyeri güçlendirir. Bu bir yolak, bir tedavi değil."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/metabolic/metabolic-card-en.webp"
+  card: "/assets/img/mbf/hubs/metabolic/metabolic-card-tr.webp"
   cardLine: "Tokluk hissini ne sağlar?"
   cardAlt: "Tokluk hissini ne sağlar? — bir adam alacakaranlıkta parkın kıyısında durup soluklanıyor"
-  og: "/assets/img/mbf/hubs/metabolic/metabolic-og-en.jpg"
+  og: "/assets/img/mbf/hubs/metabolic/metabolic-og-tr.jpg"
   preview: "/assets/img/mbf/hubs/metabolic/metabolic-preview.webp"
   previewAlt: "İllüstrasyon: bağırsak astarındaki şişe biçimli bir hormon hücresi altın rengi parlayan GLP-1 granülleri taşıyor, ucuna yağ asidi molekülleri konuyor"
-  plate: "/assets/img/mbf/hubs/metabolic/metabolic-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/metabolic/metabolic-plate-tr.webp"
   plateLines: "Önce — bakteriler lifi fermente eder · Sonra — yağ asitleri bir bağırsak hücresine ulaşır · Sonuç — hücre kana GLP-1 salar"
   hero: "/assets/img/mbf/hubs/metabolic/metabolic-hero.webp"
   heroAlt: "İllüstrasyon: bakteriler lifi yağ asidi moleküllerine fermente ediyor, bunlar bağırsak astarındaki bir hormon hücresine bağlanıyor; hücre altın rengi GLP-1 granüllerini küçük bir kan damarına bırakıyor"

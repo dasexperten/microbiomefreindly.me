@@ -137,3 +137,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - zh-Hans card alt: "长新冠是从肠道来的吗？ — 一位女性洗衣洗到一半停下来，坐在床沿上"
 - zh-Hans card question: "长新冠是从肠道来的吗？"
 - zh-Hans plate lines: "首先 — 一条细菌尾巴断掉 · 接着 — 免疫细胞把它读成警报 · 结果 — 离肠道很远的组织发炎"
+
+- ms preview alt: "Ilustrasi: bakteria usus yang langsing dengan ekor berpilin panjang dalam lendir yang hanyut, satu ekor yang tertanggal terapung dalam tompok cahaya emas"
+- ms hero alt: "Ilustrasi: serpihan ekor bakteria yang tertanggal meninggalkan usus, satu neutrofil melontar jaring dan memberi isyarat kepada makrofaj, dan tisu yang jauh menebal dengan gentian"
+- ms card alt: "Covid panjang datang dari usus? — seorang wanita berhenti di tengah kerja membasuh dan duduk di birai katil"
+- ms card question: "Covid panjang datang dari usus?"
+- ms plate lines: "Mula-mula — ekor bakteria tertanggal · Kemudian — sel imun membacanya sebagai penggera · Hasilnya — tisu jauh dari usus meradang"
+
+- ko preview alt: "일러스트: 흘러가는 점액 속에 긴 나선 꼬리가 달린 가느다란 장내 세균들이 있고, 떨어져 나온 꼬리 하나가 금빛 빛무리 속을 떠다닌다"
+- ko hero alt: "일러스트: 떨어져 나온 세균 꼬리 조각이 장을 빠져나가고, 호중구가 그물을 던지며 대식세포에 신호를 보내고, 멀리 떨어진 조직이 섬유로 두꺼워진다"
+- ko card alt: "롱코비드는 장에서 오나요? — 한 여자가 빨래를 하다 말고 침대 가장자리에 앉는다"
+- ko card question: "롱코비드는 장에서 오나요?"
+- ko plate lines: "먼저 — 세균의 꼬리가 떨어져 나온다 · 그다음 — 면역세포가 그것을 경보로 읽는다 · 결과 — 장에서 먼 조직에 염증이 인다"

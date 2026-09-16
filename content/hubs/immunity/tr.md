@@ -18,13 +18,13 @@ voice: greger
 answer: "Bağışıklık sistemi mikropları yok etmek için değil, onlarla yaşamak için kurulmuştur. Bağırsak astarındaki bakteriler bağışıklık hücrelerine — makrofajlara, düzenleyici T hücrelerine — hangi sinyalin tehlike, hangisinin komşu anlamına geldiğini öğretir. Hoşgörü denen bu öğrenme doğumda başlar. Başarısız olduğunda ortaya çıkan şey enfeksiyon değil, kronik iltihaptır."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/immunity/immunity-card-en.webp"
+  card: "/assets/img/mbf/hubs/immunity/immunity-card-tr.webp"
   cardLine: "Bağışıklık hoşgörüyü nasıl öğrenir?"
   cardAlt: "Bağışıklık hoşgörüyü nasıl öğrenir? — bir kadın alçalan ikindi güneşinde boş bir oyun parkının kapısında duruyor"
-  og: "/assets/img/mbf/hubs/immunity/immunity-og-en.jpg"
+  og: "/assets/img/mbf/hubs/immunity/immunity-og-tr.jpg"
   preview: "/assets/img/mbf/hubs/immunity/immunity-preview.webp"
   previewAlt: "İllüstrasyon: bağırsak astarının altındaki bir makrofaj, sıcak bir ışık lekesinde mercan rengi kolunu çubuk biçimli tek bir bakterinin çevresine doluyor"
-  plate: "/assets/img/mbf/hubs/immunity/immunity-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/immunity/immunity-plate-tr.webp"
   plateLines: "Önce — bakteriler duvarın ötesine sinyal verir · Sonra — devriye hücresi sessiz kalır · Sonuç — hoşgörü sürer, alarm çalmaz"
   hero: "/assets/img/mbf/hubs/immunity/immunity-hero.webp"
   heroAlt: "İllüstrasyon: tek hücre kalınlığındaki bağırsak astarının üstündeki bakteriler küçük moleküller salıyor; alttaki makrofaj bunları içine alıyor ve altın rengi düzenleyici T hücrelerinin yanında sakin kalıyor"

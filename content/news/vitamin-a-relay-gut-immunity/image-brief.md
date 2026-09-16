@@ -150,3 +150,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ro card alt: "Cine duce vitamina acolo? — o femeie taie morcovi la blatul din bucătărie, sub lampa de seară"
 - ro card question: "Cine duce vitamina acolo?"
 - ro plate lines: "Mai întâi — bacteriile intestinale trezesc mucoasa · Apoi — proteinele transportoare preiau retinolul · Rezultat — sub 2 % ajunge la celulele imune"
+
+- zh-Hans preview alt: "插画：分节的细菌丝以顶端扎进肠壁一处柔软的褶皱里，其中一根扎入的地方有一小点金光"
+- zh-Hans hero alt: "插画：分节的细菌扎根在肠壁上，肠壁细胞里含着金色的维生素 A 液滴；一滴被交给一个分枝的免疫细胞，再往下交给 T 细胞"
+- zh-Hans card alt: "是谁把维生素送过去的？ — 一位女性在傍晚的灯下于厨房台面上切胡萝卜"
+- zh-Hans card question: "是谁把维生素送过去的？"
+- zh-Hans plate lines: "首先 — 肠道细菌唤醒肠壁 · 接着 — 载体蛋白接过视黄醇 · 结果 — 不到 2% 到达免疫细胞"

@@ -72,7 +72,7 @@ images:
   preview: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-preview.webp"
   previewAlt: "Ilustrație: bacterii intestinale dolofane, în formă de bastonaș, și perechi de celule rotunde mici, așezate pe un fragment de fibră vegetală"
   plate: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-plate-en.webp"
-  plateLines: "Întâi — mâncarea schimbă amestecul într-o zi · Apoi — două zile mai târziu alunecă înapoi · Rezultat — 60 % dintre tulpini rămân ani întregi"
+  plateLines: "Întâi — mâncarea schimbă amestecul într-o zi · Apoi — două zile mai târziu alunecă înapoi · Rezultat — 60 % dintre tulpini rămân ani întregi"
   hero: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-hero.webp"
   heroAlt: "Ilustrație: două rânduri de câte zece grupuri de bacterii intestinale în mucus, în timp ce hrana plutește spre ele; în rândul de mai târziu șase grupuri sunt neschimbate, iar patru sunt înlocuite de nou-veniți"
 referral:

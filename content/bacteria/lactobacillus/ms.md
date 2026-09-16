@@ -107,7 +107,7 @@ images:
   preview: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-preview.webp"
   previewAlt: "Ilustrasi: rantai pendek sel Lactobacillus berbentuk rod terbaring dalam lapisan susu yang memasam, kabus emas samar mengelilingi satu rantai"
   plate: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-plate-ms.webp"
-  plateLines: "Mula-mula — rod memakan gula dalam ruang tenang · Kemudian — asidnya memasamkan ruang itu · Hasilnya — dalam usus kira-kira 0.01 %"
+  plateLines: "Mula-mula — rod memakan gula dalam ruang tenang · Kemudian — asidnya memasamkan ruang itu · Hasilnya — dalam usus kira-kira 0.01 %"
   hero: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-hero.webp"
   heroAlt: "Ilustrasi: di kiri rod Lactobacillus berhimpit dalam ruang masam bernada emas; di kanan, pada lapisan usus, satu rantai kecil duduk antara bakteria lain yang tidak terkira banyaknya"
 referral:

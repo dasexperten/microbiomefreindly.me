@@ -109,7 +109,7 @@ images:
   preview: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-preview.webp"
   previewAlt: "Ilustrație: fulgi de celule descuamate de la suprafață, cu lănțișoare mici de bacterii, așezați într-o vale îngustă dintre papilele limbii"
   plate: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-plate-en.webp"
-  plateLines: "Întâi — celulele căzute umplu șanțurile · Apoi — bacteriile fără aer dau mirosul · Rezultat — depozit subțire la 90,7 %"
+  plateLines: "Întâi — celulele căzute umplu șanțurile · Apoi — bacteriile fără aer dau mirosul · Rezultat — depozit subțire la 90,7 %"
   hero: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-hero.webp"
   heroAlt: "Ilustrație: un șir de papile ale limbii, cu fulgi descuamați și bacterii în văile dintre ele, subțiri în nouă văi și mai groși într-una, cu un gaz slab ridicându-se"
 referral:

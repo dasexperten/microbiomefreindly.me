@@ -94,7 +94,7 @@ images:
   preview: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-preview.webp"
   previewAlt: "Ilustrație: o bacterie în formă de bastonaș care poartă un spor blindat și trei spori liberi rămân întregi în acid, în timp ce bastonașele fragile din jur se prăbușesc"
   plate: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-plate-en.webp"
-  plateLines: "Întâi — mulțimea întâlnește acidul · Apoi — sporii trec, celulele fragile cad · Rezultat — ajung 18,5 %, puține se așază"
+  plateLines: "Întâi — mulțimea întâlnește acidul · Apoi — sporii trec, celulele fragile cad · Rezultat — ajung 18,5 %, puține se așază"
   hero: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-hero.webp"
   heroAlt: "Ilustrație: bacteriile înghițite trec prin acidul gastric; cele mai multe bastonașe fragile se prăbușesc, sporii și un ciorchine cu coajă trec întregi, iar la mucoasa intestinului doi supraviețuitori se așază în mucus, ceilalți trec mai departe"
 referral:

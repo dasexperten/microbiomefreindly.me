@@ -108,7 +108,7 @@ images:
   preview: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-preview.webp"
   previewAlt: "Ilustrasyon: maiikli at matatabang anaerobic na rod sa kailaliman ng makipot na uka ng gilagid, may pinong usok ng sulfur na umaangat mula rito"
   plate: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-plate-en.webp"
-  plateLines: "Una — sinasarhan ng patong ang hangin · Tapos — hinuhubaran ng bacteria ang sulfur mula rito · Kaya — bibig 87 %, bituka 1 %"
+  plateLines: "Una — sinasarhan ng patong ang hangin · Tapos — hinuhubaran ng bacteria ang sulfur mula rito · Kaya — bibig 87 %, bituka 1 %"
   hero: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-hero.webp"
   heroAlt: "Ilustrasyon: pulutong ng usok ng sulfur ang umaangat mula sa bacteria sa patong sa likod ng dila, habang iisang manipis na usok ang umaangat mula sa kailaliman sa ibaba"
 referral:

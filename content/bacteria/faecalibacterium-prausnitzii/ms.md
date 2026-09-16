@@ -100,7 +100,7 @@ images:
   preview: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-preview.webp"
   previewAlt: "Ilustrasi: bakteria berbentuk rod yang langsing terbaring dalam lendir pekat di atas lapisan kolon, manik kecil warna karang hanyut turun daripadanya"
   plate: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-plate-ms.webp"
-  plateLines: "Mula-mula — ia bersembunyi di tempat udara tidak sampai · Kemudian — ia memakan apa yang dijatuhkan jiran · Hasilnya — lapisan usus diberi makan; lebih 5 % daripada semua"
+  plateLines: "Mula-mula — ia bersembunyi di tempat udara tidak sampai · Kemudian — ia memakan apa yang dijatuhkan jiran · Hasilnya — lapisan usus diberi makan; lebih 5 % daripada semua"
   hero: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-hero.webp"
   heroAlt: "Ilustrasi: antara dua puluh bakteria usus dalam lendir tanpa udara, satu rod langsing mengambil sisa jirannya dan melepaskan manik butirat keemasan yang masuk ke dalam lapisan kolon"
 referral:

@@ -72,7 +72,7 @@ images:
   preview: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-preview.webp"
   previewAlt: "Ilustrasyon: matatabang pahabang gut bacteria at pares ng maliliit na bilog na selula na nakalapag sa piraso ng fiber ng halaman"
   plate: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-plate-en.webp"
-  plateLines: "Una — inaalog ng pagkain ang halo sa isang araw · Tapos — makalipas ang dalawang araw ay bumabalik ito · Kaya — 60 % ng strain ay nananatili nang mga taon"
+  plateLines: "Una — inaalog ng pagkain ang halo sa isang araw · Tapos — makalipas ang dalawang araw ay bumabalik ito · Kaya — 60 % ng strain ay nananatili nang mga taon"
   hero: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-hero.webp"
   heroAlt: "Ilustrasyon: dalawang hanay ng sampung grupo ng gut bacteria sa mucus habang dumarating ang pagkain; sa huling hanay, anim na grupo ang hindi nagbago at apat ang napalitan ng bago"
 referral:
