@@ -18,6 +18,9 @@ Plain words only. I describe what the reader should see and feel; Lisa turns it 
 3. Organism / structure in the preview:        Faecalibacterium prausnitzii — the cells themselves, sheltered in the
                                                mucus film that lies over the colon lining.
 
+   Card (person, Owner 2026-09-16):            Lucia from refs/characters/ · a woman in her twenties, a student · the
+                                               narrow balcony of her own flat, in the last hour of sun.
+
 4. Morphology, in words (truth, Magnus):       Slender straight rods, noticeably longer than they are wide — some short,
                                                some drawn out several times longer, lying single or end-to-end in short
                                                loose chains. Smooth, without flagella, without spores, not moving.
@@ -34,6 +37,23 @@ Plain words only. I describe what the reader should see and feel; Lisa turns it 
                                                #2F7D55. One accent only: a few tiny gold #C7A24B beads drifting from the
                                                rods down toward the lining — that is the fuel they hand over. No violet.
                                                Subject in the middle band (og crop must lose only air, top and bottom).
+
+   Card scene (one line):                      She stands at the balcony rail with a half-eaten bowl of oats and beans
+                                               in one hand, spoon resting in it, looking out at nothing in particular —
+                                               plain, no health pose: the oats are the leftovers this quiet bacterium
+                                               works on, and it never meets the air she is standing in.
+
+   Wardrobe and place:                         A plain unprinted long-sleeved top, loose trousers, socks, hair down, no
+                                               logos and no sportswear; a narrow flat balcony in the last hour of sun,
+                                               the low light running along the wall in a warm band, the air already
+                                               cooling, the street below out of focus.
+
+   EMPTY FIELD (where the words will sit):     The left 45 % of the frame is the balcony's plain rendered end wall, one
+                                               even tone held in soft shade just out of the sun's reach — nothing
+                                               crosses it: no rail post, no plant, no drainpipe, no cable, no washing
+                                               line, no hard shadow bar. It lies inside the middle horizontal band (top
+                                               and bottom 11 % are air). She stands on the right third, head and
+                                               shoulders inside that same band.
 
 6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16:
                                                Faecalibacterium prausnitzii, one of the most abundant bacteria in a
@@ -57,6 +77,13 @@ Plain words only. I describe what the reader should see and feel; Lisa turns it 
                                                black background, blue neon glow, false-colour "electron microscope"
                                                look; glowing pills, DNA helices; pus, wounds, blood; a hero that is a
                                                wider crop of the preview. Nothing bubbly or frothy in either frame.
+                                               Added 2026-09-16 for the person frame: a second person of any kind (no
+                                               neighbour, no figure on a balcony opposite); any face other than Lucia;
+                                               a lab coat, scrubs, a clinic, a hospital, a microscope; letters,
+                                               numerals, signage, packaging text or a watermark anywhere — including on
+                                               the bowl, on clothing, on a packet, on a phone screen and in the
+                                               background; any brand mark; any product; jewellery with lettering;
+                                               medical horror.
 
 10. Locales + alt text per locale:
 
@@ -66,6 +93,12 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: among twenty gut bacteria in airless mucus, one slender rod takes in its neighbours' leftovers and releases gold butyrate beads that pass into the colon lining"
 - ru preview alt: "Иллюстрация: тонкие палочковидные бактерии лежат в плотной слизи над слизистой толстой кишки, от них вниз опускаются крошечные коралловые капли"
 - ru hero alt: "Иллюстрация: среди двадцати кишечных бактерий в бескислородной слизи одна тонкая палочка забирает остатки соседей и выделяет золотые капли бутирата, которые уходят в клетки слизистой толстой кишки"
+- en card alt: "What feeds your gut lining? — a woman in her twenties eats a bowl of oats on her balcony in the last sun"
+- ru card alt: "Чем питается стенка кишечника? — женщина за двадцать ест кашу на балконе в последних лучах солнца"
+- en card question: "What feeds your gut lining?"
+- ru card question: "Чем питается стенка кишечника?"
+- en plate lines: "First — it hides where no air reaches · Then — it eats what neighbours drop · So — the lining is fed; over 5 % of all"
+- ru plate lines: "Сначала — прячется там, где нет воздуха · Затем — ест то, что бросили соседи · Итог — стенка сыта; больше 5 % всех"
 ```
 
 ## Notes for Lisa and Otto (plain words)
@@ -85,3 +118,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** three slender rods lying flat, deep in dense mucus gel, the middle one sharpest; a few tiny beads drift from it down toward the lining. Subject inside the middle 1.91:1 band. **World:** a dense, still inner mucus gel pressed over a flat colon lining dotted with small round crypt openings; cool silver moonlike light from high above, low intensity, pewter temperature. **Accent:** coral on the tiny butyrate beads only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left, a crowd of exactly twenty bacteria in airless mucus with one slender rod among them; centre, that rod takes in grey acetate beads and gives out butyrate beads; right, the beads pass into a row of lining cells. The eye reads left to right. **Light:** warm apricot light from the upper left, soft shadows — its own, not the preview's. **Accent:** gold on the butyrate beads.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the bowl held at her chest, sharp; the rail and the street below soft. **Empty field:** left side, 45 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** the last hour of sun, low and raking from the right, warm amber, the left wall held in even shade just outside the beam.

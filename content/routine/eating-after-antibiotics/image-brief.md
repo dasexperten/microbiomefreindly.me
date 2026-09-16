@@ -29,6 +29,8 @@ This frame is not one species. It is a mixed gut community sitting on plant fibr
 
 No spores swelling a cell end, no spirals, no filaments, no biofilm sheet, no capsule-shaped body of any kind: none of those belong in this frame.
 
+**Card (person, Owner 2026-09-16):** `Abdulova` from `refs/characters/` — a woman in her fifties, a home cook; an open-air greengrocer's stall on a market street, mid-morning.
+
 **4. The three-beat process — first, next, outcome**
 
 1. **First:** the fibre lattice lies almost bare. The four-day course has stripped the field; only scattered cells remain in the mucus, and most of the strand surface has nothing on it. Emptiness is the state the reader starts from.
@@ -43,6 +45,10 @@ The eye must walk that path in one pass: bare lattice → cells spreading along 
 
 Shown as **nine visibly empty places** in the refilled field — nine clear pockets on the fibre where a cell plainly used to sit, countable without effort in an otherwise crowded frame. Nine exactly: not eight, not a suggestion of "some". The number is never printed, never labelled, never written anywhere in the pixels. Quantity is the whole of it.
 
+- **Card scene (one line):** at twenty past ten she sets a plain paper bag of vegetables down on the greengrocer's table, the course behind her, working out what to cook this week.
+- **Wardrobe and place:** a plain dark-green jacket over an ordinary blouse, no logo, no badge, no apron; an open-air market street at twenty past ten in the morning, loose vegetables in wooden crates, open shade under a stall awning, the air still cool from the night.
+- **EMPTY FIELD (where the words will sit):** the left 45 % of the frame is the flat, evenly lit canvas of the stall awning hanging in one unbroken plane of open shade — nothing crosses it, no rope, no pole, no seam, no print, no pattern — and it lies wholly inside the middle horizontal band, the top and bottom 11 % kept as air. She stands on the right third, head and shoulders inside that same band.
+
 **6–7. Alt text**
 
 Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
@@ -51,6 +57,12 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: plant fibre over the gut lining, almost bare after antibiotics, then filling with bacteria along its strands, and at last crowded again with nine places left empty"
 - ru preview alt: "Иллюстрация: палочки и вильчатые бактерии кишечника снова оседают на разорванных стенках растительных клеток в мягком утреннем свете"
 - ru hero alt: "Иллюстрация: растительная клетчатка над слизистой кишечника — почти пустая после антибиотиков, затем бактерии заселяют её волокна, и в конце поле снова плотное, но девять мест остаются пустыми"
+- en card alt: "What should I eat now? — a woman at a market stall mid-morning, a paper bag of vegetables in hand"
+- ru card alt: "Что теперь есть? — женщина у овощного лотка на рынке утром, в руках бумажный пакет"
+- en card question: "What should I eat now?"
+- ru card question: "Что теперь есть?"
+- en plate lines: "First — the course leaves it bare · Then — fibre and ferments refill it · So — 9 species missing at day 180"
+- ru plate lines: "Сначала — после курса поле пустое · Затем — клетчатка и квашеное кормят · Итог — 9 видов нет и на 180-й день"
 
 **8. What must never appear**
 
@@ -60,6 +72,8 @@ Two honesty limits that are as binding as the bans above:
 
 - The nine empty places must stay empty in the last beat — nothing may show food closing them, because no study says it does.
 - The fermented-food cells must not be drawn as the agent that refills the field, because the trial behind them was run in healthy adults with no antibiotics involved.
+
+**On the card frame (Owner 2026-09-16), as binding as the bans above.** Everything above governs the preview and the hero, and the bans there on people and on kitchens and food hold for those two frames without exception; the card frame is the one frame that carries a person, and it is the one frame in which ordinary food may appear as ordinary food. On it: no second person and no face other than `Abdulova`. No lab coat, no scrubs, no clinic, no hospital, no microscope, no white room. No letters, numerals, signage, packaging text or watermark anywhere in the frame — including on clothing, on the paper bag, on crates, on price cards and everywhere in the background; the paper bag is plain and unprinted and the stall shows no written price. No brand mark. No product of any kind and nothing product-shaped — no capsule, tablet, blister pack, bottle, pack, sachet or supplement jar, not even out of focus. No jewellery carrying lettering. No medical horror.
 
 **9. File keyword**
 
@@ -75,3 +89,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one torn sheet of plant cell wall, its broken honeycomb of cell outlines and frayed parallel strands sharp at the centre, with a few plain rods and two or three forked cells settling along its edge; the rest of the lattice softens away. Subject inside the middle 1.91:1 band. **World:** an open lattice of pale, matte, slightly translucent plant cell-wall sheets and strands at the scale of the bacteria, no vegetable, bowl or plate; warm early-morning light as through a kitchen window, low from the left, honey-warm. **Accent:** gold on the forked cells only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** one continuous fibre lattice over the mucus-covered folds, left to right — almost bare with scattered cells, then plain rods and forked cells spreading out along the strands, then a crowded field with exactly nine clearly empty pockets. **Light:** soft, even overcast light from directly above, neutral-cool, shadows barely there. **Accent:** coral on the rims of the nine empty pockets only.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the two hands setting the plain paper bag down on the stall table, sharp; the crates behind falling soft. **Empty field:** left side, 45 % of the width, the flat awning canvas. Head and shoulders inside the middle 1.91:1 band. **Light:** twenty past ten in the morning, open shade under the awning with bright cool daylight spilling in from the right, soft-edged shadows.

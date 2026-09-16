@@ -28,6 +28,8 @@ The subject is **lactobacilli — the same species, different strains** — and 
 
 The eleven-strain mixture in the Zmora study is **not** given a cast in this frame: our article does not name its species, so nothing may be drawn for it. Nothing enters the picture that the text cannot vouch for.
 
+**Card (person, Owner 2026-09-16):** `Dalla` from `refs/characters/` — a woman in her forties, a translator; a café table by the window, in the afternoon.
+
 ## 4. The three-beat process — first, next, outcome
 
 From the article's H2 skeleton, read as one path:
@@ -48,6 +50,10 @@ Show it as **quantity, never as a printed figure**: six clusters in the frame, f
 
 No second number goes into the image. Every other figure in the piece — the 1.98 kg, the 30 × 10⁹ CFU, the 12 weeks, the 1–2 days — stays in the text where its source marker can follow it.
 
+- **Card scene (one line):** she sits alone at a café table at twenty past four with a second, half-drunk cup standing opposite her where her friend sat, one shoulder lifted in a small shrug.
+- **Wardrobe and place:** a plain rust-coloured cardigan over a plain shirt, no logo, no print; a small neighbourhood café at twenty past four in the afternoon, low autumn sun coming flat through the window, the room warm and half empty.
+- **EMPTY FIELD (where the words will sit):** the right 47 % of the frame is a plain plastered café wall in warm even shade — one uncluttered plane, nothing crosses it, no picture, no shelf, no menu board, no cable, no pattern — and it lies wholly inside the middle horizontal band, the top and bottom 11 % kept as air. She sits on the left third, head and shoulders inside that same band.
+
 ## 6–7. Alt text
 
 Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
@@ -56,6 +62,12 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: six identical clusters of rod-shaped bacteria settle on the same gut mucus; under four the mucus visibly changes, under two it stays untouched"
 - ru preview alt: "Иллюстрация: две одинаковые группы палочковидных бактерий на волнистой кишечной слизи; под одной слизь меняется, под другой нет"
 - ru hero alt: "Иллюстрация: шесть одинаковых скоплений палочковидных бактерий оседают на одну и ту же кишечную слизь; под четырьмя она заметно меняется, под двумя остаётся нетронутой"
+- en card alt: "It helped her. Why not me? — a woman at a café table in the afternoon, a second cup opposite her"
+- ru card alt: "Пробиотик другу помог. А мне? — женщина за столиком кафе днём, напротив вторая чашка"
+- en card question: "It helped her. Why not me?"
+- ru card question: "Пробиотик другу помог. А мне?"
+- en plate lines: "First — six strains look identical · Then — same gut, same conditions · So — 4 of 6 did anything"
+- ru plate lines: "Сначала — шесть штаммов на вид одинаковы · Затем — кишечник один и тот же · Итог — помогли 4 из 6"
 
 ## 8. What must never appear
 
@@ -70,6 +82,8 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - **Neither master is ever a crop of the other** — two masters, born natively at their own ratios.
 - No black background, no blue neon glow, no false-colour electron-micrograph cliché, no stock DNA helix, no glowing pill, no invented microscope or screen interface.
 - Nothing that could be mistaken for a real photograph or a real diagnostic image.
+
+**On the card frame (Owner 2026-09-16), as binding as the bans above.** Everything above governs the preview and the hero, and the ban on people holds there without exception; the card frame is the one frame that carries a person, and on it: no second person — the friend has already gone, only her cup is left — and no face other than `Dalla`. No lab coat, no scrubs, no clinic, no hospital, no microscope, no white room. No letters, numerals, signage, packaging text or watermark anywhere in the frame — including on clothing, on the cups, on a jar and everywhere in the background. No brand mark. No product of any kind and nothing product-shaped — no capsule, tablet, blister pack, bottle, pack or supplement jar, not even out of focus. No jewellery carrying lettering. No medical horror.
 
 ## 9. File keyword
 
@@ -91,3 +105,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** two small, identical groups of rice-grain rods resting a little apart on the mucus surface — same shape, size and colour; under the nearer group the fine ripples of the mucus have loosened into a changed, softer pattern, under the other they run on unbroken. The nearer group sharp, the far one slightly soft. Subject inside the middle 1.91:1 band. **World:** the upper surface of the gut mucus layer, finely rippled and crisp like wind-packed snow; clear icy early-morning light, cool and bright, low from the left, thin sharp shadows in the ripples. **Accent:** gold on the changed mucus under the nearer group only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** read left to right — six identical clusters of rods drifting down toward the mucus film on the left; the same six touching down on the same film over rounded folds in the centre; on the right the six at rest in a row, the film visibly changed beneath four and untouched beneath two. **Light:** neutral, crisp noon light from directly overhead, short contact shadows. **Accent:** lime on the changed film beneath the four clusters only.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the small lift of her shoulder, sharp; the second cup on the far side of the table just soft, the café behind softer. **Empty field:** right side, 47 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** twenty past four in the afternoon, low autumn sun flat through the window from the left, warm gold, long soft shadows.

@@ -13,6 +13,8 @@ File names: `skin-preview` · `skin-hero`.
 
 **3. Organism / structure in the preview:** the skin's own microbiome — *Cutibacterium* and *Staphylococcus*, the two the hub names — on the outermost surface layer beside a follicle opening where sebum pools.
 
+**Card (person, Owner 2026-09-16):** **Kumi** from `refs/characters/` (`Kumi.jpg`, casting sheet 2026-09-16) · a woman in her thirties, an office worker · the window of her own living room in the morning. The age and the role are named here by the author, never by the engine.
+
 **4. Morphology, in words (truth, Magnus):**
 - The outer surface layer, drawn only as a cell-scale landscape: flat, many-sided, overlapping dead cells like pale shingles or thin stone slabs, fine raised edges where they overlap. No body outline, no face.
 - A follicle opening: a small round crater in that shingled surface, a thin glossy film of sebum pooled at its rim.
@@ -26,6 +28,10 @@ File names: `skin-preview` · `skin-hero`.
 
 **5. Preview mood (one line, warm science):** a pale shingled plain around a small round crater, clusters of cocci resting on the slabs and a small group of short rods at the crater's glossy rim, in clear cold daylight bouncing off pale stone; the rods at the rim carry the only coral.
 
+- **Card scene (one line):** she stands at the open living-room window in the morning with a plain unmarked mug in one hand, the sun flat across one cheek, her fingertips resting at her jaw.
+- **Wardrobe and place:** plain 2026 clothing, no logos, no uniform — a plain linen shirt with the sleeves rolled, no jewellery; an ordinary living room at 09:00, direct morning sun coming straight in at the window, warm and clean, the rest of the room cooler.
+- **EMPTY FIELD (where the words will sit):** the left 46 % of the frame is the plain painted wall beside the window, in soft morning shade — one flat surface, nothing crossing it: no picture, no curtain, no switch, no cable, no shelf. It runs from 0.11 to 0.89 of the height, wholly inside the middle horizontal band; the top and bottom 11 % of the frame stay air. She stands in the right third, head and shoulders inside that same band.
+
 **6. Hero mechanism (the answer, one clause):** gut bacteria shape immune cells and metabolites that travel in the blood to the skin, where skin cells and the skin's own microbes respond — the bacteria themselves do not travel.
 
 **7. Three beats (first → next → outcome):** (1) at the gut lining, bacteria release small metabolite molecules and small round immune cells trained there set off; (2) the molecules and immune cells ride a translucent blood vessel across the frame — no bacteria among them, the gut bacteria stay where they were; (3) outcome: the vessel reaches the layered skin surface, the molecules and immune cells arrive beneath its shingled top layer, and the resident clusters of cocci and short rods above sit settled and calm.
@@ -33,6 +39,8 @@ File names: `skin-preview` · `skin-hero`.
 **8. The one number (keyFacts, source id):** none in keyFacts — clause dropped, nothing shown as a number.
 
 **9. Must not appear:** any product, cream jar, tube, serum bottle, capsule, packaging or brand mark; any text, letters, numerals, labels, arrows, scale bars, watermarks or interface; no person, face or hand in either frame; no body silhouette, no skin drawn as a body surface or close-up of a person; no pimple, rash, redness, pus, wound or blood; no hair; no bacteria inside the blood vessel; no intestine drawn as an anatomical organ cut-away; no black background, no blue neon glow, no false-colour micrograph cliché, no DNA helix; no collage, split panel or inset; neither frame is a crop of the other.
+
+**Third frame (the person frame) — must not appear, Owner 2026-09-16.** A second person of any kind; any face other than the named REF; lab coat, scrubs, clinic, hospital, treatment room, microscope; letters, numerals, signage, packaging text or a watermark anywhere in the pixels — on clothing, on the mug, on a wall, in the background: the mug is plain, unmarked and without a pattern; any brand mark; any product or anything product-shaped — **no cream jar, no serum bottle, no tube, no capsule, no pack**, not on a sill, not in her hand; a mirror (her reflection would read as a second face); jewellery with lettering; medical horror — no rash, spot or redness put on her face. The "no person" line above governs the preview and the hero only: this frame carries one person, and it is the named REF.
 
 **10. Locales + alt text per locale:** en and ru are live for this hub. One image set serves both.
 
@@ -42,6 +50,12 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: gut bacteria stay put while lime molecules and immune cells from the gut lining travel in the bloodstream to the skin surface and its own microbes"
 - ru preview alt: "Иллюстрация: гроздья круглых бактерий на плоских клетках поверхности кожи и коралловые короткие палочки у края поры"
 - ru hero alt: "Иллюстрация: кишечные бактерии остаются на месте, а лаймовые молекулы и иммунные клетки из слизистой кишечника плывут с кровотоком к поверхности кожи и её микробам"
+- en card alt: "Can the gut show on skin? — a woman at a sunlit window in the morning, fingertips resting at her jaw"
+- ru card alt: "Кожа зависит от кишечника? — женщина у солнечного окна утром, кончики пальцев у скулы"
+- en card question: "Can the gut show on skin?"
+- ru card question: "Кожа зависит от кишечника?"
+- en plate lines: "First — gut bacteria release molecules · Then — blood carries them, not bacteria · So — the skin's own microbes answer"
+- ru plate lines: "Сначала — бактерии кишки дают молекулы · Затем — кровь несёт их, а не бактерий · Итог — кожные микробы отвечают"
 
 Only these four descriptive lines change per language; the pixels stay the same.
 
@@ -59,3 +73,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** the rim of one small round follicle opening with its thin glossy sebum film and a small group of short, slightly club-shaped rods on it, sharp at the centre; grape-like clusters of cocci on the surrounding shingles soften away. Subject inside the middle 1.91:1 band. **World:** a pale shingled surface of flat overlapping cells like slabs of stone around a small round crater; clear cold daylight bouncing off pale stone, crisp, bright, blue-white. **Accent:** coral on the small group of rods at the rim only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** bacteria at the gut lining releasing molecules as immune cells set off → the molecules and immune cells riding the translucent vessel, no bacteria aboard → their arrival beneath the layered skin surface with its settled resident microbes, left to right. **Light:** clear warm light from the lower left, rising across the frame. **Accent:** lime on the travelling molecules and immune cells only.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** the lit cheek and the fingertips at her jaw; the window and the room behind soft. **Empty field:** left side, 46 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 09:00, direct morning sun straight in at the window from the right, warm and clean.

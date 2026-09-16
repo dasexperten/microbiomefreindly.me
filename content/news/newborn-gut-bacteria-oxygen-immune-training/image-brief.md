@@ -25,6 +25,11 @@ fats. Mice and molecules only; no human infants.
 *Bacteroides fragilis* — and specifically **its outer membrane**, the wall itself. The membrane is the
 subject, not a background detail.
 
+**Card (person, Owner 2026-09-16):** **Paula** from `refs/characters/` (`Paula.png`, casting sheet
+2026-09-16) · a woman in her early thirties, a new mother in her first week at home · the corner of
+her own bedroom at daybreak. No child appears in the frame — see field 9. The age and the role are
+named here by the author, never by the engine.
+
 ## 4. Morphology, in words (truth — do not invent the shape)
 
 Gram-negative **short rods**, blunt rounded ends, slightly uneven in length, pleomorphic — some near
@@ -43,6 +48,10 @@ in their shading, **one gold `#C7A24B` note only** — a quiet warm gleam along 
 the fat that seals the wall. Scale cue: the mucus film and the soft shoulder of a villus fall away
 behind, out of focus, so a reader feels a few microns, not a landscape. No people, no text, no
 product, no invented packaging.
+
+- **Card scene (one line):** after the night feed she has sat back in the low armchair by the window, a folded muslin cloth over her shoulder, head against the chair back, awake in the first light; the cot is out of frame and no child is in the picture.
+- **Wardrobe and place:** plain 2026 clothing, no logos, no uniform — a soft zip-up cardigan over a plain top, loose pyjama trousers, bare feet; the corner of a small bedroom at 05:40, the first cold daylight through a thin curtain, blue and even, the room still and warm.
+- **EMPTY FIELD (where the words will sit):** the left 47 % of the frame is the plain papered wall beside the window, in cool even shade — one flat surface, nothing crossing it: no cot rail, no picture, no lamp, no flex, no switch. It runs from 0.11 to 0.89 of the height, wholly inside the middle horizontal band; the top and bottom 11 % of the frame stay air. She sits in the right third, head and shoulders inside that same band.
 
 ## 6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16
 
@@ -80,6 +89,8 @@ plainly that the animal counts could not be sourced. Nothing in either frame imp
   is a plain round cell and is never drawn as a bacterium
 - The hero must not be a wider version of the preview, nor the preview a crop of the hero
 
+**Third frame (the person frame) — must not appear, Owner 2026-09-16.** A second person of **any** age — no baby, no child, no partner, no visitor: the study never touched an infant and a child in the picture would make a claim the article refuses; any face other than the named REF; lab coat, scrubs, clinic, hospital, delivery room, incubator, microscope; letters, numerals, signage, packaging text or a watermark anywhere in the pixels — on clothing, on the cloth, on a wall, in the background; any brand mark; any product or anything product-shaped — no bottle, teat, formula pack, capsule, blister, tube or jar; jewellery with lettering; medical horror. The "no person" line above governs the preview and the hero only: this frame carries one person, and it is the named REF.
+
 ## 10. Locales + alt text per locale
 
 `en.md` and `ru.md` exist; one image set, only the alt line changes.
@@ -90,6 +101,12 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: a short rod holds its sealed membrane rim while air motes drift past, and the same membrane fat is handed on to a young immune cell that grows by reading it"
 - ru preview alt: "Иллюстрация: короткие палочки Bacteroides fragilis в контровом свете на юной поверхности кишечника, край мембраны одной клетки светится лаймовым"
 - ru hero alt: "Иллюстрация: короткая палочка держит плотный край мембраны, пока рядом дрейфуют частицы воздуха, а тот же мембранный жир передаётся юной иммунной клетке, которая по нему растёт"
+- en card alt: "Is a newborn gut airless? — a new mother sits back in the chair by the window at first light"
+- ru card alt: "В кишечнике младенца есть воздух? — молодая мать сидит в кресле у окна на первом свету"
+- en card question: "Is a newborn gut airless?"
+- ru card question: "В кишечнике младенца есть воздух?"
+- en plate lines: "First — air still lingers in a new gut · Then — one fat seals the microbe's wall · So — the same fat teaches immune cells"
+- ru plate lines: "Сначала — в юной кишке ещё есть воздух · Затем — жир запечатывает её оболочку · Итог — тот же жир учит иммунные клетки"
 
 ---
 
@@ -123,3 +140,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** the rim of the nearest short rod — the sharpest, cleanest edge in the picture — with two more rods behind it and a faint scatter of air motes thinning out before they reach them. Subject inside the middle 1.91:1 band. **World:** the oxygen-carrying fluid of a newborn gut over a young, thinly settled surface — fine drifting motes in clear liquid above a soft pale floor; honey-coloured evening light coming from behind the cells, so each translucent body glows at its edge. **Accent:** lime on that one sealed rim only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left to right — air motes drifting against a short rod whose rim carries a line of small even nodes; centre, the sealed rim holding while slack-rimmed neighbours fade; right, one node carried out and held on a host cell's surface, read by a young round immune cell. **Light:** cool clear north-window light from the front-left, gentle and even. **Accent:** gold on the fat nodes in the membrane and the one that is handed on.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the shoulder with the folded cloth on it; the window frame behind her soft. **Empty field:** left side, 47 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 05:40, the first cold daylight through a thin curtain from the right, blue and even, no lamp lit.

@@ -32,6 +32,8 @@ The frame is a **gut bacterial community**, not one species — that is the hone
 
 Morphology is truth (§ rules that outlive any engine, 3): rods stay rods, and only *R. bromii* is round. No spores anywhere in this frame — none of these organisms form them.
 
+**Card (person, Owner 2026-09-16):** `Ayka` from `refs/characters/` — a young woman in her twenties, a student; her own sitting room at the window, late in the afternoon.
+
 ## 4. The three-beat process — first, next, outcome
 
 Taken from the article's H2 skeleton, in one reading path:
@@ -51,6 +53,10 @@ Show it as **proportion, never as a printed figure**: in the outcome beat, of te
 
 No second number goes into the image. The one-day and two-day timings are the article's words; they are carried by the reading path, not by any clock, calendar or hourglass — those would smuggle numerals into a frame that forbids them.
 
+- **Card scene (one line):** third evening of it, she stands at her sitting-room window at twenty to six with her arms folded and her cardigan pulled round her, waiting to feel different.
+- **Wardrobe and place:** a soft oatmeal cardigan over plain leggings, no logo, no print; a small rented sitting room at twenty to six, the last low daylight coming through the window, the lamps not switched on yet, the room going cool.
+- **EMPTY FIELD (where the words will sit):** the right 45 % of the frame is a smooth plastered sitting-room wall beside the window in even late light — one uncluttered plane, nothing crosses it, no picture, no shelf, no cable, no switch, no pattern — and it lies wholly inside the middle horizontal band, the top and bottom 11 % kept as air. She stands on the left third, head and shoulders inside that same band.
+
 ## 6–7. Alt text
 
 Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
@@ -59,6 +65,12 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: two rows of ten gut bacteria groups in the mucus as food drifts in; in the later row six groups are unchanged and four are replaced by newcomers"
 - ru preview alt: "Иллюстрация: толстые палочковидные кишечные бактерии и пары мелких круглых клеток на обрывке растительного волокна"
 - ru hero alt: "Иллюстрация: два ряда из десяти групп кишечных бактерий в слизи, пока приходит еда; в позднем ряду шесть групп те же, а четыре заменены новичками"
+- en card alt: "Can three days reset it? — a woman at her sitting-room window in late light, arms folded"
+- ru card alt: "Три дня что-то меняют? — женщина у окна гостиной в предвечернем свете, руки скрещены"
+- en card question: "Can three days reset it?"
+- ru card question: "Три дня что-то меняют?"
+- en plate lines: "First — food shifts the mix in a day · Then — two days later it slides back · So — 60 % of strains stay for years"
+- ru plate lines: "Сначала — еда сдвигает состав за сутки · Затем — через двое суток всё назад · Итог — 60 % штаммов живут годами"
 
 ## 8. What must never appear
 
@@ -73,6 +85,8 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - **No spores, no flagella on the *Bacteroides*-type rods, no spheres for any organism except *Ruminococcus bromii*.** Wrong morphology is a factual error, not a style choice.
 - No black background, no blue neon glow, no false-colour electron-micrograph cliché, no stock DNA helix, no glowing pill, no invented microscope or screen interface.
 - Nothing that could be mistaken for a real photograph of a real diagnostic image.
+
+**On the card frame (Owner 2026-09-16), as binding as the bans above.** Everything above governs the preview and the hero, and the ban on people holds there without exception; the card frame is the one frame that carries a person, and on it: no second person and no face other than `Ayka`. No lab coat, no scrubs, no clinic, no hospital, no microscope, no white room. No letters, numerals, signage, packaging text or watermark anywhere in the frame — including on clothing, on a mug, on a jar and everywhere in the background. No clock, calendar, hourglass or day-counter, exactly as above — the three days are never counted in the pixels. No brand mark. No product of any kind and nothing product-shaped — no juice bottle, cleanse or detox pack, powder sachet, capsule, tablet or supplement jar, not even out of focus. No jewellery carrying lettering. No medical horror.
 
 ## 9. File keyword
 
@@ -94,3 +108,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a small settled community on one pale, ridged fragment of plant cell wall with a rounded starch granule on it — plump rods of uneven length, straight blunt rods lying end to end in pairs, and pairs of small round cells on the starch granule; the group sharp at the centre, the fibre ends softening away. Subject inside the middle 1.91:1 band. **World:** a fragment of plant fibre and starch lying in loose gut mucus; blue hour — cool, dim, grey-blue ambient light — with one small warm highlight from the lower left catching the settled group. **Accent:** gold on the warm highlight across the settled group only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** one continuous stretch of loose colon mucus read left to right — ten resident groups of cells as food fragments arrive and the bile-tolerant rods crowd forward; the proportions sliding back as the food thins away; on the right ten resident groups again, exactly six the same as on the left, four replaced by newcomers. **Light:** clear, cool silver light raking from the upper right at a low angle, crisp shadows toward the lower left. **Accent:** coral on the four newcomer groups only.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face turned three-quarters to the window and her folded arms, sharp; the room behind falling soft. **Empty field:** right side, 45 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** twenty to six in the evening, the last low daylight through the window from the left, pale gold going grey, long soft shadows.

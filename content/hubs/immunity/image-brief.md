@@ -13,6 +13,8 @@ File names: `immunity-preview` · `immunity-hero`.
 
 **3. Organism / structure in the preview:** a macrophage at the gut border — the patrol cell the hub describes swallowing whatever crosses the one-cell-thick lining.
 
+**Card (person, Owner 2026-09-16):** **Brucella** from `refs/characters/` (`Brucella.jpg`, casting sheet 2026-09-16) · a woman in her thirties, the mother of a small child · the gate of a neighbourhood playground on the way home. The age and the role are named here by the author, never by the engine.
+
 **4. Morphology, in words (truth, Magnus):**
 - Macrophage: a large, irregular cell, many times the size of a bacterium, with a ruffled surface and broad, flowing arms. When it swallows, one arm curls into a cup around the particle. Not a round ball, not spiky like a virus.
 - The gut lining: one cell thick — a single row of tall column-shaped cells.
@@ -23,6 +25,10 @@ File names: `immunity-preview` · `immunity-hero`.
 
 **5. Preview mood (one line, warm science):** cool blue-grey twilight in the soft tissue under the gut lining, one warm spot of light falling on a macrophage as it closes an arm around a single rod that has crossed; the cupped arm carries the only coral.
 
+- **Card scene (one line):** on the way home she has stopped at the gate of the empty playground, a small knitted mitten in her hand, the swings still behind her.
+- **Wardrobe and place:** plain 2026 clothing, no logos, no uniform — an unbranded quilted jacket over a plain jumper, hair loose; a neighbourhood playground gate at 16:40 in late autumn, low sun coming in from the side, warm and long, the ground already in shade.
+- **EMPTY FIELD (where the words will sit):** the left 45 % of the frame is the flat rendered end wall of the building across the path, in even shade — one plain surface, nothing crossing it: no window, no drainpipe, no notice, no railing, no mark. It runs from 0.11 to 0.89 of the height, wholly inside the middle horizontal band; the top and bottom 11 % of the frame stay air. She stands in the right third, head and shoulders inside that same band.
+
 **6. Hero mechanism (the answer, one clause):** bacteria on the gut lining teach immune cells which signals mean neighbour — macrophages stay quiet and regulatory T cells hold the peace, which is tolerance.
 
 **7. Three beats (first → next → outcome):** (1) a dense crowd of bacteria above the one-cell-thick lining releases small short-chain fatty acid molecules that pass through the row of lining cells; (2) beneath, a macrophage takes those molecules in at its surface and stays quiet — smooth, settled, arms relaxed; (3) outcome: small round regulatory T cells gather beside it in calm, orderly tissue — the peace held, nothing swollen, no alarm.
@@ -30,6 +36,8 @@ File names: `immunity-preview` · `immunity-hero`.
 **8. The one number (keyFacts, source id):** none in keyFacts — clause dropped, nothing shown as a number.
 
 **9. Must not appear:** any product, capsule, bottle, packaging or brand mark; any shield, armour, sword or fight imagery for "immunity"; any text, letters, numerals, labels, arrows, scale bars, watermarks or interface; no person, face or hand in either frame; no intestine or lymph node drawn as an anatomical organ cut-away; no pus, swelling, redness, blood or dying cells; no virus-like spiky balls; no black background, no blue neon glow, no false-colour micrograph cliché, no DNA helix; no collage, split panel or inset; neither frame is a crop of the other.
+
+**Third frame (the person frame) — must not appear, Owner 2026-09-16.** A second person of any kind, including a child — the playground is empty and no child is in the picture; any face other than the named REF; lab coat, scrubs, clinic, hospital, microscope; letters, numerals, signage, packaging text or a watermark anywhere in the pixels — on clothing, on the mitten, on a wall, on a gate, in the background; any brand mark; any product or anything product-shaped — no capsule, bottle, pack, blister, sachet, tube or jar; jewellery with lettering; medical horror. The "no person" line above governs the preview and the hero only: this frame carries one person, and it is the named REF.
 
 **10. Locales + alt text per locale:** en and ru are live for this hub. One image set serves both.
 
@@ -39,6 +47,12 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: bacteria above the one-cell-thick gut lining release small molecules; a macrophage below takes them in and stays calm beside gold regulatory T cells"
 - ru preview alt: "Иллюстрация: макрофаг под слизистой кишечника обхватывает коралловым отростком одну палочковидную бактерию в тёплом пятне света"
 - ru hero alt: "Иллюстрация: бактерии над однослойной слизистой кишечника выделяют мелкие молекулы; макрофаг под ней принимает их и остаётся спокойным рядом с золотыми регуляторными Т-клетками"
+- en card alt: "How is tolerance learned? — a woman stops at an empty playground gate in low late-afternoon sun"
+- ru card alt: "Откуда берётся терпимость? — женщина остановилась у ворот пустой площадки под низким солнцем"
+- en card question: "How is tolerance learned?"
+- ru card question: "Откуда берётся терпимость?"
+- en plate lines: "First — bacteria signal across the wall · Then — the patrol cell stays quiet · So — tolerance holds, no alarm"
+- ru plate lines: "Сначала — бактерии сигналят через стенку · Затем — клетка-страж остаётся спокойной · Итог — мир держится, тревоги нет"
 
 Only these four descriptive lines change per language; the pixels stay the same.
 
@@ -56,3 +70,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** the macrophage's arm closing into a cup around one rod-shaped bacterium, the cup the sharpest point; the single row of lining cells softly out of focus above. Subject inside the middle 1.91:1 band. **World:** loose, soft, fibre-threaded tissue just beneath the gut lining; cool blue-grey twilight with one warm spot of light falling on the macrophage. **Accent:** coral on the cupped arm around the bacterium only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** the bacterial crowd above the thin lining releasing small molecules → the quiet macrophage beneath taking them in → the calm group of small round regulatory T cells beside it, left to right. **Light:** even pearl-grey light from above with a faint warm rim from behind. **Accent:** gold on the regulatory T cells only.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the small mitten in her hand; the empty swings soft behind her. **Empty field:** left side, 45 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 16:40 late autumn, low sun from the right, warm and long, the ground in shade.

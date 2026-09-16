@@ -22,6 +22,10 @@ The dental biofilm itself — the sticky plaque shell — with the mouth organis
 inside it: a Candida yeast, streptococci, and the two gum-disease anaerobes. The structure is the
 subject; the cells are the inhabitants.
 
+**Card (person, Owner 2026-09-16):** **Tika** from `refs/characters/` (`Tika.jpg`, casting sheet
+2026-09-16) · a woman in her thirties, a graphic designer · her own balcony above a city street.
+The age and the role are named here by the author, never by the engine.
+
 **4. Morphology, in words (truth — do not invent shapes)**
 Streptococci: small spheres, in short chains and beaded strings, never single scattered dots.
 Candida: larger oval cells, some with a smaller bud attached at one end, a few in short strings.
@@ -38,6 +42,10 @@ with one place near the edge where it has thinned and let the light through to t
 Ground ivory #F1EADC; cells and film in navy #1B3856, teal #178B7A and green #2F7D55; a single
 small gold #C7A24B note where the light catches the thinned place. No people, no text, no
 product, no packaging, no glow, no black ground.
+
+- **Card scene (one line):** late in the evening, after the last friend has gone, she stands at her balcony rail still slowly chewing, mouth closed, the last mouthful of wine in a plain unlabelled stemmed glass in her hand, looking down at the street.
+- **Wardrobe and place:** plain 2026 clothing, no logos, no uniform — a loose knitted cardigan over a plain T-shirt; a small city balcony at 22:15, warm lamplight spilling from the room behind her through the open door, cool blue night and dim street light beyond, mild air.
+- **EMPTY FIELD (where the words will sit):** the left 44 % of the frame is the flat rendered wall of the building beside the balcony, in even shade — one unbroken plastered surface, nothing crossing it: no window, no pipe, no cable, no house number, no pattern. It runs from 0.11 to 0.89 of the height, wholly inside the middle horizontal band; the top and bottom 11 % of the frame stay air. She stands in the right third, head and shoulders inside that same band.
 
 **6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16**
 Mouth microbes turn sugar and alcohol into acetaldehyde, a Group 1 carcinogen; a peptide stopped the output, but the
@@ -66,6 +74,8 @@ surface, never a tooth or jaw drawn as a body part. No blue neon, no black backg
 electron-micrograph cliché, no DNA helix, no glowing pill. The hero is not a wider version of the
 preview; the preview is not a crop of the hero.
 
+**Third frame (the person frame) — must not appear, Owner 2026-09-16.** A second person of any kind; any face other than the named REF; lab coat, scrubs, clinic, hospital, dental chair, microscope; letters, numerals, signage, packaging text or a watermark anywhere in the pixels — on clothing, on the glass, on a wall, in the background; any brand mark, including a label on the glass or the bottle it came from; any product or anything product-shaped — **no chewing gum, no stick, strip, pellet, blister or wrapper, no pack, no bottle, no tube, no jar**, not in her hand, not on the rail, not in the room behind her: she is chewing and nothing she chews is visible; jewellery with lettering; medical horror. The "no person" line above governs the preview and the hero only: this frame carries one person, and it is the named REF.
+
 **10. Locales + alt text per locale**
 `en.md` and `ru.md` exist; one image set, only alt changes.
 
@@ -75,6 +85,12 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: microbes in a plaque shell on enamel give off acetaldehyde; a peptide stills most, three sheltered cells survive until enzymes dissolve the shell"
 - ru preview alt: "Иллюстрация: цепочки круглых бактерий и почкующиеся дрожжи в липкой плёнке на светлой эмали, одно истончённое место светится лаймовым"
 - ru hero alt: "Иллюстрация: микробы в оболочке зубного налёта на эмали выделяют ацетальдегид; пептид останавливает большинство, три укрытые клетки живы, пока ферменты не растворят оболочку"
+- en card alt: "Does sugar cause mouth cancer? — a woman on her balcony late at night, chewing, a glass of wine in her hand"
+- ru card alt: "Сахар вызывает рак во рту? — женщина поздним вечером на балконе, жуёт, в руке бокал вина"
+- en card question: "Does sugar cause mouth cancer?"
+- ru card question: "Сахар вызывает рак во рту?"
+- en plate lines: "First — sugar and alcohol reach plaque · Then — the microbes make a carcinogen · So — the peptide killed 91.37 %, not all"
+- ru plate lines: "Сначала — сахар и спирт попадают в налёт · Затем — микробы делают канцероген · Итог — пептид убил 91,37 %, не всех"
 
 ---
 
@@ -99,3 +115,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a low translucent dome of sticky biofilm clinging to the enamel, holding beaded chains of round streptococci and a few budding oval yeast cells; near its edge one place where the film has thinned, with the cells beneath it sharpest. Subject inside the middle 1.91:1 band. **World:** tooth enamel as a cell-scale mineral plain — glassy, faintly ridged, warm pale — with the biofilm stretched over it in strands; pink early dawn light, low and soft from the far side, rose-cool temperature. **Accent:** lime on the one thinned place in the film only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left to right — sugar grains reaching the shelled community and a faint haze lifting; centre, the peptide stage with most chained cells pale and inert and three round cells alive deep under the shell; right, the shell dissolving into parting strands and the enamel plain left bare. **Light:** hard low amber sunlight from the left, long raking shadows. **Accent:** coral on the three sheltered survivors only.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her jaw and closed mouth, working, and the rim of the glass at her hand; the street below thrown out of focus. **Empty field:** left side, 44 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 22:15, warm lamplight from the room behind her at her back, cool blue night on her far side.

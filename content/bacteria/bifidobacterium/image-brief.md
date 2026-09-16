@@ -19,6 +19,8 @@ Plain words only. I describe what the reader should see and feel; Lisa turns it 
 **3. Organism / structure in the preview:**
 *Bifidobacterium* — the cells themselves, at genus level. No single species is singled out in the picture; the article's point is that the family is not one thing.
 
+**Card (person, Owner 2026-09-16):** `Pia` from `refs/characters/` · a woman in her late twenties, a new mother with a first baby · her own living room late in the evening, the baby already asleep out of the frame.
+
 **4. Morphology, in words (truth — Magnus):**
 Irregular, slender rods, a few micrometres long, that fork at one end into a Y or a V — this is the "bifid" that gives the genus its name. Ends are slightly swollen, club-like. Cells are unequal in length and lie singly, in pairs, or in loose clusters and short chains; some are gently bent. They have no tail, no flagella, no spores, no capsule to speak of, and they are not spherical. Not every cell in a field is forked — perhaps a third to a half show the branch clearly, the rest are plain rods — and that mix is the truth to keep. They live away from air, in the depths of the colon, so the setting is a still, enclosed, wet one, not an open surface in a breeze.
 
@@ -26,6 +28,12 @@ Irregular, slender rods, a few micrometres long, that fork at one end into a Y o
 A handful of forked cells resting in the still, sugar-rich world of a breastfed infant's gut — seen so close that the fork in each cell is the whole story; quiet and nourishing.
 
 Colour and light, in words: the cells in navy and teal; one small accent only. One light source, soft. Cells fill roughly the middle two thirds of the frame and stay inside Marika's centre band so the og crop loses only air. Scale cue: the cells sit among clear droplets of the gut contents that are clearly larger than they are, so the eye understands these are very small things in a very large meal. Amended 2026-09-16: world, light, palette and accent as in Marika's slot-and-focus block below — the wave-1 souring-milk film is not reused.
+
+**Card scene (one line):** she sits back into the corner of the sofa with a mug held in both hands, a folded plain muslin cloth over the arm beside her — the first quiet hour of the evening, the gut she has been feeding all day belonging to someone asleep in the next room.
+
+**Wardrobe and place:** a plain unprinted sweatshirt and soft trousers, hair tied back, bare feet tucked up, no logos; a small living room at about half past nine, one table lamp warm and close from the side, the rest of the room falling away into a dim, cool evening.
+
+**EMPTY FIELD (where the words will sit):** the right 45 % of the frame is an even, uncluttered painted wall above the sofa back, taken by the lamp's smooth warm falloff — nothing crosses it: no picture, no shelf, no switch, no cable, no curtain edge, no cushion corner. It lies inside the middle horizontal band (top and bottom 11 % are air). She sits on the left third, head and shoulders inside that same band.
 
 **6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16:**
 In a breastfed baby's gut, forked Bifidobacterium rods feed on the milk sugars the baby cannot digest, outgrow the other bacteria and ferment those sugars into acetate and lactate, two mild acids.
@@ -45,6 +53,7 @@ In breastfed infants, bifidobacteria can reach **more than 90 %** of the gut's b
 - Medical horror: no rotten teeth, no blood, no wounds — the cariogenic species and the bacteraemia are told in words, not shown. No intestine drawn as an organ cut-away.
 - Spherical cells, tailed cells, cells with hairs — that would be another organism (the one coccus in the outcome group is the only round cell, and it is plainly a different kind).
 - Brand-name laboratory glassware or equipment; any Das Experten item.
+- Added 2026-09-16 for the person frame: a second person of any kind — no baby, no partner, no visitor in the frame; any face other than Pia; a lab coat, scrubs, a clinic, a hospital, a microscope; letters, numerals, signage, packaging text or a watermark anywhere — including on the mug, on the cloth, on clothing, on a book spine and in the background; any brand mark; any product; jewellery with lettering; medical horror.
 
 **10. Locales + text per locale:**
 en and ru are live. Same image set for all locales; only the descriptive line changes.
@@ -55,6 +64,12 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: milk sugars pass the infant gut lining untouched, forked Bifidobacterium rods ferment them into lime acetate droplets, and nineteen of twenty cells at right are theirs"
 - ru preview alt: "Иллюстрация: вилообразные Y-образные клетки бифидобактерий в неподвижном кармане прозрачного содержимого кишечника, коралловая капля у развилки одной клетки"
 - ru hero alt: "Иллюстрация: молочные сахара нетронутыми проходят мимо слизистой кишечника младенца, вилообразные палочки бифидобактерий сбраживают их в лаймовые капли ацетата, и справа девятнадцать клеток из двадцати — их"
+- en card alt: "Is every bifidobacterium good? — a woman in her late twenties sits with a mug on the sofa in lamp light"
+- ru card alt: "Все бифидобактерии полезные? — женщина под тридцать сидит с кружкой на диване при свете лампы"
+- en card question: "Is every bifidobacterium good?"
+- ru card question: "Все бифидобактерии полезные?"
+- en plate lines: "First — milk sugars pass the baby by · Then — these rods eat what she cannot · So — over 90 % of her gut is theirs"
+- ru plate lines: "Сначала — сахара молока ей не по зубам · Затем — их съедают эти палочки · Итог — больше 90 % кишечника — они"
 
 ---
 
@@ -82,3 +97,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one forked cell, its Y-branch sharp in the centre, with a small droplet resting in the crook of the fork; a few plain and forked neighbours soften away behind. Subject inside the middle 1.91:1 band. **World:** a still, clear, faintly syrupy pocket of gut contents strewn with large glassy droplets, each many times a cell's size; dappled leaf-filtered daylight, soft patches of light and shade moving across the pocket. **Accent:** coral on the one small droplet in the fork only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** the takeover — left milk sugars passing the lining untouched among a mixed crowd, centre the forked rods taking the sugars and releasing acetate droplets, right the twenty-cell group, nineteen of them Bifidobacterium, over a smooth closed lining; read left to right. **Light:** cool silver late-afternoon light, high on the right, its own and not the preview's. **Accent:** lime on the acetate droplets only.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the mug in both hands, sharp; the sofa arm and the folded cloth soft in front, the room behind dissolved into warm dark. **Empty field:** right side, 45 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** about half past nine at night, one table lamp low and close from the left, warm tungsten, everything beyond it falling to a cool dim.

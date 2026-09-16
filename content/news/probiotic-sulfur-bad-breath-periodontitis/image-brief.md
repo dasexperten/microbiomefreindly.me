@@ -17,6 +17,8 @@ probiotic-sulfur-bad-breath-periodontitis
 **3. Organism / structure in the preview:**
 The tongue coating as a micro-world — a pale film sitting on the rough, papillated surface of the tongue, with two anaerobes living in it: *Fusobacterium nucleatum* and *Porphyromonas gingivalis*. In a corner of the same film, a few lactic-acid rods (*Lactobacillus gasseri* / *Lacticaseibacillus paracasei*) — the pair from the study — quietly present, not dominant.
 
+**Card (person, Owner 2026-09-16):** **Kirienka** from `refs/characters/` (`Kirienka.jpg`, casting sheet 2026-09-16) · a woman in her late twenties, a shop assistant · the hallway of her own flat, at the front door. The age and the role are named here by the author, never by the engine.
+
 **4. Morphology, in words (truth, Magnus):**
 - *Fusobacterium nucleatum*: long, slender, spindle-shaped rods with tapered, pointed ends — think a grain of rice stretched thin, five to ten times longer than it is wide. Often lying side by side or end to end. Not motile.
 - *Porphyromonas gingivalis*: short, plump rods to almost oval cells, much smaller and stubbier than the fusobacteria, in loose clusters. Not motile. On a culture plate its colonies go dark brown to black after several days — this is real and can be used in the hero.
@@ -26,6 +28,10 @@ The tongue coating as a micro-world — a pale film sitting on the rough, papill
 
 **5. Preview mood (one line, warm science):**
 A pale ivory film on a soft tongue landscape in warm morning bench light; navy and teal spindle rods and stubby rods nested in it, a few green lactic-acid rods at one edge, and one gold note only — the tiny gas bubbles rising from the anaerobes. One plane of focus, subject in the middle band, air top and bottom for the og crop.
+
+- **Card scene (one line):** coat already on and keys in her pocket, she has stopped at her own front door to breathe into a cupped hand and check her own breath before she goes out.
+- **Wardrobe and place:** plain 2026 clothing, no logos, no uniform — a short unbranded jacket over a plain jumper, a scarf loose at the neck; the narrow hallway of a small flat at 08:15, hard morning light falling in from a doorway at the side, warm-neutral, the rest of the hall in soft shade.
+- **EMPTY FIELD (where the words will sit):** the left 44 % of the frame is the hallway's plain painted wall in even shade — one flat surface, nothing crossing it: no mirror, no coat hook, no picture, no switch, no shoe rack. It runs from 0.11 to 0.89 of the height, wholly inside the middle horizontal band; the top and bottom 11 % of the frame stay air. She stands in the right third, head and shoulders inside that same band.
 
 **6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16:**
 Anaerobes in the tongue coating strip sulfur from amino acids with the enzyme the *mgl* gene encodes and let it escape as gas; in a lab dish, fluid from two lactic-acid bacteria turned that gene down — the gas itself was never measured and no human was tested.
@@ -48,6 +54,8 @@ A 1:1 mix of the two probiotic supernatants cut *mgl* expression by **98 %** in 
 - No black background, no blue neon glow, no false-colour SEM look, no DNA helix, no glowing pill.
 - Preview: no people, no hands, no product.
 
+**Third frame (the person frame) — must not appear, Owner 2026-09-16.** A second person of any kind; any face other than the named REF; lab coat, scrubs, dental chair, clinic, hospital, microscope; letters, numerals, signage, packaging text or a watermark anywhere in the pixels — on clothing, on a mug, on a wall, in the background; any brand mark; any product or anything product-shaped — **no mouthwash bottle, no toothpaste tube, no toothbrush, no floss, no gum, no capsule, no blister, no sachet, no pack**, not in her hands, not in a pocket, not on a shelf or hook behind her; a mirror (her reflection would read as a second face); jewellery with lettering; medical horror. The "no person" line above governs the preview and the hero only: this frame carries one person, and it is the named REF.
+
 **10. Locales + alt text per locale:**
 `en.md` and `ru.md` exist; one image set, only the alt line changes. The alt says what is depicted, never "microscope photo of".
 
@@ -57,6 +65,12 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: mouth anaerobes filled with sulfur-cutting enzymes give off tiny bubbles; fluid from lactic-acid bacteria washes over and the enzymes almost vanish"
 - ru preview alt: "Иллюстрация: веретеновидные и короткие бактерии в налёте между округлыми сосочками языка, поднимаются крошечные золотые пузырьки газа"
 - ru hero alt: "Иллюстрация: анаэробы налёта, полные ферментов, отщепляющих серу, выпускают пузырьки; жидкость молочнокислых бактерий омывает их, и ферменты почти исчезают"
+- en card alt: "What actually causes bad breath? — a woman at her own front door breathes into a cupped hand"
+- ru card alt: "Отчего на самом деле пахнет? — женщина у своей двери дышит в сложенную ладонь утром"
+- en card question: "What actually causes bad breath?"
+- ru card question: "Отчего на самом деле пахнет?"
+- en plate lines: "First — mouth microbes eat protein · Then — an enzyme cuts the sulfur free · So — that gene fell 98 %, in a dish"
+- ru plate lines: "Сначала — микробы рта едят белок · Затем — фермент отрывает серу · Итог — ген притих на 98 %, в чашке"
 
 ---
 
@@ -85,3 +99,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a nest of long spindle rods and stubby oval rods in the soft coating at the foot of two rounded papilla domes, with a thin column of tiny bubbles lifting from them; the nearest bubbles are sharpest. Subject inside the middle 1.91:1 band. **World:** the tongue coating as a cell-scale landscape — rounded papilla domes draped in a soft, pale, semi-transparent film with deep shaded crevices between them; sharp raking light from low right, long shadows across the domes, clear neutral-warm. **Accent:** gold on the rising gas bubbles only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left to right — in a crevice of the coating, a stubby translucent cell holding fifty bead-like enzyme bodies, spindle rods beside it and tiny bubbles lifting; centre, clear fluid from short chains of lactic-acid rods seeping over them; right, the same stubby cell carrying one enzyme body, the crevice calm. **Light:** low soft light from the front-right, warm-neutral, shadows stretching back into the frame. **Accent:** coral on the bead-like enzyme bodies only.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** the cupped hand at her mouth and her eyes above it. **Empty field:** left side, 44 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 08:15, hard morning light from a doorway on the right, warm-neutral, the hall behind her in soft shade.

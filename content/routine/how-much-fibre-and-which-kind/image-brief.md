@@ -38,6 +38,8 @@ The subject is **not one species**. It is a stretch of colon lining where three 
 
 Morphology is truth (`docs/IMAGE_PROMPT.md`, rule 3). Rods stay rods, *Bifidobacterium* stays forked, and the three fibre bodies stay three genuinely different materials — soft and branched, smooth and gel-like, angular and hard. If a viewer cannot tell them apart at a glance, the frame has failed at the one thing it exists to say.
 
+**Card (person, Owner 2026-09-16):** `Oda` from `refs/characters/` — a woman in her thirties, an accountant; her own dining table by the window, early in the morning.
+
 ## 4. The three-beat process — first, next, outcome
 
 Taken from the article's H2 skeleton, in one reading path:
@@ -57,6 +59,10 @@ Show it as **proportion between quantities, never as a printed figure**: in the 
 
 **Honest note on the other number.** The article's headline figure is 25 g to 29 g a day (Reynolds A. et al., *The Lancet*, 2019 — doi `10.1016/S0140-6736(18)31809-9`, PMID `30638909`, article source `s1`). That is a **mass eaten per day**, and there is no way to show a gram count with microscopic bodies without printing a numeral, which this lane forbids. It therefore stays in the text where its source marker can follow it, and it must not be smuggled into the frame as a scale, a spoon, a plate, a heap-that-means-29, or any other quantity a reader could try to count as grams. **Only one number is in the image, and it is the plateau shown as a proportion.** No second figure — not the 64 trials, not the 2099 adults, not the 5–8 hour delay, not the 0–12 intolerance score, not the 45.1 g.
 
+- **Card scene (one line):** at twenty-five past seven she sits at her dining table with a plain bowl of porridge in front of her and the spoon not yet picked up, asking whether this is anywhere near enough.
+- **Wardrobe and place:** a plain white shirt not yet buttoned to the collar, no logo, no print; a small dining corner at twenty-five past seven in the morning, one window with a plain curtain, clear cold early light, the table bare apart from the bowl.
+- **EMPTY FIELD (where the words will sit):** the left 44 % of the frame is a plain unpatterned curtain hanging flat against the window in even diffused light — one uncluttered plane, nothing crosses it, no rail, no tieback, no deep fold catching light, no print, no pattern — and it lies wholly inside the middle horizontal band, the top and bottom 11 % kept as air. She sits on the right third, head and shoulders inside that same band.
+
 ## 6–7. Alt text
 
 Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
@@ -65,6 +71,12 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: three fibres reach the gut lining; bacteria eat only the branched chains, a gel ribbon and a bran flake pass whole, and larger helpings stop yielding more"
 - ru preview alt: "Иллюстрация: вильчатые бактерии кишечника разбирают мягкие ветвистые цепочки клетчатки, а гладкая гелевая лента скользит мимо"
 - ru hero alt: "Иллюстрация: три вида клетчатки у слизистой кишечника; бактерии едят только ветвистые цепочки, гелевая лента и твёрдая частица отрубей проходят целыми, а большие порции перестают давать больше"
+- en card alt: "How much fibre is enough? — a woman at her dining table early in the morning, a bowl of porridge in front of her"
+- ru card alt: "Сколько клетчатки в день? — женщина за обеденным столом ранним утром, перед ней миска каши"
+- en card question: "How much fibre is enough?"
+- ru card question: "Сколько клетчатки в день?"
+- en plate lines: "First — three kinds of fibre arrive · Then — only one of them is eaten · So — 25–29 g a day, then it levels"
+- ru plate lines: "Сначала — приходят три вида клетчатки · Затем — едят только один из них · Итог — 25–29 г в день, дальше плато"
 
 ## 8. What must never appear
 
@@ -80,6 +92,8 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - **The gel ribbon and the bran fragment are never shown being eaten, broken, dissolved or entered by a cell.** That would reverse the article's finding.
 - No black background, no blue neon glow, no false-colour electron-micrograph cliché, no stock DNA helix, no glowing pill, no invented microscope or screen interface.
 - Nothing that could be mistaken for a real photograph of a real specimen or a real diagnostic image.
+
+**On the card frame (Owner 2026-09-16), as binding as the bans above.** Everything above governs the preview and the hero, and the bans there on people and on kitchens and food photography hold for those two frames without exception; the card frame is the one frame that carries a person, and it is the one frame in which ordinary food may appear as ordinary food — a plain bowl of porridge and a spoon. On it: no second person and no face other than `Oda`. No lab coat, no scrubs, no clinic, no hospital, no microscope, no white room. No letters, numerals, signage, packaging text or watermark anywhere in the frame — including on clothing, on the bowl, on a jar and everywhere in the background. No kitchen scale, measuring scoop, measuring jug or any weighing or measuring instrument: a gram figure must not reach the pixels in any form. No brand mark. No product of any kind and nothing product-shaped — no fibre powder sachet, supplement tub, scoop, capsule, tablet, bottle, pack or jar, not even out of focus. No jewellery carrying lettering. No medical horror.
 
 ## 9. File keyword
 
@@ -101,3 +115,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one soft branched fibre chain, sharp at the centre, with three or four forked cells gripping it and unpicking its frayed side-branches; the smooth edge of a gel ribbon slides past behind them, untouched and soft in focus. Subject inside the middle 1.91:1 band. **World:** a thin, clear, watery film at the scale of the cells, loose branched chains floating in it like frayed thread, no grain, seed, bowl or powder; crisp cool noon light from straight above, white and clean, small sharp shadows. **Accent:** coral on the frayed chain ends the cells are working on only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left to right over one mucus-covered stretch of folds — the three fibre bodies arriving together (branched chains, a smooth gel ribbon, an angular bran flake); centre, forked and slender rods crowding onto the chains and thinning them while the ribbon and flake travel on whole; right, three heaps of branched chains growing in equal steps, each beside a pool of small fermentation-product droplets — small, larger, then the same as the second. **Light:** warm apricot backlight from behind the folds, rim-lighting every form, soft glow through the gel. **Accent:** lime on the branched fermentable chains only.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the plain bowl of porridge on the table in front of her, sharp; the window and the room falling soft. **Empty field:** left side, 44 % of the width, the flat plain curtain. Head and shoulders inside the middle 1.91:1 band. **Light:** twenty-five past seven in the morning, clear cold early daylight diffused through the curtain from the left, blue-white, faint soft shadows.

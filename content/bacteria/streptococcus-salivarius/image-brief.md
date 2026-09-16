@@ -20,6 +20,9 @@ Plain words only. I do not write prompts, camera settings or engine names — th
 
 3. Organism / structure in the preview:        Streptococcus salivarius, resting on the surface of the human tongue
 
+   Card (person, Owner 2026-09-16):            Rona from `refs/characters/` · a woman in her mid-thirties, a florist ·
+                                               her own covered balcony, mid-morning
+
 4. Morphology, in words (truth, Magnus):       Round cells, each about a thousandth of a millimetre across, joined in
                                                chains like a string of beads — short chains of four to ten, a few longer
                                                ones curling. Never rods, never clusters like grapes, never single cells
@@ -33,6 +36,22 @@ Plain words only. I do not write prompts, camera settings or engine names — th
                                                note where the light catches the wet film; warm morning light, one plane
                                                of focus, nothing threatening. The reader should feel "this has been here
                                                since my first day and it is minding the place."
+
+   Card scene (one line):                      sitting in a garden chair on her own covered balcony mid-morning, a cup of
+                                               tea held in both hands, smiling at something down in the street — a quiet
+                                               resident minding its patch, mouth closed, the face never a mouth study
+
+   Wardrobe and place:                         plain 2026 clothing, no logos: a soft mustard cardigan over a plain white
+                                               tee, thick socks, no shoes; a narrow covered balcony at 09:40, bright hazy
+                                               morning light entering from the open side, warm and diffuse, the plants
+                                               and the railing out of frame
+
+   EMPTY FIELD (where the words will sit):     the right 44 % of the frame is the flat rendered wall of the building
+                                               beside the balcony door — warm grey, unbroken, one even plane. Nothing
+                                               crosses it: no door frame, no pipe, no cable, no pot, no washing line,
+                                               no pattern. It lies inside the middle horizontal band (the top and
+                                               bottom 11 % are air). She sits on the left third, head and shoulders
+                                               inside that same band.
 
 6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16:
                                                Streptococcus salivarius settles on the tongue within days of birth and
@@ -59,6 +78,14 @@ Plain words only. I do not write prompts, camera settings or engine names — th
                                                pictured); yoghurt or a yoghurt pot (that is the other species); blue neon,
                                                black background, false-colour electron-microscope look; pus, wounds, blood.
 
+   Card frame as well (Owner 2026-09-16):      a second person; any face other than the named REF; a lab coat, scrubs,
+                                               a clinic, a hospital, a dental chair, a microscope; letters, numerals,
+                                               signage, packaging text or a watermark anywhere — including on the cup,
+                                               clothing, jars, a tea box and in the background; any brand mark; any
+                                               product of any kind — no lozenge, sachet, capsule or probiotic box:
+                                               the cup is plain and unmarked; jewellery with lettering; medical horror;
+                                               an open mouth, a tongue, teeth or a smile as the subject of the frame.
+
 10. Locales + alt text per locale:
 
 Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
@@ -67,6 +94,12 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: chains of round bacteria settle in a wet film on soft ridges and release tiny gold particles; rival chains drifting in go slack at the edge of their patch"
 - ru preview alt: "Иллюстрация: цепочки круглых бактерий лежат во влажной плёнке между мягкими бугорками, вокруг одной цепочки слабый коралловый ореол"
 - ru hero alt: "Иллюстрация: цепочки круглых бактерий оседают во влажной плёнке на мягких бугорках и выпускают крошечные золотые частицы; чужие цепочки, подплывая, обмякают у края их участка"
+- en card alt: "Is the tongue's own microbe safe? — a woman sits with a cup of tea on her balcony in the morning"
+- ru card alt: "Опасен ли житель языка? — женщина сидит с чашкой чая на балконе утром"
+- en card question: "Is the tongue's own microbe safe?"
+- ru card question: "Опасен ли житель языка?"
+- en plate lines: "First — on the tongue since birth · Then — it releases its own antibiotics · So — rivals stall at its edge"
+- ru plate lines: "Сначала — селится на языке с рождения · Затем — выпускает свои антибиотики · Итог — чужаки глохнут у края участка"
 ```
 
 ---
@@ -91,3 +124,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** three or four bead-chains of round cells resting in the wet film in the hollow between two soft rounded ridges; the nearest chain sharpest. Subject inside the middle 1.91:1 band. **World:** the soft, rounded, finely textured ridges of tongue papillae as a cell-scale landscape, glistening with a thin saliva film; cold bright snow-bounce light, even and crisp, white-blue temperature bouncing up from below. **Accent:** coral as a faint halo in the film around the sharpest chain only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left, bead-chains settling into the wet film between soft ridges; centre, the chains releasing a fine scatter of tiny particles into the film; right, grey rival chains drifting in and going slack at the patch's edge while the patch holds. The eye reads left to right. **Light:** golden late-afternoon light raking low from the right. **Accent:** gold on the protein-antibiotic particles.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her eyes and the cup held in both hands. **Empty field:** right, 44 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 09:40, bright hazy morning light from the open side of the balcony, warm and diffuse.

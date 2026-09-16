@@ -16,6 +16,8 @@ Plain words only. I do not write engine instructions; Marika names the slot and 
 
 *Akkermansia muciniphila* in the mucus layer that lies over the intestinal lining. The organism and its address, nothing else.
 
+**Card (person, Owner 2026-09-16):** **Mironova** from `refs/characters/` (`Mironova.jpg`, casting sheet 2026-09-16) · a woman in her fifties, a school bookkeeper · the bus shelter on her own street. The age and the role are named here by the author, never by the engine.
+
 **3. Morphology, in words (truth — this is the field nothing may be invented in)**
 
 Oval short rods with rounded ends, standing alone or in pairs, sometimes in a loose small cluster. Not motile — no tails, no whips, no swimming. No spores, no chains, no spheres, no branching Y shapes. They sit inside a soft translucent film, not on a bare surface. Beneath that film, the lining rises in a rank of finger-shaped folds. The trial's cells were pasteurised — heat-killed — so they are drawn whole and unbroken but inert: smooth, still, a little paler, never burst, never in pieces.
@@ -27,6 +29,10 @@ The lens is very close to a small stretch of gut wall, closer than any eye gets.
 Scale cue: the folds of the lining give the depth, so the eye understands it is looking at a wall from very near, not at a field of shapes floating in nothing.
 
 Colour mood: the ground is ivory `#F1EADC` warming toward the light; the mucus film reads teal `#178B7A` at its palest; the cells are navy `#1B3856` softening to green `#2F7D55` where the light passes through them. One gold `#C7A24B` note only, at that single warm point beneath the film. No black ground, no glow, no neon. Warm, quiet, airy — a bench in morning light, not a screen in a dark room.
+
+- **Card scene (one line):** on her way to work she waits alone under the bus shelter, hands in her coat pockets, her breath showing in the cold — the ordinary morning of someone who has been told her numbers are borderline.
+- **Wardrobe and place:** plain 2026 clothing, no logos, no uniform — a dark wool coat over a plain polo-neck and a knitted scarf; a quiet residential street at 07:10, cold blue first light from behind the houses, winter temperature, the road still empty.
+- **EMPTY FIELD (where the words will sit):** the right 46 % of the frame is the shelter's plain painted back panel in flat even shade — one unbroken surface, nothing crossing it: no timetable, no poster, no frame, no cable, no seam. It runs from 0.11 to 0.89 of the height, wholly inside the middle horizontal band; the top and bottom 11 % of the frame stay air. She stands in the left third, head and shoulders inside that same band.
 
 **6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16**
 
@@ -46,6 +52,8 @@ Heat-killed *Akkermansia* lying in the mucus against the gut lining nudged the l
 
 No product of any kind, no capsule, no jar, no packaging, no invented packshot. No branded or brand-looking laboratory glassware. No letters, numbers, labels, scale bars, glyphs or invented instrument screens in either frame. No person, face or hand in either frame. No collage, no split frame, no inset, no panel. No hero that is a wider version of the preview or a preview cut from the hero — two separate worlds. No black background, no blue glow, no false-colour micrograph cliché, no DNA helix, no glowing pill. Nothing medical-unpleasant: no blood, no wound, no inflamed tissue; the heat-killed cells read whole and inert, never burst or broken. No syringe, no pen injector — this article is explicitly not about the drugs. No intestine, liver or pancreas drawn as an anatomical organ cut-away.
 
+**Third frame (the person frame) — must not appear, Owner 2026-09-16.** A second person of any kind; any face other than the named REF; lab coat, scrubs, clinic, hospital, waiting room, microscope; letters, numerals, signage, packaging text or a watermark anywhere in the pixels — on clothing, on a mug, on a jar, on a wall, on the shelter, in the background; any brand mark; any product or anything product-shaped — no capsule, bottle, pack, blister, sachet, tube or jar, in her hands, in a pocket or anywhere in the frame; jewellery with lettering; medical horror. The "no person" line above governs the preview and the hero only: this frame carries one person, and it is the named REF.
+
 **10. Locales + alt text per locale**
 
 One image set for all languages; only the alt line changes. `en.md` and `ru.md` exist.
@@ -56,6 +64,12 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: a dense drift of heat-killed oval Akkermansia cells in gut mucus; one lining hormone cell releases a gold burst while the tissue beyond stays unchanged"
 - ru preview alt: "Иллюстрация: целые неподвижные овальные клетки Akkermansia лежат в выеденных углублениях кишечной слизи, под ними коралловый отблеск клетки слизистой"
 - ru hero alt: "Иллюстрация: плотный слой убитых нагреванием овальных клеток Akkermansia в кишечной слизи; одна гормональная клетка слизистой выпускает золотую порцию, а ткань дальше не меняется"
+- en card alt: "Did the trial fail? — a woman in her fifties waits alone at a bus stop in cold early light"
+- ru card alt: "Значит, испытание провалилось? — женщина за пятьдесят одна ждёт автобус в холодном утреннем свете"
+- en card question: "Did the trial fail?"
+- ru card question: "Значит, испытание провалилось?"
+- en plate lines: "First — dead cells settle in the mucus · Then — one gut cell lets out GLP-1 · So — 30 billion cells, nothing moved"
+- ru plate lines: "Сначала — мёртвые клетки ложатся в слизь · Затем — клетка кишки выпускает ГПП-1 · Итог — 30 млрд клеток, сдвига нет"
 
 ---
 
@@ -81,3 +95,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a loose pair and a single oval cell, whole and still, lying in a shallow hollow they have grazed into the mucus; the nearest pair is the sharpest spot, and beneath them, through the thinned gel, one lining cell shows. Subject inside the middle 1.91:1 band. **World:** the grazed surface of the gut mucus blanket — a thick, translucent gel pitted with shallow hollows and soft furrows; pale green-tinted light filtering down as if through leaves, soft dapples, late morning, cool-green temperature. **Accent:** coral on the one lining cell glimpsed beneath the thinned mucus only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left to right — an uncountable drift of whole, inert oval cells settling into the mucus over a short row of lining cells; centre, one lining hormone cell releasing a small burst of packets where the mucus is thinnest; right, the wide field of tissue cells beyond, untouched and unchanged. **Light:** flat overhead noon daylight, neutral-cool, short shadows falling straight down. **Accent:** gold on the hormone packets only.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the hand pushed into her coat pocket; the empty street behind her soft. **Empty field:** right side, 46 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 07:10, cold blue first light from behind the houses, low and even, winter-cold.

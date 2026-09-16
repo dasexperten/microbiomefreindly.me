@@ -28,6 +28,8 @@ Every organism named in this article is a lactobacillus, and every lactobacillus
 
 Never spheres, never a forked Y, never a spiral, never a filament, never a biofilm sheet: none of those belong here.
 
+**Card (person, Owner 2026-09-16):** `Rubina` from `refs/characters/` — a woman in her sixties, a retired bookkeeper; the loose fruit-and-vegetable aisle of her local supermarket, late in the morning.
+
 **4. The three-beat process — first, next, outcome**
 
 Built on the article's own H2 skeleton. The eye must walk it in one path.
@@ -42,6 +44,10 @@ Built on the article's own H2 skeleton. The eye must walk it in one path.
 
 Shown as **proportion**: one small cluster of rods and, beside it, a crowd unmistakably a hundred times denser — four rods against about four hundred; the size gap has to be shocking at a glance — sitting over gut lining that is in exactly the same state under both. The number is never printed, never labelled, never written anywhere in the pixels. Scale and quantity carry all of it.
 
+- **Card scene (one line):** she stands empty-handed in the loose produce aisle at twenty to twelve, having walked away from the big number without buying it, her arms down at her sides.
+- **Wardrobe and place:** a plain grey raincoat over a plain cardigan, no logo, no badge; a supermarket produce aisle at twenty to twelve in the morning, open wooden crates of loose apples, cabbages and onions along one side — no boxes, no wrapping, no shelf tickets — the room evenly lit and cool.
+- **EMPTY FIELD (where the words will sit):** the left 46 % of the frame is the plain painted end-wall of the aisle in flat even light — one uncluttered plane, nothing crosses it, no shelf, no crate, no sign, no cable, no pattern — and it lies wholly inside the middle horizontal band, the top and bottom 11 % kept as air. She stands on the right third, head and shoulders inside that same band.
+
 **6–7. Alt text**
 
 Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
@@ -50,10 +56,18 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: rod-shaped probiotic bacteria on gut mucus; a doubled group leaves the lining calmer, but a crowd a hundred times larger leaves it no different"
 - ru preview alt: "Иллюстрация: маленькая группа палочковидных бактерий рядом с толпой таких же палочек, в сто раз большей, на гладкой слизи"
 - ru hero alt: "Иллюстрация: палочки пробиотика на кишечной слизи; удвоенная группа оставляет слизистую спокойнее, а толпа в сто раз больше не меняет под собой ничего"
+- en card alt: "Is a bigger number better? — a woman empty-handed in the produce aisle late in the morning"
+- ru card alt: "Большое число — это лучше? — женщина с пустыми руками в овощном ряду перед полуднем"
+- en card question: "Is a bigger number better?"
+- ru card question: "Большое число — это лучше?"
+- en plate lines: "First — doubling the dose helped once · Then — the same strain, far more of it · So — 100× more changed nothing"
+- ru plate lines: "Сначала — двойная доза раз помогла · Затем — тот же штамм, доза больше · Итог — в 100 раз больше — то же самое"
 
 **8. What must never appear**
 
 No capsule, tablet, pill, blister pack, bottle, jar, sachet, label, box or packaging of any kind — no product and nothing product-shaped, and above all no pack carrying a number, because the number on the pack is the very thing this piece takes apart. No brand mark. No text, letters, numerals, digits, labels, worded arrows, scale bars, graphs, bar charts, dosage marks, watermarks, invented microscope or screen interfaces — a printed figure would undo the whole point of showing the number by quantity. No people, faces, hands or bodies. No medical horror — no blood, no wound, no inflamed or ulcerated tissue. No black background, no blue neon glow, no false-colour electron-micrograph cliché, no stock DNA helix, no glowing pill. No collage of separate plates, no split panel, no inset, no frame divided by a drawn line. Neither master is a wider version or a crop of the other — two frames, two worlds. And no spherical, forked or spore-bearing cell: the morphology in field 3 is the truth of this frame.
+
+**On the card frame (Owner 2026-09-16), as binding as the bans above.** Everything above governs the preview and the hero, and the ban on people holds there without exception; the card frame is the one frame that carries a person, and on it: no second person and no face other than `Rubina`. No lab coat, no scrubs, no clinic, no hospital, no pharmacy counter, no microscope, no white room. No letters, numerals, signage, packaging text or watermark anywhere in the frame — including on clothing, on crates, on shelf tickets and everywhere in the background; the aisle carries loose produce only, and a printed number anywhere would undo the whole piece. No brand mark. No product of any kind and nothing product-shaped — no box, carton, sachet, capsule, tablet, blister pack, bottle or supplement jar, not even out of focus. No shopping basket or trolley carrying a label. No jewellery carrying lettering. No medical horror.
 
 **9. File keyword**
 
@@ -69,3 +83,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a small cluster of four blunt-ended rods resting on a glossy mucus bank, and beside it a dense crowd of hundreds of the same rods on the same bank; the surface under both equally smooth and unmarked. The small cluster sharp, the crowd's far edge softening away. Subject inside the middle 1.91:1 band. **World:** a steep, glossy, slow-flowing bank of thick mucus with long pulled strands, like honey drawn off a spoon; low amber sidelight from the left at the end of the day, raking across the bank. **Accent:** coral as one small glint of light where the four rods touch the mucus only — the rods themselves stay the same colour as the crowd.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** one continuous mucus surface over the gut lining, read left to right — a group of about ten rods beside a group of about twenty, the film ruffled under the smaller and smooth under the larger; then a cluster of four rods beside a crowd of about four hundred, the film identically smooth under both; the same untroubled film running on to the right edge. **Light:** soft, neutral-warm frontal light from just above the viewer, shadows tucked behind the forms. **Accent:** gold on the smooth film beneath the four-rod cluster and the four-hundred-rod crowd only.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and her empty hands hanging at her sides, sharp; the crates of loose produce behind her falling soft. **Empty field:** left side, 46 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** twenty to twelve in the morning, even cool shop light from directly above, almost shadowless.

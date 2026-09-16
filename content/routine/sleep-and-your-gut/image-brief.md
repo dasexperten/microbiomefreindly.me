@@ -33,6 +33,8 @@ No spores swelling a cell end, no spirals, no filaments, no biofilm sheet, no fu
 
 The real subject is **how many different shapes there are**, not how crowded the field is. Diversity in this piece means *kinds*, and the picture has to make kinds countable by eye.
 
+**Card (person, Owner 2026-09-16):** `Line` from `refs/characters/` — a woman in her late forties, a librarian; the edge of her own bed at home, at three in the morning.
+
 **4. The three-beat process — first, next, outcome**
 
 The eye reads one continuous stretch of gut wall from one side to the other, the community changing along it. One world, one field — not three plates side by side.
@@ -56,6 +58,12 @@ The number clause of the prompt paragraph is removed for this frame. That is a d
 
 So: no number is expressed in this image, and none may be added at generation time. If a figure appears in a returned frame in any form — as a printed value, as a counted set standing in for a statistic, as a chart-like proportion — the frame is rejected.
 
+The card frame carries no number either, and its third plate line therefore holds none: there is no sourced figure in `keyFacts` that may be printed on it.
+
+- **Card scene (one line):** ten past three in the morning, awake again, she sits on the edge of her own bed with her feet on the floor and her hands in her lap, not yet deciding whether to get up.
+- **Wardrobe and place:** a plain grey sleep T-shirt and plain pyjama trousers, no logo, no print; her own bedroom at ten past three, the bedside lamp on low and everything beyond it dark, the sheets pushed back, the room quiet and cool.
+- **EMPTY FIELD (where the words will sit):** the right 43 % of the frame is a plain bedroom wall in low, even lamplight — one uncluttered plane of warm dim tone, nothing crosses it, no picture, no shelf, no cable, no switch, no lamp, no pattern — and it lies wholly inside the middle horizontal band, the top and bottom 11 % kept as air. She sits on the left third, head and shoulders inside that same band.
+
 **6–7. Alt text**
 
 Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
@@ -64,6 +72,12 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: gut bacteria along the lining in an even wave that turns ragged, the crowd staying just as full but made of fewer different kinds of cell"
 - ru preview alt: "Иллюстрация: четыре вида кишечных бактерий рядом в блестящей плёнке слизи под глубоким синим ночным светом"
 - ru hero alt: "Иллюстрация: бактерии вдоль слизистой кишечника выстроены ровной волной, которая становится рваной; клеток столько же, но видов меньше"
+- en card alt: "Does bad sleep hurt my gut? — a woman on the edge of her bed at three in the morning by a low lamp"
+- ru card alt: "Плохой сон вредит кишечнику? — женщина на краю кровати в три часа ночи при тусклой лампе"
+- en card question: "Does bad sleep hurt my gut?"
+- ru card question: "Плохой сон вредит кишечнику?"
+- en plate lines: "First — a steady rhythm, many kinds · Then — the rhythm goes ragged · So — just as full, fewer kinds"
+- ru plate lines: "Сначала — ровный ритм, много видов · Затем — ритм становится рваным · Итог — так же густо, видов меньше"
 
 **8. What must never appear**
 
@@ -79,6 +93,8 @@ No collage of separate plates, no split panel, no inset, no before-and-after div
 
 And no spheres standing in for the rods: the morphology in field 3 is the truth of this frame.
 
+**On the card frame (Owner 2026-09-16), as binding as the bans above.** Everything above governs the preview and the hero, and the bans there on people and on the bed, pillow, blanket and bedroom hold for those two frames without exception; the card frame is the one frame that carries a person, and it is the one frame in which a real bedroom at night is the honest place. On it: no second person and no face other than `Line`. No lab coat, no scrubs, no clinic, no hospital, no microscope, no white room. No letters, numerals, signage, packaging text or watermark anywhere in the frame — including on clothing, on a mug, on a jar and everywhere in the background. No clock, clock face, alarm clock, phone screen, watch, wrist device, sensor or any readout: the hour is told by the light and by nothing else. No moon, stars or night-sky cliché through the window. No brand mark. No product of any kind and nothing product-shaped — no capsule, tablet, blister pack, bottle, pack, sachet or supplement jar, not even out of focus and nothing on the bedside surface. No jewellery carrying lettering. No medical horror, and nothing that reads as illness.
+
 **9. File keyword**
 
 `sleep-and-your-gut-preview` and `sleep-and-your-gut-hero`.
@@ -93,3 +109,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one small, varied group resting in the mucus film — plain rods in pairs, a short chain of round cells, two slender long rods and one or two forked cells — sharp at the centre, every kind plainly different; the film and further cells soften away. Subject inside the middle 1.91:1 band. **World:** a glistening, translucent mucus film at the scale of the cells, gently rippled over one rounded fold; deep blue night light fills the shadows of the pale film (never a black ground, never neon), with a single small warm light from low right catching the group — the night lives in the light only, no moon, stars, window or bed. **Accent:** coral on the forked cells only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** one continuous stretch of mucus-covered folds, left to right — the community in an even wave of evenly spaced crests holding four plainly different kinds (plain rods, short chains of round cells, slender long rods, forked cells); the wave's spacing going uneven; the field just as full, the wave out of step, two kinds repeating. Nothing emptied or damaged. **Light:** pale dawn light, soft rose-grey, low from the right, gentle long shadows. **Accent:** lime on the crests of the community wave only.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and her hands loose in her lap as she sits on the bed edge, sharp; the bed and the dark room falling soft. **Empty field:** right side, 43 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** ten past three in the morning, one low bedside lamp out of frame on the left, warm amber and dim, deep soft shadows, everything beyond the lamp's reach dark but never black.

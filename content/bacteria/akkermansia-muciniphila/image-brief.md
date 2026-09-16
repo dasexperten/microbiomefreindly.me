@@ -17,6 +17,9 @@ Template: Marika's BRAND_SLOT_BRIEF (§5, ten fields). Plain words only — Lisa
 
 3. Organism / structure in the preview:        Akkermansia muciniphila, resting inside the intestinal mucus layer
 
+   Card (person, Owner 2026-09-16):            Follera from refs/characters/ · a woman in her forties, an office worker
+                                               who cooks her own breakfast before she leaves · her own small kitchen.
+
 4. Morphology, in words (truth):               Short oval cells — a little longer than they are wide, rounded ends, no tails,
                                                no threads, no spirals, never in long chains. They sit singly or in pairs.
                                                Each cell is smaller than a red blood cell; a red blood cell is not in the frame,
@@ -31,6 +34,21 @@ Template: Marika's BRAND_SLOT_BRIEF (§5, ten fields). Plain words only — Lisa
                                                Ground ivory, one soft light, one plane of focus, subject in the middle band.
                                                Quiet, tidy, a tenant at home — not a battle, not a glow, not a render.
                                                (Light as in Marika's slot-and-focus block below, 2026-09-16.)
+
+   Card scene (one line):                      She tips a board of chopped vegetables into a pan at the kitchen counter,
+                                               the knife laid down beside the board — the fibre that decides whether this
+                                               grazer renews her lining or thins it, on an ordinary weekday morning.
+
+   Wardrobe and place:                         A plain long-sleeved jersey, sleeves pushed up, and an unprinted cotton
+                                               apron — no logos, no uniform; a small flat kitchen just after seven, the
+                                               low early sun coming in flat through one window, the room still cool and
+                                               the counter still half in shade.
+
+   EMPTY FIELD (where the words will sit):     The left 45 % of the frame is an even, uncluttered pale plastered wall
+                                               above the counter, held in soft shade — nothing crosses it: no shelf, no
+                                               cable, no hanging pan, no tile pattern, no cupboard edge. It lies inside
+                                               the middle horizontal band (top and bottom 11 % are air). She stands on
+                                               the right third, head and shoulders inside that same band.
 
 6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16:
                                                Akkermansia eats the mucin of the gut's own mucus layer, and that grazing prompts
@@ -56,6 +74,11 @@ Template: Marika's BRAND_SLOT_BRIEF (§5, ten fields). Plain words only — Lisa
                                                or a recognisable maker's mark on any jar or plate; Das Experten anything; no
                                                capsule or supplement shape anywhere; no intestine drawn as an organ cut-away.
                                                Also: no spirals, no rods with tails, no chains — that would be a different organism.
+                                               Added 2026-09-16 for the person frame: a second person of any kind; any face
+                                               other than Follera; a lab coat, scrubs, a clinic, a hospital, a microscope;
+                                               letters, numerals, signage, packaging text or a watermark anywhere —
+                                               including on clothing, on mugs, on jars, on tins and in the background;
+                                               any brand mark; any product; jewellery with lettering; medical horror.
 
 10. Locales + text per locale:                 en and ru are live; the four lines sit directly below this block.
 ```
@@ -66,6 +89,12 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: oval Akkermansia cells settle into the gut's mucus layer and graze a shallow hollow, and the lining below pushes up fresh mucus that thickens the layer"
 - ru preview alt: "Иллюстрация: овальные клетки Akkermansia парами покоятся глубоко в прозрачном слизистом геле, под одной парой поднимается золотистая капля свежей слизи"
 - ru hero alt: "Иллюстрация: овальные клетки Akkermansia оседают в слое слизи кишечника и выедают неглубокую ямку, а слизистая снизу выталкивает свежую слизь, и слой становится толще"
+- en card alt: "Is eating mucus good news? — a woman in her forties tips chopped vegetables into a pan in her morning kitchen"
+- ru card alt: "Она полезная или вредная? — женщина за сорок высыпает нарезанные овощи в сковороду на утренней кухне"
+- en card question: "Is eating mucus good news?"
+- ru card question: "Она полезная или вредная?"
+- en plate lines: "First — it settles in your mucus · Then — it grazes a hollow · So — the lining renews it; 1 % of cells"
+- ru plate lines: "Сначала — она садится в вашу слизь · Затем — выедает ямку · Итог — слой обновляется; 1 % клеток"
 
 ---
 
@@ -93,3 +122,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one pair of oval cells deep in the gel, sharp in the centre, with a small bead of fresh mucus rising just beneath it; other cells soften away in the gel. Subject inside the middle 1.91:1 band. **World:** inside the thick, clear, honey-like mucus gel, threaded with a faint mesh of mucin strands, the lining only a dim soft plane far below; blue-grey dawn, a cool low light from the left. **Accent:** gold on the rising bead of fresh mucus only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** the renewal — left cells settling into the mucus layer, centre a pair grazing a shallow hollow, right fresh mucus welling up from the lining and filling it; read left to right, the crowd of gut contents above. **Light:** warm honey afternoon light, low from the right, its own and not the preview's. **Accent:** lime on the fresh mucus welling up from the lining.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her hands and the board tipping into the pan, sharp; her face a little softer just behind, the window blown out and formless. **Empty field:** left side, 45 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** just after seven, low sun flat through one window from the right, warm, the left of the room in even shade.

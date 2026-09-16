@@ -29,6 +29,8 @@ Not one species — a mixed community on a stretch of gut wall. Every shape belo
 
 No spores swelling a cell end, no spirals, no filaments, no biofilm sheet: none of those belong in this frame.
 
+**Card (person, Owner 2026-09-16):** `Hardy` from `refs/characters/` — a woman in her late thirties, a school teacher; her own kitchen table at home, late in the evening.
+
 **4. The three-beat process — first, next, outcome**
 
 1. **First:** a dense, varied field on the wall — forks, spindles, pairs, rods, all crowded together — is stripped in four days. The field thins to almost nothing; the few shapes still standing are the spindles and the small paired cocci, which take the emptied room.
@@ -43,6 +45,10 @@ The eye must be able to walk that path in one pass: full → stripped → refill
 
 Shown as **nine visibly empty places** in the refilled field — nine clear pockets in the mucus where a cell plainly used to stand, countable without effort, in an otherwise crowded frame. Nine, exactly: not eight, not a suggestion of "some". The number is never printed, never labelled, never written anywhere in the pixels. Quantity is the whole of it.
 
+- **Card scene (one line):** she sits at her own kitchen table late in the evening with the course finished that night, both hands resting flat on the bare wood, nothing in front of her.
+- **Wardrobe and place:** a plain dark long-sleeved top, no logo, no uniform, no apron; a small home kitchen at nine in the evening, the supper things already cleared, one low warm pendant lamp over the table, the room cooling toward night.
+- **EMPTY FIELD (where the words will sit):** the left 46 % of the frame is an even, uncluttered painted kitchen wall in soft warm shade — nothing crosses it, no shelf, no cable, no socket, no switch, no pattern — and it lies wholly inside the middle horizontal band, the top and bottom 11 % kept as air. She sits on the right third, head and shoulders inside that same band.
+
 **6–7. Alt text**
 
 Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
@@ -51,10 +57,18 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: a gut bacterial community in three moments: crowded, stripped almost bare by antibiotics, then crowded again with nine places left empty"
 - ru preview alt: "Иллюстрация: вилочковые клетки Bifidobacterium снова растут в рыхлой кишечной слизи рядом с пустой ямкой, где раньше стояли клетки"
 - ru hero alt: "Иллюстрация: сообщество кишечных бактерий в три этапа — густое, почти выметенное антибиотиками, затем снова густое, но с девятью пустыми местами"
+- en card alt: "Can I rebuild my gut? — a woman at her kitchen table late in the evening, the course finished"
+- ru card alt: "Кишечник восстановится после антибиотиков? — женщина за кухонным столом поздним вечером, курс закончен"
+- en card question: "Can I rebuild my gut?"
+- ru card question: "Кишечник восстановится после антибиотиков?"
+- en plate lines: "First — antibiotics strip it bare · Then — it refills in six weeks · So — 9 species are still missing"
+- ru plate lines: "Сначала — антибиотики выметают всё · Затем — за полтора месяца возвращается · Итог — 9 видов так и нет"
 
 **8. What must never appear**
 
 No pill, capsule, tablet, blister pack, bottle, jar, syringe, vial or packaging of any kind — no product and nothing product-shaped; the antibiotics are shown only by what they leave behind. No brand mark. No text, letters, numerals, labels, worded arrows, scale bars, watermarks, invented microscope or screen interfaces. No people, faces, hands or bodies. No medical horror — no blood, no wound, no inflamed or ulcerated tissue. No black background, no blue neon glow, no false-colour electron-micrograph cliché, no stock DNA helix, no glowing pill. No collage of separate plates, no split panel, no inset. Neither master is a wider version or a crop of the other — two frames, two worlds. No villus folds: this community lives in the colon. And no spherical *Bifidobacterium*: the morphology in field 3 is the truth of this frame.
+
+**On the card frame (Owner 2026-09-16), as binding as the bans above.** Everything above governs the preview and the hero, and the ban on people holds there without exception; the card frame is the one frame that carries a person, and on it: no second person and no face other than `Hardy`. No lab coat, no scrubs, no clinic, no hospital, no microscope, no white room. No letters, numerals, signage, packaging text or watermark anywhere in the frame — including on clothing, on a mug, on a jar and everywhere in the background. No brand mark. No product of any kind and nothing product-shaped — no capsule, tablet, blister pack, bottle, pack or supplement jar, not even out of focus. No jewellery carrying lettering. No medical horror.
 
 **9. File keyword**
 
@@ -70,3 +84,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a small group of forked, Y-shaped *Bifidobacterium* cells regrowing in the loose outer mucus beside one smooth, empty hollow where cells used to stand; the group sharp at the centre, the netlike mucus strands softening away. Subject inside the middle 1.91:1 band. **World:** the loose, netlike outer mucus layer of the colon, strands like wet soft gauze; early-spring cool daylight in the early afternoon, pale blue-white, from the upper right, small soft shadows. **Accent:** lime on the regrowing forked cells only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** one stretch of colon mucus read left to right — a crowded mixed community of forks, spindles, paired cocci and rods; the same field stripped almost bare, with only spindles and paired cocci spreading into the room; the field crowded again with exactly nine empty hollows scattered through it. **Light:** warm mid-morning light from the upper left, soft shadows falling right. **Accent:** coral on the floors of the nine empty hollows.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and her two hands resting flat on the bare kitchen table, sharp; the room behind falling soft. **Empty field:** left side, 46 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** nine in the evening, one low warm pendant lamp from above and a little to the right, amber, soft close shadows.

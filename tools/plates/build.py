@@ -54,10 +54,15 @@ def covered(text):
 
 
 def glue(s):
-    """§4h-2: a number never separates from its unit, and its digit groups never break apart."""
-    s = re.sub(r'(\d)\s+(%|°C|г|мг|мл|ч|дн|CFU|KB|MB|g|mg|ml|h|d)\b', r'\1' + NBSP + r'\2', s)
-    s = re.sub(r'(\d)\s+(\d{3})\b', r'\1' + NBSP + r'\2', s)
-    s = re.sub(r'\b(из|of|per|на)\s+(\d)', r'\1' + NBSP + r'\2', s)
+    """§4h-2: a number never separates from what it counts, and its digit groups never break apart.
+
+    The brief may carry a real non-breaking space, but the alt parser collapses whitespace on the way
+    out, so the join is re-applied here — at the last moment before the line is set, where it is true.
+    """
+    s = s.replace(' ', ' ')  # normalise, then re-join deliberately
+    s = re.sub(r'(\d)\s+(\d{3})\b', r'\1' + NBSP + r'\2', s)            # 1 844
+    s = re.sub(r'(\d[\d.,–—-]*)\s+([%°×]|[^\s.,;:·]{1,14})', lambda m: m.group(1) + NBSP + m.group(2), s)
+    s = re.sub(r'\b(из|of|per|на)' + NBSP + r'?\s*(\d)', r'\1' + NBSP + r'\2', s)
     return s
 
 

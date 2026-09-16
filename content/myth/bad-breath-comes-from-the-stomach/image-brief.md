@@ -32,6 +32,8 @@ Morphology is truth (IMAGE_PROMPT, rules that outlive any engine, 3). Rods stay 
 
 **On *Helicobacter pylori*.** The article discusses it and rules it out as a settled cause [s7] [s8]. It therefore does **not** appear in either frame. If a spiral cell were drawn anywhere, the image would argue the opposite of the piece.
 
+**Card (person, Owner 2026-09-16):** `Varda` from `refs/characters/` — a woman in her fifties, a driving instructor; the driver's seat of her own parked car, mid-morning.
+
 ## 4. The three-beat process — first, next, outcome
 
 Taken from the article's H2 skeleton, in one reading path:
@@ -51,6 +53,10 @@ Show it as **quantity, never as a printed figure**: the frame carries a countabl
 
 No second number goes into the image. The 51 % tongue-coating share, the 90 % sulfur share and the 2.85 odds ratio stay in the text where their source markers can follow them.
 
+- **Card scene (one line):** parked and not yet driving off at quarter past nine, she looks at herself in the rear-view mirror with one palm laid flat on her stomach, blaming the wrong floor of the building.
+- **Wardrobe and place:** a plain olive jacket over a plain top, no logo, no badge, no uniform; the driver's seat of an ordinary car standing in a quiet street at quarter past nine, windows up, clear autumn morning light outside, the engine off.
+- **EMPTY FIELD (where the words will sit):** the right 44 % of the frame is the flat, evenly toned pale wall of the building seen through the passenger window, thrown well out of focus — one unbroken plane of soft tone, nothing crosses it, no sign, no window, no railing, no cable, no pattern — and it lies wholly inside the middle horizontal band, the top and bottom 11 % kept as air. She sits on the left third, head and shoulders inside that same band.
+
 ## 6–7. Alt text
 
 Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
@@ -59,6 +65,12 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: a crowd of sulfur-gas plumes rises from bacteria in the coating on the back of the tongue, while a single thin plume rises from the depth below"
 - ru preview alt: "Иллюстрация: короткие толстые анаэробные палочки в глубине узкой десневой бороздки, из неё поднимаются тонкие струйки серного газа"
 - ru hero alt: "Иллюстрация: множество струек серного газа поднимается от бактерий в налёте на задней части языка, и лишь одна тонкая струйка идёт из глубины снизу"
+- en card alt: "Is it coming from my stomach? — a woman in her parked car mid-morning, a palm flat on her stomach"
+- ru card alt: "Это всё-таки желудок? — женщина в припаркованной машине утром, ладонь лежит на животе"
+- en card question: "Is it coming from my stomach?"
+- ru card question: "Это всё-таки желудок?"
+- en plate lines: "First — the coating closes off the air · Then — bacteria strip sulphur from it · So — mouth 87 %, gut 1 %"
+- ru plate lines: "Сначала — налёт закрывает доступ воздуха · Затем — бактерии отщепляют серу · Итог — рот 87 %, кишечник 1 %"
 
 ## 8. What must never appear
 
@@ -76,6 +88,8 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - **Neither master is ever a crop of the other** — two masters, born natively at their own ratios.
 - No black background, no blue neon glow, no false-colour electron-micrograph cliché, no stock DNA helix, no glowing pill, no invented microscope or screen interface.
 - Nothing that could be mistaken for a real photograph of a real clinical or diagnostic image.
+
+**On the card frame (Owner 2026-09-16), as binding as the bans above.** Everything above governs the preview and the hero, and the ban on people holds there without exception; the card frame is the one frame that carries a person, and on it: no second person and no face other than `Varda`. No lab coat, no scrubs, no clinic, no hospital, no microscope, no white room. No letters, numerals, signage, packaging text or watermark anywhere in the frame — including on clothing, on the dashboard, on a mug, on a jar and everywhere in the background; no number plate, no road sign, no shopfront lettering through the glass. No brand mark, and nothing on the car that names its maker. No product of any kind and nothing product-shaped — no mint, chewing gum, breath spray, mouthwash, capsule, tablet, pack or supplement jar, not even out of focus. No jewellery carrying lettering. No medical horror.
 
 ## 9. File keyword
 
@@ -97,3 +111,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** the deep end of one narrow gum groove — a smooth, pale, finely layered mineral wall on one side and a soft velvety tissue wall on the other, both as cell-scale landscape, never as teeth or gums; a loose cluster of short, plump, bean-shaped rods fringed with fine fimbriae resting in the thin wet film at the bottom, and fine plumes lifting up out of the groove. The resting cluster sharp, the groove walls softening away. Subject inside the middle 1.91:1 band. **World:** the wet, narrow groove between a mineral wall and soft tissue, the film thin and glistening; bright, even overcast daylight, neutral-cool, shadowless, the groove darkening only by its own depth. **Accent:** coral on the rising plumes only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** one continuous fissured, papillated landscape read left to right — coating settling into the grooves, open above and closed below; plump rods working in the dim lower layer in the centre; on the right a crowd of dozens of fine plumes lifting up and forward off the surface and out of one narrow gum groove at the far right, while beneath the landscape the frame falls away into calm, pale, empty depth from which exactly one thin plume rises. **Light:** warm, low late-afternoon light from the right, long soft shadows toward the left. **Accent:** lime on the single plume rising from below only.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face as she meets her own eyes in the rear-view mirror, and the flat palm on her stomach, both sharp; the car interior falling soft. **Empty field:** right side, 44 % of the width, the out-of-focus wall through the passenger window. Head and shoulders inside the middle 1.91:1 band. **Light:** quarter past nine in the morning, clear autumn daylight through the windscreen from the front left, neutral and bright, soft shadows inside the car.

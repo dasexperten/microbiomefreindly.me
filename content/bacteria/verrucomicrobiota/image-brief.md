@@ -20,6 +20,9 @@ Plain words only, per BRAND_IMAGE_SPEC §4e-1. Slot, ratio and master sizes are 
 3. Organism / structure in the preview:        Akkermansia muciniphila in the colonic mucus layer
                                                (phylum Verrucomicrobiota, formerly Verrucomicrobia)
 
+   Card (person, Owner 2026-09-16):            Luiza from `refs/characters/` · a woman in her forties, a music
+                                               teacher · a covered market hall, Saturday morning
+
 4. Morphology, in words (truth, Magnus):       Oval short rods, blunt-ended, single or in pairs, non-motile,
                                                no spores. Not spheres, not chains, not branched, no tails.
                                                They sit inside the pale mucus gel and against the folded
@@ -29,6 +32,22 @@ Plain words only, per BRAND_IMAGE_SPEC §4e-1. Slot, ratio and master sizes are 
 5. Preview mood (one line, warm science):      Morning light through a pale, sugary mucus film over the
                                                folded gut lining, rods resting in the gel — and at one edge
                                                the film worn thin, so a little of the lining shows through.
+
+   Card scene (one line):                      choosing a bunch of leafy greens at a covered market hall on a Saturday
+                                               morning, a full cloth bag already on her shoulder — the fibre that
+                                               decides whether the mucus eater renews the coat or wears it away
+
+   Wardrobe and place:                         plain 2026 clothing, no logos: a plain olive raincoat open over a grey
+                                               jumper, a cloth shoulder bag; a covered market hall at 08:15, cool
+                                               grey-blue light falling from high roof glazing, the far end of the hall
+                                               soft with depth, no stall sign or price board anywhere in shot
+
+   EMPTY FIELD (where the words will sit):     the left 45 % of the frame is the smooth grey-green painted end wall of
+                                               the hall in flat shade — one even, uncluttered plane. Nothing crosses
+                                               it: no stall, no crate, no board, no hook, no pipe, no pattern. It
+                                               lies inside the middle horizontal band (the top and bottom 11 % are
+                                               air). She stands on the right third, head and shoulders inside that
+                                               same band.
 
 6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16:
                                                Akkermansia muciniphila, the phylum's best-known member, eats
@@ -61,6 +80,14 @@ Plain words only, per BRAND_IMAGE_SPEC §4e-1. Slot, ratio and master sizes are 
                                                false-colour electron-micrograph look. Blood, pus, wounds,
                                                inflamed raw tissue. Stock DNA helix, glowing pill or capsule.
 
+   Card frame as well (Owner 2026-09-16):      a second person; any face other than the named REF; a lab coat,
+                                               scrubs, a clinic, a hospital, a microscope; letters, numerals,
+                                               signage, price boards, packaging text or a watermark anywhere —
+                                               including on clothing, the bag, crates, boxes and in the background;
+                                               any brand mark; any product of any kind — the greens are loose and
+                                               unwrapped, no capsule, sachet or bottle; jewellery with lettering;
+                                               medical horror.
+
 10. Locales + alt text per locale:
 
 Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's gate, not yet passed).
@@ -69,6 +96,12 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: oval bacteria graze the mucus layer over the colon lining, which takes in gold fuel and makes fresh mucus; further right, crowded bacteria wear the layer down to a thin veil"
 - ru preview alt: "Иллюстрация: овальные бактерии лежат среди вытянутых нитей слизи над слизистой кишечника, одна нить разлохмачена там, где кормится клетка"
 - ru hero alt: "Иллюстрация: овальные бактерии объедают слой слизи над слизистой толстой кишки, она забирает золотое топливо и выделяет свежую слизь; правее скученные бактерии истончают слой до тонкой вуали"
+- en card alt: "Is the mucus eater good? — a woman picks leafy greens in a covered market hall on a Saturday morning"
+- ru card alt: "Едок слизи — это хорошо? — женщина выбирает зелень в крытом рынке субботним утром"
+- en card question: "Is the mucus eater good?"
+- ru card question: "Едок слизи — это хорошо?"
+- en plate lines: "First — it grazes the gut's mucus coat · Then — the lining feeds and makes more · So — without fibre the coat wears thin"
+- ru plate lines: "Сначала — объедает слизь кишечника · Затем — стенка кормится и даёт новую · Итог — без клетчатки слой истончается"
 ```
 
 ---
@@ -97,3 +130,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a few oval rods, single and in pairs, resting among stretched mucus strands; one strand frays where the nearest rod is feeding, and that point is sharpest. Subject inside the middle 1.91:1 band. **World:** the loose outer mucus of the colon drawn out into soft translucent strands and sheets like pulled honey, the folded lining soft and far below; a warm tungsten spot from the right, amber-warm, pooled light with soft falloff. **Accent:** lime on the sheen of that fraying strand only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left, rods grazing a thick mucus layer with a few fibre strands above; centre, gold fuel beads passing into the lining and fresh mucus welling up; right, no fibre, crowded rods, the layer worn to a thin veil. The eye reads left to right. **Light:** bright cool-neutral backlight from behind the forms, translucent edges glowing. **Accent:** gold on the fuel beads.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her eyes and the bunch of greens in her hand. **Empty field:** left, 45 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 08:15, cool grey-blue daylight falling from the roof glazing overhead.
