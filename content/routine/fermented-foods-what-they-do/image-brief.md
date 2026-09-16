@@ -39,7 +39,7 @@ The two populations must be told apart by shape and by nothing else — never by
 
 No spores swelling a cell end, no spirals, no filaments, no forked or Y-shaped cells, no biofilm sheet, no capsule-shaped body: none of those belong here.
 
-**Card (person, Owner 2026-09-16):** `ArminePapazjan` from `refs/characters/` — a woman in her forties, a seamstress; her own balcony, in the middle of the afternoon.
+**Card (person, Owner 2026-09-16):** `TarasRyzhiy` from `refs/characters/` — a man in his forties, a carpenter; his own balcony, in the middle of the afternoon.
 
 **4. The three-beat process — first, next, outcome**
 
@@ -55,9 +55,9 @@ The eye must walk that path in one pass: a crowded ferment → cells drifting pa
 
 Shown as **proportion in beat two**: of roughly twenty newly arrived cells crossing the resident field, exactly one takes a place among the residents and the rest travel on. About one in twenty is the honest visual reading of 5.4 % at its highest point; the picture shows the smallness of the share, not a printed figure. The number is never printed, never labelled, never written anywhere in the pixels, and the frame must not imply a precise percentage — quantity and proportion are the whole of it.
 
-- **Card scene (one line):** at five past three she sits at the small table on her own balcony with a plain bowl of kefir and a spoon, in the middle of an ordinary afternoon, wondering whether any of it reaches anything.
-- **Wardrobe and place:** a plain sleeveless linen dress, no logo, no print, no apron; a narrow flat balcony at five past three in the afternoon, a folding table and one chair, warm dry air, a strip of hot sunlight along the floor and the seat in shade.
-- **EMPTY FIELD (where the words will sit):** the right 46 % of the frame is a plain rendered balcony wall in even afternoon shade — one uncluttered plane, nothing crosses it, no rail, no cable, no pipe, no washing line, no pattern — and it lies wholly inside the middle horizontal band, the top and bottom 11 % kept as air. She sits on the left third, head and shoulders inside that same band.
+- **Card scene (one line):** at five past three he sits at the small table on his own balcony with a plain bowl of kefir and a spoon, in the middle of an ordinary afternoon, wondering whether any of it reaches anything.
+- **Wardrobe and place:** a plain short-sleeved linen shirt, no logo, no print, no apron; a narrow flat balcony at five past three in the afternoon, a folding table and one chair, warm dry air, a strip of sunlight along the floor and the seat out of it.
+- **EMPTY FIELD (where the words will sit):** the right 46 % of the frame is a plain pale cream rendered balcony wall, evenly and brightly lit — one uncluttered plane, nothing crosses it, no rail, no cable, no pipe, no washing line, no pattern — and it lies wholly inside the middle horizontal band, the top and bottom 11 % kept as air. He sits on the left third, head and shoulders inside that same band.
 
 **6–7. Alt text**
 
@@ -67,8 +67,8 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: bacteria from a live ferment drift across the gut lining; of twenty, one takes a place, acids seep into the mucus, and the resident bacteria end up more varied"
 - ru preview alt: "Иллюстрация: цепочки круглых клеток, длинные палочки и крупные почкующиеся дрожжи среди мелких пузырьков живой закваски"
 - ru hero alt: "Иллюстрация: бактерии из живой закваски проплывают над слизистой кишечника; из двадцати задерживается одна, кислоты просачиваются в слизь, а собственные бактерии становятся разнообразнее"
-- en card alt: "Do fermented foods really work? — a woman on her balcony in mid-afternoon with a bowl of kefir"
-- ru card alt: "Кефир вообще что-то даёт? — женщина на балконе среди дня с миской кефира"
+- en card alt: "Do fermented foods really work? — a man eats a bowl of kefir at a small table on his balcony in the afternoon"
+- ru card alt: "Кефир вообще что-то даёт? — мужчина ест кефир за столиком на своём балконе днём"
 - en card question: "Do fermented foods really work?"
 - ru card question: "Кефир вообще что-то даёт?"
 - en plate lines: "First — live cells come with the food · Then — they pass through, few stay · So — 19 inflammatory proteins fell"
@@ -85,7 +85,7 @@ Four honesty limits, as binding as the bans above:
 - Nothing may depict a **health result in a body** — no calmed tissue, no healing, no before-and-after person. The trial's primary outcome was not significant; the inflammatory-protein finding is a secondary one and cannot be pictured as a cure.
 - The pasteurised, heat-treated version is **not** in this frame at all. No dead or greyed-out cells, no ruined field, nothing that reads as a warning. The live ferment is the only thing depicted.
 
-**On the card frame (Owner 2026-09-16), as binding as the bans above.** Everything above governs the preview and the hero, and the bans there on people and on food photography hold for those two frames without exception; the card frame is the one frame that carries a person, and it is the one frame in which ordinary food may appear as ordinary food — a plain bowl and a spoon, never a container and never packaging. On it: no second person and no face other than `ArminePapazjan`. No lab coat, no scrubs, no clinic, no hospital, no microscope, no white room. No letters, numerals, signage, packaging text or watermark anywhere in the frame — including on clothing, on the bowl, on a jar and everywhere in the background. No brand mark. No product of any kind and nothing product-shaped — no jar, carton, bottle, tub, lid, capsule, tablet, sachet or supplement jar, not even out of focus; the kefir is in a plain unmarked bowl and nothing it came from is in the frame. No jewellery carrying lettering. No medical horror.
+**On the card frame (Owner 2026-09-16), as binding as the bans above.** Everything above governs the preview and the hero, and the bans there on people and on food photography hold for those two frames without exception; the card frame is the one frame that carries a person, and it is the one frame in which ordinary food may appear as ordinary food — a plain bowl and a spoon, never a container and never packaging. On it: no second person and no face other than `TarasRyzhiy`. No lab coat, no scrubs, no clinic, no hospital, no microscope, no white room. No letters, numerals, signage, packaging text or watermark anywhere in the frame — including on clothing, on the bowl, on a jar and everywhere in the background. No brand mark. No product of any kind and nothing product-shaped — no jar, carton, bottle, tub, lid, capsule, tablet, sachet or supplement jar, not even out of focus; the kefir is in a plain unmarked bowl and nothing it came from is in the frame. No jewellery carrying lettering. No medical horror.
 
 **9. File keyword**
 
@@ -101,4 +101,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** two large oval yeast cells, each with a smaller daughter bud swelling from its side, sharp at the centre, with a chain of five or six round cells and a few long straight rods lying against the skin of small gas bubbles around them; further bubbles and cells soften away. Subject inside the middle 1.91:1 band. **World:** the inside of a live milk ferment at the scale of the cells — a soft, pale, translucent curd matrix threaded with tiny round gas bubbles, no jar, glass, spoon or surface of a food; low candle-warm glow from a single small source at lower right, deep amber, soft falling shadows. **Accent:** lime on the daughter buds only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left, a crowded field of arrivals — long rods, chains of round cells, plump short rods, a few big budding yeasts — on plant cell-wall strands and in a soft matrix; centre, exactly twenty arrivals drifting across the mucus over the finger-shaped folds, one of them lodged among the resident rods, the other nineteen passing on, with a soft drift of dissolved acids and broken-down sugars seeping into the mucus; right, the resident field itself holding more different shapes than in the centre. **Light:** cool silvery early-morning light, low from the left, long soft shadows. **Accent:** gold on the soft chemical drift seeping into the mucus only — never on any cell.
-- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the plain bowl held in both hands with the spoon resting in it, sharp; the balcony rail and the street beyond falling soft. **Empty field:** right side, 46 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** five past three in the afternoon, hot high sun bouncing off the rendered wall into open shade from the left, warm and dry, soft short shadows.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** his face and the plain bowl held in both hands with the spoon resting in it, sharp; the balcony rail and the street beyond falling soft. **Empty field:** right side, 46 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** five past three in the afternoon, hot high sun bouncing off the rendered wall into open shade from the left, warm and dry, soft short shadows.

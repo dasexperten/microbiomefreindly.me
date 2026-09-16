@@ -64,7 +64,7 @@ sources:
 images:
   card: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-card-en.webp"
   cardLine: "Do fermented foods really work?"
-  cardAlt: "Do fermented foods really work? — a woman on her balcony in mid-afternoon with a bowl of kefir"
+  cardAlt: "Do fermented foods really work? — a man eats a bowl of kefir at a small table on his balcony in the afternoon"
   og: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-og-en.jpg"
   preview: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-preview.webp"
   previewAlt: "Illustration: chains of round cells, long rods and large budding yeasts among tiny bubbles in a live ferment"

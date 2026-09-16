@@ -64,7 +64,7 @@ sources:
 images:
   card: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-card-ru.webp"
   cardLine: "Кефир вообще что-то даёт?"
-  cardAlt: "Кефир вообще что-то даёт? — женщина на балконе среди дня с миской кефира"
+  cardAlt: "Кефир вообще что-то даёт? — мужчина ест кефир за столиком на своём балконе днём"
   og: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-og-ru.jpg"
   preview: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-preview.webp"
   previewAlt: "Иллюстрация: цепочки круглых клеток, длинные палочки и крупные почкующиеся дрожжи среди мелких пузырьков живой закваски"
