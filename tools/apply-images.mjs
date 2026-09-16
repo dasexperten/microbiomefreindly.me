@@ -26,16 +26,35 @@ for (const [cluster, files] of Object.entries(byCluster)) {
   if (only.length && !only.includes(slug)) continue;
   const dir = join(ROOT, 'content', type, slug); if (!existsSync(dir)) { console.warn(`no folder ${cluster}`); continue; }
   const alts = altsFromBrief(join(dir, 'image-brief.md'));
-  const preview = files[`${slug}-preview.webp`], hero = files[`${slug}-hero.webp`], og = files[`${slug}-og.jpg`];
+  const preview = files[`${slug}-preview.webp`], hero = files[`${slug}-hero.webp`];
   for (const f of readdirSync(dir)) {
     const mm = f.match(/^([a-zA-Z-]+)\.md$/); if (!mm || f.endsWith('.speech.md') || f === 'image-brief.md') continue;
     const lang = mm[1]; const p = join(dir, f); let txt = readFileSync(p, 'utf8');
-    const a = alts[lang] || alts.en || {};
-    const block = `images:\n  preview: "${preview || ''}"\n  hero: "${hero || ''}"\n  og: "${og || ''}"\n  previewAlt: "${(a.preview || '').replace(/"/g, '”')}"\n  heroAlt: "${(a.hero || '').replace(/"/g, '”')}"`;
+    const lc = lang.toLowerCase();
+    const a = alts[lc] || alts[lang] || alts.en || {};
+    if (!alts[lc] && !alts[lang]) console.warn(`  no alt block for ${cluster} ${lang} — English text would be written; skipped`);
+    /* per-locale files carry the locale in the name; the shared, text-free frames do not */
+    const card = files[`${slug}-card-${lc}.webp`] || '';
+    const og = files[`${slug}-og-${lc}.jpg`] || files[`${slug}-og.jpg`] || '';
+    const plate = files[`${slug}-plate-${lc}.webp`] || '';
+    const q = (v) => (v || '').replace(/"/g, '”');
+    const block = [
+      'images:',
+      `  card: "${card}"`,
+      `  cardLine: "${q(a.cardLine)}"`,
+      `  cardAlt: "${q(a.card)}"`,
+      `  og: "${og}"`,
+      `  preview: "${preview || ''}"`,
+      `  previewAlt: "${q(a.preview)}"`,
+      `  plate: "${plate}"`,
+      `  plateLines: "${q(a.plateLines)}"`,
+      `  hero: "${hero || ''}"`,
+      `  heroAlt: "${q(a.hero)}"`,
+    ].join('\n');
     const re = /^images:\n(?:[ \t]+.*\n?)*/m;
     if (re.test(txt)) txt = txt.replace(re, block + '\n'); else txt = txt.replace(/^---\n/, `---\n${block}\n`);
     writeFileSync(p, txt); touched++;
   }
-  console.log(`${cluster}: preview ${preview ? 'ok' : '—'} hero ${hero ? 'ok' : '—'} og ${og ? 'ok' : '—'}`);
+  console.log(`${cluster}: preview ${preview ? 'ok' : '—'} hero ${hero ? 'ok' : '—'} card ${Object.keys(files).some((k) => k.includes('-card-')) ? 'ok' : '—'} plate ${Object.keys(files).some((k) => k.includes('-plate-')) ? 'ok' : '—'}`);
 }
 console.log(`${touched} locale files updated`);

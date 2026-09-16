@@ -18,22 +18,30 @@ import { readdirSync, statSync, mkdirSync, writeFileSync, existsSync } from 'nod
 import { join, basename, extname } from 'node:path';
 
 const [,, SRC, OUT] = process.argv;
+const RENDERED = process.argv.includes('--rendered');
 if (!SRC || !OUT) { console.error('usage: node tools/images.mjs <masters-dir> <out-dir>'); process.exit(2); }
 const R2_PUBLIC = 'https://pub-1d1b12958f2d4ea380276bd8d0a1ff02.r2.dev';
 const plan = [];
 const walk = (d) => readdirSync(d).flatMap((f) => { const p = join(d, f); return statSync(p).isDirectory() ? walk(p) : /\.(png|jpe?g|webp)$/i.test(f) ? [p] : []; });
 
 // weight caps per file, BRAND_IMAGE_SPEC §1 — quality steps down until the file fits; a file that cannot fit fails loudly
-const CAP_KB = { 'preview.webp': 110, 'preview@2x.webp': 220, 'preview.jpg': 110, 'og.jpg': 280, 'hero.webp': 170, 'hero@2x.webp': 340, 'hero.jpg': 170, 'thumb.webp': 40 };
+const CAP_KB = { 'card.webp': 120, 'card@2x.webp': 240, 'preview.webp': 110, 'preview@2x.webp': 220, 'preview.jpg': 110, 'og.jpg': 280, 'hero.webp': 170, 'hero@2x.webp': 340, 'hero.jpg': 170, 'plate.webp': 190, 'plate@2x.webp': 380, 'thumb.webp': 40 };
+/* File names carry a locale since 2026-09-16 (…-card-ru@2x.webp), so the cap is found by parsing the
+ * slot, never by a suffix match — a miss would silently ship an uncapped file. */
+const SLOT_RE = /-(card|preview|hero|plate|og|thumb)(?:-[a-z0-9-]+?)?(@2x)?\.(webp|jpe?g|png)$/;
+const slotKey = (rel) => { const m = basename(rel).match(SLOT_RE); return m ? `${m[1]}${m[2] || ''}.${m[3] === 'jpeg' ? 'jpg' : m[3]}` : null; };
+/* baked type turns to mush below this quality — a frame that cannot fit is a geometry problem */
+const MIN_Q = { 'card.webp': 66, 'card@2x.webp': 66, 'plate.webp': 66, 'plate@2x.webp': 66, 'og.jpg': 70 };
 async function out(img, rel, opts) {
   const p = join(OUT, rel); mkdirSync(join(p, '..'), { recursive: true });
-  const cap = CAP_KB[Object.keys(CAP_KB).find((k) => rel.endsWith(`-${k}`))];
+  const cap = CAP_KB[slotKey(rel)];
   const sized = img.clone().resize(opts.w, opts.h, { fit: opts.fit || 'cover', position: 'centre', withoutEnlargement: false });
   let q = opts.fmt === 'webp' ? 82 : 84; let buf;
   for (;;) {
     buf = await sized.clone()[opts.fmt](opts.fmt === 'webp' ? { quality: q } : opts.fmt === 'png' ? { compressionLevel: 9 } : { quality: q, mozjpeg: true }).toBuffer();
     if (!cap || buf.length <= cap * 1024) break;
-    if (q <= 50) { console.error(`OVER CAP ${rel}: ${Math.round(buf.length / 1024)} KB > ${cap} KB at quality ${q}`); process.exitCode = 1; break; }
+    const floor = MIN_Q[slotKey(rel)] || 50;
+    if (q <= floor) { console.error(`OVER CAP ${rel}: ${Math.round(buf.length / 1024)} KB > ${cap} KB at quality ${q}`); process.exitCode = 1; break; }
     q -= 4;
   }
   writeFileSync(p, buf);
@@ -44,10 +52,30 @@ async function out(img, rel, opts) {
 for (const file of walk(SRC)) {
   const rel = file.slice(SRC.length + 1).replace(/\\/g, '/'); // <type>/<slug>/<name>
   const [type0, slug] = rel.split('/'); const type = type0 === 'news' ? 'articles' : type0; const name = basename(file, extname(file));
-  if (!/-(preview|hero)$/.test(basename(file, extname(file)))) continue; // raw engine files and notes are not masters
+  const stem = basename(file, extname(file));
+  if (RENDERED) {
+    const m = stem.match(/^(.+?)-(card|og|plate)-([a-z0-9-]+)$/);
+    if (!m) continue;
+    const [, , slot, lang] = m;
+    if (slot === 'card') {
+      await out(img, `${type}/${slug}/${slug}-card-${lang}.webp`, { w: 720, h: 480, fmt: 'webp' });
+      await out(img, `${type}/${slug}/${slug}-card-${lang}@2x.webp`, { w: 1440, h: 960, fmt: 'webp' });
+    } else if (slot === 'og') {
+      await out(img, `${type}/${slug}/${slug}-og-${lang}.jpg`, { w: 1200, h: 630, fmt: 'jpeg' });
+    } else {
+      await out(img, `${type}/${slug}/${slug}-plate-${lang}.webp`, { w: 1200, h: 900, fmt: 'webp' });
+      await out(img, `${type}/${slug}/${slug}-plate-${lang}@2x.webp`, { w: 2400, h: 1800, fmt: 'webp' });
+    }
+    console.log(`${rel}: ${meta.width}×${meta.height} → ${slot} ${lang}`);
+    continue;
+  }
+  if (!/-(preview|hero|card)$/.test(stem)) continue; // raw engine files and notes are not masters
   const img = sharp(file); const meta = await img.metadata();
   const ratio = meta.width / meta.height;
-  if (name.endsWith('-preview')) {
+  if (name.endsWith('-card')) {
+    if (Math.abs(ratio - 1.5) > 0.04) { console.error(`SKIP ${rel}: card ratio ${ratio.toFixed(3)} is not 3:2 (born-native rule)`); continue; }
+    await out(img, `masters/${slug}/${slug}-card-master.png`, { w: 1440, h: 960, fmt: 'png' });
+  } else if (name.endsWith('-preview')) {
     if (Math.abs(ratio - 1.5) > 0.04) { console.error(`SKIP ${rel}: preview ratio ${ratio.toFixed(3)} is not 3:2 (born-native rule)`); continue; }
     await out(img, `masters/${slug}/${slug}-preview-master.png`, { w: 1440, h: 960, fmt: 'png' });
     await out(img, `${type}/${slug}/${slug}-preview.webp`, { w: 720, h: 480, fmt: 'webp' });

@@ -18,15 +18,21 @@ let fails = 0, warns = 0;
 const fail = (f, m) => { fails++; console.log(`FAIL ${f}: ${m}`); };
 const warn = (f, m) => { warns++; console.log(`WARN ${f}: ${m}`); };
 const words = (s) => String(s || '').trim().split(/\s+/).filter(Boolean).length;
+const norm2 = (x) => String(x || '').toLowerCase().replace(/[^\p{L}\p{N}]+/gu, '');
 
 /* ---------- source checks ---------- */
-for (const type of ['news', 'bacteria', 'hubs']) {
+const NEWLY_GATED = new Set(['ask', 'myth', 'routine']); // gated for the first time 2026-09-16
+for (const type of ['news', 'bacteria', 'hubs', 'ask', 'myth', 'routine']) {
   const dir = join(CONTENT, type); if (!existsSync(dir)) continue;
   for (const slug of readdirSync(dir)) {
     const cdir = join(dir, slug); if (!statSync(cdir).isDirectory()) continue;
     for (const f of readdirSync(cdir)) {
       const mm = f.match(/^([a-zA-Z-]+)\.md$/); if (!mm || f.endsWith('.speech.md') || f === 'image-brief.md') continue;
       const lang = mm[1]; const rel = `${type}/${slug}/${f}`;
+      /* length rules on the three sections gated today are reported, not blocking — the text is
+       * published and its rewrite belongs to the content lane, not to this image run (§0b: named, not hidden) */
+      const soft = NEWLY_GATED.has(type);
+      const lenFail = (r, m) => (soft ? warn(r, `${m} (newly gated section)`) : fail(r, m));
       if (!LOCALES.meta[lang]) { fail(rel, `unknown locale "${lang}"`); continue; }
       const raw = readFileSync(join(cdir, f), 'utf8');
       const m = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
@@ -39,10 +45,10 @@ for (const type of ['news', 'bacteria', 'hubs']) {
       const tl = (fm.title || '').length; const tcap = CJK.has(lang) ? 32 : CYR.has(lang) ? 55 : 60;
       if (!fm.title) fail(rel, 'no title'); else if (tl > tcap + 10) fail(rel, `title ${tl} chars > cap ${tcap}`); else if (tl > tcap) warn(rel, `title ${tl} chars > soft cap ${tcap}`);
       const ml = (fm.meta || '').length; const mcap = CYR.has(lang) ? 150 : 160;
-      if (!fm.meta) fail(rel, 'no meta'); else if (ml > mcap) fail(rel, `meta ${ml} chars > ${mcap}`); else if (ml < 70 && !CJK.has(lang)) warn(rel, `meta short (${ml})`);
+      if (!fm.meta) fail(rel, 'no meta'); else if (ml > mcap) lenFail(rel, `meta ${ml} chars > ${mcap}`); else if (ml < 70 && !CJK.has(lang)) warn(rel, `meta short (${ml})`);
       if (fm.meta && fm.answer && fm.meta.trim() === fm.answer.trim()) warn(rel, 'meta equals answer (SEO §2.1: must differ from lead)');
       if (type !== 'hubs') {
-        if (!fm.answer) fail(rel, 'no answer-first paragraph (GEO)'); else if (!CJK.has(lang) && words(fm.answer) > 60) fail(rel, `answer ${words(fm.answer)} words > 60`);
+        if (!fm.answer) fail(rel, 'no answer-first paragraph (GEO)'); else if (!CJK.has(lang) && words(fm.answer) > 60) lenFail(rel, `answer ${words(fm.answer)} words > 60`);
         if (!fm.asOf) fail(rel, 'no asOf date (§9c)');
         if (!Array.isArray(fm.sources) || !fm.sources.length) fail(rel, 'no sources');
         else for (const s of fm.sources) { if (!s.id || !s.name) fail(rel, `source row without id/name`); if (!s.doi && !s.pmid && !s.url) fail(rel, `source ${s.id} has no doi/pmid/url`); }
@@ -61,6 +67,30 @@ for (const type of ['news', 'bacteria', 'hubs']) {
       if (/^#\s/m.test(body)) fail(rel, 'body contains an H1 (#) — the build generates the H1');
       if (/made\s+in\s+germany/i.test(raw.replace(/\s+/g, ' '))) fail(rel, '"Made in Germany" is forbidden');
       if (type === 'bacteria' && !fm.entity?.latin) fail(rel, 'bacteria page without entity.latin');
+      /* images (Owner 2026-09-16): the card carries baked words in this page's own language */
+      const im = fm.images || {};
+      const onDisk = (u) => !u || !u.startsWith('/assets/') || existsSync(join(ROOT, 'src', u));
+      for (const k of ['card', 'og', 'preview', 'plate', 'hero']) if (im[k] && !onDisk(im[k])) fail(rel, `images.${k} points at a file that is not on disk: ${im[k]}`);
+      for (const k of ['card', 'preview', 'plate', 'hero']) { const u = im[k]; if (u && u.endsWith('.webp') && !onDisk(u.replace(/\.webp$/, '@2x.webp'))) fail(rel, `images.${k} has no @2x sibling on disk`); }
+      if (im.card) {
+        if (!im.card.includes(`-card-${lang.toLowerCase()}.`)) fail(rel, `images.card is not this locale's file: ${im.card}`);
+        if (!im.cardLine) fail(rel, 'images.card without cardLine — the words baked into the frame');
+        if (!im.cardAlt) fail(rel, 'images.card without cardAlt');
+        else {
+          if (im.cardAlt.length > 125) fail(rel, `cardAlt ${im.cardAlt.length} chars > 125`);
+          const norm = (x) => String(x).toLowerCase().replace(/[^\p{L}\p{N}]+/gu, '');
+          if (im.cardLine && !norm(im.cardAlt).includes(norm(im.cardLine))) fail(rel, 'cardAlt does not repeat the baked question verbatim');
+        }
+        if (im.cardLine) {
+          const w = words(im.cardLine);
+          if (!CJK.has(lang) && (w < 3 || w > 6)) fail(rel, `cardLine is ${w} words, the slot is 3–6`);
+          if (norm2(im.cardLine) === norm2(fm.title)) fail(rel, 'cardLine repeats the title word for word');
+        }
+        if (im.preview && im.card === im.preview) fail(rel, 'card and preview are the same file');
+      }
+      if (im.plate && !im.plate.includes(`-plate-${lang.toLowerCase()}.`)) fail(rel, `images.plate is not this locale's file: ${im.plate}`);
+      if (im.plate && !im.plateLines) fail(rel, 'images.plate without plateLines');
+      for (const k of ['previewAlt', 'heroAlt', 'cardAlt']) if (im[k] && im[k].length > 125 && k !== 'heroAlt') warn(rel, `${k} ${im[k].length} chars > 125`);
     }
   }
 }
@@ -82,6 +112,17 @@ if (existsSync(join(DIST, 'build-manifest.json'))) {
     if (/letter-spacing:\s*0?\.\d|letter-spacing:\s*[1-9]/.test(html)) fail(rel, 'positive letter-spacing');
     if (/plex\s*mono/i.test(html)) fail(rel, 'IBM Plex Mono');
     for (const img of html.matchAll(/<img\b[^>]*>/g)) { if (!/alt="/.test(img[0])) fail(rel, `img without alt: ${img[0].slice(0, 60)}`); }
+    const proseOpen = html.indexOf('<div class="prose">');
+    if (proseOpen >= 0) {
+      /* balanced scan: anything that opens a <div> before .prose closes would truncate the NBSP gate */
+      let depth = 0, nested = false;
+      for (const m of html.slice(proseOpen).matchAll(/<\/?div\b/g)) {
+        if (m[0] === '</div') { depth--; if (depth === 0) break; } else { depth++; if (depth > 1) nested = true; }
+      }
+      if (nested) fail(rel, 'a <div> inside .prose — it truncates the NBSP gate; use <figure>');
+    }
+    const leads = (html.match(/<figure class="article-card">/g) || []).length;
+    if (leads > 1) fail(rel, `${leads} lead figures`);
     // §4h-2 rendered: number + unit must be joined by NBSP inside prose
     const prose = html.match(/<div class="prose">([\s\S]*?)<\/div>\s*(<section|<\/div><\/article>)/)?.[1] || '';
     const bad = [...prose.matchAll(/(\d[\d.,]*) (%|CFU|mg|ml|weeks?|days?|months?)\b/g)];

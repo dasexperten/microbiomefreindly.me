@@ -8,6 +8,7 @@
 import { readFileSync, existsSync } from 'node:fs';
 
 const KNOWN = new Set(['en', 'ru', 'de', 'es', 'fr', 'vi', 'ar', 'uk', 'pl', 'tl', 'ms', 'ro', 'th', 'tr', 'ja', 'ko', 'pt-br', 'zh-hans']);
+export const fileLang = (l) => String(l).toLowerCase(); // file names are lowercase; locale codes keep their own case
 const QUOTE_OPEN = /[`"“«]/;
 const QUOTE_CLOSE = /[`"”»]/;
 const CTX_WINDOW = 10;
@@ -37,16 +38,20 @@ export function altsFromBrief(path) {
       const hm = line.match(/\balt[^\n]*\(([a-z-]{2,7})\)/i);
       if (hm) headingLang = langOf(hm[1], headingLang);
     }
-    const slotM = line.match(/\b(preview|hero)\b/i);
+    // slots since 2026-09-16: the card (character frame) and the plate (infographic + band) joined
+    // preview and hero, and two of them carry words, not descriptions: "card question", "plate lines".
+    const slotM = line.match(/\b(card|preview|hero|plate)\b[ \t]*(question|line|lines)?/i);
     if (!slotM) continue;
     const head = line.slice(0, slotM.index + slotM[0].length + 40);
     const inAltField = /\balt\b/i.test(head) || i - altCtx <= CTX_WINDOW;
     if (!inAltField) continue;                       // "5. Preview mood" is not an alt
-    const slot = slotM[1].toLowerCase();
+    const base = slotM[1].toLowerCase();
+    const slot = slotM[2] ? (base === 'card' ? 'cardLine' : 'plateLines') : base;
     const lang = langOf(line.slice(0, slotM.index), headingLang);
 
     let rest = '';
     const afterSlot = line.slice(slotM.index + slotM[0].length);
+    const minLen = slot === 'cardLine' ? 6 : slot === 'plateLines' ? 12 : 15;
     // a quoted value may itself carry a colon ("Illustration: …") — then the colon that opens the quote wins
     const first = afterSlot.indexOf(':');
     const colon = first >= 0 && QUOTE_OPEN.test(afterSlot.slice(first + 1).trimStart().slice(0, 1)) ? first : afterSlot.lastIndexOf(':');
@@ -58,7 +63,7 @@ export function altsFromBrief(path) {
     let j = i;
     // keep pulling lines while the value is too short, or a quote was opened and has not closed yet
     while (j + 1 < lines.length && j - i < 4 &&
-      (clean(rest).length < 15 || (opened && !QUOTE_CLOSE.test(rest.trimStart().slice(1))))) {
+      (clean(rest).length < minLen || (opened && !QUOTE_CLOSE.test(rest.trimStart().slice(1))))) {
       j++; rest += ' ' + lines[j];
     }
 
@@ -73,7 +78,7 @@ export function altsFromBrief(path) {
       .replace(/\s*\(\d+\s*chars?\)\s*$/i, '')
       .replace(/[`"”»]\s*$/, '')
       .trim();
-    if (text.length < 15 || /^\d+\./.test(text) || /^#/.test(text)) continue;
+    if (text.length < minLen || /^\d+\./.test(text) || /^#/.test(text)) continue;
     (alts[lang] ||= {})[slot] ||= text;
     i = j;
   }

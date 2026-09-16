@@ -15,10 +15,11 @@ for (const type of ['bacteria', 'news', 'hubs', 'ask', 'myth', 'routine']) {
     const all = altsFromBrief(p); const a = all.en || {};
     if (!a.preview || !a.hero) { missing++; console.log('MISS', `${type}/${slug}`, JSON.stringify(a).slice(0, 90)); }
     for (const f of readdirSync(`content/${type}/${slug}`)) {
-      const m = f.match(/^([a-z]{2}(?:-[a-z]+)?)\.md$/); if (!m || m[1] === 'en') continue;
-      const l = all[m[1]] || {};
-      if (!l.preview || !l.hero) { localeMiss++; console.log('MISS-LOCALE', `${type}/${slug}`, m[1]); }
-      else if (/alexandra|from the en lines/i.test(l.preview + l.hero)) { localeMiss++; console.log('PLACEHOLDER', `${type}/${slug}`, m[1]); }
+      const m = f.match(/^([A-Za-z]{2}(?:-[A-Za-z]+)?)\.md$/); if (!m || m[1] === 'en') continue;
+      const l = all[m[1].toLowerCase()] || all[m[1]] || {};
+      const need = ['preview', 'hero', 'card', 'cardLine', 'plateLines'].filter((k) => !l[k]);
+      if (need.length) { localeMiss++; console.log('MISS-LOCALE', `${type}/${slug}`, m[1], need.join(',')); }
+      else if (/alexandra|from the en lines/i.test(l.preview + l.hero + l.card)) { localeMiss++; console.log('PLACEHOLDER', `${type}/${slug}`, m[1]); }
     }
   }
 }

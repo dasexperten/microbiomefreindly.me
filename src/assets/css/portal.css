@@ -167,6 +167,22 @@ sup{font-size:.6em;}
 .article-hero{aspect-ratio:16/9;background:var(--ground-2);border:1px solid var(--line);border-radius:var(--r-lg);overflow:hidden;margin:0 0 36px;}
 .article-hero img{width:100%;height:100%;object-fit:cover;}
 .article-hero figcaption{font-size:13px;color:var(--ink-2);padding:8px 2px 0;}
+/* the article lead is the character card — 3:2, the cell ratio equals the frame ratio, so the baked
+   question is never cropped by object-fit (Marika 2026-09-16) */
+.article-card{aspect-ratio:3/2;max-width:860px;background:var(--ground-2);border:1px solid var(--line);border-radius:var(--r-lg);overflow:hidden;margin:0 0 36px;}
+.article-card img{width:100%;height:100%;object-fit:cover;}
+.card-cover--worded img,.card:hover .card-cover--worded img{transform:none;}
+/* the two built frames sit inside the text; <figure> only — a <div> here truncates the NBSP gate */
+.prose .figfig{margin:34px 0;}
+.prose .figworld{aspect-ratio:3/2;border:1px solid var(--line);border-radius:var(--r);overflow:hidden;background:var(--ground-2);}
+.prose .figworld img{width:100%;height:100%;object-fit:cover;}
+.prose .figplate{border:1px solid var(--line);border-radius:var(--r);overflow:hidden;background:var(--ground-2);}
+.prose .figplate--band{aspect-ratio:4/3;}
+.prose .figplate--frame{aspect-ratio:16/9;}
+.prose .figplate img{width:100%;height:100%;object-fit:cover;}
+.prose .figplate figcaption{font-size:13px;color:var(--ink-2);padding:8px 10px 10px;}
+.prose .figplate--frame{overflow:visible;border:0;background:none;}
+.prose .figplate--frame img{aspect-ratio:16/9;border:1px solid var(--line);border-radius:var(--r);}
 .prose{max-width:var(--prose);font-size:17px;line-height:1.7;font-weight:500;}
 .prose h2{font-family:var(--sub);font-weight:700;font-size:clamp(24px,2.2vw,30px);line-height:1.15;letter-spacing:-0.01em;margin:44px 0 12px;}
 .prose h3{font-family:var(--sub);font-weight:600;font-size:22px;line-height:1.2;margin:30px 0 8px;}

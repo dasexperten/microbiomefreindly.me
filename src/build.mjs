@@ -108,12 +108,45 @@ const aboutUrl = (lang) => `${prefix(lang)}/about`;
 const evidenceUrl = (lang) => `${prefix(lang)}/evidence/`;
 const outPath = (url) => join(DIST, url.endsWith('/') ? `${url}index.html` : `${url}.html`);
 const abs = (u) => `${ORIGIN}${u}`;
+/* One rule for the 2x sibling: file names now carry a locale (…-card-ru.webp), so a per-slot regex
+ * would miss them and ship a 404 inside srcset. Derive, then prove the file is on disk (§0b). */
+const at2x = (u) => u.replace(/\.webp$/, '@2x.webp');
+const hasAsset = (u) => typeof u === 'string' && u.startsWith('/assets/') && existsSync(join(ROOT, 'src', u));
+const srcsetFor = (u, w1, w2) => (hasAsset(at2x(u)) ? ` srcset="${attr(u)} ${w1}w, ${attr(at2x(u))} ${w2}w"` : '');
 
 /* ---------- markdown ---------- */
 marked.setOptions({ gfm: true, breaks: false });
-function renderBody(md, sources, lang) {
+/* Two figures live inside the article body (Owner 2026-09-16): the macro world mid-text and the
+ * infographic lower down. An author may place them with [fig:world] / [fig:plate]; with no marker
+ * they are spliced automatically before the 2nd and the 4th H2, never in the first two blocks and
+ * never last. Markup is <figure> only — a <div> inside .prose truncates the NBSP gate in check.mjs. */
+function placeFigures(md, figs) {
+  if (!figs || (!figs.world && !figs.plate)) return md.replace(/^\[fig:(world|plate)\]\s*$/gm, '');
+  let out = md;
+  const marked_ = { world: /^\[fig:world\]\s*$/m.test(out), plate: /^\[fig:plate\]\s*$/m.test(out) };
+  out = out.replace(/^\[fig:world\]\s*$/m, '<!--FIG:world-->').replace(/^\[fig:plate\]\s*$/m, '<!--FIG:plate-->');
+  const need = ['world', 'plate'].filter((k) => figs[k] && !marked_[k]);
+  if (!need.length) return out;
+  const blocks = out.split(/\n{2,}/);
+  const h2 = blocks.map((b, i) => (/^##\s/.test(b.trim()) ? i : -1)).filter((i) => i >= 0);
+  const spot = (nth, frac) => {
+    const i = h2.length >= nth ? h2[nth - 1] : Math.max(2, Math.round(blocks.length * frac));
+    return Math.min(Math.max(i, 2), blocks.length - 1);
+  };
+  const at = {};
+  if (need.includes('world')) at[spot(2, 0.4)] = '<!--FIG:world-->';
+  if (need.includes('plate')) { let i = spot(4, 0.75); while (at[i]) i++; at[Math.min(i, blocks.length - 1)] = '<!--FIG:plate-->'; }
+  const merged = [];
+  blocks.forEach((b, i) => { if (at[i]) merged.push(at[i]); merged.push(b); });
+  return merged.join('\n\n');
+}
+
+function renderBody(md, sources, lang, figs) {
   const ids = (sources || []).map((s) => s.id);
-  let html = marked.parse(md);
+  let html = marked.parse(placeFigures(md, figs));
+  html = html.replace(/<p>\s*(<!--FIG:(?:world|plate)-->)\s*<\/p>/g, '$1')
+    .replace(/<!--FIG:world-->/g, (figs && figs.world) || '')
+    .replace(/<!--FIG:plate-->/g, (figs && figs.plate) || '');
   // [s1] → footnote sup
   html = html.replace(/\[(s\d+)\]/g, (m, id) => {
     const i = ids.indexOf(id);
@@ -173,7 +206,7 @@ function iconNav(lang, current) {
     .join('')}</nav>`;
 }
 
-function layout({ lang, title, desc, url, alternates, bodyHtml, jsonld, ogImage, current, type, dateMod }) {
+function layout({ lang, title, desc, url, alternates, bodyHtml, jsonld, ogImage, ogImageAlt, current, type, dateMod }) {
   const t = UI[lang]; const meta = LOCALES.meta[lang];
   const hrefl = alternates.map((a) => `<link rel="alternate" hreflang="${LOCALES.meta[a.lang].html}" href="${abs(a.url)}">`).join('\n  ');
   const xdef = alternates.find((a) => a.lang === LOCALES.default);
@@ -198,7 +231,10 @@ function layout({ lang, title, desc, url, alternates, bodyHtml, jsonld, ogImage,
   <meta property="og:description" content="${attr(desc)}">
   <meta property="og:url" content="${abs(url)}">
   <meta property="og:locale" content="${meta.html.replace('-', '_')}">
-  ${ogImage ? `<meta property="og:image" content="${attr(ogImage)}">` : ''}
+  ${ogImage ? `<meta property="og:image" content="${attr(ogImage)}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">${ogImageAlt ? `
+  <meta property="og:image:alt" content="${attr(ogImageAlt)}">` : ''}` : ''}
   <meta name="twitter:card" content="${ogImage ? 'summary_large_image' : 'summary'}">
   <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -237,10 +273,13 @@ ${bodyHtml}
 const placeholderSvg = '<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2"><ellipse cx="32" cy="32" rx="22" ry="12" transform="rotate(-25 32 32)"/><circle cx="24" cy="30" r="2.5" fill="currentColor"/><circle cx="34" cy="35" r="2.5" fill="currentColor"/><circle cx="41" cy="28" r="2" fill="currentColor"/></svg>';
 function card(lang, c, doc) {
   const t = UI[lang]; const fm = doc.fm;
-  const img = fm.images?.preview
-    ? `<img src="${attr(fm.images.preview)}" alt="${attr(fm.images.previewAlt || fm.title)}" width="720" height="480" loading="lazy">`
+  const cardSrc = fm.images?.card || fm.images?.preview;
+  const cardAlt = fm.images?.card ? (fm.images.cardAlt || fm.title) : (fm.images?.previewAlt || fm.title);
+  const img = cardSrc
+    ? `<img src="${attr(cardSrc)}"${srcsetFor(cardSrc, 720, 1440)} sizes="(max-width: 640px) 100vw, 380px" alt="${attr(cardAlt)}" width="720" height="480" loading="lazy">`
     : `<div class="card-cover card-cover--empty" aria-hidden="true">${placeholderSvg}</div>`;
-  const cover = fm.images?.preview ? `<div class="card-cover">${img}</div>` : img;
+  /* a worded frame is never scaled on hover — resampled baked type reads as a focus error */
+  const cover = cardSrc ? `<div class="card-cover${fm.images?.card ? ' card-cover--worded' : ''}">${img}</div>` : img;
   const kicker = fm.kicker || t.topicNames[fm.topic] || '';
   const date = fm.date ? `<span>${esc(t.published)}: <time datetime="${fm.date}">${fm.date}</time></span>` : '';
   return `<a class="card" href="${pageUrl(lang, c.type, c.slug)}">${cover}<div class="card__b"><div class="kicker">${esc(kicker)}</div><h3>${nbspNumbers(esc(fm.title))}</h3><p>${nbspNumbers(esc(fm.meta || fm.answer || ''))}</p><div class="card__meta">${date}</div></div></a>`;
@@ -250,10 +289,19 @@ function card(lang, c, doc) {
 function articlePage(lang, c, doc, alternates, clusters) {
   const t = UI[lang]; const fm = doc.fm; const url = pageUrl(lang, c.type, c.slug);
   const sources = fm.sources || [];
-  const body = renderBody(doc.body, sources, lang);
   const kicker = fm.kicker || t.topicNames[fm.topic] || '';
-  const hero = fm.images?.hero
-    ? `<figure class="article-hero"><img src="${attr(fm.images.hero)}" srcset="${attr(fm.images.hero)} 1200w, ${attr(fm.images.hero.replace(/-hero\.webp$/, '-hero@2x.webp'))} 2400w" sizes="(max-width: 860px) 100vw, 860px" alt="${attr(fm.images.heroAlt || fm.title)}" width="1200" height="675" fetchpriority="high"><figcaption>${esc(fm.images.heroAlt || '')}</figcaption></figure>` : '';
+  /* the article lead is the character card — the words are already in the frame, so it carries no caption */
+  const leadSrc = fm.images?.card || fm.images?.preview;
+  const lead = leadSrc
+    ? `<figure class="article-card"><img src="${attr(leadSrc)}"${srcsetFor(leadSrc, 720, 1440)} sizes="(max-width: 860px) 100vw, 860px" alt="${attr(fm.images?.card ? (fm.images.cardAlt || fm.title) : (fm.images?.previewAlt || fm.title))}" width="720" height="480" fetchpriority="high"></figure>` : '';
+  /* the two built frames moved into the body (Owner 2026-09-16) */
+  const worldSrc = fm.images?.card ? fm.images?.preview : '';
+  const plateSrc = fm.images?.plate || fm.images?.hero;
+  const figs = {
+    world: worldSrc ? `<figure class="figfig figworld"><img src="${attr(worldSrc)}"${srcsetFor(worldSrc, 720, 1440)} sizes="(max-width: 860px) 100vw, 700px" alt="${attr(fm.images.previewAlt || fm.title)}" width="720" height="480" loading="lazy" decoding="async"></figure>` : '',
+    plate: plateSrc ? `<figure class="figfig figplate figplate--${fm.images?.plate ? 'band' : 'frame'}"><img src="${attr(plateSrc)}"${srcsetFor(plateSrc, 1200, 2400)} sizes="(max-width: 860px) 100vw, 700px" alt="${attr(fm.images.heroAlt || fm.title)}" width="1200" height="${fm.images?.plate ? 900 : 675}" loading="lazy" decoding="async">${fm.images?.plate ? '' : `<figcaption>${esc(fm.images.heroAlt || '')}</figcaption>`}</figure>` : '',
+  };
+  const body = renderBody(doc.body, sources, lang, figs);
   const facts = (fm.keyFacts || []).length
     ? `<section class="facts"><h2>${esc(t.keyFacts)}</h2><ul>${fm.keyFacts.map((k) => `<li>${nbspNumbers(esc(k.fact))}${k.source ? `<sup><a href="#${k.source}">${sources.findIndex((s) => s.id === k.source) + 1}</a></sup>` : ''}</li>`).join('')}</ul></section>` : '';
   const faq = (fm.faq || []).length
@@ -274,14 +322,14 @@ function articlePage(lang, c, doc, alternates, clusters) {
   <header>${breadcrumb}<div class="kicker">${esc(kicker)}</div><h1 class="h1">${nbspNumbers(esc(fm.title))}</h1>
   ${fm.answer ? `<p class="answer">${nbspNumbers(esc(fm.answer))}</p>` : ''}
   <div class="byline"><img src="${AUTHOR.avatar}" alt="" width="40" height="40"><span><strong>${esc(t.author)}: ${AUTHOR.name}</strong> · ${esc(t.authorRole)}</span><span>${esc(t.published)}: <time datetime="${fm.date}">${fm.date}</time></span>${fm.asOf ? `<span>${esc(t.asOf)}: <time datetime="${fm.asOf}">${fm.asOf}</time></span>` : ''}</div></header>
-  ${hero}
+  ${lead}
   ${entity}
   <div class="prose">${body}</div>
   ${facts}${faq}${srcList}${rail}
 </div></article>`;
 
   const absImg = (u) => (u && u.startsWith('/') ? abs(u) : u);
-  const images = [fm.images?.preview, fm.images?.hero].filter(Boolean).map(absImg);
+  const images = [fm.images?.card, fm.images?.preview, fm.images?.plate || fm.images?.hero].filter(Boolean).map(absImg);
   const ld = [{
     '@context': 'https://schema.org', '@type': c.type === 'news' ? 'NewsArticle' : 'Article',
     '@id': abs(url), headline: fm.title.slice(0, 110), description: fm.meta, inLanguage: LOCALES.meta[lang].html,
@@ -296,9 +344,9 @@ function articlePage(lang, c, doc, alternates, clusters) {
     itemListElement: [...crumbs, [fm.title, url]].map(([n, u], i) => ({ '@type': 'ListItem', position: i + 1, name: n, item: abs(u) })),
   }];
   if ((fm.faq || []).length) ld.push({ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: fm.faq.map((q) => ({ '@type': 'Question', name: q.q, acceptedAnswer: { '@type': 'Answer', text: q.a } })) });
-  const ogImage = absImg(fm.images?.og || fm.images?.preview || '');
+  const ogImage = absImg(fm.images?.og || fm.images?.card || fm.images?.preview || '');
   const titleTag = fm.entity?.latin && !fm.title.includes(fm.entity.latin) ? `${fm.title} · ${BRAND}` : `${fm.title} · ${BRAND}`;
-  return layout({ lang, title: titleTag, desc: fm.meta || fm.answer || '', url, alternates, bodyHtml, jsonld: ld, ogImage, current: c.type === 'hubs' ? 'topics' : c.type, type: c.type, dateMod: fm.asOf || fm.date });
+  return layout({ lang, title: titleTag, desc: fm.meta || fm.answer || '', url, alternates, bodyHtml, jsonld: ld, ogImage, ogImageAlt: fm.images?.cardAlt || fm.images?.previewAlt || '', current: c.type === 'hubs' ? 'topics' : c.type, type: c.type, dateMod: fm.asOf || fm.date });
 }
 
 /* ---------- list / home / about ---------- */
@@ -315,7 +363,7 @@ function listPage(lang, type, clusters, alternates) {
   } else if (type === 'bacteria') {
     const byRank = { phylum: [], genus: [], species: [] };
     for (const c of items) (byRank[c.langs[lang].fm.entity?.rank] || byRank.species).push(c);
-    inner = ['phylum', 'genus', 'species'].map((r) => byRank[r].length ? `<section class="section--tight"><h2 class="h2">${esc(t[r])}</h2>${byRank[r].map((c) => { const fm = c.langs[lang].fm; return `<div class="index-row"><div class="thumb">${fm.images?.preview ? `<img src="${attr(fm.images.preview)}" alt="" width="360" height="240" loading="lazy">` : ''}</div><div><h3><a href="${pageUrl(lang, 'bacteria', c.slug)}"><em>${esc(fm.entity?.latin || fm.title)}</em></a></h3><p>${nbspNumbers(esc(fm.meta || fm.answer || ''))}</p></div></div>`; }).join('')}</section>` : '').join('');
+    inner = ['phylum', 'genus', 'species'].map((r) => byRank[r].length ? `<section class="section--tight"><h2 class="h2">${esc(t[r])}</h2>${byRank[r].map((c) => { const fm = c.langs[lang].fm; return `<div class="index-row"><div class="thumb">${fm.images?.preview ? `<img src="${attr(hasAsset(fm.images.preview.replace(/-preview\.webp$/, '-thumb.webp')) ? fm.images.preview.replace(/-preview\.webp$/, '-thumb.webp') : fm.images.preview)}" alt="" width="360" height="240" loading="lazy">` : ''}</div><div><h3><a href="${pageUrl(lang, 'bacteria', c.slug)}"><em>${esc(fm.entity?.latin || fm.title)}</em></a></h3><p>${nbspNumbers(esc(fm.meta || fm.answer || ''))}</p></div></div>`; }).join('')}</section>` : '').join('');
   } else {
     inner = items.length ? `<div class="grid g3">${items.map((c) => card(lang, c, c.langs[lang])).join('')}</div>` : `<p class="notice">${esc(t.preparing)} <a href="${typeUrl('en', type)}">English →</a></p>`;
   }
@@ -334,9 +382,11 @@ function homePage(lang, clusters, alternates) {
   // not a decoration (Marika: one image filling the same space as the text half). The cell is not 16:9
   // (it stretches to the text on desktop, 3:2 on phone), so it takes the 3:2 preview master, never a crop
   // of the 16:9 infographic hero (Marika 2026-09-16, BRAND_IMAGE_SPEC §1).
+  // The character card is never used here: this cell is not 3:2 on desktop, so object-fit would cut
+  // the baked question, and .hero__cap would print the title over it. The text-free world stays (Marika 2026-09-16).
   const lead = [...news, ...bact].find((c) => c.langs[lang].fm.images?.preview);
   const heroArt = lead
-    ? (() => { const f = lead.langs[lang].fm; const p2 = f.images.preview.replace(/-preview\.webp$/, '-preview@2x.webp'); return `<a class="hero__art" href="${pageUrl(lang, lead.type, lead.slug)}"><img src="${attr(p2)}" srcset="${attr(f.images.preview)} 720w, ${attr(p2)} 1440w" sizes="(max-width: 860px) 100vw, 50vw" alt="${attr(f.images.previewAlt || f.title)}" width="1440" height="960" fetchpriority="high"><span class="hero__cap"><span class="kicker">${esc(f.kicker || t.topicNames[f.topic] || t.latestNews)}</span><span class="hero__capttl">${nbspNumbers(esc(f.title))}</span></span></a>`; })()
+    ? (() => { const f = lead.langs[lang].fm; const p2 = at2x(f.images.preview); return `<a class="hero__art" href="${pageUrl(lang, lead.type, lead.slug)}"><img src="${attr(hasAsset(p2) ? p2 : f.images.preview)}"${srcsetFor(f.images.preview, 720, 1440)} sizes="(max-width: 860px) 100vw, 50vw" alt="${attr(f.images.previewAlt || f.title)}" width="1440" height="960" fetchpriority="high"><span class="hero__cap"><span class="kicker">${esc(f.kicker || t.topicNames[f.topic] || t.latestNews)}</span><span class="hero__capttl">${nbspNumbers(esc(f.title))}</span></span></a>`; })()
     : '<div class="hero__art hero__art--empty" aria-hidden="true"></div>';
   const bodyHtml = `<section class="hero"><div class="hero__in"><div class="hero__text"><div class="kicker">${esc(t.siteName)}</div><h1>${esc(t.tagline)}</h1><p class="sub">${esc(t.aboutText)}</p><div class="hero__pills">${TOPICS.map((tp) => `<span class="pill">${esc(t.topicNames[tp])}</span>`).join('')}</div></div>${heroArt}</div></section>
 ${empty && lang !== 'en' ? `<section class="section"><div class="wrap"><p class="notice">${esc(t.preparing)} <a href="/">English →</a></p></div></section>` : ''}
