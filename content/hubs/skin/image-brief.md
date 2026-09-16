@@ -97,3 +97,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - vi card alt: "Ruột có hiện lên da? — một phụ nữ bên cửa sổ đầy nắng buổi sáng, các đầu ngón tay đặt hờ nơi quai hàm"
 - vi card question: "Ruột có hiện lên da?"
 - vi plate lines: "Đầu tiên — vi khuẩn ruột nhả ra phân tử · Sau đó — máu mang phân tử đi, không mang vi khuẩn · Kết quả — vi sinh vật của da đáp lời"
+
+- uk preview alt: "Ілюстрація: гроноподібні скупчення круглих бактерій на пласких клітинах поверхні шкіри й коралові короткі палички на краю пори"
+- uk hero alt: "Ілюстрація: кишкові бактерії лишаються на місці, поки лаймові молекули та імунні клітини зі слизової кишківника мандрують кров'ю до поверхні шкіри й до її власних мікробів"
+- uk card alt: "Чи видно кишківник на шкірі? — жінка вранці біля сонячного вікна, кінчики пальців лежать на щелепі"
+- uk card question: "Чи видно кишківник на шкірі?"
+- uk plate lines: "Спершу — кишкові бактерії виділяють молекули · Потім — кров несе молекули, а не бактерій · Підсумок — власні мікроби шкіри відповідають"

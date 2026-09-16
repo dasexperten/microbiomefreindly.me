@@ -96,3 +96,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - vi card alt: "Vi khuẩn đổi tâm trạng? — một phụ nữ đứng bên cửa sổ phòng khách lúc chạng vạng, một tay đặt lên cổ"
 - vi card question: "Vi khuẩn đổi tâm trạng?"
 - vi plate lines: "Đầu tiên — vi khuẩn ruột nhả ra phân tử · Sau đó — tế bào ruột nhận ra và báo tin · Kết quả — dây thần kinh mang đi, chúng ở lại"
+
+- uk preview alt: "Ілюстрація: сітка скупчень нервових клітин, з'єднаних пучками волокон, на м'язовій стінці кишківника; одне скупчення має лаймовий відтінок"
+- uk hero alt: "Ілюстрація: кишкові бактерії виділяють дрібні молекули, гормональна клітина слизової кишківника їх вловлює, і золотий сигнал біжить нервом у бік мозку"
+- uk card alt: "Бактерії впливають на настрій? — жінка стоїть біля вікна вітальні в сутінках, долоня на потилиці"
+- uk card question: "Бактерії впливають на настрій?"
+- uk plate lines: "Спершу — мікроби кишківника виділяють молекули · Потім — клітина стінки їх вловлює й подає сигнал · Підсумок — нерв несе його, а вони лишаються"

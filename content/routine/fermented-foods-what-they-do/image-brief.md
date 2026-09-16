@@ -125,3 +125,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - vi card alt: "Đồ lên men có tác dụng? — một người đàn ông ăn bát kefir ở chiếc bàn nhỏ trên ban công buổi chiều"
 - vi card question: "Đồ lên men có tác dụng?"
 - vi plate lines: "Đầu tiên — tế bào sống theo thức ăn vào · Sau đó — chúng đi qua, ít kẻ ở lại · Kết quả — 19 protein viêm giảm xuống"
+
+- uk preview alt: "Ілюстрація: ланцюжки круглих клітин, довгі палички й великі дріжджі, що брунькуються, серед дрібних бульбашок у живому ферменті"
+- uk hero alt: "Ілюстрація: бактерії з живого ферменту пливуть над слизовою кишківника; з двадцяти одна займає місце, кислоти просочуються у слиз, і місцеві бактерії стають різноманітнішими"
+- uk card alt: "Чи справді діє ферментована їжа? — чоловік їсть миску кефіру за столиком на балконі пополудні"
+- uk card question: "Чи справді діє ферментована їжа?"
+- uk plate lines: "Спершу — живі клітини приходять з їжею · Потім — вони проходять наскрізь, лишаються одиниці · Підсумок — 19 запальних білків упали"

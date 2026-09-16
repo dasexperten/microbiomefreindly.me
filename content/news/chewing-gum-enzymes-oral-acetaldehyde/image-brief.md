@@ -139,3 +139,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - vi card alt: "Đường có gây ung thư miệng? — một phụ nữ trên ban công lúc đêm khuya, đang nhai, tay cầm ly rượu vang"
 - vi card question: "Đường có gây ung thư miệng?"
 - vi plate lines: "Đầu tiên — đường và rượu tới mảng bám · Sau đó — vi sinh vật tạo chất gây ung thư · Kết quả — peptide diệt 91,37 %, không phải tất cả"
+
+- ar preview alt: "رسم توضيحي: سلاسل بكتيريا مستديرة وخمائر متبرعمة محبوسة في غشاء لزج فوق مينا شاحبة، وبقعة واحدة رقيقة مضاءة بلون ليموني"
+- ar hero alt: "رسم توضيحي: ميكروبات داخل قشرة لويحة على المينا تطلق أسيتالدهيد؛ الببتيد يُسكن معظمها، وثلاث خلايا محتمية تنجو حتى تذيب الإنزيمات القشرة"
+- ar card alt: "هل يسبب السكر سرطان الفم؟ — امرأة في شرفتها في وقت متأخر من الليل، تمضغ، وفي يدها كأس نبيذ"
+- ar card question: "هل يسبب السكر سرطان الفم؟"
+- ar plate lines: "أولاً — السكر والكحول يبلغان اللويحة · ثم — الميكروبات تصنع مسرطناً · النتيجة — الببتيد قتل 91.37 % لا الكل"

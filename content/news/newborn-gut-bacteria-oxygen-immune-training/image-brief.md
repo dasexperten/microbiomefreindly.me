@@ -164,3 +164,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - vi card alt: "Ruột sơ sinh có khí không? — một người mẹ mới sinh ngả lưng vào ghế bên cửa sổ trong ánh sáng đầu ngày"
 - vi card question: "Ruột sơ sinh có khí không?"
 - vi plate lines: "Đầu tiên — khí còn vương trong một cái ruột mới · Sau đó — một chất béo bịt kín vách vi khuẩn · Kết quả — chính chất béo ấy dạy tế bào miễn dịch"
+
+- ar preview alt: "رسم توضيحي: عصيات قصيرة من Bacteroides fragilis مضاءة من الخلف على سطح أمعاء فتيّة، وحافة غشاء محكمة تلمع بلون ليموني"
+- ar hero alt: "رسم توضيحي: عصية قصيرة تمسك حافة غشائها المحكمة بينما تمرّ ذرات هواء، والدهن الغشائي نفسه يُسلَّم إلى خلية مناعية فتيّة تنمو بقراءته"
+- ar card alt: "هل أمعاء الوليد بلا هواء؟ — أم جديدة تستند إلى ظهر الكرسي عند النافذة في أول الضوء"
+- ar card question: "هل أمعاء الوليد بلا هواء؟"
+- ar plate lines: "أولاً — الهواء ما زال باقياً في أمعاء جديدة · ثم — دهن واحد يحكم غلق جدار الميكروب · النتيجة — الدهن نفسه يعلّم خلايا المناعة"

@@ -154,3 +154,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - vi card alt: "Kẻ ăn chất nhầy có tốt? — một phụ nữ chọn rau lá xanh trong khu chợ có mái vào sáng thứ Bảy"
 - vi card question: "Kẻ ăn chất nhầy có tốt?"
 - vi plate lines: "Đầu tiên — nó gặm lớp chất nhầy của ruột · Sau đó — niêm mạc được nuôi và tiết thêm · Kết quả — thiếu chất xơ thì lớp áo mỏng đi"
+
+- ar preview alt: "رسم توضيحي: بكتيريا بيضوية ترقد بين خيوط مخاط ممدودة فوق بطانة الأمعاء، وخيط واحد يتهتّك حيث تتغذى خلية"
+- ar hero alt: "رسم توضيحي: بكتيريا بيضوية ترعى طبقة المخاط فوق بطانة القولون، والبطانة تمتص وقوداً ذهبياً وتصنع مخاطاً جديداً؛ وإلى اليمين أكثر، بكتيريا متزاحمة تُبلي الطبقة حتى تصير غلالة رقيقة"
+- ar card alt: "هل آكل المخاط نافع؟ — امرأة تنتقي خضاراً ورقية في سوق مسقوفة صباح السبت"
+- ar card question: "هل آكل المخاط نافع؟"
+- ar plate lines: "أولاً — يرعى طبقة مخاط الأمعاء · ثم — البطانة تتغذى وتصنع المزيد · النتيجة — بلا ألياف ترقّ الطبقة"

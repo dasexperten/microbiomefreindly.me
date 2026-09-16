@@ -135,3 +135,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - vi card alt: "Sao cô ấy được, bạn không? — một người đàn ông ngồi đợi trên ghế tiệm giặt trong ánh sáng phẳng giữa buổi sáng"
 - vi card question: "Sao cô ấy được, bạn không?"
 - vi plate lines: "Đầu tiên — cùng những tế bào chết, hai cái ruột · Sau đó — ruột đông đúc không còn chỗ · Kết quả — chỉ cái ruột thưa mới đổi"
+
+- ar preview alt: "رسم توضيحي: بضع خلايا عصوية ساكنة مقتولة بالحرارة ترقد في فجوات مفتوحة من مجتمع أمعاء متناثر بين شظايا ألياف"
+- ar hero alt: "رسم توضيحي: الخلايا العصوية الميتة نفسها ترقد بلا استعمال فوق مجتمع أمعاء مزدحم، لكنها تستقر في فجوات مفتوحة من مجتمع متناثر، حيث يظهر سكان جدد وقطيرات صغيرة"
+- ar card alt: "لماذا نجحت معها لا معك؟ — رجل ينتظر على مقعد مغسلة ملابس في ضوء مسطّح قبيل الظهر"
+- ar card question: "لماذا نجحت معها لا معك؟"
+- ar plate lines: "أولاً — الخلايا الميتة نفسها، وأمعاء اثنتان · ثم — الأمعاء المزدحمة لا مكان فيها · النتيجة — وحدها الأمعاء المتناثرة تغيّرت"

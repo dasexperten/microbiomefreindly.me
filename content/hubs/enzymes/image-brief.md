@@ -95,3 +95,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - vi card alt: "Enzyme có diệt vi khuẩn? — một phụ nữ cắt dứa và đu đủ trên bàn ăn dưới nắng cuối buổi sáng"
 - vi card question: "Enzyme có diệt vi khuẩn?"
 - vi plate lines: "Đầu tiên — mạng đường giữ chặt mảng bám · Sau đó — enzyme cắt một mắt xích · Kết quả — mạng rã ra, tế bào vẫn sống"
+
+- uk preview alt: "Ілюстрація: згорнутий білок-фермент тримає цукровий ланцюг у своїй борозні й перетинає одну ланку, позначену кораловим, у теплому контровому світлі"
+- uk hero alt: "Ілюстрація: ланцюжки круглих бактерій у сітці з цукрових ланцюгів; ферменти перетинають ланцюги в лаймових точках, і звільнені бактерії відпливають цілими"
+- uk card alt: "Чи вбивають ферменти бактерій? — жінка ріже ананас і папаю за обіднім столом у пізньому ранковому сонці"
+- uk card question: "Чи вбивають ферменти бактерій?"
+- uk plate lines: "Спершу — цукрова сітка тримає наліт · Потім — фермент перетинає одну ланку · Підсумок — сітка падає, клітини живі"

@@ -95,3 +95,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - vi card alt: "Covid kéo dài đến từ ruột? — một phụ nữ dừng giữa chừng việc giặt giũ và ngồi xuống mép giường"
 - vi card question: "Covid kéo dài đến từ ruột?"
 - vi plate lines: "Đầu tiên — một chiếc roi vi khuẩn gãy rời · Sau đó — tế bào miễn dịch đọc nó như báo động · Kết quả — mô ở xa ruột phát viêm"
+
+- ar preview alt: "رسم توضيحي: بكتيريا أمعاء نحيلة بذيول حلزونية طويلة في مخاط منجرف، وذيل واحد منسلخ يطفو في بقعة ضوء ذهبي"
+- ar hero alt: "رسم توضيحي: شظية ذيل بكتيري منسلخة تغادر الأمعاء، وعدلة تنشر شبكة وتشير إلى بلعم، ونسيج بعيد يغلظ بالألياف"
+- ar card alt: "هل يبدأ كوفيد من الأمعاء؟ — امرأة تتوقف في منتصف غسيل الملابس وتجلس على حافة السرير"
+- ar card question: "هل يبدأ كوفيد من الأمعاء؟"
+- ar plate lines: "أولاً — ذيل بكتيري ينكسر · ثم — خلايا المناعة تقرؤه إنذاراً · النتيجة — نسيج بعيد عن الأمعاء يلتهب"

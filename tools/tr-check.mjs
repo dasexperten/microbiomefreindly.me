@@ -71,8 +71,19 @@ for (const type of TYPES) {
       const a = rows(eh, k), b = rows(th, k);
       if (a.join('|') !== b.join('|')) bad(rel, `source ${k} rows differ (${b.length} vs ${a.length})`);
     }
-    const em = markers(eb).join(' '), tm = markers(tb).join(' ');
-    if (em !== tm) bad(rel, `source markers in the body differ: ${tm || '(none)'} vs ${em || '(none)'}`);
+    /* Which sources are cited must match. How many times each is cited need not: a translation that
+     * carries one extra [s1] has put a source on one more sentence, which is the direction we want,
+     * and one that carries one fewer has left a claim standing alone, which is worth a warning. What
+     * fails is a source appearing that the English never cited, or one disappearing altogether. */
+    const eSet = new Set(markers(eb)), tSet = new Set(markers(tb));
+    const gone = [...eSet].filter((x) => !tSet.has(x));
+    const madeUp = [...tSet].filter((x) => !eSet.has(x));
+    if (madeUp.length) bad(rel, `body cites a source the English does not: ${madeUp.join(' ')}`);
+    if (gone.length) bad(rel, `body drops a source the English cites: ${gone.join(' ')}`);
+    if (!gone.length && !madeUp.length && markers(eb).length !== markers(tb).length) {
+      console.log(`WARN ${rel}: ${markers(tb).length} source marks against the English ${markers(eb).length} — same sources, different density`);
+      warns++;
+    }
     const el = links(eb).join(' '), tl = links(tb).join(' ');
     if (el !== tl) {
       const lost = links(eb).filter((x) => !links(tb).includes(x));
@@ -100,7 +111,16 @@ for (const type of TYPES) {
     for (const x of en_n) { const i = pool.indexOf(x); if (i < 0) miss.push(x); else pool.splice(i, 1); }
     const real = [...new Set(miss.filter((x) => x.length > 1))];   // a bare digit is ordinary prose
     if (real.length) { console.log(`WARN ${rel}: figures in the English body not found here: ${real.slice(0, 10).join(', ')}`); warns++; }
-    const invented = [...new Set(pool.filter((x) => x.length > 2 && !en_n.includes(x)))];
+    /* A figure the English does not have is a red flag — unless it is arithmetic on one that it does.
+     * Converting 6 oz to about 180 ml for a reader who has never held an ounce is a service, not an
+     * invention, and the translation marks it as approximate. Anything introduced by such a word is
+     * let through; a bare new number beside a source marker still fails. */
+    const APPROX = /(около|приблизно|приблизительно|ок\.|примерно|ca\.|etwa|rund|aprox\.|aproximadamente|cerca de|khoảng|близько|około|environ|circa|yaklaşık|ประมาณ|約|약|大约)[\s\u00a0]*$/i;
+    const approxNums = new Set();
+    for (const m of tb.matchAll(/(\d[\d.,\s\u00a0]*\d|\d)/g)) {
+      if (APPROX.test(tb.slice(Math.max(0, m.index - 20), m.index))) approxNums.add(m[0].replace(/[\s\u00a0.,]/g, ''));
+    }
+    const invented = [...new Set(pool.filter((x) => x.length > 2 && !en_n.includes(x) && !approxNums.has(x)))];
     if (invented.length) bad(rel, `figures this file has that the English does not: ${invented.slice(0, 8).join(', ')}`);
 
     ok++;

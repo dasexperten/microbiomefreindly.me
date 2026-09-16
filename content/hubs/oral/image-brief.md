@@ -95,3 +95,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - vi card alt: "Mảng bám từ đâu ra? — một phụ nữ cúi trên bồn rửa trong ánh sáng sớm lành lạnh, vừa súc miệng xong"
 - vi card question: "Mảng bám từ đâu ra?"
 - vi plate lines: "Đầu tiên — vi khuẩn bám vào men răng · Sau đó — đường nuôi đám sinh axit · Kết quả — men răng bên dưới mềm đi"
+
+- uk preview alt: "Ілюстрація: молодий горбок круглих бактерій у коротких ланцюжках на зубній емалі, загорнутий у блискучий цукровий гель із золотим обідком"
+- uk hero alt: "Ілюстрація: до горбка нальоту на зубній емалі знову й знову надходить цукор, гору беруть круглі бактерії, що виробляють кислоту, і коралова кислотна імла розм'якшує емаль під ними"
+- uk card alt: "Звідки береться зубний наліт? — жінка нахилилася над умивальником у прохолодному ранковому світлі"
+- uk card question: "Звідки береться зубний наліт?"
+- uk plate lines: "Спершу — бактерії чіпляються до емалі · Потім — цукор годує тих, хто робить кислоту · Підсумок — емаль під ними м'якшає"

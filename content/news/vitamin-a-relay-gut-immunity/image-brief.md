@@ -114,3 +114,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - vi card alt: "Ai mang vitamin tới đó? — một phụ nữ thái cà rốt trên mặt bếp dưới ngọn đèn buổi tối"
 - vi card question: "Ai mang vitamin tới đó?"
 - vi plate lines: "Đầu tiên — vi khuẩn ruột đánh thức niêm mạc · Sau đó — protein vận chuyển nhận retinol · Kết quả — dưới 2 % tới được tế bào miễn dịch"
+
+- uk preview alt: "Ілюстрація: сегментовані бактерійні нитки, укорінені кінчиками в м'якій складці слизової кишківника, маленький золотий зблиск там, де одна входить"
+- uk hero alt: "Ілюстрація: сегментовані бактерії, укорінені в слизовій кишківника, у клітинах якої золоті краплини вітаміну А; одна краплина переходить до гіллястої імунної клітини і далі до T-клітин"
+- uk card alt: "Хто несе туди вітамін? — жінка ріже моркву на кухонній стільниці під вечірньою лампою"
+- uk card question: "Хто несе туди вітамін?"
+- uk plate lines: "Спочатку — кишкові бактерії будять слизову · Потім — білки-носії підхоплюють ретинол · Підсумок — до імунних клітин доходить менш як 2 %"

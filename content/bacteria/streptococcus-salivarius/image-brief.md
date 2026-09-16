@@ -148,3 +148,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - vi card alt: "Vi khuẩn trên lưỡi có hại? — một phụ nữ ngồi với tách trà trên ban công vào buổi sáng"
 - vi card question: "Vi khuẩn trên lưỡi có hại?"
 - vi plate lines: "Đầu tiên — trên lưỡi từ lúc mới sinh · Sau đó — nó nhả ra kháng sinh của chính mình · Kết quả — đối thủ khựng lại ở rìa"
+
+- ar preview alt: "رسم توضيحي: سلاسل كالخرز من بكتيريا مستديرة ترقد في غشاء رطب بين تلال طرية، وهالة مرجانية خفيفة حول إحدى السلاسل"
+- ar hero alt: "رسم توضيحي: سلاسل من بكتيريا مستديرة تستقر في غشاء رطب على تلال طرية وتطلق جسيمات ذهبية دقيقة؛ والسلاسل المنافسة القادمة ترتخي عند حافة رقعتها"
+- ar card alt: "هل ميكروب اللسان آمن؟ — امرأة تجلس مع فنجان شاي في شرفتها صباحاً"
+- ar card question: "هل ميكروب اللسان آمن؟"
+- ar plate lines: "أولاً — على اللسان منذ الولادة · ثم — تطلق مضاداتها الحيوية · النتيجة — المنافسون يتعثرون عند حافتها"

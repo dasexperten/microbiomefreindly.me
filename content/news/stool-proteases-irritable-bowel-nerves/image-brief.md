@@ -164,3 +164,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - vi card alt: "Cơn đau này có thật không? — một phụ nữ dừng lại giữa hành lang văn phòng, cẳng tay ép ngang bụng"
 - vi card question: "Cơn đau này có thật không?"
 - vi plate lines: "Đầu tiên — dịch phân chạm thành ruột · Sau đó — enzyme cắt một thụ thể thần kinh · Kết quả — mạng thần kinh phóng điện mạnh hơn hẳn"
+
+- uk preview alt: "Ілюстрація: мереживо нервових вузликів світиться крізь тонку тканину кишки, на неї осідає прозора бурштинова плівка, кілька вузликів світяться кораловим"
+- uk hero alt: "Ілюстрація: тонка бурштинова плівка рідини осідає на слизовій кишки; фермент надрізає рецептор на нервовій клітині, вона спалахує і будить вузлики нервової сітки навколо"
+- uk card alt: "Це справді фізичний біль? — жінка спиняється в офісному коридорі, передпліччя притиснуте до живота"
+- uk card question: "Це справді фізичний біль?"
+- uk plate lines: "Спочатку — калова рідина торкається стінки кишки · Потім — фермент надрізає нервовий рецептор · Підсумок — нервова сітка збуджується набагато сильніше"

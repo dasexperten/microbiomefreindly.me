@@ -108,3 +108,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - vi card alt: "Ruột tôi dựng lại được không? — một phụ nữ ngồi bên bàn bếp lúc đêm muộn, đợt thuốc đã xong"
 - vi card question: "Ruột tôi dựng lại được không?"
 - vi plate lines: "Đầu tiên — kháng sinh quét sạch · Sau đó — đầy lại trong sáu tuần · Kết quả — 9 loài vẫn còn thiếu"
+
+- uk preview alt: "Ілюстрація: роздвоєні клітини біфідобактерій відростають у пухкому кишковому слизу поруч із порожньою западиною, де колись стояли клітини"
+- uk hero alt: "Ілюстрація: спільнота кишкових бактерій у три моменти: густа, майже оголена антибіотиками, а тоді знову густа — але дев'ять місць лишилися порожніми"
+- uk card alt: "Чи відновлю я кишківник? — жінка за кухонним столом пізно ввечері, курс закінчено"
+- uk card question: "Чи відновлю я кишківник?"
+- uk plate lines: "Спочатку — антибіотики оголюють його · Потім — за шість тижнів він знову повний · Підсумок — 9 видів досі немає"

@@ -115,3 +115,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - vi card alt: "Lưỡi có rêu là xấu không? — một phụ nữ soi gương nhà tắm lúc trời vừa sáng, nhìn cái lưỡi của mình"
 - vi card question: "Lưỡi có rêu là xấu không?"
 - vi plate lines: "Đầu tiên — tế bào bong lấp đầy các rãnh · Sau đó — vi khuẩn thiếu khí tạo ra mùi · Kết quả — rêu mỏng ở 90,7 %"
+
+- uk preview alt: "Ілюстрація: лусочки злущених поверхневих клітин із крихітними ланцюжками бактерій, осілі у вузькій долині між сосочками язика"
+- uk hero alt: "Ілюстрація: ряд сосочків язика з лусочками й бактеріями в долинах між ними — тонко у дев'яти долинах і густіше в одній, угору здіймається ледь помітний газ"
+- uk card alt: "Чи поганий наліт на язиці? — жінка біля дзеркала у ванній на світанку дивиться на власний язик"
+- uk card question: "Чи поганий наліт на язиці?"
+- uk plate lines: "Спочатку — злущені клітини заповнюють борозенки · Потім — безкисневі бактерії роблять запах · Підсумок — тонкий наліт у 90,7 %"

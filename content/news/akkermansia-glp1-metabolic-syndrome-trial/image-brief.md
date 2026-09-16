@@ -119,3 +119,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - vi card alt: "Thử nghiệm đã thất bại? — một người đàn ông ngoài bốn mươi đợi một mình ở trạm xe buýt trong ánh sáng lạnh sớm mai"
 - vi card question: "Thử nghiệm đã thất bại?"
 - vi plate lines: "Đầu tiên — tế bào chết lắng vào lớp nhầy · Sau đó — một tế bào ruột nhả ra GLP-1 · Kết quả — 30 tỷ tế bào, không gì dịch chuyển"
+
+- ar preview alt: "رسم توضيحي: خلايا Akkermansia بيضوية كاملة ساكنة ترقد في تجاويف مرعية من مخاط الأمعاء، وتحتها لمعة مرجانية من البطانة"
+- ar hero alt: "رسم توضيحي: انجراف كثيف من خلايا Akkermansia البيضوية المقتولة بالحرارة في مخاط الأمعاء؛ خلية هرمونية واحدة في البطانة تطلق ومضة ذهبية بينما يبقى النسيج خلفها كما هو"
+- ar card alt: "هل فشلت هذه التجربة؟ — رجل في الأربعينيات ينتظر وحده عند موقف حافلات في ضوء بارد مبكر"
+- ar card question: "هل فشلت هذه التجربة؟"
+- ar plate lines: "أولاً — خلايا ميتة تستقر في المخاط · ثم — خلية معوية تطلق GLP-1 · النتيجة — 30 مليار خلية، ولا شيء تحرّك"

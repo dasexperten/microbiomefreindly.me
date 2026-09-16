@@ -132,3 +132,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - vi card alt: "Ba ngày đủ để làm lại? — một phụ nữ bên cửa sổ phòng khách trong ánh chiều muộn, khoanh tay"
 - vi card question: "Ba ngày đủ để làm lại?"
 - vi plate lines: "Đầu tiên — thức ăn đổi hỗn hợp trong một ngày · Sau đó — hai ngày sau nó trượt về cũ · Kết quả — 60 % số chủng ở lại nhiều năm"
+
+- uk preview alt: "Ілюстрація: пухкі паличкоподібні кишкові бактерії і пари дрібних круглих клітин осіли на уламку рослинного волокна"
+- uk hero alt: "Ілюстрація: два ряди по десять груп кишкових бактерій у слизу, куди припливає їжа; у пізнішому ряду шість груп незмінні, а чотири замінили новачки"
+- uk card alt: "Невже три дні все змінять? — жінка біля вікна вітальні в пізньому світлі, руки схрещені"
+- uk card question: "Невже три дні все змінять?"
+- uk plate lines: "Спочатку — їжа зсуває суміш за день · Потім — через два дні вона сповзає назад · Підсумок — 60 % штамів лишаються роками"

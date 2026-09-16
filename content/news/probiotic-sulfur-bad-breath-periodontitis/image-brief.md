@@ -123,3 +123,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - vi card alt: "Hôi miệng thật ra do đâu? — một phụ nữ đứng trước cửa nhà mình, thở vào lòng bàn tay khum lại"
 - vi card question: "Hôi miệng thật ra do đâu?"
 - vi plate lines: "Đầu tiên — vi khuẩn miệng ăn protein · Sau đó — một enzyme cắt lưu huỳnh ra · Kết quả — gen đó giảm 98 %, trong đĩa"
+
+- uk preview alt: "Ілюстрація: веретеноподібні й короткі товсті бактерії в нальоті між округлими сосочками язика, догори піднімаються дрібні золоті бульбашки газу"
+- uk hero alt: "Ілюстрація: анаероби рота, повні ферментів, що ріжуть сірку, випускають дрібні бульбашки; їх омиває рідина від молочнокислих бактерій — і ферменти майже зникають"
+- uk card alt: "Від чого насправді запах з рота? — жінка біля власних вхідних дверей дихає в складену долоню"
+- uk card question: "Від чого насправді запах з рота?"
+- uk plate lines: "Спочатку — мікроби рота їдять білок · Потім — фермент зрізає сірку · Підсумок — цей ген упав на 98 %, у чашці"

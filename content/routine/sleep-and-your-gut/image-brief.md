@@ -133,3 +133,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - vi card alt: "Ngủ kém có hại ruột? — một phụ nữ ngồi ở mép giường lúc ba giờ sáng bên ngọn đèn mờ"
 - vi card question: "Ngủ kém có hại ruột?"
 - vi plate lines: "Đầu tiên — nhịp đều đặn, nhiều loại · Sau đó — nhịp trở nên rối · Kết quả — vẫn dày như thế, ít loại hơn"
+
+- uk preview alt: "Ілюстрація: чотири види кишкових бактерій поруч у блискучій плівці слизу під глибоким синім нічним світлом"
+- uk hero alt: "Ілюстрація: кишкові бактерії вздовж слизової рівною хвилею, яка стає рваною; натовп лишається так само густим, але складається з меншої кількості різних видів клітин"
+- uk card alt: "Чи шкодить поганий сон кишківнику? — жінка о третій ночі на краю ліжка біля приглушеної лампи"
+- uk card question: "Чи шкодить поганий сон кишківнику?"
+- uk plate lines: "Спершу — рівний ритм, багато видів · Потім — ритм стає рваним · Підсумок — так само густо, менше видів"
