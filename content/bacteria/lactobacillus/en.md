@@ -97,7 +97,7 @@ entity:
 images:
   card: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-card-en.webp"
   cardLine: "Does yogurt live in your gut?"
-  cardAlt: "Does yogurt live in your gut? — a woman eats plain yogurt at her kitchen counter in the first light"
+  cardAlt: "Does yogurt live in your gut? — a man eats plain yogurt at his kitchen counter in the first light"
   og: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-og-en.jpg"
   preview: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-preview.webp"
   previewAlt: "Illustration: short chains of rod-shaped Lactobacillus cells resting in a souring milk film, a faint gold haze around one chain"

@@ -23,7 +23,7 @@ A 12-week trial gave 120 overweight adults a heat-killed *Lactiplantibacillus pl
 
 *Lactiplantibacillus plantarum* (formerly *Lactobacillus plantarum*), strain LRCC5282 — but **heat-killed**, so dead cells, not a live culture. They arrive as a signal from outside into an existing gut community sitting on the mucus layer of the gut wall. The real subject of the picture is the **community it lands in**: a thin, sparse one with open room.
 
-**Card (person, Owner 2026-09-16):** **MissKosmoss** from `refs/characters/` (`MissKosmoss.jpg`, casting sheet 2026-09-16) · a woman in her forties, a bookkeeper · the bench of a self-service launderette on a side street. The age and the role are named here by the author, never by the engine.
+**Card (person, Owner 2026-09-16):** **JulianFarah** from `refs/characters/` (`JulianFarah.png`, casting sheet 2026-09-16) · a man in his thirties, a delivery driver · the bench of a self-service launderette on a side street. The age and the role are named here by the author, never by the engine.
 
 ## 4. Morphology, in words (truth)
 
@@ -41,9 +41,9 @@ Colour: ivory ground, residents in teal and green, the newcomer rods in navy, **
 
 Preview safe band: the settled rods sit in the middle of the frame so the og crop loses only air.
 
-- **Card scene (one line):** she waits out her wash on the launderette bench, coat folded across her knees, hands empty, watching the drum go round — a friend has just told her the same thing worked wonders for her.
+- **Card scene (one line):** he waits out his wash on the launderette bench, coat folded across his knees, hands empty, watching the drum go round — a friend has just told him the same thing worked wonders for her.
 - **Wardrobe and place:** plain 2026 clothing, no logos, no uniform — a plain cotton shirt, straight trousers, flat shoes; a small self-service launderette at 11:00, flat daylight coming in through the shopfront, neutral-cool, the room warm and humid.
-- **EMPTY FIELD (where the words will sit):** the right 45 % of the frame is the launderette's plain painted wall in flat daylight — one even surface, nothing crossing it: no notice, no price list, no machine door, no dial, no socket, no pipe. It runs from 0.11 to 0.89 of the height, wholly inside the middle horizontal band; the top and bottom 11 % of the frame stay air. She sits in the left third, head and shoulders inside that same band.
+- **EMPTY FIELD (where the words will sit):** the right 45 % of the frame is the launderette's plain painted wall in flat daylight — one even surface, nothing crossing it: no notice, no price list, no machine door, no dial, no socket, no pipe. It runs from 0.11 to 0.89 of the height, wholly inside the middle horizontal band; the top and bottom 11 % of the frame stay air. He sits in the left third, head and shoulders inside that same band.
 
 ## 6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16
 
@@ -72,7 +72,7 @@ None shown — clause dropped. Every figure in keyFacts is a change in kilograms
 - A body, belly, scale or intestine drawn as an anatomical organ cut-away.
 - A hero that is a wider crop of the preview.
 
-**Third frame (the person frame) — must not appear, Owner 2026-09-16.** A second person of any kind; any face other than the named REF; lab coat, scrubs, clinic, pharmacy counter, hospital, microscope; letters, numerals, signage, packaging text or a watermark anywhere in the pixels — on clothing, on a mug, on a wall, on a machine, in the background; any brand mark; any product or anything product-shaped — **no capsule, no pill, no blister, no jar, no bottle, no sachet, no box, no pack of any kind**, not in her hands, not on the bench, not in a bag, not on a shelf behind her; no washing-machine front with dials, digits or a maker's mark — the machines stay out of frame or read as a plain markless shape at the very edge; jewellery with lettering; medical horror. The "no person" line above governs the preview and the hero only: this frame carries one person, and it is the named REF.
+**Third frame (the person frame) — must not appear, Owner 2026-09-16.** A second person of any kind; any face other than JulianFarah; lab coat, scrubs, clinic, pharmacy counter, hospital, microscope; letters, numerals, signage, packaging text or a watermark anywhere in the pixels — on clothing, on a mug, on a wall, on a machine, in the background; any brand mark; any product or anything product-shaped — **no capsule, no pill, no blister, no jar, no bottle, no sachet, no box, no pack of any kind**, not in her hands, not on the bench, not in a bag, not on a shelf behind her; no washing-machine front with dials, digits or a maker's mark — the machines stay out of frame or read as a plain markless shape at the very edge; jewellery with lettering; medical horror. The "no person" line above governs the preview and the hero only: this frame carries one person, and it is the named REF.
 
 ## 10. Locales + alt text per locale
 
@@ -84,8 +84,8 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: the same dead rod cells lie unused on a crowded gut community, but settle into open gaps of a sparse one, where new residents and small droplets appear"
 - ru preview alt: "Иллюстрация: несколько неподвижных убитых нагреванием палочек лежат в свободных промежутках редкого кишечного сообщества среди обрывков клетчатки"
 - ru hero alt: "Иллюстрация: те же мёртвые палочки лежат без дела на плотном кишечном сообществе, но оседают в свободных промежутках редкого, где появляются новые жители и мелкие капли"
-- en card alt: "Why her and not you? — a woman waits on the bench of a launderette in flat late-morning light"
-- ru card alt: "Кому это вообще помогает? — женщина ждёт стирку на скамейке в прачечной поздним утром"
+- en card alt: "Why her and not you? — a man waits on the bench of a launderette in flat late-morning light"
+- ru card alt: "Кому это вообще помогает? — мужчина ждёт стирку на скамейке в прачечной поздним утром"
 - en card question: "Why her and not you?"
 - ru card question: "Кому это вообще помогает?"
 - en plate lines: "First — the same dead cells, two guts · Then — a crowded gut has no room left · So — only the sparse gut changed"
@@ -111,4 +111,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a short chain and two single dead rods, whole and still, lying in one open gap between widely spaced residents; the nearest rod is the sharpest spot. Subject inside the middle 1.91:1 band. **World:** the loose litter on the gut's inner surface — scattered plant-fibre fragments and thin mucus flakes with wide bare stretches between a few residents; flat soft studio north light, even and shadowless, neutral-cool. **Accent:** coral on the dead newcomer rods only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left to right — the dead rods lying unused on a crowded, many-kinded community; the landscape thinning into a sparse community where the same rods settle into open gaps; at right, new residents and a light scatter of tiny droplets around them, the crowded side unchanged. **Light:** soft warm light from above and behind, forms rim-lit, shadows falling toward the viewer. **Accent:** gold on the tiny droplets in the sparse community only.
-- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the coat folded on her knees; the row of machines behind her soft and markless. **Empty field:** right side, 45 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 11:00, flat daylight through the shopfront from the front-left, neutral-cool, almost shadowless.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** his face and the coat folded on his knees; the row of machines behind him soft and markless. **Empty field:** right side, 45 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 11:00, flat daylight through the shopfront from the front-left, neutral-cool, almost shadowless.

@@ -15,7 +15,7 @@ sources: []
 images:
   card: "/assets/img/mbf/hubs/metabolic/metabolic-card-ru.webp"
   cardLine: "Отчего приходит сытость?"
-  cardAlt: "Отчего приходит сытость? — женщина остановилась на краю парка в сумерках, чтобы отдышаться"
+  cardAlt: "Отчего приходит сытость? — мужчина остановился на краю парка в сумерках, чтобы отдышаться"
   og: "/assets/img/mbf/hubs/metabolic/metabolic-og-ru.jpg"
   preview: "/assets/img/mbf/hubs/metabolic/metabolic-preview.webp"
   previewAlt: "Иллюстрация: колбовидная гормональная клетка слизистой кишечника с золотыми гранулами GLP-1, на её верхушку садятся молекулы жирных кислот"

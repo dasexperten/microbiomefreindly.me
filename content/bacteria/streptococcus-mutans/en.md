@@ -117,7 +117,7 @@ entity:
 images:
   card: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-card-en.webp"
   cardLine: "Does everyone carry the cavity germ?"
-  cardAlt: "Does everyone carry the cavity germ? — a young woman takes a sweet from a paper bag at her desk"
+  cardAlt: "Does everyone carry the cavity germ? — a young man takes a sweet from a paper bag at his desk"
   og: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-og-en.jpg"
   preview: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-preview.webp"
   previewAlt: "Illustration: chains of oval bacteria held in sticky strands on pale ridged enamel, one lime sugar crystal at the edge"

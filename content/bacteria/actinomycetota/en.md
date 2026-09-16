@@ -102,7 +102,7 @@ entity:
 images:
   card: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-card-en.webp"
   cardLine: "Where did our antibiotics begin?"
-  cardAlt: "Where did our antibiotics begin? — a woman in her sixties presses damp soil around a seedling in her garden"
+  cardAlt: "Where did our antibiotics begin? — a man in his seventies presses damp soil around a seedling in his garden"
   og: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-og-en.jpg"
   preview: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-preview.webp"
   previewAlt: "Illustration: fine branching soil bacteria threads over damp soil grains, raised tips ending in pale green spore chains"

@@ -79,7 +79,7 @@ sources:
 images:
   card: "/assets/img/mbf/myth/more-cfu-means-a-better-probiotic/more-cfu-means-a-better-probiotic-card-ru.webp"
   cardLine: "Большое число — это лучше?"
-  cardAlt: "Большое число — это лучше? — женщина с пустыми руками в овощном ряду перед полуднем"
+  cardAlt: "Большое число — это лучше? — мужчина с пустыми руками в овощном ряду перед полуднем"
   og: "/assets/img/mbf/myth/more-cfu-means-a-better-probiotic/more-cfu-means-a-better-probiotic-og-ru.jpg"
   preview: "/assets/img/mbf/myth/more-cfu-means-a-better-probiotic/more-cfu-means-a-better-probiotic-preview.webp"
   previewAlt: "Иллюстрация: маленькая группа палочковидных бактерий рядом с толпой таких же палочек, в сто раз большей, на гладкой слизи"

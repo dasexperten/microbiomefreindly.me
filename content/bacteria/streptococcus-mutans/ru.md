@@ -117,7 +117,7 @@ entity:
 images:
   card: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-card-ru.webp"
   cardLine: "Он есть у всех?"
-  cardAlt: "Он есть у всех? — молодая женщина берёт леденец из бумажного пакета за письменным столом"
+  cardAlt: "Он есть у всех? — молодой мужчина берёт леденец из бумажного пакета за письменным столом"
   og: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-og-ru.jpg"
   preview: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-preview.webp"
   previewAlt: "Иллюстрация: цепочки овальных бактерий в липких нитях на бледной рифлёной эмали, у края один лаймовый кристалл сахара"

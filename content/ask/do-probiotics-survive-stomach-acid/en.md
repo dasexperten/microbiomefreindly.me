@@ -84,7 +84,7 @@ sources:
 images:
   card: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-card-en.webp"
   cardLine: "With food or empty stomach?"
-  cardAlt: "With food or empty stomach? — a woman over her lunch at a canteen table in the middle of the day"
+  cardAlt: "With food or empty stomach? — a man over his lunch at a canteen table in the middle of the day"
   og: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-og-en.jpg"
   preview: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-preview.webp"
   previewAlt: "Illustration: a rod carrying an armoured spore and three free spores lie whole in acid, while delicate rods around them collapse"

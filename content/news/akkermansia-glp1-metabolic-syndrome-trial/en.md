@@ -58,7 +58,7 @@ sources:
 images:
   card: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-card-en.webp"
   cardLine: "Did the trial fail?"
-  cardAlt: "Did the trial fail? — a woman in her fifties waits alone at a bus stop in cold early light"
+  cardAlt: "Did the trial fail? — a man in his forties waits alone at a bus stop in cold early light"
   og: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-og-en.jpg"
   preview: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-preview.webp"
   previewAlt: "Illustration: whole, still oval Akkermansia cells lying in grazed hollows of gut mucus, a coral glint of lining beneath"

@@ -58,7 +58,7 @@ sources:
 images:
   card: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-card-ru.webp"
   cardLine: "Значит, испытание провалилось?"
-  cardAlt: "Значит, испытание провалилось? — женщина за пятьдесят одна ждёт автобус в холодном утреннем свете"
+  cardAlt: "Значит, испытание провалилось? — мужчина за сорок ждёт автобус один в холодном утреннем свете"
   og: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-og-ru.jpg"
   preview: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-preview.webp"
   previewAlt: "Иллюстрация: целые неподвижные овальные клетки Akkermansia лежат в выеденных углублениях кишечной слизи, под ними коралловый отблеск клетки слизистой"

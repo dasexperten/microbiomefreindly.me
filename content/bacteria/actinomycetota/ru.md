@@ -102,7 +102,7 @@ entity:
 images:
   card: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-card-ru.webp"
   cardLine: "Антибиотики родом из земли?"
-  cardAlt: "Антибиотики родом из земли? — женщина за шестьдесят прижимает влажную землю у ростка в своём саду"
+  cardAlt: "Антибиотики родом из земли? — мужчина за семьдесят прижимает влажную землю у ростка в своём саду"
   og: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-og-ru.jpg"
   preview: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-preview.webp"
   previewAlt: "Иллюстрация: тонкие ветвящиеся нити почвенных бактерий на влажных частицах почвы, их поднятые кончики заканчиваются светло-зелёными цепочками спор"

@@ -79,7 +79,7 @@ sources:
 images:
   card: "/assets/img/mbf/myth/more-cfu-means-a-better-probiotic/more-cfu-means-a-better-probiotic-card-en.webp"
   cardLine: "Is a bigger number better?"
-  cardAlt: "Is a bigger number better? — a woman empty-handed in the produce aisle late in the morning"
+  cardAlt: "Is a bigger number better? — a man empty-handed in the produce aisle late in the morning"
   og: "/assets/img/mbf/myth/more-cfu-means-a-better-probiotic/more-cfu-means-a-better-probiotic-og-en.jpg"
   preview: "/assets/img/mbf/myth/more-cfu-means-a-better-probiotic/more-cfu-means-a-better-probiotic-preview.webp"
   previewAlt: "Illustration: a small cluster of rod-shaped bacteria beside a crowd of the same rods a hundred times larger, on smooth mucus"

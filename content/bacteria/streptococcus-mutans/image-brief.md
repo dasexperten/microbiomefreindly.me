@@ -16,7 +16,7 @@ A sugar-loving resident of tooth plaque that, given table sugar, builds a sticky
 **3. Organism / structure in the preview:**
 *Streptococcus mutans* cells inside plaque, sitting on a tooth-enamel surface, at the moment the sugar-glue is being spun.
 
-**Card (person, Owner 2026-09-16):** Salla from `refs/characters/` · a woman in her early twenties, a student · a desk in the corner of a shared flat, mid-afternoon.
+**Card (person, Owner 2026-09-16):** Kobayashi from `refs/characters/` · a man in his late twenties, a graduate student · a desk in the corner of a shared flat, mid-afternoon.
 
 **4. Morphology, in words (truth — Magnus):**
 Small, slightly oval round cells — not rods, not spirals — joined end to end in short chains of a few cells, sometimes in pairs. They are among the smallest things in the picture; a single cell is well under a thousandth of a millimetre. Around and between the chains: soft, sticky, thread-like strands of glucan — the glue — matting the cells to each other and to the tooth. The surface they sit on is hard, pale, faintly ridged enamel. Nothing about it is spiky, hairy or motile: no tails, no filaments coming off the cells. Chains of little beads in a sticky web on a hard pale floor — that is the truth of it.
@@ -24,11 +24,11 @@ Small, slightly oval round cells — not rods, not spirals — joined end to end
 **5. Preview mood (one line, warm science):**
 Chains of oval navy-and-teal beads caught in a glistening sticky web on a pale ivory enamel floor in warm morning light; one small gold note — a single sugar grain just landed at the edge of the web, the feed that starts everything. Scale cue is the enamel's own faint ridges under the cells; no scale bar, no label. Subject fills the middle of the frame, inside the og band, with quiet air top and bottom. Own world for this card: hard, pale, mineral surface — not the soft mucus/tissue worlds of the gut entries.
 
-**Card scene (one line):** at her desk in the middle of the afternoon, taking a boiled sweet from an open, unprinted paper bag beside a closed notebook without looking up — the feeding is the subject, never the mouth.
+**Card scene (one line):** at his desk in the middle of the afternoon, taking a boiled sweet from an open, unprinted paper bag beside a closed notebook without looking up — the feeding is the subject, never the mouth.
 
-**Wardrobe and place:** plain 2026 clothing, no logos: a plain rust-coloured T-shirt, hair clipped up; a desk in the corner of a shared flat at 15:40, flat overcast daylight from a window on her right, cool and almost shadowless.
+**Wardrobe and place:** plain 2026 clothing, no logos: a plain rust-coloured T-shirt, hair short; a desk in the corner of a shared flat at 15:40, flat overcast daylight from a window on his right, cool and almost shadowless.
 
-**EMPTY FIELD (where the words will sit):** the left 47 % of the frame is an even, uncluttered painted wall above the desk — one plain plane in soft shade. Nothing crosses it: nothing pinned, no shelf, no lamp arm, no cable, no socket, no pattern. It lies inside the middle horizontal band (the top and bottom 11 % are air). She sits on the right third, head and shoulders inside that same band.
+**EMPTY FIELD (where the words will sit):** the left 47 % of the frame is an even, uncluttered painted wall above the desk — one plain plane in soft shade. Nothing crosses it: nothing pinned, no shelf, no lamp arm, no cable, no socket, no pattern. It lies inside the middle horizontal band (the top and bottom 11 % are air). He sits on the right third, head and shoulders inside that same band.
 
 **6. Hero mechanism (the answer, one clause) — Magnus, 2026-09-16:**
 Fed table sugar, *Streptococcus mutans* spins sticky glucan that anchors plaque to the tooth and ferments the sugar into lactic acid that dissolves enamel.
@@ -42,7 +42,7 @@ None shown — clause dropped. The keyFacts figures are dates (1924, s2; 2021, s
 **9. Must not appear:**
 Both images: any product — no toothpaste tube, brush, floss, mouthwash, jar or packaging of any kind, invented or real; any letters, glyphs, numbers, labels, scale bars, microscope UI; any brand marks or lab-glassware brands; collage, split panel, inset; black background, blue neon glow, false-colour "SEM" cliché; medical horror (decayed teeth, blood, pus, drilled cavities). No person, face or hand in either frame. No mouth, smile, whole tooth, tooth model or cartoon tooth — the enamel is a cell-scale mineral surface only. No hero that is a re-crop of the preview.
 
-**Card frame as well (Owner 2026-09-16):** a second person; any face other than the named REF; a lab coat, scrubs, a clinic, a hospital, a dental chair, a surgery, a microscope; letters, numerals, signage, packaging text or a watermark anywhere — including on the paper bag, the sweet wrappers, the notebook cover, clothing, mugs and in the background; any brand mark; any product of any kind — the sweets are loose and unwrapped in a plain bag, and no branded confectionery, tube, brush or bottle appears; jewellery with lettering; medical horror; an open mouth, teeth or a smile as the subject of the frame.
+**Card frame as well (Owner 2026-09-16):** a second person; any face other than Kobayashi; a lab coat, scrubs, a clinic, a hospital, a dental chair, a surgery, a microscope; letters, numerals, signage, packaging text or a watermark anywhere — including on the paper bag, the sweet wrappers, the notebook cover, clothing, mugs and in the background; any brand mark; any product of any kind — the sweets are loose and unwrapped in a plain bag, and no branded confectionery, tube, brush or bottle appears; jewellery with lettering; medical horror; an open mouth, teeth or a smile as the subject of the frame.
 
 **10. Locales + alt text per locale:**
 
@@ -52,8 +52,8 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: sugar dissolves among chains of oval bacteria on enamel; they spin sticky strands that glue them down and give off acid, and under the acid haze the mineral surface loosens"
 - ru preview alt: "Иллюстрация: цепочки овальных бактерий в липких нитях на бледной рифлёной эмали, у края один лаймовый кристалл сахара"
 - ru hero alt: "Иллюстрация: сахар растворяется среди цепочек овальных бактерий на эмали; они прядут липкие нити, приклеивающие их к поверхности, и выделяют кислоту, а под кислотной дымкой минеральная поверхность разрыхляется"
-- en card alt: "Does everyone carry the cavity germ? — a young woman takes a sweet from a paper bag at her desk"
-- ru card alt: "Он есть у всех? — молодая женщина берёт леденец из бумажного пакета за письменным столом"
+- en card alt: "Does everyone carry the cavity germ? — a young man takes a sweet from a paper bag at his desk"
+- ru card alt: "Он есть у всех? — молодой мужчина берёт леденец из бумажного пакета за письменным столом"
 - en card question: "Does everyone carry the cavity germ?"
 - ru card question: "Он есть у всех?"
 - en plate lines: "First — sugar lands on the plaque · Then — they spin glue and make acid · So — the enamel under it dissolves"
@@ -77,4 +77,4 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** two or three short chains of oval cells caught in a glistening glucan web, the nearest chain sharpest, one sugar crystal resting at the web's edge. Subject inside the middle 1.91:1 band. **World:** tooth enamel as a cell-scale mineral landscape — the packed, faintly ridged ends of pale mineral prisms like a field of worn tiles; sunset orange rim light low from behind the web, catching every strand's edge. **Accent:** lime on the single sugar crystal only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left, sugar crystals dissolving among chains of oval cells on the ridged mineral surface; centre, glucan strands spun between chains and surface, acid rising as a haze; right, under the haze the mineral surface loosening into tiny lifting grains while the chains grow on. The eye reads left to right. **Light:** cool clear early-morning light, frontal and low from behind the viewer. **Accent:** coral on the acid haze.
-- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her eyes and the sweet between her fingers. **Empty field:** left, 47 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 15:40, flat overcast daylight from the window on her right, cool and neutral.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** his eyes and the sweet between his fingers. **Empty field:** left, 47 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 15:40, flat overcast daylight from the window on her right, cool and neutral.

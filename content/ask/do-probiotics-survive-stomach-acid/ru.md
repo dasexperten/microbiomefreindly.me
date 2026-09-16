@@ -84,7 +84,7 @@ sources:
 images:
   card: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-card-ru.webp"
   cardLine: "С едой или натощак?"
-  cardAlt: "С едой или натощак? — женщина над обедом за столом в столовой в середине дня"
+  cardAlt: "С едой или натощак? — мужчина над обедом за столом в столовой в середине дня"
   og: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-og-ru.jpg"
   preview: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-preview.webp"
   previewAlt: "Иллюстрация: палочка со спорой в плотной оболочке и три свободные споры целы в кислоте, а нежные палочки вокруг распадаются"

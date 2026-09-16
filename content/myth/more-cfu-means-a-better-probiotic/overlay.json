@@ -5,7 +5,7 @@
   ],
   "box": [
     252,
-    699,
+    858,
     932,
     265
   ],
@@ -15,8 +15,8 @@
     62
   ],
   "lines": 2,
-  "std": 8.11,
-  "gradient": 1.29,
-  "contrast": 5.12,
+  "std": 1.98,
+  "gradient": 0.92,
+  "contrast": 8.73,
   "pass": true
 }

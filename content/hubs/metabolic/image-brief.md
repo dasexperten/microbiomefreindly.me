@@ -13,7 +13,7 @@ File names: `metabolic-preview` · `metabolic-hero`.
 
 **3. Organism / structure in the preview:** *Akkermansia muciniphila* in the mucus layer — the mucus-eater the hub names, whose grazing prompts the gut wall to make more mucus.
 
-**Card (person, Owner 2026-09-16):** **Gerardina** from `refs/characters/` (`Gerardina.jpg`, casting sheet 2026-09-16) · a woman in her fifties, a hairdresser · the place where the park path meets her own street. The age and the role are named here by the author, never by the engine.
+**Card (person, Owner 2026-09-16):** **ViktorPalich** from `refs/characters/` (`ViktorPalich.png`, casting sheet 2026-09-16) · a man in his fifties, a building manager · the place where the park path meets his own street. The age and the role are named here by the author, never by the engine.
 
 **4. Morphology, in words (truth, Magnus):**
 - *Akkermansia muciniphila*: short oval cells, a little longer than they are wide, rounded ends, single or in pairs; no tails (non-motile), no spores, no chains. Never spirals, never long rods. Same shape as the encyclopedia entry.
@@ -26,9 +26,9 @@ File names: `metabolic-preview` · `metabolic-hero`.
 
 **5. Preview mood (one line, warm science):** pairs of oval cells resting in a thick, layered, hazy mucus gel under hot white midday light diffused through haze; at the wall below, a fresh bead of mucus carries the only lime.
 
-- **Card scene (one line):** back from her evening walk she has stopped where the park path meets the pavement, jacket open, hands on her hips, getting her breath back.
+- **Card scene (one line):** back from his evening walk he has stopped where the park path meets the pavement, jacket open, hands on his hips, getting his breath back.
 - **Wardrobe and place:** plain 2026 clothing, no logos, no uniform — a plain zip jacket over a T-shirt, ordinary trainers; the edge of a city park at 19:30, the last blue of dusk with one street lamp warming the air from off frame, cool and still.
-- **EMPTY FIELD (where the words will sit):** the right 45 % of the frame is the long plain concrete wall running beside the path, in even dusk shade — one unbroken surface, nothing crossing it: no gate, no sign, no graffiti, no lamp, no cable, no ivy. It runs from 0.11 to 0.89 of the height, wholly inside the middle horizontal band; the top and bottom 11 % of the frame stay air. She stands in the left third, head and shoulders inside that same band.
+- **EMPTY FIELD (where the words will sit):** the right 45 % of the frame is the long plain concrete wall running beside the path, in even dusk shade — one unbroken surface, nothing crossing it: no gate, no sign, no graffiti, no lamp, no cable, no ivy. It runs from 0.11 to 0.89 of the height, wholly inside the middle horizontal band; the top and bottom 11 % of the frame stay air. He stands in the left third, head and shoulders inside that same band.
 
 **6. Hero mechanism (the answer, one clause):** gut bacteria ferment fibre into short-chain fatty acids that signal the hormone-releasing cells of the gut to release GLP-1, while Akkermansia keeps the mucus barrier thick.
 
@@ -38,7 +38,7 @@ File names: `metabolic-preview` · `metabolic-hero`.
 
 **9. Must not appear:** any product, capsule, pill, injection pen, syringe, bottle, packaging or brand mark — nothing that reads as a weight-loss drug; no scales, tape measures or food plates; any text, letters, numerals, labels, arrows, scale bars, watermarks or interface; no person, face or hand in either frame; no body silhouette; no intestine drawn as an anatomical organ cut-away; no blood or gore; no black background, no blue neon glow, no false-colour micrograph cliché, no DNA helix; no collage, split panel or inset; neither frame is a crop of the other.
 
-**Third frame (the person frame) — must not appear, Owner 2026-09-16.** A second person of any kind; any face other than the named REF; lab coat, scrubs, clinic, hospital, gym, microscope; letters, numerals, signage, packaging text or a watermark anywhere in the pixels — on clothing, on a bottle, on a wall, in the background; any brand mark; any product or anything product-shaped — no capsule, bottle, water bottle, pack, blister, sachet, tube, jar, injection pen or syringe, and no scales, tape measure or fitness tracker; jewellery with lettering; medical horror. The "no person" line above governs the preview and the hero only: this frame carries one person, and it is the named REF.
+**Third frame (the person frame) — must not appear, Owner 2026-09-16.** A second person of any kind; any face other than ViktorPalich; lab coat, scrubs, clinic, hospital, gym, microscope; letters, numerals, signage, packaging text or a watermark anywhere in the pixels — on clothing, on a bottle, on a wall, in the background; any brand mark; any product or anything product-shaped — no capsule, bottle, water bottle, pack, blister, sachet, tube, jar, injection pen or syringe, and no scales, tape measure or fitness tracker; jewellery with lettering; medical horror. The "no person" line above governs the preview and the hero only: this frame carries one person, and it is the named REF.
 
 **10. Locales + alt text per locale:** en and ru are live for this hub. One image set serves both.
 
@@ -48,8 +48,8 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: bacteria ferment fibre into fatty acid molecules that dock on a hormone cell in the gut lining; it releases gold GLP-1 granules into a small blood vessel"
 - ru preview alt: "Иллюстрация: колбовидная гормональная клетка слизистой кишечника с золотыми гранулами GLP-1, на её верхушку садятся молекулы жирных кислот"
 - ru hero alt: "Иллюстрация: бактерии сбраживают клетчатку в молекулы жирных кислот, те садятся на гормональную клетку слизистой, и она выпускает золотые гранулы GLP-1 в мелкий сосуд"
-- en card alt: "What makes you feel full? — a woman stops at the edge of the park at dusk to get her breath back"
-- ru card alt: "Отчего приходит сытость? — женщина остановилась на краю парка в сумерках, чтобы отдышаться"
+- en card alt: "What makes you feel full? — a man stops at the edge of the park at dusk to get his breath back"
+- ru card alt: "Отчего приходит сытость? — мужчина остановился на краю парка в сумерках, чтобы отдышаться"
 - en card question: "What makes you feel full?"
 - ru card question: "Отчего приходит сытость?"
 - en plate lines: "First — bacteria ferment fibre · Then — fatty acids reach a gut cell · So — it releases GLP-1 into the blood"
@@ -72,6 +72,6 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one pair of oval Akkermansia cells sharp in the layered mucus at the centre, a few more pairs softening away; just below, the rounded tops of the wall cells releasing one fresh bead of mucus. Subject inside the middle 1.91:1 band. **World:** a thick, layered, faintly stranded mucus gel over the gut wall; hot white midday light diffused through haze, bright, soft, almost shadowless. **Accent:** lime on the fresh bead of mucus only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** bacteria fermenting fibre and releasing fatty acid molecules → the molecules crossing the mucus past resting Akkermansia and docking on the flask-shaped hormone cell → GLP-1 granules released into the small vessel beneath and carried out of frame, left to right. **Light:** low golden light from behind on the right, rimming the forms. **Accent:** gold on the GLP-1 granules only.
 
-- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the open jacket; the path and the trees behind her soft. **Empty field:** right side, 45 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 19:30, the last blue dusk with one warm street lamp off frame to the left, cool and low.
+- **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** his face and the open jacket; the path and the trees behind him soft. **Empty field:** right side, 45 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 19:30, the last blue dusk with one warm street lamp off frame to the left, cool and low.
 
 **Marika, 2026-09-16, after the side-by-side check:** the first preview (Akkermansia pairs in layered mucus) read as the same plate as the Akkermansia encyclopedia card. The preview moves to the hub's other named actor: **Focus:** one flask-shaped GLP-1 cell of the colon lining, its gold granules and the fatty-acid molecules settling on its tuft; **World:** the lining at cell scale, hot white midday haze; **Accent:** gold on the granules. Field 3 for this frame reads: the GLP-1-releasing hormone cell named in the hub.

@@ -50,7 +50,7 @@ sources:
 images:
   card: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-card-ru.webp"
   cardLine: "Кому это вообще помогает?"
-  cardAlt: "Кому это вообще помогает? — женщина ждёт стирку на скамейке в прачечной поздним утром"
+  cardAlt: "Кому это вообще помогает? — мужчина ждёт стирку на скамейке в прачечной поздним утром"
   og: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-og-ru.jpg"
   preview: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-preview.webp"
   previewAlt: "Иллюстрация: несколько неподвижных убитых нагреванием палочек лежат в свободных промежутках редкого кишечного сообщества среди обрывков клетчатки"

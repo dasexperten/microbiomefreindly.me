@@ -69,7 +69,7 @@ for (const type of TYPES) {
         `The moment: ${scene}`,
         `Wardrobe and place: ${wardrobe}`,
         `The empty field, kept clear on purpose: ${empty}`,
-        'She stands or sits on the opposite third of the frame from that empty field, her head and shoulders inside the middle horizontal band, the top and bottom eleventh of the frame left as air.',
+        'That person stands or sits on the opposite third of the frame from the empty field, head and shoulders inside the middle horizontal band, the top and bottom eleventh of the frame left as air.',
         'Photographic and matte, natural skin, one light source, shallow depth of field on the person with the empty field softly out of focus; ground, wall and cloth in warm greige #EFEBE7 to paper #F7F5F2, at most one quiet accent colour in the whole frame. Landscape 3:2 composition, born at that ratio.',
         BANS,
       ].join(' '),

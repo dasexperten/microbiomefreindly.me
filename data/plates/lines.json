@@ -7,8 +7,8 @@
         1696
       ],
       "box": [
-        1516,
-        572,
+        1358,
+        414,
         932,
         265
       ],
@@ -18,9 +18,9 @@
         62
       ],
       "lines": 2,
-      "std": 3.97,
-      "gradient": 1.34,
-      "contrast": 9.38,
+      "std": 3.18,
+      "gradient": 1.48,
+      "contrast": 8.95,
       "pass": true
     },
     "locales": {
@@ -393,7 +393,7 @@
       ],
       "box": [
         1485,
-        192,
+        636,
         932,
         265
       ],
@@ -403,9 +403,9 @@
         242
       ],
       "lines": 2,
-      "std": 7.38,
-      "gradient": 1.43,
-      "contrast": 4.45,
+      "std": 11.39,
+      "gradient": 1.29,
+      "contrast": 3.55,
       "pass": true
     },
     "locales": {
@@ -497,8 +497,8 @@
         1696
       ],
       "box": [
-        126,
-        1206,
+        94,
+        604,
         932,
         265
       ],
@@ -508,9 +508,9 @@
         62
       ],
       "lines": 2,
-      "std": 5.12,
-      "gradient": 1.75,
-      "contrast": 4.18,
+      "std": 9.81,
+      "gradient": 1.43,
+      "contrast": 4.76,
       "pass": true
     },
     "locales": {
@@ -602,20 +602,20 @@
         1696
       ],
       "box": [
-        1453,
-        1079,
+        1421,
+        858,
         932,
         265
       ],
       "ink": [
-        247,
-        245,
-        242
+        31,
+        42,
+        62
       ],
       "lines": 2,
-      "std": 4.68,
-      "gradient": 1.45,
-      "contrast": 4.14,
+      "std": 10.2,
+      "gradient": 2.11,
+      "contrast": 3.89,
       "pass": true
     },
     "locales": {
@@ -729,7 +729,7 @@
         "plateLines": "First — air still lingers in a new gut · Then — one fat seals the microbe's wall · So — the same fat teaches immune cells"
       },
       "ru": {
-        "question": "Есть ли воздух в кишечнике?",
+        "question": "В кишечнике младенца есть воздух?",
         "plateLines": "Сначала — в юной кишке ещё есть воздух · Затем — жир запечатывает её оболочку · Итог — тот же жир учит иммунные клетки"
       }
     }
@@ -742,20 +742,20 @@
         1696
       ],
       "box": [
-        1516,
-        1079,
+        1327,
+        350,
         932,
         265
       ],
       "ink": [
-        247,
-        245,
-        242
+        31,
+        42,
+        62
       ],
       "lines": 2,
-      "std": 25.46,
-      "gradient": 5.56,
-      "contrast": 3.58,
+      "std": 8.96,
+      "gradient": 1.55,
+      "contrast": 3.36,
       "pass": true
     },
     "locales": {
@@ -904,7 +904,7 @@
         "plateLines": "First — antibiotics strip it bare · Then — it refills in six weeks · So — 9 species are still missing"
       },
       "ru": {
-        "question": "Кишечник восстановится сам?",
+        "question": "Кишечник восстановится после антибиотиков?",
         "plateLines": "Сначала — антибиотики выметают всё · Затем — за полтора месяца возвращается · Итог — 9 видов так и нет"
       }
     }
@@ -917,8 +917,8 @@
         1696
       ],
       "box": [
-        1485,
-        794,
+        1327,
+        1016,
         932,
         265
       ],
@@ -928,9 +928,9 @@
         62
       ],
       "lines": 2,
-      "std": 8.19,
-      "gradient": 1.1,
-      "contrast": 5.34,
+      "std": 6.57,
+      "gradient": 1.35,
+      "contrast": 6.35,
       "pass": true
     },
     "locales": {
@@ -1093,7 +1093,7 @@
       ],
       "box": [
         252,
-        699,
+        858,
         932,
         265
       ],
@@ -1103,9 +1103,9 @@
         62
       ],
       "lines": 2,
-      "std": 8.11,
-      "gradient": 1.29,
-      "contrast": 5.12,
+      "std": 1.98,
+      "gradient": 0.92,
+      "contrast": 8.73,
       "pass": true
     },
     "locales": {
@@ -1442,8 +1442,8 @@
         1696
       ],
       "box": [
-        1421,
-        858,
+        1516,
+        984,
         932,
         265
       ],
@@ -1453,9 +1453,9 @@
         242
       ],
       "lines": 2,
-      "std": 7.24,
-      "gradient": 3.85,
-      "contrast": 4.46,
+      "std": 9.81,
+      "gradient": 2.88,
+      "contrast": 4.25,
       "pass": true
     },
     "locales": {

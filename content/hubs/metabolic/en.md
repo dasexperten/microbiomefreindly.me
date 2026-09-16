@@ -15,7 +15,7 @@ sources: []
 images:
   card: "/assets/img/mbf/hubs/metabolic/metabolic-card-en.webp"
   cardLine: "What makes you feel full?"
-  cardAlt: "What makes you feel full? — a woman stops at the edge of the park at dusk to get her breath back"
+  cardAlt: "What makes you feel full? — a man stops at the edge of the park at dusk to get his breath back"
   og: "/assets/img/mbf/hubs/metabolic/metabolic-og-en.jpg"
   preview: "/assets/img/mbf/hubs/metabolic/metabolic-preview.webp"
   previewAlt: "Illustration: a flask-shaped hormone cell in the gut lining holds glowing gold GLP-1 granules as fatty acid molecules settle on its tip"

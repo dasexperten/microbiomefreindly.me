@@ -50,7 +50,7 @@ sources:
 images:
   card: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-card-en.webp"
   cardLine: "Why her and not you?"
-  cardAlt: "Why her and not you? — a woman waits on the bench of a launderette in flat late-morning light"
+  cardAlt: "Why her and not you? — a man waits on the bench of a launderette in flat late-morning light"
   og: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-og-en.jpg"
   preview: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-preview.webp"
   previewAlt: "Illustration: a few still, heat-killed rod cells lying in open gaps of a sparse gut community among fibre fragments"

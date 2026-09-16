@@ -97,7 +97,7 @@ entity:
 images:
   card: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-card-ru.webp"
   cardLine: "Йогурт живёт в кишечнике?"
-  cardAlt: "Йогурт живёт в кишечнике? — женщина ест простой йогурт у кухонной столешницы на рассвете"
+  cardAlt: "Йогурт живёт в кишечнике? — мужчина ест простой йогурт у кухонной столешницы на рассвете"
   og: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-og-ru.jpg"
   preview: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-preview.webp"
   previewAlt: "Иллюстрация: короткие цепочки палочек Lactobacillus в скисающей молочной плёнке, вокруг одной цепочки лёгкая золотистая дымка кислоты"
