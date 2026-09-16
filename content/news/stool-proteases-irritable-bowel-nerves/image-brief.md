@@ -230,3 +230,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - tl card alt: "Pisikal ba talaga ang sakit? — isang babaeng huminto sa pasilyo ng opisina, nakadiin ang bisig sa tiyan"
 - tl card question: "Pisikal ba talaga ang sakit?"
 - tl plate lines: "Una — dumadapo sa dingding ng bituka ang likido ng dumi · Tapos — pinuputol ng enzyme ang receptor ng nerbiyo · Kaya — mas malakas pumutok ang lambat"
+
+- th preview alt: "ภาพประกอบ: ร่างแหปมประสาทเรืองแสงอยู่ผ่านเนื้อเยื่อลำไส้บาง ๆ มีฟิล์มใสสีอำพันเคลือบลงบนมัน และมีปมไม่กี่ปมสว่างเป็นสีปะการัง"
+- th hero alt: "ภาพประกอบ: ฟิล์มของเหลวสีอำพันบาง ๆ เคลือบลงบนเยื่อบุลำไส้ เอนไซม์ตัวหนึ่งตัดตัวรับบนเซลล์ประสาท ซึ่งสว่างขึ้นแล้วปลุกปมต่าง ๆ ของร่างแหประสาทรอบตัวมัน"
+- th card alt: "ความปวดนั้นเป็นเรื่องทางกายจริงไหม? — หญิงคนหนึ่งหยุดเดินกลางทางเดินในออฟฟิศ ท่อนแขนกดทาบไว้กลางลำตัว"
+- th card question: "ความปวดนั้นเป็นเรื่องทางกายจริงไหม?"
+- th plate lines: "ก่อนอื่น — ของเหลวจากอุจจาระสัมผัสผนังลำไส้ · จากนั้น — เอนไซม์ตัดตัวรับบนเส้นประสาท · ผลลัพธ์ — ร่างแหประสาทยิงแรงขึ้นมาก"

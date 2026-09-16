@@ -14,6 +14,11 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const CONTENT = join(ROOT, 'content'); const DIST = join(ROOT, 'dist');
 const LOCALES = JSON.parse(readFileSync(join(ROOT, 'src/i18n/locales.json'), 'utf8'));
 const CJK = new Set(['ja', 'ko', 'zh-Hans']); const CYR = new Set(['ru', 'uk', 'ar', 'th']);
+/* Scripts that do not put a space between words. Counting spaces there measures nothing: every Thai
+ * question on the portal came back as "1 word". CJK is exempt for the same reason — this set just
+ * says it out loud and adds Thai, which is scriptio continua too. Character caps stay where they are:
+ * Thai is measured by width (CYR, 55/150), not by this. */
+const NOSPACE = new Set([...CJK, 'th']);
 let fails = 0, warns = 0;
 const fail = (f, m) => { fails++; console.log(`FAIL ${f}: ${m}`); };
 const warn = (f, m) => { warns++; console.log(`WARN ${f}: ${m}`); };
@@ -51,7 +56,7 @@ for (const type of ['news', 'bacteria', 'hubs', 'ask', 'myth', 'routine']) {
       if (!fm.meta) fail(rel, 'no meta'); else if (ml > mcap) lenFail(rel, `meta ${ml} chars > ${mcap}`); else if (ml < 70 && !CJK.has(lang)) warn(rel, `meta short (${ml})`);
       if (fm.meta && fm.answer && fm.meta.trim() === fm.answer.trim()) warn(rel, 'meta equals answer (SEO §2.1: must differ from lead)');
       if (type !== 'hubs') {
-        if (!fm.answer) fail(rel, 'no answer-first paragraph (GEO)'); else if (!CJK.has(lang) && words(fm.answer) > 60) lenFail(rel, `answer ${words(fm.answer)} words > 60`);
+        if (!fm.answer) fail(rel, 'no answer-first paragraph (GEO)'); else if (!NOSPACE.has(lang) && words(fm.answer) > 60) lenFail(rel, `answer ${words(fm.answer)} words > 60`);
         if (!fm.asOf) fail(rel, 'no asOf date (§9c)');
         if (!Array.isArray(fm.sources) || !fm.sources.length) fail(rel, 'no sources');
         else for (const s of fm.sources) { if (!s.id || !s.name) fail(rel, `source row without id/name`); if (!s.doi && !s.pmid && !s.url) fail(rel, `source ${s.id} has no doi/pmid/url`); }
@@ -86,7 +91,7 @@ for (const type of ['news', 'bacteria', 'hubs', 'ask', 'myth', 'routine']) {
         }
         if (im.cardLine) {
           const w = words(im.cardLine);
-          if (!CJK.has(lang) && (w < 3 || w > 6)) fail(rel, `cardLine is ${w} words, the slot is 3–6`);
+          if (!NOSPACE.has(lang) && (w < 3 || w > 6)) fail(rel, `cardLine is ${w} words, the slot is 3–6`);
           if (norm2(im.cardLine) === norm2(fm.title)) fail(rel, 'cardLine repeats the title word for word');
         }
         if (im.preview && im.card === im.preview) fail(rel, 'card and preview are the same file');

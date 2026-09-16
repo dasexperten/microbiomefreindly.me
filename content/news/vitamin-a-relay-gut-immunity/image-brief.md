@@ -180,3 +180,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - tl card alt: "Sino ang nagdadala ng bitamina? — isang babaeng naghihiwa ng karot sa lamesa ng kusina sa ilalim ng lampara sa gabi"
 - tl card question: "Sino ang nagdadala ng bitamina?"
 - tl plate lines: "Una — ginigising ng gut bacteria ang lining · Tapos — kinukuha ng protinang tagadala ang retinol · Kaya — wala pang 2 % ang umaabot sa immune cell"
+
+- th preview alt: "ภาพประกอบ: เส้นใยแบคทีเรียที่แบ่งเป็นปล้องหยั่งปลายลงในรอยพับนุ่ม ๆ ของเยื่อบุลำไส้ มีประกายสีทองเล็ก ๆ ตรงที่เส้นหนึ่งหยั่งลงไป"
+- th hero alt: "ภาพประกอบ: แบคทีเรียที่แบ่งเป็นปล้องหยั่งรากอยู่ในเยื่อบุลำไส้ ซึ่งเซลล์ของมันอุ้มหยดวิตามินเอสีทองไว้ แล้วหยดหนึ่งก็ส่งต่อไปยังเซลล์ภูมิคุ้มกันที่แตกแขนง และส่งต่อไปยังเซลล์ที"
+- th card alt: "ใครเป็นคนพาวิตามินไปถึงที่นั่น? — หญิงคนหนึ่งหั่นแครอทที่เคาน์เตอร์ครัวใต้แสงโคมยามค่ำ"
+- th card question: "ใครเป็นคนพาวิตามินไปถึงที่นั่น?"
+- th plate lines: "ก่อนอื่น — แบคทีเรียในลำไส้ปลุกเยื่อบุ · จากนั้น — โปรตีนขนส่งรับเรตินอลไป · ผลลัพธ์ — ไปถึงเซลล์ภูมิคุ้มกันไม่ถึง 2 %"
