@@ -18,13 +18,13 @@ voice: greger
 answer: "L'axe intestin-cerveau désigne les routes par lesquelles l'intestin et ses microbes parlent au cerveau : le nerf vague, les hormones des cellules intestinales, les messagers immunitaires et les métabolites bactériens du sang. L'essentiel de la sérotonine du corps est fabriqué dans l'intestin, sous influence microbienne. Le lien est réel ; sa part dans l'humeur humaine se mesure encore."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/brain/brain-card-en.webp"
-  cardLine: "Les bactéries changent-elles l'humeur ?"
-  cardAlt: "Les bactéries changent-elles l'humeur ? — une femme se tient à la fenêtre de son salon au crépuscule, une main à la nuque"
-  og: "/assets/img/mbf/hubs/brain/brain-og-en.jpg"
+  card: "/assets/img/mbf/hubs/brain/brain-card-fr.webp"
+  cardLine: "Bactéries et humeur ?"
+  cardAlt: "Bactéries et humeur ? — une femme se tient à la fenêtre de son salon au crépuscule, une main à la nuque"
+  og: "/assets/img/mbf/hubs/brain/brain-og-fr.jpg"
   preview: "/assets/img/mbf/hubs/brain/brain-preview.webp"
   previewAlt: "Illustration : un réseau d'amas de cellules nerveuses reliés par des faisceaux de fibres sur la paroi musculaire de l'intestin, un amas teinté vert citron"
-  plate: "/assets/img/mbf/hubs/brain/brain-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/brain/brain-plate-fr.webp"
   plateLines: "D'abord — les microbes libèrent des molécules · Ensuite — une cellule de l'intestin les capte · Résultat — le nerf transmet, elles restent"
   hero: "/assets/img/mbf/hubs/brain/brain-hero.webp"
   heroAlt: "Illustration : des bactéries intestinales libèrent de petites molécules, une cellule hormonale de la muqueuse les détecte et un signal doré file le long d'un nerf vers le cerveau"

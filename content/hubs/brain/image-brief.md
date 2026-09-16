@@ -117,8 +117,8 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - fr preview alt: "Illustration : un réseau d'amas de cellules nerveuses reliés par des faisceaux de fibres sur la paroi musculaire de l'intestin, un amas teinté vert citron"
 - fr hero alt: "Illustration : des bactéries intestinales libèrent de petites molécules, une cellule hormonale de la muqueuse les détecte et un signal doré file le long d'un nerf vers le cerveau"
-- fr card alt: "Les bactéries changent-elles l'humeur ? — une femme se tient à la fenêtre de son salon au crépuscule, une main à la nuque"
-- fr card question: "Les bactéries changent-elles l'humeur ?"
+- fr card alt: "Bactéries et humeur ? — une femme se tient à la fenêtre de son salon au crépuscule, une main à la nuque"
+- fr card question: "Bactéries et humeur ?"
 - fr plate lines: "D'abord — les microbes libèrent des molécules · Ensuite — une cellule de l'intestin les capte · Résultat — le nerf transmet, elles restent"
 
 - tr preview alt: "İllüstrasyon: bağırsağın kas duvarında lif demetleriyle birbirine bağlanmış sinir hücresi kümelerinden bir ağ, bir küme misket yeşiline boyanmış"

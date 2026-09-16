@@ -18,13 +18,13 @@ voice: greger
 answer: "Le microbiote intestinal est la communauté de bactéries, archées, champignons et virus qui vit surtout dans le gros intestin. Il digère les fibres que nous ne digérons pas, fabrique des acides gras à chaîne courte et des vitamines, entraîne l'immunité et nourrit la muqueuse. L'alimentation, la naissance, les antibiotiques et l'âge le façonnent ; il change en quelques jours."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/gut/gut-card-en.webp"
+  card: "/assets/img/mbf/hubs/gut/gut-card-fr.webp"
   cardLine: "Mon microbiote est-il sain ?"
   cardAlt: "Mon microbiote est-il sain ? — une femme monte les marches de sa maison le soir avec un sac de légumes"
-  og: "/assets/img/mbf/hubs/gut/gut-og-en.jpg"
+  og: "/assets/img/mbf/hubs/gut/gut-og-fr.jpg"
   preview: "/assets/img/mbf/hubs/gut/gut-preview.webp"
   previewAlt: "Illustration : une foule mêlée de bactéries intestinales en bâtonnets et rondes se nourrit sur un fragment de fibre végétale au bord effiloché doré"
-  plate: "/assets/img/mbf/hubs/gut/gut-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/gut/gut-plate-fr.webp"
   plateLines: "D'abord — la fibre que nous ne digérons pas arrive · Ensuite — la foule la fermente · Résultat — les acides nourrissent la paroi"
   hero: "/assets/img/mbf/hubs/gut/gut-hero.webp"
   heroAlt: "Illustration : la fibre végétale atteint le côlon, les bactéries la fermentent et des molécules corail d'acides gras à chaîne courte passent dans les cellules de la muqueuse intestinale"

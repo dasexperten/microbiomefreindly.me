@@ -18,13 +18,13 @@ voice: greger
 answer: "Le microbiote buccal est la communauté de bactéries des dents, des gencives, de la langue et des joues. Sur les dents, elle forme la plaque — un biofilm structuré, tenu par des sucres qu'elles fabriquent. En équilibre, il protège ; quand le sucre revient souvent ou qu'on nettoie peu, les acidifiantes prennent le dessus, l'émail se dissout, les gencives s'enflamment."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/oral/oral-card-en.webp"
+  card: "/assets/img/mbf/hubs/oral/oral-card-fr.webp"
   cardLine: "D'où vient la plaque dentaire ?"
   cardAlt: "D'où vient la plaque dentaire ? — une femme penchée au-dessus du lavabo dans la lumière du matin, venant de se rincer"
-  og: "/assets/img/mbf/hubs/oral/oral-og-en.jpg"
+  og: "/assets/img/mbf/hubs/oral/oral-og-fr.jpg"
   preview: "/assets/img/mbf/hubs/oral/oral-preview.webp"
   previewAlt: "Illustration : un jeune amas de bactéries rondes en courtes chaînettes sur l'émail dentaire, enveloppé d'un gel de sucre brillant au liseré doré"
-  plate: "/assets/img/mbf/hubs/oral/oral-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/oral/oral-plate-fr.webp"
   plateLines: "D'abord — les bactéries adhèrent à l'émail · Ensuite — le sucre nourrit les productrices d'acide · Résultat — l'émail se ramollit dessous"
   hero: "/assets/img/mbf/hubs/oral/oral-hero.webp"
   heroAlt: "Illustration : le sucre revient sans cesse sur un amas de plaque posé sur l'émail, les bactéries rondes productrices d'acide prennent le dessus et une brume d'acide corail ramollit l'émail en dessous"

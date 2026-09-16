@@ -18,13 +18,13 @@ voice: greger
 answer: "Le système immunitaire n'est pas fait pour éliminer les microbes ; il est fait pour vivre avec eux. Les bactéries de la muqueuse apprennent aux cellules immunitaires — macrophages, lymphocytes T régulateurs — quels signaux disent le danger, lesquels le voisin. Cet apprentissage, la tolérance, commence à la naissance. Quand il échoue, vient une inflammation chronique, pas une infection."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/immunity/immunity-card-en.webp"
+  card: "/assets/img/mbf/hubs/immunity/immunity-card-fr.webp"
   cardLine: "Comment s'apprend la tolérance ?"
   cardAlt: "Comment s'apprend la tolérance ? — une femme s'arrête devant la grille d'une aire de jeux déserte en fin d'après-midi"
-  og: "/assets/img/mbf/hubs/immunity/immunity-og-en.jpg"
+  og: "/assets/img/mbf/hubs/immunity/immunity-og-fr.jpg"
   preview: "/assets/img/mbf/hubs/immunity/immunity-preview.webp"
   previewAlt: "Illustration : un macrophage sous la muqueuse intestinale enroule un bras corail autour d'une bactérie en bâtonnet dans une tache de lumière chaude"
-  plate: "/assets/img/mbf/hubs/immunity/immunity-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/immunity/immunity-plate-fr.webp"
   plateLines: "D'abord — les bactéries signalent à travers la paroi · Ensuite — la cellule de garde reste muette · Résultat — la tolérance tient, pas d'alarme"
   hero: "/assets/img/mbf/hubs/immunity/immunity-hero.webp"
   heroAlt: "Illustration : au-dessus de la muqueuse intestinale épaisse d'une seule cellule, des bactéries libèrent de petites molécules ; en dessous, un macrophage les absorbe et reste calme auprès de lymphocytes T régulateurs dorés"

@@ -131,3 +131,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ro card alt: "Covidul lung pornește din intestin? — o femeie se oprește în mijlocul rufelor și se așază pe marginea patului"
 - ro card question: "Covidul lung pornește din intestin?"
 - ro plate lines: "Mai întâi — o coadă bacteriană se rupe · Apoi — celulele imune o citesc ca alarmă · Rezultat — un țesut departe de intestin se inflamează"
+
+- zh-Hans preview alt: "插画：细长的肠道细菌拖着长长的螺旋尾巴待在流动的黏液里，一条脱落的尾巴漂在一片金色光斑中"
+- zh-Hans hero alt: "插画：一段脱落的细菌尾巴离开肠道，一个中性粒细胞撒出网并向巨噬细胞发出信号，而远处的组织被纤维一层层增厚"
+- zh-Hans card alt: "长新冠是从肠道来的吗？ — 一位女性洗衣洗到一半停下来，坐在床沿上"
+- zh-Hans card question: "长新冠是从肠道来的吗？"
+- zh-Hans plate lines: "首先 — 一条细菌尾巴断掉 · 接着 — 免疫细胞把它读成警报 · 结果 — 离肠道很远的组织发炎"

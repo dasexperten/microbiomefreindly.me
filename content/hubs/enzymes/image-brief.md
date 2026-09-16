@@ -116,8 +116,8 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - fr preview alt: "Illustration : une protéine enzymatique repliée tient une chaîne de sucre dans son sillon et coupe un maillon, marqué corail, à contre-jour chaud"
 - fr hero alt: "Illustration : des chaînes de bactéries rondes prises dans un filet de chaînes de sucre ; des enzymes coupent ces chaînes en des points vert citron et les bactéries libérées s'éloignent, intactes"
-- fr card alt: "Les enzymes tuent-elles les bactéries ? — une femme coupe ananas et papaye à sa table en fin de matinée"
-- fr card question: "Les enzymes tuent-elles les bactéries ?"
+- fr card alt: "Les enzymes tuent-elles ? — une femme coupe ananas et papaye à sa table en fin de matinée"
+- fr card question: "Les enzymes tuent-elles ?"
 - fr plate lines: "D'abord — un filet de sucre tient la plaque · Ensuite — l'enzyme coupe un maillon · Résultat — le filet cède, les cellules vivent"
 
 - tr preview alt: "İllüstrasyon: katlanmış bir enzim proteini oluğunda bir şeker zincirini tutuyor ve mercan rengiyle işaretli tek bir bağı kesiyor, sıcak arka ışıkta"

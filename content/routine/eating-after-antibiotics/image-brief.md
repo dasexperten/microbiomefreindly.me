@@ -179,3 +179,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ms card alt: "Apa patut saya makan sekarang? — seorang wanita di gerai pasar waktu pagi, beg kertas berisi sayur di tangan"
 - ms card question: "Apa patut saya makan sekarang?"
 - ms plate lines: "Mula-mula — kursus itu meninggalkannya licin · Kemudian — serat dan makanan fermentasi mengisinya semula · Hasilnya — 9 spesies hilang pada hari ke-180"
+
+- tl preview alt: "Ilustrasyon: mga rod at sanga-sangang gut bacteria na muling dumadapo sa mga gutay na dingding ng selula ng halaman sa malambot na liwanag ng umaga"
+- tl hero alt: "Ilustrasyon: fiber ng halaman sa ibabaw ng lining ng bituka, halos hubad matapos ang antibiotics, tapos napupuno ng bacteria sa mga hibla nito, at sa huli ay siksikan muli pero siyam na puwesto ang walang laman"
+- tl card alt: "Ano ang kakainin ko ngayon? — isang babae sa puwesto sa palengke sa may tanghali, may hawak na supot ng gulay"
+- tl card question: "Ano ang kakainin ko ngayon?"
+- tl plate lines: "Una — iniiwan itong hubad ng kurso · Tapos — pinupuno itong muli ng fiber at ferment · Kaya — 9 na espesye ang wala sa araw 180"

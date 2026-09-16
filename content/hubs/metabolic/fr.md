@@ -18,13 +18,13 @@ voice: greger
 answer: "Les bactéries intestinales fermentent les fibres en acides gras à chaîne courte : acétate, propionate, butyrate. Ceux-ci nourrissent la paroi et font signe aux cellules qui libèrent le GLP-1, l'hormone qui ralentit l'estomac et dit au cerveau que vous êtes rassasié. Akkermansia muciniphila, qui vit du mucus, renforce cette barrière. C'est une voie, pas un remède."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/metabolic/metabolic-card-en.webp"
+  card: "/assets/img/mbf/hubs/metabolic/metabolic-card-fr.webp"
   cardLine: "Qu'est-ce qui donne la satiété ?"
   cardAlt: "Qu'est-ce qui donne la satiété ? — un homme s'arrête au bord du parc au crépuscule pour reprendre son souffle"
-  og: "/assets/img/mbf/hubs/metabolic/metabolic-og-en.jpg"
+  og: "/assets/img/mbf/hubs/metabolic/metabolic-og-fr.jpg"
   preview: "/assets/img/mbf/hubs/metabolic/metabolic-preview.webp"
   previewAlt: "Illustration : une cellule hormonale en forme de fiole dans la muqueuse intestinale porte des granules dorés de GLP-1 tandis que des molécules d'acides gras se posent sur sa pointe"
-  plate: "/assets/img/mbf/hubs/metabolic/metabolic-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/metabolic/metabolic-plate-fr.webp"
   plateLines: "D'abord — les bactéries fermentent la fibre · Ensuite — les acides gras atteignent une cellule intestinale · Résultat — elle libère du GLP-1 dans le sang"
   hero: "/assets/img/mbf/hubs/metabolic/metabolic-hero.webp"
   heroAlt: "Illustration : des bactéries fermentent la fibre en molécules d'acides gras qui s'arriment à une cellule hormonale de la muqueuse ; celle-ci libère des granules dorés de GLP-1 dans un petit vaisseau sanguin"

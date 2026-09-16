@@ -205,3 +205,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - tr card alt: "Ne kadar lif yeterli? — bir kadın sabah erkenden yemek masasında, önünde bir kâse yulaf lapası"
 - tr card question: "Ne kadar lif yeterli?"
 - tr plate lines: "Önce — üç tür lif gelir · Sonra — yalnızca biri yenir · Sonuç — günde 25–29 g, sonrası düzleşir"
+
+- tl preview alt: "Ilustrasyon: sanga-sangang gut bacteria na binubuwag ang malalambot at sanga-sangang kadena ng fiber habang dumudulas ang makinis na laso ng gel"
+- tl hero alt: "Ilustrasyon: tatlong fiber ang umaabot sa lining ng bituka; ang sanga-sangang kadena lang ang kinakain ng bacteria, buong dumadaan ang laso ng gel at ang piraso ng bran, at tumitigil sa pagdagdag ang mas malaking dami"
+- tl card alt: "Gaano karaming fiber ang sapat? — isang babae sa hapag-kainan niya nang maagang umaga, may mangkok ng lugaw sa harap"
+- tl card question: "Gaano karaming fiber ang sapat?"
+- tl plate lines: "Una — dumarating ang tatlong uri ng fiber · Tapos — isa lang sa kanila ang nakakain · Kaya — 25–29 g kada araw, tapos pumapatag"

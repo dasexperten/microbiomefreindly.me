@@ -191,3 +191,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - tr card alt: "Fermente gıdalar işe yarıyor mu? — bir adam öğleden sonra balkonundaki küçük masada bir kâse kefir içiyor"
 - tr card question: "Fermente gıdalar işe yarıyor mu?"
 - tr plate lines: "Önce — canlı hücreler besinle gelir · Sonra — içinden geçip giderler, azı kalır · Sonuç — 19 iltihap proteini düştü"
+
+- tl preview alt: "Ilustrasyon: mga kadena ng bilog na selula, mahahabang rod at malalaking umuusbong na yeast sa gitna ng maliliit na bula sa buhay na ferment"
+- tl hero alt: "Ilustrasyon: lumulutang sa lining ng bituka ang bacteria mula sa buhay na ferment; sa dalawampu, isa ang kumukuha ng puwesto, tumatagos ang asido sa mucus, at nagiging mas iba-iba ang nakatirang bacteria"
+- tl card alt: "Epektibo ba ang fermented foods? — kumakain ang isang lalaki ng kefir sa maliit na mesa sa balkonahe niya sa hapon"
+- tl card question: "Epektibo ba ang fermented foods?"
+- tl plate lines: "Una — dumarating ang buhay na selula kasama ng pagkain · Tapos — dumadaan sila, kakaunti ang natitira · Kaya — bumaba ang 19 inflammatory protein"

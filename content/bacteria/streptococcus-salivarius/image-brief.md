@@ -190,3 +190,27 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - zh-Hans card alt: "舌头自己的菌安全吗？ — 一位女性早晨端着一杯茶坐在自家阳台上"
 - zh-Hans card question: "舌头自己的菌安全吗？"
 - zh-Hans plate lines: "首先 — 它从出生起就在舌头上 · 接着 — 它放出自己的抗生素 · 结果 — 对手在它的地盘边停住"
+
+- ms preview alt: "Ilustrasi: rantai bakteria bulat seperti manik terbaring dalam lapisan basah antara rabung lembut, halo warna karang yang samar mengelilingi satu rantai"
+- ms hero alt: "Ilustrasi: rantai bakteria bulat menetap dalam lapisan basah pada rabung lembut dan melepaskan zarah emas yang halus; rantai pesaing yang hanyut masuk menjadi lemah di tepi petaknya"
+- ms card alt: "Mikrob lidah sendiri selamatkah? — seorang wanita duduk dengan secawan teh di balkoninya pada waktu pagi"
+- ms card question: "Mikrob lidah sendiri selamatkah?"
+- ms plate lines: "Mula-mula — pada lidah sejak lahir · Kemudian — ia melepaskan antibiotiknya sendiri · Hasilnya — pesaing tersekat di tepinya"
+
+- ko preview alt: "일러스트: 부드러운 돌기 사이 젖은 막 속에 구슬처럼 이어진 둥근 세균의 사슬들이 놓여 있고, 한 사슬 둘레에 옅은 산호색 후광이 어린다"
+- ko hero alt: "일러스트: 둥근 세균의 사슬들이 부드러운 돌기 위 젖은 막에 자리 잡고 아주 작은 금빛 입자를 내놓으며, 흘러든 경쟁 사슬들은 그 구역 가장자리에서 힘을 잃는다"
+- ko card alt: "혀의 균은 안전한가요? — 한 여자가 아침 발코니에서 찻잔을 들고 앉아 있다"
+- ko card question: "혀의 균은 안전한가요?"
+- ko plate lines: "먼저 — 태어날 때부터 혀 위에 있다 · 그다음 — 자기만의 항생물질을 내놓는다 · 결과 — 경쟁자가 그 가장자리에서 멈춘다"
+
+- tl preview alt: "Ilustrasyon: mga kadenang parang kuwintas ng bilog na bacteria na nakahimlay sa basang pelikula sa pagitan ng malalambot na tagaytay, may mahinang coral na singsing sa paligid ng isang kadena"
+- tl hero alt: "Ilustrasyon: pumupwesto ang mga kadena ng bilog na bacteria sa basang pelikula sa malalambot na tagaytay at naglalabas sila ng maliliit na gintong butil; ang mga karibal na kadenang papalapit ay nanlalambot sa gilid ng puwesto nila"
+- tl card alt: "Ligtas ba ang mikrobyo ng dila? — isang babaeng nakaupo na may tasa ng tsaa sa balkonahe tuwing umaga"
+- tl card question: "Ligtas ba ang mikrobyo ng dila?"
+- tl plate lines: "Una — nasa dila mula pagkasilang · Tapos — naglalabas ito ng sariling antibiotics · Kaya — humihimpil ang karibal sa gilid nito"
+
+- ja preview alt: "イラスト：やわらかい隆起のあいだの湿った膜に、数珠のような丸い細菌の鎖が横たわり、一本の鎖のまわりにかすかな珊瑚色の輪がある"
+- ja hero alt: "イラスト：丸い細菌の鎖がやわらかい隆起の上の湿った膜に落ち着き、小さな金色の粒を放つ。流れ込んできた競争相手の鎖は、その縄張りの縁で力を失っていく"
+- ja card alt: "舌の常在菌は安全ですか？ — 朝、女性がバルコニーで紅茶のカップを手に座っている"
+- ja card question: "舌の常在菌は安全ですか？"
+- ja plate lines: "まず — 生まれた日から舌にいる · 次に — 自前の抗生物質を放つ · 結果 — 競争相手が縁で足を止める"

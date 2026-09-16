@@ -100,8 +100,8 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - fr preview alt: "Illustration : une cellule en bâtonnet de Bacillus coagulans portant une spore ovale dorée, des spores libres à côté d'elle sur une balle végétale sèche"
 - fr hero alt: "Illustration : des spores dormantes de Bacillus coagulans arrivent dans l'intestin, l'une s'ouvre et un bâtonnet corail en sort, puis les bâtonnets passent le long de la muqueuse et s'en vont sans s'installer"
-- fr card alt: "Les spores probiotiques restent-elles ? — une femme de trente ans attend le bus, son sac à la main, dans la lumière froide"
-- fr card question: "Les spores probiotiques restent-elles ?"
+- fr card alt: "Les spores restent-elles ? — une femme de trente ans attend le bus, son sac à la main, dans la lumière froide"
+- fr card question: "Les spores restent-elles ?"
 - fr plate lines: "D'abord — les spores arrivent endormies et intactes · Ensuite — l'une se réveille et acidifie le sucre · Résultat — elles passent et s'en vont"
 
 - tr preview alt: "Çizim: tek bir altın renkli oval spor taşıyan çubuk biçimli bir Bacillus coagulans hücresi, yanında kuru bir bitki kabuğunun üzerinde serbest sporlar"

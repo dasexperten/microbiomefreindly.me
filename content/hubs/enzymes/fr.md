@@ -18,13 +18,13 @@ voice: greger
 answer: "Une enzyme coupe une liaison précise. La dextranase coupe la colle sucrée de la plaque dentaire ; la papaïne et la bromélaïne coupent les protéines ; le lysozyme coupe la paroi des bactéries ; la glucose oxydase transforme le glucose en antiseptique doux. Aucune ne tue largement : elles retirent la structure, d'où leur étude sur les biofilms."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/enzymes/enzymes-card-en.webp"
-  cardLine: "Les enzymes tuent-elles les bactéries ?"
-  cardAlt: "Les enzymes tuent-elles les bactéries ? — une femme coupe ananas et papaye à sa table en fin de matinée"
-  og: "/assets/img/mbf/hubs/enzymes/enzymes-og-en.jpg"
+  card: "/assets/img/mbf/hubs/enzymes/enzymes-card-fr.webp"
+  cardLine: "Les enzymes tuent-elles ?"
+  cardAlt: "Les enzymes tuent-elles ? — une femme coupe ananas et papaye à sa table en fin de matinée"
+  og: "/assets/img/mbf/hubs/enzymes/enzymes-og-fr.jpg"
   preview: "/assets/img/mbf/hubs/enzymes/enzymes-preview.webp"
   previewAlt: "Illustration : une protéine enzymatique repliée tient une chaîne de sucre dans son sillon et coupe un maillon, marqué corail, à contre-jour chaud"
-  plate: "/assets/img/mbf/hubs/enzymes/enzymes-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/enzymes/enzymes-plate-fr.webp"
   plateLines: "D'abord — un filet de sucre tient la plaque · Ensuite — l'enzyme coupe un maillon · Résultat — le filet cède, les cellules vivent"
   hero: "/assets/img/mbf/hubs/enzymes/enzymes-hero.webp"
   heroAlt: "Illustration : des chaînes de bactéries rondes prises dans un filet de chaînes de sucre ; des enzymes coupent ces chaînes en des points vert citron et les bactéries libérées s'éloignent, intactes"

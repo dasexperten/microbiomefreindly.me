@@ -155,3 +155,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ro card alt: "A eșuat studiul clinic? — un bărbat de patruzeci de ani așteaptă singur în stație, în lumina rece a dimineții"
 - ro card question: "A eșuat studiul clinic?"
 - ro plate lines: "Mai întâi — celule moarte se așază în mucus · Apoi — o celulă intestinală eliberează GLP-1 · Rezultat — 30 de miliarde de celule, nimic schimbat"
+
+- zh-Hans preview alt: "插画：完整、静止的椭圆形阿克曼菌躺在肠道黏液被啃出的凹坑里，下方透出一抹珊瑚色的肠壁"
+- zh-Hans hero alt: "插画：密集漂浮的热灭活椭圆形阿克曼菌堆在肠道黏液里；肠壁上一个激素细胞放出一束金光，而更远处的组织毫无变化"
+- zh-Hans card alt: "这项试验失败了吗？ — 一位四十多岁的男性在清冷的晨光里独自等公交车"
+- zh-Hans card question: "这项试验失败了吗？"
+- zh-Hans plate lines: "首先 — 死细胞沉在黏液里 · 接着 — 一个肠道细胞放出 GLP-1 · 结果 — 300亿个细胞，什么也没动"

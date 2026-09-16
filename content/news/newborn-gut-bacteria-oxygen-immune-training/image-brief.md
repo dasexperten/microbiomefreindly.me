@@ -185,8 +185,8 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - fr preview alt: "Illustration : de courts bâtonnets de Bacteroides fragilis à contre-jour sur une jeune surface intestinale, le bord scellé d'une membrane luisant de vert"
 - fr hero alt: "Illustration : un court bâtonnet garde le bord scellé de sa membrane tandis que des grains d'air passent, et la même graisse de membrane est transmise à une jeune cellule immunitaire qui grandit en la lisant"
-- fr card alt: "L'intestin du nouveau-né est-il sans air ? — une jeune mère s'adosse au fauteuil près de la fenêtre, à l'aube"
-- fr card question: "L'intestin du nouveau-né est-il sans air ?"
+- fr card alt: "Y a-t-il de l’air dedans ? — une jeune mère s'adosse au fauteuil près de la fenêtre, à l'aube"
+- fr card question: "Y a-t-il de l’air dedans ?"
 - fr plate lines: "D'abord — il reste de l'air dans un intestin neuf · Ensuite — une graisse scelle la paroi du microbe · Résultat — la même graisse instruit l'immunité"
 
 - tr preview alt: "Çizim: genç bir bağırsak yüzeyinde arkadan aydınlatılmış kısa Bacteroides fragilis çubukları, mühürlü zar kenarlarından biri yeşille parlıyor"
@@ -200,3 +200,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ro card alt: "Intestinul nou-născutului e fără aer? — o proaspătă mamă se lasă pe spate în fotoliul de la fereastră, în zori"
 - ro card question: "Intestinul nou-născutului e fără aer?"
 - ro plate lines: "Mai întâi — aerul mai zăbovește într-un intestin nou · Apoi — o grăsime sigilează peretele microbului · Rezultat — aceeași grăsime învață celulele imune"
+
+- zh-Hans preview alt: "插画：幼嫩肠壁上短杆状的脆弱拟杆菌被逆光照着，其中一圈封好的细胞膜边缘泛着青柠色的光"
+- zh-Hans hero alt: "插画：一根短杆菌守着自己封好的细胞膜边缘，空气微粒从旁飘过；同一种膜脂被交给一个年幼的免疫细胞，它靠读懂它而长大"
+- zh-Hans card alt: "新生儿的肠道里没有空气吗？ — 一位新妈妈在晨光初现时靠坐在窗边的椅子上"
+- zh-Hans card question: "新生儿的肠道里没有空气吗？"
+- zh-Hans plate lines: "首先 — 新生的肠道里还留着空气 · 接着 — 一种脂把这个微生物的壁封住 · 结果 — 同一种脂在教免疫细胞"

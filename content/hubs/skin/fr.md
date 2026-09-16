@@ -18,13 +18,13 @@ voice: greger
 answer: "L'axe intestin-peau est le lien à double sens entre microbiote intestinal et peau. Les bactéries intestinales façonnent les cellules immunitaires et les métabolites qui circulent jusqu'à la peau ; les microbes de la peau y répondent. Eczéma, acné et rosacée vont avec des changements intestinaux — par l'inflammation, la barrière et l'alimentation, non par des bactéries voyageant au visage."
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/skin/skin-card-en.webp"
+  card: "/assets/img/mbf/hubs/skin/skin-card-fr.webp"
   cardLine: "La peau reflète-t-elle l'intestin ?"
   cardAlt: "La peau reflète-t-elle l'intestin ? — une femme à une fenêtre ensoleillée le matin, les doigts posés sur la mâchoire"
-  og: "/assets/img/mbf/hubs/skin/skin-og-en.jpg"
+  og: "/assets/img/mbf/hubs/skin/skin-og-fr.jpg"
   preview: "/assets/img/mbf/hubs/skin/skin-preview.webp"
   previewAlt: "Illustration : des amas en grappe de bactéries rondes sur les cellules plates de la surface de la peau, et de courts bâtonnets corail au bord d'un pore"
-  plate: "/assets/img/mbf/hubs/skin/skin-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/skin/skin-plate-fr.webp"
   plateLines: "D'abord — les bactéries intestinales libèrent des molécules · Ensuite — le sang les transporte, pas elles · Résultat — les microbes de la peau répondent"
   hero: "/assets/img/mbf/hubs/skin/skin-hero.webp"
   heroAlt: "Illustration : les bactéries intestinales restent en place tandis que des molécules vert citron et des cellules immunitaires venues de la muqueuse voyagent dans le sang jusqu'à la surface de la peau et à ses propres microbes"

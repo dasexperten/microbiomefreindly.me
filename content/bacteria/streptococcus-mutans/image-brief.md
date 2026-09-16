@@ -155,3 +155,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ms card alt: "Semua orang bawa kuman gigi? — seorang lelaki muda mengambil gula-gula dari beg kertas di mejanya"
 - ms card question: "Semua orang bawa kuman gigi?"
 - ms plate lines: "Mula-mula — gula mendarat pada plak · Kemudian — ia memintal gam dan menghasilkan asid · Hasilnya — enamel di bawahnya larut"
+
+- tl preview alt: "Ilustrasyon: mga kadena ng hugis-itlog na bacteria na hawak ng malalagkit na hibla sa maputlang enamel na gilid-gilid, may isang berdeng kristal ng asukal sa gilid"
+- tl hero alt: "Ilustrasyon: natutunaw ang asukal sa gitna ng mga kadena ng hugis-itlog na bacteria sa enamel; nag-iikid sila ng malalagkit na hibla na nagdidikit sa kanila at naglalabas sila ng acid, at sa ilalim ng ulap ng acid ay lumuluwag ang mineral na ibabaw"
+- tl card alt: "May cavity germ ba ang lahat? — isang binatang kumukuha ng kendi mula sa supot na papel sa mesa niya"
+- tl card question: "May cavity germ ba ang lahat?"
+- tl plate lines: "Una — dumadapo ang asukal sa plaque · Tapos — nag-iikid sila ng pandikit at gumagawa ng acid · Kaya — natutunaw ang enamel sa ilalim"
+
+- ja preview alt: "イラスト：淡く筋の入ったエナメル質の上で、卵形の細菌の鎖が粘つく糸に絡めとられ、縁にライム色の砂糖の結晶が一粒ある"
+- ja hero alt: "イラスト：エナメル質の上の卵形の細菌の鎖のあいだで砂糖が溶け、菌は粘つく糸を紡いで自分を貼りつけ、酸を放つ。酸のもやの下で、鉱物の表面がゆるんでいく"
+- ja card alt: "虫歯菌は誰にでもいる？ — 若い男性が机で紙袋からキャンディーを取り出している"
+- ja card question: "虫歯菌は誰にでもいる？"
+- ja plate lines: "まず — 砂糖が歯垢に降りてくる · 次に — 菌が糊を紡ぎ、酸をつくる · 結果 — その下のエナメル質が溶ける"

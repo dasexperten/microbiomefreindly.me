@@ -142,8 +142,8 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - fr preview alt: "Illustration : des cellules fourchues de Bifidobacterium, en forme de Y, dans une poche calme du contenu intestinal limpide, une gouttelette corail dans l'une des fourches"
 - fr hero alt: "Illustration : les sucres du lait traversent intacts la muqueuse intestinale du nourrisson, des bâtonnets fourchus de Bifidobacterium les fermentent en gouttelettes d'acétate vert clair, et dix-neuf cellules sur vingt à droite sont les leurs"
-- fr card alt: "Toutes les bifidobactéries sont-elles bonnes ? — une femme de près de trente ans tient une tasse sur le canapé, à la lampe"
-- fr card question: "Toutes les bifidobactéries sont-elles bonnes ?"
+- fr card alt: "Toutes sont-elles bonnes ? — une femme de près de trente ans tient une tasse sur le canapé, à la lampe"
+- fr card question: "Toutes sont-elles bonnes ?"
 - fr plate lines: "D'abord — les sucres du lait passent sans être digérés · Ensuite — ces bâtonnets mangent ce que le bébé ne peut pas · Résultat — plus de 90 % de son intestin"
 
 - tr preview alt: "Çizim: berrak bağırsak içeriğinin durgun bir cebinde çatallı, Y biçimli Bifidobacterium hücreleri, bir çatalın içinde mercan rengi bir damlacık"

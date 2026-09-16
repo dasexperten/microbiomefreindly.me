@@ -175,3 +175,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ro card alt: "Zahărul dă cancer bucal? — o femeie pe balcon, noaptea târziu, mestecând, cu un pahar de vin în mână"
 - ro card question: "Zahărul dă cancer bucal?"
 - ro plate lines: "Mai întâi — zahărul și alcoolul ajung la placă · Apoi — microbii fac un cancerigen · Rezultat — peptida a ucis 91,37 %, nu tot"
+
+- zh-Hans preview alt: "插画：成串的圆形细菌和出芽的酵母被黏稠的薄膜裹在淡色牙釉质上，有一处变薄的地方泛着青柠色的光"
+- zh-Hans hero alt: "插画：牙釉质上牙菌斑外壳里的微生物放出乙醛；一种多肽让大多数安静下来，三个躲在里面的细胞一直活到酶把外壳溶开"
+- zh-Hans card alt: "糖会引起口腔癌吗？ — 一位女性深夜在自家阳台上嚼着东西，手里端着一杯葡萄酒"
+- zh-Hans card question: "糖会引起口腔癌吗？"
+- zh-Hans plate lines: "首先 — 糖和酒精到达牙菌斑 · 接着 — 微生物造出致癌物 · 结果 — 多肽杀死 91.37%，不是全部"

@@ -199,3 +199,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - tr card alt: "Kötü uyku bağırsağımı bozar mı? — bir kadın gecenin üçünde kısık bir lambanın yanında yatağının kenarında"
 - tr card question: "Kötü uyku bağırsağımı bozar mı?"
 - tr plate lines: "Önce — düzenli bir ritim, çok sayıda tür · Sonra — ritim düzensizleşir · Sonuç — aynı ölçüde dolu, daha az tür"
+
+- tl preview alt: "Ilustrasyon: apat na uri ng gut bacteria na magkakatabi sa makintab na pelikula ng mucus sa ilalim ng malalim na asul na liwanag ng gabi"
+- tl hero alt: "Ilustrasyon: gut bacteria sa gilid ng lining sa pantay na alon na nagiging gusot, siksikan pa rin ang pulutong pero mas kakaunti na ang iba't ibang uri ng selula"
+- tl card alt: "Nakakasama ba sa gut ang puyat? — isang babae sa gilid ng kama niya nang alas-tres ng madaling-araw, may mahinang ilaw"
+- tl card question: "Nakakasama ba sa gut ang puyat?"
+- tl plate lines: "Una — matatag na ritmo, maraming uri · Tapos — gumugusot ang ritmo · Kaya — siksikan pa rin, mas kaunting uri"

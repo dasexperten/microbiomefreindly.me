@@ -196,3 +196,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - zh-Hans card alt: "吃黏液的菌是好的吗？ — 一位女性在周六早晨的室内菜市场里挑绿叶菜"
 - zh-Hans card question: "吃黏液的菌是好的吗？"
 - zh-Hans plate lines: "首先 — 它啃食肠道的黏液外衣 · 接着 — 肠壁得到养分并造出更多 · 结果 — 没有纤维，这件外衣就被磨薄"
+
+- ko preview alt: "일러스트: 장 점막 위로 늘어진 점액 가닥들 사이에 타원형 세균들이 놓여 있고, 한 세포가 먹는 자리에서 가닥 하나가 해어진다"
+- ko hero alt: "일러스트: 타원형 세균들이 대장 점막 위 점액층을 뜯어 먹고 점막은 금빛 연료를 받아 새 점액을 만들며, 더 오른쪽에서는 빽빽해진 세균들이 그 층을 얇은 너울까지 닳게 한다"
+- ko card alt: "점액 먹는 균, 좋은가요? — 한 여자가 토요일 아침 실내 시장에서 잎채소를 고른다"
+- ko card question: "점액 먹는 균, 좋은가요?"
+- ko plate lines: "먼저 — 장의 점액 외투를 뜯어 먹는다 · 그다음 — 점막이 먹고 더 만들어 낸다 · 결과 — 식이섬유가 없으면 외투가 얇아진다"
+
+- ms preview alt: "Ilustrasi: bakteria bujur terbaring antara benang lendir yang teregang di atas lapisan usus, satu benang berjurai di tempat sebuah sel sedang makan"
+- ms hero alt: "Ilustrasi: bakteria bujur meragut lapisan lendir di atas lapisan kolon, yang menyerap bahan api keemasan dan menghasilkan lendir baharu; lebih ke kanan, bakteria yang berhimpit menghauskan lapisan itu menjadi selaput yang nipis"
+- ms card alt: "Baikkah si pemakan lendir? — seorang wanita memilih sayur berdaun di dewan pasar berbumbung pada pagi Sabtu"
+- ms card question: "Baikkah si pemakan lendir?"
+- ms plate lines: "Mula-mula — ia meragut salutan lendir usus · Kemudian — lapisan usus makan lalu menghasilkan lebih banyak · Hasilnya — tanpa serat, salutan itu menipis"
