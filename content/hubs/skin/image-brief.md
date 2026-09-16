@@ -103,3 +103,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Чи видно кишківник на шкірі? — жінка вранці біля сонячного вікна, кінчики пальців лежать на щелепі"
 - uk card question: "Чи видно кишківник на шкірі?"
 - uk plate lines: "Спершу — кишкові бактерії виділяють молекули · Потім — кров несе молекули, а не бактерій · Підсумок — власні мікроби шкіри відповідають"
+
+- pl preview alt: "Ilustracja: winogronowe grona okrągłych bakterii na płaskich komórkach powierzchni skóry i koralowe krótkie pałeczki przy brzegu poru"
+- pl hero alt: "Ilustracja: bakterie jelitowe zostają na miejscu, a limonkowe cząsteczki i komórki odpornościowe z wyściółki jelita płyną krwią do powierzchni skóry i jej własnych drobnoustrojów"
+- pl card alt: "Czy jelita widać na skórze? — kobieta przy nasłonecznionym oknie rano, opuszki palców na żuchwie"
+- pl card question: "Czy jelita widać na skórze?"
+- pl plate lines: "Najpierw — bakterie jelit uwalniają cząsteczki · Potem — krew niesie je, nie bakterie · Efekt — odpowiadają drobnoustroje skóry"

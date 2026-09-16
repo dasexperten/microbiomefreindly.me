@@ -102,3 +102,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Що буде без клітковини? — жінка за сорок ставить паперовий пакунок зелені на ринковий стіл опівдні"
 - uk card question: "Що буде без клітковини?"
 - uk plate lines: "Спершу — рослинне волокно доходить до них цілим · Потім — вони розбирають його для вас · Наслідок — без клітковини вони їдять вашу вистилку"
+
+- pl preview alt: "Ilustracja: pulchne pałeczki Bacteroidota zebrane na postrzępionym, limonkowo podbarwionym przerwanym końcu włókna roślinnego, podświetlone od tyłu"
+- pl hero alt: "Ilustracja: pulchne pałeczki rozbierają włókno roślinne na złote okruchy nad grubą warstwą śluzu; dalej po prawej, gdy błonnika już nie ma, te same pałeczki skubią śluz i warstwa cienieje"
+- pl card alt: "Co się dzieje bez błonnika? — kobieta po czterdziestce kładzie papierową torbę z warzywami na straganie w południe"
+- pl card question: "Co się dzieje bez błonnika?"
+- pl plate lines: "Najpierw — błonnik roślinny dociera do nich cały · Potem — rozbierają go za ciebie · Efekt — bez błonnika jedzą twoją wyściółkę"

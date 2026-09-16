@@ -60,7 +60,7 @@ images:
   preview: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-preview.webp"
   previewAlt: "Ілюстрація: веретеноподібні й короткі товсті бактерії в нальоті між округлими сосочками язика, догори піднімаються дрібні золоті бульбашки газу"
   plate: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-plate-uk.webp"
-  plateLines: "Спочатку — мікроби рота їдять білок · Потім — фермент зрізає сірку · Підсумок — цей ген упав на 98 %, у чашці"
+  plateLines: "Спочатку — мікроби рота їдять білок · Потім — фермент зрізає сірку · Підсумок — цей ген упав на 98 %, у чашці"
   hero: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-hero.webp"
   heroAlt: "Ілюстрація: анаероби рота, повні ферментів, що ріжуть сірку, випускають дрібні бульбашки; їх омиває рідина від молочнокислих бактерій — і ферменти майже зникають"
 referral:

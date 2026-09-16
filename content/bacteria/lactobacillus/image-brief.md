@@ -102,3 +102,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ar card alt: "هل يعيش الزبادي في أمعائك؟ — رجل يأكل زبادي سادة عند طاولة مطبخه في أول الضوء"
 - ar card question: "هل يعيش الزبادي في أمعائك؟"
 - ar plate lines: "أولاً — العصيات تأكل السكر في جيب ساكن · ثم — حمضها يحمّض المكان · النتيجة — في الأمعاء نحو 0.01 %"
+
+- uk preview alt: "Ілюстрація: короткі ланцюжки паличкоподібних клітин Lactobacillus лежать у молочній плівці, що скисає, навколо одного ланцюжка ледь помітний золотавий серпанок"
+- uk hero alt: "Ілюстрація: ліворуч палички Lactobacillus тісняться в кислому закутку із золотавим відтінком, а праворуч на слизовій кишківника один невеликий ланцюжок серед незліченних інших бактерій"
+- uk card alt: "Йогурт живе у кишківнику? — чоловік їсть простий йогурт біля кухонної стільниці у перших променях"
+- uk card question: "Йогурт живе у кишківнику?"
+- uk plate lines: "Спершу — палички їдять цукор у тихому закутку · Потім — їхня кислота закислює простір · Підсумок — у кишківнику близько 0,01 %"
+
+- pl preview alt: "Ilustracja: krótkie łańcuszki pałeczkowatych komórek Lactobacillus spoczywają w kwaśniejącej błonce mleka, wokół jednego łańcuszka słaba złota mgiełka"
+- pl hero alt: "Ilustracja: po lewej pałeczki Lactobacillus tłoczą się w kwaśnym, złotawym zakątku, a po prawej na śluzówce jelita jeden mały łańcuszek siedzi wśród niezliczonych innych bakterii"
+- pl card alt: "Czy jogurt żyje w jelitach? — mężczyzna je naturalny jogurt przy blacie kuchennym w pierwszym świetle dnia"
+- pl card question: "Czy jogurt żyje w jelitach?"
+- pl plate lines: "Najpierw — pałeczki jedzą cukier w cichym zakątku · Potem — ich kwas zakwasza przestrzeń · Efekt — w jelitach około 0,01 %"

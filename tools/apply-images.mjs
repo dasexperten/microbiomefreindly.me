@@ -31,8 +31,12 @@ for (const [cluster, files] of Object.entries(byCluster)) {
     const mm = f.match(/^([a-zA-Z-]+)\.md$/); if (!mm || f.endsWith('.speech.md') || f === 'image-brief.md') continue;
     const lang = mm[1]; const p = join(dir, f); let txt = readFileSync(p, 'utf8');
     const lc = lang.toLowerCase();
-    const a = alts[lc] || alts[lang] || alts.en || {};
-    if (!alts[lc] && !alts[lang]) console.warn(`  no alt block for ${cluster} ${lang} — English text would be written; skipped`);
+    /* The warning below used to say "skipped" and then write English over the locale's own words
+     * anyway. With several translators in the same tree that is silent data loss: an Arabic file had
+     * its alts replaced by English in the minute between the article landing and its brief lines
+     * being appended. A locale with no alt block is now genuinely left alone. */
+    const a = alts[lc] || alts[lang];
+    if (!a) { console.warn(`  no alt block for ${cluster} ${lang} — left untouched, nothing of its own would be written`); continue; }
     /* per-locale files carry the locale in the name; the shared, text-free frames do not */
     const card = files[`${slug}-card-${lc}.webp`] || '';
     const og = files[`${slug}-og-${lc}.jpg`] || files[`${slug}-og.jpg`] || '';

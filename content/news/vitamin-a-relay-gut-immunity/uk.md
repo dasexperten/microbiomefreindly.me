@@ -66,7 +66,7 @@ images:
   preview: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-preview.webp"
   previewAlt: "Ілюстрація: сегментовані бактерійні нитки, укорінені кінчиками в м'якій складці слизової кишківника, маленький золотий зблиск там, де одна входить"
   plate: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-plate-uk.webp"
-  plateLines: "Спочатку — кишкові бактерії будять слизову · Потім — білки-носії підхоплюють ретинол · Підсумок — до імунних клітин доходить менш як 2 %"
+  plateLines: "Спочатку — кишкові бактерії будять слизову · Потім — білки-носії підхоплюють ретинол · Підсумок — до імунних клітин доходить менш як 2 %"
   hero: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-hero.webp"
   heroAlt: "Ілюстрація: сегментовані бактерії, укорінені в слизовій кишківника, у клітинах якої золоті краплини вітаміну А; одна краплина переходить до гіллястої імунної клітини і далі до T-клітин"
 referral:

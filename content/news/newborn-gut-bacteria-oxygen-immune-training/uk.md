@@ -67,16 +67,16 @@ sources:
     doi: "10.1073/pnas.1718635115"
     pmid: "29610310"
 images:
-  card: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-card-en.webp"
-  cardLine: "Is a newborn gut airless?"
-  cardAlt: "Is a newborn gut airless? — a new mother sits back in the chair by the window at first light"
-  og: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-og-en.jpg"
+  card: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-card-uk.webp"
+  cardLine: "Чи є повітря в кишківнику?"
+  cardAlt: "Чи є повітря в кишківнику? — молода мати відкидається у кріслі біля вікна на світанку"
+  og: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-og-uk.jpg"
   preview: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-preview.webp"
-  previewAlt: "Illustration: short rods of Bacteroides fragilis backlit on a young gut surface, one sealed membrane rim gleaming lime"
-  plate: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-plate-en.webp"
-  plateLines: "First — air still lingers in a new gut · Then — one fat seals the microbe's wall · So — the same fat teaches immune cells"
+  previewAlt: "Ілюстрація: короткі палички Bacteroides fragilis у контровому світлі на молодій поверхні кишківника, край однієї ущільненої мембрани світиться лаймом"
+  plate: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-plate-uk.webp"
+  plateLines: "Спершу — у новому кишківнику ще є повітря · Потім — один жир ущільнює стінку мікроба · Підсумок — той самий жир навчає імунні клітини"
   hero: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-hero.webp"
-  heroAlt: "Illustration: a short rod holds its sealed membrane rim while air motes drift past, and the same membrane fat is handed on to a young immune cell that grows by reading it"
+  heroAlt: "Ілюстрація: коротка паличка тримає щільний край своєї мембрани, поки повз пропливають порошинки повітря, а той самий мембранний жир передається молодій імунній клітині, яка росте, читаючи його"
 referral:
   product: ""
   mayaLog: ""
@@ -111,7 +111,7 @@ status: published
 
 Ось тут це перестає бути трюком бактеріального виживання. Альфа-галактозилцерамід, поданий на CD1d, ефективно активує окремий клас імунних клітин: інваріантні природні кілерні T-клітини, які читають ліпіди, а не білки [s4]. Молекула, яку мікроб побудував для фізики власної мембрани, тому неминуче є повідомленням, яке хазяїн може прочитати. Нова робота повідомляє, що BfaGC налаштовує розвиток природних кілерних T-клітин у новонароджених [s1] — пристосованість бактерії й дозрівання імунітету проходять через один метаболіт.
 
-Це лягає поверх ранішої роботи — статей 2012 і 2014 років із тих самих бостонських лабораторій (Каспер, Блумберг) і статті 2019 року від незалежної групи в Гайдельберзі. У 2012 році показали, що стерильні миші накопичують ці клітини у власній пластинці товстої кишки і в легенях і почуваються гірше за мишей без специфічних патогенів у моделях коліту та алергічної астми; заселення у віці новонароджених їх захищало, заселення в дорослому віці — ні [s3]. У 2014 році показали, що глікосфінголіпіди *B. fragilis* — серед них виділений пік під назвою GSL-Bf717, молекулярна маса 717,6 — стримують розмноження iNKT у товстій кишці новонароджених мишей [s2]. У 2019 році мас-спектрометрія знайшла альфа-галактозилцерамід у кількості 1–15 пмоль на міліграм білка у сліпій і товстій кишці миші й зовсім не знайшла його у стерильних тварин на однаковій їжі [s4]: джерело — комменсали, а не миша. Варто додати, бо це легко змішати: молекула, знайдена в кишківнику миші, — бета-гідроксильований гексадеканоїльний ланцюг, N-зв'язаний із C18-сфінганіном, — структурно відрізнялася від альфа-галактозилцераміду, описаного в *B. fragilis* [s4].
+Це лягає поверх ранішої роботи — статей 2012 і 2014 років із тих самих бостонських лабораторій (Каспер, Блумберг) і статті 2019 року від незалежної групи в Гайдельберзі. У 2012 році показали, що стерильні миші накопичують ці клітини у власній пластинці товстої кишки і в легенях і почуваються гірше за мишей без специфічних патогенів у моделях коліту та алергічної астми; заселення у віці новонароджених їх захищало, заселення в дорослому віці — ні [s3]. У 2014 році показали, що глікосфінголіпіди *B. fragilis* — серед них виділений пік під назвою GSL-Bf717, молекулярна маса 717,6 — стримують розмноження iNKT у товстій кишці новонароджених мишей [s2]. У 2019 році мас-спектрометрія знайшла альфа-галактозилцерамід у кількості 1–15 пмоль на міліграм білка у сліпій і товстій кишці миші й зовсім не знайшла його у стерильних тварин на однаковій їжі [s4]: джерело — комменсали, а не миша. Варто додати, бо це легко змішати: молекула, знайдена в кишківнику миші, — бета-гідроксильований гексадеканоїльний ланцюг, N-зв'язаний із C18-сфінганіном, — структурно відрізнялася від альфа-галактозилцераміду, описаного в *B. fragilis* [s4].
 
 Стаття 2026 року зазначає й те, що це не загальна стратегія групи [s1]: інші помітні кишкові Bacteroidales роблять інший підклас сфінголіпідів, який підтримує ширшу пристосованість. Різні лінії, різні ставки. Варто пам'ятати, коли читаєте будь-що про [Bacteroidota](/bacteria/bacteroidota/) як про єдиний блок.
 

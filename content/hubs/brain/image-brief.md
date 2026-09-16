@@ -102,3 +102,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Бактерії впливають на настрій? — жінка стоїть біля вікна вітальні в сутінках, долоня на потилиці"
 - uk card question: "Бактерії впливають на настрій?"
 - uk plate lines: "Спершу — мікроби кишківника виділяють молекули · Потім — клітина стінки їх вловлює й подає сигнал · Підсумок — нерв несе його, а вони лишаються"
+
+- pl preview alt: "Ilustracja: sieć skupisk komórek nerwowych połączonych pęczkami włókien na mięśniowej ścianie jelita, jedno skupisko limonkowe"
+- pl hero alt: "Ilustracja: bakterie jelitowe uwalniają małe cząsteczki, komórka hormonalna w wyściółce jelita je wyczuwa, a złoty sygnał biegnie nerwem w stronę mózgu"
+- pl card alt: "Czy bakterie wpływają na nastrój? — kobieta stoi o zmierzchu przy oknie salonu, z dłonią na szyi"
+- pl card question: "Czy bakterie wpływają na nastrój?"
+- pl plate lines: "Najpierw — drobnoustroje wydzielają cząsteczki · Potem — komórka jelita je wyczuwa · Efekt — nerw niesie sygnał, one zostają"

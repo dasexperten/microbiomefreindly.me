@@ -92,3 +92,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - vi card alt: "Phổ biến vậy mà gây bệnh? — một phụ nữ dừng lại ở hành lang sau bữa trưa, bàn tay áp phẳng dưới xương sườn"
 - vi card question: "Phổ biến vậy mà gây bệnh?"
 - vi plate lines: "Đầu tiên — nó tạo một đám mây trung tính trong axit · Sau đó — nó khoan xuống lớp chất nhầy · Kết quả — nó bám vào niêm mạc suốt đời"
+
+- uk preview alt: "Ілюстрація: спіральні бактерії з жмутком хвостиків на одному кінці лежать у слизі над вистилкою шлунка, одна — у прозорій кишені"
+- uk hero alt: "Ілюстрація: спіральна бактерія огортає себе маленькою нейтральною хмаркою в шлунковій кислоті, штопором угвинчується вглиб слизу і чіпляється до вистилки поряд з іншими, що вже осіли"
+- uk card alt: "Чи може настільки поширене шкодити? — жінка спиняється в коридорі після обіду, долоня плазом під ребрами"
+- uk card question: "Чи може настільки поширене шкодити?"
+- uk plate lines: "Спершу — вона робить у кислоті нейтральну хмарку · Потім — угвинчується вглиб слизу · Наслідок — чіпляється до вистилки довіку"

@@ -91,3 +91,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Чи спори пробіотика лишаються? — жінка за тридцять чекає на автобусній зупинці із сумкою в холодному денному світлі"
 - uk card question: "Чи спори пробіотика лишаються?"
 - uk plate lines: "Спершу — спори приходять сплячими й цілими · Потім — одна прокидається і закислює цукор · Наслідок — вони пропливають повз і йдуть"
+
+- pl preview alt: "Ilustracja: pałeczkowata komórka Bacillus coagulans z jednym złotym owalnym przetrwalnikiem, obok wolne przetrwalniki na suchej łusce roślinnej"
+- pl hero alt: "Ilustracja: uśpione przetrwalniki Bacillus coagulans docierają do jelita, jeden pęka i wyrasta z niego koralowa pałeczka, a pałeczki przepływają obok wyściółki i odpływają, nie osiadając"
+- pl card alt: "Czy przetrwalniki zostają w jelicie? — kobieta po trzydziestce czeka z torbą na przystanku w zimnym świetle"
+- pl card question: "Czy przetrwalniki zostają w jelicie?"
+- pl plate lines: "Najpierw — przetrwalniki przybywają uśpione i całe · Potem — jeden budzi się i zakwasza cukier · Efekt — przepływają obok i odchodzą"

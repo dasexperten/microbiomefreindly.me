@@ -19,7 +19,7 @@ answer: "Porphyromonas gingivalis — анаероб (живе без кисню
 keyFacts:
   - fact: "Вона не здатна зброджувати цукри: росте на пептидах і потребує гему як джерела заліза."
     source: s2
-  - fact: "Імунофлуоресценція виявила її у 85,7 % людей із хворобою пародонта і у 23,1 % здорових."
+  - fact: "Імунофлуоресценція виявила її у 85,7 % людей із хворобою пародонта і у 23,1 % здорових."
     source: s3
   - fact: "Її гінгіпаїни ріжуть білки після аргініну і після лізину, і власні інгібітори протеаз тіла їх майже не стримують."
     source: s8
@@ -29,7 +29,7 @@ keyFacts:
     source: s10
 faq:
   - q: "Якщо в мене є Porphyromonas gingivalis, це означає хворобу ясен?"
-    a: "Ні. В одному обстеженні її знайшли у 23,1 % людей зі здоровим пародонтом [s3], а в іншому — більш ніж у половини здорових [s4]. Носійство поширене, руйнівна хвороба — ні. Різницю робить стан довколишньої спільноти та імунна відповідь, а не сама присутність організму."
+    a: "Ні. В одному обстеженні її знайшли у 23,1 % людей зі здоровим пародонтом [s3], а в іншому — більш ніж у половини здорових [s4]. Носійство поширене, руйнівна хвороба — ні. Різницю робить стан довколишньої спільноти та імунна відповідь, а не сама присутність організму."
   - q: "Чи корисна вона бодай чимось?"
     a: "Нічим із показаного. Графа користі порожня. Найчесніше позитивне твердження, яке можна зробити: роками вона здатна жити в тому, що один великий огляд називає комменсальною злагодою з хазяїном, не завдаючи жодної шкоди [s2]."
   - q: "Чи справді вона спричиняє хворобу Альцгеймера?"
@@ -96,22 +96,22 @@ entity:
   wikidata: "Q3214147"
   ncbiTaxId: "837"
 images:
-  card: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-card-en.webp"
-  cardLine: "Does carrying it mean disease?"
-  cardAlt: "Does carrying it mean disease? — a woman sits on the edge of her bed at night, a glass of water in both hands"
-  og: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-og-en.jpg"
+  card: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-card-uk.webp"
+  cardLine: "Носійство означає хворобу?"
+  cardAlt: "Носійство означає хворобу? — жінка сидить уночі на краю ліжка, тримаючи склянку води обома руками"
+  og: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-og-uk.jpg"
   preview: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-preview.webp"
-  previewAlt: "Illustration: plump dark rod-shaped bacteria rest in a wet film inside a narrow crevice, rippling light and gold haem glints"
-  plate: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-plate-en.webp"
-  plateLines: "First — it rests quiet among neighbours · Then — the balance tips, its enzymes cut · So — the pocket seeps and feeds it"
+  previewAlt: "Ілюстрація: пухкі темні паличкоподібні бактерії лежать у вологій плівці всередині вузької щілини, світло брижиться, зблискує золото гему"
+  plate: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-plate-uk.webp"
+  plateLines: "Спершу — вона тихо лежить серед сусідів · Потім — рівновага хитається, її ферменти ріжуть · Підсумок — кишеня сочиться і годує її"
   hero: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-hero.webp"
-  heroAlt: "Illustration: plump dark rods rest in a mixed pocket biofilm; as the community shifts they release enzymes that snip defence proteins apart, and seeping fluid brings them food"
+  heroAlt: "Ілюстрація: пухкі темні палички лежать у змішаній біоплівці кишені; коли спільнота зсувається, вони випускають ферменти, що розрізають захисні білки, а рідина, яка сочиться, приносить їм їжу"
 referral:
   product: ""
   mayaLog: ""
   benefitGate: ""
 gates:
-  marketolog: "hook lock 2026-09-02 (gate run) — title carries a contrarian hook (healthy mouths carry a gum-disease suspect), not a neutral description; re-scored against 3 types: curiosity gap 'the mouth microbe that ignores sugar' 7, concrete number 'lives in 23 % of healthy mouths' 7, contrarian (current) 8 — kept: contrarian, 69 chars"
+  marketolog: "hook lock 2026-09-02 (gate run) — title carries a contrarian hook (healthy mouths carry a gum-disease suspect), not a neutral description; re-scored against 3 types: curiosity gap 'the mouth microbe that ignores sugar' 7, concrete number 'lives in 23 % of healthy mouths' 7, contrarian (current) 8 — kept: contrarian, 69 chars"
   segmentCheck: "PASS 7/8 (gate run 2026-09-02, 8 EN personas on title, meta, answer, 6 H2, closing; no rework needed; weak spot: Margaret 64 second-reads the keystone sentence in the closing paragraph)"
   factCheck: "verified 2026-09-02 — 41 claims traced, 0 removed, 4 corrected"
   register: "pending (UK)"
@@ -136,9 +136,9 @@ Porphyromonas gingivalis — грамнегативна анаеробна ас�
 
 Тут чесна відповідь коротка: нічого показаного. Встановленої користі Porphyromonas gingivalis для здоров'я людини немає — жодного вітаміну, який вона постачає, жодного збудника, якого вона витісняє, жодного метаболіту, від якого ми залежимо. Якби я сказав вам інакше, я б це вигадав.
 
-Що сказати можна і варто голосно — носити її не означає від неї потерпати. Один великий огляд описує організм як опортуніста, здатного жити і в комменсальній злагоді з хазяїном, а епізоди хвороби йдуть за зсувом екологічної рівноваги в кишені, а не за простим прибуттям бактерії [s2]. Дані про поширеність із цим згодні. В одному обстеженні з імунофлуоресценцією організм знайшли у 85,7 % людей із хворобою пародонта і у 23,1 % здорових [s3]. У новішому дослідженні з ПЛР у реальному часі його виявили у 91,5 % пацієнтів із хронічним пародонтитом і у 58 % здорових людей [s4]. Якщо рахувати не за людьми, а за ділянками, старіше дослідження методом «шахівниці» знайшло його в середньому у 23 % узятих ділянок у пацієнтів із пародонтитом і у 4 % ділянок у здорових [s5].
+Що сказати можна і варто голосно — носити її не означає від неї потерпати. Один великий огляд описує організм як опортуніста, здатного жити і в комменсальній злагоді з хазяїном, а епізоди хвороби йдуть за зсувом екологічної рівноваги в кишені, а не за простим прибуттям бактерії [s2]. Дані про поширеність із цим згодні. В одному обстеженні з імунофлуоресценцією організм знайшли у 85,7 % людей із хворобою пародонта і у 23,1 % здорових [s3]. У новішому дослідженні з ПЛР у реальному часі його виявили у 91,5 % пацієнтів із хронічним пародонтитом і у 58 % здорових людей [s4]. Якщо рахувати не за людьми, а за ділянками, старіше дослідження методом «шахівниці» знайшло його в середньому у 23 % узятих ділянок у пацієнтів із пародонтитом і у 4 % ділянок у здорових [s5].
 
-Зверніть увагу: ці цифри носійства в здорових — 23,1 % [s3] і 58 % [s4] — розходяться між собою більш ніж удвічі. Це не скандал, це те, що стається, коли різні лабораторії застосовують різні методи виявлення до різних груп людей. Чутлива ПЛР знаходить ДНК, яку імунофлуоресценція пропускає. Виносити звідси треба не якийсь один відсоток, а форму їх усіх: організм частіше трапляється при хворобі — і попри це присутній у чималій частці ротів, з якими все гаразд.
+Зверніть увагу: ці цифри носійства в здорових — 23,1 % [s3] і 58 % [s4] — розходяться між собою більш ніж удвічі. Це не скандал, це те, що стається, коли різні лабораторії застосовують різні методи виявлення до різних груп людей. Чутлива ПЛР знаходить ДНК, яку імунофлуоресценція пропускає. Виносити звідси треба не якийсь один відсоток, а форму їх усіх: організм частіше трапляється при хворобі — і попри це присутній у чималій частці ротів, з якими все гаразд.
 
 ## Що вона робить проти нас
 

@@ -101,3 +101,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Чи вбивають ферменти бактерій? — жінка ріже ананас і папаю за обіднім столом у пізньому ранковому сонці"
 - uk card question: "Чи вбивають ферменти бактерій?"
 - uk plate lines: "Спершу — цукрова сітка тримає наліт · Потім — фермент перетинає одну ланку · Підсумок — сітка падає, клітини живі"
+
+- pl preview alt: "Ilustracja: zwinięte białko enzymu trzyma w rowku łańcuch cukrowy i przecina jedno ogniwo, zaznaczone koralowo, w ciepłym świetle od tyłu"
+- pl hero alt: "Ilustracja: łańcuszki okrągłych bakterii uwięzione w sieci łańcuchów cukrowych; białka enzymów tną te łańcuchy w limonkowych punktach, a uwolnione bakterie odpływają całe"
+- pl card alt: "Czy enzymy zabijają bakterie? — kobieta kroi ananasa i papaję przy stole w późnym porannym słońcu"
+- pl card question: "Czy enzymy zabijają bakterie?"
+- pl plate lines: "Najpierw — sieć cukrów trzyma płytkę · Potem — enzym tnie jedno ogniwo · Efekt — sieć opada, komórki żyją"

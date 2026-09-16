@@ -100,3 +100,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Чи здоровий мій мікробіом? — жінка ввечері підіймається сходами до свого дому з торбою овочів"
 - uk card question: "Чи здоровий мій мікробіом?"
 - uk plate lines: "Спершу — надходить клітковина, яку ми не перетравлюємо · Потім — натовп її зброджує · Підсумок — кислоти живлять стінку кишківника"
+
+- pl preview alt: "Ilustracja: mieszany tłum pałeczkowatych i okrągłych bakterii jelitowych żeruje na strzępie roślinnego błonnika o złotym postrzępionym brzegu"
+- pl hero alt: "Ilustracja: roślinny błonnik dociera do jelita grubego, bakterie go fermentują, a koralowe cząsteczki krótkołańcuchowych kwasów tłuszczowych przechodzą do komórek wyściółki jelita"
+- pl card alt: "Czy moje jelita są zdrowe? — kobieta wchodzi wieczorem po schodach do domu z siatką warzyw"
+- pl card question: "Czy moje jelita są zdrowe?"
+- pl plate lines: "Najpierw — przychodzi błonnik, którego nie trawimy · Potem — tłum go fermentuje · Efekt — kwasy karmią ścianę jelita"

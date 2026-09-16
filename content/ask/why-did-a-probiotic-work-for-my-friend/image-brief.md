@@ -129,3 +129,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - vi card alt: "Cô ấy hợp, sao tôi không? — một phụ nữ bên bàn quán cà phê buổi chiều, ly thứ hai đặt đối diện"
 - vi card question: "Cô ấy hợp, sao tôi không?"
 - vi plate lines: "Đầu tiên — sáu chủng trông giống hệt nhau · Sau đó — cùng một ruột, cùng điều kiện · Kết quả — chỉ 4 trong 6 làm được gì đó"
+
+- uk preview alt: "Ілюстрація: дві однакові групи паличкоподібних бактерій на хвилястому кишковому слизу; під однією слиз зсувається, під другою — ні"
+- uk hero alt: "Ілюстрація: шість однакових купок паличкоподібних бактерій осідають на тому самому кишковому слизу; під чотирма слиз помітно змінюється, під двома лишається недоторканим"
+- uk card alt: "Їй допомогло. Чому не мені? — жінка за столиком кав'ярні по обіді, навпроти друга чашка"
+- uk card question: "Їй допомогло. Чому не мені?"
+- uk plate lines: "Спочатку — шість штамів на вигляд однакові · Потім — той самий кишківник, ті самі умови · Підсумок — щось зробили 4 з 6"

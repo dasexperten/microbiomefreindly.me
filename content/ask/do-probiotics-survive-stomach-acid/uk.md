@@ -94,7 +94,7 @@ images:
   preview: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-preview.webp"
   previewAlt: "Ілюстрація: паличка з броньованою спорою всередині і три вільні спори лежать цілі в кислоті, а ніжні палички навколо них розпадаються"
   plate: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-plate-uk.webp"
-  plateLines: "Спочатку — юрба зустрічає кислоту · Потім — спори проходять, ніжні клітини гинуть · Підсумок — доходить 18,5 %, осідають одиниці"
+  plateLines: "Спочатку — юрба зустрічає кислоту · Потім — спори проходять, ніжні клітини гинуть · Підсумок — доходить 18,5 %, осідають одиниці"
   hero: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-hero.webp"
   heroAlt: "Ілюстрація: проковтнуті бактерії переходять шлункову кислоту; більшість вільних паличок розпадається, спори й закутана в оболонку купка проходять цілими, а біля слизової кишківника двоє вцілілих осідають у слизу, тоді як інші пропливають повз"
 referral:

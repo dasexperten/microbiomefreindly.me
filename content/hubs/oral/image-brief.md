@@ -101,3 +101,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Звідки береться зубний наліт? — жінка нахилилася над умивальником у прохолодному ранковому світлі"
 - uk card question: "Звідки береться зубний наліт?"
 - uk plate lines: "Спершу — бактерії чіпляються до емалі · Потім — цукор годує тих, хто робить кислоту · Підсумок — емаль під ними м'якшає"
+
+- pl preview alt: "Ilustracja: młody kopczyk okrągłych bakterii w krótkich łańcuszkach na szkliwie zęba, owinięty błyszczącym cukrowym żelem ze złotą obwódką"
+- pl hero alt: "Ilustracja: cukier wciąż dociera do kopczyka płytki na szkliwie zęba, przewagę biorą okrągłe bakterie produkujące kwas, a koralowa mgiełka kwasu zmiękcza szkliwo pod nimi"
+- pl card alt: "Skąd bierze się płytka nazębna? — kobieta pochyla się nad umywalką w chłodnym porannym świetle, zaraz po płukaniu"
+- pl card question: "Skąd bierze się płytka nazębna?"
+- pl plate lines: "Najpierw — bakterie przyklejają się do szkliwa · Potem — cukier karmi wytwórców kwasu · Efekt — szkliwo mięknie pod spodem"

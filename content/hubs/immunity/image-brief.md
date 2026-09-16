@@ -100,3 +100,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Як імунітет вчиться толерантності? — жінка спиняється біля хвіртки порожнього майданчика в низькому світлі надвечір"
 - uk card question: "Як імунітет вчиться толерантності?"
 - uk plate lines: "Спершу — бактерії подають сигнал крізь стінку · Потім — вартова клітина мовчить · Підсумок — толерантність тримається, тривоги немає"
+
+- pl preview alt: "Ilustracja: makrofag pod wyściółką jelita obejmuje koralowym ramieniem jedną pałeczkowatą bakterię w ciepłej plamie światła"
+- pl hero alt: "Ilustracja: bakterie nad grubą na jedną komórkę wyściółką jelita uwalniają małe cząsteczki; makrofag pod spodem je wchłania i pozostaje spokojny obok złotych limfocytów T regulatorowych"
+- pl card alt: "Skąd się bierze tolerancja? — kobieta zatrzymuje się przy bramce pustego placu zabaw w niskim popołudniowym słońcu"
+- pl card question: "Skąd się bierze tolerancja?"
+- pl plate lines: "Najpierw — bakterie dają sygnał przez ścianę · Potem — komórka patrolu milczy · Efekt — tolerancja trwa, bez alarmu"

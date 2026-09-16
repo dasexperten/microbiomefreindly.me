@@ -72,7 +72,7 @@ images:
   preview: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-preview.webp"
   previewAlt: "Ілюстрація: пухкі паличкоподібні кишкові бактерії і пари дрібних круглих клітин осіли на уламку рослинного волокна"
   plate: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-plate-uk.webp"
-  plateLines: "Спочатку — їжа зсуває суміш за день · Потім — через два дні вона сповзає назад · Підсумок — 60 % штамів лишаються роками"
+  plateLines: "Спочатку — їжа зсуває суміш за день · Потім — через два дні вона сповзає назад · Підсумок — 60 % штамів лишаються роками"
   hero: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-hero.webp"
   heroAlt: "Ілюстрація: два ряди по десять груп кишкових бактерій у слизу, куди припливає їжа; у пізнішому ряду шість груп незмінні, а чотири замінили новачки"
 referral:

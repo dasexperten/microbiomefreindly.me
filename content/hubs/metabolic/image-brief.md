@@ -104,3 +104,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - uk card alt: "Що робить нас ситими? — чоловік спиняється на краю парку в сутінках, щоб віддихатися"
 - uk card question: "Що робить нас ситими?"
 - uk plate lines: "Спершу — бактерії зброджують клітковину · Потім — жирні кислоти доходять до клітини кишківника · Підсумок — вона віддає GLP-1 у кров"
+
+- pl preview alt: "Ilustracja: kolbkowata komórka hormonalna w wyściółce jelita trzyma świecące złote ziarnistości GLP-1, gdy na jej czubku osiadają cząsteczki kwasów tłuszczowych"
+- pl hero alt: "Ilustracja: bakterie fermentują błonnik do cząsteczek kwasów tłuszczowych, które dokują na komórce hormonalnej w wyściółce jelita; ta uwalnia złote ziarnistości GLP-1 do małego naczynia krwionośnego"
+- pl card alt: "Co daje uczucie sytości? — mężczyzna przystaje o zmierzchu na skraju parku, żeby złapać oddech"
+- pl card question: "Co daje uczucie sytości?"
+- pl plate lines: "Najpierw — bakterie fermentują błonnik · Potem — kwasy docierają do komórki jelita · Efekt — uwalnia GLP-1 do krwi"
