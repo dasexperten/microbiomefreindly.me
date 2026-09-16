@@ -62,10 +62,15 @@ sources:
     doi: "10.3945/ajcn.113.073023"
     pmid: "24695892"
 images:
+  card: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-card-ru.webp"
+  cardLine: "Кефир вообще что-то даёт?"
+  cardAlt: "Кефир вообще что-то даёт? — женщина на балконе среди дня с миской кефира"
+  og: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-og-ru.jpg"
   preview: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-preview.webp"
-  hero: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-hero.webp"
-  og: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-og.jpg"
   previewAlt: "Иллюстрация: цепочки круглых клеток, длинные палочки и крупные почкующиеся дрожжи среди мелких пузырьков живой закваски"
+  plate: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-plate-ru.webp"
+  plateLines: "Сначала — живые клетки идут с едой · Затем — проходят мимо, редко остаются · Итог — 19 белков воспаления упали"
+  hero: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-hero.webp"
   heroAlt: "Иллюстрация: бактерии из живой закваски проплывают над слизистой кишечника; из двадцати задерживается одна, кислоты просачиваются в слизь, а собственные бактерии становятся разнообразнее"
 referral:
   product: ""

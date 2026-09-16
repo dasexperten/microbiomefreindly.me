@@ -88,10 +88,15 @@ entity:
   wikidata: "Q3738296"
   ncbiTaxId: "853"
 images:
+  card: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-card-en.webp"
+  cardLine: "What feeds your gut lining?"
+  cardAlt: "What feeds your gut lining? — a woman in her twenties eats a bowl of oats on her balcony in the last sun"
+  og: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-og-en.jpg"
   preview: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-preview.webp"
-  hero: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-hero.webp"
-  og: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-og.jpg"
   previewAlt: "Illustration: slender rod-shaped bacteria lie in dense mucus over the colon lining, tiny coral beads drifting down from them"
+  plate: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-plate-en.webp"
+  plateLines: "First — it hides where no air reaches · Then — it eats what neighbours drop · So — the lining is fed; over 5 % of all"
+  hero: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-hero.webp"
   heroAlt: "Illustration: among twenty gut bacteria in airless mucus, one slender rod takes in its neighbours' leftovers and releases gold butyrate beads that pass into the colon lining"
 referral:
   product: ""

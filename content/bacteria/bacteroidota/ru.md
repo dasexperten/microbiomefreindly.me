@@ -101,10 +101,15 @@ entity:
   wikidata: "Q9810870"
   ncbiTaxId: "976"
 images:
+  card: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-card-ru.webp"
+  cardLine: "Что будет без клетчатки?"
+  cardAlt: "Что будет без клетчатки? — женщина за сорок ставит бумажный пакет с зеленью на прилавок рынка в полдень"
+  og: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-og-ru.jpg"
   preview: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-preview.webp"
-  hero: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-hero.webp"
-  og: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-og.jpg"
   previewAlt: "Иллюстрация: пухлые палочки Bacteroidota собрались на разлохмаченном конце растительного волокна с лаймовым оттенком на разрыве, свет падает сзади"
+  plate: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-plate-ru.webp"
+  plateLines: "Сначала — клетчатка доходит целой · Затем — они разбирают её для вас · Итог — без клетчатки едят вашу слизь"
+  hero: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-hero.webp"
   heroAlt: "Иллюстрация: пухлые палочки разбирают растительное волокно на золотистые фрагменты над толстым слоем слизи; правее, где волокна нет, те же палочки поедают слизь, и слой истончается"
 referral:
   product: ""

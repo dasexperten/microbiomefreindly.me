@@ -112,7 +112,10 @@ def card_and_og(master, geo, question, out_card, out_og):
     im = Image.open(master).convert('RGB')
     if im.size != (CARD_W, CARD_H):
         im = im.resize((CARD_W, CARD_H), Image.LANCZOS)
-    box = geo['box']
+    # the field was measured on the master; this surface may be a different size, so the box travels with it
+    gw, gh = geo.get('size', [CARD_W, CARD_H])
+    k = CARD_W / gw
+    box = [int(v * k) for v in geo['box']]
     ink = geo.get('ink', list(INK))
     card = im.copy()
     if not draw_block(card, box, question, 800, int(box[3] * 0.40), ink):
@@ -125,7 +128,8 @@ def card_and_og(master, geo, question, out_card, out_og):
     sx, sy = OG_W / CARD_W, OG_H / (CARD_W / 1.905)
     ob = [int(box[0] * sx), int((box[1] - band_top) * sy), int(box[2] * sx), int(box[3] * sy)]
     ob[1] = max(12, min(ob[1], OG_H - ob[3] - 12))
-    if not draw_block(og, ob, question, 800, int(ob[3] * 0.42), ink):
+    ob[2] = min(int(ob[2] * 1.15), OG_W - ob[0] - 24)
+    if not draw_block(og, ob, question, 800, int(ob[3] * 0.34), ink):
         return 'the question does not fit the social band'
     og.save(out_og)
     return None

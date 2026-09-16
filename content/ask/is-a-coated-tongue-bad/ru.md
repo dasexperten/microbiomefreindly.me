@@ -97,10 +97,15 @@ sources:
     doi: "10.1088/1752-7163/aaa3a1"
     pmid: "29269592"
 images:
+  card: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-card-ru.webp"
+  cardLine: "Налёт на языке — это плохо?"
+  cardAlt: "Налёт на языке — это плохо? — женщина у зеркала в ванной на рассвете смотрит на свой язык"
+  og: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-og-ru.jpg"
   preview: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-preview.webp"
-  hero: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-hero.webp"
-  og: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-og.jpg"
   previewAlt: "Иллюстрация: чешуйки слущенных клеток с крошечными цепочками бактерий в узкой ложбинке между сосочками языка"
+  plate: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-plate-ru.webp"
+  plateLines: "Сначала — в бороздках копятся клетки · Затем — бактерии без воздуха дают запах · Итог — тонкий налёт у 90,7 %"
+  hero: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-hero.webp"
   heroAlt: "Иллюстрация: ряд сосочков языка со слущенными чешуйками и бактериями в ложбинках; в девяти ложбинках слой тонкий, в одной толще, над поверхностью поднимается лёгкий газ"
 referral:
   product: ""

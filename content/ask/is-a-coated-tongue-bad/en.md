@@ -97,10 +97,15 @@ sources:
     doi: "10.1088/1752-7163/aaa3a1"
     pmid: "29269592"
 images:
+  card: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-card-en.webp"
+  cardLine: "Is a coated tongue bad?"
+  cardAlt: "Is a coated tongue bad? — a woman at her bathroom mirror at first light, looking at her own tongue"
+  og: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-og-en.jpg"
   preview: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-preview.webp"
-  hero: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-hero.webp"
-  og: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-og.jpg"
   previewAlt: "Illustration: flakes of shed surface cells with tiny chains of bacteria, settled in a narrow valley between tongue papillae"
+  plate: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-plate-en.webp"
+  plateLines: "First — shed cells fill the grooves · Then — airless bacteria make the smell · So — a thin coating in 90.7 %"
+  hero: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-hero.webp"
   heroAlt: "Illustration: a row of tongue papillae with shed flakes and bacteria in the valleys between them, thin in nine valleys and thicker in one, faint gas lifting off"
 referral:
   product: ""

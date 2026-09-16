@@ -72,10 +72,15 @@ sources:
     doi: "10.1038/nature12506"
     pmid: "23985870"
 images:
+  card: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-card-ru.webp"
+  cardLine: "Пробиотик другу помог. А мне?"
+  cardAlt: "Пробиотик другу помог. А мне? — женщина за столиком кафе днём, напротив вторая чашка"
+  og: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-og-ru.jpg"
   preview: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-preview.webp"
-  hero: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-hero.webp"
-  og: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-og.jpg"
   previewAlt: "Иллюстрация: две одинаковые группы палочковидных бактерий на волнистой кишечной слизи; под одной слизь меняется, под другой нет"
+  plate: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-plate-ru.webp"
+  plateLines: "Сначала — шесть штаммов на вид одинаковы · Затем — кишечник один и тот же · Итог — помогли 4 из 6"
+  hero: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-hero.webp"
   heroAlt: "Иллюстрация: шесть одинаковых скоплений палочковидных бактерий оседают на одну и ту же кишечную слизь; под четырьмя она заметно меняется, под двумя остаётся нетронутой"
 referral:
   product: ""

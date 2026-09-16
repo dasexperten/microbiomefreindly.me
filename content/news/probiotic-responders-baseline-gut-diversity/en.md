@@ -48,10 +48,15 @@ sources:
     doi: "10.1016/j.cell.2018.08.041"
     pmid: "30193112"
 images:
+  card: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-card-en.webp"
+  cardLine: "Why her and not you?"
+  cardAlt: "Why her and not you? — a woman waits on the bench of a launderette in flat late-morning light"
+  og: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-og-en.jpg"
   preview: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-preview.webp"
-  hero: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-hero.webp"
-  og: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-og.jpg"
   previewAlt: "Illustration: a few still, heat-killed rod cells lying in open gaps of a sparse gut community among fibre fragments"
+  plate: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-plate-en.webp"
+  plateLines: "First — the same dead cells, two guts · Then — a crowded gut has no room left · So — only the sparse gut changed"
+  hero: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-hero.webp"
   heroAlt: "Illustration: the same dead rod cells lie unused on a crowded gut community, but settle into open gaps of a sparse one, where new residents and small droplets appear"
 referral:
   product: ""

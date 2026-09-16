@@ -115,10 +115,15 @@ entity:
   wikidata: "Q132656"
   ncbiTaxId: "1678"
 images:
+  card: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-card-en.webp"
+  cardLine: "Is every bifidobacterium good?"
+  cardAlt: "Is every bifidobacterium good? — a woman in her late twenties sits with a mug on the sofa in lamp light"
+  og: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-og-en.jpg"
   preview: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-preview.webp"
-  hero: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-hero.webp"
-  og: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-og.jpg"
   previewAlt: "Illustration: forked, Y-shaped Bifidobacterium cells in a still pocket of clear gut contents, a coral droplet in one fork"
+  plate: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-plate-en.webp"
+  plateLines: "First — milk sugars pass the baby by · Then — these rods eat what she cannot · So — over 90 % of her gut is theirs"
+  hero: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-hero.webp"
   heroAlt: "Illustration: milk sugars pass the infant gut lining untouched, forked Bifidobacterium rods ferment them into lime acetate droplets, and nineteen of twenty cells at right are theirs"
 referral:
   product: ""

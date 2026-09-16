@@ -77,10 +77,15 @@ sources:
     doi: "10.1016/j.chom.2019.10.011"
     pmid: "31726029"
 images:
+  card: "/assets/img/mbf/routine/eating-after-antibiotics/eating-after-antibiotics-card-en.webp"
+  cardLine: "What should I eat now?"
+  cardAlt: "What should I eat now? — a woman at a market stall mid-morning, a paper bag of vegetables in hand"
+  og: "/assets/img/mbf/routine/eating-after-antibiotics/eating-after-antibiotics-og-en.jpg"
   preview: "/assets/img/mbf/routine/eating-after-antibiotics/eating-after-antibiotics-preview.webp"
-  hero: "/assets/img/mbf/routine/eating-after-antibiotics/eating-after-antibiotics-hero.webp"
-  og: "/assets/img/mbf/routine/eating-after-antibiotics/eating-after-antibiotics-og.jpg"
   previewAlt: "Illustration: rods and forked gut bacteria settling back along torn plant cell walls in soft morning light"
+  plate: "/assets/img/mbf/routine/eating-after-antibiotics/eating-after-antibiotics-plate-en.webp"
+  plateLines: "First — the course leaves it bare · Then — fibre and ferments refill it · So — 9 species missing at day 180"
+  hero: "/assets/img/mbf/routine/eating-after-antibiotics/eating-after-antibiotics-hero.webp"
   heroAlt: "Illustration: plant fibre over the gut lining, almost bare after antibiotics, then filling with bacteria along its strands, and at last crowded again with nine places left empty"
 referral:
   product: ""

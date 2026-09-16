@@ -94,10 +94,15 @@ entity:
   wikidata: "Q12962137"
   ncbiTaxId: "1224"
 images:
+  card: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-card-ru.webp"
+  cardLine: "Это правда плохие бактерии?"
+  cardAlt: "Это правда плохие бактерии? — женщина на огороде у рядов фасоли под низким вечерним солнцем"
+  og: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-og-ru.jpg"
   preview: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-preview.webp"
-  hero: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-hero.webp"
-  og: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-og.jpg"
   previewAlt: "Иллюстрация: короткие палочковидные бактерии собираются в тонкой лаймовой дымке прямо над округлыми клетками слизистой кишечника"
+  plate: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-plate-ru.webp"
+  plateLines: "Сначала — их мало в бескислородной толпе · Затем — стенка пропускает кислород · Итог — они множатся, других меньше"
+  hero: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-hero.webp"
   heroAlt: "Иллюстрация: несколько коротких палочек живут среди множества кишечных бактерий у бескислородной слизистой; когда слизистая пропускает лёгкую дымку кислорода, палочки размножаются, а остальных становится меньше"
 referral:
   product: ""

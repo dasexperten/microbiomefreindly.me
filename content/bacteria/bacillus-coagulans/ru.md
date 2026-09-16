@@ -86,10 +86,15 @@ entity:
   wikidata: "Q2603895"
   ncbiTaxId: "1398"
 images:
+  card: "/assets/img/mbf/bacteria/bacillus-coagulans/bacillus-coagulans-card-ru.webp"
+  cardLine: "Пробиотик остаётся в кишечнике?"
+  cardAlt: "Пробиотик остаётся в кишечнике? — женщина за тридцать ждёт автобус с сумкой на плече в холодный день"
+  og: "/assets/img/mbf/bacteria/bacillus-coagulans/bacillus-coagulans-og-ru.jpg"
   preview: "/assets/img/mbf/bacteria/bacillus-coagulans/bacillus-coagulans-preview.webp"
-  hero: "/assets/img/mbf/bacteria/bacillus-coagulans/bacillus-coagulans-hero.webp"
-  og: "/assets/img/mbf/bacteria/bacillus-coagulans/bacillus-coagulans-og.jpg"
   previewAlt: "Иллюстрация: палочка Bacillus coagulans с одной золотистой овальной спорой, рядом свободные споры на сухой растительной оболочке"
+  plate: "/assets/img/mbf/bacteria/bacillus-coagulans/bacillus-coagulans-plate-ru.webp"
+  plateLines: "Сначала — споры приходят спящими · Затем — одна прорастает в палочку · Итог — проплывают мимо и уходят"
+  hero: "/assets/img/mbf/bacteria/bacillus-coagulans/bacillus-coagulans-hero.webp"
   heroAlt: "Иллюстрация: спящие споры Bacillus coagulans попадают в кишечник, одна раскрывается и из неё вырастает коралловая палочка, а палочки проплывают мимо слизистой и уходят, не оседая"
 referral:
   product: ""

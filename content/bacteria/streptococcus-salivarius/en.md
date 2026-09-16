@@ -134,10 +134,15 @@ entity:
   wikidata: "Q139986"
   ncbiTaxId: "1304"
 images:
+  card: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-card-en.webp"
+  cardLine: "Is the tongue's own microbe safe?"
+  cardAlt: "Is the tongue's own microbe safe? — a woman sits with a cup of tea on her balcony in the morning"
+  og: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-og-en.jpg"
   preview: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-preview.webp"
-  hero: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-hero.webp"
-  og: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-og.jpg"
   previewAlt: "Illustration: bead-like chains of round bacteria rest in a wet film between soft ridges, a faint coral halo around one chain"
+  plate: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-plate-en.webp"
+  plateLines: "First — on the tongue since birth · Then — it releases its own antibiotics · So — rivals stall at its edge"
+  hero: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-hero.webp"
   heroAlt: "Illustration: chains of round bacteria settle in a wet film on soft ridges and release tiny gold particles; rival chains drifting in go slack at the edge of their patch"
 referral:
   product: ""

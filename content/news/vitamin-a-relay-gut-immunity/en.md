@@ -54,10 +54,15 @@ sources:
     doi: "10.7554/eLife.03206"
     pmid: "25073702"
 images:
+  card: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-card-en.webp"
+  cardLine: "Who carries the vitamin there?"
+  cardAlt: "Who carries the vitamin there? — a woman slices carrots at her kitchen counter under an evening lamp"
+  og: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-og-en.jpg"
   preview: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-preview.webp"
-  hero: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-hero.webp"
-  og: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-og.jpg"
   previewAlt: "Illustration: segmented bacterial threads rooted by their tips in a soft fold of the gut lining, a small gold glint where one enters"
+  plate: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-plate-en.webp"
+  plateLines: "First — gut bacteria wake the lining · Then — carrier proteins pick up retinol · So — under 2 % reaches immune cells"
+  hero: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-hero.webp"
   heroAlt: "Illustration: segmented bacteria rooted in the gut lining, whose cells hold gold vitamin A droplets; one droplet passes to a branching immune cell and on to T cells"
 referral:
   product: ""

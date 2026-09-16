@@ -60,10 +60,15 @@ sources:
     doi: "10.1073/pnas.1000087107"
     pmid: "20847294"
 images:
+  card: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-card-ru.webp"
+  cardLine: "Три дня что-то меняют?"
+  cardAlt: "Три дня что-то меняют? — женщина у окна гостиной в предвечернем свете, руки скрещены"
+  og: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-og-ru.jpg"
   preview: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-preview.webp"
-  hero: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-hero.webp"
-  og: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-og.jpg"
   previewAlt: "Иллюстрация: толстые палочковидные кишечные бактерии и пары мелких круглых клеток на обрывке растительного волокна"
+  plate: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-plate-ru.webp"
+  plateLines: "Сначала — еда сдвигает состав за сутки · Затем — через двое суток всё назад · Итог — 60 % штаммов живут годами"
+  hero: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-hero.webp"
   heroAlt: "Иллюстрация: два ряда из десяти групп кишечных бактерий в слизи, пока приходит еда; в позднем ряду шесть групп те же, а четыре заменены новичками"
 referral:
   product: ""

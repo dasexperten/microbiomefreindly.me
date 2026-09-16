@@ -56,10 +56,15 @@ sources:
     doi: "10.1038/s41564-021-00880-5"
     pmid: "33820962"
 images:
+  card: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-card-en.webp"
+  cardLine: "Did the trial fail?"
+  cardAlt: "Did the trial fail? — a woman in her fifties waits alone at a bus stop in cold early light"
+  og: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-og-en.jpg"
   preview: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-preview.webp"
-  hero: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-hero.webp"
-  og: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-og.jpg"
   previewAlt: "Illustration: whole, still oval Akkermansia cells lying in grazed hollows of gut mucus, a coral glint of lining beneath"
+  plate: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-plate-en.webp"
+  plateLines: "First — dead cells settle in the mucus · Then — one gut cell lets out GLP-1 · So — 30 billion cells, nothing moved"
+  hero: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-hero.webp"
   heroAlt: "Illustration: a dense drift of heat-killed oval Akkermansia cells in gut mucus; one lining hormone cell releases a gold burst while the tissue beyond stays unchanged"
 referral:
   product: ""

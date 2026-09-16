@@ -115,10 +115,15 @@ entity:
   wikidata: "Q131452"
   ncbiTaxId: "1309"
 images:
+  card: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-card-ru.webp"
+  cardLine: "Он есть у всех?"
+  cardAlt: "Он есть у всех? — молодая женщина берёт леденец из бумажного пакета за письменным столом"
+  og: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-og-ru.jpg"
   preview: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-preview.webp"
-  hero: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-hero.webp"
-  og: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-og.jpg"
   previewAlt: "Иллюстрация: цепочки овальных бактерий в липких нитях на бледной рифлёной эмали, у края один лаймовый кристалл сахара"
+  plate: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-plate-ru.webp"
+  plateLines: "Сначала — на налёт попадает сахар · Затем — прядут клей и дают кислоту · Итог — эмаль под ним растворяется"
+  hero: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-hero.webp"
   heroAlt: "Иллюстрация: сахар растворяется среди цепочек овальных бактерий на эмали; они прядут липкие нити, приклеивающие их к поверхности, и выделяют кислоту, а под кислотной дымкой минеральная поверхность разрыхляется"
 referral:
   product: ""

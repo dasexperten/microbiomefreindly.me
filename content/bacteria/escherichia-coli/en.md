@@ -107,10 +107,15 @@ entity:
   wikidata: "Q25419"
   ncbiTaxId: "562"
 images:
+  card: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-card-en.webp"
+  cardLine: "Is E. coli always dangerous?"
+  cardAlt: "Is E. coli always dangerous? — a woman in her thirties pauses her fork over a bowl of salad at a canteen table"
+  og: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-og-en.jpg"
   preview: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-preview.webp"
-  hero: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-hero.webp"
-  og: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-og.jpg"
   previewAlt: "Illustration: rod-shaped E. coli cells fringed with fine threads beside a gas bubble in wet gut contents, one thread lit gold"
+  plate: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-plate-en.webp"
+  plateLines: "First — oxygen seeps from the lining · Then — these rods breathe it away · So — over 90 % of us carry them"
+  hero: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-hero.webp"
   heroAlt: "Illustration: traces of oxygen rise from the gut lining, fringed E. coli rods beside it take them up, and beyond them strict anaerobes crowd the airless space"
 referral:
   product: ""

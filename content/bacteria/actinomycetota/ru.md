@@ -100,10 +100,15 @@ entity:
   wikidata: "Q62573436"
   ncbiTaxId: "201174"
 images:
+  card: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-card-ru.webp"
+  cardLine: "Антибиотики родом из земли?"
+  cardAlt: "Антибиотики родом из земли? — женщина за шестьдесят прижимает влажную землю у ростка в своём саду"
+  og: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-og-ru.jpg"
   preview: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-preview.webp"
-  hero: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-hero.webp"
-  og: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-og.jpg"
   previewAlt: "Иллюстрация: тонкие ветвящиеся нити почвенных бактерий на влажных частицах почвы, их поднятые кончики заканчиваются светло-зелёными цепочками спор"
+  plate: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-plate-ru.webp"
+  plateLines: "Сначала — нити растут в сырой земле · Затем — они выделяют антибиотик · Итог — две трети антибиотиков отсюда"
+  hero: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-hero.webp"
   heroAlt: "Иллюстрация: ветвящиеся почвенные бактерии выпускают молекулы антибиотика, шесть из девяти коралловые, а через весь кадр вилообразные палочки бифидобактерий лежат на слизистой кишечника"
 referral:
   product: ""

@@ -67,10 +67,15 @@ sources:
     doi: "10.1371/journal.pone.0088645"
     pmid: "24670812"
 images:
+  card: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-card-en.webp"
+  cardLine: "Should I rinse every day?"
+  cardAlt: "Should I rinse every day? — a woman pausing in her hallway, coat half on, just after eight"
+  og: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-og-en.jpg"
   preview: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-preview.webp"
-  hero: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-hero.webp"
-  og: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-og.jpg"
   previewAlt: "Illustration: a clear rinse sweeps over a mixed mat of rods, round cells and spindles, leaving it thin behind its edge"
+  plate: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-plate-en.webp"
+  plateLines: "First — the rinse does not choose · Then — the mouth community thins · So — nitrite falls by 90 %"
+  hero: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-hero.webp"
   heroAlt: "Illustration: a rinse sweeps the mixed bacterial mat on the tongue surface, and the stream of particles it sends toward a blood vessel falls to a tenth"
 referral:
   product: ""

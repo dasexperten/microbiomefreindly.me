@@ -48,10 +48,15 @@ sources:
     doi: "10.1007/s12602-025-10603-5"
     pmid: "40512445"
 images:
+  card: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-card-en.webp"
+  cardLine: "What actually causes bad breath?"
+  cardAlt: "What actually causes bad breath? — a woman at her own front door breathes into a cupped hand"
+  og: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-og-en.jpg"
   preview: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-preview.webp"
-  hero: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-hero.webp"
-  og: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-og.jpg"
   previewAlt: "Illustration: spindle-shaped and stubby bacteria in the coating between rounded tongue papillae, tiny gold gas bubbles rising"
+  plate: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-plate-en.webp"
+  plateLines: "First — mouth microbes eat protein · Then — an enzyme cuts the sulfur free · So — that gene fell 98 %, in a dish"
+  hero: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-hero.webp"
   heroAlt: "Illustration: mouth anaerobes filled with sulfur-cutting enzymes give off tiny bubbles; fluid from lactic-acid bacteria washes over and the enzymes almost vanish"
 referral:
   product: ""

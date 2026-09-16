@@ -13,10 +13,15 @@ voice: greger
 answer: "An enzyme is a protein that cuts one specific bond. Dextranase cuts the sugar glue of dental plaque; papain and bromelain cut proteins; lysozyme cuts bacterial cell walls; glucose oxidase turns glucose into a mild antiseptic. None of them kills broadly. They work by removing structure — which is why they are studied against biofilms rather than as antibiotics."
 sources: []
 images:
+  card: "/assets/img/mbf/hubs/enzymes/enzymes-card-en.webp"
+  cardLine: "Do enzymes kill bacteria?"
+  cardAlt: "Do enzymes kill bacteria? — a woman cuts pineapple and papaya at her dining table in late morning sun"
+  og: "/assets/img/mbf/hubs/enzymes/enzymes-og-en.jpg"
   preview: "/assets/img/mbf/hubs/enzymes/enzymes-preview.webp"
-  hero: "/assets/img/mbf/hubs/enzymes/enzymes-hero.webp"
-  og: "/assets/img/mbf/hubs/enzymes/enzymes-og.jpg"
   previewAlt: "Illustration: a folded enzyme protein holds a sugar chain in its groove and cuts one link, marked coral, in warm backlight"
+  plate: "/assets/img/mbf/hubs/enzymes/enzymes-plate-en.webp"
+  plateLines: "First — a sugar web holds the plaque · Then — the enzyme cuts one link · So — the web falls, the cells live"
+  hero: "/assets/img/mbf/hubs/enzymes/enzymes-hero.webp"
   heroAlt: "Illustration: chains of round bacteria held in a web of sugar chains; enzyme proteins cut the chains at lime points, and the freed bacteria drift loose, still whole"
 referral:
   product: ""

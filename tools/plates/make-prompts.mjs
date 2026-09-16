@@ -41,7 +41,7 @@ const field = (txt, label) => {
   return '';
 };
 
-const BANS = 'Absolutely no text of any kind anywhere in the frame: no letters, no numerals, no signage, no labels, no packaging text, no watermark, no invented glyphs, nothing written on clothing, mugs, jars, packets or in the background. No product, no packaging, no bottle, no capsule, no pill, no sachet, no jar, no brand mark. No second person, no other face, no lab coat, no scrubs, no clinic, no hospital, no microscope. No medical horror. No black background, no neon, no studio gloss.';
+const BANS = 'Absolutely no text of any kind anywhere in the frame: no letters, no numerals, no signage, no labels, no packaging text, no watermark, no invented glyphs, nothing written on clothing, mugs, jars, packets or in the background. No product, no packaging, no bottle, no capsule, no pill, no sachet, no jar, no brand mark. No second person, no other face, no lab coat, no scrubs, no clinic, no hospital, no microscope. No medical horror. No black background, no neon, no studio gloss. The photograph fills the whole frame edge to edge: no letterbox, no bars, no border, no frame within the frame, no vignette.';
 
 const out = {};
 for (const type of TYPES) {

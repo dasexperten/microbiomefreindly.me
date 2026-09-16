@@ -57,6 +57,7 @@ for (const file of walk(SRC)) {
     const m = stem.match(/^(.+?)-(card|og|plate)-([a-z0-9-]+)$/);
     if (!m) continue;
     const [, , slot, lang] = m;
+    const img = sharp(file); const meta = await img.metadata();
     if (slot === 'card') {
       await out(img, `${type}/${slug}/${slug}-card-${lang}.webp`, { w: 720, h: 480, fmt: 'webp' });
       await out(img, `${type}/${slug}/${slug}-card-${lang}@2x.webp`, { w: 1440, h: 960, fmt: 'webp' });

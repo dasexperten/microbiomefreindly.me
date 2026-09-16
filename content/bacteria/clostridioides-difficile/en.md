@@ -118,10 +118,15 @@ entity:
   wikidata: "Q56290719"
   ncbiTaxId: "1496"
 images:
+  card: "/assets/img/mbf/bacteria/clostridioides-difficile/clostridioides-difficile-card-en.webp"
+  cardLine: "Does carrying it mean illness?"
+  cardAlt: "Does carrying it mean illness? — a woman in her seventies rests on a staircase landing with her shopping bag"
+  og: "/assets/img/mbf/bacteria/clostridioides-difficile/clostridioides-difficile-og-en.jpg"
   preview: "/assets/img/mbf/bacteria/clostridioides-difficile/clostridioides-difficile-preview.webp"
-  hero: "/assets/img/mbf/bacteria/clostridioides-difficile/clostridioides-difficile-hero.webp"
-  og: "/assets/img/mbf/bacteria/clostridioides-difficile/clostridioides-difficile-og.jpg"
   previewAlt: "Illustration: a slender rod with a swollen spore end and sealed lime-coated spores, hemmed in by a crowd of gut microbes"
+  plate: "/assets/img/mbf/bacteria/clostridioides-difficile/clostridioides-difficile-plate-en.webp"
+  plateLines: "First — the neighbours hold it down · Then — antibiotics sweep them away · So — the spores wake and multiply"
+  hero: "/assets/img/mbf/bacteria/clostridioides-difficile/clostridioides-difficile-hero.webp"
   heroAlt: "Illustration: dormant spores sit among gut residents under a gold mist; once the residents are swept away, the spores open into rods that multiply and loosen the lining's seams"
 referral:
   product: ""

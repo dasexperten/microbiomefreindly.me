@@ -60,10 +60,15 @@ sources:
     doi: "10.1126/science.1110591"
     pmid: "15831718"
 images:
+  card: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-card-en.webp"
+  cardLine: "Is the pain really physical?"
+  cardAlt: "Is the pain really physical? — a woman stops in an office corridor, a forearm pressed across her middle"
+  og: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-og-en.jpg"
   preview: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-preview.webp"
-  hero: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-hero.webp"
-  og: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-og.jpg"
   previewAlt: "Illustration: a lace of nerve knots glowing through thin gut tissue, a clear amber film settling on it, a few knots lit coral"
+  plate: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-plate-en.webp"
+  plateLines: "First — stool fluid touches the gut wall · Then — an enzyme clips a nerve receptor · So — the nerve net fires far harder"
+  hero: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-hero.webp"
   heroAlt: "Illustration: a thin amber fluid film settles on the gut lining; an enzyme clips a receptor on a nerve cell, which lights up and wakes the knots of the nerve net around it"
 referral:
   product: ""

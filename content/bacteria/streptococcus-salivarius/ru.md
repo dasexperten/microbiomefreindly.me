@@ -134,10 +134,15 @@ entity:
   wikidata: "Q139986"
   ncbiTaxId: "1304"
 images:
+  card: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-card-ru.webp"
+  cardLine: "Опасен ли житель языка?"
+  cardAlt: "Опасен ли житель языка? — женщина сидит с чашкой чая на балконе утром"
+  og: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-og-ru.jpg"
   preview: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-preview.webp"
-  hero: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-hero.webp"
-  og: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-og.jpg"
   previewAlt: "Иллюстрация: цепочки круглых бактерий лежат во влажной плёнке между мягкими бугорками, вокруг одной цепочки слабый коралловый ореол"
+  plate: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-plate-ru.webp"
+  plateLines: "Сначала — селится на языке с рождения · Затем — выпускает свои антибиотики · Итог — чужаки глохнут у края участка"
+  hero: "/assets/img/mbf/bacteria/streptococcus-salivarius/streptococcus-salivarius-hero.webp"
   heroAlt: "Иллюстрация: цепочки круглых бактерий оседают во влажной плёнке на мягких бугорках и выпускают крошечные золотые частицы; чужие цепочки, подплывая, обмякают у края их участка"
 referral:
   product: ""

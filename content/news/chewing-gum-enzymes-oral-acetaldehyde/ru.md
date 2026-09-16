@@ -43,10 +43,15 @@ sources:
     doi: "10.1016/s1470-2045(09)70326-2"
     pmid: "19891056"
 images:
+  card: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-card-ru.webp"
+  cardLine: "Сахар вызывает рак во рту?"
+  cardAlt: "Сахар вызывает рак во рту? — женщина поздним вечером на балконе, жуёт, в руке бокал вина"
+  og: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-og-ru.jpg"
   preview: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-preview.webp"
-  hero: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-hero.webp"
-  og: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-og.jpg"
   previewAlt: "Иллюстрация: цепочки круглых бактерий и почкующиеся дрожжи в липкой плёнке на светлой эмали, одно истончённое место светится лаймовым"
+  plate: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-plate-ru.webp"
+  plateLines: "Сначала — сахар и спирт попадают в налёт · Затем — микробы делают канцероген · Итог — пептид убил 91,37 %, не всех"
+  hero: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-hero.webp"
   heroAlt: "Иллюстрация: микробы в оболочке зубного налёта на эмали выделяют ацетальдегид; пептид останавливает большинство, три укрытые клетки живы, пока ферменты не растворят оболочку"
 referral:
   product: ""

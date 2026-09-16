@@ -94,10 +94,15 @@ entity:
   wikidata: "Q12962137"
   ncbiTaxId: "1224"
 images:
+  card: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-card-en.webp"
+  cardLine: "Are these the bad bacteria?"
+  cardAlt: "Are these the bad bacteria? — a woman kneels at the bean rows of an allotment in the late afternoon sun"
+  og: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-og-en.jpg"
   preview: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-preview.webp"
-  hero: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-hero.webp"
-  og: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-og.jpg"
   previewAlt: "Illustration: short rod-shaped bacteria gather in a thin lime haze just above the rounded cells of the gut lining"
+  plate: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-plate-en.webp"
+  plateLines: "First — a few rods in an airless crowd · Then — the sore lining leaks oxygen · So — they bloom and the rest thin out"
+  hero: "/assets/img/mbf/bacteria/pseudomonadota-proteobacteria/pseudomonadota-proteobacteria-hero.webp"
   heroAlt: "Illustration: a few short rods live among many gut bacteria on an airless lining; as the lining leaks a faint haze of oxygen, the rods multiply and the others thin out"
 referral:
   product: ""

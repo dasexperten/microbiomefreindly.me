@@ -77,10 +77,15 @@ sources:
     doi: "10.1016/j.cell.2016.10.043"
     pmid: "27863247"
 images:
+  card: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-card-ru.webp"
+  cardLine: "Сколько клетчатки в день?"
+  cardAlt: "Сколько клетчатки в день? — женщина за обеденным столом ранним утром, перед ней миска каши"
+  og: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-og-ru.jpg"
   preview: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-preview.webp"
-  hero: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-hero.webp"
-  og: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-og.jpg"
   previewAlt: "Иллюстрация: вильчатые бактерии кишечника разбирают мягкие ветвистые цепочки клетчатки, а гладкая гелевая лента скользит мимо"
+  plate: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-plate-ru.webp"
+  plateLines: "Сначала — приходят три вида клетчатки · Затем — едят только один из них · Итог — 25–29 г в день, дальше плато"
+  hero: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-hero.webp"
   heroAlt: "Иллюстрация: три вида клетчатки у слизистой кишечника; бактерии едят только ветвистые цепочки, гелевая лента и твёрдая частица отрубей проходят целыми, а большие порции перестают давать больше"
 referral:
   product: ""

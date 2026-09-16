@@ -72,10 +72,15 @@ sources:
     doi: "10.1016/j.chom.2019.10.011"
     pmid: "31726029"
 images:
+  card: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-card-en.webp"
+  cardLine: "Can I rebuild my gut?"
+  cardAlt: "Can I rebuild my gut? — a woman at her kitchen table late in the evening, the course finished"
+  og: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-og-en.jpg"
   preview: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-preview.webp"
-  hero: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-hero.webp"
-  og: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-og.jpg"
   previewAlt: "Illustration: forked Bifidobacterium cells regrowing in loose gut mucus beside an empty hollow where cells once stood"
+  plate: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-plate-en.webp"
+  plateLines: "First — antibiotics strip it bare · Then — it refills in six weeks · So — 9 species are still missing"
+  hero: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-hero.webp"
   heroAlt: "Illustration: a gut bacterial community in three moments: crowded, stripped almost bare by antibiotics, then crowded again with nine places left empty"
 referral:
   product: ""

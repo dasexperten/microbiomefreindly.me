@@ -96,10 +96,15 @@ entity:
   wikidata: ""
   ncbiTaxId: "32066"
 images:
+  card: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-card-ru.webp"
+  cardLine: "Ей место во рту?"
+  cardAlt: "Ей место во рту? — женщина поздним вечером вытирает руки у раковины в ванной"
+  og: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-og-ru.jpg"
   preview: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-preview.webp"
-  hero: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-hero.webp"
-  og: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-og.jpg"
   previewAlt: "Иллюстрация: веретеновидная бактерия лежит балкой между скоплениями круглых клеток в рифе зубного налёта, свет идёт снизу"
+  plate: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-plate-ru.webp"
+  plateLines: "Сначала — первый слой круглых клеток · Затем — поперёк ложатся веретёна · Итог — налёт держится как одно целое"
+  hero: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-hero.webp"
   heroAlt: "Иллюстрация: круглые первые поселенцы образуют слой на минеральной поверхности, поперёк ложатся длинные веретеновидные клетки, к ним крепятся поздние клетки других форм — складывается упорядоченное сообщество"
 referral:
   product: ""

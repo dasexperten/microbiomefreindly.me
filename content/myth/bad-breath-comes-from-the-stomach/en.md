@@ -96,10 +96,15 @@ sources:
     doi: "10.3748/wjg.v20.i29.9922"
     pmid: "25110422"
 images:
+  card: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-card-en.webp"
+  cardLine: "Is it coming from my stomach?"
+  cardAlt: "Is it coming from my stomach? — a woman in her parked car mid-morning, a palm flat on her stomach"
+  og: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-og-en.jpg"
   preview: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-preview.webp"
-  hero: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-hero.webp"
-  og: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-og.jpg"
   previewAlt: "Illustration: short, plump anaerobic rods deep in a narrow gum groove, fine plumes of sulfur gas rising out of it"
+  plate: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-plate-en.webp"
+  plateLines: "First — the coating closes off the air · Then — bacteria strip sulphur from it · So — mouth 87 %, gut 1 %"
+  hero: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-hero.webp"
   heroAlt: "Illustration: a crowd of sulfur-gas plumes rises from bacteria in the coating on the back of the tongue, while a single thin plume rises from the depth below"
 referral:
   product: ""

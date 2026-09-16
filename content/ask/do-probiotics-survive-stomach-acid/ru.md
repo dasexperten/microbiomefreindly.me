@@ -82,10 +82,15 @@ sources:
     doi: "10.1016/j.micres.2013.01.004"
     pmid: "23414698"
 images:
+  card: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-card-ru.webp"
+  cardLine: "С едой или натощак?"
+  cardAlt: "С едой или натощак? — женщина над обедом за столом в столовой в середине дня"
+  og: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-og-ru.jpg"
   preview: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-preview.webp"
-  hero: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-hero.webp"
-  og: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-og.jpg"
   previewAlt: "Иллюстрация: палочка со спорой в плотной оболочке и три свободные споры целы в кислоте, а нежные палочки вокруг распадаются"
+  plate: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-plate-ru.webp"
+  plateLines: "Сначала — все вместе входят в кислоту · Затем — споры проходят, нежные гибнут · Итог — доходит 18,5 %, но не селится"
+  hero: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-hero.webp"
   heroAlt: "Иллюстрация: проглоченные бактерии проходят желудочную кислоту; большинство свободных палочек разрушается, споры и кластер в оболочке проходят целыми, у слизистой кишечника две выжившие оседают в слизи, другие проплывают мимо"
 referral:
   product: ""

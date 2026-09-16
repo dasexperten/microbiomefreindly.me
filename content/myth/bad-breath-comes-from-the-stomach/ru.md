@@ -96,10 +96,15 @@ sources:
     doi: "10.3748/wjg.v20.i29.9922"
     pmid: "25110422"
 images:
+  card: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-card-ru.webp"
+  cardLine: "Это всё-таки желудок?"
+  cardAlt: "Это всё-таки желудок? — женщина в припаркованной машине утром, ладонь лежит на животе"
+  og: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-og-ru.jpg"
   preview: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-preview.webp"
-  hero: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-hero.webp"
-  og: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-og.jpg"
   previewAlt: "Иллюстрация: короткие толстые анаэробные палочки в глубине узкой десневой бороздки, из неё поднимаются тонкие струйки серного газа"
+  plate: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-plate-ru.webp"
+  plateLines: "Сначала — налёт закрывает доступ воздуха · Затем — бактерии отщепляют серу · Итог — рот 87 %, кишечник 1 %"
+  hero: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-hero.webp"
   heroAlt: "Иллюстрация: множество струек серного газа поднимается от бактерий в налёте на задней части языка, и лишь одна тонкая струйка идёт из глубины снизу"
 referral:
   product: ""

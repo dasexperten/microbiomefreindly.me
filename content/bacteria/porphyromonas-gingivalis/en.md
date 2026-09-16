@@ -91,10 +91,15 @@ entity:
   wikidata: "Q3214147"
   ncbiTaxId: "837"
 images:
+  card: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-card-en.webp"
+  cardLine: "Does carrying it mean disease?"
+  cardAlt: "Does carrying it mean disease? — a woman sits on the edge of her bed at night, a glass of water in both hands"
+  og: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-og-en.jpg"
   preview: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-preview.webp"
-  hero: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-hero.webp"
-  og: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-og.jpg"
   previewAlt: "Illustration: plump dark rod-shaped bacteria rest in a wet film inside a narrow crevice, rippling light and gold haem glints"
+  plate: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-plate-en.webp"
+  plateLines: "First — it rests quiet among neighbours · Then — the balance tips, its enzymes cut · So — the pocket seeps and feeds it"
+  hero: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-hero.webp"
   heroAlt: "Illustration: plump dark rods rest in a mixed pocket biofilm; as the community shifts they release enzymes that snip defence proteins apart, and seeping fluid brings them food"
 referral:
   product: ""

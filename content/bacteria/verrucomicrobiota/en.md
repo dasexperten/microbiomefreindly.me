@@ -101,10 +101,15 @@ entity:
   wikidata: "Q25228461"
   ncbiTaxId: "74201"
 images:
+  card: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-card-en.webp"
+  cardLine: "Is the mucus eater good?"
+  cardAlt: "Is the mucus eater good? — a woman picks leafy greens in a covered market hall on a Saturday morning"
+  og: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-og-en.jpg"
   preview: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-preview.webp"
-  hero: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-hero.webp"
-  og: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-og.jpg"
   previewAlt: "Illustration: oval bacteria rest among stretched strands of mucus over the gut lining, one strand fraying where a cell feeds"
+  plate: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-plate-en.webp"
+  plateLines: "First — it grazes the gut's mucus coat · Then — the lining feeds and makes more · So — without fibre the coat wears thin"
+  hero: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-hero.webp"
   heroAlt: "Illustration: oval bacteria graze the mucus layer over the colon lining, which takes in gold fuel and makes fresh mucus; further right, crowded bacteria wear the layer down to a thin veil"
 referral:
   product: ""

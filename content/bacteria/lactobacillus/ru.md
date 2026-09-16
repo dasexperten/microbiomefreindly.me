@@ -95,10 +95,15 @@ entity:
   wikidata: "Q1061596"
   ncbiTaxId: "1578"
 images:
+  card: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-card-ru.webp"
+  cardLine: "Йогурт живёт в кишечнике?"
+  cardAlt: "Йогурт живёт в кишечнике? — женщина ест простой йогурт у кухонной столешницы на рассвете"
+  og: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-og-ru.jpg"
   preview: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-preview.webp"
-  hero: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-hero.webp"
-  og: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-og.jpg"
   previewAlt: "Иллюстрация: короткие цепочки палочек Lactobacillus в скисающей молочной плёнке, вокруг одной цепочки лёгкая золотистая дымка кислоты"
+  plate: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-plate-ru.webp"
+  plateLines: "Сначала — палочки едят сахар · Затем — кислота закисляет карман · Итог — в кишечнике около 0,01 %"
+  hero: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-hero.webp"
   heroAlt: "Иллюстрация: слева палочки Lactobacillus теснятся в кислом кармане с золотистой дымкой, справа на слизистой кишечника одна маленькая цепочка среди множества других бактерий"
 referral:
   product: ""

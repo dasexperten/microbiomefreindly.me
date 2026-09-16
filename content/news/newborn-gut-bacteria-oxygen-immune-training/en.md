@@ -62,10 +62,15 @@ sources:
     doi: "10.1073/pnas.1718635115"
     pmid: "29610310"
 images:
+  card: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-card-en.webp"
+  cardLine: "Is a newborn gut airless?"
+  cardAlt: "Is a newborn gut airless? — a new mother sits back in the chair by the window at first light"
+  og: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-og-en.jpg"
   preview: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-preview.webp"
-  hero: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-hero.webp"
-  og: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-og.jpg"
   previewAlt: "Illustration: short rods of Bacteroides fragilis backlit on a young gut surface, one sealed membrane rim gleaming lime"
+  plate: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-plate-en.webp"
+  plateLines: "First — air still lingers in a new gut · Then — one fat seals the microbe's wall · So — the same fat teaches immune cells"
+  hero: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-hero.webp"
   heroAlt: "Illustration: a short rod holds its sealed membrane rim while air motes drift past, and the same membrane fat is handed on to a young immune cell that grows by reading it"
 referral:
   product: ""

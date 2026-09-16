@@ -101,10 +101,15 @@ entity:
   wikidata: "Q9810870"
   ncbiTaxId: "976"
 images:
+  card: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-card-en.webp"
+  cardLine: "What happens without fibre?"
+  cardAlt: "What happens without fibre? — a woman in her forties sets a paper bag of greens on a market table at noon"
+  og: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-og-en.jpg"
   preview: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-preview.webp"
-  hero: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-hero.webp"
-  og: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-og.jpg"
   previewAlt: "Illustration: plump Bacteroidota rods gathered on the frayed, lime-tinted torn end of a plant fibre strand, lit from behind"
+  plate: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-plate-en.webp"
+  plateLines: "First — plant fibre reaches them whole · Then — they take it apart for you · So — no fibre, and they eat your lining"
+  hero: "/assets/img/mbf/bacteria/bacteroidota/bacteroidota-hero.webp"
   heroAlt: "Illustration: plump rods take plant fibre apart into gold fragments above a thick mucus layer; further right, with no fibre left, the same rods graze the mucus and it thins"
 referral:
   product: ""

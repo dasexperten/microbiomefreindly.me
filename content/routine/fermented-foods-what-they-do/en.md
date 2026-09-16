@@ -62,10 +62,15 @@ sources:
     doi: "10.3945/ajcn.113.073023"
     pmid: "24695892"
 images:
+  card: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-card-en.webp"
+  cardLine: "Do fermented foods really work?"
+  cardAlt: "Do fermented foods really work? — a woman on her balcony in mid-afternoon with a bowl of kefir"
+  og: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-og-en.jpg"
   preview: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-preview.webp"
-  hero: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-hero.webp"
-  og: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-og.jpg"
   previewAlt: "Illustration: chains of round cells, long rods and large budding yeasts among tiny bubbles in a live ferment"
+  plate: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-plate-en.webp"
+  plateLines: "First — live cells come with the food · Then — they pass through, few stay · So — 19 inflammatory proteins fell"
+  hero: "/assets/img/mbf/routine/fermented-foods-what-they-do/fermented-foods-what-they-do-hero.webp"
   heroAlt: "Illustration: bacteria from a live ferment drift across the gut lining; of twenty, one takes a place, acids seep into the mucus, and the resident bacteria end up more varied"
 referral:
   product: ""

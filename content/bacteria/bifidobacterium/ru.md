@@ -115,10 +115,15 @@ entity:
   wikidata: "Q132656"
   ncbiTaxId: "1678"
 images:
+  card: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-card-ru.webp"
+  cardLine: "Все бифидобактерии полезные?"
+  cardAlt: "Все бифидобактерии полезные? — женщина под тридцать сидит с кружкой на диване при свете лампы"
+  og: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-og-ru.jpg"
   preview: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-preview.webp"
-  hero: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-hero.webp"
-  og: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-og.jpg"
   previewAlt: "Иллюстрация: вилообразные Y-образные клетки бифидобактерий в неподвижном кармане прозрачного содержимого кишечника, коралловая капля у развилки одной клетки"
+  plate: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-plate-ru.webp"
+  plateLines: "Сначала — сахара молока ей не по зубам · Затем — их съедают эти палочки · Итог — больше 90 % кишечника — они"
+  hero: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-hero.webp"
   heroAlt: "Иллюстрация: молочные сахара нетронутыми проходят мимо слизистой кишечника младенца, вилообразные палочки бифидобактерий сбраживают их в лаймовые капли ацетата, и справа девятнадцать клеток из двадцати — их"
 referral:
   product: ""

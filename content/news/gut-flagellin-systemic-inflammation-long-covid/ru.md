@@ -55,10 +55,15 @@ sources:
     doi: "10.1172/JCI20295"
     pmid: "15124021"
 images:
+  card: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-card-ru.webp"
+  cardLine: "Виноват ли тут кишечник?"
+  cardAlt: "Виноват ли тут кишечник? — женщина бросила складывать бельё и села на край кровати серым днём"
+  og: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-og-ru.jpg"
   preview: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-preview.webp"
-  hero: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-hero.webp"
-  og: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-og.jpg"
   previewAlt: "Иллюстрация: тонкие кишечные бактерии с длинными жгутиками-штопорами в дрейфующей слизи, один оторванный жгутик плывёт в пятне золотого света"
+  plate: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-plate-ru.webp"
+  plateLines: "Сначала — жгутик бактерии отрывается · Затем — иммунитет читает его как тревогу · Итог — воспаляются далёкие органы"
+  hero: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-hero.webp"
   heroAlt: "Иллюстрация: обломок оторванного бактериального жгутика выходит из кишечника, нейтрофил выбрасывает сеть и сигналит макрофагу, а далёкая ткань уплотняется волокнами"
 referral:
   product: ""

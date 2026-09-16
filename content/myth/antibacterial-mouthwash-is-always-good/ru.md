@@ -67,10 +67,15 @@ sources:
     doi: "10.1371/journal.pone.0088645"
     pmid: "24670812"
 images:
+  card: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-card-ru.webp"
+  cardLine: "Полоскать рот каждый день?"
+  cardAlt: "Полоскать рот каждый день? — женщина остановилась в прихожей, пальто накинуто, начало девятого"
+  og: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-og-ru.jpg"
   preview: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-preview.webp"
-  hero: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-hero.webp"
-  og: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-og.jpg"
   previewAlt: "Иллюстрация: прозрачный ополаскиватель накрывает смешанный слой палочек, круглых клеток и веретён и оставляет его редким за своей кромкой"
+  plate: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-plate-ru.webp"
+  plateLines: "Сначала — антисептик не выбирает · Затем — своих бактерий меньше · Итог — нитрита на 90 % меньше"
+  hero: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-hero.webp"
   heroAlt: "Иллюстрация: ополаскиватель смывает смешанный слой бактерий на поверхности языка, и поток частиц, который этот слой посылает к сосуду, падает до десятой части"
 referral:
   product: ""

@@ -96,10 +96,15 @@ entity:
   wikidata: ""
   ncbiTaxId: "32066"
 images:
+  card: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-card-en.webp"
+  cardLine: "Should this live in my mouth?"
+  cardAlt: "Should this live in my mouth? — a woman drying her hands at a bathroom basin late at night"
+  og: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-og-en.jpg"
   preview: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-preview.webp"
-  hero: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-hero.webp"
-  og: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-og.jpg"
   previewAlt: "Illustration: a spindle-shaped bacterium lies like a beam between clusters of round cells in a plaque reef, lit from below"
+  plate: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-plate-en.webp"
+  plateLines: "First — round settlers form a layer · Then — long spindles lie across them · So — the plaque holds as one"
+  hero: "/assets/img/mbf/bacteria/fusobacteriota/fusobacteriota-hero.webp"
   heroAlt: "Illustration: round early settlers form a layer on a mineral surface, long spindle-shaped cells lie across it, and later cells of other shapes fasten along them into one ordered community"
 referral:
   product: ""

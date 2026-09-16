@@ -13,10 +13,15 @@ voice: komarovsky
 answer: "Кишечные бактерии сбраживают клетчатку в короткоцепочечные жирные кислоты — ацетат, пропионат, бутират. Они кормят стенку кишечника и подают сигнал клеткам, выделяющим GLP-1 — гормон, который замедляет желудок и сообщает мозгу о сытости. Аккермансия, живущая на слизи, укрепляет барьер, чтобы этот разговор шёл спокойно. Это путь, а не лекарство."
 sources: []
 images:
+  card: "/assets/img/mbf/hubs/metabolic/metabolic-card-ru.webp"
+  cardLine: "Отчего приходит сытость?"
+  cardAlt: "Отчего приходит сытость? — женщина остановилась на краю парка в сумерках, чтобы отдышаться"
+  og: "/assets/img/mbf/hubs/metabolic/metabolic-og-ru.jpg"
   preview: "/assets/img/mbf/hubs/metabolic/metabolic-preview.webp"
-  hero: "/assets/img/mbf/hubs/metabolic/metabolic-hero.webp"
-  og: "/assets/img/mbf/hubs/metabolic/metabolic-og.jpg"
   previewAlt: "Иллюстрация: колбовидная гормональная клетка слизистой кишечника с золотыми гранулами GLP-1, на её верхушку садятся молекулы жирных кислот"
+  plate: "/assets/img/mbf/hubs/metabolic/metabolic-plate-ru.webp"
+  plateLines: "Сначала — бактерии сбраживают клетчатку · Затем — кислоты доходят до клетки кишки · Итог — она выпускает GLP-1 в кровь"
+  hero: "/assets/img/mbf/hubs/metabolic/metabolic-hero.webp"
   heroAlt: "Иллюстрация: бактерии сбраживают клетчатку в молекулы жирных кислот, те садятся на гормональную клетку слизистой, и она выпускает золотые гранулы GLP-1 в мелкий сосуд"
 referral:
   product: ""

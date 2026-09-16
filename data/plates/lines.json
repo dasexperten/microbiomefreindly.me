@@ -1,0 +1,1542 @@
+{
+  "actinomycetota": {
+    "type": "bacteria",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        1516,
+        572,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 3.97,
+      "gradient": 1.34,
+      "contrast": 9.38,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Where did our antibiotics begin?",
+        "plateLines": "First — threads grow in damp soil · Then — they release antibiotics · So — two-thirds of ours began here"
+      },
+      "ru": {
+        "question": "Антибиотики родом из земли?",
+        "plateLines": "Сначала — нити растут в сырой земле · Затем — они выделяют антибиотик · Итог — две трети антибиотиков отсюда"
+      }
+    }
+  },
+  "akkermansia-muciniphila": {
+    "type": "bacteria",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        63,
+        731,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 15.21,
+      "gradient": 3.74,
+      "contrast": 4.49,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Is eating mucus good news?",
+        "plateLines": "First — it settles in your mucus · Then — it grazes a hollow · So — the lining renews it; 1 % of cells"
+      },
+      "ru": {
+        "question": "Она полезная или вредная?",
+        "plateLines": "Сначала — она садится в вашу слизь · Затем — выедает ямку · Итог — слой обновляется; 1 % клеток"
+      }
+    }
+  },
+  "bacillota-firmicutes": {
+    "type": "bacteria",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        221,
+        1175,
+        932,
+        265
+      ],
+      "ink": [
+        247,
+        245,
+        242
+      ],
+      "lines": 2,
+      "std": 9.51,
+      "gradient": 2.02,
+      "contrast": 6,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Do gut bacteria make you fat?",
+        "plateLines": "First — starch reaches the colon whole · Then — rods ferment it to butyrate · So — the lining eats; spores in 50–60 %"
+      },
+      "ru": {
+        "question": "От бактерий полнеют?",
+        "plateLines": "Сначала — крахмал доходит целым · Затем — палочки делают из него бутират · Итог — стенка сыта; 50–60 % со спорами"
+      }
+    }
+  },
+  "bacillus-coagulans": {
+    "type": "bacteria",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        1327,
+        287,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 6.46,
+      "gradient": 1.18,
+      "contrast": 6.13,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Do probiotic spores stay?",
+        "plateLines": "First — spores arrive asleep and whole · Then — one wakes and sours the sugar · So — they drift past and leave"
+      },
+      "ru": {
+        "question": "Пробиотик остаётся в кишечнике?",
+        "plateLines": "Сначала — споры приходят спящими · Затем — одна прорастает в палочку · Итог — проплывают мимо и уходят"
+      }
+    }
+  },
+  "bacteroidota": {
+    "type": "bacteria",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        63,
+        477,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 9.52,
+      "gradient": 4.04,
+      "contrast": 4.61,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "What happens without fibre?",
+        "plateLines": "First — plant fibre reaches them whole · Then — they take it apart for you · So — no fibre, and they eat your lining"
+      },
+      "ru": {
+        "question": "Что будет без клетчатки?",
+        "plateLines": "Сначала — клетчатка доходит целой · Затем — они разбирают её для вас · Итог — без клетчатки едят вашу слизь"
+      }
+    }
+  },
+  "bifidobacterium": {
+    "type": "bacteria",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        1421,
+        572,
+        932,
+        265
+      ],
+      "ink": [
+        247,
+        245,
+        242
+      ],
+      "lines": 2,
+      "std": 2.51,
+      "gradient": 1.48,
+      "contrast": 4.91,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Is every bifidobacterium good?",
+        "plateLines": "First — milk sugars pass the baby by · Then — these rods eat what she cannot · So — over 90 % of her gut is theirs"
+      },
+      "ru": {
+        "question": "Все бифидобактерии полезные?",
+        "plateLines": "Сначала — сахара молока ей не по зубам · Затем — их съедают эти палочки · Итог — больше 90 % кишечника — они"
+      }
+    }
+  },
+  "clostridioides-difficile": {
+    "type": "bacteria",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        126,
+        1206,
+        932,
+        265
+      ],
+      "ink": [
+        247,
+        245,
+        242
+      ],
+      "lines": 2,
+      "std": 10.61,
+      "gradient": 2.27,
+      "contrast": 3.59,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Does carrying it mean illness?",
+        "plateLines": "First — the neighbours hold it down · Then — antibiotics sweep them away · So — the spores wake and multiply"
+      },
+      "ru": {
+        "question": "Носитель — значит больной?",
+        "plateLines": "Сначала — соседи держат её в узде · Затем — антибиотик сметает соседей · Итог — споры просыпаются и растут"
+      }
+    }
+  },
+  "escherichia-coli": {
+    "type": "bacteria",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        1327,
+        541,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 12.81,
+      "gradient": 3,
+      "contrast": 5.14,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Is E. coli always dangerous?",
+        "plateLines": "First — oxygen seeps from the lining · Then — these rods breathe it away · So — over 90 % of us carry them"
+      },
+      "ru": {
+        "question": "Кишечная палочка всегда опасна?",
+        "plateLines": "Сначала — от стенки идёт кислород · Затем — палочки его забирают · Итог — их носят больше 90 % людей"
+      }
+    }
+  },
+  "faecalibacterium-prausnitzii": {
+    "type": "bacteria",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        94,
+        636,
+        932,
+        265
+      ],
+      "ink": [
+        247,
+        245,
+        242
+      ],
+      "lines": 2,
+      "std": 7.04,
+      "gradient": 1.65,
+      "contrast": 3.49,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "What feeds your gut lining?",
+        "plateLines": "First — it hides where no air reaches · Then — it eats what neighbours drop · So — the lining is fed; over 5 % of all"
+      },
+      "ru": {
+        "question": "Чем питается стенка кишечника?",
+        "plateLines": "Сначала — прячется там, где нет воздуха · Затем — ест то, что бросили соседи · Итог — стенка сыта; больше 5 % всех"
+      }
+    }
+  },
+  "fusobacteriota": {
+    "type": "bacteria",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        63,
+        984,
+        932,
+        265
+      ],
+      "ink": [
+        247,
+        245,
+        242
+      ],
+      "lines": 2,
+      "std": 16.91,
+      "gradient": 2.37,
+      "contrast": 4.05,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Should this live in my mouth?",
+        "plateLines": "First — round settlers form a layer · Then — long spindles lie across them · So — the plaque holds as one"
+      },
+      "ru": {
+        "question": "Ей место во рту?",
+        "plateLines": "Сначала — первый слой круглых клеток · Затем — поперёк ложатся веретёна · Итог — налёт держится как одно целое"
+      }
+    }
+  },
+  "helicobacter-pylori": {
+    "type": "bacteria",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        1390,
+        192,
+        932,
+        265
+      ],
+      "ink": [
+        247,
+        245,
+        242
+      ],
+      "lines": 2,
+      "std": 7.65,
+      "gradient": 1.54,
+      "contrast": 3.35,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Is something this common a pathogen?",
+        "plateLines": "First — it makes a neutral cloud in acid · Then — it drills down into the mucus · So — it fastens to the lining for life"
+      },
+      "ru": {
+        "question": "Носит половина мира — и опасна?",
+        "plateLines": "Сначала — облако нейтрали в кислоте · Затем — ввинчивается в слизь · Итог — держится на стенке всю жизнь"
+      }
+    }
+  },
+  "lactobacillus": {
+    "type": "bacteria",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        1485,
+        192,
+        932,
+        265
+      ],
+      "ink": [
+        247,
+        245,
+        242
+      ],
+      "lines": 2,
+      "std": 7.38,
+      "gradient": 1.43,
+      "contrast": 4.45,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Does yogurt live in your gut?",
+        "plateLines": "First — rods eat sugar in a still pocket · Then — their acid sours the space · So — in the gut about 0.01 %"
+      },
+      "ru": {
+        "question": "Йогурт живёт в кишечнике?",
+        "plateLines": "Сначала — палочки едят сахар · Затем — кислота закисляет карман · Итог — в кишечнике около 0,01 %"
+      }
+    }
+  },
+  "porphyromonas-gingivalis": {
+    "type": "bacteria",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        1327,
+        1079,
+        932,
+        265
+      ],
+      "ink": [
+        247,
+        245,
+        242
+      ],
+      "lines": 2,
+      "std": 6.4,
+      "gradient": 1.57,
+      "contrast": 6.18,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Does carrying it mean disease?",
+        "plateLines": "First — it rests quiet among neighbours · Then — the balance tips, its enzymes cut · So — the pocket seeps and feeds it"
+      },
+      "ru": {
+        "question": "Нашли — значит, болезнь?",
+        "plateLines": "Сначала — тихо живёт среди соседей · Затем — баланс сдвинут, ферменты режут · Итог — карман сочится и кормит её"
+      }
+    }
+  },
+  "pseudomonadota-proteobacteria": {
+    "type": "bacteria",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        252,
+        192,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 8.24,
+      "gradient": 1.8,
+      "contrast": 5.04,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Are these the bad bacteria?",
+        "plateLines": "First — a few rods in an airless crowd · Then — the sore lining leaks oxygen · So — they bloom and the rest thin out"
+      },
+      "ru": {
+        "question": "Это правда плохие бактерии?",
+        "plateLines": "Сначала — их мало в бескислородной толпе · Затем — стенка пропускает кислород · Итог — они множатся, других меньше"
+      }
+    }
+  },
+  "streptococcus-mutans": {
+    "type": "bacteria",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        126,
+        1206,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 5.12,
+      "gradient": 1.75,
+      "contrast": 4.18,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Does everyone carry the cavity germ?",
+        "plateLines": "First — sugar lands on the plaque · Then — they spin glue and make acid · So — the enamel under it dissolves"
+      },
+      "ru": {
+        "question": "Он есть у всех?",
+        "plateLines": "Сначала — на налёт попадает сахар · Затем — прядут клей и дают кислоту · Итог — эмаль под ним растворяется"
+      }
+    }
+  },
+  "streptococcus-salivarius": {
+    "type": "bacteria",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        1358,
+        858,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 7.02,
+      "gradient": 1.82,
+      "contrast": 3.81,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Is the tongue's own microbe safe?",
+        "plateLines": "First — on the tongue since birth · Then — it releases its own antibiotics · So — rivals stall at its edge"
+      },
+      "ru": {
+        "question": "Опасен ли житель языка?",
+        "plateLines": "Сначала — селится на языке с рождения · Затем — выпускает свои антибиотики · Итог — чужаки глохнут у края участка"
+      }
+    }
+  },
+  "verrucomicrobiota": {
+    "type": "bacteria",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        126,
+        477,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 7.46,
+      "gradient": 1.46,
+      "contrast": 7.38,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Is the mucus eater good?",
+        "plateLines": "First — it grazes the gut's mucus coat · Then — the lining feeds and makes more · So — without fibre the coat wears thin"
+      },
+      "ru": {
+        "question": "Едок слизи — это хорошо?",
+        "plateLines": "Сначала — объедает слизь кишечника · Затем — стенка кормится и даёт новую · Итог — без клетчатки слой истончается"
+      }
+    }
+  },
+  "akkermansia-glp1-metabolic-syndrome-trial": {
+    "type": "news",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        1453,
+        1079,
+        932,
+        265
+      ],
+      "ink": [
+        247,
+        245,
+        242
+      ],
+      "lines": 2,
+      "std": 4.68,
+      "gradient": 1.45,
+      "contrast": 4.14,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Did the trial fail?",
+        "plateLines": "First — dead cells settle in the mucus · Then — one gut cell lets out GLP-1 · So — 30 billion cells, nothing moved"
+      },
+      "ru": {
+        "question": "Значит, испытание провалилось?",
+        "plateLines": "Сначала — мёртвые клетки ложатся в слизь · Затем — клетка кишки выпускает ГПП-1 · Итог — 30 млрд клеток, сдвига нет"
+      }
+    }
+  },
+  "chewing-gum-enzymes-oral-acetaldehyde": {
+    "type": "news",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        63,
+        192,
+        932,
+        265
+      ],
+      "ink": [
+        247,
+        245,
+        242
+      ],
+      "lines": 2,
+      "std": 7.34,
+      "gradient": 2.42,
+      "contrast": 7.84,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Does sugar cause mouth cancer?",
+        "plateLines": "First — sugar and alcohol reach plaque · Then — the microbes make a carcinogen · So — the peptide killed 91.37 %, not all"
+      },
+      "ru": {
+        "question": "Сахар вызывает рак во рту?",
+        "plateLines": "Сначала — сахар и спирт попадают в налёт · Затем — микробы делают канцероген · Итог — пептид убил 91,37 %, не всех"
+      }
+    }
+  },
+  "gut-flagellin-systemic-inflammation-long-covid": {
+    "type": "news",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        1453,
+        192,
+        932,
+        265
+      ],
+      "ink": [
+        247,
+        245,
+        242
+      ],
+      "lines": 2,
+      "std": 14.35,
+      "gradient": 1.37,
+      "contrast": 3.6,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Is long covid from the gut?",
+        "plateLines": "First — a bacterial tail breaks off · Then — immune cells read it as alarm · So — tissue far from the gut inflames"
+      },
+      "ru": {
+        "question": "Виноват ли тут кишечник?",
+        "plateLines": "Сначала — жгутик бактерии отрывается · Затем — иммунитет читает его как тревогу · Итог — воспаляются далёкие органы"
+      }
+    }
+  },
+  "newborn-gut-bacteria-oxygen-immune-training": {
+    "type": "news",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        157,
+        1206,
+        932,
+        265
+      ],
+      "ink": [
+        247,
+        245,
+        242
+      ],
+      "lines": 2,
+      "std": 6.78,
+      "gradient": 1.68,
+      "contrast": 4.3,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Is a newborn gut airless?",
+        "plateLines": "First — air still lingers in a new gut · Then — one fat seals the microbe's wall · So — the same fat teaches immune cells"
+      },
+      "ru": {
+        "question": "Есть ли воздух в кишечнике?",
+        "plateLines": "Сначала — в юной кишке ещё есть воздух · Затем — жир запечатывает её оболочку · Итог — тот же жир учит иммунные клетки"
+      }
+    }
+  },
+  "probiotic-responders-baseline-gut-diversity": {
+    "type": "news",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        1516,
+        1079,
+        932,
+        265
+      ],
+      "ink": [
+        247,
+        245,
+        242
+      ],
+      "lines": 2,
+      "std": 25.46,
+      "gradient": 5.56,
+      "contrast": 3.58,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Why her and not you?",
+        "plateLines": "First — the same dead cells, two guts · Then — a crowded gut has no room left · So — only the sparse gut changed"
+      },
+      "ru": {
+        "question": "Кому это вообще помогает?",
+        "plateLines": "Сначала — те же клетки, две кишки · Затем — в плотной кишке нет места · Итог — сдвинулась только бедная"
+      }
+    }
+  },
+  "probiotic-sulfur-bad-breath-periodontitis": {
+    "type": "news",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        157,
+        604,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 8.32,
+      "gradient": 1.25,
+      "contrast": 4.72,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "What actually causes bad breath?",
+        "plateLines": "First — mouth microbes eat protein · Then — an enzyme cuts the sulfur free · So — that gene fell 98 %, in a dish"
+      },
+      "ru": {
+        "question": "Отчего на самом деле пахнет?",
+        "plateLines": "Сначала — микробы рта едят белок · Затем — фермент отрывает серу · Итог — ген притих на 98 %, в чашке"
+      }
+    }
+  },
+  "stool-proteases-irritable-bowel-nerves": {
+    "type": "news",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        1516,
+        224,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 3.46,
+      "gradient": 1,
+      "contrast": 8.93,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Is the pain really physical?",
+        "plateLines": "First — stool fluid touches the gut wall · Then — an enzyme clips a nerve receptor · So — the nerve net fires far harder"
+      },
+      "ru": {
+        "question": "Эта боль правда телесная?",
+        "plateLines": "Сначала — жидкость стула касается стенки · Затем — фермент срезает рецептор нерва · Итог — нервная сеть возбуждается сильнее"
+      }
+    }
+  },
+  "vitamin-a-relay-gut-immunity": {
+    "type": "news",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        157,
+        1079,
+        932,
+        265
+      ],
+      "ink": [
+        247,
+        245,
+        242
+      ],
+      "lines": 2,
+      "std": 2.7,
+      "gradient": 1.35,
+      "contrast": 5.43,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Who carries the vitamin there?",
+        "plateLines": "First — gut bacteria wake the lining · Then — carrier proteins pick up retinol · So — under 2 % reaches immune cells"
+      },
+      "ru": {
+        "question": "Кто доносит витамин?",
+        "plateLines": "Сначала — бактерии будят стенку кишки · Затем — белки-носильщики берут витамин · Итог — до иммунных клеток меньше 2 %"
+      }
+    }
+  },
+  "can-i-rebuild-my-gut-after-antibiotics": {
+    "type": "ask",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        157,
+        1206,
+        932,
+        265
+      ],
+      "ink": [
+        247,
+        245,
+        242
+      ],
+      "lines": 2,
+      "std": 9.31,
+      "gradient": 1.53,
+      "contrast": 4.35,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Can I rebuild my gut?",
+        "plateLines": "First — antibiotics strip it bare · Then — it refills in six weeks · So — 9 species are still missing"
+      },
+      "ru": {
+        "question": "Кишечник восстановится сам?",
+        "plateLines": "Сначала — антибиотики выметают всё · Затем — за полтора месяца возвращается · Итог — 9 видов так и нет"
+      }
+    }
+  },
+  "do-probiotics-survive-stomach-acid": {
+    "type": "ask",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        1485,
+        794,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 8.19,
+      "gradient": 1.1,
+      "contrast": 5.34,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "With food or empty stomach?",
+        "plateLines": "First — the crowd meets the acid · Then — spores pass, delicate cells fall · So — 18.5 % arrive, few settle"
+      },
+      "ru": {
+        "question": "С едой или натощак?",
+        "plateLines": "Сначала — все вместе входят в кислоту · Затем — споры проходят, нежные гибнут · Итог — доходит 18,5 %, но не селится"
+      }
+    }
+  },
+  "is-a-coated-tongue-bad": {
+    "type": "ask",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        252,
+        604,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 3.94,
+      "gradient": 1.07,
+      "contrast": 7.32,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Is a coated tongue bad?",
+        "plateLines": "First — shed cells fill the grooves · Then — airless bacteria make the smell · So — a thin coating in 90.7 %"
+      },
+      "ru": {
+        "question": "Налёт на языке — это плохо?",
+        "plateLines": "Сначала — в бороздках копятся клетки · Затем — бактерии без воздуха дают запах · Итог — тонкий налёт у 90,7 %"
+      }
+    }
+  },
+  "why-did-a-probiotic-work-for-my-friend": {
+    "type": "ask",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        1327,
+        794,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 3.02,
+      "gradient": 1.57,
+      "contrast": 4.04,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "It helped her. Why not me?",
+        "plateLines": "First — six strains look identical · Then — same gut, same conditions · So — 4 of 6 did anything"
+      },
+      "ru": {
+        "question": "Пробиотик другу помог. А мне?",
+        "plateLines": "Сначала — шесть штаммов на вид одинаковы · Затем — кишечник один и тот же · Итог — помогли 4 из 6"
+      }
+    }
+  },
+  "antibacterial-mouthwash-is-always-good": {
+    "type": "myth",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        221,
+        762,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 15.83,
+      "gradient": 1.46,
+      "contrast": 3.78,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Should I rinse every day?",
+        "plateLines": "First — the rinse does not choose · Then — the mouth community thins · So — nitrite falls by 90 %"
+      },
+      "ru": {
+        "question": "Полоскать рот каждый день?",
+        "plateLines": "Сначала — антисептик не выбирает · Затем — своих бактерий меньше · Итог — нитрита на 90 % меньше"
+      }
+    }
+  },
+  "bad-breath-comes-from-the-stomach": {
+    "type": "myth",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        1453,
+        826,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 5.85,
+      "gradient": 1.22,
+      "contrast": 9.54,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Is it coming from my stomach?",
+        "plateLines": "First — the coating closes off the air · Then — bacteria strip sulphur from it · So — mouth 87 %, gut 1 %"
+      },
+      "ru": {
+        "question": "Это всё-таки желудок?",
+        "plateLines": "Сначала — налёт закрывает доступ воздуха · Затем — бактерии отщепляют серу · Итог — рот 87 %, кишечник 1 %"
+      }
+    }
+  },
+  "more-cfu-means-a-better-probiotic": {
+    "type": "myth",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        252,
+        699,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 8.11,
+      "gradient": 1.29,
+      "contrast": 5.12,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Is a bigger number better?",
+        "plateLines": "First — doubling the dose helped once · Then — the same strain, far more of it · So — 100× more changed nothing"
+      },
+      "ru": {
+        "question": "Большое число — это лучше?",
+        "plateLines": "Сначала — двойная доза раз помогла · Затем — тот же штамм, доза больше · Итог — в 100 раз больше — то же самое"
+      }
+    }
+  },
+  "you-can-reset-your-gut-in-three-days": {
+    "type": "myth",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        1327,
+        667,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 9.71,
+      "gradient": 1.46,
+      "contrast": 4.33,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Can three days reset it?",
+        "plateLines": "First — food shifts the mix in a day · Then — two days later it slides back · So — 60 % of strains stay for years"
+      },
+      "ru": {
+        "question": "Три дня что-то меняют?",
+        "plateLines": "Сначала — еда сдвигает состав за сутки · Затем — через двое суток всё назад · Итог — 60 % штаммов живут годами"
+      }
+    }
+  },
+  "eating-after-antibiotics": {
+    "type": "routine",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        63,
+        1175,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 16.55,
+      "gradient": 6.98,
+      "contrast": 3.36,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "What should I eat now?",
+        "plateLines": "First — the course leaves it bare · Then — fibre and ferments refill it · So — 9 species missing at day 180"
+      },
+      "ru": {
+        "question": "Что теперь есть?",
+        "plateLines": "Сначала — после курса поле пустое · Затем — клетчатка и квашеное кормят · Итог — 9 видов нет и на 180-й день"
+      }
+    }
+  },
+  "fermented-foods-what-they-do": {
+    "type": "routine",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        1358,
+        477,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 5.65,
+      "gradient": 1.16,
+      "contrast": 6.76,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Do fermented foods really work?",
+        "plateLines": "First — live cells come with the food · Then — they pass through, few stay · So — 19 inflammatory proteins fell"
+      },
+      "ru": {
+        "question": "Кефир вообще что-то даёт?",
+        "plateLines": "Сначала — живые клетки идут с едой · Затем — проходят мимо, редко остаются · Итог — 19 белков воспаления упали"
+      }
+    }
+  },
+  "how-much-fibre-and-which-kind": {
+    "type": "routine",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        157,
+        192,
+        932,
+        265
+      ],
+      "ink": [
+        247,
+        245,
+        242
+      ],
+      "lines": 2,
+      "std": 17.95,
+      "gradient": 4.57,
+      "contrast": 3.65,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "How much fibre is enough?",
+        "plateLines": "First — three kinds of fibre arrive · Then — only one of them is eaten · So — 25–29 g a day, then it levels"
+      },
+      "ru": {
+        "question": "Сколько клетчатки в день?",
+        "plateLines": "Сначала — приходят три вида клетчатки · Затем — едят только один из них · Итог — 25–29 г в день, дальше плато"
+      }
+    }
+  },
+  "sleep-and-your-gut": {
+    "type": "routine",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        1485,
+        1048,
+        932,
+        265
+      ],
+      "ink": [
+        247,
+        245,
+        242
+      ],
+      "lines": 2,
+      "std": 5.54,
+      "gradient": 1.34,
+      "contrast": 5.47,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Does bad sleep hurt my gut?",
+        "plateLines": "First — a steady rhythm, many kinds · Then — the rhythm goes ragged · So — just as full, fewer kinds"
+      },
+      "ru": {
+        "question": "Плохой сон вредит кишечнику?",
+        "plateLines": "Сначала — ровный ритм, много видов · Затем — ритм становится рваным · Итог — так же густо, видов меньше"
+      }
+    }
+  },
+  "brain": {
+    "type": "hubs",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        1358,
+        287,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 15.7,
+      "gradient": 2.05,
+      "contrast": 3.43,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Can gut bacteria affect my mood?",
+        "plateLines": "First — gut microbes give off molecules · Then — a gut cell senses and signals · So — the nerve carries it, they stay"
+      },
+      "ru": {
+        "question": "Бактерии влияют на настроение?",
+        "plateLines": "Сначала — микробы выделяют молекулы · Затем — клетка стенки их улавливает · Итог — нерв несёт сигнал, они на месте"
+      }
+    }
+  },
+  "enzymes": {
+    "type": "hubs",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        600,
+        445,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 5.6,
+      "gradient": 1.38,
+      "contrast": 6.07,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Do enzymes kill bacteria?",
+        "plateLines": "First — a sugar web holds the plaque · Then — the enzyme cuts one link · So — the web falls, the cells live"
+      },
+      "ru": {
+        "question": "Ферменты убивают бактерии?",
+        "plateLines": "Сначала — сахарная сетка держит налёт · Затем — фермент режет одно звено · Итог — каркас рассыпается, клетки целы"
+      }
+    }
+  },
+  "gut": {
+    "type": "hubs",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        252,
+        1048,
+        932,
+        265
+      ],
+      "ink": [
+        247,
+        245,
+        242
+      ],
+      "lines": 2,
+      "std": 9.29,
+      "gradient": 1.36,
+      "contrast": 3.33,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Is my gut microbiome healthy?",
+        "plateLines": "First — fibre we cannot digest arrives · Then — the crowd ferments it · So — the acids feed the gut wall"
+      },
+      "ru": {
+        "question": "Мой микробиом здоровый?",
+        "plateLines": "Сначала — приходит клетчатка · Затем — её сбраживают бактерии · Итог — кислоты кормят стенку кишки"
+      }
+    }
+  },
+  "immunity": {
+    "type": "hubs",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        157,
+        509,
+        932,
+        265
+      ],
+      "ink": [
+        31,
+        42,
+        62
+      ],
+      "lines": 2,
+      "std": 9.25,
+      "gradient": 2.17,
+      "contrast": 4.03,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "How is tolerance learned?",
+        "plateLines": "First — bacteria signal across the wall · Then — the patrol cell stays quiet · So — tolerance holds, no alarm"
+      },
+      "ru": {
+        "question": "Откуда берётся терпимость?",
+        "plateLines": "Сначала — бактерии сигналят через стенку · Затем — клетка-страж остаётся спокойной · Итог — мир держится, тревоги нет"
+      }
+    }
+  },
+  "metabolic": {
+    "type": "hubs",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        1421,
+        858,
+        932,
+        265
+      ],
+      "ink": [
+        247,
+        245,
+        242
+      ],
+      "lines": 2,
+      "std": 7.24,
+      "gradient": 3.85,
+      "contrast": 4.46,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "What makes you feel full?",
+        "plateLines": "First — bacteria ferment fibre · Then — fatty acids reach a gut cell · So — it releases GLP-1 into the blood"
+      },
+      "ru": {
+        "question": "Отчего приходит сытость?",
+        "plateLines": "Сначала — бактерии сбраживают клетчатку · Затем — кислоты доходят до клетки кишки · Итог — она выпускает GLP-1 в кровь"
+      }
+    }
+  },
+  "oral": {
+    "type": "hubs",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        1358,
+        1206,
+        932,
+        265
+      ],
+      "ink": [
+        247,
+        245,
+        242
+      ],
+      "lines": 2,
+      "std": 4.86,
+      "gradient": 1.51,
+      "contrast": 4.58,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Where does plaque come from?",
+        "plateLines": "First — bacteria stick to the enamel · Then — sugar feeds the acid-makers · So — the enamel softens beneath"
+      },
+      "ru": {
+        "question": "Кто строит налёт на зубах?",
+        "plateLines": "Сначала — бактерии липнут к эмали · Затем — сахар кормит кислотообразующих · Итог — эмаль под налётом размягчается"
+      }
+    }
+  },
+  "skin": {
+    "type": "hubs",
+    "geometry": {
+      "size": [
+        2528,
+        1696
+      ],
+      "box": [
+        126,
+        1206,
+        932,
+        265
+      ],
+      "ink": [
+        247,
+        245,
+        242
+      ],
+      "lines": 2,
+      "std": 5.8,
+      "gradient": 1.35,
+      "contrast": 4.03,
+      "pass": true
+    },
+    "locales": {
+      "en": {
+        "question": "Can the gut show on skin?",
+        "plateLines": "First — gut bacteria release molecules · Then — blood carries them, not bacteria · So — the skin's own microbes answer"
+      },
+      "ru": {
+        "question": "Кожа зависит от кишечника?",
+        "plateLines": "Сначала — бактерии кишки дают молекулы · Затем — кровь несёт их, а не бактерий · Итог — кожные микробы отвечают"
+      }
+    }
+  }
+}

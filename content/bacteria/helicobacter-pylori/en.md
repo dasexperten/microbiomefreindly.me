@@ -108,10 +108,15 @@ entity:
   wikidata: "Q180556"
   ncbiTaxId: "210"
 images:
+  card: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-card-en.webp"
+  cardLine: "Is something this common a pathogen?"
+  cardAlt: "Is something this common a pathogen? — a woman pauses in her hallway after lunch, a hand flat below her ribs"
+  og: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-og-en.jpg"
   preview: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-preview.webp"
-  hero: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-hero.webp"
-  og: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-og.jpg"
   previewAlt: "Illustration: spiral bacteria with a tuft of tails at one end rest in mucus over the stomach lining, one in a clear pocket"
+  plate: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-plate-en.webp"
+  plateLines: "First — it makes a neutral cloud in acid · Then — it drills down into the mucus · So — it fastens to the lining for life"
+  hero: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-hero.webp"
   heroAlt: "Illustration: a spiral bacterium wraps itself in a small neutral cloud in stomach acid, corkscrews down into the mucus and fastens to the lining beside others already settled"
 referral:
   product: ""

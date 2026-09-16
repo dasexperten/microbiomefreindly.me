@@ -13,10 +13,15 @@ voice: greger
 answer: "The gut–skin axis is the two-way link between the gut microbiome and the skin. Gut bacteria shape the immune cells and metabolites that circulate to the skin; the skin's own microbes respond to that immune tone. Eczema, acne and rosacea are associated with gut changes — through inflammation, barrier function and diet, not through bacteria travelling to the face."
 sources: []
 images:
+  card: "/assets/img/mbf/hubs/skin/skin-card-en.webp"
+  cardLine: "Can the gut show on skin?"
+  cardAlt: "Can the gut show on skin? — a woman at a sunlit window in the morning, fingertips resting at her jaw"
+  og: "/assets/img/mbf/hubs/skin/skin-og-en.jpg"
   preview: "/assets/img/mbf/hubs/skin/skin-preview.webp"
-  hero: "/assets/img/mbf/hubs/skin/skin-hero.webp"
-  og: "/assets/img/mbf/hubs/skin/skin-og.jpg"
   previewAlt: "Illustration: grape-like clusters of round bacteria on flat skin surface cells, and coral short rods at the rim of a pore"
+  plate: "/assets/img/mbf/hubs/skin/skin-plate-en.webp"
+  plateLines: "First — gut bacteria release molecules · Then — blood carries them, not bacteria · So — the skin's own microbes answer"
+  hero: "/assets/img/mbf/hubs/skin/skin-hero.webp"
   heroAlt: "Illustration: gut bacteria stay put while lime molecules and immune cells from the gut lining travel in the bloodstream to the skin surface and its own microbes"
 referral:
   product: ""

@@ -54,10 +54,15 @@ sources:
     doi: "10.7554/eLife.03206"
     pmid: "25073702"
 images:
+  card: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-card-ru.webp"
+  cardLine: "Кто доносит витамин?"
+  cardAlt: "Кто доносит витамин? — женщина режет морковь на кухонном столе под вечерней лампой"
+  og: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-og-ru.jpg"
   preview: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-preview.webp"
-  hero: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-hero.webp"
-  og: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-og.jpg"
   previewAlt: "Иллюстрация: сегментированные нити бактерий укоренены кончиками в мягкой складке слизистой кишечника, золотая искра в месте входа одной нити"
+  plate: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-plate-ru.webp"
+  plateLines: "Сначала — бактерии будят стенку кишки · Затем — белки-носильщики берут витамин · Итог — до иммунных клеток меньше 2 %"
+  hero: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-hero.webp"
   heroAlt: "Иллюстрация: сегментированные бактерии в слизистой кишечника, её клетки держат золотые капли витамина A; одна капля переходит к ветвистой иммунной клетке и дальше к T-клеткам"
 referral:
   product: ""

@@ -62,10 +62,15 @@ sources:
     doi: "10.1073/pnas.1718635115"
     pmid: "29610310"
 images:
+  card: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-card-ru.webp"
+  cardLine: "В кишечнике младенца есть воздух?"
+  cardAlt: "В кишечнике младенца есть воздух? — молодая мать сидит в кресле у окна на первом свету"
+  og: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-og-ru.jpg"
   preview: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-preview.webp"
-  hero: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-hero.webp"
-  og: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-og.jpg"
   previewAlt: "Иллюстрация: короткие палочки Bacteroides fragilis в контровом свете на юной поверхности кишечника, край мембраны одной клетки светится лаймовым"
+  plate: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-plate-ru.webp"
+  plateLines: "Сначала — в юной кишке ещё есть воздух · Затем — жир запечатывает её оболочку · Итог — тот же жир учит иммунные клетки"
+  hero: "/assets/img/mbf/articles/newborn-gut-bacteria-oxygen-immune-training/newborn-gut-bacteria-oxygen-immune-training-hero.webp"
   heroAlt: "Иллюстрация: короткая палочка держит плотный край мембраны, пока рядом дрейфуют частицы воздуха, а тот же мембранный жир передаётся юной иммунной клетке, которая по нему растёт"
 referral:
   product: ""

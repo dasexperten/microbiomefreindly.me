@@ -108,10 +108,15 @@ entity:
   wikidata: "Q180556"
   ncbiTaxId: "210"
 images:
+  card: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-card-ru.webp"
+  cardLine: "Носит половина мира — и опасна?"
+  cardAlt: "Носит половина мира — и опасна? — женщина замерла в прихожей после обеда, ладонь под рёбрами"
+  og: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-og-ru.jpg"
   preview: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-preview.webp"
-  hero: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-hero.webp"
-  og: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-og.jpg"
   previewAlt: "Иллюстрация: спиральные бактерии с пучком жгутиков на одном конце лежат в слизи над слизистой желудка, одна в прозрачном кармане"
+  plate: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-plate-ru.webp"
+  plateLines: "Сначала — облако нейтрали в кислоте · Затем — ввинчивается в слизь · Итог — держится на стенке всю жизнь"
+  hero: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-hero.webp"
   heroAlt: "Иллюстрация: спиральная бактерия окружает себя маленьким нейтральным облаком в желудочной кислоте, ввинчивается в слизь и закрепляется на слизистой рядом с уже осевшими"
 referral:
   product: ""

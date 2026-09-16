@@ -13,10 +13,15 @@ voice: greger
 answer: "The mouth microbiome is the community of bacteria living on teeth, gums, tongue and cheeks. On teeth it forms plaque — a structured biofilm held together by sugars the bacteria make themselves. In balance it protects; when sugar is frequent or cleaning is rare, acid-making species take over, enamel dissolves and gums inflame."
 sources: []
 images:
+  card: "/assets/img/mbf/hubs/oral/oral-card-en.webp"
+  cardLine: "Where does plaque come from?"
+  cardAlt: "Where does plaque come from? — a woman leans over the basin in cool early light, having just rinsed"
+  og: "/assets/img/mbf/hubs/oral/oral-og-en.jpg"
   preview: "/assets/img/mbf/hubs/oral/oral-preview.webp"
-  hero: "/assets/img/mbf/hubs/oral/oral-hero.webp"
-  og: "/assets/img/mbf/hubs/oral/oral-og.jpg"
   previewAlt: "Illustration: a young mound of round bacteria in short chains on tooth enamel, wrapped in a glossy sugar gel with a gold rim"
+  plate: "/assets/img/mbf/hubs/oral/oral-plate-en.webp"
+  plateLines: "First — bacteria stick to the enamel · Then — sugar feeds the acid-makers · So — the enamel softens beneath"
+  hero: "/assets/img/mbf/hubs/oral/oral-hero.webp"
   heroAlt: "Illustration: sugar keeps reaching a plaque mound on tooth enamel, acid-making round bacteria take over, and a coral acid haze softens the enamel beneath them"
 referral:
   product: ""

@@ -56,10 +56,15 @@ sources:
     doi: "10.1038/s41564-021-00880-5"
     pmid: "33820962"
 images:
+  card: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-card-ru.webp"
+  cardLine: "Значит, испытание провалилось?"
+  cardAlt: "Значит, испытание провалилось? — женщина за пятьдесят одна ждёт автобус в холодном утреннем свете"
+  og: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-og-ru.jpg"
   preview: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-preview.webp"
-  hero: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-hero.webp"
-  og: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-og.jpg"
   previewAlt: "Иллюстрация: целые неподвижные овальные клетки Akkermansia лежат в выеденных углублениях кишечной слизи, под ними коралловый отблеск клетки слизистой"
+  plate: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-plate-ru.webp"
+  plateLines: "Сначала — мёртвые клетки ложатся в слизь · Затем — клетка кишки выпускает ГПП-1 · Итог — 30 млрд клеток, сдвига нет"
+  hero: "/assets/img/mbf/articles/akkermansia-glp1-metabolic-syndrome-trial/akkermansia-glp1-metabolic-syndrome-trial-hero.webp"
   heroAlt: "Иллюстрация: плотный слой убитых нагреванием овальных клеток Akkermansia в кишечной слизи; одна гормональная клетка слизистой выпускает золотую порцию, а ткань дальше не меняется"
 referral:
   product: ""

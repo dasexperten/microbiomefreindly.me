@@ -43,10 +43,15 @@ sources:
     doi: "10.1016/s1470-2045(09)70326-2"
     pmid: "19891056"
 images:
+  card: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-card-en.webp"
+  cardLine: "Does sugar cause mouth cancer?"
+  cardAlt: "Does sugar cause mouth cancer? — a woman on her balcony late at night, chewing, a glass of wine in her hand"
+  og: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-og-en.jpg"
   preview: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-preview.webp"
-  hero: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-hero.webp"
-  og: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-og.jpg"
   previewAlt: "Illustration: chains of round bacteria and budding yeast held in a sticky film over pale enamel, one thinned spot lit lime"
+  plate: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-plate-en.webp"
+  plateLines: "First — sugar and alcohol reach plaque · Then — the microbes make a carcinogen · So — the peptide killed 91.37 %, not all"
+  hero: "/assets/img/mbf/articles/chewing-gum-enzymes-oral-acetaldehyde/chewing-gum-enzymes-oral-acetaldehyde-hero.webp"
   heroAlt: "Illustration: microbes in a plaque shell on enamel give off acetaldehyde; a peptide stills most, three sheltered cells survive until enzymes dissolve the shell"
 referral:
   product: ""

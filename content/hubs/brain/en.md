@@ -13,10 +13,15 @@ voice: greger
 answer: "The gut–brain axis is the set of routes by which the gut and its microbes talk to the brain: the vagus nerve, hormones from gut cells, immune messengers and bacterial metabolites in the blood. Most of the body's serotonin is made in the gut, under microbial influence. The connection is real; its size in human mood is still being measured."
 sources: []
 images:
+  card: "/assets/img/mbf/hubs/brain/brain-card-en.webp"
+  cardLine: "Can gut bacteria affect my mood?"
+  cardAlt: "Can gut bacteria affect my mood? — a woman stands at her living-room window at dusk, a hand at her neck"
+  og: "/assets/img/mbf/hubs/brain/brain-og-en.jpg"
   preview: "/assets/img/mbf/hubs/brain/brain-preview.webp"
-  hero: "/assets/img/mbf/hubs/brain/brain-hero.webp"
-  og: "/assets/img/mbf/hubs/brain/brain-og.jpg"
   previewAlt: "Illustration: a net of nerve cell clusters joined by fibre bundles on the muscle wall of the gut, one cluster tinted lime"
+  plate: "/assets/img/mbf/hubs/brain/brain-plate-en.webp"
+  plateLines: "First — gut microbes give off molecules · Then — a gut cell senses and signals · So — the nerve carries it, they stay"
+  hero: "/assets/img/mbf/hubs/brain/brain-hero.webp"
   heroAlt: "Illustration: gut bacteria release small molecules, a hormone cell in the gut lining senses them, and a gold signal runs away along a nerve toward the brain"
 referral:
   product: ""

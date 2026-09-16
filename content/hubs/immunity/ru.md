@@ -13,10 +13,15 @@ voice: komarovsky
 answer: "Иммунитет создан не для того, чтобы уничтожать микробов, а чтобы с ними жить. Бактерии на слизистой кишечника учат иммунные клетки — макрофаги, регуляторные Т-клетки — какой сигнал значит опасность, а какой — сосед. Это обучение называется толерантностью и начинается с рождения. Когда оно сбивается, получается не инфекция, а хроническое воспаление."
 sources: []
 images:
+  card: "/assets/img/mbf/hubs/immunity/immunity-card-ru.webp"
+  cardLine: "Откуда берётся терпимость?"
+  cardAlt: "Откуда берётся терпимость? — женщина остановилась у ворот пустой площадки под низким солнцем"
+  og: "/assets/img/mbf/hubs/immunity/immunity-og-ru.jpg"
   preview: "/assets/img/mbf/hubs/immunity/immunity-preview.webp"
-  hero: "/assets/img/mbf/hubs/immunity/immunity-hero.webp"
-  og: "/assets/img/mbf/hubs/immunity/immunity-og.jpg"
   previewAlt: "Иллюстрация: макрофаг под слизистой кишечника обхватывает коралловым отростком одну палочковидную бактерию в тёплом пятне света"
+  plate: "/assets/img/mbf/hubs/immunity/immunity-plate-ru.webp"
+  plateLines: "Сначала — бактерии сигналят через стенку · Затем — клетка-страж остаётся спокойной · Итог — мир держится, тревоги нет"
+  hero: "/assets/img/mbf/hubs/immunity/immunity-hero.webp"
   heroAlt: "Иллюстрация: бактерии над однослойной слизистой кишечника выделяют мелкие молекулы; макрофаг под ней принимает их и остаётся спокойным рядом с золотыми регуляторными Т-клетками"
 referral:
   product: ""

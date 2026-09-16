@@ -48,10 +48,15 @@ sources:
     doi: "10.1007/s12602-025-10603-5"
     pmid: "40512445"
 images:
+  card: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-card-ru.webp"
+  cardLine: "Отчего на самом деле пахнет?"
+  cardAlt: "Отчего на самом деле пахнет? — женщина у своей двери дышит в сложенную ладонь утром"
+  og: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-og-ru.jpg"
   preview: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-preview.webp"
-  hero: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-hero.webp"
-  og: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-og.jpg"
   previewAlt: "Иллюстрация: веретеновидные и короткие бактерии в налёте между округлыми сосочками языка, поднимаются крошечные золотые пузырьки газа"
+  plate: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-plate-ru.webp"
+  plateLines: "Сначала — микробы рта едят белок · Затем — фермент отрывает серу · Итог — ген притих на 98 %, в чашке"
+  hero: "/assets/img/mbf/articles/probiotic-sulfur-bad-breath-periodontitis/probiotic-sulfur-bad-breath-periodontitis-hero.webp"
   heroAlt: "Иллюстрация: анаэробы налёта, полные ферментов, отщепляющих серу, выпускают пузырьки; жидкость молочнокислых бактерий омывает их, и ферменты почти исчезают"
 referral:
   product: ""

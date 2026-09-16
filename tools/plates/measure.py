@@ -16,9 +16,12 @@ from PIL import Image, ImageFilter
 
 INK = (0x36, 0x36, 0x36)      # --ink
 IVORY = (0xF7, 0xF5, 0xF2)    # --paper
+NAVY = (0x1F, 0x2A, 0x3E)     # --navy: the portal's own dark, and the one that still reads on a mid-tone wall
 STD_MAX = 26.0 / 255          # luminance spread: a wall may fall off gently, it may not be busy
 GRAD_MAX = 7.0 / 255          # local texture: this is what actually eats a letter
-CONTRAST_MIN = 4.5            # WCAG on the worst 2 % of the box
+CONTRAST_MIN = 3.0            # §4j: 4.5:1 is the body-text threshold; the question is display type at
+                              # 72 px and above on the master, so 3:1 is its measure — and it is measured
+                              # on the worst two percent of the box, not on an average that hides a dark patch
 
 
 def rel_lum(rgb):
@@ -60,7 +63,7 @@ def measure(path, side='auto', lines=2, pad=0.06):
     elif side == 'right':
         xs = range(int(w * 0.5), w - bw + 1, 4)
 
-    best = None
+    cands = []
     for x0 in xs:
         for y0 in range(band_top, band_bot - bh + 1, 4):
             n = 0
@@ -78,19 +81,29 @@ def measure(path, side='auto', lines=2, pad=0.06):
             grad = g / n
             if std > STD_MAX or grad > GRAD_MAX:
                 continue
-            score = std + grad
-            if best is None or score < best[0]:
-                best = (score, x0, y0, mean, std, grad)
-    if best is None:
+            cands.append((std + grad, x0, y0, mean, std, grad))
+    if not cands:
         return None
-    _, x0, y0, mean, std, grad = best
+    # calm is the gate, legibility is the choice: among the quiet boxes take the one where the type
+    # will actually read — the smoothest patch is worthless if it is the same tone as the ink.
+    cands.sort(key=lambda c: c[0])
+    rgb_l = rgb
 
-    # polarity: dark type on light air, ivory type on dark air — decided by the measurement, not by taste
-    ink = INK if mean > 0.5 else IVORY
-    worst = 21.0
-    for y in range(y0, y0 + bh, 3):
-        for x in range(x0, x0 + bw, 3):
-            worst = min(worst, contrast(rgb[x, y], ink))
+    def worst_for(x0, y0, ink):
+        w = 21.0
+        for y in range(y0, y0 + bh, 3):
+            for x in range(x0, x0 + bw, 3):
+                w = min(w, contrast(rgb_l[x, y], ink))
+        return w
+    scored = []
+    for c in cands[:40]:
+        _, x0, y0, mean, std, grad = c
+        for ink in (INK, NAVY, IVORY):
+            scored.append((worst_for(x0, y0, ink), x0, y0, mean, std, grad, ink))
+    scored.sort(key=lambda t: -t[0])
+    worst, x0, y0, mean, std, grad, ink = scored[0]
+
+
 
     sx, sy = W / w, H / h
     px = int(bw * pad * sx)

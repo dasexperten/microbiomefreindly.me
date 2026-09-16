@@ -100,10 +100,15 @@ entity:
   wikidata: "Q62573436"
   ncbiTaxId: "201174"
 images:
+  card: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-card-en.webp"
+  cardLine: "Where did our antibiotics begin?"
+  cardAlt: "Where did our antibiotics begin? — a woman in her sixties presses damp soil around a seedling in her garden"
+  og: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-og-en.jpg"
   preview: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-preview.webp"
-  hero: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-hero.webp"
-  og: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-og.jpg"
   previewAlt: "Illustration: fine branching soil bacteria threads over damp soil grains, raised tips ending in pale green spore chains"
+  plate: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-plate-en.webp"
+  plateLines: "First — threads grow in damp soil · Then — they release antibiotics · So — two-thirds of ours began here"
+  hero: "/assets/img/mbf/bacteria/actinomycetota/actinomycetota-hero.webp"
   heroAlt: "Illustration: branching soil bacteria release antibiotic molecules, six of nine in coral, while across the frame forked Bifidobacterium rods rest on a gut lining"
 referral:
   product: ""

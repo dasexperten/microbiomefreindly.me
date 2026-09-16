@@ -38,18 +38,24 @@ for (const [cluster, files] of Object.entries(byCluster)) {
     const og = files[`${slug}-og-${lc}.jpg`] || files[`${slug}-og.jpg`] || '';
     const plate = files[`${slug}-plate-${lc}.webp`] || '';
     const q = (v) => (v || '').replace(/"/g, '”');
+    /* merge, never replace: a run that carries only the card must not erase the two frames that are
+     * already accepted and wired (the block is rebuilt whole, so the old values are read back first) */
+    const prev = {};
+    const had = txt.match(/^images:\n((?:[ \t]+.*\n)*)/m);
+    if (had) for (const l of had[1].split('\n')) { const kv = l.match(/^\s+([A-Za-z]+):\s*"?(.*?)"?\s*$/); if (kv) prev[kv[1]] = kv[2]; }
+    const keep = (k, v) => (v || prev[k] || '');
     const block = [
       'images:',
-      `  card: "${card}"`,
-      `  cardLine: "${q(a.cardLine)}"`,
-      `  cardAlt: "${q(a.card)}"`,
-      `  og: "${og}"`,
-      `  preview: "${preview || ''}"`,
-      `  previewAlt: "${q(a.preview)}"`,
-      `  plate: "${plate}"`,
-      `  plateLines: "${q(a.plateLines)}"`,
-      `  hero: "${hero || ''}"`,
-      `  heroAlt: "${q(a.hero)}"`,
+      `  card: "${keep('card', card)}"`,
+      `  cardLine: "${q(a.cardLine) || prev.cardLine || ''}"`,
+      `  cardAlt: "${q(a.card) || prev.cardAlt || ''}"`,
+      `  og: "${keep('og', og)}"`,
+      `  preview: "${keep('preview', preview)}"`,
+      `  previewAlt: "${q(a.preview) || prev.previewAlt || ''}"`,
+      `  plate: "${keep('plate', plate)}"`,
+      `  plateLines: "${q(a.plateLines) || prev.plateLines || ''}"`,
+      `  hero: "${keep('hero', hero)}"`,
+      `  heroAlt: "${q(a.hero) || prev.heroAlt || ''}"`,
     ].join('\n');
     const re = /^images:\n(?:[ \t]+.*\n?)*/m;
     if (re.test(txt)) txt = txt.replace(re, block + '\n'); else txt = txt.replace(/^---\n/, `---\n${block}\n`);

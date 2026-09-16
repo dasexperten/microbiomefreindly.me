@@ -91,10 +91,15 @@ entity:
   wikidata: "Q3214147"
   ncbiTaxId: "837"
 images:
+  card: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-card-ru.webp"
+  cardLine: "Нашли — значит, болезнь?"
+  cardAlt: "Нашли — значит, болезнь? — женщина ночью сидит на краю кровати со стаканом воды в руках"
+  og: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-og-ru.jpg"
   preview: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-preview.webp"
-  hero: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-hero.webp"
-  og: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-og.jpg"
   previewAlt: "Иллюстрация: пухлые тёмные палочковидные бактерии лежат во влажной плёнке в узкой щели, по ним бежит рябь света, золотые искры гема"
+  plate: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-plate-ru.webp"
+  plateLines: "Сначала — тихо живёт среди соседей · Затем — баланс сдвинут, ферменты режут · Итог — карман сочится и кормит её"
+  hero: "/assets/img/mbf/bacteria/porphyromonas-gingivalis/porphyromonas-gingivalis-hero.webp"
   heroAlt: "Иллюстрация: пухлые тёмные палочки спокойно живут в смешанной биоплёнке кармана; когда сообщество сдвигается, они выделяют ферменты, режущие защитные белки, а просачивающаяся жидкость их кормит"
 referral:
   product: ""

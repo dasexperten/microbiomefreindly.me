@@ -87,10 +87,15 @@ sources:
     doi: "10.1073/pnas.1620673114"
     pmid: "28179566"
 images:
+  card: "/assets/img/mbf/routine/sleep-and-your-gut/sleep-and-your-gut-card-en.webp"
+  cardLine: "Does bad sleep hurt my gut?"
+  cardAlt: "Does bad sleep hurt my gut? — a woman on the edge of her bed at three in the morning by a low lamp"
+  og: "/assets/img/mbf/routine/sleep-and-your-gut/sleep-and-your-gut-og-en.jpg"
   preview: "/assets/img/mbf/routine/sleep-and-your-gut/sleep-and-your-gut-preview.webp"
-  hero: "/assets/img/mbf/routine/sleep-and-your-gut/sleep-and-your-gut-hero.webp"
-  og: "/assets/img/mbf/routine/sleep-and-your-gut/sleep-and-your-gut-og.jpg"
   previewAlt: "Illustration: four kinds of gut bacteria side by side in a glistening mucus film under deep blue night light"
+  plate: "/assets/img/mbf/routine/sleep-and-your-gut/sleep-and-your-gut-plate-en.webp"
+  plateLines: "First — a steady rhythm, many kinds · Then — the rhythm goes ragged · So — just as full, fewer kinds"
+  hero: "/assets/img/mbf/routine/sleep-and-your-gut/sleep-and-your-gut-hero.webp"
   heroAlt: "Illustration: gut bacteria along the lining in an even wave that turns ragged, the crowd staying just as full but made of fewer different kinds of cell"
 referral:
   product: ""

@@ -8,7 +8,11 @@ for f in "$DIR"/*/*/*-card.png; do
   [ -s "$f" ] || continue
   slug=$(basename "$(dirname "$f")"); type=$(basename "$(dirname "$(dirname "$f")")")
   out="content/$type/$slug/overlay.json"
-  if python3 tools/plates/measure.py "$f" --lines 2 --json "$out" >/tmp/m.json 2>/tmp/m.err; then
+  # the side is Marika's word in the brief, not the script's guess
+  side=auto
+  grep -iq 'EMPTY FIELD[^\n]*left' "content/$type/$slug/image-brief.md" 2>/dev/null && side=left
+  grep -iq 'EMPTY FIELD[^\n]*right' "content/$type/$slug/image-brief.md" 2>/dev/null && side=right
+  if python3 tools/plates/measure.py "$f" --side "$side" --lines 2 --json "$out" >/tmp/m.json 2>/tmp/m.err; then
     echo "ok $slug $(node -e 'const j=require("/tmp/m.json");console.log("box",j.box.join(","),"contrast",j.contrast,"texture",j.gradient)' 2>/dev/null)"
     pass=$((pass+1))
   else

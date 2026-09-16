@@ -107,10 +107,15 @@ entity:
   wikidata: "Q25419"
   ncbiTaxId: "562"
 images:
+  card: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-card-ru.webp"
+  cardLine: "Кишечная палочка всегда опасна?"
+  cardAlt: "Кишечная палочка всегда опасна? — женщина за тридцать замерла с вилкой над миской салата в столовой"
+  og: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-og-ru.jpg"
   preview: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-preview.webp"
-  hero: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-hero.webp"
-  og: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-og.jpg"
   previewAlt: "Иллюстрация: клетки E. coli в форме палочек с бахромой тонких жгутиков у пузырька газа во влажном содержимом кишечника, один жгутик подсвечен золотом"
+  plate: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-plate-ru.webp"
+  plateLines: "Сначала — от стенки идёт кислород · Затем — палочки его забирают · Итог — их носят больше 90 % людей"
+  hero: "/assets/img/mbf/bacteria/escherichia-coli/escherichia-coli-hero.webp"
   heroAlt: "Иллюстрация: следы кислорода поднимаются от слизистой кишечника, палочки E. coli со жгутиками рядом с ней поглощают их, а дальше безвоздушное пространство заполняют строгие анаэробы"
 referral:
   product: ""

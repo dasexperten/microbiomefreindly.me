@@ -55,10 +55,15 @@ sources:
     doi: "10.1172/JCI20295"
     pmid: "15124021"
 images:
+  card: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-card-en.webp"
+  cardLine: "Is long covid from the gut?"
+  cardAlt: "Is long covid from the gut? — a woman stops halfway through the laundry and sits on the edge of the bed"
+  og: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-og-en.jpg"
   preview: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-preview.webp"
-  hero: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-hero.webp"
-  og: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-og.jpg"
   previewAlt: "Illustration: slender gut bacteria with long corkscrew tails in drifting mucus, one shed tail adrift in a patch of gold light"
+  plate: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-plate-en.webp"
+  plateLines: "First — a bacterial tail breaks off · Then — immune cells read it as alarm · So — tissue far from the gut inflames"
+  hero: "/assets/img/mbf/articles/gut-flagellin-systemic-inflammation-long-covid/gut-flagellin-systemic-inflammation-long-covid-hero.webp"
   heroAlt: "Illustration: a shed bacterial tail fragment leaves the gut, a neutrophil casts a web and signals a macrophage, and far-off tissue thickens with fibres"
 referral:
   product: ""

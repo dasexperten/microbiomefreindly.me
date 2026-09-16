@@ -112,10 +112,15 @@ entity:
   wikidata: "Q25519942"
   ncbiTaxId: "1239"
 images:
+  card: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-card-en.webp"
+  cardLine: "Do gut bacteria make you fat?"
+  cardAlt: "Do gut bacteria make you fat? — a woman in her fifties stands beside the bathroom scale at dusk, unimpressed"
+  og: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-og-en.jpg"
   preview: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-preview.webp"
-  hero: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-hero.webp"
-  og: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-og.jpg"
   previewAlt: "Illustration: thick-walled rod bacteria, two holding oval spores, resting on a starch granule pitted coral where they feed"
+  plate: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-plate-en.webp"
+  plateLines: "First — starch reaches the colon whole · Then — rods ferment it to butyrate · So — the lining eats; spores in 50–60 %"
+  hero: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-hero.webp"
   heroAlt: "Illustration: thick-walled rods break down a resistant starch granule into gold butyrate droplets that the colon lining takes in; six of the ten rods carry a spore"
 referral:
   product: ""

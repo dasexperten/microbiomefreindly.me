@@ -77,10 +77,15 @@ sources:
     doi: "10.1080/29933935.2026.2668863"
     pmid: "42145944"
 images:
+  card: "/assets/img/mbf/myth/more-cfu-means-a-better-probiotic/more-cfu-means-a-better-probiotic-card-ru.webp"
+  cardLine: "Большое число — это лучше?"
+  cardAlt: "Большое число — это лучше? — женщина с пустыми руками в овощном ряду перед полуднем"
+  og: "/assets/img/mbf/myth/more-cfu-means-a-better-probiotic/more-cfu-means-a-better-probiotic-og-ru.jpg"
   preview: "/assets/img/mbf/myth/more-cfu-means-a-better-probiotic/more-cfu-means-a-better-probiotic-preview.webp"
-  hero: "/assets/img/mbf/myth/more-cfu-means-a-better-probiotic/more-cfu-means-a-better-probiotic-hero.webp"
-  og: "/assets/img/mbf/myth/more-cfu-means-a-better-probiotic/more-cfu-means-a-better-probiotic-og.jpg"
   previewAlt: "Иллюстрация: маленькая группа палочковидных бактерий рядом с толпой таких же палочек, в сто раз большей, на гладкой слизи"
+  plate: "/assets/img/mbf/myth/more-cfu-means-a-better-probiotic/more-cfu-means-a-better-probiotic-plate-ru.webp"
+  plateLines: "Сначала — двойная доза раз помогла · Затем — тот же штамм, доза больше · Итог — в 100 раз больше — то же самое"
+  hero: "/assets/img/mbf/myth/more-cfu-means-a-better-probiotic/more-cfu-means-a-better-probiotic-hero.webp"
   heroAlt: "Иллюстрация: палочки пробиотика на кишечной слизи; удвоенная группа оставляет слизистую спокойнее, а толпа в сто раз больше не меняет под собой ничего"
 referral:
   product: ""

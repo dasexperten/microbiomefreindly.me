@@ -13,10 +13,15 @@ voice: greger
 answer: "The gut microbiome is the community of bacteria, archaea, fungi and viruses living mostly in the large intestine. It digests fibre we cannot, makes short-chain fatty acids and vitamins, trains the immune system and keeps the gut lining fed. It is shaped by diet, birth, antibiotics and age — and it changes within days."
 sources: []
 images:
+  card: "/assets/img/mbf/hubs/gut/gut-card-en.webp"
+  cardLine: "Is my gut microbiome healthy?"
+  cardAlt: "Is my gut microbiome healthy? — a woman comes up her front steps at evening with a bag of vegetables"
+  og: "/assets/img/mbf/hubs/gut/gut-og-en.jpg"
   preview: "/assets/img/mbf/hubs/gut/gut-preview.webp"
-  hero: "/assets/img/mbf/hubs/gut/gut-hero.webp"
-  og: "/assets/img/mbf/hubs/gut/gut-og.jpg"
   previewAlt: "Illustration: a mixed crowd of rod-shaped and round gut bacteria feeding on a fragment of plant fibre, its frayed edge gold"
+  plate: "/assets/img/mbf/hubs/gut/gut-plate-en.webp"
+  plateLines: "First — fibre we cannot digest arrives · Then — the crowd ferments it · So — the acids feed the gut wall"
+  hero: "/assets/img/mbf/hubs/gut/gut-hero.webp"
   heroAlt: "Illustration: plant fibre reaches the colon, bacteria ferment it, and coral short-chain fatty acid molecules pass into the cells of the gut lining"
 referral:
   product: ""

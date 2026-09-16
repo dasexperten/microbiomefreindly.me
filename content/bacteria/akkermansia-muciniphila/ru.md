@@ -93,10 +93,15 @@ entity:
   wikidata: "Q15020908"
   ncbiTaxId: "239935"
 images:
+  card: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-card-ru.webp"
+  cardLine: "Она полезная или вредная?"
+  cardAlt: "Она полезная или вредная? — женщина за сорок высыпает нарезанные овощи в сковороду на утренней кухне"
+  og: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-og-ru.jpg"
   preview: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-preview.webp"
-  hero: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-hero.webp"
-  og: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-og.jpg"
   previewAlt: "Иллюстрация: овальные клетки Akkermansia парами покоятся глубоко в прозрачном слизистом геле, под одной парой поднимается золотистая капля свежей слизи"
+  plate: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-plate-ru.webp"
+  plateLines: "Сначала — она садится в вашу слизь · Затем — выедает ямку · Итог — слой обновляется; 1 % клеток"
+  hero: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-hero.webp"
   heroAlt: "Иллюстрация: овальные клетки Akkermansia оседают в слое слизи кишечника и выедают неглубокую ямку, а слизистая снизу выталкивает свежую слизь, и слой становится толще"
 referral:
   product: ""

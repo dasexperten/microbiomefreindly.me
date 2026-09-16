@@ -115,10 +115,15 @@ entity:
   wikidata: "Q131452"
   ncbiTaxId: "1309"
 images:
+  card: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-card-en.webp"
+  cardLine: "Does everyone carry the cavity germ?"
+  cardAlt: "Does everyone carry the cavity germ? — a young woman takes a sweet from a paper bag at her desk"
+  og: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-og-en.jpg"
   preview: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-preview.webp"
-  hero: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-hero.webp"
-  og: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-og.jpg"
   previewAlt: "Illustration: chains of oval bacteria held in sticky strands on pale ridged enamel, one lime sugar crystal at the edge"
+  plate: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-plate-en.webp"
+  plateLines: "First — sugar lands on the plaque · Then — they spin glue and make acid · So — the enamel under it dissolves"
+  hero: "/assets/img/mbf/bacteria/streptococcus-mutans/streptococcus-mutans-hero.webp"
   heroAlt: "Illustration: sugar dissolves among chains of oval bacteria on enamel; they spin sticky strands that glue them down and give off acid, and under the acid haze the mineral surface loosens"
 referral:
   product: ""

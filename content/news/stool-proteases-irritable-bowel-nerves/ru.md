@@ -60,10 +60,15 @@ sources:
     doi: "10.1126/science.1110591"
     pmid: "15831718"
 images:
+  card: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-card-ru.webp"
+  cardLine: "Эта боль правда телесная?"
+  cardAlt: "Эта боль правда телесная? — женщина замерла в офисном коридоре, прижав руку к животу"
+  og: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-og-ru.jpg"
   preview: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-preview.webp"
-  hero: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-hero.webp"
-  og: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-og.jpg"
   previewAlt: "Иллюстрация: кружево нервных узлов просвечивает сквозь тонкую ткань кишки, сверху оседает прозрачная янтарная плёнка, несколько узлов светятся коралловым"
+  plate: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-plate-ru.webp"
+  plateLines: "Сначала — жидкость стула касается стенки · Затем — фермент срезает рецептор нерва · Итог — нервная сеть возбуждается сильнее"
+  hero: "/assets/img/mbf/articles/stool-proteases-irritable-bowel-nerves/stool-proteases-irritable-bowel-nerves-hero.webp"
   heroAlt: "Иллюстрация: тонкая янтарная плёнка жидкости оседает на слизистой кишки; фермент отрезает рецептор на нервной клетке, она загорается и будит соседние узлы нервной сети"
 referral:
   product: ""

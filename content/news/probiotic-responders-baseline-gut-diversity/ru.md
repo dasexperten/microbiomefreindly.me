@@ -48,10 +48,15 @@ sources:
     doi: "10.1016/j.cell.2018.08.041"
     pmid: "30193112"
 images:
+  card: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-card-ru.webp"
+  cardLine: "Кому это вообще помогает?"
+  cardAlt: "Кому это вообще помогает? — женщина ждёт стирку на скамейке в прачечной поздним утром"
+  og: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-og-ru.jpg"
   preview: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-preview.webp"
-  hero: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-hero.webp"
-  og: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-og.jpg"
   previewAlt: "Иллюстрация: несколько неподвижных убитых нагреванием палочек лежат в свободных промежутках редкого кишечного сообщества среди обрывков клетчатки"
+  plate: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-plate-ru.webp"
+  plateLines: "Сначала — те же клетки, две кишки · Затем — в плотной кишке нет места · Итог — сдвинулась только бедная"
+  hero: "/assets/img/mbf/articles/probiotic-responders-baseline-gut-diversity/probiotic-responders-baseline-gut-diversity-hero.webp"
   heroAlt: "Иллюстрация: те же мёртвые палочки лежат без дела на плотном кишечном сообществе, но оседают в свободных промежутках редкого, где появляются новые жители и мелкие капли"
 referral:
   product: ""

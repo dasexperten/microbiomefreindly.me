@@ -72,10 +72,15 @@ sources:
     doi: "10.1016/j.chom.2019.10.011"
     pmid: "31726029"
 images:
+  card: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-card-ru.webp"
+  cardLine: "Кишечник восстановится после антибиотиков?"
+  cardAlt: "Кишечник восстановится после антибиотиков? — женщина за кухонным столом поздним вечером, курс закончен"
+  og: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-og-ru.jpg"
   preview: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-preview.webp"
-  hero: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-hero.webp"
-  og: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-og.jpg"
   previewAlt: "Иллюстрация: вилочковые клетки Bifidobacterium снова растут в рыхлой кишечной слизи рядом с пустой ямкой, где раньше стояли клетки"
+  plate: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-plate-ru.webp"
+  plateLines: "Сначала — антибиотики выметают всё · Затем — за полтора месяца возвращается · Итог — 9 видов так и нет"
+  hero: "/assets/img/mbf/ask/can-i-rebuild-my-gut-after-antibiotics/can-i-rebuild-my-gut-after-antibiotics-hero.webp"
   heroAlt: "Иллюстрация: сообщество кишечных бактерий в три этапа — густое, почти выметенное антибиотиками, затем снова густое, но с девятью пустыми местами"
 referral:
   product: ""

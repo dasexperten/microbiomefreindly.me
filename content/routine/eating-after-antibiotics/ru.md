@@ -77,10 +77,15 @@ sources:
     doi: "10.1016/j.chom.2019.10.011"
     pmid: "31726029"
 images:
+  card: "/assets/img/mbf/routine/eating-after-antibiotics/eating-after-antibiotics-card-ru.webp"
+  cardLine: "Что теперь есть?"
+  cardAlt: "Что теперь есть? — женщина у овощного лотка на рынке утром, в руках бумажный пакет"
+  og: "/assets/img/mbf/routine/eating-after-antibiotics/eating-after-antibiotics-og-ru.jpg"
   preview: "/assets/img/mbf/routine/eating-after-antibiotics/eating-after-antibiotics-preview.webp"
-  hero: "/assets/img/mbf/routine/eating-after-antibiotics/eating-after-antibiotics-hero.webp"
-  og: "/assets/img/mbf/routine/eating-after-antibiotics/eating-after-antibiotics-og.jpg"
   previewAlt: "Иллюстрация: палочки и вильчатые бактерии кишечника снова оседают на разорванных стенках растительных клеток в мягком утреннем свете"
+  plate: "/assets/img/mbf/routine/eating-after-antibiotics/eating-after-antibiotics-plate-ru.webp"
+  plateLines: "Сначала — после курса поле пустое · Затем — клетчатка и квашеное кормят · Итог — 9 видов нет и на 180-й день"
+  hero: "/assets/img/mbf/routine/eating-after-antibiotics/eating-after-antibiotics-hero.webp"
   heroAlt: "Иллюстрация: растительная клетчатка над слизистой кишечника — почти пустая после антибиотиков, затем бактерии заселяют её волокна, и в конце поле снова плотное, но девять мест остаются пустыми"
 referral:
   product: ""

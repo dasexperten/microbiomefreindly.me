@@ -72,10 +72,15 @@ sources:
     doi: "10.1038/nature12506"
     pmid: "23985870"
 images:
+  card: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-card-en.webp"
+  cardLine: "It helped her. Why not me?"
+  cardAlt: "It helped her. Why not me? — a woman at a café table in the afternoon, a second cup opposite her"
+  og: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-og-en.jpg"
   preview: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-preview.webp"
-  hero: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-hero.webp"
-  og: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-og.jpg"
   previewAlt: "Illustration: two identical groups of rod-shaped bacteria on rippled gut mucus; the mucus shifts under one and not the other"
+  plate: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-plate-en.webp"
+  plateLines: "First — six strains look identical · Then — same gut, same conditions · So — 4 of 6 did anything"
+  hero: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-hero.webp"
   heroAlt: "Illustration: six identical clusters of rod-shaped bacteria settle on the same gut mucus; under four the mucus visibly changes, under two it stays untouched"
 referral:
   product: ""

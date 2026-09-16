@@ -82,10 +82,15 @@ sources:
     doi: "10.1016/j.micres.2013.01.004"
     pmid: "23414698"
 images:
+  card: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-card-en.webp"
+  cardLine: "With food or empty stomach?"
+  cardAlt: "With food or empty stomach? — a woman over her lunch at a canteen table in the middle of the day"
+  og: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-og-en.jpg"
   preview: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-preview.webp"
-  hero: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-hero.webp"
-  og: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-og.jpg"
   previewAlt: "Illustration: a rod carrying an armoured spore and three free spores lie whole in acid, while delicate rods around them collapse"
+  plate: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-plate-en.webp"
+  plateLines: "First — the crowd meets the acid · Then — spores pass, delicate cells fall · So — 18.5 % arrive, few settle"
+  hero: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-hero.webp"
   heroAlt: "Illustration: swallowed bacteria cross stomach acid; most free rods collapse, spores and a shelled cluster pass whole, and at the gut lining two survivors settle in mucus while others drift past"
 referral:
   product: ""

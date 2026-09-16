@@ -112,10 +112,15 @@ entity:
   wikidata: "Q25519942"
   ncbiTaxId: "1239"
 images:
+  card: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-card-ru.webp"
+  cardLine: "От бактерий полнеют?"
+  cardAlt: "От бактерий полнеют? — женщина за пятьдесят стоит у напольных весов в ванной в сумерках"
+  og: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-og-ru.jpg"
   preview: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-preview.webp"
-  hero: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-hero.webp"
-  og: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-og.jpg"
   previewAlt: "Иллюстрация: толстостенные палочковидные бактерии, у двух овальные споры, лежат на грануле крахмала, изъеденной до кораллового цвета там, где они питаются"
+  plate: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-plate-ru.webp"
+  plateLines: "Сначала — крахмал доходит целым · Затем — палочки делают из него бутират · Итог — стенка сыта; 50–60 % со спорами"
+  hero: "/assets/img/mbf/bacteria/bacillota-firmicutes/bacillota-firmicutes-hero.webp"
   heroAlt: "Иллюстрация: толстостенные палочки разбирают гранулу резистентного крахмала на золотистые капли бутирата, которые впитывает слизистая толстой кишки; у шести из десяти палочек есть спора"
 referral:
   product: ""

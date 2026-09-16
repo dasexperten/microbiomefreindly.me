@@ -101,10 +101,15 @@ entity:
   wikidata: "Q25228461"
   ncbiTaxId: "74201"
 images:
+  card: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-card-ru.webp"
+  cardLine: "Едок слизи — это хорошо?"
+  cardAlt: "Едок слизи — это хорошо? — женщина выбирает зелень в крытом рынке субботним утром"
+  og: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-og-ru.jpg"
   preview: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-preview.webp"
-  hero: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-hero.webp"
-  og: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-og.jpg"
   previewAlt: "Иллюстрация: овальные бактерии лежат среди вытянутых нитей слизи над слизистой кишечника, одна нить разлохмачена там, где кормится клетка"
+  plate: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-plate-ru.webp"
+  plateLines: "Сначала — объедает слизь кишечника · Затем — стенка кормится и даёт новую · Итог — без клетчатки слой истончается"
+  hero: "/assets/img/mbf/bacteria/verrucomicrobiota/verrucomicrobiota-hero.webp"
   heroAlt: "Иллюстрация: овальные бактерии объедают слой слизи над слизистой толстой кишки, она забирает золотое топливо и выделяет свежую слизь; правее скученные бактерии истончают слой до тонкой вуали"
 referral:
   product: ""

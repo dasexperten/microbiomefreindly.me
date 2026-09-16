@@ -95,10 +95,15 @@ entity:
   wikidata: "Q1061596"
   ncbiTaxId: "1578"
 images:
+  card: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-card-en.webp"
+  cardLine: "Does yogurt live in your gut?"
+  cardAlt: "Does yogurt live in your gut? — a woman eats plain yogurt at her kitchen counter in the first light"
+  og: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-og-en.jpg"
   preview: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-preview.webp"
-  hero: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-hero.webp"
-  og: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-og.jpg"
   previewAlt: "Illustration: short chains of rod-shaped Lactobacillus cells resting in a souring milk film, a faint gold haze around one chain"
+  plate: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-plate-en.webp"
+  plateLines: "First — rods eat sugar in a still pocket · Then — their acid sours the space · So — in the gut about 0.01 %"
+  hero: "/assets/img/mbf/bacteria/lactobacillus/lactobacillus-hero.webp"
   heroAlt: "Illustration: Lactobacillus rods crowd a sour, gold-tinged pocket on the left, while on the gut lining at right one small chain sits among countless other bacteria"
 referral:
   product: ""

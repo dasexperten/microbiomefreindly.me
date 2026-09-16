@@ -77,10 +77,15 @@ sources:
     doi: "10.1016/j.cell.2016.10.043"
     pmid: "27863247"
 images:
+  card: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-card-en.webp"
+  cardLine: "How much fibre is enough?"
+  cardAlt: "How much fibre is enough? — a woman at her dining table early in the morning, a bowl of porridge in front of her"
+  og: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-og-en.jpg"
   preview: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-preview.webp"
-  hero: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-hero.webp"
-  og: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-og.jpg"
   previewAlt: "Illustration: forked gut bacteria taking apart soft branched fibre chains while a smooth gel ribbon slides past"
+  plate: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-plate-en.webp"
+  plateLines: "First — three kinds of fibre arrive · Then — only one of them is eaten · So — 25–29 g a day, then it levels"
+  hero: "/assets/img/mbf/routine/how-much-fibre-and-which-kind/how-much-fibre-and-which-kind-hero.webp"
   heroAlt: "Illustration: three fibres reach the gut lining; bacteria eat only the branched chains, a gel ribbon and a bran flake pass whole, and larger helpings stop yielding more"
 referral:
   product: ""

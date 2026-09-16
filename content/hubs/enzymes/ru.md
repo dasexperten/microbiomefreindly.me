@@ -13,10 +13,15 @@ voice: komarovsky
 answer: "Фермент — это белок, который режет одну определённую связь. Декстраназа режет сахарный клей зубного налёта; папаин и бромелайн — белки; лизоцим — стенку бактерии; глюкозооксидаза превращает глюкозу в мягкий антисептик. Ни один не убивает всех подряд. Они убирают структуру — поэтому их изучают против биоплёнок, а не как антибиотики."
 sources: []
 images:
+  card: "/assets/img/mbf/hubs/enzymes/enzymes-card-ru.webp"
+  cardLine: "Ферменты убивают бактерии?"
+  cardAlt: "Ферменты убивают бактерии? — женщина режет ананас и папайю за обеденным столом в утреннем солнце"
+  og: "/assets/img/mbf/hubs/enzymes/enzymes-og-ru.jpg"
   preview: "/assets/img/mbf/hubs/enzymes/enzymes-preview.webp"
-  hero: "/assets/img/mbf/hubs/enzymes/enzymes-hero.webp"
-  og: "/assets/img/mbf/hubs/enzymes/enzymes-og.jpg"
   previewAlt: "Иллюстрация: свёрнутая белковая молекула фермента держит сахарную цепочку в бороздке и разрезает одно звено, отмеченное коралловым"
+  plate: "/assets/img/mbf/hubs/enzymes/enzymes-plate-ru.webp"
+  plateLines: "Сначала — сахарная сетка держит налёт · Затем — фермент режет одно звено · Итог — каркас рассыпается, клетки целы"
+  hero: "/assets/img/mbf/hubs/enzymes/enzymes-hero.webp"
   heroAlt: "Иллюстрация: цепочки круглых бактерий в сетке из сахарных цепей; ферменты разрезают цепи в лаймовых точках, и освобождённые бактерии уплывают целыми"
 referral:
   product: ""

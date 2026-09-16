@@ -60,10 +60,15 @@ sources:
     doi: "10.1073/pnas.1000087107"
     pmid: "20847294"
 images:
+  card: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-card-en.webp"
+  cardLine: "Can three days reset it?"
+  cardAlt: "Can three days reset it? — a woman at her sitting-room window in late light, arms folded"
+  og: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-og-en.jpg"
   preview: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-preview.webp"
-  hero: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-hero.webp"
-  og: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-og.jpg"
   previewAlt: "Illustration: plump rod-shaped gut bacteria and pairs of small round cells settled on a fragment of plant fibre"
+  plate: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-plate-en.webp"
+  plateLines: "First — food shifts the mix in a day · Then — two days later it slides back · So — 60 % of strains stay for years"
+  hero: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-hero.webp"
   heroAlt: "Illustration: two rows of ten gut bacteria groups in the mucus as food drifts in; in the later row six groups are unchanged and four are replaced by newcomers"
 referral:
   product: ""

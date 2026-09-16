@@ -93,10 +93,15 @@ entity:
   wikidata: "Q15020908"
   ncbiTaxId: "239935"
 images:
+  card: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-card-en.webp"
+  cardLine: "Is eating mucus good news?"
+  cardAlt: "Is eating mucus good news? — a woman in her forties tips chopped vegetables into a pan in her morning kitchen"
+  og: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-og-en.jpg"
   preview: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-preview.webp"
-  hero: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-hero.webp"
-  og: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-og.jpg"
   previewAlt: "Illustration: oval Akkermansia cells resting in pairs in a clear mucus gel, a gold bead of fresh mucus rising under one pair"
+  plate: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-plate-en.webp"
+  plateLines: "First — it settles in your mucus · Then — it grazes a hollow · So — the lining renews it; 1 % of cells"
+  hero: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-hero.webp"
   heroAlt: "Illustration: oval Akkermansia cells settle into the gut's mucus layer and graze a shallow hollow, and the lining below pushes up fresh mucus that thickens the layer"
 referral:
   product: ""

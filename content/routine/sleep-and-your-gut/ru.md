@@ -87,10 +87,15 @@ sources:
     doi: "10.1073/pnas.1620673114"
     pmid: "28179566"
 images:
+  card: "/assets/img/mbf/routine/sleep-and-your-gut/sleep-and-your-gut-card-ru.webp"
+  cardLine: "Плохой сон вредит кишечнику?"
+  cardAlt: "Плохой сон вредит кишечнику? — женщина на краю кровати в три часа ночи при тусклой лампе"
+  og: "/assets/img/mbf/routine/sleep-and-your-gut/sleep-and-your-gut-og-ru.jpg"
   preview: "/assets/img/mbf/routine/sleep-and-your-gut/sleep-and-your-gut-preview.webp"
-  hero: "/assets/img/mbf/routine/sleep-and-your-gut/sleep-and-your-gut-hero.webp"
-  og: "/assets/img/mbf/routine/sleep-and-your-gut/sleep-and-your-gut-og.jpg"
   previewAlt: "Иллюстрация: четыре вида кишечных бактерий рядом в блестящей плёнке слизи под глубоким синим ночным светом"
+  plate: "/assets/img/mbf/routine/sleep-and-your-gut/sleep-and-your-gut-plate-ru.webp"
+  plateLines: "Сначала — ровный ритм, много видов · Затем — ритм становится рваным · Итог — так же густо, видов меньше"
+  hero: "/assets/img/mbf/routine/sleep-and-your-gut/sleep-and-your-gut-hero.webp"
   heroAlt: "Иллюстрация: бактерии вдоль слизистой кишечника выстроены ровной волной, которая становится рваной; клеток столько же, но видов меньше"
 referral:
   product: ""
