@@ -69,7 +69,7 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en card question: "Is every bifidobacterium good?"
 - ru card question: "Все бифидобактерии полезные?"
 - en plate lines: "First — milk sugars pass the baby by · Then — these rods eat what she cannot · So — over 90 % of her gut is theirs"
-- ru plate lines: "Сначала — сахара молока ей не по зубам · Затем — их съедают эти палочки · Итог — больше 90 % кишечника — они"
+- ru plate lines: "Сначала — сахара молока ей не по зубам · Затем — их съедают эти палочки · Итог — в юном кишечнике их больше 90 %"
 
 ---
 

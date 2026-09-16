@@ -70,7 +70,7 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en card question: "What actually causes bad breath?"
 - ru card question: "Отчего на самом деле пахнет?"
 - en plate lines: "First — mouth microbes eat protein · Then — an enzyme cuts the sulfur free · So — that gene fell 98 %, in a dish"
-- ru plate lines: "Сначала — микробы рта едят белок · Затем — фермент отрывает серу · Итог — ген притих на 98 %, в чашке"
+- ru plate lines: "Сначала — микробы рта едят белок · Затем — фермент отрывает серу · Итог — ген притих на 98 %, в пробирке"
 
 ---
 

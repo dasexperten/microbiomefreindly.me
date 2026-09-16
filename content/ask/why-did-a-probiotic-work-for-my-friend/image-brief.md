@@ -67,7 +67,7 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en card question: "It helped her. Why not me?"
 - ru card question: "Пробиотик другу помог. А мне?"
 - en plate lines: "First — six strains look identical · Then — same gut, same conditions · So — 4 of 6 did anything"
-- ru plate lines: "Сначала — шесть штаммов на вид одинаковы · Затем — кишечник один и тот же · Итог — помогли 4 из 6"
+- ru plate lines: "Сначала — 6 штаммов на вид одинаковы · Затем — кишечник один и тот же · Итог — помогли 4 из 6"
 
 ## 8. What must never appear
 

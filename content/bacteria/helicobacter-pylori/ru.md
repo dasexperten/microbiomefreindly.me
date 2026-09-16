@@ -115,7 +115,7 @@ images:
   preview: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-preview.webp"
   previewAlt: "Иллюстрация: спиральные бактерии с пучком жгутиков на одном конце лежат в слизи над слизистой желудка, одна в прозрачном кармане"
   plate: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-plate-ru.webp"
-  plateLines: "Сначала — облако нейтрали в кислоте · Затем — ввинчивается в слизь · Итог — держится на стенке всю жизнь"
+  plateLines: "Сначала — гасит кислоту вокруг себя · Затем — ввинчивается в слизь · Итог — держится на стенке всю жизнь"
   hero: "/assets/img/mbf/bacteria/helicobacter-pylori/helicobacter-pylori-hero.webp"
   heroAlt: "Иллюстрация: спиральная бактерия окружает себя маленьким нейтральным облаком в желудочной кислоте, ввинчивается в слизь и закрепляется на слизистой рядом с уже осевшими"
 referral:

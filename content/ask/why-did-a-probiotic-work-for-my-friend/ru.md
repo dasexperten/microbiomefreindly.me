@@ -79,7 +79,7 @@ images:
   preview: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-preview.webp"
   previewAlt: "Иллюстрация: две одинаковые группы палочковидных бактерий на волнистой кишечной слизи; под одной слизь меняется, под другой нет"
   plate: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-plate-ru.webp"
-  plateLines: "Сначала — шесть штаммов на вид одинаковы · Затем — кишечник один и тот же · Итог — помогли 4 из 6"
+  plateLines: "Сначала — 6 штаммов на вид одинаковы · Затем — кишечник один и тот же · Итог — помогли 4 из 6"
   hero: "/assets/img/mbf/ask/why-did-a-probiotic-work-for-my-friend/why-did-a-probiotic-work-for-my-friend-hero.webp"
   heroAlt: "Иллюстрация: шесть одинаковых скоплений палочковидных бактерий оседают на одну и ту же кишечную слизь; под четырьмя она заметно меняется, под двумя остаётся нетронутой"
 referral:

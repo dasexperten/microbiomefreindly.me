@@ -122,7 +122,7 @@ images:
   preview: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-preview.webp"
   previewAlt: "Иллюстрация: вилообразные Y-образные клетки бифидобактерий в неподвижном кармане прозрачного содержимого кишечника, коралловая капля у развилки одной клетки"
   plate: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-plate-ru.webp"
-  plateLines: "Сначала — сахара молока ей не по зубам · Затем — их съедают эти палочки · Итог — больше 90 % кишечника — они"
+  plateLines: "Сначала — сахара молока ей не по зубам · Затем — их съедают эти палочки · Итог — в юном кишечнике их больше 90 %"
   hero: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-hero.webp"
   heroAlt: "Иллюстрация: молочные сахара нетронутыми проходят мимо слизистой кишечника младенца, вилообразные палочки бифидобактерий сбраживают их в лаймовые капли ацетата, и справа девятнадцать клеток из двадцати — их"
 referral:

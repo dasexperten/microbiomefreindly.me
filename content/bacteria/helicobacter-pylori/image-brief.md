@@ -35,7 +35,7 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en card question: "Is something this common a pathogen?"
 - ru card question: "Носит половина мира — и опасна?"
 - en plate lines: "First — it makes a neutral cloud in acid · Then — it drills down into the mucus · So — it fastens to the lining for life"
-- ru plate lines: "Сначала — облако нейтрали в кислоте · Затем — ввинчивается в слизь · Итог — держится на стенке всю жизнь"
+- ru plate lines: "Сначала — гасит кислоту вокруг себя · Затем — ввинчивается в слизь · Итог — держится на стенке всю жизнь"
 ```
 
 ---

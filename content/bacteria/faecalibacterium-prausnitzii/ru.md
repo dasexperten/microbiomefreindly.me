@@ -95,7 +95,7 @@ images:
   preview: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-preview.webp"
   previewAlt: "Иллюстрация: тонкие палочковидные бактерии лежат в плотной слизи над слизистой толстой кишки, от них вниз опускаются крошечные коралловые капли"
   plate: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-plate-ru.webp"
-  plateLines: "Сначала — прячется там, где нет воздуха · Затем — ест то, что бросили соседи · Итог — стенка сыта; больше 5 % всех"
+  plateLines: "Сначала — прячется там, где нет воздуха · Затем — ест то, что бросили соседи · Итог — стенка сыта; больше 5 % бактерий"
   hero: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-hero.webp"
   heroAlt: "Иллюстрация: среди двадцати кишечных бактерий в бескислородной слизи одна тонкая палочка забирает остатки соседей и выделяет золотые капли бутирата, которые уходят в клетки слизистой толстой кишки"
 referral:

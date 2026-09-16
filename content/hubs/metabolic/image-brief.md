@@ -46,14 +46,14 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 
 - en preview alt: "Illustration: a flask-shaped hormone cell in the gut lining holds glowing gold GLP-1 granules as fatty acid molecules settle on its tip"
 - en hero alt: "Illustration: bacteria ferment fibre into fatty acid molecules that dock on a hormone cell in the gut lining; it releases gold GLP-1 granules into a small blood vessel"
-- ru preview alt: "Иллюстрация: колбовидная гормональная клетка слизистой кишечника с золотыми гранулами GLP-1, на её верхушку садятся молекулы жирных кислот"
-- ru hero alt: "Иллюстрация: бактерии сбраживают клетчатку в молекулы жирных кислот, те садятся на гормональную клетку слизистой, и она выпускает золотые гранулы GLP-1 в мелкий сосуд"
+- ru preview alt: "Иллюстрация: колбовидная гормональная клетка слизистой кишечника с золотыми гранулами ГПП-1, на её верхушку садятся молекулы жирных кислот"
+- ru hero alt: "Иллюстрация: бактерии сбраживают клетчатку в молекулы жирных кислот, те садятся на гормональную клетку слизистой, и она выпускает золотые гранулы ГПП-1 в мелкий сосуд"
 - en card alt: "What makes you feel full? — a man stops at the edge of the park at dusk to get his breath back"
 - ru card alt: "Отчего приходит сытость? — мужчина остановился на краю парка в сумерках, чтобы отдышаться"
 - en card question: "What makes you feel full?"
 - ru card question: "Отчего приходит сытость?"
 - en plate lines: "First — bacteria ferment fibre · Then — fatty acids reach a gut cell · So — it releases GLP-1 into the blood"
-- ru plate lines: "Сначала — бактерии сбраживают клетчатку · Затем — кислоты доходят до клетки кишки · Итог — она выпускает GLP-1 в кровь"
+- ru plate lines: "Сначала — бактерии сбраживают клетчатку · Затем — кислоты доходят до клетки кишки · Итог — она выпускает ГПП-1 в кровь"
 
 Only these four descriptive lines change per language; the pixels stay the same.
 

@@ -98,7 +98,7 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en card question: "What feeds your gut lining?"
 - ru card question: "Чем питается стенка кишечника?"
 - en plate lines: "First — it hides where no air reaches · Then — it eats what neighbours drop · So — the lining is fed; over 5 % of all"
-- ru plate lines: "Сначала — прячется там, где нет воздуха · Затем — ест то, что бросили соседи · Итог — стенка сыта; больше 5 % всех"
+- ru plate lines: "Сначала — прячется там, где нет воздуха · Затем — ест то, что бросили соседи · Итог — стенка сыта; больше 5 % бактерий"
 ```
 
 ## Notes for Lisa and Otto (plain words)
