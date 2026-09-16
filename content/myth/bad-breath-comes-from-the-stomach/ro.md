@@ -1,6 +1,6 @@
 ---
 title: "Halena vine din stomac? Doar un caz din o sută"
-meta: "O clinică a măsurat 491 de pacienți: gura a explicat 87 % din halenă, iar tubul digestiv doar 1 %. Unde se face de fapt mirosul de sulf."
+meta: "O clinică a măsurat 491 de pacienți: gura a explicat 87 % din halenă, iar tubul digestiv doar 1 %. Unde se face de fapt mirosul de sulf."
 kicker: "Verificăm mitul"
 type: myth
 topic: oral
@@ -15,15 +15,15 @@ seo:
   pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
 author: magnus-larsen
 voice: greger
-answer: "Parțial adevărat, și abia. Mirosul e dat de compuși volatili cu sulf, făcuți de bacterii anaerobe pe spatele limbii și sub gingii, deasupra esofagului, nu sub el. Într-o clinică cu 491 de pacienți, gura a explicat 87 % din cazuri, iar tubul digestiv 1 %. Halena gastrică există; e excepția."
+answer: "Parțial adevărat, și abia. Mirosul e dat de compuși volatili cu sulf, făcuți de bacterii anaerobe pe spatele limbii și sub gingii, deasupra esofagului, nu sub el. Într-o clinică cu 491 de pacienți, gura a explicat 87 % din cazuri, iar tubul digestiv 1 %. Halena gastrică există; e excepția."
 keyFacts:
-  - fact: "Într-o clinică belgiană multidisciplinară pentru mirosul respirației, care a examinat 491 de pacienți, cauzele din gură au dat 87 %, iar tubul digestiv 1 %."
+  - fact: "Într-o clinică belgiană multidisciplinară pentru mirosul respirației, care a examinat 491 de pacienți, cauzele din gură au dat 87 %, iar tubul digestiv 1 %."
     source: s1
-  - fact: "Numai depozitul de pe limbă a dat 51 % dintre cazurile orale din acea clinică — mai mult decât gingivita și parodontita la un loc."
+  - fact: "Numai depozitul de pe limbă a dat 51 % dintre cazurile orale din acea clinică — mai mult decât gingivita și parodontita la un loc."
     source: s1
-  - fact: "Hidrogenul sulfurat și metil-mercaptanul fac aproximativ 90 % din conținutul total de sulf al aerului din gură, iar cea mai mare parte a mirosului pleacă de pe spatele limbii."
+  - fact: "Hidrogenul sulfurat și metil-mercaptanul fac aproximativ 90 % din conținutul total de sulf al aerului din gură, iar cea mai mare parte a mirosului pleacă de pe spatele limbii."
     source: s2
-  - fact: "Cauzele din afara gurii de orice fel — nasul și căile aeriene superioare, căile aeriene inferioare și cauzele venite prin sânge — acoperă circa 5–10 % din cazurile de halenă."
+  - fact: "Cauzele din afara gurii de orice fel — nasul și căile aeriene superioare, căile aeriene inferioare și cauzele venite prin sânge — acoperă circa 5–10 % din cazurile de halenă."
     source: s3
   - fact: "O meta-analiză a 21 de studii a găsit halena de circa 2,85 ori mai probabilă la oamenii infectați cu Helicobacter pylori și mai rară după eradicarea reușită."
     source: s7
@@ -31,7 +31,7 @@ keyFacts:
     source: s8
 faq:
   - q: "Deci stomacul nu dă niciodată respirație urât mirositoare?"
-    a: "Poate, și o face rar. În seria de 491 de pacienți a clinicii, tubul digestiv a fost cauza identificată la 1 % dintre pacienți [s1]. Cauzele din afara gurii, de orice fel, ajung laolaltă la circa 5–10 % [s3] până la 10–20 % [s4], în funcție de serie și de cât de strict se măsoară. Dacă problema ta chiar este gastrică, ești într-o mică minoritate și de obicei vei avea și alte simptome digestive, nu doar miros urât."
+    a: "Poate, și o face rar. În seria de 491 de pacienți a clinicii, tubul digestiv a fost cauza identificată la 1 % dintre pacienți [s1]. Cauzele din afara gurii, de orice fel, ajung laolaltă la circa 5–10 % [s3] până la 10–20 % [s4], în funcție de serie și de cât de strict se măsoară. Dacă problema ta chiar este gastrică, ești într-o mică minoritate și de obicei vei avea și alte simptome digestive, nu doar miros urât."
   - q: "Atunci de ce îmi miroase respirația imediat după ce râgâi?"
     a: "Pentru că tocmai ai împins pe gură gaz din stomac. Este un miros real și un eveniment real, dar este trecător. Halena cronică este mirosul care stă în respirația ta în timp ce esofagul este închis și nu face nimic — iar acel miros se face în gură. Cele două se încurcă pentru că râgâitul este cel care se ține minte."
   - q: "Poate fi Helicobacter pylori motivul?"
@@ -108,7 +108,7 @@ images:
   preview: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-preview.webp"
   previewAlt: "Ilustrație: bastonașe scurte și dolofane, anaerobe, adânc într-un șanț gingival îngust, din care se ridică fire fine de gaz cu sulf"
   plate: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-plate-en.webp"
-  plateLines: "Întâi — depozitul taie accesul aerului · Apoi — bacteriile desprind sulful · Rezultat — gura 87 %, intestinul 1 %"
+  plateLines: "Întâi — depozitul taie accesul aerului · Apoi — bacteriile desprind sulful · Rezultat — gura 87 %, intestinul 1 %"
   hero: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-hero.webp"
   heroAlt: "Ilustrație: o mulțime de fire de gaz cu sulf se ridică din bacteriile aflate în depozitul de pe spatele limbii, în timp ce un singur fir subțire urcă din adâncul de dedesubt"
 referral:
@@ -129,19 +129,19 @@ Propoziția vine cu o încredere deplină, de obicei de la cineva care a cumpăr
 
 **Parțial adevărat — iar „parțial” este foarte mic.**
 
-Într-o clinică belgiană multidisciplinară pentru mirosul respirației, care a examinat 491 de pacienți împreună cu un medic ORL, un parodontolog și, la nevoie, un psihiatru, cauzele din gură au dat socoteală pentru 87 % dintre cazuri. Tubul digestiv a dat socoteală pentru 1 % [s1]. Adică un pacient din o sută, într-o clinică la care oamenii ajung tocmai pentru că tot ce este mai simplu a eșuat deja.
+Într-o clinică belgiană multidisciplinară pentru mirosul respirației, care a examinat 491 de pacienți împreună cu un medic ORL, un parodontolog și, la nevoie, un psihiatru, cauzele din gură au dat socoteală pentru 87 % dintre cazuri. Tubul digestiv a dat socoteală pentru 1 % [s1]. Adică un pacient din o sută, într-o clinică la care oamenii ajung tocmai pentru că tot ce este mai simplu a eșuat deja.
 
 ## Unde se face de fapt mirosul
 
-Respirația urât mirositoare este în cea mai mare parte o singură clasă de molecule: compușii volatili cu sulf. Tonzetich, în sinteza din 1977 care încă ancorează acest domeniu, a arătat că hidrogenul sulfurat și metil-mercaptanul dau aproximativ 90 % din conținutul total de sulf al aerului din gură și că mirosul vine din putrefierea proteinelor cu sulf de către microorganisme orale predominant gram-negative [s2]. Studiile cu periaj din aceeași lucrare au găsit că și placa, și limba sunt surse importante, cea mai mare parte a mirosului plecând de pe suprafața dorso-posterioară a limbii — adică din fundul ei [s2].
+Respirația urât mirositoare este în cea mai mare parte o singură clasă de molecule: compușii volatili cu sulf. Tonzetich, în sinteza din 1977 care încă ancorează acest domeniu, a arătat că hidrogenul sulfurat și metil-mercaptanul dau aproximativ 90 % din conținutul total de sulf al aerului din gură și că mirosul vine din putrefierea proteinelor cu sulf de către microorganisme orale predominant gram-negative [s2]. Studiile cu periaj din aceeași lucrare au găsit că și placa, și limba sunt surse importante, cea mai mare parte a mirosului plecând de pe suprafața dorso-posterioară a limbii — adică din fundul ei [s2].
 
 Merită să stai o clipă cu asta, pentru că explică toată neînțelegerea. Spatele limbii este o suprafață cu șanțuri și papile, care ține un strat gros de celule epiteliale căzute, sediment de salivă și resturi de mâncare. Sub strat, oxigenul se termină. Bacteriile anaerobe fac atunci ce fac bacteriile anaerobe cu proteina: desprind sulful de pe cisteină și metionină și îl eliberează sub formă de gaz [s3]. Substratul sunt propriile tale celule moarte. Condițiile pe care Tonzetich le-a numit pentru o activitate putrefactivă optimă — puține glucide, pH fiziologic, lipsa aerului — sunt exact condițiile din treimea din spate a limbii atunci când gura este închisă și saliva merge încet [s2].
 
-Gingiile fac același lucru într-o pungă parodontală, motiv pentru care boala de gingii și mirosul urât merg împreună. În seria belgiană, depozitul de pe limbă era în spatele a 51 % dintre cazurile orale, gingivita a 17 %, parodontita a 15 %, iar combinațiile ale restului de 17 % [s1]. Organismele răspunzătoare sunt anaerobii cunoscuți ai plăcii și ai marginii gingiei: când anaerobi orali obișnuiți au fost puși la incubat cu cisteină și metionină și li s-a măsurat aerul de deasupra, [Porphyromonas gingivalis](/bacteria/porphyromonas-gingivalis/) s-a numărat printre marii producători atât de hidrogen sulfurat, cât și de metil-mercaptan [s11].
+Gingiile fac același lucru într-o pungă parodontală, motiv pentru care boala de gingii și mirosul urât merg împreună. În seria belgiană, depozitul de pe limbă era în spatele a 51 % dintre cazurile orale, gingivita a 17 %, parodontita a 15 %, iar combinațiile ale restului de 17 % [s1]. Organismele răspunzătoare sunt anaerobii cunoscuți ai plăcii și ai marginii gingiei: când anaerobi orali obișnuiți au fost puși la incubat cu cisteină și metionină și li s-a măsurat aerul de deasupra, [Porphyromonas gingivalis](/bacteria/porphyromonas-gingivalis/) s-a numărat printre marii producători atât de hidrogen sulfurat, cât și de metil-mercaptan [s11].
 
 ## Felia care chiar nu vine din gură
 
-Literatura este constantă în privința mărimii feliei din afara gurii, chiar dacă nu și a marginilor ei exacte. Tangerman și Winkel pun halena extraorală de orice fel la circa 5–10 % din toate cazurile [s3]. O sinteză sistematică din 2022 a literaturii despre cauze pune factorii din gură la 80–90 % și pe cei din afara gurii la 10–20 % [s4]. Cei 13 % non-orali ai clinicii belgiene se desfăceau așa: probleme ORL 4 %, mixte ORL și orale 3 %, cauze presupus psihiatrice 5 % și tubul digestiv 1 % [s1].
+Literatura este constantă în privința mărimii feliei din afara gurii, chiar dacă nu și a marginilor ei exacte. Tangerman și Winkel pun halena extraorală de orice fel la circa 5–10 % din toate cazurile [s3]. O sinteză sistematică din 2022 a literaturii despre cauze pune factorii din gură la 80–90 % și pe cei din afara gurii la 10–20 % [s4]. Cei 13 % non-orali ai clinicii belgiene se desfăceau așa: probleme ORL 4 %, mixte ORL și orale 3 %, cauze presupus psihiatrice 5 % și tubul digestiv 1 % [s1].
 
 Vezi ce umple felia din afara gurii în seria belgiană: probleme ORL și cauze presupus psihiatrice, fiecare dintre ele mai mare decât tubul digestiv [s1]. Iar atunci când o boală a întregului corp chiar îți ajunge în respirație, nu o face urcând prin esofag. Compușii mirositori care circulă în sânge trec în plămâni, se volatilizează în aerul alveolar și pleacă odată cu fiecare expirație [s6]. De aceea halena venită prin sânge miroase la fel pe nas ca pe gură, în timp ce halena făcută în gură nu. Într-un studiu pe 58 de oameni care se plângeau de miros urât, 47 aveau o sursă în gură, șase una din afara ei, iar cinci nu aveau niciun miros măsurabil; toate cele șase cazuri extraorale au arătat dimetil-sulfură crescută atât în aerul din gură, cât și în cel din nas [s5].
 

@@ -27,7 +27,7 @@ keyFacts:
     source: s10
   - fact: "La 26 de adulți din brațul cu somn obișnuit al unui studiu încrucișat randomizat, o zi de mâncat după bunul plac a fost pusă în regresie cu polisomnografia din noaptea aceea: mai multe fibre au prezis mai mult somn cu unde lente (P = 0,0286), o pondere mai mare a energiei din grăsimi saturate a prezis mai puțin (P = 0,0422), iar mai mult zahăr a prezis mai multe treziri (P = 0,0320)."
     source: s6
-  - fact: "Un studiu randomizat simplu-orb de 12 săptămâni a dat la 30 de adulți în vârstă 100 mg de 5-hidroxitriptofan pe zi; printre cei care porniseră ca dormitori slabi, scorul global subiectiv de somn s-a îmbunătățit, iar diversitatea Simpson a crescut față de grupul de control (p = 0,013 pentru comparația de diversitate)."
+  - fact: "Un studiu randomizat simplu-orb de 12 săptămâni a dat la 30 de adulți în vârstă 100 mg de 5-hidroxitriptofan pe zi; printre cei care porniseră ca dormitori slabi, scorul global subiectiv de somn s-a îmbunătățit, iar diversitatea Simpson a crescut față de grupul de control (p = 0,013 pentru comparația de diversitate)."
     source: s7
   - fact: "O sinteză sistematică din 2026 despre probiotice și somn la oameni care fac sport a găsit șase studii randomizate, cu 180 de participanți cu totul, 9 din 12 obiective principale de somn fiind în favoarea suplimentării — mai ales calitatea raportată de ei și timpul până la adormire."
     source: s8
@@ -150,7 +150,7 @@ Aceasta este partea care se omite de obicei. O sinteză sistematică din 2026 a 
 
 O altă sinteză, a 12 studii și 3.350 de adulți sănătoși care lucrează, a găsit un efect modest asupra dispoziției și o scădere a cortizolului, iar apoi a spus limpede că dovezile disponibile nu erau de ajuns pentru a trage vreo concluzie despre calitatea somnului [s9].
 
-Lucrul cel mai apropiat de un rezultat pozitiv trece prin precursor, nu prin microbi: 30 de adulți în vârstă, 12 săptămâni, 100 mg de 5-hidroxitriptofan pe zi. Participanții care au pornit ca dormitori slabi și-au îmbunătățit scorul subiectiv de somn, iar diversitatea lor intestinală a crescut față de grupul de control (p = 0,013) [s7]. Treizeci de oameni, simplu-orb, un singur centru. Interesant; nu instrucțiuni.
+Lucrul cel mai apropiat de un rezultat pozitiv trece prin precursor, nu prin microbi: 30 de adulți în vârstă, 12 săptămâni, 100 mg de 5-hidroxitriptofan pe zi. Participanții care au pornit ca dormitori slabi și-au îmbunătățit scorul subiectiv de somn, iar diversitatea lor intestinală a crescut față de grupul de control (p = 0,013) [s7]. Treizeci de oameni, simplu-orb, un singur centru. Interesant; nu instrucțiuni.
 
 ## Ce să faci într-o marți
 

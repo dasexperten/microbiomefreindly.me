@@ -1,6 +1,6 @@
 ---
 title: "Apa de gură omoară microbii de care depinde tensiunea"
-meta: "Mai puține bacterii în gură e mereu mai bine? Un studiu din 2013 spune nu: șapte zile de clătire antiseptică au tăiat nitritul cu 90 % și au urcat tensiunea."
+meta: "Mai puține bacterii în gură e mereu mai bine? Un studiu din 2013 spune nu: șapte zile de clătire antiseptică au tăiat nitritul cu 90 % și au urcat tensiunea."
 kicker: "Verificăm mitul"
 type: myth
 topic: oral
@@ -15,13 +15,13 @@ seo:
   pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
 author: magnus-larsen
 voice: greger
-answer: "Fals. O clătire antiseptică nu poate alege între microbii dăunători și cei folositori, așa că aplatizează comunitatea gurii tale. Într-un studiu din 2013, șapte zile de clătire cu clorhexidină au tăiat cu 90 % nitritul din gură, cel care relaxează vasele de sânge, și au urcat tensiunea cu 2–3,5 mmHg. Clătirea tratează o problemă, nu e o rutină."
+answer: "Fals. O clătire antiseptică nu poate alege între microbii dăunători și cei folositori, așa că aplatizează comunitatea gurii tale. Într-un studiu din 2013, șapte zile de clătire cu clorhexidină au tăiat cu 90 % nitritul din gură, cel care relaxează vasele de sânge, și au urcat tensiunea cu 2–3,5 mmHg. Clătirea tratează o problemă, nu e o rutină."
 keyFacts:
-  - fact: "La 36 de adulți sănătoși, 7 zile de clătire cu clorhexidină 0,2 % au deplasat comunitatea din salivă — mai multe Firmicutes și Proteobacteria, mai puține Bacteroidetes și Fusobacteria."
+  - fact: "La 36 de adulți sănătoși, 7 zile de clătire cu clorhexidină 0,2 % au deplasat comunitatea din salivă — mai multe Firmicutes și Proteobacteria, mai puține Bacteroidetes și Fusobacteria."
     source: s1
   - fact: "După clorhexidină, pH-ul salivei și capacitatea de tamponare au scăzut, în timp ce lactatul și glucoza din salivă au crescut — chimia care le priește bacteriilor producătoare de acid."
     source: s1
-  - fact: "Șapte zile de clătire cu clorhexidină au tăiat producția de nitrit din gură cu 90 % și nitritul plasmatic cu 25 %; tensiunea sistolică și cea diastolică au crescut cu 2–3,5 mmHg."
+  - fact: "Șapte zile de clătire cu clorhexidină au tăiat producția de nitrit din gură cu 90 % și nitritul plasmatic cu 25 %; tensiunea sistolică și cea diastolică au crescut cu 2–3,5 mmHg."
     source: s2
   - fact: "Efectul nu este universal — la 17 femei tinere sănătoase care s-au clătit de trei ori pe zi timp de 3 zile, transformarea nitratului a fost blocată, dar nitritul plasmatic și tensiunea pe 24 de ore nu s-au schimbat."
     source: s3
@@ -33,7 +33,7 @@ faq:
   - q: "Deci apa de gură îmi face rău?"
     a: "Întrebarea este pusă greșit. O clătire antiseptică este un medicament cu o indicație. Ca adaos la periaj, dă o scădere mare a plăcii dentare — dovezi de calitate înaltă, adunate din 12 studii dintr-o sinteză Cochrane cu 51 de studii [s5]. Folosită zilnic, ani la rând, fără nicio problemă numită, tulbură o cale bacteriană de care se folosește circulația ta [s2]. Aceeași sticlă, alt verdict, în funcție de motivul pentru care o ții în mână."
   - q: "Chiar crește apa de gură tensiunea?"
-    a: "Într-un studiu controlat, da, și modest. Nouăsprezece voluntari sănătoși s-au clătit cu un antiseptic pe bază de clorhexidină timp de 7 zile; tensiunea sistolică și cea diastolică au crescut cu 2–3,5 mmHg, iar creșterea fiecăruia a mers mână în mână cu propria lui scădere de nitrit din sânge [s2]. Dar un studiu încrucișat randomizat pe 17 femei tinere nu a găsit nicio schimbare a tensiunii măsurate pe 24 de ore [s3], iar într-un studiu cu 36 de oameni creșterea nu a fost semnificativă statistic [s1]. Calea este tulburată constant; efectul de mai departe nu este constant."
+    a: "Într-un studiu controlat, da, și modest. Nouăsprezece voluntari sănătoși s-au clătit cu un antiseptic pe bază de clorhexidină timp de 7 zile; tensiunea sistolică și cea diastolică au crescut cu 2–3,5 mmHg, iar creșterea fiecăruia a mers mână în mână cu propria lui scădere de nitrit din sânge [s2]. Dar un studiu încrucișat randomizat pe 17 femei tinere nu a găsit nicio schimbare a tensiunii măsurate pe 24 de ore [s3], iar într-un studiu cu 36 de oameni creșterea nu a fost semnificativă statistic [s1]. Calea este tulburată constant; efectul de mai departe nu este constant."
   - q: "Se aplică asta la orice apă de gură?"
     a: "Mecanismul a fost testat cel mai riguros cu clorhexidină, așa că despre asta pot vorbi cu cifre [s1][s2][s3]. Pentru clătirile din comerț dovezile sunt mai slabe și observaționale: la 945 de adulți supraponderali urmăriți trei ani, folosirea apei de gură cel puțin de două ori pe zi a fost asociată cu o rată mai mare de prediabet sau diabet decât la cei care nu o foloseau [s4]. O asociere într-o singură cohortă este un motiv să pui întrebarea, nu un răspuns la ea."
   - q: "Când este cu adevărat clătirea antiseptică unealta potrivită?"
@@ -79,7 +79,7 @@ images:
   preview: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-preview.webp"
   previewAlt: "Ilustrație: o clătire limpede mătură un covor amestecat de bastonașe, celule rotunde și fusuri, lăsându-l rărit în urma ei"
   plate: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-plate-en.webp"
-  plateLines: "Întâi — clătirea nu alege · Apoi — comunitatea din gură se rărește · Rezultat — nitritul scade cu 90 %"
+  plateLines: "Întâi — clătirea nu alege · Apoi — comunitatea din gură se rărește · Rezultat — nitritul scade cu 90 %"
   hero: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-hero.webp"
   heroAlt: "Ilustrație: clătirea mătură covorul bacterian amestecat de pe suprafața limbii, iar șuvoiul de particule pe care îl trimite spre un vas de sânge scade la a zecea parte"
 referral:
@@ -106,7 +106,7 @@ Asta nu face clătirile antiseptice nefolositoare. Le face un tratament, cu o in
 
 ## Ce face un antiseptic larg comunității care locuiește în gura ta
 
-Începe cu măsurătoarea cea mai directă. Bescos și colegii, în *Scientific Reports*, în 2020, au pus 36 de adulți sănătoși să se clătească un minut de două ori pe zi, timp de 7 zile, cu un placebo, apoi să repete exact aceeași schemă încă 7 zile cu clorhexidină 0,2 % [s1].
+Începe cu măsurătoarea cea mai directă. Bescos și colegii, în *Scientific Reports*, în 2020, au pus 36 de adulți sănătoși să se clătească un minut de două ori pe zi, timp de 7 zile, cu un placebo, apoi să repete exact aceeași schemă încă 7 zile cu clorhexidină 0,2 % [s1].
 
 Comunitatea nu s-a micșorat pur și simplu. S-a înclinat. [Firmicutes](/bacteria/bacillota-firmicutes/) și [Proteobacteria](/bacteria/pseudomonadota-proteobacteria/) au devenit mai numeroase, în timp ce [Bacteroidetes](/bacteria/bacteroidota/) și [Fusobacteria](/bacteria/fusobacteriota/) au scăzut [s1]. Iar gura în care au rămas supraviețuitorii era altfel din punct de vedere chimic: pH-ul salivei a coborât, capacitatea de tamponare a scăzut, iar lactatul și glucoza din salivă au crescut [s1].
 
@@ -116,7 +116,7 @@ Citește ultima propoziție rar, pentru că răstoarnă promisiunea. O gură mai
 
 Celulele umane nu pot reduce nitratul la nitrit. Bacteriile pot. Hyde și colegii au răzuit limbile a șase voluntari sănătoși, au secvențiat ce trăia acolo și au identificat 14 specii candidate care reduc nitratul — șapte dintre ele fiind unele despre care nu se credea până atunci că ar contribui cu ceva [s6]. Aceste organisme stau mai ales pe spatele limbii și îi dau corpului nitrit, care devine oxid nitric, care relaxează vasele de sânge.
 
-Kapil și colegii au testat ce se întâmplă când banda aceea se închide. Nouăsprezece voluntari sănătoși au fost măsurați de-a lungul unei perioade de control de 7 zile, apoi s-au clătit 7 zile cu un antiseptic pe bază de clorhexidină [s2]. Producția de nitrit din gură a scăzut cu 90 %, iar nitritul plasmatic cu 25 %. Tensiunea sistolică și cea diastolică au crescut cu 2–3,5 mmHg, iar mărimea creșterii fiecărui om a mers mână în mână cu mărimea propriei lui scăderi de nitrit (r² = 0,56, p = 0,002). Efectul a apărut la mai puțin de o zi după tulburarea florei și s-a menținut toată săptămâna [s2].
+Kapil și colegii au testat ce se întâmplă când banda aceea se închide. Nouăsprezece voluntari sănătoși au fost măsurați de-a lungul unei perioade de control de 7 zile, apoi s-au clătit 7 zile cu un antiseptic pe bază de clorhexidină [s2]. Producția de nitrit din gură a scăzut cu 90 %, iar nitritul plasmatic cu 25 %. Tensiunea sistolică și cea diastolică au crescut cu 2–3,5 mmHg, iar mărimea creșterii fiecărui om a mers mână în mână cu mărimea propriei lui scăderi de nitrit (r² = 0,56, p = 0,002). Efectul a apărut la mai puțin de o zi după tulburarea florei și s-a menținut toată săptămâna [s2].
 
 Doi până la trei milimetri și jumătate de mercur nu sunt o criză la un singur om. La scara unei populații nu sunt nici nimic — și nimeni nu și-a propus să-i cumpere cu o apă de gură.
 

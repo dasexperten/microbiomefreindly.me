@@ -109,7 +109,7 @@ images:
   preview: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-preview.webp"
   previewAlt: "Ilustrasyon: mga piraso ng nalagas na selula sa ibabaw kasama ang maliliit na kadena ng bacteria, nakalapag sa makipot na lambak sa pagitan ng papillae ng dila"
   plate: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-plate-en.webp"
-  plateLines: "Una — pinupuno ng nalagas na selula ang mga uka · Tapos — ang bacteriang ayaw sa hangin ang gumagawa ng amoy · Kaya — manipis na patong sa 90.7 %"
+  plateLines: "Una — pinupuno ng nalagas na selula ang mga uka · Tapos — ang bacteriang ayaw sa hangin ang gumagawa ng amoy · Kaya — manipis na patong sa 90.7 %"
   hero: "/assets/img/mbf/ask/is-a-coated-tongue-bad/is-a-coated-tongue-bad-hero.webp"
   heroAlt: "Ilustrasyon: hanay ng papillae ng dila na may nalagas na piraso at bacteria sa mga lambak sa pagitan nila, manipis sa siyam na lambak at mas makapal sa isa, may bahagyang gas na umaangat"
 referral:

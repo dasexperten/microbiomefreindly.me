@@ -200,3 +200,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ro card alt: "Durerea e cu adevărat fizică? — o femeie se oprește pe un hol de birou, cu antebrațul apăsat pe abdomen"
 - ro card question: "Durerea e cu adevărat fizică?"
 - ro plate lines: "Mai întâi — lichidul din scaun atinge peretele · Apoi — o enzimă retează un receptor nervos · Rezultat — rețeaua nervoasă descarcă mult mai tare"
+
+- zh-Hans preview alt: "插画：一张神经结织成的网透过薄薄的肠组织发亮，一层透明的琥珀色薄膜落在上面，有几个结点被照成珊瑚色"
+- zh-Hans hero alt: "插画：一层薄薄的琥珀色液膜落在肠壁上；一种酶剪开一个神经细胞上的受体，它亮了起来，唤醒周围整张神经网的结点"
+- zh-Hans card alt: "这种疼真的是身体上的吗？ — 一位女性在办公室走廊里停下来，一只前臂横压在腹部"
+- zh-Hans card question: "这种疼真的是身体上的吗？"
+- zh-Hans plate lines: "首先 — 粪水碰到肠壁 · 接着 — 一种酶剪开一个神经受体 · 结果 — 整张神经网放电猛烈得多"

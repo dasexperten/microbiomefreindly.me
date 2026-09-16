@@ -105,7 +105,7 @@ images:
   preview: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-preview.webp"
   previewAlt: "Ilustrasi: sel Akkermansia berbentuk bujur terbaring berpasangan dalam gel lendir yang jernih, manik lendir baharu berwarna emas naik di bawah sepasang daripadanya"
   plate: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-plate-ms.webp"
-  plateLines: "Mula-mula — ia menetap dalam lendir anda · Kemudian — ia meragut satu lekuk · Hasilnya — lapisan itu membaharui diri; 1 % sel"
+  plateLines: "Mula-mula — ia menetap dalam lendir anda · Kemudian — ia meragut satu lekuk · Hasilnya — lapisan itu membaharui diri; 1 % sel"
   hero: "/assets/img/mbf/bacteria/akkermansia-muciniphila/akkermansia-muciniphila-hero.webp"
   heroAlt: "Ilustrasi: sel Akkermansia berbentuk bujur menetap dalam lapisan lendir usus dan meragut satu lekuk cetek, manakala lapisan di bawahnya menolak naik lendir baharu yang menebalkan lapisan itu"
 referral:

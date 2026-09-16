@@ -79,7 +79,7 @@ images:
   preview: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-preview.webp"
   previewAlt: "Ilustrasyon: dumadaloy ang malinaw na mumog sa halo-halong banig ng rod, bilog na selula at spindle, at manipis na ang naiiwan sa likod ng gilid nito"
   plate: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-plate-en.webp"
-  plateLines: "Una — hindi pumipili ang mumog · Tapos — nanipis ang komunidad sa bibig · Kaya — bumaba ang nitrite nang 90 %"
+  plateLines: "Una — hindi pumipili ang mumog · Tapos — nanipis ang komunidad sa bibig · Kaya — bumaba ang nitrite nang 90 %"
   hero: "/assets/img/mbf/myth/antibacterial-mouthwash-is-always-good/antibacterial-mouthwash-is-always-good-hero.webp"
   heroAlt: "Ilustrasyon: dinadaanan ng mumog ang halo-halong banig ng bacteria sa ibabaw ng dila, at bumababa sa ikasampung bahagi ang agos ng partikulang ipinapadala nito sa isang ugat"
 referral:

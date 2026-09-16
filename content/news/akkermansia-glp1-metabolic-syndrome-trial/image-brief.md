@@ -161,3 +161,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - zh-Hans card alt: "这项试验失败了吗？ — 一位四十多岁的男性在清冷的晨光里独自等公交车"
 - zh-Hans card question: "这项试验失败了吗？"
 - zh-Hans plate lines: "首先 — 死细胞沉在黏液里 · 接着 — 一个肠道细胞放出 GLP-1 · 结果 — 300亿个细胞，什么也没动"
+
+- ms preview alt: "Ilustrasi: sel Akkermansia bujur yang utuh dan diam terbaring dalam lekuk lendir usus yang telah diragut, kilauan warna karang lapisan usus di bawahnya"
+- ms hero alt: "Ilustrasi: hanyutan padat sel Akkermansia bujur yang mati haba dalam lendir usus; satu sel hormon pada lapisan usus melepaskan pancaran emas sementara tisu di sebaliknya kekal tidak berubah"
+- ms card alt: "Adakah ujian itu gagal? — seorang lelaki 40-an menunggu seorang diri di perhentian bas dalam cahaya pagi yang sejuk"
+- ms card question: "Adakah ujian itu gagal?"
+- ms plate lines: "Mula-mula — sel mati menetap dalam lendir · Kemudian — satu sel usus melepaskan GLP-1 · Hasilnya — 30 bilion sel, tiada apa berubah"
+
+- ko preview alt: "일러스트: 장 점액의 뜯어 먹힌 웅덩이에 온전한 타원형 Akkermansia 세포들이 미동 없이 누워 있고, 그 아래로 점막이 산호색으로 어른거린다"
+- ko hero alt: "일러스트: 장 점액 속에 열로 죽인 타원형 Akkermansia 세포들이 빽빽이 떠밀려 있고, 점막의 호르몬 세포 하나가 금빛 섬광을 내놓는 동안 그 너머 조직은 그대로다"
+- ko card alt: "시험은 실패했나요? — 마흔 무렵의 남자가 차가운 이른 빛 속 버스 정류장에 혼자 서서 기다린다"
+- ko card question: "시험은 실패했나요?"
+- ko plate lines: "먼저 — 죽은 세포가 점액에 내려앉는다 · 그다음 — 장 세포 하나가 GLP-1을 내놓는다 · 결과 — 세포 300억 개, 아무것도 움직이지 않았다"
+
+- tl preview alt: "Ilustrasyon: buo at tahimik na hugis-itlog na selula ng Akkermansia na nakahiga sa mga nginatngat na lukab ng mucus ng bituka, may kislap na coral ng lining sa ilalim"
+- tl hero alt: "Ilustrasyon: makapal na anod ng pinatay-sa-init na hugis-itlog na selula ng Akkermansia sa mucus ng bituka; isang selulang hormone sa lining ang naglalabas ng gintong sabog habang nananatiling hindi nagbabago ang tisyu sa kabila"
+- tl card alt: "Pumalpak ba ang trial? — isang lalaking kuwarentahin ang naghihintay mag-isa sa hintuan ng bus sa malamig na madaling-araw"
+- tl card question: "Pumalpak ba ang trial?"
+- tl plate lines: "Una — pumupwesto sa mucus ang mga patay na selula · Tapos — naglalabas ng GLP-1 ang isang selula ng gut · Kaya — 30 bilyong selula, walang gumalaw"

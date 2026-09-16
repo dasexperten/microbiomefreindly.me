@@ -21,19 +21,19 @@ keyFacts:
     source: s1
   - fact: "Ciprofloxacina a tăiat diversitatea intestinală în 3–4 zile de la prima doză; comunitățile au început să revină la aproximativ o săptămână după încheierea fiecărei cure, dar revenirea a fost adesea incompletă, iar starea finală, schimbată."
     source: s2
-  - fact: "În 17 studii randomizate pe 3.631 de pacienți din ambulatoriu, diareea asociată antibioticelor a apărut la 8,0 % din grupul cu probiotic și la 17,7 % din cel de control (RR 0,49, IC 95 % de la 0,36 la 0,66)."
+  - fact: "În 17 studii randomizate pe 3.631 de pacienți din ambulatoriu, diareea asociată antibioticelor a apărut la 8,0 % din grupul cu probiotic și la 17,7 % din cel de control (RR 0,49, IC 95 % de la 0,36 la 0,66)."
     source: s5
-  - fact: "În studiul PLACIDE, 2.941 de pacienți internați de 65 de ani și peste au fost randomizați la 6 × 10¹⁰ organisme pe zi timp de 21 de zile sau la placebo; diareea a apărut la 10,8 % pe probiotic și la 10,4 % pe placebo (RR 1,04, IC 95 % de la 0,84 la 1,28)."
+  - fact: "În studiul PLACIDE, 2.941 de pacienți internați de 65 de ani și peste au fost randomizați la 6 × 10¹⁰ organisme pe zi timp de 21 de zile sau la placebo; diareea a apărut la 10,8 % pe probiotic și la 10,4 % pe placebo (RR 1,04, IC 95 % de la 0,84 la 1,28)."
     source: s6
   - fact: "Față de refacerea de la sine, un probiotic cu 11 tulpini dat după antibiotice a produs o revenire net întârziată și stăruitor incompletă a microbiomului propriu al persoanei, din scaun și din mucoasă, în timp ce transplantul de scaun propriu l-a readus în câteva zile."
     source: s3
-  - fact: "Adulți sănătoși care au urcat alimentele fermentate de la 0,4 la 6,3 porții pe zi de-a lungul a 17 săptămâni au câștigat diversitate a microbiotei, iar 19 din 93 de proteine inflamatorii din ser au scăzut, între care IL-6; un braț bogat în fibre, care a ajuns la 45,1 g de fibre pe zi, nu a câștigat diversitate."
+  - fact: "Adulți sănătoși care au urcat alimentele fermentate de la 0,4 la 6,3 porții pe zi de-a lungul a 17 săptămâni au câștigat diversitate a microbiotei, iar 19 din 93 de proteine inflamatorii din ser au scăzut, între care IL-6; un braț bogat în fibre, care a ajuns la 45,1 g de fibre pe zi, nu a câștigat diversitate."
     source: s7
 faq:
   - q: "Cât durează până când intestinul meu e din nou normal?"
     a: "Pentru cea mai mare parte a comunității, săptămâni. În studiul de la Copenhaga, pe 12 bărbați sănătoși cu un amestec intravenos de 4 zile din trei antibiotice de ultimă linie, compoziția era aproape ca la început în 1,5 luni. Coada este mai lungă: nouă specii pe care fiecare bărbat le purta înainte de tratament erau încă nedetectabile la majoritatea dintre ei în ziua 180. O cură orală mai blândă este o lovitură mai mică decât acel amestec, dar nimeni nu a măsurat cura ta anume în intestinul tău anume."
   - q: "Să iau un probiotic în timpul curei sau după?"
-    a: "Depinde ce întrebi. Dacă vrei mai puține scaune moi, studiile din ambulatoriu au găsit 8,0 % pe probiotic față de 17,7 % în grupul de control, iar sinteza Cochrane a găsit o protecție reală împotriva diareei cu Clostridioides difficile la oamenii al căror risc de plecare era peste 5 %, dar niciuna la cei sub acest prag. Dacă vrei speciile tale înapoi mai repede, singurul studiu care a măsurat asta a găsit că probioticele au încetinit revenirea. Sunt obiective diferite și niciun studiu nu le-a măsurat pe amândouă la aceiași oameni."
+    a: "Depinde ce întrebi. Dacă vrei mai puține scaune moi, studiile din ambulatoriu au găsit 8,0 % pe probiotic față de 17,7 % în grupul de control, iar sinteza Cochrane a găsit o protecție reală împotriva diareei cu Clostridioides difficile la oamenii al căror risc de plecare era peste 5 %, dar niciuna la cei sub acest prag. Dacă vrei speciile tale înapoi mai repede, singurul studiu care a măsurat asta a găsit că probioticele au încetinit revenirea. Sunt obiective diferite și niciun studiu nu le-a măsurat pe amândouă la aceiași oameni."
   - q: "Trebuie să aștept sfârșitul curei ca să încep să mănânc bine?"
     a: "Nu. Tulburarea începe în câteva zile de la prima doză, așa că mâncarea nu trebuie să aștepte ultima. Nu există niciun studiu care să testeze când să începi, deci acesta este mecanism și bun-simț, nu un beneficiu măsurat."
   - q: "Iaurtul e un probiotic?"
@@ -124,7 +124,7 @@ Iată partea pe care o sar cele mai multe articole. Niciun studiu randomizat nu 
 
 La șoareci, o dietă săracă în fibre a înrăutățit prăbușirea și a întârziat refacerea după antibiotice [s8] — un mecanism arătat la animale, nu un rezultat la om.
 
-La oameni, Wastyk și colegii au făcut un studiu randomizat de 17 săptămâni pe adulți sănătoși, fără antibiotice la mijloc, cu 18 oameni pe braț [s7]. Un braț a împins fibrele de la 21,5 g pe zi la 45,1 g; celălalt a împins alimentele fermentate de la 0,4 porții pe zi la 6,3 [s7]. Brațul cu alimente fermentate a câștigat constant diversitate a microbiotei, iar 19 din cele 93 de proteine inflamatorii din ser au scăzut, IL-6 printre ele [s7]. Brațul bogat în fibre nu a câștigat diversitate, deși genele enzimelor care descompun glicani i-au crescut [s7].
+La oameni, Wastyk și colegii au făcut un studiu randomizat de 17 săptămâni pe adulți sănătoși, fără antibiotice la mijloc, cu 18 oameni pe braț [s7]. Un braț a împins fibrele de la 21,5 g pe zi la 45,1 g; celălalt a împins alimentele fermentate de la 0,4 porții pe zi la 6,3 [s7]. Brațul cu alimente fermentate a câștigat constant diversitate a microbiotei, iar 19 din cele 93 de proteine inflamatorii din ser au scăzut, IL-6 printre ele [s7]. Brațul bogat în fibre nu a câștigat diversitate, deși genele enzimelor care descompun glicani i-au crescut [s7].
 
 Pune-le pe cele două laolaltă și logica este limpede, chiar dacă nu dovedită: grupurile pe care antibioticele le doboară întâi — bifidobacteriile și producătorii de butirat [s1] — trăiesc din glucide vegetale fermentabile. Hrănește-i pe supraviețuitori cu ce mănâncă ei.
 
@@ -132,15 +132,15 @@ Pune-le pe cele două laolaltă și logica este limpede, chiar dacă nu dovedit�
 
 Începe acum, nu când se termină cura. Căderea începe în câteva zile de la prima doză [s2], deci nu e nimic de așteptat.
 
-Pune plante fermentabile în fiecare farfurie: leguminoase, ovăz și orz, ceapă, praz și usturoi, mere și pere, cartofi sau orez fierți și răciți. Brațul care a schimbat capacitatea enzimatică a ajuns la 45,1 g de fibre pe zi [s7], cam dublul punctului lui de plecare de 21,5 g [s7] — cu o urcare pe 4 săptămâni, înainte de 6 săptămâni de menținere [s7]. Urcarea treptată nu este un moft; așa a fost condus brațul.
+Pune plante fermentabile în fiecare farfurie: leguminoase, ovăz și orz, ceapă, praz și usturoi, mere și pere, cartofi sau orez fierți și răciți. Brațul care a schimbat capacitatea enzimatică a ajuns la 45,1 g de fibre pe zi [s7], cam dublul punctului lui de plecare de 21,5 g [s7] — cu o urcare pe 4 săptămâni, înainte de 6 săptămâni de menținere [s7]. Urcarea treptată nu este un moft; așa a fost condus brațul.
 
 Adaugă zilnic un aliment fermentat — iaurt cu culturi vii, chefir, varză murată, kimchi, legume în saramură. Numărul care a mișcat diversitatea a fost de 6,3 porții pe zi [s7], mult mai mult decât va reuși cea mai mare parte a oamenilor. O porție este o direcție, nu doza care a fost testată.
 
 ## Întrebarea cu probioticele și cearta dinăuntrul ei
 
-Acum argumentul, spus cu voce tare, pentru că literatura nu este de acord cu sine. În 17 studii randomizate pe 3.631 de pacienți din ambulatoriu, diareea asociată antibioticelor a lovit 8,0 % dintre grupurile cu probiotic și 17,7 % dintre cele de control, un risc relativ de 0,49 (IC 95 % de la 0,36 la 0,66), cu efecte adverse la fel în ambele brațe [s5]. Sinteza Cochrane despre diareea cu *Clostridioides difficile* a adunat 31 de studii și 8.672 de pacienți și a găsit 1,5 % față de 4,0 %, un risc relativ de 0,40, certitudine moderată, 42 de oameni tratați pentru un caz prevenit [s4]. Dar a găsit și unde trăia acel beneficiu: acolo unde riscul de plecare de [*C. difficile*](/bacteria/clostridioides-difficile/) era peste 5 %, rata a fost de 3,1 % față de 11,6 %, iar numărul necesar a fost 12; la 5 % sau sub, nicio diferență [s4].
+Acum argumentul, spus cu voce tare, pentru că literatura nu este de acord cu sine. În 17 studii randomizate pe 3.631 de pacienți din ambulatoriu, diareea asociată antibioticelor a lovit 8,0 % dintre grupurile cu probiotic și 17,7 % dintre cele de control, un risc relativ de 0,49 (IC 95 % de la 0,36 la 0,66), cu efecte adverse la fel în ambele brațe [s5]. Sinteza Cochrane despre diareea cu *Clostridioides difficile* a adunat 31 de studii și 8.672 de pacienți și a găsit 1,5 % față de 4,0 %, un risc relativ de 0,40, certitudine moderată, 42 de oameni tratați pentru un caz prevenit [s4]. Dar a găsit și unde trăia acel beneficiu: acolo unde riscul de plecare de [*C. difficile*](/bacteria/clostridioides-difficile/) era peste 5 %, rata a fost de 3,1 % față de 11,6 %, iar numărul necesar a fost 12; la 5 % sau sub, nicio diferență [s4].
 
-Apoi PLACIDE, cel mai mare studiu singular: 2.941 de pacienți internați de 65 de ani și peste, randomizați fie la două tulpini de lactobacili și două de bifidobacterii — 6 × 10¹⁰ organisme pe zi timp de 21 de zile —, fie la un placebo identic [s6]. Diareea a lovit 10,8 % pe probiotic și 10,4 % pe placebo — un risc relativ de 1,04 [s6]. Nimic.
+Apoi PLACIDE, cel mai mare studiu singular: 2.941 de pacienți internați de 65 de ani și peste, randomizați fie la două tulpini de lactobacili și două de bifidobacterii — 6 × 10¹⁰ organisme pe zi timp de 21 de zile —, fie la un placebo identic [s6]. Diareea a lovit 10,8 % pe probiotic și 10,4 % pe placebo — un risc relativ de 1,04 [s6]. Nimic.
 
 Și apoi studiul care a schimbat întrebarea. Suez și colegii au prelevat direct din mucoasa intestinală, nu doar din scaun. Față de simpla așteptare, un probiotic cu mai multe tulpini a produs o refacere net întârziată și stăruitor incompletă a microbiomului propriu al persoanei și a expresiei lui genice, în timp ce un transplant de scaun propriu — bacteriile ei de dinainte de antibiotice, date înapoi — a readus lucrurile la loc în câteva zile [s3]. În cultură, factori solubili secretați de *[Lactobacillus](/bacteria/lactobacillus/)* au inhibat comunitatea băștinașă [s3].
 

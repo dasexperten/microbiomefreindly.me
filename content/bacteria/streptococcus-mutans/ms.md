@@ -21,9 +21,9 @@ keyFacts:
     source: s2
   - fact: "Filumnya dinamakan semula secara rasmi daripada Firmicutes kepada Bacillota pada 2021 — organisma yang sama, label failan yang baharu."
     source: s14
-  - fact: "Dalam satu kohort 46 pasangan ibu dan anak pada 1993, bayi mula-mula memperoleh streptokokus mutans pada umur median 26 bulan; 8 kanak-kanak (17 %) kekal tidak dikoloni sehingga umur median 56 bulan."
+  - fact: "Dalam satu kohort 46 pasangan ibu dan anak pada 1993, bayi mula-mula memperoleh streptokokus mutans pada umur median 26 bulan; 8 kanak-kanak (17 %) kekal tidak dikoloni sehingga umur median 56 bulan."
     source: s4
-  - fact: "Genom UA159 yang dijujuk ialah 2,030,936 pasangan bes dengan 1,963 rangka bacaan terbuka (gen yang diramalkan); hampir 15 % genomnya diperuntukkan kepada pengangkutan gula."
+  - fact: "Genom UA159 yang dijujuk ialah 2,030,936 pasangan bes dengan 1,963 rangka bacaan terbuka (gen yang diramalkan); hampir 15 % genomnya diperuntukkan kepada pengangkutan gula."
     source: s3
   - fact: "Enamel mula larut di bawah 'pH kritikal' yang biasanya dipetik sebagai kira-kira 5.5 — tetapi nilai itu tidak tetap dan bergantung pada kalsium serta fosfat di sekeliling gigi."
     source: s5
@@ -33,7 +33,7 @@ keyFacts:
     source: s10
 faq:
   - q: "Adakah semua orang mempunyai Streptococcus mutans?"
-    a: "Kebanyakan orang ya, tetapi tidak semua. Dalam kohort Caufield pada 1993, 17 % kanak-kanak masih bebas daripada streptokokus mutans pada umur median 56 bulan [s4], dan satu kajian penjujukan pada 2012 menemui kanak-kanak berlubang gigi yang spesies ini tiada atau sedikit sahaja [s9]."
+    a: "Kebanyakan orang ya, tetapi tidak semua. Dalam kohort Caufield pada 1993, 17 % kanak-kanak masih bebas daripada streptokokus mutans pada umur median 56 bulan [s4], dan satu kajian penjujukan pada 2012 menemui kanak-kanak berlubang gigi yang spesies ini tiada atau sedikit sahaja [s9]."
   - q: "Adakah Streptococcus mutans satu-satunya punca lubang gigi?"
     a: "Tidak. Ia penghasil asid yang paling lazim dalam kereputan, tetapi Gross dan rakan-rakan pada 2012 menemui kanak-kanak yang lubang giginya dipacu oleh penghasil asid lain — Streptococcus sobrinus, S. salivarius, S. parasanguinis — dengan sedikit atau langsung tiada S. mutans [s9]. Kereputan ialah peralihan seluruh komuniti ke arah asid, dengan spesies ini sebagai ketua yang biasa."
   - q: "Bolehkah Streptococcus mutans memudaratkan apa-apa selain gigi?"
@@ -150,9 +150,9 @@ Pada 1924, seorang ahli bakteriologi, J. K. Clarke, menumbuhkan satu streptokoku
 
 ## Di mana ia hidup
 
-Ia memerlukan permukaan keras yang tidak luruh. Itulah sebabnya bayi baru lahir, yang tiada gigi, tidak membawanya. Caufield dan rakan-rakan mengikuti 46 pasangan ibu dan anak sejak lahir dan melihat streptokokus mutans — kumpulan yang diketuai spesies ini — tiba pada umur median 26 bulan [s4] — satu "tingkap kejangkitan" yang jelas yang terbuka sebaik ada gigi untuk didiami. Lapan kanak-kanak, iaitu 17 % daripada kumpulan itu, masih bebas daripadanya pada umur median 56 bulan [s4]. Sumber yang paling berkemungkinan ialah mulut orang dewasa yang memberi makan dan mencium seorang anak kecil: dalam kalangan kanak-kanak yang belum dikoloni pada umur satu hingga dua tahun, separuh dijaga oleh orang lain selain ibu, sementara setiap kanak-kanak dalam lingkungan umur itu yang sudah pun berlubang gigi dijaga oleh ibunya [s4].
+Ia memerlukan permukaan keras yang tidak luruh. Itulah sebabnya bayi baru lahir, yang tiada gigi, tidak membawanya. Caufield dan rakan-rakan mengikuti 46 pasangan ibu dan anak sejak lahir dan melihat streptokokus mutans — kumpulan yang diketuai spesies ini — tiba pada umur median 26 bulan [s4] — satu "tingkap kejangkitan" yang jelas yang terbuka sebaik ada gigi untuk didiami. Lapan kanak-kanak, iaitu 17 % daripada kumpulan itu, masih bebas daripadanya pada umur median 56 bulan [s4]. Sumber yang paling berkemungkinan ialah mulut orang dewasa yang memberi makan dan mencium seorang anak kecil: dalam kalangan kanak-kanak yang belum dikoloni pada umur satu hingga dua tahun, separuh dijaga oleh orang lain selain ibu, sementara setiap kanak-kanak dalam lingkungan umur itu yang sudah pun berlubang gigi dijaga oleh ibunya [s4].
 
-Sebaik ia mantap, ia duduk dalam biofilem plak, memilih tempat yang terlindung: dalam plak antara gigi kanak-kanak, serotip c — jenis manusia yang lazim — membentuk 70 % daripada kiraan tepat di bawah titik dua gigi bersentuhan, tetapi 39 % dalam plak yang jauh daripada sentuhan itu [s13]. Ia juga kerap ditemui pada permukaan gigi yang langsung tiada kereputan [s13] — ingat itu untuk nanti.
+Sebaik ia mantap, ia duduk dalam biofilem plak, memilih tempat yang terlindung: dalam plak antara gigi kanak-kanak, serotip c — jenis manusia yang lazim — membentuk 70 % daripada kiraan tepat di bawah titik dua gigi bersentuhan, tetapi 39 % dalam plak yang jauh daripada sentuhan itu [s13]. Ia juga kerap ditemui pada permukaan gigi yang langsung tiada kereputan [s13] — ingat itu untuk nanti.
 
 Ia boleh meninggalkan mulut. Bakteria oral masuk ke dalam aliran darah — bakteremia — dan *S. mutans* ialah punca endokarditis berjangkit yang diiktiraf, iaitu jangkitan injap jantung [s2][s11]. Strain serotip k khususnya telah dikesan, melalui analisis DNA, pada kadar yang tinggi dalam spesimen injap jantung yang dijangkiti; ia bertahan lebih lama dalam darah kerana permukaannya lebih sukar dicengkam antibodi [s11].
 
@@ -162,7 +162,7 @@ Tiga keupayaan, mengikut urutan.
 
 Pertama, gam. Apabila gula pasir — sukrosa — tiba, enzim pada permukaan bakteria yang dipanggil glukosiltransferase memecahkannya dan menjahit belahan glukosanya menjadi rantai panjang yang melekit yang dipanggil glukan. Rantai itulah perancah plak: ia menambat bakteria pada gigi dan memerangkap jirannya bersamanya [s2]. Tiada sukrosa, tiada gam.
 
-Kedua, asid. Bakteria itu menapai gula menjadi asid laktik. Jujukan genomnya memberitahu betapa seriusnya ia mengambil hal ini: strain UA159 membawa 2,030,936 pasangan bes dan 1,963 rangka bacaan terbuka — gen yang diramalkan — dan hampir 15 % genom itu digunakan untuk mengheret pelbagai gula ke dalam sel [s3]. Apabila asid itu menolak plak ke bawah "pH kritikal" — yang biasanya dipetik sebagai kira-kira 5.5 — mineral kalsium fosfat enamel mula larut [s5]. Hujah Dawes, dan ia penting, ialah bahawa angka itu tidak tetap: pH kritikal naik atau turun mengikut berapa banyak kalsium dan fosfat yang ada dalam cecair di sekeliling gigi [s5]. Itulah sebabnya bintik putih awal yang kapur boleh dimineralkan semula apabila asid berhenti dan air liur mengisi semula mineralnya [s5].
+Kedua, asid. Bakteria itu menapai gula menjadi asid laktik. Jujukan genomnya memberitahu betapa seriusnya ia mengambil hal ini: strain UA159 membawa 2,030,936 pasangan bes dan 1,963 rangka bacaan terbuka — gen yang diramalkan — dan hampir 15 % genom itu digunakan untuk mengheret pelbagai gula ke dalam sel [s3]. Apabila asid itu menolak plak ke bawah "pH kritikal" — yang biasanya dipetik sebagai kira-kira 5.5 — mineral kalsium fosfat enamel mula larut [s5]. Hujah Dawes, dan ia penting, ialah bahawa angka itu tidak tetap: pH kritikal naik atau turun mengikut berapa banyak kalsium dan fosfat yang ada dalam cecair di sekeliling gigi [s5]. Itulah sebabnya bintik putih awal yang kapur boleh dimineralkan semula apabila asid berhenti dan air liur mengisi semula mineralnya [s5].
 
 Ketiga, ketahanan. Kebanyakan bakteria oral berhenti tumbuh dalam asid itu. *S. mutans* terus berjalan — ia asidurik dan juga asidogenik — jadi setiap serangan gula menjungkitkan komuniti itu sedikit lagi ke arah spesies yang tahan asid [s1][s2]. Loesche menghuraikannya pada 1986: semakin kerap gula tiba, semakin kerap pH terjunam, semakin penuh biofilem itu dengan penghasil asid, semakin banyak mineral meninggalkan gigi [s1].
 

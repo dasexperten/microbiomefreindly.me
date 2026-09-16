@@ -171,3 +171,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ro card alt: "De ce ei și nu ție? — un bărbat așteaptă pe banca unei spălătorii, în lumina plată de dinainte de prânz"
 - ro card question: "De ce ei și nu ție?"
 - ro plate lines: "Mai întâi — aceleași celule moarte, două intestine · Apoi — într-un intestin plin nu mai e loc · Rezultat — doar intestinul sărac s-a schimbat"
+
+- zh-Hans preview alt: "插画：几个静止的热灭活杆状细胞躺在一个稀疏肠道群落的空隙里，周围散着纤维碎片"
+- zh-Hans hero alt: "插画：同样的死杆菌细胞在拥挤的肠道群落上无人理会，却在稀疏的那个群落里落进空隙，那里冒出新的住户和细小的液滴"
+- zh-Hans card alt: "为什么是她，不是你？ — 一个男人在上午平淡的光线里坐在自助洗衣店的长椅上等着"
+- zh-Hans card question: "为什么是她，不是你？"
+- zh-Hans plate lines: "首先 — 同样的死细胞，两副肠道 · 接着 — 拥挤的那副已经没有位置 · 结果 — 只有稀疏的那副变了"

@@ -25,9 +25,9 @@ keyFacts:
     source: s2
   - fact: "Patru oameni care au primit o cură de 7 zile de clindamicină au fost urmăriți 2 ani: comunitatea lor de Bacteroides nu a mai revenit niciodată la compoziția inițială în acest interval."
     source: s3
-  - fact: "Adunate din 33 de studii randomizate la copii (6352 de participanți), diareea asociată antibioticelor a apărut la 8 % dintre cei pe probiotice față de 19 % în grupul de control, 9 copii tratați pentru a preveni un caz."
+  - fact: "Adunate din 33 de studii randomizate la copii (6352 de participanți), diareea asociată antibioticelor a apărut la 8 % dintre cei pe probiotice față de 19 % în grupul de control, 9 copii tratați pentru a preveni un caz."
     source: s5
-  - fact: "Dintre cei 2941 de pacienți internați analizați, de 65 de ani și peste (2981 randomizați), un probiotic cu mai multe tulpini a dat 10,8 % diaree asociată antibioticelor față de 10,4 % pe placebo — niciun beneficiu."
+  - fact: "Dintre cei 2941 de pacienți internați analizați, de 65 de ani și peste (2981 randomizați), un probiotic cu mai multe tulpini a dat 10,8 % diaree asociată antibioticelor față de 10,4 % pe placebo — niciun beneficiu."
     source: s6
 faq:
   - q: "Cât ar trebui să aștept până să decid că intestinul meu și-a revenit?"
@@ -125,9 +125,9 @@ Săptămâni pentru grosul comunității, luni pentru detaliu, iar pentru unii m
 
 Aici răspunsul cinstit îl dezamăgește pe oricine vinde soluția.
 
-Probioticele fac bine un lucru și prost altul. Lucrul pe care îl fac bine este diareea. O sinteză Cochrane semnată de Guo și colegii a adunat 33 de studii randomizate la copii, 6352 de participanți în total [s5]: diareea asociată antibioticelor a apărut la 8 % dintre copiii care au luat probiotice, față de 19 % în grupul de control [s5], nouă copii tratați pentru a preveni un caz, și șase atunci când doza zilnică a fost de cel puțin 5 miliarde de unități formatoare de colonii (UFC) [s5]. Dovezi de certitudine moderată [s5]. A scurtat și diareea cu aproape o zi [s5]. Asta este real — și este un rezultat pe simptom, nu o refacere.
+Probioticele fac bine un lucru și prost altul. Lucrul pe care îl fac bine este diareea. O sinteză Cochrane semnată de Guo și colegii a adunat 33 de studii randomizate la copii, 6352 de participanți în total [s5]: diareea asociată antibioticelor a apărut la 8 % dintre copiii care au luat probiotice, față de 19 % în grupul de control [s5], nouă copii tratați pentru a preveni un caz, și șase atunci când doza zilnică a fost de cel puțin 5 miliarde de unități formatoare de colonii (UFC) [s5]. Dovezi de certitudine moderată [s5]. A scurtat și diareea cu aproape o zi [s5]. Asta este real — și este un rezultat pe simptom, nu o refacere.
 
-Nici nu se confirmă la toată lumea. PLACIDE, un studiu care a randomizat 2981 de pacienți internați, de 65 de ani și peste — 2941 dintre ei în analiza principală —, cărora li s-a dat zilnic, timp de 21 de zile, un preparat cu mai multe tulpini de lactobacili și bifidobacterii la 6 × 10¹⁰ organisme, a găsit diaree asociată antibioticelor la 10,8 % dintre cei pe preparat și la 10,4 % dintre cei pe placebo [s6]. Niciun beneficiu în acea populație.
+Nici nu se confirmă la toată lumea. PLACIDE, un studiu care a randomizat 2981 de pacienți internați, de 65 de ani și peste — 2941 dintre ei în analiza principală —, cărora li s-a dat zilnic, timp de 21 de zile, un preparat cu mai multe tulpini de lactobacili și bifidobacterii la 6 × 10¹⁰ organisme, a găsit diaree asociată antibioticelor la 10,8 % dintre cei pe preparat și la 10,4 % dintre cei pe placebo [s6]. Niciun beneficiu în acea populație.
 
 Lucrul pe care probioticele îl fac prost este chiar refacerea. Suez și colegii, în *Cell*, în 2018, au trecut dincolo de scaun și au prelevat endoscopic direct din mucoasa intestinală după antibiotice [s4]. Față de simpla așteptare, un probiotic cu mai multe tulpini a produs o revenire net întârziată și stăruitor incompletă a microbiomului propriu al persoanei și a expresiei genice a intestinului [s4]. Un transplant fecal autolog — scaunul propriu al persoanei, păstrat înainte de antibiotice și dat înapoi după — a adus o refacere rapidă și aproape completă în câteva zile [s4]. În laborator, factori solubili secretați de lactobacili au ținut pe loc comunitatea care revenea [s4].
 

@@ -1,6 +1,6 @@
 ---
 title: "Trei zile îți schimbă intestinul. Apoi se schimbă la loc"
-meta: "Resetul intestinului în trei zile se vinde peste tot. Măsurătorile spun: bacteriile se mută într-o zi, revin în două și țin 60 % din tulpini ani întregi."
+meta: "Resetul intestinului în trei zile se vinde peste tot. Măsurătorile spun: bacteriile se mută într-o zi, revin în două și țin 60 % din tulpini ani întregi."
 kicker: "Verificăm mitul"
 type: myth
 topic: gut
@@ -15,13 +15,13 @@ seo:
   pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
 author: magnus-larsen
 voice: greger
-answer: "Fals. Mâncarea chiar mișcă comunitatea din intestin, și repede. Unsprezece voluntari au ținut pe rând două diete extreme: amestecul s-a schimbat la o zi după masă și a revenit la două zile după oprirea dietei (Nature, 2014). Circa 60 % din tulpinile unui adult sunt acolo și după cinci ani (Science, 2013). Trei zile schimbă citirea, nu locatarii."
+answer: "Fals. Mâncarea chiar mișcă comunitatea din intestin, și repede. Unsprezece voluntari au ținut pe rând două diete extreme: amestecul s-a schimbat la o zi după masă și a revenit la două zile după oprirea dietei (Nature, 2014). Circa 60 % din tulpinile unui adult sunt acolo și după cinci ani (Science, 2013). Trei zile schimbă citirea, nu locatarii."
 keyFacts:
   - fact: "Compoziția comunității intestinale s-a schimbat la o zi după ce o dietă în întregime de origine animală a ajuns în intestin și a revenit la structura ei inițială două zile după încheierea dietei, la unsprezece voluntari recrutați — zece pe fiecare braț de dietă de cinci zile, nouă ducând la capăt ambele brațe."
     source: s1
   - fact: "Într-un studiu cu alimentație controlată pe zece subiecți, compoziția s-a schimbat măsurabil în 24 de ore de la schimbarea dietei, în timp ce identitatea de enterotip a rămas stabilă pe tot studiul de 10 zile."
     source: s2
-  - fact: "În medie, 60 % dintre cele aproximativ 200 de tulpini bacteriene din intestinul unui adult au fost păstrate de-a lungul unei perioade de recoltare de cinci ani, la 37 de adulți americani."
+  - fact: "În medie, 60 % dintre cele aproximativ 200 de tulpini bacteriene din intestinul unui adult au fost păstrate de-a lungul unei perioade de recoltare de cinci ani, la 37 de adulți americani."
     source: s3
   - fact: "După un amestec de patru zile de meropenem, gentamicină și vancomicină, doisprezece bărbați sănătoși au revenit aproape la compoziția inițială în circa 1,5 luni, dar nouă specii obișnuite erau încă nedetectabile la majoritatea dintre ei la 180 de zile."
     source: s4
@@ -72,7 +72,7 @@ images:
   preview: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-preview.webp"
   previewAlt: "Ilustrație: bacterii intestinale dolofane, în formă de bastonaș, și perechi de celule rotunde mici, așezate pe un fragment de fibră vegetală"
   plate: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-plate-en.webp"
-  plateLines: "Întâi — mâncarea schimbă amestecul într-o zi · Apoi — două zile mai târziu alunecă înapoi · Rezultat — 60 % dintre tulpini rămân ani întregi"
+  plateLines: "Întâi — mâncarea schimbă amestecul într-o zi · Apoi — două zile mai târziu alunecă înapoi · Rezultat — 60 % dintre tulpini rămân ani întregi"
   hero: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-hero.webp"
   heroAlt: "Ilustrație: două rânduri de câte zece grupuri de bacterii intestinale în mucus, în timp ce hrana plutește spre ele; în rândul de mai târziu șase grupuri sunt neschimbate, iar patru sunt înlocuite de nou-veniți"
 referral:
@@ -107,7 +107,7 @@ Grupul lui Wu a testat stratul mai adânc și l-a găsit neclintit. Identitatea 
 
 ## Partea care nu se mișcă
 
-Cel mai direct răspuns la „pot să o iau de la capăt” vine din numărarea tulpinilor, nu a speciilor. Faith și colegii au secvențiat scaunul a 37 de adulți americani [s3] la intervale care ajungeau până la cinci ani [s3] și au găsit că, în medie, 60 % dintre cele aproximativ 200 de tulpini microbiene din intestinul unui adult au fost păstrate de-a lungul acelei ferestre de cinci ani [s3]. Extrapolând curba de dispariție, au conchis că cele mai multe tulpini dintr-un om sunt locatari pentru decenii [s3].
+Cel mai direct răspuns la „pot să o iau de la capăt” vine din numărarea tulpinilor, nu a speciilor. Faith și colegii au secvențiat scaunul a 37 de adulți americani [s3] la intervale care ajungeau până la cinci ani [s3] și au găsit că, în medie, 60 % dintre cele aproximativ 200 de tulpini microbiene din intestinul unui adult au fost păstrate de-a lungul acelei ferestre de cinci ani [s3]. Extrapolând curba de dispariție, au conchis că cele mai multe tulpini dintr-un om sunt locatari pentru decenii [s3].
 
 Acesta este numărul care hotărăște mitul. Intestinul tău nu este o tablă. Este un cartier cu o populație așezată de mult, iar trei zile schimbă ce fac locatarii, nu cine sunt ei.
 

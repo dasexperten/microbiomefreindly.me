@@ -181,3 +181,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - zh-Hans card alt: "糖会引起口腔癌吗？ — 一位女性深夜在自家阳台上嚼着东西，手里端着一杯葡萄酒"
 - zh-Hans card question: "糖会引起口腔癌吗？"
 - zh-Hans plate lines: "首先 — 糖和酒精到达牙菌斑 · 接着 — 微生物造出致癌物 · 结果 — 多肽杀死 91.37%，不是全部"
+
+- ko preview alt: "일러스트: 옅은 법랑질 위 끈적한 막에 둥근 세균의 사슬들과 싹을 내는 효모가 붙들려 있고, 얇아진 한 자리가 연둣빛으로 빛난다"
+- ko hero alt: "일러스트: 법랑질 위 치태 껍질 속 미생물들이 아세트알데하이드를 내놓고, 펩타이드가 대부분을 잠재우지만 가려진 세 세포는 효소가 껍질을 녹일 때까지 살아남는다"
+- ko card alt: "설탕이 구강암을 일으키나요? — 한 여자가 늦은 밤 발코니에서 와인 잔을 들고 무언가를 씹고 있다"
+- ko card question: "설탕이 구강암을 일으키나요?"
+- ko plate lines: "먼저 — 설탕과 술이 치태에 닿는다 · 그다음 — 미생물이 발암물질을 만든다 · 결과 — 펩타이드는 91.37 %만 죽였다"
+
+- ms preview alt: "Ilustrasi: rantai bakteria bulat dan yis yang bertunas terpegang dalam lapisan melekit di atas enamel pucat, satu tompok yang menipis bercahaya limau nipis"
+- ms hero alt: "Ilustrasi: mikrob dalam cengkerang plak pada enamel melepaskan asetaldehid; satu peptida mendiamkan kebanyakannya, tiga sel yang berlindung terus hidup sehingga enzim melarutkan cengkerang itu"
+- ms card alt: "Adakah gula punca kanser mulut? — seorang wanita di balkoninya pada larut malam, sedang mengunyah, segelas wain di tangan"
+- ms card question: "Adakah gula punca kanser mulut?"
+- ms plate lines: "Mula-mula — gula dan alkohol sampai ke plak · Kemudian — mikrob menghasilkan karsinogen · Hasilnya — peptida membunuh 91.37 %, bukan semua"

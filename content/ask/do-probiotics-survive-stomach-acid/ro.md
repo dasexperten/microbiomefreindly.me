@@ -21,7 +21,7 @@ keyFacts:
     source: s1
   - fact: "Ridicarea pH-ului gastric cu un medicament care blochează acidul a crescut numărul liniilor fondatoare din intestinul subțire superior de până la 6,8 ori — în timp ce numărul total de bacterii nu s-a schimbat semnificativ."
     source: s1
-  - fact: "Celulele libere de Lactobacillus plantarum IS-10506 au trecut de un model dinamic al intestinului superior în proporție de 18,5 %; microîncapsulată, aceeași tulpină a ajuns la 84,5 %, în timp ce Enterococcus faecium IS-27526 a urcat doar de la 15,0 % la 15,7 %."
+  - fact: "Celulele libere de Lactobacillus plantarum IS-10506 au trecut de un model dinamic al intestinului superior în proporție de 18,5 %; microîncapsulată, aceeași tulpină a ajuns la 84,5 %, în timp ce Enterococcus faecium IS-27526 a urcat doar de la 15,0 % la 15,7 %."
     source: s2
   - fact: "O tulpină formatoare de spori, Heyndrickxia coagulans LMG S-24828, a arătat o supraviețuire robustă și dovezi de germinare semnificativă a sporilor în intestinul uman — o tulpină, într-un singur studiu co-semnat de industrie."
     source: s3
@@ -33,7 +33,7 @@ faq:
   - q: "Să iau probioticul cu mâncare sau pe stomacul gol?"
     a: "Mecanica publicată arată spre mâncare, dintr-un motiv banal: masa tamponează stomacul. Bove și colegii au găsit o supraviețuire mai mare a Lactobacillus plantarum WCFS1 în purtători complecși, bogați în nutrienți, într-un simulator oro-gastro-intestinal, iar Pitino și colegii au înregistrat o supraviețuire bună pentru șapte tulpini de Lactobacillus rhamnosus livrate într-o brânză-model. Ambele au fost modele de laborator, nu oameni, și niciunul nu a comparat cu-mâncare față de fără-mâncare pe un produs real și un rezultat de sănătate. Tratează asta ca mecanică plauzibilă, nu ca instrucțiune."
   - q: "Ajută într-adevăr capsulele și învelișurile?"
-    a: "Uneori, și de la tulpină la tulpină. În același model dinamic al intestinului superior, microîncapsularea a ridicat o tulpină de peste patru ori — de la 18,5 % la 84,5 % — și a lăsat-o pe cealaltă practic acolo unde era, de la 15,0 % la 15,7 %. Aceasta este forma cinstită a lucrurilor: un înveliș nu este o însușire a tehnologiei, ci a perechii, și trebuie demonstrat pentru organismul pe care îl îmbracă."
+    a: "Uneori, și de la tulpină la tulpină. În același model dinamic al intestinului superior, microîncapsularea a ridicat o tulpină de peste patru ori — de la 18,5 % la 84,5 % — și a lăsat-o pe cealaltă practic acolo unde era, de la 15,0 % la 15,7 %. Aceasta este forma cinstită a lucrurilor: un înveliș nu este o însușire a tehnologiei, ci a perechii, și trebuie demonstrat pentru organismul pe care îl îmbracă."
   - q: "Sunt probioticele pe bază de spori mai bune decât cele cu Lactobacillus?"
     a: "Sunt mai bune la singura treabă de a trece de acid, pentru că un spor este un obiect adormit, deshidratat și blindat, nu o celulă vie cu o membrană de apărat. Mai bun la supraviețuit nu înseamnă mai bun la ajutat. Ce face un spor după ce germinează este o întrebare separată, cu dovezi separate, iar răspunsul se dă pe tulpină, niciodată pe gen."
   - q: "Dacă găsesc tulpina în scaunul meu, înseamnă că a funcționat?"
@@ -94,7 +94,7 @@ images:
   preview: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-preview.webp"
   previewAlt: "Ilustrație: o bacterie în formă de bastonaș care poartă un spor blindat și trei spori liberi rămân întregi în acid, în timp ce bastonașele fragile din jur se prăbușesc"
   plate: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-plate-en.webp"
-  plateLines: "Întâi — mulțimea întâlnește acidul · Apoi — sporii trec, celulele fragile cad · Rezultat — ajung 18,5 %, puține se așază"
+  plateLines: "Întâi — mulțimea întâlnește acidul · Apoi — sporii trec, celulele fragile cad · Rezultat — ajung 18,5 %, puține se așază"
   hero: "/assets/img/mbf/ask/do-probiotics-survive-stomach-acid/do-probiotics-survive-stomach-acid-hero.webp"
   heroAlt: "Ilustrație: bacteriile înghițite trec prin acidul gastric; cele mai multe bastonașe fragile se prăbușesc, sporii și un ciorchine cu coajă trec întregi, iar la mucoasa intestinului doi supraviețuitori se așază în mucus, ceilalți trec mai departe"
 referral:
@@ -135,7 +135,7 @@ Apoi rezerva, care nu este una mică: a fost o singură tulpină, într-un singu
 
 Celălalt levier este ambalarea, și aici există un număr de ținut minte.
 
-Surono și colegii au trecut două tulpini probiotice printr-un model dinamic, controlat de calculator, al intestinului superior uman. Ca celule libere, au ieșit la celălalt capăt cu o supraviețuire de circa 18,5 % pentru *Lactobacillus plantarum* IS-10506 și 15,0 % pentru *Enterococcus faecium* IS-27526 [s2]. Microîncapsulează-le și *L. plantarum* urcă la 84,5 % — în timp ce *E. faecium* abia se clintește, ajungând la 15,7 % [s2]. Același înveliș, același model, rezultat opus. Încapsularea nu este o soluție universală. Este o soluție care trebuie demonstrată pentru tulpina pe care o îmbracă.
+Surono și colegii au trecut două tulpini probiotice printr-un model dinamic, controlat de calculator, al intestinului superior uman. Ca celule libere, au ieșit la celălalt capăt cu o supraviețuire de circa 18,5 % pentru *Lactobacillus plantarum* IS-10506 și 15,0 % pentru *Enterococcus faecium* IS-27526 [s2]. Microîncapsulează-le și *L. plantarum* urcă la 84,5 % — în timp ce *E. faecium* abia se clintește, ajungând la 15,7 % [s2]. Același înveliș, același model, rezultat opus. Încapsularea nu este o soluție universală. Este o soluție care trebuie demonstrată pentru tulpina pe care o îmbracă.
 
 Contează și mâncarea, din motivul banal că tamponează. Bove și colegii au trecut *L. plantarum* WCFS1 printr-un simulator oro-gastro-intestinal, în purtători diferiți, și au găsit o supraviețuire mai mare în matrici complexe, bogate în nutrienți [s9]. Pitino și colegii au livrat șapte tulpini de *L. rhamnosus* în interiorul unei brânze-model, printr-un model gastric dinamic, și au înregistrat o supraviețuire bună, trei dintre cele șapte depășind tulpina de referință *L. rhamnosus* GG la etapa gastrică [s6]. O capsulă înghițită la masă este într-un alt stomac decât o capsulă înghițită pe stomacul gol.
 

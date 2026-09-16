@@ -159,3 +159,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ro card alt: "Ce provoacă de fapt halena? — o femeie suflă în palma făcută căuș, la propria ușă de la intrare"
 - ro card question: "Ce provoacă de fapt halena?"
 - ro plate lines: "Mai întâi — microbii gurii mănâncă proteine · Apoi — o enzimă eliberează sulful · Rezultat — gena a scăzut cu 98 %, în eprubetă"
+
+- zh-Hans preview alt: "插画：梭形和短粗的细菌待在圆润舌乳头之间的舌苔里，细小的金色气泡正在上升"
+- zh-Hans hero alt: "插画：口腔厌氧菌体内塞满切割硫的酶，不断放出细小气泡；来自乳酸菌的液体冲刷过来，那些酶几乎消失"
+- zh-Hans card alt: "口臭到底是什么引起的？ — 一位女性在自家门口对着拢起的手心呼气"
+- zh-Hans card question: "口臭到底是什么引起的？"
+- zh-Hans plate lines: "首先 — 口腔微生物吃蛋白质 · 接着 — 一种酶把硫切下来 · 结果 — 那个基因在培养皿里降了 98%"

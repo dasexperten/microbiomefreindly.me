@@ -23,9 +23,9 @@ keyFacts:
     source: s3
   - fact: "La un probiotic cu 11 tulpini, așezarea pe mucoasa intestinului a ținut de persoană, de regiune și de tulpină, putea fi prezisă din trăsături măsurate înainte de prima capsulă — iar testarea scaunului nu îi deosebea pe cei colonizați de ceilalți."
     source: s2
-  - fact: "Într-un studiu de 12 săptămâni pe 120 de adulți supraponderali, greutatea a scăzut cu 1,98 kg față de 0,95 kg pe placebo, doar în jumătatea cu diversitate scăzută; obiectivul principal, grăsimea corporală, nu a fost atins."
+  - fact: "Într-un studiu de 12 săptămâni pe 120 de adulți supraponderali, greutatea a scăzut cu 1,98 kg față de 0,95 kg pe placebo, doar în jumătatea cu diversitate scăzută; obiectivul principal, grăsimea corporală, nu a fost atins."
     source: s1
-  - fact: "După două săptămâni cu 30 × 10⁹ unități formatoare de colonii (UFC) pe zi, tulpinile au apărut în scaun la 1–2 zile după prima capsulă și au dispărut la 3,4 până la 8,5 zile după ultima, în funcție de tulpină."
+  - fact: "După două săptămâni cu 30 × 10⁹ unități formatoare de colonii (UFC) pe zi, tulpinile au apărut în scaun la 1–2 zile după prima capsulă și au dispărut la 3,4 până la 8,5 zile după ultima, în funcție de tulpină."
     source: s5
   - fact: "Pentru diareea asociată antibioticelor, o doză mai mare a însemnat mai multă protecție; pentru enterocolita necrozantă, prevenirea dermatitei atopice, tranzitul lent și ameliorarea colonului iritabil nu s-a putut identifica nicio relație doză–răspuns."
     source: s4
@@ -113,11 +113,11 @@ Așa că „prietena mea ia un probiotic” poartă cam tot atâta informație c
 
 Nici măcar o tulpină identică nu intră într-o cameră identică. Zmora și colegii au dat unor voluntari sănătoși o combinație probiotică de 11 tulpini [s2] și apoi s-au uitat direct, prin endoscopie, dacă se așezase pe mucoasa intestinului sau doar trecuse pe acolo. Unii oameni au fost primitori, alții rezistenți, iar tiparul a ținut de persoană, de regiune și de tulpină — putea fi prezis din trăsăturile de gazdă și de microbiom măsurate înainte de prima capsulă [s2]. Detaliul care ar trebui să încheie o mulțime de certuri: dacă tulpina apărea sau nu în scaun nu îi deosebea pe cei colonizați de cei necolonizați [s2]. A elimina nu înseamnă a se așeza.
 
-Comunitățile de plecare diferă mai mult decât cred cei mai mulți. Secvențiind bacteriile intestinale a 292 de adulți danezi, Le Chatelier și colegii au găsit că aproximativ 23 % purtau un număr mic de gene bacteriene [s7] și că acest grup, sărac în bogăție genetică, avea mai multă grăsime corporală, mai multă rezistență la insulină și mai multă inflamație decât restul [s7].
+Comunitățile de plecare diferă mai mult decât cred cei mai mulți. Secvențiind bacteriile intestinale a 292 de adulți danezi, Le Chatelier și colegii au găsit că aproximativ 23 % purtau un număr mic de gene bacteriene [s7] și că acest grup, sărac în bogăție genetică, avea mai multă grăsime corporală, mai multă rezistență la insulină și mai multă inflamație decât restul [s7].
 
 ## Descoperirea despre cei care răspund — cui i-a folosit și cât de mare e de fapt
 
-Cel mai limpede test pe care îl cunosc a apărut anul acesta. Într-un studiu randomizat, dublu-orb, de 12 săptămâni, 120 de adulți supraponderali au luat fie un preparat cu *Lactiplantibacillus plantarum* inactivat termic, fie placebo [s1]. Pe tot grupul, răspunsul a fost nimic — niciun rezultat clinic nu a despărțit brațele [s1]. Apoi autorii s-au întors la probele de scaun luate înainte de primul plic și i-au împărțit pe toți după cât de diversă le fusese flora la început. În jumătatea cu diversitate scăzută, greutatea a scăzut cu 1,98 kg față de 0,95 kg pe placebo, IMC cu 0,74 puncte față de 0,31, iar leptina cu 2,07 ng/mL față de 0,24 [s1]. În jumătatea cu diversitate mare nu a apărut nimic coerent [s1].
+Cel mai limpede test pe care îl cunosc a apărut anul acesta. Într-un studiu randomizat, dublu-orb, de 12 săptămâni, 120 de adulți supraponderali au luat fie un preparat cu *Lactiplantibacillus plantarum* inactivat termic, fie placebo [s1]. Pe tot grupul, răspunsul a fost nimic — niciun rezultat clinic nu a despărțit brațele [s1]. Apoi autorii s-au întors la probele de scaun luate înainte de primul plic și i-au împărțit pe toți după cât de diversă le fusese flora la început. În jumătatea cu diversitate scăzută, greutatea a scăzut cu 1,98 kg față de 0,95 kg pe placebo, IMC cu 0,74 puncte față de 0,31, iar leptina cu 2,07 ng/mL față de 0,24 [s1]. În jumătatea cu diversitate mare nu a apărut nimic coerent [s1].
 
 Acum rezervele, spuse tare, pentru că ele contează mai mult decât rezultatul. Obiectivul principal — grăsimea corporală totală la o scanare DXA — nu a fost atins [s1]. Împărțirea după diversitate a fost o analiză secundară, pe subgrupuri de circa 25 de oameni [s1]. Iar sponsorul a dezvoltat tulpina [s1]. Am scris pe larg despre acest studiu în [știrea despre diversitatea de plecare](/news/probiotic-responders-baseline-gut-diversity). Este o ipoteză care merită testată ca lumea, nu o descoperire în jurul căreia să-ți reorganizezi cumpărăturile.
 
@@ -125,7 +125,7 @@ Acum rezervele, spuse tare, pentru că ele contează mai mult decât rezultatul.
 
 Ouwehand a trecut în revistă ce se știe despre cât îți trebuie. Pentru diareea asociată antibioticelor, și meta-analizele, și studiile care au comparat două doze cap la cap au găsit că mai multe organisme înseamnă mai multă protecție [s4]. Pentru enterocolita necrozantă, prevenirea dermatitei atopice, tranzitul intestinal lent și ameliorarea simptomelor de colon iritabil nu s-a putut identifica nicio relație doză–răspuns [s4] — ceea ce, așa cum sinteza are grijă să spună, nu dovedește că nu există; datele sunt pur și simplu prea subțiri pentru o concluzie [s4].
 
-Durata este mai brutală. Treizeci de adulți sănătoși au luat 30 × 10⁹ UFC pe zi timp de două săptămâni [s5]. Tulpinile au apărut în scaun la 1–2 zile după prima capsulă [s5] și au dispărut între 3,4 și 8,5 zile după ultima, în funcție de tulpină [s5]. Nimic de aici nu este chirie pe viață. Oprește-te și, în aproximativ o săptămână, tulpinile nu mai sunt de găsit în scaun.
+Durata este mai brutală. Treizeci de adulți sănătoși au luat 30 × 10⁹ UFC pe zi timp de două săptămâni [s5]. Tulpinile au apărut în scaun la 1–2 zile după prima capsulă [s5] și au dispărut între 3,4 și 8,5 zile după ultima, în funcție de tulpină [s5]. Nimic de aici nu este chirie pe viață. Oprește-te și, în aproximativ o săptămână, tulpinile nu mai sunt de găsit în scaun.
 
 ## Ce poți verifica de fapt la tine
 

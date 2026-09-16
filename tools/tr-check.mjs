@@ -115,10 +115,18 @@ for (const type of TYPES) {
      * Converting 6 oz to about 180 ml for a reader who has never held an ounce is a service, not an
      * invention, and the translation marks it as approximate. Anything introduced by such a word is
      * let through; a bare new number beside a source marker still fails. */
-    const APPROX = /(около|приблизно|приблизительно|ок\.|примерно|ca\.|etwa|rund|aprox\.|aproximadamente|cerca de|khoảng|близько|około|environ|circa|yaklaşık|ประมาณ|約|약|大约)[\s\u00a0]*$/i;
+    const APPROX = /(около|приблизно|приблизительно|ок\.|примерно|ca\.|etwa|rund|aprox\.|aproximadamente|cerca de|khoảng|близько|około|environ|circa|yaklaşık|kira-kira|sekitar|humigit-kumulang|ประมาณ|約|약|大约)[\s\u00a0]*$/i;
+    /* A figure written the way the language counts is not a new figure. Japanese says 500億 for fifty
+     * billion, Chinese 50亿, Korean 500억 — the digits differ from the English because the grouping
+     * does, not because the number changed. Three translators wrote 50 × 10⁹ instead, in prose that
+     * would never say it that way, purely to satisfy this check. A figure glued to a myriad or a
+     * decimal magnitude character is let through. */
+    const MYRIAD = /^[\s\u00a0]*[万萬億亿兆千百십억만천조]/;
     const approxNums = new Set();
     for (const m of tb.matchAll(/(\d[\d.,\s\u00a0]*\d|\d)/g)) {
-      if (APPROX.test(tb.slice(Math.max(0, m.index - 20), m.index))) approxNums.add(m[0].replace(/[\s\u00a0.,]/g, ''));
+      const before = tb.slice(Math.max(0, m.index - 20), m.index);
+      const after = tb.slice(m.index + m[0].length, m.index + m[0].length + 4);
+      if (APPROX.test(before) || MYRIAD.test(after)) approxNums.add(m[0].replace(/[\s\u00a0.,]/g, ''));
     }
     const invented = [...new Set(pool.filter((x) => x.length > 2 && !en_n.includes(x) && !approxNums.has(x)))];
     if (invented.length) bad(rel, `figures this file has that the English does not: ${invented.slice(0, 8).join(', ')}`);

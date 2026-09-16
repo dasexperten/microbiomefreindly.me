@@ -208,3 +208,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ms card alt: "Baikkah si pemakan lendir? — seorang wanita memilih sayur berdaun di dewan pasar berbumbung pada pagi Sabtu"
 - ms card question: "Baikkah si pemakan lendir?"
 - ms plate lines: "Mula-mula — ia meragut salutan lendir usus · Kemudian — lapisan usus makan lalu menghasilkan lebih banyak · Hasilnya — tanpa serat, salutan itu menipis"
+
+- tl preview alt: "Ilustrasyon: mga hugis-itlog na bacteria na nakahimlay sa gitna ng nakaunat na hibla ng mucus sa ibabaw ng lining ng bituka, may isang hiblang nanlalapnos kung saan kumakain ang isang selula"
+- tl hero alt: "Ilustrasyon: nginangatngat ng mga hugis-itlog na bacteria ang mucus layer sa ibabaw ng lining ng colon, na sumisipsip ng gintong panggatong at gumagawa ng sariwang mucus; mas sa kanan, inuubos ng nagsisiksikang bacteria ang layer hanggang maging manipis na belo"
+- tl card alt: "Mabuti ba ang mucus eater? — isang babaeng pumipili ng madahong gulay sa may bubong na palengke tuwing Sabado ng umaga"
+- tl card question: "Mabuti ba ang mucus eater?"
+- tl plate lines: "Una — nginangatngat nito ang mucus ng bituka · Tapos — kumakain ang lining at gumagawa pa · Kaya — walang fiber, nanipis ang balot"
+
+- ja preview alt: "イラスト：腸の粘膜を覆って引き伸ばされた粘液の糸のあいだに卵形の細菌が横たわり、一本の糸は細胞が食べているところでほつれている"
+- ja hero alt: "イラスト：卵形の細菌が大腸の粘膜を覆う粘液層を削り取り、粘膜は金色の燃料を取り込んで新しい粘液をつくる。さらに右では、ひしめく細菌が層を薄い膜になるまですり減らしている"
+- ja card alt: "粘液を食べる菌は味方？ — 土曜の朝、女性が屋根のある市場で葉物野菜を選んでいる"
+- ja card question: "粘液を食べる菌は味方？"
+- ja plate lines: "まず — 腸の粘液の外套を削って食べる · 次に — 粘膜が燃料を得て、もっとつくる · 結果 — 繊維がなければ外套は薄くなる"
