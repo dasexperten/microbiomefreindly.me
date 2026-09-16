@@ -230,3 +230,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - tl card alt: "Walang hangin ba sa bagong gut? — isang bagong inang nakasandal sa upuan sa tabi ng bintana sa unang liwanag"
 - tl card question: "Walang hangin ba sa bagong gut?"
 - tl plate lines: "Una — may hangin pang natitira sa bagong gut · Tapos — sinesolyuhan ng isang taba ang pader ng mikrobyo · Kaya — tinuturuan ng parehong taba ang immune cell"
+
+- th preview alt: "ภาพประกอบ: แท่งสั้นของ Bacteroides fragilis ต้องแสงจากด้านหลังบนพื้นผิวลำไส้ที่ยังอ่อนวัย มีขอบเยื่อหุ้มที่ปิดสนิทหนึ่งขอบเปล่งประกายสีเขียวมะนาว"
+- th hero alt: "ภาพประกอบ: แท่งสั้นตัวหนึ่งรักษาขอบเยื่อหุ้มที่ปิดสนิทของมันไว้ขณะที่ละอองอากาศลอยผ่านไป แล้วไขมันเยื่อหุ้มชนิดเดียวกันนั้นก็ถูกส่งต่อให้เซลล์ภูมิคุ้มกันที่ยังอ่อนวัย ซึ่งเติบโตขึ้นด้วยการอ่านมัน"
+- th card alt: "ลำไส้ทารกแรกเกิดไร้อากาศไหม? — แม่มือใหม่นั่งพิงพนักเก้าอี้ริมหน้าต่างในแสงแรกของวัน"
+- th card question: "ลำไส้ทารกแรกเกิดไร้อากาศไหม?"
+- th plate lines: "ก่อนอื่น — อากาศยังค้างอยู่ในลำไส้ที่เพิ่งเกิด · จากนั้น — ไขมันตัวหนึ่งปิดผนังของจุลินทรีย์ให้สนิท · ผลลัพธ์ — ไขมันตัวเดียวกันนั้นสอนเซลล์ภูมิคุ้มกัน"

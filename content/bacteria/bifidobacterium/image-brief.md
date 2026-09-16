@@ -130,8 +130,8 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 
 - uk preview alt: "Ілюстрація: вилчасті клітини Bifidobacterium у формі літери Y у тихій кишені прозорого кишкового вмісту, у розвилці однієї — коралова крапля"
 - uk hero alt: "Ілюстрація: молочні цукри проходять крізь вистилку кишківника немовляти неторканими, вилчасті палички Bifidobacterium зброджують їх на лаймові краплі ацетату, і дев'ятнадцять із двадцяти клітин праворуч — їхні"
-- uk card alt: "Чи кожна біфідобактерія хороша? — жінка під тридцять сидить із горнятком на дивані у світлі лампи"
-- uk card question: "Чи кожна біфідобактерія хороша?"
+- uk card alt: "Чи всі вони хороші? — жінка під тридцять сидить із горнятком на дивані у світлі лампи"
+- uk card question: "Чи всі вони хороші?"
 - uk plate lines: "Спершу — молочні цукри проходять повз немовля · Потім — ці палички їдять те, чого не може вона · Наслідок — понад 90 % її кишківника їхні"
 
 - pl preview alt: "Ilustracja: rozwidlone komórki Bifidobacterium w kształcie litery Y w spokojnej kieszeni przejrzystej treści jelita, w jednym rozwidleniu koralowa kropla"

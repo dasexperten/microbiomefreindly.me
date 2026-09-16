@@ -580,7 +580,7 @@
         "plateLines": "Önce — süt şekerleri bebeğe uğramaz · Sonra — bu çubuklar onun yiyemediğini yer · Sonuç — bağırsağının %90'ından fazlası onların"
       },
       "uk": {
-        "question": "Чи кожна біфідобактерія хороша?",
+        "question": "Чи всі вони хороші?",
         "plateLines": "Спершу — молочні цукри проходять повз немовля · Потім — ці палички їдять те, чого не може вона · Наслідок — понад 90 % її кишківника їхні"
       },
       "vi": {
@@ -877,7 +877,7 @@
         "plateLines": "Önce — havanın girmediği yere saklanır · Sonra — komşularının düşürdüğünü yer · Sonuç — mukoza beslenir; hepsinin %5'inden fazlası"
       },
       "uk": {
-        "question": "Чим живиться вистилка кишківника?",
+        "question": "Чим живиться стінка?",
         "plateLines": "Спершу — вона ховається там, куди не дістає повітря · Потім — їсть те, що кидають сусіди · Наслідок — вистилка нагодована; понад 5 % усіх"
       },
       "vi": {
@@ -1755,6 +1755,10 @@
         "question": "Значит, испытание провалилось?",
         "plateLines": "Сначала — мёртвые клетки ложатся в слизь · Затем — клетка кишки выпускает ГПП-1 · Итог — 30 млрд клеток, сдвига нет"
       },
+      "th": {
+        "question": "งานทดลองล้มเหลวไหม?",
+        "plateLines": "ก่อนอื่น — เซลล์ที่ตายแล้วลงหลักในเมือก · จากนั้น — เซลล์ลำไส้หนึ่งเซลล์ปล่อย GLP-1 ออกมา · ผลลัพธ์ — เซลล์ 30 พันล้านตัว แต่ไม่มีอะไรขยับ"
+      },
       "tl": {
         "question": "Pumalpak ba ang trial?",
         "plateLines": "Una — pumupwesto sa mucus ang mga patay na selula · Tapos — naglalabas ng GLP-1 ang isang selula ng gut · Kaya — 30 bilyong selula, walang gumalaw"
@@ -1849,6 +1853,10 @@
       "ru": {
         "question": "Сахар вызывает рак во рту?",
         "plateLines": "Сначала — сахар и спирт попадают в налёт · Затем — микробы делают канцероген · Итог — пептид убил 91,37 %, не всех"
+      },
+      "th": {
+        "question": "น้ำตาลก่อมะเร็งช่องปากไหม?",
+        "plateLines": "ก่อนอื่น — น้ำตาลและแอลกอฮอล์ไปถึงคราบพลัค · จากนั้น — จุลินทรีย์สร้างสารก่อมะเร็ง · ผลลัพธ์ — เปปไทด์ฆ่าได้ 91.37 % ไม่ใช่ทั้งหมด"
       },
       "tl": {
         "question": "Nakakacancer ba ang asukal sa bibig?",

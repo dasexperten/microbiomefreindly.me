@@ -121,8 +121,8 @@ entity:
   ncbiTaxId: "1678"
 images:
   card: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-card-uk.webp"
-  cardLine: "Чи кожна біфідобактерія хороша?"
-  cardAlt: "Чи кожна біфідобактерія хороша? — жінка під тридцять сидить із горнятком на дивані у світлі лампи"
+  cardLine: "Чи всі вони хороші?"
+  cardAlt: "Чи всі вони хороші? — жінка під тридцять сидить із горнятком на дивані у світлі лампи"
   og: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-og-uk.jpg"
   preview: "/assets/img/mbf/bacteria/bifidobacterium/bifidobacterium-preview.webp"
   previewAlt: "Ілюстрація: вилчасті клітини Bifidobacterium у формі літери Y у тихій кишені прозорого кишкового вмісту, у розвилці однієї — коралова крапля"

@@ -94,8 +94,8 @@ entity:
   ncbiTaxId: "853"
 images:
   card: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-card-uk.webp"
-  cardLine: "Чим живиться вистилка кишківника?"
-  cardAlt: "Чим живиться вистилка кишківника? — жінка за двадцять їсть миску вівсянки на балконі в останньому сонці"
+  cardLine: "Чим живиться стінка?"
+  cardAlt: "Чим живиться стінка? — жінка за двадцять їсть миску вівсянки на балконі в останньому сонці"
   og: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-og-uk.jpg"
   preview: "/assets/img/mbf/bacteria/faecalibacterium-prausnitzii/faecalibacterium-prausnitzii-preview.webp"
   previewAlt: "Ілюстрація: тонкі паличкоподібні бактерії лежать у щільному слизі над вистилкою товстої кишки, від них донизу пливуть дрібні коралові намистини"

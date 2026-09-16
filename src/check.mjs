@@ -17,7 +17,10 @@ const CJK = new Set(['ja', 'ko', 'zh-Hans']); const CYR = new Set(['ru', 'uk', '
 let fails = 0, warns = 0;
 const fail = (f, m) => { fails++; console.log(`FAIL ${f}: ${m}`); };
 const warn = (f, m) => { warns++; console.log(`WARN ${f}: ${m}`); };
-const words = (s) => String(s || '').trim().split(/\s+/).filter(Boolean).length;
+/* French sets a space before ? ! : ; — correct typography, and the old counter read the lone mark as
+ * a word, so seven perfectly good French questions failed a 3–6 word slot at "7 words". A token made
+ * only of punctuation is not a word in any language. */
+const words = (s) => String(s || '').trim().split(/\s+/).filter((w) => w && /[\p{L}\p{N}]/u.test(w)).length;
 const norm2 = (x) => String(x || '').toLowerCase().replace(/[^\p{L}\p{N}]+/gu, '');
 
 /* ---------- source checks ---------- */
