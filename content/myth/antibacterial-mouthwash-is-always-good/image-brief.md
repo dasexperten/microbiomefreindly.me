@@ -66,6 +66,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Полоскать рот каждый день?"
 - en plate lines: "First — the rinse does not choose · Then — the mouth community thins · So — nitrite falls by 90 %"
 - ru plate lines: "Сначала — антисептик не выбирает · Затем — своих бактерий меньше · Итог — нитрита на 90 % меньше"
+- de preview alt: "Illustration: eine klare Spülung zieht über einen gemischten Rasen aus Stäbchen, runden Zellen und Spindeln und lässt ihn hinter ihrer Kante dünn zurück"
+- de hero alt: "Illustration: eine Spülung wischt den gemischten Bakterienrasen auf der Zungenoberfläche fort, und der Strom von Teilchen, den er zu einem Blutgefäß schickt, fällt auf ein Zehntel"
+- de card alt: "Soll ich täglich spülen? — eine Frau hält im Flur inne, den Mantel halb an, kurz nach acht"
+- de card question: "Soll ich täglich spülen?"
+- de plate lines: "Zuerst — die Spülung wählt nicht aus · Dann — die Gemeinschaft im Mund dünnt aus · Ergebnis — Nitrit fällt um 90 %"
 
 **8. What must never appear**
 
@@ -88,3 +93,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** the advancing edge of a clear rinse — a thin liquid sheet with a rounded, beaded rim — rolling across the mixed mat: ahead of the rim the grooves are packed with plump rods, bunched round cells, paired cells and slender spindles; behind it the mat is thin and patchy with every shape reduced. The rim sharp at the centre, both sides softening away. The low rounded papillae read as a cell-scale landscape, never as an organ. Subject inside the middle 1.91:1 band. **World:** a soft, velvety biofilm mat over low rounded papillae and shaded grooves, half under a clear wash; soft rose evening light, low and warm-pink, from the right. **Accent:** lime on the beaded rim of the advancing rinse only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** one continuous grooved landscape read left to right under a soft tube-like vessel that runs along the top of the frame — on the left the packed mixed mat sends a broad stream of about forty particles up into a wide, relaxed stretch of the vessel; in the centre a clear rinse sweeps across the grooves; on the right the thinned, lopsided mat sends only four particles up into a slightly narrower stretch. **Light:** pale, cool backlight from behind the scene, rim-lighting every edge. **Accent:** gold on the rising particles only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face turned slightly away from the door, and the hand holding the keys, sharp; the hallway and the door behind falling soft. **Empty field:** left side, 45 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** five past eight in the morning, cool blue daylight from one small high window on the right, flat and shadow-light.
+
+- es preview alt: "Ilustración: un enjuague transparente avanza sobre un tapiz mixto de bacterias alargadas, redondas y en huso, y lo deja ralo detrás de su borde"
+- es hero alt: "Ilustración: un enjuague barre el tapiz mixto de bacterias de la superficie de la lengua, y el flujo de partículas que este envía hacia un vaso sanguíneo cae a la décima parte"
+- es card alt: "¿Me enjuago todos los días? — una mujer se detiene en el pasillo, con el abrigo a medio poner, pasadas las ocho"
+- es card question: "¿Me enjuago todos los días?"
+- es plate lines: "Primero — el enjuague no elige · Luego — la comunidad de la boca se adelgaza · Resultado — el nitrito cae un 90 %"

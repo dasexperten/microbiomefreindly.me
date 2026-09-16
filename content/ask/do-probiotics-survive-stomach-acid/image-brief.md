@@ -62,6 +62,11 @@ Shown as **proportion in the delicate lane**: of every twenty free rods that ent
 - ru card question: "С едой или натощак?"
 - en plate lines: "First — the crowd meets the acid · Then — spores pass, delicate cells fall · So — 18.5 % arrive, few settle"
 - ru plate lines: "Сначала — все вместе входят в кислоту · Затем — споры проходят, нежные гибнут · Итог — доходит 18,5 %, но не селится"
+- de preview alt: "Illustration: eine Stäbchenzelle mit gepanzerter Spore und drei freie Sporen liegen unversehrt in der Säure, während die zarten Stäbchen ringsum zerfallen"
+- de hero alt: "Illustration: geschluckte Bakterien durchqueren die Magensäure; die meisten freien Stäbchen zerfallen, Sporen und ein umhüllter Zellhaufen kommen unversehrt durch, an der Darmschleimhaut setzen sich zwei Überlebende im Schleim fest, andere treiben vorbei"
+- de card alt: "Zum Essen oder nüchtern? — ein Mann über seinem Mittagessen an einem Kantinentisch mitten am Tag"
+- de card question: "Zum Essen oder nüchtern?"
+- de plate lines: "Zuerst — alle treffen auf die Säure · Dann — Sporen kommen durch, zarte Zellen fallen · Ergebnis — 18,5 % kommen an, kaum eine bleibt"
 
 **8. What must never appear**
 
@@ -84,3 +89,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one rod carrying its oval spore at the end, with two or three free spores beside it, whole and dense, resting in a grainy acid field while slender delicate rods nearby are slumped and fading. Subject inside the middle 1.91:1 band. **World:** a dense, granular, pale acid medium; bright neutral midday light, crisp small shadows. **Accent:** coral on the spore coats only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** the delicate lane — about twenty free rods entering on the left, fewer than four whole on the right — beside the spores and the one shelled cluster passing unchanged; at far right the folded, mucus-covered lining where some survivors sink in and others drift past. **Light:** cool clear daylight from the right. **Accent:** gold on the survivors that settle into the mucus.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** his face and the glass of water held halfway up, sharp; the plate and the canteen behind falling soft. **Empty field:** right side, 45 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** ten past one in the afternoon, bright neutral daylight through a long window from the left, slightly cool, short crisp shadows.
+
+- es preview alt: "Ilustración: una bacteria con su espora acorazada y tres esporas sueltas siguen enteras en el ácido, mientras las bacterias delicadas de alrededor se deshacen"
+- es hero alt: "Ilustración: bacterias tragadas cruzan el ácido del estómago; la mayoría de las delicadas se deshace, las esporas y un grupo con cubierta pasan enteros, y en la mucosa intestinal dos supervivientes se asientan en el moco mientras otras pasan de largo"
+- es card alt: "¿Con comida o en ayunas? — un hombre ante su comida en la mesa de un comedor a media jornada"
+- es card question: "¿Con comida o en ayunas?"
+- es plate lines: "Primero — todas entran juntas en el ácido · Luego — pasan las esporas, caen las delicadas · Resultado — llega el 18,5 %, casi ninguna se queda"

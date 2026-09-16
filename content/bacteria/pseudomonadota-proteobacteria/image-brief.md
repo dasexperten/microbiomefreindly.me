@@ -33,6 +33,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Это правда плохие бактерии?"
 - en plate lines: "First — a few rods in an airless crowd · Then — the sore lining leaks oxygen · So — they bloom and the rest thin out"
 - ru plate lines: "Сначала — их мало в бескислородной толпе · Затем — стенка пропускает кислород · Итог — они множатся, других меньше"
+- de preview alt: "Illustration: kurze stäbchenförmige Bakterien sammeln sich in einem dünnen limettengrünen Dunst dicht über den runden Zellen der Darmschleimhaut"
+- de hero alt: "Illustration: wenige kurze Stäbchen leben unter vielen Darmbakterien an einer luftlosen Schleimhaut; als die Schleimhaut einen feinen Sauerstoffdunst durchlässt, vermehren sich die Stäbchen und die anderen werden weniger"
+- de card alt: "Sind das die bösen Bakterien? — eine Frau kniet in der Abendsonne vor den Bohnenreihen eines Schrebergartens"
+- de card question: "Sind das die bösen Bakterien?"
+- de plate lines: "Zuerst — wenige Stäbchen in luftloser Menge · Dann — die wunde Schleimhaut lässt Sauerstoff durch · Ergebnis — sie vermehren sich, der Rest schwindet"
 ```
 
 ## Editorial notes for Lisa, Otto and Marika (not prompt text)
@@ -60,3 +65,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a thin scatter of short straight rods, a few trailing fine flagella, hovering in a narrow band just above the lining; the nearest pair sharpest. Subject inside the middle 1.91:1 band. **World:** the rounded cobblestone tops of gut lining cells seen at a low glancing angle, a faint luminous haze hanging just above them; hazy late-morning light from the upper left, soft milky-warm temperature. **Accent:** lime on that thin haze band only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left, an airless stretch of lining under a dense mixed crowd with a few short rods; centre, a faint haze of oxygen beginning to seep from the lining; right, inside the haze, the rods multiplied into a large share and the other bacteria thinned. The eye reads left to right. **Light:** clean neutral daylight from high on the right, crisp soft-edged shadows. **Accent:** coral on the oxygen haze.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her eyes and the pod in her hand. **Empty field:** left, 46 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 17:30, low sun through the rows from behind her, warm gold.
+
+- es preview alt: "Ilustración: bacterias cortas en forma de bastón se agrupan en una neblina verde lima justo por encima de las células redondeadas de la mucosa intestinal"
+- es hero alt: "Ilustración: unos pocos bastones cortos viven entre muchas bacterias intestinales sobre una mucosa sin aire; cuando la mucosa deja escapar una leve neblina de oxígeno, los bastones se multiplican y los demás menguan"
+- es card alt: "¿Son las bacterias malas? — una mujer arrodillada junto a las hileras de frijol de un huerto bajo el sol de la tarde"
+- es card question: "¿Son las bacterias malas?"
+- es plate lines: "Primero — pocos bastones en una multitud sin aire · Luego — la mucosa herida deja pasar oxígeno · Resultado — se multiplican y el resto mengua"

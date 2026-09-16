@@ -54,6 +54,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Ферменты убивают бактерии?"
 - en plate lines: "First — a sugar web holds the plaque · Then — the enzyme cuts one link · So — the web falls, the cells live"
 - ru plate lines: "Сначала — сахарная сетка держит налёт · Затем — фермент режет одно звено · Итог — каркас рассыпается, клетки целы"
+- de preview alt: "Illustration: ein gefaltetes Enzymeiweiß hält eine Zuckerkette in seiner Furche und durchtrennt ein Glied, korallenrot markiert, in warmem Gegenlicht"
+- de hero alt: "Illustration: Ketten runder Bakterien in einem Netz aus Zuckerketten; Enzyme durchtrennen die Ketten an limettengrünen Stellen, und die befreiten Bakterien treiben unversehrt davon"
+- de card alt: "Töten Enzyme die Bakterien? — eine Frau schneidet Ananas und Papaya am Esstisch in der späten Vormittagssonne"
+- de card question: "Töten Enzyme die Bakterien?"
+- de plate lines: "Zuerst — ein Zuckernetz hält den Belag · Dann — das Enzym durchtrennt ein Glied · Ergebnis — das Netz fällt, die Zellen leben"
 
 Only these descriptive lines change per language; the pixels stay the same.
 
@@ -72,3 +77,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** the folded enzyme molecule at the centre with one sugar chain lying through its groove; the link being cut is the sharpest point, while the other chains of the web cross behind and soften away. Subject inside the middle 1.91:1 band. **World:** a loose web of translucent sugar chains suspended in clear, faintly syrupy fluid; warm honey backlight from behind the web, amber, glowing through the chains. **Accent:** coral on the one link being cut only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** a dense sugar web holding bead-chains of bacteria → enzyme molecules cutting the chains → short fragments and loose, whole chains of bacteria drifting free, left to right. **Light:** crisp cool north-window light from the upper right, clean soft shadows. **Accent:** lime on the cut points only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her eyes and the cut face of the pineapple under her hands. **Empty field:** left, 48 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 11:20, strong clear late-morning sun from the window on her left, warm, crisp short shadows.
+
+- es preview alt: "Ilustración: una proteína enzimática plegada sujeta una cadena de azúcar en su surco y corta un eslabón, marcado en coral, a contraluz cálida"
+- es hero alt: "Ilustración: cadenas de bacterias redondas atrapadas en una red de cadenas de azúcar; las enzimas cortan las cadenas en puntos de color lima y las bacterias liberadas se alejan intactas"
+- es card alt: "¿Las enzimas matan bacterias? — una mujer corta piña y papaya en la mesa del comedor bajo el sol de media mañana"
+- es card question: "¿Las enzimas matan bacterias?"
+- es plate lines: "Primero — una red de azúcar sostiene la placa · Luego — la enzima corta un eslabón · Resultado — la red cae, las células siguen vivas"

@@ -58,6 +58,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Он есть у всех?"
 - en plate lines: "First — sugar lands on the plaque · Then — they spin glue and make acid · So — the enamel under it dissolves"
 - ru plate lines: "Сначала — на налёт попадает сахар · Затем — прядут клей и дают кислоту · Итог — эмаль под ним растворяется"
+- de preview alt: "Illustration: Ketten ovaler Bakterien in klebrigen Fäden auf blassem, geriffeltem Zahnschmelz, am Rand ein limettengrüner Zuckerkristall"
+- de hero alt: "Illustration: Zucker löst sich zwischen Ketten ovaler Bakterien auf dem Zahnschmelz; sie spinnen klebrige Fäden, die sie festkleben, und geben Säure ab, und unter dem Säuredunst lockert sich die mineralische Oberfläche"
+- de card alt: "Hat wirklich jeder den Karieskeim? — ein junger Mann nimmt am Schreibtisch ein Bonbon aus einer Papiertüte"
+- de card question: "Hat wirklich jeder den Karieskeim?"
+- de plate lines: "Zuerst — Zucker landet auf dem Belag · Dann — sie spinnen Leim und machen Säure · Ergebnis — der Schmelz darunter löst sich auf"
 
 ---
 
@@ -78,3 +83,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** two or three short chains of oval cells caught in a glistening glucan web, the nearest chain sharpest, one sugar crystal resting at the web's edge. Subject inside the middle 1.91:1 band. **World:** tooth enamel as a cell-scale mineral landscape — the packed, faintly ridged ends of pale mineral prisms like a field of worn tiles; sunset orange rim light low from behind the web, catching every strand's edge. **Accent:** lime on the single sugar crystal only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left, sugar crystals dissolving among chains of oval cells on the ridged mineral surface; centre, glucan strands spun between chains and surface, acid rising as a haze; right, under the haze the mineral surface loosening into tiny lifting grains while the chains grow on. The eye reads left to right. **Light:** cool clear early-morning light, frontal and low from behind the viewer. **Accent:** coral on the acid haze.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** his eyes and the sweet between his fingers. **Empty field:** left, 47 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 15:40, flat overcast daylight from the window on her right, cool and neutral.
+
+- es preview alt: "Ilustración: cadenas de bacterias ovaladas sujetas por hilos pegajosos sobre esmalte pálido y estriado, un cristal de azúcar verde lima en el borde"
+- es hero alt: "Ilustración: el azúcar se disuelve entre cadenas de bacterias ovaladas sobre el esmalte; ellas hilan hebras pegajosas que las pegan al diente y sueltan ácido, y bajo la neblina ácida la superficie mineral se afloja"
+- es card alt: "¿La tenemos todos? — un joven toma un dulce de una bolsa de papel en su escritorio"
+- es card question: "¿La tenemos todos?"
+- es plate lines: "Primero — el azúcar cae sobre la placa · Luego — hilan pegamento y hacen ácido · Resultado — el esmalte de abajo se disuelve"

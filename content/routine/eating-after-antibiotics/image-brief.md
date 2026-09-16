@@ -63,6 +63,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Что теперь есть?"
 - en plate lines: "First — the course leaves it bare · Then — fibre and ferments refill it · So — 9 species missing at day 180"
 - ru plate lines: "Сначала — после курса поле пустое · Затем — клетчатка и квашеное кормят · Итог — 9 видов нет и на 180-й день"
+- de preview alt: "Illustration: Stäbchen und gegabelte Darmbakterien siedeln sich im weichen Morgenlicht wieder an zerrissenen Pflanzenzellwänden an"
+- de hero alt: "Illustration: Pflanzenfaser über der Darmschleimhaut, nach Antibiotika fast leer, dann füllt sie sich entlang ihrer Stränge mit Bakterien, und zuletzt ist sie wieder dicht besetzt, doch neun Plätze bleiben frei"
+- de card alt: "Was soll ich jetzt essen? — eine Frau vormittags am Marktstand, eine Papiertüte mit Gemüse in der Hand"
+- de card question: "Was soll ich jetzt essen?"
+- de plate lines: "Zuerst — die Kur lässt das Feld leer · Dann — Ballaststoffe und Fermentiertes füllen es · Ergebnis — 9 Arten fehlen an Tag 180"
 
 **8. What must never appear**
 
@@ -90,3 +95,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one torn sheet of plant cell wall, its broken honeycomb of cell outlines and frayed parallel strands sharp at the centre, with a few plain rods and two or three forked cells settling along its edge; the rest of the lattice softens away. Subject inside the middle 1.91:1 band. **World:** an open lattice of pale, matte, slightly translucent plant cell-wall sheets and strands at the scale of the bacteria, no vegetable, bowl or plate; warm early-morning light as through a kitchen window, low from the left, honey-warm. **Accent:** gold on the forked cells only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** one continuous fibre lattice over the mucus-covered folds, left to right — almost bare with scattered cells, then plain rods and forked cells spreading out along the strands, then a crowded field with exactly nine clearly empty pockets. **Light:** soft, even overcast light from directly above, neutral-cool, shadows barely there. **Accent:** coral on the rims of the nine empty pockets only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the two hands setting the plain paper bag down on the stall table, sharp; the crates behind falling soft. **Empty field:** left side, 45 % of the width, the flat awning canvas. Head and shoulders inside the middle 1.91:1 band. **Light:** twenty past ten in the morning, open shade under the awning with bright cool daylight spilling in from the right, soft-edged shadows.
+
+- es preview alt: "Ilustración: bacilos y bacterias intestinales bifurcadas vuelven a asentarse sobre paredes rotas de células vegetales con la luz suave de la mañana"
+- es hero alt: "Ilustración: fibra vegetal sobre la mucosa intestinal, casi desnuda tras los antibióticos, luego se va llenando de bacterias a lo largo de sus hebras y al final vuelve a estar densa con nueve lugares vacíos"
+- es card alt: "¿Qué como ahora? — una mujer en un puesto del mercado por la mañana, con una bolsa de papel con verduras en la mano"
+- es card question: "¿Qué como ahora?"
+- es plate lines: "Primero — el tratamiento deja el campo vacío · Luego — la fibra y lo fermentado lo vuelven a llenar · Resultado — faltan 9 especies el día 180"

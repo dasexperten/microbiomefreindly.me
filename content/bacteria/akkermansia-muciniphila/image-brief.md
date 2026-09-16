@@ -89,12 +89,17 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: oval Akkermansia cells settle into the gut's mucus layer and graze a shallow hollow, and the lining below pushes up fresh mucus that thickens the layer"
 - ru preview alt: "Иллюстрация: овальные клетки Akkermansia парами покоятся глубоко в прозрачном слизистом геле, под одной парой поднимается золотистая капля свежей слизи"
 - ru hero alt: "Иллюстрация: овальные клетки Akkermansia оседают в слое слизи кишечника и выедают неглубокую ямку, а слизистая снизу выталкивает свежую слизь, и слой становится толще"
+- de preview alt: "Illustration: ovale Akkermansia-Zellen ruhen paarweise in einem klaren Schleimgel, unter einem Paar steigt ein goldenes Tröpfchen frischen Schleims auf"
+- de hero alt: "Illustration: ovale Akkermansia-Zellen setzen sich in die Schleimschicht des Darms und weiden eine flache Mulde ab, und die Schleimhaut darunter schiebt frischen Schleim nach, der die Schicht dicker macht"
 - en card alt: "Is eating mucus good news? — a woman in her forties tips chopped vegetables into a pan in her morning kitchen"
 - ru card alt: "Она полезная или вредная? — женщина за сорок высыпает нарезанные овощи в сковороду на утренней кухне"
+- de card alt: "Ist Schleimfressen gut für mich? — eine Frau um die vierzig gibt geschnittenes Gemüse in eine Pfanne in ihrer Küche"
 - en card question: "Is eating mucus good news?"
 - ru card question: "Она полезная или вредная?"
+- de card question: "Ist Schleimfressen gut für mich?"
 - en plate lines: "First — it settles in your mucus · Then — it grazes a hollow · So — the lining renews it; 1 % of cells"
 - ru plate lines: "Сначала — она садится в вашу слизь · Затем — выедает ямку · Итог — слой обновляется; 1 % клеток"
+- de plate lines: "Zuerst — sie siedelt sich in Ihrem Schleim an · Dann — sie weidet eine Mulde ab · Ergebnis — die Schleimhaut erneuert ihn; 1 % der Zellen"
 
 ---
 
@@ -123,3 +128,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one pair of oval cells deep in the gel, sharp in the centre, with a small bead of fresh mucus rising just beneath it; other cells soften away in the gel. Subject inside the middle 1.91:1 band. **World:** inside the thick, clear, honey-like mucus gel, threaded with a faint mesh of mucin strands, the lining only a dim soft plane far below; blue-grey dawn, a cool low light from the left. **Accent:** gold on the rising bead of fresh mucus only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** the renewal — left cells settling into the mucus layer, centre a pair grazing a shallow hollow, right fresh mucus welling up from the lining and filling it; read left to right, the crowd of gut contents above. **Light:** warm honey afternoon light, low from the right, its own and not the preview's. **Accent:** lime on the fresh mucus welling up from the lining.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her hands and the board tipping into the pan, sharp; her face a little softer just behind, the window blown out and formless. **Empty field:** left side, 45 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** just after seven, low sun flat through one window from the right, warm, the left of the room in even shade.
+
+- es preview alt: "Ilustración: células ovaladas de Akkermansia descansan en parejas dentro de un gel de moco transparente, con una gota dorada de moco fresco que sube bajo una pareja"
+- es hero alt: "Ilustración: células ovaladas de Akkermansia se instalan en la capa de moco del intestino y pastan un hueco poco profundo, y la mucosa de abajo empuja moco fresco que engrosa la capa"
+- es card alt: "¿Comer moco es buena noticia? — una mujer de unos cuarenta echa verduras picadas a una sartén en su cocina"
+- es card question: "¿Comer moco es buena noticia?"
+- es plate lines: "Primero — se instala en tu moco · Después — pasta un hueco · Resultado — la mucosa lo renueva; 1 % de las células"

@@ -48,6 +48,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Виноват ли тут кишечник?"
 - en plate lines: "First — a bacterial tail breaks off · Then — immune cells read it as alarm · So — tissue far from the gut inflames"
 - ru plate lines: "Сначала — жгутик бактерии отрывается · Затем — иммунитет читает его как тревогу · Итог — воспаляются далёкие органы"
+- de preview alt: "Illustration: schlanke Darmbakterien mit langen korkenzieherartigen Geißeln in treibendem Schleim, eine abgelöste Geißel schwebt in einem Fleck goldenen Lichts"
+- de hero alt: "Illustration: ein abgelöstes Stück einer Bakteriengeißel verlässt den Darm, ein neutrophiler Granulozyt wirft ein Netz aus und signalisiert einem Makrophagen, und fernes Gewebe verdichtet sich mit Fasern"
+- de card alt: "Kommt Long Covid aus dem Darm? — eine Frau hält beim Wäschefalten inne und setzt sich auf die Bettkante"
+- de card question: "Kommt Long Covid aus dem Darm?"
+- de plate lines: "Zuerst — eine Bakteriengeißel bricht ab · Dann — Immunzellen lesen sie als Alarm · Ergebnis — Gewebe fern des Darms entzündet sich"
 
 ---
 
@@ -72,3 +77,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one smooth corkscrew filament drifting free, mid-water, sharpest in the frame; two or three slender rods with their tails still attached soften behind it. Subject inside the middle 1.91:1 band. **World:** the loose, watery layer just off the gut wall — slack drifting strands of mucus and fine suspended flecks; dim stormy grey light, cool and low, with one bright opening falling on the free filament. **Accent:** gold on the free filament only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left to right — flagellated rods at the gut wall and one shed tail fragment slipping through; centre, the neutrophil casting its web and signalling a large macrophage that spills fatty-acid droplets; right, a distant field of tissue cells thickening with dense fibres. **Light:** warm directional light from the right, late morning, crisp small shadows. **Accent:** lime on the travelling tail fragment only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the stilled hands in her lap; the half-folded laundry soft at the frame edge. **Empty field:** right side, 45 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 15:00, grey winter daylight through half-drawn curtains from the left, flat, cool and low.
+
+- es preview alt: "Ilustración: bacterias delgadas del intestino con largos flagelos en espiral entre moco a la deriva, un flagelo suelto flota en una mancha de luz dorada"
+- es hero alt: "Ilustración: un trozo de flagelo bacteriano sale del intestino, un neutrófilo lanza una red y avisa a un macrófago, y un tejido lejano se espesa con fibras"
+- es card alt: "¿El covid largo viene del intestino? — una mujer deja la ropa a medio doblar y se sienta en la orilla de la cama"
+- es card question: "¿El covid largo viene del intestino?"
+- es plate lines: "Primero — se desprende un flagelo bacteriano · Luego — las células inmunitarias lo leen como alarma · Resultado — se inflama un tejido lejos del intestino"

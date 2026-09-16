@@ -63,6 +63,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Налёт на языке — это плохо?"
 - en plate lines: "First — shed cells fill the grooves · Then — airless bacteria make the smell · So — a thin coating in 90.7 %"
 - ru plate lines: "Сначала — в бороздках копятся клетки · Затем — бактерии без воздуха дают запах · Итог — тонкий налёт у 90,7 %"
+- de preview alt: "Illustration: Schuppen abgestoßener Oberflächenzellen mit winzigen Bakterienketten, abgelagert in einer schmalen Rinne zwischen den Zungenpapillen"
+- de hero alt: "Illustration: eine Reihe von Zungenpapillen mit abgestoßenen Schuppen und Bakterien in den Rinnen dazwischen, in neun Rinnen dünn und in einer dicker, darüber steigt leichtes Gas auf"
+- de card alt: "Ist Zungenbelag ein Problem? — eine Frau am Badezimmerspiegel im ersten Licht betrachtet ihre Zunge"
+- de card question: "Ist Zungenbelag ein Problem?"
+- de plate lines: "Zuerst — abgestoßene Zellen füllen die Rinnen · Dann — Bakterien ohne Luft machen den Geruch · Ergebnis — dünner Belag bei 90,7 %"
 
 ## 8. What must never appear
 
@@ -92,3 +97,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** the floor of one narrow valley between two tall, crowded papillae — a loose pile of thin, curled shed-cell flakes with tiny bead chains and fine forked threads of bacteria resting on them; the central flake sharp, the papilla walls softening away. The papillae read as a cell-scale landscape of spires, never as an organ. Subject inside the middle 1.91:1 band. **World:** a keratinised landscape of cone-like spires with frayed tips, a thin wet saliva sheen in the valley; warm mid-afternoon light diffused as if through linen, from the upper left, soft and shadow-light. **Accent:** coral on the curled edge of the one sharp central flake only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** one continuous row of ten valleys between papillae, read left to right — flakes and debris settling into the valleys; packed cells working at the dim valley floors; faint gas lifting off the surface on the right; nine valleys with only a thin low layer, exactly one with a visibly thicker one. **Light:** cool, diffuse north-window daylight from the right, almost shadowless. **Accent:** gold on the one thicker layer only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face close to the mirror glass, her own eyes on her reflection, sharp; the bathroom behind falling soft. **Empty field:** left side, 44 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** ten to seven in the morning, grey-blue early daylight through frosted glass from the upper right, cool and shadow-light.
+
+- es preview alt: "Ilustración: escamas de células desprendidas de la superficie con diminutas cadenas de bacterias, asentadas en un surco estrecho entre las papilas de la lengua"
+- es hero alt: "Ilustración: una fila de papilas de la lengua con escamas desprendidas y bacterias en los surcos, capa fina en nueve surcos y más gruesa en uno, con un gas leve que se levanta"
+- es card alt: "¿Es malo tener la lengua blanca? — una mujer frente al espejo del baño al amanecer, mirándose la lengua"
+- es card question: "¿Es malo tener la lengua blanca?"
+- es plate lines: "Primero — las células llenan los surcos · Luego — las bacterias sin aire dan el olor · Resultado — capa fina en el 90,7 %"

@@ -49,6 +49,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Носитель — значит больной?"
 - en plate lines: "First — the neighbours hold it down · Then — antibiotics sweep them away · So — the spores wake and multiply"
 - ru plate lines: "Сначала — соседи держат её в узде · Затем — антибиотик сметает соседей · Итог — споры просыпаются и растут"
+- de preview alt: "Illustration: ein schlankes Stäbchen mit aufgeblähtem Sporenende und versiegelte Sporen in limettenfarbener Hülle, eingekeilt von einer Menge anderer Darmmikroben"
+- de hero alt: "Illustration: schlafende Sporen liegen unter goldenem Dunst zwischen Darmbewohnern; sind die Nachbarn fortgefegt, öffnen sich die Sporen zu Stäbchen, die sich vermehren und die Nähte der Schleimhaut lockern"
+- de card alt: "Träger — heißt das krank? — eine Frau über siebzig rastet mit ihrer Einkaufstasche auf einem Treppenabsatz"
+- de card question: "Träger — heißt das krank?"
+- de plate lines: "Zuerst — die Nachbarn halten es nieder · Dann — Antibiotika fegen sie fort · Ergebnis — die Sporen wachen auf und vermehren sich"
 
 **12. Locales:** en / ru / de / ja / ar share one image set; only the descriptive lines change per language (RU through Alexandra). No new pixels per locale.
 
@@ -69,3 +74,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one slender rod with its swollen drumstick end, sharp in the centre, two or three sealed free spores beside it, all hemmed in by shorter plump rods and small cocci that soften away. Subject inside the middle 1.91:1 band. **World:** the packed floor of the large intestine's contents, a moist crowd of neighbour cells wedged close together; misty diffuse white light, soft and shadowless from everywhere at once. **Accent:** lime on the coats of the sealed spores only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** the brake coming off — left the spores held quiet in a dense resident crowd under the bile-acid mist, centre the crowd gone and the spores in the open, right the spores opened into multiplying rods over lining cells whose seams slacken; read left to right. **Light:** bright neutral light from the lower right, its own and not the preview's. **Accent:** gold on the bile-acid mist among the residents only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the hand on the banister, sharp; the bag at her feet and the flight of stairs behind her soft. **Empty field:** left side, 44 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** mid-afternoon, sideways daylight through one tall stair window from the right, grey-blue and cool, flat with almost no shadow edge.
+
+- es preview alt: "Ilustración: un bastón esbelto con el extremo hinchado por la espora y esporas selladas con cubierta lima, encajado entre una multitud de microbios intestinales"
+- es hero alt: "Ilustración: esporas latentes reposan entre residentes intestinales bajo una neblina dorada; barridos los vecinos, las esporas se abren en bastones que se multiplican y aflojan las costuras de la mucosa"
+- es card alt: "¿Ser portador es estar enfermo? — una mujer de más de setenta descansa en un rellano con la bolsa del mandado"
+- es card question: "¿Ser portador es estar enfermo?"
+- es plate lines: "Primero — las vecinas la mantienen a raya · Luego — los antibióticos las barren · Resultado — las esporas despiertan y se multiplican"

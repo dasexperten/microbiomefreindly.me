@@ -29,12 +29,17 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: thick-walled rods break down a resistant starch granule into gold butyrate droplets that the colon lining takes in; six of the ten rods carry a spore"
 - ru preview alt: "Иллюстрация: толстостенные палочковидные бактерии, у двух овальные споры, лежат на грануле крахмала, изъеденной до кораллового цвета там, где они питаются"
 - ru hero alt: "Иллюстрация: толстостенные палочки разбирают гранулу резистентного крахмала на золотистые капли бутирата, которые впитывает слизистая толстой кишки; у шести из десяти палочек есть спора"
+- de preview alt: "Illustration: dickwandige Stäbchenbakterien, zwei davon mit ovalen Sporen, liegen auf einem Stärkekorn, das dort korallrot angefressen ist, wo sie fressen"
+- de hero alt: "Illustration: dickwandige Stäbchen zerlegen ein Korn resistenter Stärke in goldene Butyrattröpfchen, die die Dickdarmschleimhaut aufnimmt; sechs der zehn Stäbchen tragen eine Spore"
 - en card alt: "Do gut bacteria make you fat? — a woman in her fifties stands beside the bathroom scale at dusk, unimpressed"
 - ru card alt: "От бактерий полнеют? — женщина за пятьдесят стоит у напольных весов в ванной в сумерках"
+- de card alt: "Machen Darmbakterien dick? — eine Frau um die fünfzig steht in der Dämmerung unbeeindruckt neben der Badezimmerwaage"
 - en card question: "Do gut bacteria make you fat?"
 - ru card question: "От бактерий полнеют?"
+- de card question: "Machen Darmbakterien dick?"
 - en plate lines: "First — starch reaches the colon whole · Then — rods ferment it to butyrate · So — the lining eats; spores in 50–60 %"
 - ru plate lines: "Сначала — крахмал доходит целым · Затем — палочки делают из него бутират · Итог — стенка сыта; 50–60 % со спорами"
+- de plate lines: "Zuerst — Stärke erreicht den Dickdarm ganz · Dann — Stäbchen vergären sie zu Butyrat · Ergebnis — die Schleimhaut isst; Sporen bei 50–60 %"
 
 ## Notes for Marika and Lisa
 
@@ -55,3 +60,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** two thick-walled rods lying across the curved face of one starch granule, one with its oval spore swelling the end, sharp in the centre; the granule's far curve and neighbouring rods soften away. Subject inside the middle 1.91:1 band. **World:** a smooth, rounded, faintly ringed granule of resistant starch resting in a shallow wet film of colon contents; warm lamp-amber evening light, low from the right. **Accent:** coral on the small pitted patch of the granule where the rods are feeding, and nowhere else.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left the untouched granule and fibre shreds arriving, centre the ten rods of ten kinds working its pitted edge (six with spores) and releasing droplets, right the lining cells taking the droplets in; read left to right. **Light:** crisp cool midday light from directly above, its own and not the preview's. **Accent:** gold on the butyrate droplets only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the set of her shoulders, sharp; the scale at her feet low in the frame and soft, its display unreadable. **Empty field:** left side, 44 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** dusk, one warm wall light low from the right at close range, the blue window behind her cooling the far side of the room.
+
+- es preview alt: "Ilustración: bacterias con forma de bastón y pared gruesa, dos de ellas con esporas ovaladas, sobre un gránulo de almidón picado de coral donde comen"
+- es hero alt: "Ilustración: bastones de pared gruesa deshacen un gránulo de almidón resistente en gotas doradas de butirato que absorbe la mucosa del colon; seis de los diez llevan una espora"
+- es card alt: "¿Las bacterias del intestino engordan? — una mujer de unos cincuenta junto a la báscula del baño al anochecer"
+- es card question: "¿Las bacterias del intestino engordan?"
+- es plate lines: "Primero — el almidón llega entero al colon · Después — los bastones lo fermentan en butirato · Resultado — la mucosa come; esporas en 50–60 %"

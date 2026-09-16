@@ -107,6 +107,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "В кишечнике младенца есть воздух?"
 - en plate lines: "First — air still lingers in a new gut · Then — one fat seals the microbe's wall · So — the same fat teaches immune cells"
 - ru plate lines: "Сначала — в юной кишке ещё есть воздух · Затем — жир запечатывает её оболочку · Итог — тот же жир учит иммунные клетки"
+- de preview alt: "Illustration: kurze Stäbchen von Bacteroides fragilis im Gegenlicht auf junger Darmoberfläche, ein dichter Membranrand schimmert limonengrün"
+- de hero alt: "Illustration: ein kurzes Stäbchen hält seinen dichten Membranrand, während Luftteilchen vorbeitreiben, und dasselbe Membranfett wird an eine junge Immunzelle weitergereicht, die daran wächst"
+- de card alt: "Ist im Babydarm Luft? — eine junge Mutter lehnt sich im Sessel am Fenster zurück, im ersten Licht"
+- de card question: "Ist im Babydarm Luft?"
+- de plate lines: "Zuerst — im jungen Darm ist noch Luft · Dann — ein Fett dichtet die Hülle ab · Ergebnis — dasselbe Fett lehrt die Immunzellen"
 
 ---
 
@@ -141,3 +146,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** the rim of the nearest short rod — the sharpest, cleanest edge in the picture — with two more rods behind it and a faint scatter of air motes thinning out before they reach them. Subject inside the middle 1.91:1 band. **World:** the oxygen-carrying fluid of a newborn gut over a young, thinly settled surface — fine drifting motes in clear liquid above a soft pale floor; honey-coloured evening light coming from behind the cells, so each translucent body glows at its edge. **Accent:** lime on that one sealed rim only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left to right — air motes drifting against a short rod whose rim carries a line of small even nodes; centre, the sealed rim holding while slack-rimmed neighbours fade; right, one node carried out and held on a host cell's surface, read by a young round immune cell. **Light:** cool clear north-window light from the front-left, gentle and even. **Accent:** gold on the fat nodes in the membrane and the one that is handed on.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the shoulder with the folded cloth on it; the window frame behind her soft. **Empty field:** left side, 47 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 05:40, the first cold daylight through a thin curtain from the right, blue and even, no lamp lit.
+
+- es preview alt: "Ilustración: bastoncitos cortos de Bacteroides fragilis a contraluz sobre una superficie intestinal joven, un borde de membrana sellado brilla en lima"
+- es hero alt: "Ilustración: un bastoncito corto mantiene sellado el borde de su membrana mientras pasan motas de aire, y esa misma grasa de membrana pasa a una célula inmunitaria joven que crece al leerla"
+- es card alt: "¿El intestino del bebé tiene aire? — una madre primeriza se recarga en el sillón junto a la ventana con la primera luz"
+- es card question: "¿El intestino del bebé tiene aire?"
+- es plate lines: "Primero — en el intestino nuevo todavía hay aire · Luego — una grasa sella la pared del microbio · Resultado — esa misma grasa enseña a las células inmunitarias"

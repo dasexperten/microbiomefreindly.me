@@ -33,6 +33,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Нашли — значит, болезнь?"
 - en plate lines: "First — it rests quiet among neighbours · Then — the balance tips, its enzymes cut · So — the pocket seeps and feeds it"
 - ru plate lines: "Сначала — тихо живёт среди соседей · Затем — баланс сдвинут, ферменты режут · Итог — карман сочится и кормит её"
+- de preview alt: "Illustration: pralle dunkle stäbchenförmige Bakterien ruhen in einem feuchten Film in einer schmalen Spalte, wogendes Licht und goldene Häm-Funken"
+- de hero alt: "Illustration: pralle dunkle Stäbchen ruhen in einem gemischten Biofilm der Zahnfleischtasche; als sich die Gemeinschaft verschiebt, setzen sie Enzyme frei, die Abwehreiweiße zerschneiden, und sickernde Flüssigkeit bringt ihnen Nahrung"
+- de card alt: "Gefunden — heißt das Krankheit? — eine Frau sitzt nachts auf der Bettkante, ein Glas Wasser in beiden Händen"
+- de card question: "Gefunden — heißt das Krankheit?"
+- de plate lines: "Zuerst — es ruht still unter Nachbarn · Dann — das Gleichgewicht kippt, Enzyme schneiden · Ergebnis — die Tasche nässt und füttert es"
 ```
 
 ## Notes for Lisa and Otto, outside the template
@@ -53,3 +58,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a loose cluster of plump, fimbriae-fringed dark rods resting in a wet film on one wall of a narrow crevice; the nearest cell is sharpest. Subject inside the middle 1.91:1 band. **World:** a narrow wet crevice between two soft pale walls, slow clear fluid seeping through it; rippling water-caustic light playing over the cells, cool-to-neutral temperature. **Accent:** gold on a few tiny haem droplets beside the cluster only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left, a few dark rods quiet in a balanced mixed biofilm; centre, the neighbours changed and the dark rods releasing small enzymes that snip round defence proteins into fragments; right, clear fluid seeping from the pocket wall and the dark rods feeding and multiplying. The eye reads left to right. **Light:** even overcast pearl-white light, almost shadowless. **Accent:** lime on the protein-cutting enzymes.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her eyes and the glass held in both hands. **Empty field:** right, 46 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 23:45, one low bedside lamp from the far side, warm and dim.
+
+- es preview alt: "Ilustración: bacterias oscuras y rechonchas en forma de bastón descansan en una película húmeda dentro de una grieta estrecha, luz ondulante y destellos dorados de hemo"
+- es hero alt: "Ilustración: bastones oscuros y rechonchos descansan en la biopelícula mixta de la bolsa; cuando la comunidad se desplaza liberan enzimas que cortan las proteínas de defensa, y el líquido que rezuma les trae comida"
+- es card alt: "¿Tenerla significa enfermedad? — una mujer sentada de noche en el borde de su cama con un vaso de agua en las manos"
+- es card question: "¿Tenerla significa enfermedad?"
+- es plate lines: "Primero — vive tranquila entre vecinas · Luego — el equilibrio se rompe, sus enzimas cortan · Resultado — la bolsa rezuma y la alimenta"

@@ -63,6 +63,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Кишечник восстановится после антибиотиков?"
 - en plate lines: "First — antibiotics strip it bare · Then — it refills in six weeks · So — 9 species are still missing"
 - ru plate lines: "Сначала — антибиотики выметают всё · Затем — за полтора месяца возвращается · Итог — 9 видов так и нет"
+- de preview alt: "Illustration: gegabelte Bifidobacterium-Zellen wachsen im lockeren Darmschleim nach, daneben eine leere Mulde, wo einst Zellen standen"
+- de hero alt: "Illustration: eine Darmbakteriengemeinschaft in drei Momenten: dicht besetzt, von Antibiotika fast kahl geräumt, dann wieder dicht — mit neun leer gebliebenen Plätzen"
+- de card alt: "Erholt sich mein Darm wieder? — eine Frau spät abends am Küchentisch, die Kur ist zu Ende"
+- de card question: "Erholt sich mein Darm wieder?"
+- de plate lines: "Zuerst — Antibiotika räumen alles kahl · Dann — in sechs Wochen füllt es sich wieder · Ergebnis — 9 Arten fehlen weiterhin"
 
 **8. What must never appear**
 
@@ -85,3 +90,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a small group of forked, Y-shaped *Bifidobacterium* cells regrowing in the loose outer mucus beside one smooth, empty hollow where cells used to stand; the group sharp at the centre, the netlike mucus strands softening away. Subject inside the middle 1.91:1 band. **World:** the loose, netlike outer mucus layer of the colon, strands like wet soft gauze; early-spring cool daylight in the early afternoon, pale blue-white, from the upper right, small soft shadows. **Accent:** lime on the regrowing forked cells only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** one stretch of colon mucus read left to right — a crowded mixed community of forks, spindles, paired cocci and rods; the same field stripped almost bare, with only spindles and paired cocci spreading into the room; the field crowded again with exactly nine empty hollows scattered through it. **Light:** warm mid-morning light from the upper left, soft shadows falling right. **Accent:** coral on the floors of the nine empty hollows.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and her two hands resting flat on the bare kitchen table, sharp; the room behind falling soft. **Empty field:** left side, 46 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** nine in the evening, one low warm pendant lamp from above and a little to the right, amber, soft close shadows.
+
+- es preview alt: "Ilustración: células bifurcadas de Bifidobacterium vuelven a crecer en el moco intestinal suelto, junto a un hueco vacío donde antes había células"
+- es hero alt: "Ilustración: una comunidad de bacterias intestinales en tres momentos: llena, casi arrasada por los antibióticos y llena otra vez, con nueve lugares vacíos"
+- es card alt: "¿Se recupera mi flora intestinal? — una mujer en la mesa de su cocina ya de noche, terminado el tratamiento"
+- es card question: "¿Se recupera mi flora intestinal?"
+- es plate lines: "Primero — los antibióticos lo arrasan todo · Luego — se vuelve a llenar en seis semanas · Resultado — siguen faltando 9 especies"

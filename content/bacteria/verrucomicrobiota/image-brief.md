@@ -102,6 +102,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Едок слизи — это хорошо?"
 - en plate lines: "First — it grazes the gut's mucus coat · Then — the lining feeds and makes more · So — without fibre the coat wears thin"
 - ru plate lines: "Сначала — объедает слизь кишечника · Затем — стенка кормится и даёт новую · Итог — без клетчатки слой истончается"
+- de preview alt: "Illustration: ovale Bakterien ruhen zwischen gespannten Schleimfäden über der Darmschleimhaut, ein Faden franst dort aus, wo eine Zelle frisst"
+- de hero alt: "Illustration: ovale Bakterien weiden die Schleimschicht über der Dickdarmschleimhaut ab, die goldenen Brennstoff aufnimmt und frischen Schleim bildet; weiter rechts tragen gedrängte Bakterien die Schicht zu einem dünnen Schleier ab"
+- de card alt: "Ist der Schleimfresser gut? — eine Frau wählt samstagmorgens Blattgemüse in einer Markthalle"
+- de card question: "Ist der Schleimfresser gut?"
+- de plate lines: "Zuerst — es weidet den Schleim des Darms · Dann — die Schleimhaut nährt sich und bildet neu · Ergebnis — ohne Ballaststoffe wird die Schicht dünn"
 ```
 
 ---
@@ -131,3 +136,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a few oval rods, single and in pairs, resting among stretched mucus strands; one strand frays where the nearest rod is feeding, and that point is sharpest. Subject inside the middle 1.91:1 band. **World:** the loose outer mucus of the colon drawn out into soft translucent strands and sheets like pulled honey, the folded lining soft and far below; a warm tungsten spot from the right, amber-warm, pooled light with soft falloff. **Accent:** lime on the sheen of that fraying strand only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left, rods grazing a thick mucus layer with a few fibre strands above; centre, gold fuel beads passing into the lining and fresh mucus welling up; right, no fibre, crowded rods, the layer worn to a thin veil. The eye reads left to right. **Light:** bright cool-neutral backlight from behind the forms, translucent edges glowing. **Accent:** gold on the fuel beads.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her eyes and the bunch of greens in her hand. **Empty field:** left, 45 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 08:15, cool grey-blue daylight falling from the roof glazing overhead.
+
+- es preview alt: "Ilustración: bacterias ovaladas descansan entre hebras estiradas de moco sobre la mucosa intestinal, una hebra se deshilacha donde se alimenta una célula"
+- es hero alt: "Ilustración: bacterias ovaladas pastan la capa de moco sobre la mucosa del colon, que absorbe combustible dorado y fabrica moco nuevo; más a la derecha, bacterias apiñadas desgastan la capa hasta dejarla en un velo fino"
+- es card alt: "¿Comer moco es bueno? — una mujer elige verduras de hoja en un mercado techado un sábado por la mañana"
+- es card question: "¿Comer moco es bueno?"
+- es plate lines: "Primero — pasta el moco del intestino · Luego — la pared se alimenta y fabrica más · Resultado — sin fibra la capa se adelgaza"

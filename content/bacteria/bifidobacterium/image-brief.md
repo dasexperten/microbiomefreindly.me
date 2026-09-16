@@ -64,12 +64,17 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: milk sugars pass the infant gut lining untouched, forked Bifidobacterium rods ferment them into lime acetate droplets, and nineteen of twenty cells at right are theirs"
 - ru preview alt: "Иллюстрация: вилообразные Y-образные клетки бифидобактерий в неподвижном кармане прозрачного содержимого кишечника, коралловая капля у развилки одной клетки"
 - ru hero alt: "Иллюстрация: молочные сахара нетронутыми проходят мимо слизистой кишечника младенца, вилообразные палочки бифидобактерий сбраживают их в лаймовые капли ацетата, и справа девятнадцать клеток из двадцати — их"
+- de preview alt: "Illustration: gegabelte, Y-förmige Bifidobakterien-Zellen in einer ruhigen Tasche klaren Darminhalts, ein korallroter Tropfen in einer Gabelung"
+- de hero alt: "Illustration: Milchzucker ziehen unberührt an der Darmschleimhaut des Säuglings vorbei, gegabelte Bifidobakterien-Stäbchen vergären sie zu limettengrünen Acetattröpfchen, und rechts gehören neunzehn von zwanzig Zellen ihnen"
 - en card alt: "Is every bifidobacterium good? — a woman in her late twenties sits with a mug on the sofa in lamp light"
 - ru card alt: "Все бифидобактерии полезные? — женщина под тридцать сидит с кружкой на диване при свете лампы"
+- de card alt: "Sind alle Bifidobakterien gut? — eine Frau Ende zwanzig sitzt mit einer Tasse bei Lampenlicht auf dem Sofa"
 - en card question: "Is every bifidobacterium good?"
 - ru card question: "Все бифидобактерии полезные?"
+- de card question: "Sind alle Bifidobakterien gut?"
 - en plate lines: "First — milk sugars pass the baby by · Then — these rods eat what she cannot · So — over 90 % of her gut is theirs"
 - ru plate lines: "Сначала — сахара молока ей не по зубам · Затем — их съедают эти палочки · Итог — в юном кишечнике их больше 90 %"
+- de plate lines: "Zuerst — Milchzucker geht am Baby vorbei · Dann — diese Stäbchen fressen, was es nicht kann · Ergebnis — über 90 % ihres Darms gehören ihnen"
 
 ---
 
@@ -98,3 +103,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one forked cell, its Y-branch sharp in the centre, with a small droplet resting in the crook of the fork; a few plain and forked neighbours soften away behind. Subject inside the middle 1.91:1 band. **World:** a still, clear, faintly syrupy pocket of gut contents strewn with large glassy droplets, each many times a cell's size; dappled leaf-filtered daylight, soft patches of light and shade moving across the pocket. **Accent:** coral on the one small droplet in the fork only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** the takeover — left milk sugars passing the lining untouched among a mixed crowd, centre the forked rods taking the sugars and releasing acetate droplets, right the twenty-cell group, nineteen of them Bifidobacterium, over a smooth closed lining; read left to right. **Light:** cool silver late-afternoon light, high on the right, its own and not the preview's. **Accent:** lime on the acetate droplets only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the mug in both hands, sharp; the sofa arm and the folded cloth soft in front, the room behind dissolved into warm dark. **Empty field:** right side, 45 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** about half past nine at night, one table lamp low and close from the left, warm tungsten, everything beyond it falling to a cool dim.
+
+- es preview alt: "Ilustración: células bifurcadas de Bifidobacterium en forma de Y en un bolsillo quieto de contenido intestinal transparente, con una gota coral en una de las horquillas"
+- es hero alt: "Ilustración: los azúcares de la leche pasan intactos junto a la mucosa intestinal del bebé, bastones bifurcados de Bifidobacterium los fermentan en gotas de acetato color lima, y a la derecha diecinueve de cada veinte células son suyas"
+- es card alt: "¿Toda bifidobacteria es buena? — una mujer de casi treinta con una taza en el sofá bajo la luz de una lámpara"
+- es card question: "¿Toda bifidobacteria es buena?"
+- es plate lines: "Primero — los azúcares de la leche se le escapan al bebé · Después — estos bastones comen lo que él no puede · Resultado — más del 90 % de su intestino es suyo"

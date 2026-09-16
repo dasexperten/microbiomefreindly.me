@@ -71,6 +71,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Это всё-таки желудок?"
 - en plate lines: "First — the coating closes off the air · Then — bacteria strip sulphur from it · So — mouth 87 %, gut 1 %"
 - ru plate lines: "Сначала — налёт закрывает доступ воздуха · Затем — бактерии отщепляют серу · Итог — рот 87 %, кишечник 1 %"
+- de preview alt: "Illustration: kurze, dicke anaerobe Stäbchen tief in einer schmalen Zahnfleischfurche, feine Fahnen Schwefelgas steigen daraus auf"
+- de hero alt: "Illustration: viele Fahnen Schwefelgas steigen von Bakterien im Belag auf dem hinteren Zungenrücken auf, während aus der Tiefe darunter nur eine einzige dünne Fahne kommt"
+- de card alt: "Kommt das aus dem Magen? — eine Frau vormittags in ihrem geparkten Auto, die Handfläche flach auf dem Bauch"
+- de card question: "Kommt das aus dem Magen?"
+- de plate lines: "Zuerst — der Belag schließt die Luft aus · Dann — Bakterien lösen Schwefel heraus · Ergebnis — Mund 87 %, Darm 1 %"
 
 ## 8. What must never appear
 
@@ -112,3 +117,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** the deep end of one narrow gum groove — a smooth, pale, finely layered mineral wall on one side and a soft velvety tissue wall on the other, both as cell-scale landscape, never as teeth or gums; a loose cluster of short, plump, bean-shaped rods fringed with fine fimbriae resting in the thin wet film at the bottom, and fine plumes lifting up out of the groove. The resting cluster sharp, the groove walls softening away. Subject inside the middle 1.91:1 band. **World:** the wet, narrow groove between a mineral wall and soft tissue, the film thin and glistening; bright, even overcast daylight, neutral-cool, shadowless, the groove darkening only by its own depth. **Accent:** coral on the rising plumes only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** one continuous fissured, papillated landscape read left to right — coating settling into the grooves, open above and closed below; plump rods working in the dim lower layer in the centre; on the right a crowd of dozens of fine plumes lifting up and forward off the surface and out of one narrow gum groove at the far right, while beneath the landscape the frame falls away into calm, pale, empty depth from which exactly one thin plume rises. **Light:** warm, low late-afternoon light from the right, long soft shadows toward the left. **Accent:** lime on the single plume rising from below only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face as she meets her own eyes in the rear-view mirror, and the flat palm on her stomach, both sharp; the car interior falling soft. **Empty field:** right side, 44 % of the width, the out-of-focus wall through the passenger window. Head and shoulders inside the middle 1.91:1 band. **Light:** quarter past nine in the morning, clear autumn daylight through the windscreen from the front left, neutral and bright, soft shadows inside the car.
+
+- es preview alt: "Ilustración: bacilos anaerobios cortos y gruesos en el fondo de un surco estrecho de la encía, de donde suben finas columnas de gas sulfuroso"
+- es hero alt: "Ilustración: una multitud de columnas de gas sulfuroso sube de las bacterias de la capa del dorso posterior de la lengua, mientras una sola columna delgada sube desde la profundidad de abajo"
+- es card alt: "¿Será mi estómago? — una mujer en su auto estacionado por la mañana, la palma apoyada en el estómago"
+- es card question: "¿Será mi estómago?"
+- es plate lines: "Primero — la capa cierra el paso del aire · Luego — las bacterias arrancan el azufre · Resultado — boca 87 %, intestino 1 %"

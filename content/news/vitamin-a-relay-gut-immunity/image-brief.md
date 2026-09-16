@@ -67,6 +67,11 @@ Alt lines written 2026-09-16 against the accepted frames (RU register: Alexandra
 - ru card question: "Кто доносит витамин?"
 - en plate lines: "First — gut bacteria wake the lining · Then — carrier proteins pick up retinol · So — under 2 % reaches immune cells"
 - ru plate lines: "Сначала — бактерии будят стенку кишки · Затем — белки-носильщики берут витамин · Итог — до иммунных клеток меньше 2 %"
+- de preview alt: "Illustration: segmentierte Bakterienfäden, mit ihren Spitzen in einer weichen Falte der Darmschleimhaut verwurzelt, ein kleiner goldener Schimmer dort, wo einer eintritt"
+- de hero alt: "Illustration: segmentierte Bakterien, in der Darmschleimhaut verwurzelt, deren Zellen goldene Vitamin-A-Tropfen halten; ein Tropfen geht an eine verzweigte Immunzelle und weiter an T-Zellen"
+- de card alt: "Wer bringt das Vitamin hin? — eine Frau schneidet am Küchentisch Karotten unter einer Abendlampe"
+- de card question: "Wer bringt das Vitamin hin?"
+- de plate lines: "Zuerst — Darmbakterien wecken die Schleimhaut · Dann — Transportproteine nehmen das Retinol auf · Ergebnis — weniger als 2 % erreichen die Immunzellen"
 
 ---
 
@@ -91,3 +96,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a small stand of segmented threads rooted at their tapered tips in the soft wall of one villus; the point where the nearest thread enters the wall is the sharpest spot. Subject inside the middle 1.91:1 band. **World:** soft, rounded folds of the gut wall; low warm late-afternoon light raking from the left, peach temperature. **Accent:** a single small gold note at that contact point.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** the one gold droplet in transit — left the threads and the lining full of droplets, centre the handoff to the branching myeloid cell, right the small round T cells receiving it. **Light:** warm directional light from the left, sunlit amber. **Accent:** gold on the retinol droplets; the travelling droplet is the brightest.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her hands and the knife on the board, and her face turned down to the work. **Empty field:** left side, 43 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 18:30, one warm kitchen lamp overhead from the right, blue dusk in the window behind her.
+
+- es preview alt: "Ilustración: hilos bacterianos segmentados enraizados por sus puntas en un pliegue blando de la mucosa intestinal, con un pequeño destello dorado donde entra uno"
+- es hero alt: "Ilustración: bacterias segmentadas enraizadas en la mucosa intestinal, cuyas células guardan gotas doradas de vitamina A; una gota pasa a una célula inmunitaria ramificada y de ahí a los linfocitos T"
+- es card alt: "¿Quién lleva la vitamina? — una mujer corta zanahorias en la barra de su cocina bajo una lámpara nocturna"
+- es card question: "¿Quién lleva la vitamina?"
+- es plate lines: "Primero — las bacterias despiertan la mucosa · Luego — las proteínas transportadoras recogen el retinol · Resultado — menos del 2 % llega a las células inmunitarias"

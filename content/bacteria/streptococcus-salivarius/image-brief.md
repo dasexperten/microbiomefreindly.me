@@ -100,6 +100,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Опасен ли житель языка?"
 - en plate lines: "First — on the tongue since birth · Then — it releases its own antibiotics · So — rivals stall at its edge"
 - ru plate lines: "Сначала — селится на языке с рождения · Затем — выпускает свои антибиотики · Итог — чужаки глохнут у края участка"
+- de preview alt: "Illustration: perlenartige Ketten runder Bakterien ruhen in einem feuchten Film zwischen weichen Erhebungen, um eine Kette ein schwacher korallener Schein"
+- de hero alt: "Illustration: Ketten runder Bakterien setzen sich in einem feuchten Film auf weichen Erhebungen ab und geben winzige goldene Teilchen frei; heranschwebende fremde Ketten erschlaffen am Rand ihres Gebiets"
+- de card alt: "Ist der Zungenkeim harmlos? — eine Frau sitzt morgens mit einer Tasse Tee auf ihrem Balkon"
+- de card question: "Ist der Zungenkeim harmlos?"
+- de plate lines: "Zuerst — seit der Geburt auf der Zunge · Dann — es setzt eigene Antibiotika frei · Ergebnis — Rivalen stocken an seinem Rand"
 ```
 
 ---
@@ -125,3 +130,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** three or four bead-chains of round cells resting in the wet film in the hollow between two soft rounded ridges; the nearest chain sharpest. Subject inside the middle 1.91:1 band. **World:** the soft, rounded, finely textured ridges of tongue papillae as a cell-scale landscape, glistening with a thin saliva film; cold bright snow-bounce light, even and crisp, white-blue temperature bouncing up from below. **Accent:** coral as a faint halo in the film around the sharpest chain only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left, bead-chains settling into the wet film between soft ridges; centre, the chains releasing a fine scatter of tiny particles into the film; right, grey rival chains drifting in and going slack at the patch's edge while the patch holds. The eye reads left to right. **Light:** golden late-afternoon light raking low from the right. **Accent:** gold on the protein-antibiotic particles.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her eyes and the cup held in both hands. **Empty field:** right, 44 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 09:40, bright hazy morning light from the open side of the balcony, warm and diffuse.
+
+- es preview alt: "Ilustración: cadenas de bacterias redondas como cuentas descansan en una película húmeda entre suaves relieves, un tenue halo coral alrededor de una cadena"
+- es hero alt: "Ilustración: cadenas de bacterias redondas se asientan en una película húmeda sobre suaves relieves y sueltan diminutas partículas doradas; las cadenas rivales que se acercan se aflojan al borde de su territorio"
+- es card alt: "¿Es inofensivo en la lengua? — una mujer sentada con una taza de té en su balcón por la mañana"
+- es card question: "¿Es inofensivo en la lengua?"
+- es plate lines: "Primero — en la lengua desde el nacimiento · Luego — suelta sus propios antibióticos · Resultado — los rivales se frenan en su borde"

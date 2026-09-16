@@ -30,12 +30,17 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: dormant Bacillus coagulans spores arrive in the gut, one splits open as a coral rod grows out, and the rods drift past the lining and away without settling"
 - ru preview alt: "Иллюстрация: палочка Bacillus coagulans с одной золотистой овальной спорой, рядом свободные споры на сухой растительной оболочке"
 - ru hero alt: "Иллюстрация: спящие споры Bacillus coagulans попадают в кишечник, одна раскрывается и из неё вырастает коралловая палочка, а палочки проплывают мимо слизистой и уходят, не оседая"
+- de preview alt: "Illustration: ein stäbchenförmiges Bacillus coagulans mit einer goldenen ovalen Spore, daneben freie Sporen auf einer trockenen Pflanzenhülse"
+- de hero alt: "Illustration: ruhende Sporen von Bacillus coagulans kommen im Darm an, eine springt auf und ein korallrotes Stäbchen wächst heraus, und die Stäbchen treiben an der Schleimhaut vorbei und davon, ohne sich anzusiedeln"
 - en card alt: "Do probiotic spores stay? — a woman in her thirties waits at a bus stop with her bag in cold daylight"
 - ru card alt: "Пробиотик остаётся в кишечнике? — женщина за тридцать ждёт автобус с сумкой на плече в холодный день"
+- de card alt: "Bleiben probiotische Sporen im Darm? — eine Frau um die dreißig wartet mit Tasche an der Haltestelle im kalten Licht"
 - en card question: "Do probiotic spores stay?"
 - ru card question: "Пробиотик остаётся в кишечнике?"
+- de card question: "Bleiben probiotische Sporen im Darm?"
 - en plate lines: "First — spores arrive asleep and whole · Then — one wakes and sours the sugar · So — they drift past and leave"
 - ru plate lines: "Сначала — споры приходят спящими · Затем — одна прорастает в палочку · Итог — проплывают мимо и уходят"
+- de plate lines: "Zuerst — Sporen kommen schlafend und ganz an · Dann — eine wacht auf und säuert den Zucker · Ergebnis — sie treiben vorbei und gehen"
 
 ## Extra lines for Lisa and Mina
 
@@ -56,3 +61,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one straight rod holding its oval spore near one end, sharp in the centre, with two or three free spores resting beside it; the ridges of the surface fall away out of focus. Subject inside the middle 1.91:1 band. **World:** the dry, finely ridged husk of a plant grain, a little dust in the grooves — the organism's home outside the body; low golden-hour side light from the left, long warm raking shadows. **Accent:** gold on the spore inside the sharp rod only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** the waking — left the dormant spores arriving, centre one coat splitting as a rod grows out beside two awake rods and their faint acid haze, right the rods drifting past the lining and out of the frame; read left to right. **Light:** pale-blue early-morning light, level from the far left, its own and not the preview's. **Accent:** coral on the splitting spore coat and the rod growing out of it.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face turned down the road and the bag strap at her shoulder, sharp; the road and kerb behind her soft. **Empty field:** right side, 46 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** late winter morning, flat sunless daylight from the whole sky, cold and blue-grey, no shadow edge.
+
+- es preview alt: "Ilustración: una célula de Bacillus coagulans con forma de bastón que guarda una espora ovalada dorada, con esporas sueltas al lado sobre una cáscara vegetal seca"
+- es hero alt: "Ilustración: esporas dormidas de Bacillus coagulans llegan al intestino, una se abre y de ella crece un bastón coral, y los bastones pasan de largo junto a la mucosa y se van sin instalarse"
+- es card alt: "¿Las esporas se quedan? — una mujer de unos treinta espera en la parada del autobús con su bolsa, luz fría"
+- es card question: "¿Las esporas se quedan?"
+- es plate lines: "Primero — las esporas llegan dormidas y enteras · Después — una despierta y agria el azúcar · Resultado — pasan de largo y se van"

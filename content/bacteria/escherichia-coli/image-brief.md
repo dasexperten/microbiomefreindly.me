@@ -36,6 +36,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Кишечная палочка всегда опасна?"
 - en plate lines: "First — oxygen seeps from the lining · Then — these rods breathe it away · So — over 90 % of us carry them"
 - ru plate lines: "Сначала — от стенки идёт кислород · Затем — палочки его забирают · Итог — их носят больше 90 % людей"
+- de preview alt: "Illustration: stäbchenförmige E.-coli-Zellen mit einem Saum feiner Fäden neben einer Gasblase im feuchten Darminhalt, ein Faden golden beleuchtet"
+- de hero alt: "Illustration: Spuren von Sauerstoff steigen von der Darmschleimhaut auf, die bewimperten E.-coli-Stäbchen daneben nehmen sie auf, und dahinter füllen strenge Anaerobier den luftlosen Raum"
+- de card alt: "Ist E. coli immer gefährlich? — eine Frau um die dreißig hält die Gabel über einer Schüssel Salat inne"
+- de card question: "Ist E. coli immer gefährlich?"
+- de plate lines: "Zuerst — Sauerstoff sickert aus der Wand · Dann — diese Stäbchen veratmen ihn · Ergebnis — über 90 % der Menschen tragen sie"
 
 ## Notes for Marika and Lisa (plain words, not prompt text)
 
@@ -55,3 +60,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one fringed rod resting at the curved rim of a small gas bubble, sharp in the centre, a pair lying end to end beside it; the rest of the wet field falls out of focus. Subject inside the middle 1.91:1 band. **World:** the wet, glistening contents of the gut, a thin liquid film with small trapped gas bubbles; a single narrow sunbeam crossing the frame from the upper left, the rest in soft shade. **Accent:** gold where the beam catches the threads of the sharp rod only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** the thin zone by the lining — left the oxygen traces rising, centre the fifteen rods (thirteen of them E. coli) taking them up, right the dense crowd of strict anaerobes in the airless space; read left to right. **Light:** soft warm-white early-afternoon light from the front, slightly above, its own and not the preview's. **Accent:** lime on the oxygen traces only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the paused fork, sharp; the bowl of leaves just under them a touch softer, the empty tables behind dissolved. **Empty field:** right side, 43 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** one o'clock, wide flat daylight through a long window from the left, neutral to slightly cool, soft-edged shadows.
+
+- es preview alt: "Ilustración: células de E. coli con forma de bastón orladas de hilos finos junto a una burbuja de gas en el contenido húmedo del intestino, un hilo encendido en dorado"
+- es hero alt: "Ilustración: trazas de oxígeno suben desde la mucosa intestinal, los bastones orlados de E. coli las captan y, más allá, los anaerobios estrictos llenan el espacio sin aire"
+- es card alt: "¿E. coli es siempre peligrosa? — una mujer de treinta y tantos detiene el tenedor sobre un plato de ensalada"
+- es card question: "¿E. coli es siempre peligrosa?"
+- es plate lines: "Primero — el oxígeno se filtra desde la pared · Luego — estos bastones lo consumen · Resultado — más del 90 % de nosotros los lleva"

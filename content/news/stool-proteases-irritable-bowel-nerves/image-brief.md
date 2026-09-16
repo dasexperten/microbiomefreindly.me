@@ -113,6 +113,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Эта боль правда телесная?"
 - en plate lines: "First — stool fluid touches the gut wall · Then — an enzyme clips a nerve receptor · So — the nerve net fires far harder"
 - ru plate lines: "Сначала — жидкость стула касается стенки · Затем — фермент срезает рецептор нерва · Итог — нервная сеть возбуждается сильнее"
+- de preview alt: "Illustration: ein Geflecht aus Nervenknoten schimmert durch dünnes Darmgewebe, ein klarer bernsteinfarbener Film legt sich darauf, einige Knoten leuchten korallenrot"
+- de hero alt: "Illustration: ein dünner bernsteinfarbener Flüssigkeitsfilm legt sich auf die Darmschleimhaut; ein Enzym schneidet einen Rezeptor an einer Nervenzelle an, die aufleuchtet und die Knoten des Nervennetzes ringsum weckt"
+- de card alt: "Ist der Schmerz wirklich körperlich? — eine Frau hält im Bürogang inne, den Unterarm quer über dem Bauch"
+- de card question: "Ist der Schmerz wirklich körperlich?"
+- de plate lines: "Zuerst — Stuhlflüssigkeit berührt die Darmwand · Dann — ein Enzym schneidet einen Nervenrezeptor an · Ergebnis — das Nervennetz feuert weit stärker"
 
 ---
 
@@ -141,3 +146,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** an irregular polygon lace of rounded nerve knots and thin fibre strands seen through a thin sheet of gut wall, a clear film with a faint amber cast settling on top; a handful of knots in the middle are awake and sharpest. Subject inside the middle 1.91:1 band. **World:** a thin, wet, slightly folded sheet of gut tissue with the submucous nerve net inside it; backlit translucent glow, light passing through the tissue from behind, warm and soft. **Accent:** coral on the few awake knots only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left to right — the amber fluid film with its small bead-like enzymes settling on the lining; centre, one enzyme clipping the outer end of a receptor on a nerve-cell knot; right, that knot brightening and the firing running along the strands to wake a stretch of the net. **Light:** cool blue-grey shade from the upper left with one warm edge on the nearest forms. **Accent:** gold on the clipped receptor only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the forearm pressed low across her middle. **Empty field:** right side, 46 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 13:30, ceiling light with cool daylight from a window at the far end of the corridor, flat and even.
+
+- es preview alt: "Ilustración: un encaje de nudos nerviosos brilla a través de un tejido intestinal delgado, una película ámbar se posa encima y unos nudos se encienden en coral"
+- es hero alt: "Ilustración: una película delgada de líquido ámbar se posa sobre la mucosa del intestino; una enzima corta un receptor de una célula nerviosa, que se enciende y despierta los nudos de la red que la rodea"
+- es card alt: "¿El dolor sí es físico? — una mujer se detiene en el pasillo de la oficina con el antebrazo cruzado sobre el vientre"
+- es card question: "¿El dolor sí es físico?"
+- es plate lines: "Primero — el líquido de las heces toca la pared del intestino · Luego — una enzima corta un receptor nervioso · Resultado — la red nerviosa dispara mucho más"

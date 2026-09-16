@@ -70,6 +70,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Значит, испытание провалилось?"
 - en plate lines: "First — dead cells settle in the mucus · Then — one gut cell lets out GLP-1 · So — 30 billion cells, nothing moved"
 - ru plate lines: "Сначала — мёртвые клетки ложатся в слизь · Затем — клетка кишки выпускает ГПП-1 · Итог — 30 млрд клеток, сдвига нет"
+- de preview alt: "Illustration: ganze, reglose ovale Akkermansia-Zellen liegen in abgeweideten Mulden des Darmschleims, darunter ein korallener Schimmer der Schleimhaut"
+- de hero alt: "Illustration: eine dichte Schwade hitzeabgetöteter ovaler Akkermansia-Zellen im Darmschleim; eine Hormonzelle der Schleimhaut gibt einen goldenen Stoß ab, während das Gewebe dahinter unverändert bleibt"
+- de card alt: "Ist die Studie gescheitert? — ein Mann Anfang vierzig wartet allein an einer Haltestelle im kalten Morgenlicht"
+- de card question: "Ist die Studie gescheitert?"
+- de plate lines: "Zuerst — tote Zellen legen sich in den Schleim · Dann — eine Darmzelle gibt GLP-1 ab · Ergebnis — 30 Milliarden Zellen, nichts bewegt"
 
 ---
 
@@ -96,3 +101,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** a loose pair and a single oval cell, whole and still, lying in a shallow hollow they have grazed into the mucus; the nearest pair is the sharpest spot, and beneath them, through the thinned gel, one lining cell shows. Subject inside the middle 1.91:1 band. **World:** the grazed surface of the gut mucus blanket — a thick, translucent gel pitted with shallow hollows and soft furrows; pale green-tinted light filtering down as if through leaves, soft dapples, late morning, cool-green temperature. **Accent:** coral on the one lining cell glimpsed beneath the thinned mucus only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left to right — an uncountable drift of whole, inert oval cells settling into the mucus over a short row of lining cells; centre, one lining hormone cell releasing a small burst of packets where the mucus is thinnest; right, the wide field of tissue cells beyond, untouched and unchanged. **Light:** flat overhead noon daylight, neutral-cool, short shadows falling straight down. **Accent:** gold on the hormone packets only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** his face and the hand pushed into his coat pocket; the empty street behind him soft. **Empty field:** right side, 46 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 07:10, cold blue first light from behind the houses, low and even, winter-cold.
+
+- es preview alt: "Ilustración: células ovaladas de Akkermansia, enteras e inmóviles, yacen en huecos pastados del moco intestinal, con un destello coral de la mucosa debajo"
+- es hero alt: "Ilustración: una masa densa de células ovaladas de Akkermansia muertas por calor en el moco intestinal; una célula hormonal de la mucosa suelta un chorro dorado mientras el tejido de más allá sigue igual"
+- es card alt: "¿Fracasó el ensayo? — un hombre de cuarenta y tantos espera solo en una parada de autobús con luz fría"
+- es card question: "¿Fracasó el ensayo?"
+- es plate lines: "Primero — células muertas se posan en el moco · Luego — una célula del intestino suelta GLP-1 · Resultado — 30 mil millones de células, nada se movió"

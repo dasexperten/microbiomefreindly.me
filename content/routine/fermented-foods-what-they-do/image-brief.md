@@ -73,6 +73,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Кефир вообще что-то даёт?"
 - en plate lines: "First — live cells come with the food · Then — they pass through, few stay · So — 19 inflammatory proteins fell"
 - ru plate lines: "Сначала — живые клетки идут с едой · Затем — проходят мимо, редко остаются · Итог — 19 белков воспаления упали"
+- de preview alt: "Illustration: Ketten runder Zellen, lange Stäbchen und große sprossende Hefen zwischen winzigen Bläschen in einem lebendigen Ferment"
+- de hero alt: "Illustration: Bakterien aus einem lebendigen Ferment treiben über die Darmschleimhaut; von zwanzig findet eine einen Platz, Säuren sickern in den Schleim, und die ansässigen Bakterien werden vielfältiger"
+- de card alt: "Bringt Fermentiertes wirklich etwas? — ein Mann isst nachmittags Kefir an einem kleinen Tisch auf seinem Balkon"
+- de card question: "Bringt Fermentiertes wirklich etwas?"
+- de plate lines: "Zuerst — lebende Zellen kommen mit dem Essen · Dann — sie ziehen durch, wenige bleiben · Ergebnis — 19 Entzündungseiweiße fielen"
 
 **8. What must never appear**
 
@@ -102,3 +107,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** two large oval yeast cells, each with a smaller daughter bud swelling from its side, sharp at the centre, with a chain of five or six round cells and a few long straight rods lying against the skin of small gas bubbles around them; further bubbles and cells soften away. Subject inside the middle 1.91:1 band. **World:** the inside of a live milk ferment at the scale of the cells — a soft, pale, translucent curd matrix threaded with tiny round gas bubbles, no jar, glass, spoon or surface of a food; low candle-warm glow from a single small source at lower right, deep amber, soft falling shadows. **Accent:** lime on the daughter buds only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left, a crowded field of arrivals — long rods, chains of round cells, plump short rods, a few big budding yeasts — on plant cell-wall strands and in a soft matrix; centre, exactly twenty arrivals drifting across the mucus over the finger-shaped folds, one of them lodged among the resident rods, the other nineteen passing on, with a soft drift of dissolved acids and broken-down sugars seeping into the mucus; right, the resident field itself holding more different shapes than in the centre. **Light:** cool silvery early-morning light, low from the left, long soft shadows. **Accent:** gold on the soft chemical drift seeping into the mucus only — never on any cell.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** his face and the plain bowl held in both hands with the spoon resting in it, sharp; the balcony rail and the street beyond falling soft. **Empty field:** right side, 46 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** five past three in the afternoon, hot high sun bouncing off the rendered wall into open shade from the left, warm and dry, soft short shadows.
+
+- es preview alt: "Ilustración: cadenas de células redondas, bacilos largos y levaduras grandes en gemación entre burbujas diminutas de un fermento vivo"
+- es hero alt: "Ilustración: bacterias de un fermento vivo pasan sobre la mucosa intestinal; de veinte, una ocupa un lugar, los ácidos se filtran en el moco y las bacterias residentes acaban siendo más variadas"
+- es card alt: "¿Lo fermentado sirve de algo? — un hombre come un tazón de kéfir en una mesita de su balcón por la tarde"
+- es card question: "¿Lo fermentado sirve de algo?"
+- es plate lines: "Primero — las células vivas llegan con la comida · Luego — pasan de largo y pocas se quedan · Resultado — bajaron 19 proteínas de inflamación"

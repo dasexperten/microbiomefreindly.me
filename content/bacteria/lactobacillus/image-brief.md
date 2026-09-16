@@ -49,6 +49,11 @@ Alt lines written 2026-09-16 against the accepted frames (RU register: Alexandra
 - ru card question: "Йогурт живёт в кишечнике?"
 - en plate lines: "First — rods eat sugar in a still pocket · Then — their acid sours the space · So — in the gut about 0.01 %"
 - ru plate lines: "Сначала — палочки едят сахар · Затем — кислота закисляет карман · Итог — в кишечнике около 0,01 %"
+- de preview alt: "Illustration: kurze Ketten stäbchenförmiger Lactobacillus-Zellen liegen in einem sauer werdenden Milchfilm, um eine Kette ein schwacher goldener Schleier"
+- de hero alt: "Illustration: links drängen sich Lactobacillus-Stäbchen in einer sauren, golden getönten Nische, rechts sitzt auf der Darmschleimhaut eine kleine Kette unter unzähligen anderen Bakterien"
+- de card alt: "Lebt Joghurt in Ihrem Darm? — ein Mann isst im ersten Licht Naturjoghurt an der Küchenzeile"
+- de card question: "Lebt Joghurt in Ihrem Darm?"
+- de plate lines: "Zuerst — Stäbchen essen Zucker in einer stillen Nische · Dann — ihre Säure säuert den Raum · Ergebnis — im Darm etwa 0,01 %"
 
 ## For Lisa — the idea and the mechanism
 
@@ -73,3 +78,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one short end-to-end chain of rice-grain rods lying in a souring milk film, sharp, centre of the frame; neighbouring chains soften away. The whole subject inside the middle 1.91:1 band. **World:** a pale, faintly curdled milk surface; cool paper-white early morning light from the upper right. **Accent:** gold, as a faint haze in the film immediately around the sharp chain — the acid — and nowhere else.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** the gap — left, a still, sour pocket crowded with chains of rods; right, the gut lining under a dense crowd of other bacteria where one small chain of the same rods sits. The eye reads left to right. **Light:** soft overhead daylight, neutral-warm, its own and not the preview's. **Accent:** gold on the acid in the left pocket only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** his eyes and the spoon he has lifted. **Empty field:** right, 46 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 06:40, first daylight through the window on her left, cold and blue.
+
+- es preview alt: "Ilustración: cadenas cortas de células de Lactobacillus con forma de bastón reposan en una película de leche que se agria, con una leve bruma dorada alrededor de una cadena"
+- es hero alt: "Ilustración: a la izquierda los bastones de Lactobacillus se apiñan en un hueco ácido con tonos dorados, y a la derecha, sobre la mucosa intestinal, una cadena pequeña queda entre incontables bacterias más"
+- es card alt: "¿El yogur vive en tu intestino? — un hombre come yogur natural en la barra de su cocina al amanecer"
+- es card question: "¿El yogur vive en tu intestino?"
+- es plate lines: "Primero — los bastones comen azúcar en un hueco quieto · Luego — su ácido acidifica el espacio · Resultado — en el intestino, un 0,01 %"

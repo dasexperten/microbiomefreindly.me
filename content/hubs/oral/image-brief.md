@@ -54,6 +54,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Кто строит налёт на зубах?"
 - en plate lines: "First — bacteria stick to the enamel · Then — sugar feeds the acid-makers · So — the enamel softens beneath"
 - ru plate lines: "Сначала — бактерии липнут к эмали · Затем — сахар кормит кислотообразующих · Итог — эмаль под налётом размягчается"
+- de preview alt: "Illustration: ein junger Hügel runder Bakterien in kurzen Ketten auf Zahnschmelz, eingehüllt in ein glänzendes Zuckergel mit goldenem Rand"
+- de hero alt: "Illustration: immer neuer Zucker erreicht einen Belaghügel auf dem Zahnschmelz, säurebildende runde Bakterien übernehmen, und ein korallenroter Säureschleier weicht den Schmelz darunter auf"
+- de card alt: "Woher kommt der Zahnbelag? — eine Frau beugt sich im kühlen Morgenlicht über das Waschbecken, eben ausgespült"
+- de card question: "Woher kommt der Zahnbelag?"
+- de plate lines: "Zuerst — Bakterien haften am Zahnschmelz · Dann — Zucker füttert die Säurebildner · Ergebnis — der Schmelz weicht darunter auf"
 
 Only these four descriptive lines change per language; the pixels stay the same.
 
@@ -72,3 +77,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one small young plaque mound at the centre — bead-chains of round cells and a few slender rods inside glossy sugar gel — sharp at its rim where it meets the plain; the fine scale pattern of the enamel softening away around it. Subject inside the middle 1.91:1 band. **World:** a hard, pale enamel plain with its fine scale pattern under a thin clear saliva film; soft peach dawn light from low on the left, long gentle shadows. **Accent:** gold on the glossy rim of the sugar gel only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** a balanced mound with sugar molecules arriving → acid-making round chains crowding the mound → the softened, pitted hollow in the enamel beneath it, left to right. **Light:** clean neutral daylight from the front, slightly cool, even soft shadows. **Accent:** coral on the acid haze at the enamel surface only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face bent over the basin and the hand at the rim. **Empty field:** right side, 43 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 06:30, cool early daylight through a frosted window from the left, blue-white and even.
+
+- es preview alt: "Ilustración: un montículo joven de bacterias redondas en cadenas cortas sobre el esmalte del diente, envuelto en un gel de azúcar brillante con el borde dorado"
+- es hero alt: "Ilustración: el azúcar llega una y otra vez a un montículo de placa sobre el esmalte, las bacterias redondas que hacen ácido se imponen y una bruma coral de ácido ablanda el esmalte debajo"
+- es card alt: "¿De dónde viene la placa? — una mujer se inclina sobre el lavabo en la luz fría del amanecer, recién enjuagada"
+- es card question: "¿De dónde viene la placa?"
+- es plate lines: "Primero — las bacterias se pegan al esmalte · Luego — el azúcar alimenta a las que hacen ácido · Resultado — el esmalte se ablanda debajo"

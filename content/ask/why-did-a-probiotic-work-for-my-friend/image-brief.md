@@ -68,6 +68,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Пробиотик другу помог. А мне?"
 - en plate lines: "First — six strains look identical · Then — same gut, same conditions · So — 4 of 6 did anything"
 - ru plate lines: "Сначала — 6 штаммов на вид одинаковы · Затем — кишечник один и тот же · Итог — помогли 4 из 6"
+- de preview alt: "Illustration: zwei gleiche Gruppen stäbchenförmiger Bakterien auf gewelltem Darmschleim; unter der einen verändert sich der Schleim, unter der anderen nicht"
+- de hero alt: "Illustration: sechs gleiche Häufchen stäbchenförmiger Bakterien setzen sich auf denselben Darmschleim; unter vieren verändert er sich sichtbar, unter zweien bleibt er unberührt"
+- de card alt: "Ihr half es. Warum mir nicht? — eine Frau nachmittags am Cafétisch, ihr gegenüber eine zweite Tasse"
+- de card question: "Ihr half es. Warum mir nicht?"
+- de plate lines: "Zuerst — sechs Stämme sehen gleich aus · Dann — derselbe Darm, dieselben Bedingungen · Ergebnis — 4 von 6 bewirkten etwas"
 
 ## 8. What must never appear
 
@@ -106,3 +111,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** two small, identical groups of rice-grain rods resting a little apart on the mucus surface — same shape, size and colour; under the nearer group the fine ripples of the mucus have loosened into a changed, softer pattern, under the other they run on unbroken. The nearer group sharp, the far one slightly soft. Subject inside the middle 1.91:1 band. **World:** the upper surface of the gut mucus layer, finely rippled and crisp like wind-packed snow; clear icy early-morning light, cool and bright, low from the left, thin sharp shadows in the ripples. **Accent:** gold on the changed mucus under the nearer group only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** read left to right — six identical clusters of rods drifting down toward the mucus film on the left; the same six touching down on the same film over rounded folds in the centre; on the right the six at rest in a row, the film visibly changed beneath four and untouched beneath two. **Light:** neutral, crisp noon light from directly overhead, short contact shadows. **Accent:** lime on the changed film beneath the four clusters only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the small lift of her shoulder, sharp; the second cup on the far side of the table just soft, the café behind softer. **Empty field:** right side, 47 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** twenty past four in the afternoon, low autumn sun flat through the window from the left, warm gold, long soft shadows.
+
+- es preview alt: "Ilustración: dos grupos idénticos de bacterias alargadas sobre moco intestinal ondulado; bajo uno el moco cambia y bajo el otro no"
+- es hero alt: "Ilustración: seis grupos idénticos de bacterias alargadas se posan sobre el mismo moco intestinal; bajo cuatro el moco cambia a la vista y bajo dos queda intacto"
+- es card alt: "¿Por qué a mí no funcionó? — una mujer en la mesa de un café por la tarde, una segunda taza enfrente"
+- es card question: "¿Por qué a mí no funcionó?"
+- es plate lines: "Primero — seis cepas se ven iguales · Luego — el mismo intestino, las mismas condiciones · Resultado — solo 4 de 6 hicieron algo"

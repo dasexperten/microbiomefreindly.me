@@ -55,12 +55,17 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: branching soil bacteria release antibiotic molecules, six of nine in coral, while across the frame forked Bifidobacterium rods rest on a gut lining"
 - ru preview alt: "Иллюстрация: тонкие ветвящиеся нити почвенных бактерий на влажных частицах почвы, их поднятые кончики заканчиваются светло-зелёными цепочками спор"
 - ru hero alt: "Иллюстрация: ветвящиеся почвенные бактерии выпускают молекулы антибиотика, шесть из девяти коралловые, а через весь кадр вилообразные палочки бифидобактерий лежат на слизистой кишечника"
+- de preview alt: "Illustration: feine, verzweigte Fäden von Bodenbakterien über feuchten Erdkörnern, ihre aufgerichteten Spitzen enden in blassgrünen Sporenketten"
+- de hero alt: "Illustration: verzweigte Bodenbakterien geben Antibiotikamoleküle ab, sechs von neun in Korallrot, während quer durch das Bild gegabelte Bifidobakterien-Stäbchen auf einer Darmschleimhaut ruhen"
 - en card alt: "Where did our antibiotics begin? — a man in his seventies presses damp soil around a seedling in his garden"
 - ru card alt: "Антибиотики родом из земли? — мужчина за семьдесят прижимает влажную землю у ростка в своём саду"
+- de card alt: "Kommen Antibiotika aus der Erde? — ein Mann über siebzig drückt feuchte Erde um einen Setzling in seinem Garten"
 - en card question: "Where did our antibiotics begin?"
 - ru card question: "Антибиотики родом из земли?"
+- de card question: "Kommen Antibiotika aus der Erde?"
 - en plate lines: "First — threads grow in damp soil · Then — they release antibiotics · So — two-thirds of ours began here"
 - ru plate lines: "Сначала — нити растут в сырой земле · Затем — они выделяют антибиотик · Итог — две трети антибиотиков отсюда"
+- de plate lines: "Zuerst — Fäden wachsen in feuchter Erde · Dann — sie geben Antibiotika ab · Ergebnis — zwei Drittel der unseren begannen hier"
 
 ---
 
@@ -90,3 +95,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one upright thread rising from the mat, its chain of spores at the tip sharp in the centre; the mat of branching threads over the soil grains softens behind. Subject inside the middle 1.91:1 band. **World:** a crumb of damp soil — rounded mineral grains, humus flecks, a thin water film between them; overcast north-window light, cool and even from the upper left, almost shadowless. **Accent:** lime on the spore chains at the tips of the sharp threads only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left the soil crumb threaded with branching filaments; centre the nine molecules in the water film, six rising from the threads; right the forked rods resting on a smooth gut lining — read left to right. **Light:** clear late-morning light from the upper left, neutral-warm, its own and not the preview's. **Accent:** coral on the six molecules from the threads.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** his hands and the soil he is pressing in, sharp; his face a touch softer behind them, the garden beyond out of focus. **Empty field:** right side, 46 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** mid-morning under an even overcast sky, flat and from above, cool and damp with no shadow edge.
+
+- es preview alt: "Ilustración: finos hilos ramificados de bacterias del suelo sobre granos de tierra húmeda, con las puntas levantadas terminando en cadenas de esporas verde pálido"
+- es hero alt: "Ilustración: bacterias ramificadas del suelo liberan moléculas de antibiótico, seis de nueve en coral, mientras al otro lado del cuadro bastones bifurcados de Bifidobacterium reposan sobre una mucosa intestinal"
+- es card alt: "¿De dónde salen los antibióticos? — un hombre de más de setenta aprieta tierra húmeda junto a un brote en su jardín"
+- es card question: "¿De dónde salen los antibióticos?"
+- es plate lines: "Primero — los hilos crecen en tierra húmeda · Después — liberan antibióticos · Resultado — dos tercios de los nuestros nacieron aquí"

@@ -99,6 +99,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Чем питается стенка кишечника?"
 - en plate lines: "First — it hides where no air reaches · Then — it eats what neighbours drop · So — the lining is fed; over 5 % of all"
 - ru plate lines: "Сначала — прячется там, где нет воздуха · Затем — ест то, что бросили соседи · Итог — стенка сыта; больше 5 % бактерий"
+- de preview alt: "Illustration: schlanke stäbchenförmige Bakterien liegen in dichtem Schleim über der Dickdarmschleimhaut, von ihnen sinken winzige korallenfarbene Kügelchen herab"
+- de hero alt: "Illustration: unter zwanzig Darmbakterien in luftlosem Schleim nimmt ein schlankes Stäbchen die Reste seiner Nachbarn auf und gibt goldene Butyrat-Kügelchen ab, die in die Dickdarmschleimhaut übergehen"
+- de card alt: "Was ernährt die Darmschleimhaut? — eine junge Frau isst Haferbrei auf ihrem Balkon in der letzten Sonne"
+- de card question: "Was ernährt die Darmschleimhaut?"
+- de plate lines: "Zuerst — es versteckt sich, wo keine Luft hinkommt · Dann — es isst, was die Nachbarn fallen lassen · Ergebnis — die Schleimhaut ist satt; über 5 % aller"
 ```
 
 ## Notes for Lisa and Otto (plain words)
@@ -119,3 +124,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** three slender rods lying flat, deep in dense mucus gel, the middle one sharpest; a few tiny beads drift from it down toward the lining. Subject inside the middle 1.91:1 band. **World:** a dense, still inner mucus gel pressed over a flat colon lining dotted with small round crypt openings; cool silver moonlike light from high above, low intensity, pewter temperature. **Accent:** coral on the tiny butyrate beads only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left, a crowd of exactly twenty bacteria in airless mucus with one slender rod among them; centre, that rod takes in grey acetate beads and gives out butyrate beads; right, the beads pass into a row of lining cells. The eye reads left to right. **Light:** warm apricot light from the upper left, soft shadows — its own, not the preview's. **Accent:** gold on the butyrate beads.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the bowl held at her chest, sharp; the rail and the street below soft. **Empty field:** left side, 45 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** the last hour of sun, low and raking from the right, warm amber, the left wall held in even shade just outside the beam.
+
+- es preview alt: "Ilustración: bacterias esbeltas con forma de bastón yacen en un moco denso sobre la mucosa del colon, y de ellas caen diminutas cuentas de color coral"
+- es hero alt: "Ilustración: entre veinte bacterias intestinales en moco sin aire, un bastón esbelto toma las sobras de sus vecinas y suelta cuentas doradas de butirato que pasan a la mucosa del colon"
+- es card alt: "¿Qué alimenta tu mucosa intestinal? — una joven come un plato de avena en su balcón con el último sol"
+- es card question: "¿Qué alimenta tu mucosa intestinal?"
+- es plate lines: "Primero — se esconde donde no llega el aire · Luego — come lo que sueltan sus vecinas · Resultado — la mucosa se alimenta; más del 5 % del total"

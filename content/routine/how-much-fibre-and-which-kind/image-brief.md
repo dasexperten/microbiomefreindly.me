@@ -77,6 +77,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Сколько клетчатки в день?"
 - en plate lines: "First — three kinds of fibre arrive · Then — only one of them is eaten · So — 25–29 g a day, then it levels"
 - ru plate lines: "Сначала — приходят три вида клетчатки · Затем — едят только один из них · Итог — 25–29 г в день, дальше плато"
+- de preview alt: "Illustration: gegabelte Darmbakterien zerlegen weiche, verzweigte Ballaststoffketten, während ein glattes Gelband vorbeigleitet"
+- de hero alt: "Illustration: drei Ballaststoffe erreichen die Darmschleimhaut; die Bakterien fressen nur die verzweigten Ketten, ein Gelband und ein Kleieteilchen gehen unversehrt durch, und größere Portionen bringen nichts mehr dazu"
+- de card alt: "Wie viel Ballaststoff am Tag? — eine Frau früh am Morgen am Esstisch, vor ihr eine Schale Haferbrei"
+- de card question: "Wie viel Ballaststoff am Tag?"
+- de plate lines: "Zuerst — drei Arten Ballaststoff kommen an · Dann — nur eine davon wird gefressen · Ergebnis — 25–29 g am Tag, dann flacht es ab"
 
 ## 8. What must never appear
 
@@ -116,3 +121,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** one soft branched fibre chain, sharp at the centre, with three or four forked cells gripping it and unpicking its frayed side-branches; the smooth edge of a gel ribbon slides past behind them, untouched and soft in focus. Subject inside the middle 1.91:1 band. **World:** a thin, clear, watery film at the scale of the cells, loose branched chains floating in it like frayed thread, no grain, seed, bowl or powder; crisp cool noon light from straight above, white and clean, small sharp shadows. **Accent:** coral on the frayed chain ends the cells are working on only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** left to right over one mucus-covered stretch of folds — the three fibre bodies arriving together (branched chains, a smooth gel ribbon, an angular bran flake); centre, forked and slender rods crowding onto the chains and thinning them while the ribbon and flake travel on whole; right, three heaps of branched chains growing in equal steps, each beside a pool of small fermentation-product droplets — small, larger, then the same as the second. **Light:** warm apricot backlight from behind the folds, rim-lighting every form, soft glow through the gel. **Accent:** lime on the branched fermentable chains only.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her face and the plain bowl of porridge on the table in front of her, sharp; the window and the room falling soft. **Empty field:** left side, 44 % of the width, the flat plain curtain. Head and shoulders inside the middle 1.91:1 band. **Light:** twenty-five past seven in the morning, clear cold early daylight diffused through the curtain from the left, blue-white, faint soft shadows.
+
+- es preview alt: "Ilustración: bacterias intestinales bifurcadas desarman cadenas blandas y ramificadas de fibra mientras una cinta lisa de gel pasa de largo"
+- es hero alt: "Ilustración: tres fibras llegan a la mucosa intestinal; las bacterias solo comen las cadenas ramificadas, una cinta de gel y una hojuela de salvado pasan enteras, y las porciones más grandes dejan de dar más"
+- es card alt: "¿Cuánta fibra al día? — una mujer en la mesa del comedor muy temprano, con un tazón de avena delante"
+- es card question: "¿Cuánta fibra al día?"
+- es plate lines: "Primero — llegan tres clases de fibra · Luego — solo una de ellas se come · Resultado — 25–29 g al día y luego se aplana"

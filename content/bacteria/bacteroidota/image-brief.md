@@ -32,12 +32,17 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - en hero alt: "Illustration: plump rods take plant fibre apart into gold fragments above a thick mucus layer; further right, with no fibre left, the same rods graze the mucus and it thins"
 - ru preview alt: "Иллюстрация: пухлые палочки Bacteroidota собрались на разлохмаченном конце растительного волокна с лаймовым оттенком на разрыве, свет падает сзади"
 - ru hero alt: "Иллюстрация: пухлые палочки разбирают растительное волокно на золотистые фрагменты над толстым слоем слизи; правее, где волокна нет, те же палочки поедают слизь, и слой истончается"
+- de preview alt: "Illustration: pralle Bacteroidota-Stäbchen sammeln sich am ausgefransten, limettengrün getönten Bruchende eines Pflanzenfaserstrangs, von hinten beleuchtet"
+- de hero alt: "Illustration: pralle Stäbchen zerlegen Pflanzenfaser in goldene Bruchstücke über einer dicken Schleimschicht; weiter rechts, ohne Faser, weiden dieselben Stäbchen den Schleim ab, und die Schicht wird dünner"
 - en card alt: "What happens without fibre? — a woman in her forties sets a paper bag of greens on a market table at noon"
 - ru card alt: "Что будет без клетчатки? — женщина за сорок ставит бумажный пакет с зеленью на прилавок рынка в полдень"
+- de card alt: "Was passiert ohne Ballaststoffe? — eine Frau um die vierzig stellt mittags eine Papiertüte mit Grünzeug auf den Markttisch"
 - en card question: "What happens without fibre?"
 - ru card question: "Что будет без клетчатки?"
+- de card question: "Was passiert ohne Ballaststoffe?"
 - en plate lines: "First — plant fibre reaches them whole · Then — they take it apart for you · So — no fibre, and they eat your lining"
 - ru plate lines: "Сначала — клетчатка доходит целой · Затем — они разбирают её для вас · Итог — без клетчатки едят вашу слизь"
+- de plate lines: "Zuerst — Pflanzenfaser erreicht sie ganz · Dann — sie zerlegen sie für Sie · Ergebnis — ohne Faser fressen sie Ihre Schleimhaut"
 
 ## The single idea both images carry
 
@@ -67,3 +72,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Preview (Lisa):** card cover, 3:2, master 1440×960. **Focus:** the torn end of one plant fibre strand, its fibrils splayed, with three or four plump uneven rods nosing into the frayed point, sharp in the centre; the rest of the strand runs away out of focus. Subject inside the middle 1.91:1 band. **World:** a single ribbed strand of plant cell wall lying in a wet film of colon contents, the meal's leftover; soft rim backlight from behind the strand, its edges glowing, the front in gentle shade. **Accent:** lime on the frayed fibrils being taken apart only.
 - **Hero (Otto):** article hero, 16:9, master 2400×1350. **Focus:** the switch — left fibre strands arriving over thick mucus, centre the rods breaking fibre into fragments, right the same rods, no fibre left, sunk into a thinned mucus layer; read left to right. **Light:** warm apricot light, low from the front-left, its own and not the preview's. **Accent:** gold on the fibre fragments the rods release.
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** her hands on the paper bag and the greens under them, sharp; her face a touch softer above, the market beyond dissolved. **Empty field:** left side, 43 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** noon, hard sun from almost straight overhead, warm and white, the awning holding her face and the empty field in clean open shade.
+
+- es preview alt: "Ilustración: bastones rollizos de Bacteroidota reunidos en el extremo deshilachado, teñido de lima, de una hebra de fibra vegetal, iluminados desde atrás"
+- es hero alt: "Ilustración: bastones rollizos deshacen fibra vegetal en fragmentos dorados sobre una capa gruesa de moco; más a la derecha, sin fibra, esos mismos bastones pastan el moco y la capa adelgaza"
+- es card alt: "¿Qué pasa sin fibra? — una mujer de unos cuarenta deja una bolsa de papel con verduras en un puesto del mercado"
+- es card question: "¿Qué pasa sin fibra?"
+- es plate lines: "Primero — la fibra vegetal les llega entera · Después — la desarman para ti · Resultado — sin fibra, se comen tu mucosa"

@@ -54,6 +54,11 @@ Alt lines written 2026-09-16 for the planned frames (RU register: Alexandra's ga
 - ru card question: "Отчего приходит сытость?"
 - en plate lines: "First — bacteria ferment fibre · Then — fatty acids reach a gut cell · So — it releases GLP-1 into the blood"
 - ru plate lines: "Сначала — бактерии сбраживают клетчатку · Затем — кислоты доходят до клетки кишки · Итог — она выпускает ГПП-1 в кровь"
+- de preview alt: "Illustration: eine kolbenförmige Hormonzelle der Darmschleimhaut trägt leuchtend goldene GLP-1-Körnchen, während Fettsäuremoleküle auf ihrer Spitze landen"
+- de hero alt: "Illustration: Bakterien vergären Ballaststoffe zu Fettsäuremolekülen, die an einer Hormonzelle der Darmschleimhaut andocken; sie gibt goldene GLP-1-Körnchen in ein kleines Blutgefäß ab"
+- de card alt: "Was macht eigentlich satt? — ein Mann bleibt in der Dämmerung am Parkrand stehen, um zu verschnaufen"
+- de card question: "Was macht eigentlich satt?"
+- de plate lines: "Zuerst — Bakterien vergären Ballaststoffe · Dann — Fettsäuren erreichen eine Darmzelle · Ergebnis — sie gibt GLP-1 ins Blut ab"
 
 Only these four descriptive lines change per language; the pixels stay the same.
 
@@ -75,3 +80,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - **Card (Lisa · person):** feed card + social + article lead, 3:2, master 1440×960. **Focus:** his face and the open jacket; the path and the trees behind him soft. **Empty field:** right side, 45 % of the width. Head and shoulders inside the middle 1.91:1 band. **Light:** 19:30, the last blue dusk with one warm street lamp off frame to the left, cool and low.
 
 **Marika, 2026-09-16, after the side-by-side check:** the first preview (Akkermansia pairs in layered mucus) read as the same plate as the Akkermansia encyclopedia card. The preview moves to the hub's other named actor: **Focus:** one flask-shaped GLP-1 cell of the colon lining, its gold granules and the fatty-acid molecules settling on its tuft; **World:** the lining at cell scale, hot white midday haze; **Accent:** gold on the granules. Field 3 for this frame reads: the GLP-1-releasing hormone cell named in the hub.
+
+- es preview alt: "Ilustración: una célula hormonal con forma de matraz en la mucosa del intestino guarda gránulos dorados de GLP-1 mientras moléculas de ácidos grasos se posan en su punta"
+- es hero alt: "Ilustración: las bacterias fermentan la fibra en moléculas de ácidos grasos que se acoplan a una célula hormonal de la mucosa del intestino; esta suelta gránulos dorados de GLP-1 a un vaso pequeño"
+- es card alt: "¿Qué te hace sentir lleno? — un hombre se detiene al borde del parque al anochecer para recuperar el aliento"
+- es card question: "¿Qué te hace sentir lleno?"
+- es plate lines: "Primero — las bacterias fermentan la fibra · Luego — los ácidos llegan a una célula del intestino · Resultado — suelta GLP-1 a la sangre"
