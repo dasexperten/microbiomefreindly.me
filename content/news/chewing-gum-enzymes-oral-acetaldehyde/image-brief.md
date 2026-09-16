@@ -193,3 +193,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ms card alt: "Adakah gula punca kanser mulut? — seorang wanita di balkoninya pada larut malam, sedang mengunyah, segelas wain di tangan"
 - ms card question: "Adakah gula punca kanser mulut?"
 - ms plate lines: "Mula-mula — gula dan alkohol sampai ke plak · Kemudian — mikrob menghasilkan karsinogen · Hasilnya — peptida membunuh 91.37 %, bukan semua"
+
+- tl preview alt: "Ilustrasyon: mga kadena ng bilog na bacteria at umuusbong na yeast na hawak ng malagkit na pelikula sa maputlang enamel, may isang nanipis na bahaging tinatamaan ng berde"
+- tl hero alt: "Ilustrasyon: naglalabas ng acetaldehyde ang mga mikrobyo sa balat ng plaque sa enamel; pinapatahimik ng isang peptide ang halos lahat, at tatlong nakakanlong na selula ang nakakaligtas hanggang tunawin ng enzyme ang balat"
+- tl card alt: "Nakakacancer ba ang asukal sa bibig? — isang babae sa balkonahe nang gabing-gabi, ngumunguya, may hawak na baso ng alak"
+- tl card question: "Nakakacancer ba ang asukal sa bibig?"
+- tl plate lines: "Una — nakakarating sa plaque ang asukal at alak · Tapos — gumagawa ng carcinogen ang mikrobyo · Kaya — 91.37 % ang napatay ng peptide, hindi lahat"
+
+- ja preview alt: "イラスト：淡いエナメル質を覆う粘つく膜の中に、丸い細菌の鎖と出芽する酵母が抱えられ、薄くなった一か所がライム色に光っている"
+- ja hero alt: "イラスト：エナメル質の上の歯垢の殻の中で微生物がアセトアルデヒドを放つ。ペプチドがその大半を静めるが、守られた3個の細胞は酵素が殻を溶かすまで生き残る"
+- ja card alt: "砂糖で口のがんになる？ — 深夜、女性がバルコニーでワイングラスを手に、何かを噛んでいる"
+- ja card question: "砂糖で口のがんになる？"
+- ja plate lines: "まず — 砂糖とアルコールが歯垢に届く · 次に — 微生物が発がん物質をつくる · 結果 — ペプチドが殺したのは91.37%、全部ではない"

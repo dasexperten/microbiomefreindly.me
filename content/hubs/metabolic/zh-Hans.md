@@ -18,13 +18,13 @@ voice: greger
 answer: "肠道细菌把纤维发酵成短链脂肪酸——乙酸、丙酸、丁酸。它们喂养肠壁，并向那些释放 GLP-1 的细胞发信号；GLP-1 正是让胃排空变慢、告诉大脑你饱了的激素。靠黏液为生的 Akkermansia muciniphila（嗜黏蛋白阿克曼菌）加固屏障，让这场对话保持有序。它是一条通路，不是一种解药。"
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/metabolic/metabolic-card-en.webp"
+  card: "/assets/img/mbf/hubs/metabolic/metabolic-card-zh-hans.webp"
   cardLine: "是什么让人觉得饱了？"
   cardAlt: "是什么让人觉得饱了？ — 黄昏时分，一位男性在公园边缘停下来喘口气"
-  og: "/assets/img/mbf/hubs/metabolic/metabolic-og-en.jpg"
+  og: "/assets/img/mbf/hubs/metabolic/metabolic-og-zh-hans.jpg"
   preview: "/assets/img/mbf/hubs/metabolic/metabolic-preview.webp"
   previewAlt: "插图：肠黏膜里一个瓶状的激素细胞含着发亮的金色 GLP-1 颗粒，脂肪酸分子落在它的顶端"
-  plate: "/assets/img/mbf/hubs/metabolic/metabolic-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/metabolic/metabolic-plate-zh-hans.webp"
   plateLines: "首先 — 细菌发酵纤维 · 然后 — 脂肪酸到达肠细胞 · 结果 — 它把 GLP-1 放进血液"
   hero: "/assets/img/mbf/hubs/metabolic/metabolic-hero.webp"
   heroAlt: "插图：细菌把纤维发酵成脂肪酸分子，分子停靠在肠黏膜的激素细胞上；细胞把金色的 GLP-1 颗粒释放进一根小血管"

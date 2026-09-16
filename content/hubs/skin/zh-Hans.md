@@ -18,13 +18,13 @@ voice: greger
 answer: "肠皮轴是肠道菌群与皮肤之间的双向联系。肠道细菌塑造那些循环到皮肤的免疫细胞和代谢物；皮肤自己的微生物再对这种免疫基调作出回应。湿疹、痤疮和玫瑰痤疮都与肠道的变化有关联——经由炎症、屏障功能和饮食，而不是细菌跑到脸上去。"
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/skin/skin-card-en.webp"
+  card: "/assets/img/mbf/hubs/skin/skin-card-zh-hans.webp"
   cardLine: "肠道会写在脸上吗？"
   cardAlt: "肠道会写在脸上吗？ — 早晨，一位女性站在洒满阳光的窗边，指尖轻搭在下颌"
-  og: "/assets/img/mbf/hubs/skin/skin-og-en.jpg"
+  og: "/assets/img/mbf/hubs/skin/skin-og-zh-hans.jpg"
   preview: "/assets/img/mbf/hubs/skin/skin-preview.webp"
   previewAlt: "插图：扁平的皮肤表层细胞上，圆形细菌聚成葡萄串一样的团，毛孔边缘有珊瑚色的短杆菌"
-  plate: "/assets/img/mbf/hubs/skin/skin-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/skin/skin-plate-zh-hans.webp"
   plateLines: "首先 — 肠道细菌放出分子 · 然后 — 血液带走的是分子，不是细菌 · 结果 — 皮肤自己的微生物作出回应"
   hero: "/assets/img/mbf/hubs/skin/skin-hero.webp"
   heroAlt: "插图：肠道细菌留在原处，青柠色的分子和来自肠黏膜的免疫细胞随血流抵达皮肤表面和那里的微生物"

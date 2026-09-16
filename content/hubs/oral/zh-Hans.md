@@ -18,13 +18,13 @@ voice: greger
 answer: "口腔菌群是住在牙齿、牙龈、舌头和面颊上的细菌群落。在牙齿上，它形成牙菌斑——一层有结构的生物膜，靠细菌自己制造的糖黏在一起。平衡时它起保护作用；一旦吃糖太频繁或清洁太少，产酸的物种就占上风，牙釉质被溶解，牙龈发炎。"
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/oral/oral-card-en.webp"
+  card: "/assets/img/mbf/hubs/oral/oral-card-zh-hans.webp"
   cardLine: "牙菌斑是怎么来的？"
   cardAlt: "牙菌斑是怎么来的？ — 清晨微凉的光线里，一位女性刚漱完口，俯身在洗手池上"
-  og: "/assets/img/mbf/hubs/oral/oral-og-en.jpg"
+  og: "/assets/img/mbf/hubs/oral/oral-og-zh-hans.jpg"
   preview: "/assets/img/mbf/hubs/oral/oral-preview.webp"
   previewAlt: "插图：牙釉质上一小丘刚形成的圆形细菌，连成短链，裹在光亮的糖胶里，边缘镶着金色"
-  plate: "/assets/img/mbf/hubs/oral/oral-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/oral/oral-plate-zh-hans.webp"
   plateLines: "首先 — 细菌黏在牙釉质上 · 然后 — 糖喂饱了产酸菌 · 结果 — 下面的牙釉质变软"
   hero: "/assets/img/mbf/hubs/oral/oral-hero.webp"
   heroAlt: "插图：糖不断抵达牙釉质上的菌斑小丘，产酸的圆形细菌占了上风，珊瑚色的酸雾把下面的牙釉质泡软"

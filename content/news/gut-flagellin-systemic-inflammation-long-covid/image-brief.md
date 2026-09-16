@@ -149,3 +149,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ko card alt: "롱코비드는 장에서 오나요? — 한 여자가 빨래를 하다 말고 침대 가장자리에 앉는다"
 - ko card question: "롱코비드는 장에서 오나요?"
 - ko plate lines: "먼저 — 세균의 꼬리가 떨어져 나온다 · 그다음 — 면역세포가 그것을 경보로 읽는다 · 결과 — 장에서 먼 조직에 염증이 인다"
+
+- tl preview alt: "Ilustrasyon: mga payat na gut bacteria na may mahahabang buntot na parang tirabuson sa umaanod na mucus, may isang nalagas na buntot na lumulutang sa tapyas ng gintong liwanag"
+- tl hero alt: "Ilustrasyon: umaalis sa bituka ang isang nalagas na piraso ng buntot ng bacteria, naghahagis ng lambat ang isang neutrophil at nagsesenyas ito sa isang macrophage, at kumakapal sa hibla ang tisyung malayo roon"
+- tl card alt: "Sa gut ba ang long covid? — isang babaeng huminto sa kalagitnaan ng paglalaba at umupo sa gilid ng kama"
+- tl card question: "Sa gut ba ang long covid?"
+- tl plate lines: "Una — nalalagas ang buntot ng bacteria · Tapos — binabasa ito ng immune cell bilang alarma · Kaya — namamaga ang tisyung malayo sa gut"
+
+- ja preview alt: "イラスト：漂う粘液の中に、長いらせんの尾を持つ細い腸内細菌が並び、抜け落ちた尾が一本、金色の光のたまりの中を漂っている"
+- ja hero alt: "イラスト：抜け落ちた細菌の尾の断片が腸を出て、好中球が網を投げてマクロファージに合図を送り、遠く離れた組織が線維で厚くなっていく"
+- ja card alt: "長引くコロナは腸から？ — 洗濯の途中で手を止めた女性が、ベッドの端に腰を下ろしている"
+- ja card question: "長引くコロナは腸から？"
+- ja plate lines: "まず — 細菌の尾が折れて外れる · 次に — 免疫細胞がそれを警報と読む · 結果 — 腸から遠い組織が炎症を起こす"

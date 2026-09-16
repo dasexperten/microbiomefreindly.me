@@ -165,3 +165,27 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - zh-Hans card alt: "口臭到底是什么引起的？ — 一位女性在自家门口对着拢起的手心呼气"
 - zh-Hans card question: "口臭到底是什么引起的？"
 - zh-Hans plate lines: "首先 — 口腔微生物吃蛋白质 · 接着 — 一种酶把硫切下来 · 结果 — 那个基因在培养皿里降了 98%"
+
+- ko preview alt: "일러스트: 둥근 혀유두 사이의 설태 속에 방추 모양과 뭉툭한 세균들이 있고, 아주 작은 금빛 기체 방울이 솟아오른다"
+- ko hero alt: "일러스트: 황을 잘라내는 효소로 채워진 구강 혐기성균들이 작은 방울을 내놓고, 젖산 세균에서 나온 액이 그 위를 씻고 지나가자 효소가 거의 사라진다"
+- ko card alt: "입 냄새는 왜 나나요? — 한 여자가 자기 집 현관에서 손을 오므려 입김을 불어 본다"
+- ko card question: "입 냄새는 왜 나나요?"
+- ko plate lines: "먼저 — 구강 미생물이 단백질을 먹는다 · 그다음 — 효소가 황을 잘라 낸다 · 결과 — 그 유전자가 접시에서 98 % 떨어졌다"
+
+- ms preview alt: "Ilustrasi: bakteria berbentuk gelendong dan bakteria pendek gempal dalam salutan antara papila lidah yang bulat, gelembung gas emas yang halus naik ke atas"
+- ms hero alt: "Ilustrasi: anaerob mulut yang penuh dengan enzim pemotong sulfur melepaskan gelembung halus; cecair daripada bakteria asid laktik membasuhnya dan enzim itu hampir lenyap"
+- ms card alt: "Apa sebenarnya punca bau mulut? — seorang wanita di pintu rumahnya sendiri menghembus nafas ke tapak tangan"
+- ms card question: "Apa sebenarnya punca bau mulut?"
+- ms plate lines: "Mula-mula — mikrob mulut memakan protein · Kemudian — satu enzim membebaskan sulfur · Hasilnya — gen itu turun 98 %, dalam piring"
+
+- ja preview alt: "イラスト：丸い舌の乳頭のあいだの舌苔の中に、紡錘形とずんぐりした細菌が並び、小さな金色のガスの泡が立ちのぼっている"
+- ja hero alt: "イラスト：硫黄を切り出す酵素で満たされた口の嫌気性菌が小さな泡を放つ。乳酸菌の液が流れてくると、その酵素がほとんど消えていく"
+- ja card alt: "口臭の本当の原因は？ — 女性が自宅の玄関先で、丸めた手に息を吹きかけている"
+- ja card question: "口臭の本当の原因は？"
+- ja plate lines: "まず — 口の微生物がタンパク質を食べる · 次に — 酵素が硫黄を切り離す · 結果 — 皿の中で、その遺伝子は98%下がった"
+
+- tl preview alt: "Ilustrasyon: mga hugis-suliran at maiikling mataba na bacteria sa balat sa pagitan ng mabibilog na papila ng dila, may maliliit na gintong bula ng gas na umaahon"
+- tl hero alt: "Ilustrasyon: naglalabas ng maliliit na bula ang mga anaerobe sa bibig na puno ng enzyme na pumuputol ng sulfur; hinuhugasan sila ng likido mula sa lactic acid bacteria at halos nawawala ang mga enzyme"
+- tl card alt: "Ano ba talaga ang mabahong hininga? — isang babae sa harap ng pinto niya na humihinga sa nakakuyom na palad"
+- tl card question: "Ano ba talaga ang mabahong hininga?"
+- tl plate lines: "Una — kumakain ng protina ang mikrobyo sa bibig · Tapos — pinuputol ng enzyme ang sulfur · Kaya — bumaba nang 98 % ang gene, sa lalagyan"

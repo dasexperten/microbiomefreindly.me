@@ -177,3 +177,27 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - zh-Hans card alt: "为什么是她，不是你？ — 一个男人在上午平淡的光线里坐在自助洗衣店的长椅上等着"
 - zh-Hans card question: "为什么是她，不是你？"
 - zh-Hans plate lines: "首先 — 同样的死细胞，两副肠道 · 接着 — 拥挤的那副已经没有位置 · 结果 — 只有稀疏的那副变了"
+
+- ko preview alt: "일러스트: 섬유 조각들 사이 성긴 장 군집의 빈자리에 열로 죽인 막대 세포 몇이 미동 없이 누워 있다"
+- ko hero alt: "일러스트: 똑같이 죽은 막대 세포들이 빽빽한 장 군집 위에서는 쓰이지 않은 채 놓여 있지만, 성긴 군집의 빈자리에는 내려앉아 그곳에 새 상주자와 작은 방울들이 나타난다"
+- ko card alt: "왜 나는 아닐까요? — 한 남자가 늦은 아침의 밋밋한 빛 속 빨래방 의자에 앉아 기다린다"
+- ko card question: "왜 나는 아닐까요?"
+- ko plate lines: "먼저 — 같은 죽은 세포, 두 개의 장 · 그다음 — 빽빽한 장에는 남은 자리가 없다 · 결과 — 성긴 장만 달라졌다"
+
+- ms preview alt: "Ilustrasi: beberapa sel rod yang diam dan mati haba terbaring dalam ruang lapang satu komuniti usus yang jarang, antara serpihan serat"
+- ms hero alt: "Ilustrasi: sel rod mati yang sama terbaring tanpa guna pada komuniti usus yang padat, tetapi menetap dalam ruang lapang komuniti yang jarang, tempat penghuni baharu dan titisan kecil muncul"
+- ms card alt: "Kenapa dia, bukan anda? — seorang lelaki menunggu di bangku kedai dobi dalam cahaya rata hujung pagi"
+- ms card question: "Kenapa dia, bukan anda?"
+- ms plate lines: "Mula-mula — sel mati yang sama, dua usus · Kemudian — usus yang padat tiada ruang lagi · Hasilnya — hanya usus yang jarang berubah"
+
+- ja preview alt: "イラスト：まばらな腸の集団の空いた隙間に、加熱して殺された桿菌の細胞がいくつか静かに横たわり、まわりに繊維の断片がある"
+- ja hero alt: "イラスト：同じ死んだ桿菌の細胞が、混み合った腸の集団の上では使われずに横たわり、まばらな集団の空いた隙間には落ち着く。そこでは新しい住人と小さな滴が現れる"
+- ja card alt: "なぜあの人だけ効くの？ — 遅い午前の平らな光の中、男性がコインランドリーのベンチで待っている"
+- ja card question: "なぜあの人だけ効くの？"
+- ja plate lines: "まず — 同じ死んだ細胞、二つの腸 · 次に — 混み合った腸には空きがない · 結果 — 変わったのはまばらな腸だけ"
+
+- tl preview alt: "Ilustrasyon: iilang tahimik at pinatay-sa-init na selulang baras na nakahiga sa bukas na puwang ng isang kakaunting komunidad sa gut sa gitna ng mga piraso ng fiber"
+- tl hero alt: "Ilustrasyon: nakahiga nang walang silbi ang parehong patay na selulang baras sa siksikang komunidad sa gut, pero pumupwesto sila sa bukas na puwang ng isang kakaunti, kung saan lumilitaw ang mga bagong residente at maliliit na patak"
+- tl card alt: "Bakit siya at hindi ikaw? — isang lalaking naghihintay sa bangko ng labahan sa patag na liwanag ng huling umaga"
+- tl card question: "Bakit siya at hindi ikaw?"
+- tl plate lines: "Una — parehong patay na selula, dalawang gut · Tapos — wala nang puwang ang siksikang gut · Kaya — ang kakaunting gut lang ang nagbago"

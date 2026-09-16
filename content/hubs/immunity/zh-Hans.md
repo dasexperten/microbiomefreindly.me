@@ -18,13 +18,13 @@ voice: greger
 answer: "免疫系统不是为消灭微生物而造的，它是为与微生物共处而造的。肠黏膜上的细菌教会免疫细胞——巨噬细胞、调节性 T 细胞——哪些信号意味着危险，哪些只是邻居。这门功课叫免疫耐受，从出生就开始上。它出错的结果不是感染，而是慢性炎症。"
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/immunity/immunity-card-en.webp"
+  card: "/assets/img/mbf/hubs/immunity/immunity-card-zh-hans.webp"
   cardLine: "免疫耐受是怎么学会的？"
   cardAlt: "免疫耐受是怎么学会的？ — 午后偏晚的低斜阳光里，一位女性在空无一人的游乐场门口停下脚步"
-  og: "/assets/img/mbf/hubs/immunity/immunity-og-en.jpg"
+  og: "/assets/img/mbf/hubs/immunity/immunity-og-zh-hans.jpg"
   preview: "/assets/img/mbf/hubs/immunity/immunity-preview.webp"
   previewAlt: "插图：肠黏膜下的一个巨噬细胞，在一片温暖的光斑里用珊瑚色的伪足卷住一个杆状细菌"
-  plate: "/assets/img/mbf/hubs/immunity/immunity-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/immunity/immunity-plate-zh-hans.webp"
   plateLines: "首先 — 细菌隔着肠壁发出信号 · 然后 — 巡逻的细胞保持安静 · 结果 — 耐受守住了，没有警报"
   hero: "/assets/img/mbf/hubs/immunity/immunity-hero.webp"
   heroAlt: "插图：只有一层细胞厚的肠黏膜之上，细菌释放出小分子；下方的巨噬细胞把它们吞进去，安静地待在金色的调节性 T 细胞旁边"

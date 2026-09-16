@@ -212,3 +212,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ko card alt: "신생아 장은 무산소인가요? — 갓 엄마가 된 여자가 첫 빛이 드는 창가 의자에 몸을 기댄다"
 - ko card question: "신생아 장은 무산소인가요?"
 - ko plate lines: "먼저 — 새 장에는 아직 공기가 남아 있다 · 그다음 — 지방 하나가 미생물의 벽을 봉한다 · 결과 — 같은 지방이 면역세포를 가르친다"
+
+- ms preview alt: "Ilustrasi: rod pendek Bacteroides fragilis disuluh dari belakang pada permukaan usus yang muda, satu birai membran yang tertutup rapat bersinar limau nipis"
+- ms hero alt: "Ilustrasi: sebatang rod pendek memegang birai membrannya yang tertutup rapat sementara zarah udara hanyut lalu, dan lemak membran yang sama diserahkan kepada sel imun muda yang membesar dengan membacanya"
+- ms card alt: "Usus bayi tiada udarakah? — seorang ibu baharu bersandar di kerusi tepi tingkap pada cahaya pertama pagi"
+- ms card question: "Usus bayi tiada udarakah?"
+- ms plate lines: "Mula-mula — udara masih berlegar dalam usus baharu · Kemudian — satu lemak mengetatkan dinding mikrob · Hasilnya — lemak yang sama mengajar sel imun"
+
+- ja preview alt: "イラスト：若い腸の表面で逆光を受けるBacteroides fragilisの短い桿菌、その一つの封じられた膜の縁がライム色に光っている"
+- ja hero alt: "イラスト：空気の粒が漂って通り過ぎるあいだ、短い桿菌が封じられた膜の縁を保ち、その同じ膜の脂質が、それを読んで育つ若い免疫細胞へ手渡される"
+- ja card alt: "新生児の腸に空気はない？ — 生まれたばかりの子を持つ母親が、夜明けの光の中、窓辺の椅子に背を預けている"
+- ja card question: "新生児の腸に空気はない？"
+- ja plate lines: "まず — 新しい腸にはまだ空気が残る · 次に — 一つの脂質が菌の壁を封じる · 結果 — 同じ脂質が免疫細胞を育てる"
+
+- tl preview alt: "Ilustrasyon: maiikling baras ng Bacteroides fragilis na may ilaw mula sa likod sa batang ibabaw ng bituka, may isang selyadong gilid ng membranang kumikinang sa berde"
+- tl hero alt: "Ilustrasyon: hawak ng isang maikling baras ang selyadong gilid ng membrana nito habang dumaraan ang mga alikabok ng hangin, at ipinapasa ang parehong taba ng membrana sa isang batang immune cell na lumalaki sa pagbasa nito"
+- tl card alt: "Walang hangin ba sa bagong gut? — isang bagong inang nakasandal sa upuan sa tabi ng bintana sa unang liwanag"
+- tl card question: "Walang hangin ba sa bagong gut?"
+- tl plate lines: "Una — may hangin pang natitira sa bagong gut · Tapos — sinesolyuhan ng isang taba ang pader ng mikrobyo · Kaya — tinuturuan ng parehong taba ang immune cell"

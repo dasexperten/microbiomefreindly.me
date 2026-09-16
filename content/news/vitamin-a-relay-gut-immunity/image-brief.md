@@ -156,3 +156,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - zh-Hans card alt: "是谁把维生素送过去的？ — 一位女性在傍晚的灯下于厨房台面上切胡萝卜"
 - zh-Hans card question: "是谁把维生素送过去的？"
 - zh-Hans plate lines: "首先 — 肠道细菌唤醒肠壁 · 接着 — 载体蛋白接过视黄醇 · 结果 — 不到 2% 到达免疫细胞"
+
+- ko preview alt: "일러스트: 마디진 세균 실들이 장 점막의 부드러운 주름에 끝으로 뿌리내리고 있고, 하나가 들어가는 자리에 작은 금빛 반짝임이 있다"
+- ko hero alt: "일러스트: 장 점막에 뿌리내린 마디진 세균들, 그 점막 세포는 금빛 비타민 A 방울을 품고 있으며, 방울 하나가 가지를 친 면역세포로, 다시 T세포로 건네진다"
+- ko card alt: "비타민은 누가 옮기나요? — 한 여자가 저녁 등불 아래 주방 조리대에서 당근을 썬다"
+- ko card question: "비타민은 누가 옮기나요?"
+- ko plate lines: "먼저 — 장내 세균이 점막을 깨운다 · 그다음 — 운반 단백질이 레티놀을 받아 든다 · 결과 — 면역세포에 닿는 것은 2 % 미만"
+
+- ms preview alt: "Ilustrasi: benang bakteria bersegmen berakar dengan hujungnya pada lipatan lembut lapisan usus, satu kilauan emas kecil di tempat salah satunya masuk"
+- ms hero alt: "Ilustrasi: bakteria bersegmen yang berakar dalam lapisan usus, yang selnya memegang titisan vitamin A keemasan; satu titisan berpindah kepada sel imun bercabang dan seterusnya kepada sel T"
+- ms card alt: "Siapa bawa vitamin ke sana? — seorang wanita menghiris lobak merah di kaunter dapurnya di bawah lampu petang"
+- ms card question: "Siapa bawa vitamin ke sana?"
+- ms plate lines: "Mula-mula — bakteria usus mengejutkan lapisan usus · Kemudian — protein pembawa mengambil retinol · Hasilnya — kurang 2 % sampai ke sel imun"

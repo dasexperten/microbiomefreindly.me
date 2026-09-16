@@ -142,3 +142,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - tl card alt: "May dala, sakit na ba? — isang babaeng nakaupo sa gilid ng kama sa gabi, hawak ng dalawang kamay ang basong tubig"
 - tl card question: "May dala, sakit na ba?"
 - tl plate lines: "Una — tahimik itong nakaupo sa gitna ng kapitbahay · Tapos — tumagilid ang balanse, pumuputol ang enzyme nito · Kaya — tumatagas ang bulsa at napapakain ito"
+
+- th preview alt: "ภาพประกอบ: แบคทีเรียรูปแท่งอ้วนป้อมสีเข้มนอนอยู่ในฟิล์มเปียกภายในร่องแคบ ๆ มีแสงเป็นระลอกและประกายสีทองของฮีม"
+- th hero alt: "ภาพประกอบ: แท่งอ้วนป้อมสีเข้มนอนอยู่ในไบโอฟิล์มผสมภายในร่องเหงือก พอสมดุลของชุมชนเปลี่ยน พวกมันก็ปล่อยเอนไซม์ออกมาตัดโปรตีนป้องกันออกเป็นชิ้น ๆ และของเหลวที่ซึมออกมาก็พาอาหารมาให้พวกมัน"
+- th card alt: "การมีมันอยู่แปลว่าเป็นโรคไหม? — หญิงคนหนึ่งนั่งอยู่ริมเตียงตอนกลางคืน ถือแก้วน้ำไว้ด้วยสองมือ"
+- th card question: "การมีมันอยู่แปลว่าเป็นโรคไหม?"
+- th plate lines: "ก่อนอื่น — มันนอนเงียบ ๆ อยู่ท่ามกลางเพื่อนบ้าน · จากนั้น — สมดุลเอียง เอนไซม์ของมันก็ลงมีด · ผลลัพธ์ — ร่องเหงือกซึมและเลี้ยงมันไว้"

@@ -18,13 +18,13 @@ voice: greger
 answer: "肠脑轴是肠道和它的微生物与大脑对话的一整套通路：迷走神经、肠细胞分泌的激素、免疫信使，以及进入血液的细菌代谢物。人体大部分血清素在肠道里生成，并受微生物影响。这条联系是真的；它在人类情绪中的分量还在测量之中。"
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/brain/brain-card-en.webp"
+  card: "/assets/img/mbf/hubs/brain/brain-card-zh-hans.webp"
   cardLine: "肠道细菌会影响情绪吗？"
   cardAlt: "肠道细菌会影响情绪吗？ — 黄昏时分，一位女性站在客厅窗前，一只手搭在颈侧"
-  og: "/assets/img/mbf/hubs/brain/brain-og-en.jpg"
+  og: "/assets/img/mbf/hubs/brain/brain-og-zh-hans.jpg"
   preview: "/assets/img/mbf/hubs/brain/brain-preview.webp"
   previewAlt: "插图：肠道肌层上，一张由神经细胞团和纤维束连成的网，其中一团染成青柠色"
-  plate: "/assets/img/mbf/hubs/brain/brain-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/brain/brain-plate-zh-hans.webp"
   plateLines: "首先 — 肠道微生物放出分子 · 然后 — 肠细胞感知并发出信号 · 结果 — 神经把信号带走，它们留在原地"
   hero: "/assets/img/mbf/hubs/brain/brain-hero.webp"
   heroAlt: "插图：肠道细菌释放出小分子，肠黏膜里的一个激素细胞感知到它们，一道金色的信号沿神经奔向大脑"

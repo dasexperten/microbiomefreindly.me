@@ -18,13 +18,13 @@ voice: greger
 answer: "肠道菌群是主要住在大肠里的细菌、古菌、真菌和病毒组成的群落。它消化我们消化不了的纤维，制造短链脂肪酸和维生素，训练免疫系统，喂养肠壁。饮食、出生方式、抗生素和年龄都在塑造它，而它几天之内就会变。"
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/gut/gut-card-en.webp"
+  card: "/assets/img/mbf/hubs/gut/gut-card-zh-hans.webp"
   cardLine: "我的肠道菌群健康吗？"
   cardAlt: "我的肠道菌群健康吗？ — 傍晚，一位女性提着一袋蔬菜走上自家门前的台阶"
-  og: "/assets/img/mbf/hubs/gut/gut-og-en.jpg"
+  og: "/assets/img/mbf/hubs/gut/gut-og-zh-hans.jpg"
   preview: "/assets/img/mbf/hubs/gut/gut-preview.webp"
   previewAlt: "插图：杆状和圆形的肠道细菌混杂成群，在一块植物纤维上取食，纤维毛糙的边缘泛着金色"
-  plate: "/assets/img/mbf/hubs/gut/gut-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/gut/gut-plate-zh-hans.webp"
   plateLines: "首先 — 我们消化不了的纤维抵达 · 然后 — 菌群把它发酵 · 结果 — 酸养活肠壁"
   hero: "/assets/img/mbf/hubs/gut/gut-hero.webp"
   heroAlt: "插图：植物纤维抵达结肠，细菌将其发酵，珊瑚色的短链脂肪酸分子进入肠道黏膜细胞"

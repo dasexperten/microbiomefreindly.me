@@ -1,0 +1,114 @@
+---
+title: "비타민 A는 혼자 면역세포에 못 간다"
+meta: "생쥐에서 장내 세균은 식사의 비타민 A를 면역세포까지 나르는 사흘짜리 계주를 돌립니다. Cell Host & Microbe 2026 — 그리고 보이지 않은 것."
+kicker: "비타민 A"
+type: news
+topic: immunity
+lang: ko
+slug: vitamin-a-relay-gut-immunity
+date: 2026-09-02
+asOf: 2026-09-02
+seo:
+  keyword: "pending"
+  volume: 0
+  market: "KR (Ubersuggest locId 2410; Naver check also required)"
+  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+author: magnus-larsen
+voice: greger
+answer: "비타민 A는 혼자 면역세포까지 가지 않습니다. 생쥐에서 장내 세균은 장 점막이 운반 단백질인 혈청 아밀로이드 A를 만들게 하고, 그 단백질이 레티놀을 골수계 세포에 건넵니다. 그 세포는 장에서 림프가 모이는 림프절까지 걸어가 T세포에게 넘깁니다. 이 계주는 사흘쯤 걸리고, 생쥐에서만 확인되었습니다."
+keyFacts:
+  - fact: "생쥐에서 식사의 비타민 A는 세 단계의 사슬 — 장 점막 세포, 그다음 골수계 세포, 그다음 장간막 림프절의 T세포 — 을 따라 T세포로 옮겨 가고, 그 사슬에는 사흘쯤 걸립니다."
+    source: s1
+  - fact: "세균의 분자 양상이 장 점막에서 혈청 아밀로이드 A 단백질을 켜고, 그 단백질이 레티놀을 점막에서 골수계 세포로 나릅니다."
+    source: s1
+  - fact: "표지한 비타민 A를 준 지 24시간 뒤, 약 57 %는 간으로, 약 3 %는 혈액으로 갔고, 약 22 %는 장 점막에 남았으며, 장의 골수계 세포에 닿은 것은 2 % 미만이었습니다."
+    source: s1
+  - fact: "항생제를 먹인 생쥐는 비타민 A를 점막으로 정상적으로 흡수했지만 골수계 세포와 T세포로의 전달은 멈췄고, 미생물상을 되살리자 전달이 되돌아왔습니다."
+    source: s1
+  - fact: "무균 생쥐에 한 종씩 정착시켜 다섯 종을 선별한 결과, 저자들은 분절사상균이 상피의 SAA를 확실히 유도한다는 것을 찾았습니다. 그 선별은 SAA 유도만 채점했고, 일반 생쥐에서의 별도 비교는 분절사상균이 미생물상이 이끄는 레티노이드 흐름을 키우기는 해도 그것을 온전히 설명하지는 않는다는 것을 보였습니다."
+    source: s1
+  - fact: "혈청 아밀로이드 A 단백질은 2014년에 레티놀에 직접 결합하며 세균 정착으로 유도된다는 것이 밝혀졌습니다."
+    source: s3
+  - fact: "레티노산은 2004년에 T세포에 장으로 향하는 수용체를 새긴다는 것이 밝혀졌습니다. 2026년 논문이 보태는 것은 목적지가 아니라 전달 경로입니다."
+    source: s2
+faq:
+  - q: "그러면 비타민 A 보충제가 제 면역력을 좋게 해준다는 뜻인가요?"
+    a: "아닙니다. 이 연구는 표지한 비타민 A를 생쥐에게 주어 어디로 가는지 추적한 것이고, 누구에게도 보충제나 용량이나 건강 결과를 시험하지 않았습니다 [s1]. 이점이 아니라 경로를 설명합니다."
+  - q: "왜 사흘인가요?"
+    a: "비타민이 혈액이 아니라 세포에 실려 가기 때문입니다. 장 점막을 채우는 일, 그 화물을 골수계 세포에 건네는 일, 그 세포가 림프절까지 이동하는 일, 마지막으로 T세포에 넘기는 일이 저마다 시간을 씁니다. 사슬 전체가 생쥐에서 사흘쯤으로 측정되었습니다 [s1]."
+  - q: "어떤 세균이 이것을 하나요?"
+    a: "하나를 대기는 합니다. 실험 대부분은 미생물상 전체를 없애고 되살리는 방식을 썼고 방아쇠는 세균이 공유하는 분자 양상입니다. 다만 저자들은 무균 생쥐에 다섯 종을 한 종씩 정착시켜, 분절사상균(SFB)이 상피의 SAA를 확실히 유도한다는 것도 찾았습니다. 그 선별은 SAA 유도만 채점했고, T세포로 가는 레티노이드 흐름은 일반 생쥐에서 대신 비교했는데 그곳에서도 분절사상균이 없는 일반 생쥐가 항생제를 먹인 생쥐보다 흐름이 더 높았습니다. 그러니 분절사상균은 계주를 키우지만 그것을 온전히 설명하지는 않습니다 [s1]. 분절사상균은 생쥐 장의 상주자이지 병에 담아 파는 것이 아닙니다."
+  - q: "장내 세균이 없으면 어떻게 되나요?"
+    a: "무균 생쥐와 항생제를 먹인 생쥐에서 비타민 A는 여전히 장 점막에 정상적으로 흡수되었지만 골수계 세포나 T세포로 넘어가지 못했고, 장의 T세포 수도 나이가 들어도 늘지 않았습니다 [s1]."
+  - q: "사람에게도 같은 계주가 도나요?"
+    a: "모릅니다. 여기의 모든 실험은 생쥐에서, 대부분 생후 6–12주 된 개체와 무균 및 유전자 변형 계통에서 이루어졌습니다 [s1]. 누군가 그것을 주장하려면 사람 대상 연구가 먼저 이루어져야 합니다."
+sources:
+  - id: s1
+    name: "Srinivasan T. et al., Cell Host & Microbe, 2026"
+    url: "https://doi.org/10.1016/j.chom.2026.05.019"
+    doi: "10.1016/j.chom.2026.05.019"
+    pmid: "42309057"
+  - id: s2
+    name: "Iwata M. et al., Immunity, 2004"
+    url: "https://doi.org/10.1016/j.immuni.2004.08.011"
+    doi: "10.1016/j.immuni.2004.08.011"
+    pmid: "15485630"
+  - id: s3
+    name: "Derebe M. G. et al., eLife, 2014"
+    url: "https://doi.org/10.7554/eLife.03206"
+    doi: "10.7554/eLife.03206"
+    pmid: "25073702"
+images:
+  card: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-card-en.webp"
+  cardLine: "Who carries the vitamin there?"
+  cardAlt: "Who carries the vitamin there? — a woman slices carrots at her kitchen counter under an evening lamp"
+  og: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-og-en.jpg"
+  preview: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-preview.webp"
+  previewAlt: "Illustration: segmented bacterial threads rooted by their tips in a soft fold of the gut lining, a small gold glint where one enters"
+  plate: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-plate-en.webp"
+  plateLines: "First — gut bacteria wake the lining · Then — carrier proteins pick up retinol · So — under 2 % reaches immune cells"
+  hero: "/assets/img/mbf/articles/vitamin-a-relay-gut-immunity/vitamin-a-relay-gut-immunity-hero.webp"
+  heroAlt: "Illustration: segmented bacteria rooted in the gut lining, whose cells hold gold vitamin A droplets; one droplet passes to a branching immune cell and on to T cells"
+referral:
+  product: ""
+  mayaLog: ""
+  benefitGate: ""
+gates:
+  marketolog: "hook lock 2026-09-02 — 3 variants scored (contrarian / number / curiosity gap); contrarian wins 9-8-6, title kept at 52 chars"
+  segmentCheck: "PASS 7/8"
+  factCheck: "verified 2026-09-02 — 38 claims traced, 0 removed, 4 corrected"
+  register: "pending (KO)"
+status: published
+---
+
+비타민 A는 "면역에 좋다"는 목록에 너무 오래 앉아 있어서, 대부분은 그것이 실제로 어떻게 면역세포에 닿는지를 묻기를 그만두었습니다. 올해 발표된 논문이 거기에 답하는데, 그 답은 어떤 보충제 표시가 암시하는 것보다 더 낯섭니다. 비타민은 혼자 그곳으로 가지 않습니다. 세포에서 세포로 건네져 갑니다. 그리고 그 넘김이 아예 일어나는지 아닌지는 장의 세균이 정합니다.
+
+이 연구는 UT 사우스웨스턴 메디컬 센터의 Srinivasan 연구진이 2026년 *Cell Host & Microbe*에 발표한 "장내 미생물이 비타민 A 흐름을 이끌어 장 T세포 발달을 조절한다"입니다 [s1]. 생쥐에서 이루어졌습니다. 그 점을 붙들어 두십시오. 뒤에서 다시 돌아옵니다.
+
+## 계주, 한 번에 한 손씩
+
+식사의 비타민 A는 소장을 덮은 세포가 흡수해 레티놀로 바꿉니다. 바로 그 점막 세포가 장의 세균에 귀를 기울입니다. 군집 전체가 공유하는 분자 양상에 말입니다. 그 귀 기울임이 점막에서 혈청 아밀로이드 A 단백질을 켭니다. 상주자 하나가 이름으로 불립니다. 무균 생쥐에 다섯 종을 한 종씩 정착시켜 — 그중에 [Bacteroidota](/bacteria/bacteroidota/)의 장 공생균과 [*Escherichia coli*](/bacteria/escherichia-coli/) 실험실 균주가 있었습니다 — 저자들은 [Bacillota](/bacteria/bacillota-firmicutes/)의 구성원인 분절사상균이 SAA를 확실히 유도한다는 것을 찾았습니다 [s1]. 그 선별은 SAA 유도만 채점했고 그 아래의 흐름은 채점하지 않았습니다. 다만 그것이 이야기의 전부는 아닙니다. 분절사상균이 없는 생쥐도 항생제를 먹인 생쥐보다 비타민 A를 계주를 따라 더 많이 옮겼습니다 [s1]. SAA는 2014년에 레티놀에 직접 결합한다는 것이 밝혀졌고 [s3], 이번 연구에서는 점막에서 그 아래에 기다리는 골수계 세포로 레티놀을 건네는 전령입니다.
+
+짐을 실은 전령은 그다음 움직여야 하고, 실제로 움직입니다. 그 골수계 세포 안의 레티노이드 신호가 CCR7을 켭니다. 장간막 림프절 — 장의 림프가 모이는 면역의 대기실 — 쪽을 가리키는 화학적 이정표를 읽는 수용체입니다. 그곳에서 골수계 세포는 아직 겪지 않은 T세포를 만나 마지막으로 건넵니다. 레티노이드가 T세포로 들어가 그 세포에게 어디에 살아야 하는지를 일러 주는 유전 프로그램을 켭니다. 목적지는 새로운 부분이 아닙니다. 레티노산이 T세포에 장으로 향하는 성질을 새긴다는 것은 이미 2004년에 밝혀졌습니다 [s2]. 새로운 것은 전달 경로입니다.
+
+사슬 전체에는 사흘쯤 걸립니다 [s1]. 연구진은 방사성으로 표지한 레티놀을 열흘 [s1] 동안 따라가며, 그 표지가 점막 세포에, 그다음 골수계 세포에, 그다음 림프절의 T세포에, 그다음 장벽으로 돌아온 T세포에 나타나는 것을 그 순서대로 지켜보았습니다. 생쥐가 항생제를 열흘 [s1] 동안 마시자 점막으로의 흡수는 그대로였지만 그 아래의 모든 것이 멈췄습니다. 미생물상을 되살리면 계주가 다시 시작됩니다.
+
+## 비타민 대부분은 계주에 끼지 못한다 — 그것이 요점이다
+
+앉아서 들여다볼 값어치가 있는 숫자가 하나 있습니다. 투여 뒤 24시간 [s1] 만에 표지된 비타민의 약 57 % [s1] 가 간으로 갔고, 대략 3 % [s1] 가 혈액에 있었으며, 약 22 % [s1] 는 여전히 장 점막에 앉아 있었고, 그것을 이어 나르는 골수계 세포에 닿은 것은 2 % 미만 [s1] 이었습니다. 면역 쪽 갈래는 큰길에서 갈라진 실개천입니다. 그래서 전령이 중요한 것입니다. 몫이 그만큼 작을 때는 넘김이 일어나는지 아닌지가 결과 전체를 정합니다.
+
+## 계주에는 스위치가 하나가 아니라 둘
+
+이 논문에서 가장 우아한 부분은 과정을 뜯어 놓는다는 점입니다. 세균의 분자 양상이 첫 일을 합니다. SAA를 유도하고 골수계 세포에 짐을 싣고 걸어가게 합니다. 저자들은 어떤 세균이 있든 장 점막이 SAA를 만드는 생쥐를 만들었고, 그 동물에서는 항생제가 미생물상을 걷어낸 뒤에도 짐 싣기와 걷기가 여전히 일어났습니다. 그런데도 비타민은 T세포에 닿지 못했습니다. 그 마지막 넘김에는 세균의 항원과 세포 사이의 접촉이 필요했습니다. 세균을 감지하는 일과 알아보는 일이 같은 선 위의 서로 다른 두 스위치였던 것입니다.
+
+## 그 창은 생애 초기, 젖 떼는 무렵
+
+계주가 태어날 때부터 온 힘으로 도는 것은 아닙니다. 생후 2주에서 6주 [s1] 사이 — 젖을 떼며 생쥐의 식단과 세균 군집이 한꺼번에 바뀌는 무렵 — 에 장의 SAA가 오르고, 레티노이드가 골수계 세포에 닿고, 장의 T세포가 쌓였습니다. 무균 동물에서, 그리고 SAA가 없는 동물에서 그 상승은 일어나지 않았습니다. 음식과 세균이 함께 도착하고, 면역계는 그 둘 위에 동시에 세워집니다.
+
+## 이 연구가 보이지 않은 것 — 사람도 없고 보충제도 없다
+
+이제 단서를 소리 내어 말하겠습니다. 이것은 생쥐 연구입니다. C57BL/6 동물이고 대부분 생후 6–12주 [s1] 이며, 무균 계통과 유전자 변형 계통이 더해졌습니다. 사람도 없고 임상 결과도 없고 무엇의 용량도 없습니다. 여기 있는 어느 것도 비타민 A 보충제가 누군가의 면역을 좋게 한다고 말하지 않습니다. 이 연구가 유일하게 집어낸 생물인 분절사상균은 아무도 팔지 않는 생쥐 장의 상주자이고, 생쥐에서조차 효과의 일부만 설명합니다.
+
+저자들은 자기들의 공백 둘도 댑니다. 어느 화학 형태의 비타민 A가 T세포로 넘어가는지는 직접 측정하지 않았습니다. 레티노산은 빛에서 너무 빨리 분해되어 이 검체들에서 잡을 수 없었고, 그래서 그 정체는 눈으로 본 것이 아니라 신호에서 미루어 짐작한 것입니다. 그리고 그 분자가 두 세포 사이를 물리적으로 어떻게 건너가는지도 규정하지 않았습니다. 항원 제시 중에 이루어지는 접촉은 그럴듯한 자리이지 입증된 자리가 아닙니다.
+
+우리에게 남는 것은 깔끔하고 그려 볼 수 있는 기전입니다. 음식이 재료를 대고, 세균이 계주를 시작하고, 사흘 뒤 T세포가 자기가 어디에 속하는지를 압니다. 생쥐에서 말입니다. 우리가 알던 것보다는 훨씬 많고, 헤드라인보다는 훨씬 적습니다.

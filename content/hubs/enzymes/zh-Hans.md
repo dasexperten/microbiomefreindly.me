@@ -18,13 +18,13 @@ voice: greger
 answer: "酶是只剪断一种特定化学键的蛋白质。右旋糖酐酶剪断牙菌斑的糖胶；木瓜蛋白酶和菠萝蛋白酶剪断蛋白质；溶菌酶剪断细菌细胞壁；葡萄糖氧化酶把葡萄糖变成温和的抗菌剂。它们都不做大面积杀菌。它们靠拆掉结构起作用——所以人们研究它们对付生物膜，而不是当抗生素用。"
 sources: []
 images:
-  card: "/assets/img/mbf/hubs/enzymes/enzymes-card-en.webp"
+  card: "/assets/img/mbf/hubs/enzymes/enzymes-card-zh-hans.webp"
   cardLine: "酶会杀死细菌吗？"
   cardAlt: "酶会杀死细菌吗？ — 上午晚些时候的阳光里，一位女性在餐桌旁切菠萝和木瓜"
-  og: "/assets/img/mbf/hubs/enzymes/enzymes-og-en.jpg"
+  og: "/assets/img/mbf/hubs/enzymes/enzymes-og-zh-hans.jpg"
   preview: "/assets/img/mbf/hubs/enzymes/enzymes-preview.webp"
   previewAlt: "插图：一个折叠的酶蛋白把糖链含在凹槽里，剪断其中一个连接，断点标成珊瑚色，背光温暖"
-  plate: "/assets/img/mbf/hubs/enzymes/enzymes-plate-en.webp"
+  plate: "/assets/img/mbf/hubs/enzymes/enzymes-plate-zh-hans.webp"
   plateLines: "首先 — 一张糖网兜住牙菌斑 · 然后 — 酶剪断其中一个连接 · 结果 — 网塌了，细菌还活着"
   hero: "/assets/img/mbf/hubs/enzymes/enzymes-hero.webp"
   heroAlt: "插图：一串串圆形细菌被糖链织成的网兜住；酶蛋白在青柠色的位置剪断糖链，被放开的细菌飘散开，仍然完好"

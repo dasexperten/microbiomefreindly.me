@@ -963,6 +963,10 @@
         "question": "Ей место во рту?",
         "plateLines": "Сначала — первый слой круглых клеток · Затем — поперёк ложатся веретёна · Итог — налёт держится как одно целое"
       },
+      "th": {
+        "question": "สิ่งนี้ควรอยู่ในปากฉันไหม?",
+        "plateLines": "ก่อนอื่น — เซลล์ทรงกลมที่มาก่อนก่อตัวเป็นชั้น · จากนั้น — กระสวยยาวนอนพาดขวางพวกมัน · ผลลัพธ์ — คราบพลัคยึดกันเป็นหนึ่งเดียว"
+      },
       "tl": {
         "question": "Dapat bang nasa bibig ko ito?",
         "plateLines": "Una — bumubuo ng layer ang mga bilog na naninirahan · Tapos — nakahalang sa kanila ang mahahabang suliran · Kaya — nananatiling isa ang plaque"
@@ -1699,6 +1703,10 @@
         "question": "L'essai a-t-il échoué ?",
         "plateLines": "D'abord — des cellules mortes se posent dans le mucus · Ensuite — une cellule intestinale lâche du GLP-1 · Résultat — 30 milliards de cellules, rien n'a bougé"
       },
+      "ja": {
+        "question": "試験は失敗したのですか？",
+        "plateLines": "まず — 死んだ細胞が粘液に落ち着く · 次に — 腸の細胞が一つGLP-1を放つ · 結果 — 300億個でも何も動かず"
+      },
       "ko": {
         "question": "시험은 실패했나요?",
         "plateLines": "먼저 — 죽은 세포가 점액에 내려앉는다 · 그다음 — 장 세포 하나가 GLP-1을 내놓는다 · 결과 — 세포 300억 개, 아무것도 움직이지 않았다"
@@ -1722,6 +1730,10 @@
       "ru": {
         "question": "Значит, испытание провалилось?",
         "plateLines": "Сначала — мёртвые клетки ложатся в слизь · Затем — клетка кишки выпускает ГПП-1 · Итог — 30 млрд клеток, сдвига нет"
+      },
+      "tl": {
+        "question": "Pumalpak ba ang trial?",
+        "plateLines": "Una — pumupwesto sa mucus ang mga patay na selula · Tapos — naglalabas ng GLP-1 ang isang selula ng gut · Kaya — 30 bilyong selula, walang gumalaw"
       },
       "tr": {
         "question": "Çalışma başarısız mı oldu?",
@@ -1786,6 +1798,10 @@
         "question": "Le sucre cause-t-il un cancer buccal ?",
         "plateLines": "D'abord — le sucre et l'alcool atteignent la plaque · Ensuite — les microbes fabriquent un cancérogène · Résultat — le peptide en a tué 91,37 %, pas tous"
       },
+      "ko": {
+        "question": "설탕이 구강암을 일으키나요?",
+        "plateLines": "먼저 — 설탕과 술이 치태에 닿는다 · 그다음 — 미생물이 발암물질을 만든다 · 결과 — 펩타이드는 91.37 %만 죽였다"
+      },
       "ms": {
         "question": "Adakah gula punca kanser mulut?",
         "plateLines": "Mula-mula — gula dan alkohol sampai ke plak · Kemudian — mikrob menghasilkan karsinogen · Hasilnya — peptida membunuh 91.37 %, bukan semua"
@@ -1797,6 +1813,10 @@
       "pt-BR": {
         "question": "Açúcar causa câncer de boca?",
         "plateLines": "Primeiro — açúcar e álcool chegam à placa · Depois — os micróbios fazem um cancerígeno · Resultado — o peptídeo matou 91,37 %, não todos"
+      },
+      "ro": {
+        "question": "Zahărul dă cancer bucal?",
+        "plateLines": "Mai întâi — zahărul și alcoolul ajung la placă · Apoi — microbii fac un cancerigen · Rezultat — peptida a ucis 91,37 %, nu tot"
       },
       "ru": {
         "question": "Сахар вызывает рак во рту?",
@@ -1864,6 +1884,10 @@
       "fr": {
         "question": "Le covid long vient-il de l'intestin ?",
         "plateLines": "D'abord — une queue bactérienne se détache · Ensuite — les cellules immunitaires y lisent une alarme · Résultat — un tissu loin de l'intestin s'enflamme"
+      },
+      "ms": {
+        "question": "Covid panjang datang dari usus?",
+        "plateLines": "Mula-mula — ekor bakteria tertanggal · Kemudian — sel imun membacanya sebagai penggera · Hasilnya — tisu jauh dari usus meradang"
       },
       "pl": {
         "question": "Czy długi covid pochodzi z jelit?",
@@ -2188,6 +2212,10 @@
       "vi": {
         "question": "Cơn đau này có thật không?",
         "plateLines": "Đầu tiên — dịch phân chạm thành ruột · Sau đó — enzyme cắt một thụ thể thần kinh · Kết quả — mạng thần kinh phóng điện mạnh hơn hẳn"
+      },
+      "zh-Hans": {
+        "question": "这种疼真的是身体上的吗？",
+        "plateLines": "首先 — 粪水碰到肠壁 · 接着 — 一种酶剪开一个神经受体 · 结果 — 整张神经网放电猛烈得多"
       }
     }
   },
@@ -2259,6 +2287,10 @@
       "vi": {
         "question": "Ai mang vitamin tới đó?",
         "plateLines": "Đầu tiên — vi khuẩn ruột đánh thức niêm mạc · Sau đó — protein vận chuyển nhận retinol · Kết quả — dưới 2 % tới được tế bào miễn dịch"
+      },
+      "zh-Hans": {
+        "question": "是谁把维生素送过去的？",
+        "plateLines": "首先 — 肠道细菌唤醒肠壁 · 接着 — 载体蛋白接过视黄醇 · 结果 — 不到 2% 到达免疫细胞"
       }
     }
   },
@@ -3103,6 +3135,10 @@
         "question": "これから何を食べる？",
         "plateLines": "まず — 服用のあと腸は裸になる · 次に — 食物繊維と発酵食品が埋めなおす · 結果 — 180日目に9種が欠けたまま"
       },
+      "ko": {
+        "question": "이제 뭘 먹어야 할까?",
+        "plateLines": "먼저 — 항생제가 장을 비워 놓는다 · 그다음 — 식이섬유와 발효식품이 다시 채운다 · 결과 — 180일째에도 9종이 빠져 있다"
+      },
       "ms": {
         "question": "Apa patut saya makan sekarang?",
         "plateLines": "Mula-mula — kursus itu meninggalkannya licin · Kemudian — serat dan makanan fermentasi mengisinya semula · Hasilnya — 9 spesies hilang pada hari ke-180"
@@ -3122,6 +3158,10 @@
       "ru": {
         "question": "Что теперь есть?",
         "plateLines": "Сначала — после курса поле пустое · Затем — клетчатка и квашеное кормят · Итог — 9 видов нет и на 180-й день"
+      },
+      "th": {
+        "question": "ตอนนี้ควรกินอะไรดี?",
+        "plateLines": "ก่อนอื่น — คอร์สยาทิ้งให้ว่างเปล่า · จากนั้น — ใยอาหารและของหมักเติมกลับเข้าไป · ผลลัพธ์ — วันที่ 180 ยังขาดไป 9 ชนิด"
       },
       "tl": {
         "question": "Ano ang kakainin ko ngayon?",

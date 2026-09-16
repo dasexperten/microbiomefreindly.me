@@ -206,3 +206,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - zh-Hans card alt: "这种疼真的是身体上的吗？ — 一位女性在办公室走廊里停下来，一只前臂横压在腹部"
 - zh-Hans card question: "这种疼真的是身体上的吗？"
 - zh-Hans plate lines: "首先 — 粪水碰到肠壁 · 接着 — 一种酶剪开一个神经受体 · 结果 — 整张神经网放电猛烈得多"
+
+- ko preview alt: "일러스트: 얇은 장 조직 너머로 신경 매듭의 레이스가 빛나고, 맑은 호박빛 막이 그 위에 내려앉으며, 몇몇 매듭이 산호색으로 켜진다"
+- ko hero alt: "일러스트: 얇은 호박빛 액의 막이 장 점막에 내려앉고, 효소 하나가 신경세포의 수용체를 잘라내자 그 세포가 켜지며 둘레 신경망의 매듭들을 깨운다"
+- ko card alt: "정말 몸의 통증인가요? — 한 여자가 사무실 복도에서 팔뚝을 배에 가로질러 누르며 멈춰 선다"
+- ko card question: "정말 몸의 통증인가요?"
+- ko plate lines: "먼저 — 대변의 액이 장벽에 닿는다 · 그다음 — 효소가 신경 수용체를 잘라낸다 · 결과 — 신경망이 훨씬 세게 발화한다"
+
+- ms preview alt: "Ilustrasi: jalinan simpulan saraf bercahaya menembusi tisu usus yang nipis, satu lapisan jernih berwarna ambar mendap di atasnya, beberapa simpulan bercahaya warna karang"
+- ms hero alt: "Ilustrasi: lapisan cecair ambar yang nipis mendap pada lapisan usus; satu enzim mengerat reseptor pada sel saraf, yang menyala lalu mengejutkan simpulan jaringan saraf di sekelilingnya"
+- ms card alt: "Adakah sakit itu benar-benar fizikal? — seorang wanita berhenti di koridor pejabat, lengan ditekan melintang perutnya"
+- ms card question: "Adakah sakit itu benar-benar fizikal?"
+- ms plate lines: "Mula-mula — cecair najis menyentuh dinding usus · Kemudian — satu enzim mengerat reseptor saraf · Hasilnya — jaringan saraf mencetus jauh lebih kuat"
