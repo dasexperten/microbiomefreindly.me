@@ -1,6 +1,6 @@
 ---
 title: "Cómo quitar el mal aliento del estómago: casi nunca es el estómago"
-meta: "Cómo quitar el mal aliento del estómago: una consulta examinó a 491 pacientes y la boca explicó el 87 % de los casos; el tubo digestivo, el 1 %."
+meta: "Cómo quitar el mal aliento del estómago: una consulta examinó a 491 pacientes y la boca explicó el 87 % de los casos; el tubo digestivo, el 1 %."
 kicker: "Comprobación de mitos"
 type: myth
 topic: oral
@@ -15,15 +15,15 @@ seo:
   pulled: "2026-09-16"
 author: magnus-larsen
 voice: greger
-answer: "En parte cierto, y apenas. El olor son compuestos de azufre volátiles de bacterias anaerobias del dorso de la lengua y de la encía: por encima del esófago, no por debajo. En una consulta del aliento con 491 pacientes, la boca explicó el 87 % y el tubo digestivo el 1 %. Ocurre, pero es la excepción."
+answer: "En parte cierto, y apenas. El olor son compuestos de azufre volátiles de bacterias anaerobias del dorso de la lengua y de la encía: por encima del esófago, no por debajo. En una consulta del aliento con 491 pacientes, la boca explicó el 87 % y el tubo digestivo el 1 %. Ocurre, pero es la excepción."
 keyFacts:
-  - fact: "En una consulta belga multidisciplinar del mal aliento que examinó a 491 pacientes, las causas bucales supusieron el 87 % y el tubo digestivo el 1 %."
+  - fact: "En una consulta belga multidisciplinar del mal aliento que examinó a 491 pacientes, las causas bucales supusieron el 87 % y el tubo digestivo el 1 %."
     source: s1
-  - fact: "La saburra lingual por sí sola explicó el 51 % de los casos bucales de esa consulta, más que la gingivitis y la periodontitis juntas."
+  - fact: "La saburra lingual por sí sola explicó el 51 % de los casos bucales de esa consulta, más que la gingivitis y la periodontitis juntas."
     source: s1
-  - fact: "El sulfuro de hidrógeno y el metilmercaptano suponen alrededor del 90 % del azufre total del aire de la boca, y la mayor parte del olor sale del dorso posterior de la lengua."
+  - fact: "El sulfuro de hidrógeno y el metilmercaptano suponen alrededor del 90 % del azufre total del aire de la boca, y la mayor parte del olor sale del dorso posterior de la lengua."
     source: s2
-  - fact: "Las causas extraorales de todo tipo —la nariz y la vía aérea superior, la vía aérea inferior y las causas transportadas por la sangre— cubren en torno al 5–10 % de los casos de halitosis."
+  - fact: "Las causas extraorales de todo tipo —la nariz y la vía aérea superior, la vía aérea inferior y las causas transportadas por la sangre— cubren en torno al 5–10 % de los casos de halitosis."
     source: s3
   - fact: "Un metaanálisis de 21 estudios encontró la halitosis unas 2,85 veces más probable en las personas infectadas por Helicobacter pylori, y menos frecuente tras una erradicación exitosa."
     source: s7
@@ -31,7 +31,7 @@ keyFacts:
     source: s8
 faq:
   - q: "¿Entonces el estómago nunca causa mal aliento?"
-    a: "Puede causarlo, y lo causa pocas veces. En la serie de 491 pacientes, el tubo digestivo fue la causa identificada en el 1 % de los casos [s1]. Todas las causas extraorales juntas rondan el 5–10 % [s3] o el 10–20 % [s4] según la serie y según lo estricta que sea la medición. Si tu problema de aliento es de verdad gástrico, perteneces a una minoría pequeña, y lo habitual es que tengas además otras molestias digestivas y no solo el olor."
+    a: "Puede causarlo, y lo causa pocas veces. En la serie de 491 pacientes, el tubo digestivo fue la causa identificada en el 1 % de los casos [s1]. Todas las causas extraorales juntas rondan el 5–10 % [s3] o el 10–20 % [s4] según la serie y según lo estricta que sea la medición. Si tu problema de aliento es de verdad gástrico, perteneces a una minoría pequeña, y lo habitual es que tengas además otras molestias digestivas y no solo el olor."
   - q: "¿Y por qué me huele el aliento justo después de eructar?"
     a: "Porque acabas de empujar gas del estómago hacia fuera por la boca. Es un olor real y un hecho real, pero pasa enseguida. La halitosis crónica es el olor que está en el aliento mientras el esófago permanece cerrado y no hace nada, y ese olor se fabrica en la boca. Se confunden porque el eructo es el que se recuerda."
   - q: "¿Puede ser Helicobacter pylori la razón?"
@@ -108,7 +108,7 @@ images:
   preview: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-preview.webp"
   previewAlt: "Illustration: short, plump anaerobic rods deep in a narrow gum groove, fine plumes of sulfur gas rising out of it"
   plate: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-plate-en.webp"
-  plateLines: "First — the coating closes off the air · Then — bacteria strip sulphur from it · So — mouth 87 %, gut 1 %"
+  plateLines: "First — the coating closes off the air · Then — bacteria strip sulphur from it · So — mouth 87 %, gut 1 %"
   hero: "/assets/img/mbf/myth/bad-breath-comes-from-the-stomach/bad-breath-comes-from-the-stomach-hero.webp"
   heroAlt: "Illustration: a crowd of sulfur-gas plumes rises from bacteria in the coating on the back of the tongue, while a single thin plume rises from the depth below"
 referral:
@@ -129,19 +129,19 @@ La frase llega con una seguridad total, casi siempre de alguien que ya ha compra
 
 **En parte cierto, y ese «en parte» es muy pequeño.**
 
-En una consulta belga multidisciplinar del mal aliento que examinó a 491 pacientes junto a un otorrinolaringólogo, un periodoncista y, cuando hizo falta, un psiquiatra, las causas bucales explicaron el 87 % de los casos. Al tubo digestivo le correspondió el 1 % [s1]. Es un paciente de cada cien, en una consulta a la que la gente llega precisamente porque todo lo más sencillo ya ha fracasado.
+En una consulta belga multidisciplinar del mal aliento que examinó a 491 pacientes junto a un otorrinolaringólogo, un periodoncista y, cuando hizo falta, un psiquiatra, las causas bucales explicaron el 87 % de los casos. Al tubo digestivo le correspondió el 1 % [s1]. Es un paciente de cada cien, en una consulta a la que la gente llega precisamente porque todo lo más sencillo ya ha fracasado.
 
 ## Dónde se fabrica realmente el olor
 
-El mal aliento es sobre todo una clase de moléculas: los compuestos de azufre volátiles. Tonzetich, en la revisión de 1977 que todavía sostiene este campo, demostró que el sulfuro de hidrógeno y el metilmercaptano suponen aproximadamente el 90 % del azufre total del aire de la boca, y que el olor procede de la putrefacción de proteínas con azufre por microorganismos bucales predominantemente gramnegativos [s2]. Los ensayos de cepillado de ese mismo trabajo señalaron la placa y la lengua como fuentes importantes, con la mayor parte del olor saliendo de la superficie dorsoposterior de la lengua, su parte más trasera [s2].
+El mal aliento es sobre todo una clase de moléculas: los compuestos de azufre volátiles. Tonzetich, en la revisión de 1977 que todavía sostiene este campo, demostró que el sulfuro de hidrógeno y el metilmercaptano suponen aproximadamente el 90 % del azufre total del aire de la boca, y que el olor procede de la putrefacción de proteínas con azufre por microorganismos bucales predominantemente gramnegativos [s2]. Los ensayos de cepillado de ese mismo trabajo señalaron la placa y la lengua como fuentes importantes, con la mayor parte del olor saliendo de la superficie dorsoposterior de la lengua, su parte más trasera [s2].
 
 Merece la pena quedarse ahí, porque en eso cabe todo el malentendido. El dorso posterior de la lengua es una superficie fisurada y llena de papilas que retiene una capa espesa de células epiteliales descamadas, sedimento de saliva y restos de comida. Bajo esa capa se acaba el oxígeno. Las bacterias anaerobias hacen entonces con la proteína lo que hacen las bacterias anaerobias: arrancan el azufre de la cisteína y de la metionina y lo sueltan en forma de gas [s3]. El sustrato son las células muertas de uno mismo. Las condiciones que Tonzetich describió para la máxima actividad putrefactiva —pocos hidratos de carbono, pH fisiológico, falta de oxígeno— son exactamente las condiciones del tercio posterior de la lengua cuando la boca está cerrada y la saliva va lenta [s2].
 
-La encía hace lo mismo dentro de una bolsa periodontal, y por eso la enfermedad de las encías y el mal aliento viajan juntos. En la serie belga, la saburra lingual estaba detrás del 51 % de los casos bucales, la gingivitis del 17 %, la periodontitis del 15 % y las combinaciones del 17 % restante [s1]. Los responsables son los anaerobios conocidos de la placa y del borde de la encía: cuando se incubaron anaerobios bucales frecuentes con cisteína y metionina y se midió el gas que quedaba sobre el cultivo, [Porphyromonas gingivalis](/bacteria/porphyromonas-gingivalis/) figuró entre los mayores productores tanto de sulfuro de hidrógeno como de metilmercaptano [s11].
+La encía hace lo mismo dentro de una bolsa periodontal, y por eso la enfermedad de las encías y el mal aliento viajan juntos. En la serie belga, la saburra lingual estaba detrás del 51 % de los casos bucales, la gingivitis del 17 %, la periodontitis del 15 % y las combinaciones del 17 % restante [s1]. Los responsables son los anaerobios conocidos de la placa y del borde de la encía: cuando se incubaron anaerobios bucales frecuentes con cisteína y metionina y se midió el gas que quedaba sobre el cultivo, [Porphyromonas gingivalis](/bacteria/porphyromonas-gingivalis/) figuró entre los mayores productores tanto de sulfuro de hidrógeno como de metilmercaptano [s11].
 
 ## La parte que de verdad no viene de la boca
 
-La literatura coincide en el tamaño de la porción que no sale de la boca, aunque no en sus bordes exactos. Tangerman y Winkel sitúan la halitosis extraoral de cualquier tipo en torno al 5–10 % de todos los casos [s3]. Una revisión sistemática de 2022 sobre la literatura etiológica situó los factores dentro de la boca en el 80–90 % y los de fuera en el 10–20 % [s4]. El 13 % no bucal de la consulta belga se repartió en un 4 % de problemas otorrinolaringológicos, un 3 % mixto de otorrino y boca, un 5 % de causa presuntamente psiquiátrica y un 1 % de tubo digestivo [s1].
+La literatura coincide en el tamaño de la porción que no sale de la boca, aunque no en sus bordes exactos. Tangerman y Winkel sitúan la halitosis extraoral de cualquier tipo en torno al 5–10 % de todos los casos [s3]. Una revisión sistemática de 2022 sobre la literatura etiológica situó los factores dentro de la boca en el 80–90 % y los de fuera en el 10–20 % [s4]. El 13 % no bucal de la consulta belga se repartió en un 4 % de problemas otorrinolaringológicos, un 3 % mixto de otorrino y boca, un 5 % de causa presuntamente psiquiátrica y un 1 % de tubo digestivo [s1].
 
 Fíjate en qué llena esa porción en la serie belga: problemas otorrinolaringológicos y causas presuntamente psiquiátricas, cada una de ellas mayor que el tubo digestivo [s1]. Y cuando una enfermedad general llega de verdad al aliento, no lo hace subiendo por el esófago. Los compuestos olorosos que circulan por la sangre pasan al pulmón, se volatilizan en el aire de los alvéolos y salen con cada espiración [s6]. Por eso la halitosis que viene de la sangre huele igual por la nariz que por la boca, y la que se fabrica en la boca no. En un estudio de 58 personas que se quejaban de mal aliento, 47 tenían un origen bucal, seis lo tenían fuera de la boca y cinco no tenían ningún olor medible; los seis casos extraorales mostraron sulfuro de dimetilo elevado tanto en el aire de la boca como en el de la nariz [s5].
 

@@ -15,7 +15,7 @@ seo:
   pulled: "2026-09-16"
 author: magnus-larsen
 voice: greger
-answer: "Streptococcus salivarius es un estreptococo inofensivo que llega a la lengua a días de nacer y defiende su territorio con bacteriocinas, antibióticos proteicos contra rivales. Algunas cepas se probaron contra el dolor de garganta y el mal aliento en ensayos pequeños y flojos. Rara vez sale de la boca, pero llevado en una aguja de punción lumbar ha causado meningitis."
+answer: "Streptococcus salivarius es un estreptococo inofensivo que llega a la lengua a días de nacer y defiende su territorio con bacteriocinas, antibióticos proteicos contra rivales. Algunas cepas se probaron contra el dolor de garganta y el mal aliento en ensayos pequeños y flojos. Rara vez sale de la boca, pero en una aguja de punción lumbar ha causado meningitis."
 keyFacts:
   - fact: "En una serie de 12 recién nacidos sanos con muestras desde el primer día hasta los doce meses, S. salivarius fue el organismo oral que más veces se recuperó."
     source: s1

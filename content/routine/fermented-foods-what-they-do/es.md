@@ -23,7 +23,7 @@ keyFacts:
     source: s2
   - fact: "En un estudio aleatorizado de Stanford de 17 semanas, 18 adultos que comían un objetivo de seis raciones de alimento fermentado al día ganaron diversidad microbiana intestinal y bajaron 19 de las 93 proteínas inflamatorias del suero medidas, entre ellas la IL-6, la IL-10 y la IL-12b."
     source: s1
-  - fact: "La ganancia de diversidad no se debió sobre todo a los microbios del alimento: el solapamiento entre las ASV nuevas del intestino y las ASV de los alimentos fermentados llegó como mucho al 5,4 % al principio y, más adelante, no se distinguió del de la rama de mucha fibra."
+  - fact: "La ganancia de diversidad no se debió sobre todo a los microbios del alimento: el solapamiento entre las ASV nuevas del intestino y las ASV de los alimentos fermentados llegó como mucho al 5,4 % al principio y, más adelante, no se distinguió del de la rama de mucha fibra."
     source: s1
   - fact: "Las verduras fermentadas tratadas con calor o pasteurizadas, el embutido fermentado, la salsa de soya, el vinagre, algunas kombuchas, el pan horneado, el vino y la mayoría de las cervezas llegan a quien los come sin ningún microorganismo vivo."
     source: s2
@@ -101,7 +101,7 @@ Los cuatro no son versiones de una misma cosa. El yogur es el más estrecho: dos
 
 ## El ensayo que le puso un número
 
-Wastyk, Fragiadakis y sus colegas, en Stanford, hicieron un estudio aleatorizado a lo largo de un protocolo de 17 semanas —una intervención dietética de 10 semanas, con tres semanas de base antes y cuatro semanas de seguimiento después [s1]—: 36 adultos generalmente sanos, 18 por rama [s1], con una dieta rica en fibra o una dieta rica en alimentos fermentados. Una ración se definió como 6 onzas de kombucha, yogur o kéfir, un cuarto de taza de kimchi o chucrut, o 2 onzas de bebida de salmuera vegetal [s1]. Una subida progresiva de cuatro semanas llevó a un objetivo de seis raciones al día [s1], y la rama de fermentados promedió 6,3 ± 2,9 raciones diarias al final del mantenimiento [s1].
+Wastyk, Fragiadakis y sus colegas, en Stanford, hicieron un estudio aleatorizado a lo largo de un protocolo de 17 semanas —una intervención dietética de 10 semanas, con tres semanas de base antes y cuatro semanas de seguimiento después [s1]—: 36 adultos generalmente sanos, 18 por rama [s1], con una dieta rica en fibra o una dieta rica en alimentos fermentados. Una ración se definió como 6 onzas de kombucha, yogur o kéfir, un cuarto de taza de kimchi o chucrut, o 2 onzas de bebida de salmuera vegetal [s1]. Una subida progresiva de cuatro semanas llevó a un objetivo de seis raciones al día [s1], y la rama de fermentados promedió 6,3 ± 2,9 raciones diarias al final del mantenimiento [s1].
 
 Pasaron dos cosas. La diversidad alfa microbiana del intestino subió en tres medidas —ASV observadas, PD whole tree y Shannon [s1]— y se mantuvo alta durante las cuatro semanas de elección libre posteriores [s1]. Y 19 de las 93 proteínas inflamatorias del suero medidas bajaron, la IL-6, la IL-10 y la IL-12b entre ellas [s1].
 
@@ -109,7 +109,7 @@ La rama de mucha fibra no hizo ninguna de las dos cosas: la diversidad no se mov
 
 ## Por qué subió la diversidad si los microbios no se quedaron
 
-Este es el hallazgo que debería cambiar cómo piensas el frasco. El equipo de Stanford secuenció también los alimentos, además de las heces, para preguntarse si los microorganismos nuevos del intestino de la gente eran los que se habían comido. En su mayoría no lo eran: el solapamiento entre las ASV nuevas del intestino y las ASV de los alimentos fermentados llegó como mucho al 5,4 % al principio de la intervención y, más adelante, no fue distinto en la rama de fermentados que en la de fibra [s1]. Los autores concluyen que el aumento de diversidad no se debió principalmente a los microbios ingeridos, sino a cambios en la comunidad residente o a nuevas incorporaciones a ella [s1].
+Este es el hallazgo que debería cambiar cómo piensas el frasco. El equipo de Stanford secuenció también los alimentos, además de las heces, para preguntarse si los microorganismos nuevos del intestino de la gente eran los que se habían comido. En su mayoría no lo eran: el solapamiento entre las ASV nuevas del intestino y las ASV de los alimentos fermentados llegó como mucho al 5,4 % al principio de la intervención y, más adelante, no fue distinto en la rama de fermentados que en la de fibra [s1]. Los autores concluyen que el aumento de diversidad no se debió principalmente a los microbios ingeridos, sino a cambios en la comunidad residente o a nuevas incorporaciones a ella [s1].
 
 Desde el mecanismo, esa es la historia más interesante. Un alimento fermentado no son solo células; es todo lo que las células fabricaron mientras el frasco estuvo ahí —ácidos orgánicos, péptidos, azúcares ya rotos— y que llega cada día a un intestino cuyos residentes responden a esa química. Cuál de esas cosas hace el trabajo, nadie lo ha aislado. Lo que el ensayo descarta es la escena sobre la que corre el marketing: tragas bacterias, las bacterias se instalan, la diversidad sube.
 
@@ -127,7 +127,7 @@ Una excepción va en sentido contrario. Las personas que no pueden digerir la la
 
 Seis raciones al día es lo que se probó [s1], y es mucho. Es también la única cantidad con un ensayo controlado detrás, así que trátala como la dosis probada y no como la mínima útil: el ensayo no tuvo una rama con dosis menor [s1].
 
-Una semana que llega ahí: un vaso de 6 onzas de yogur vivo o de kéfir en el desayuno [s1], un cuarto de taza de kimchi o de chucrut en la comida y en la cena [s1], y algo fermentado junto a otras dos comidas. Rota en vez de repetir: los cuatro llevan microorganismos distintos en cantidades distintas [s2][s3], y el ensayo daba una mezcla, no un producto.
+Una semana que llega ahí: un vaso de 6 onzas de yogur vivo o de kéfir en el desayuno [s1], un cuarto de taza de kimchi o de chucrut en la comida y en la cena [s1], y algo fermentado junto a otras dos comidas. Rota en vez de repetir: los cuatro llevan microorganismos distintos en cantidades distintas [s2][s3], y el ensayo daba una mezcla, no un producto.
 
 El retrato observacional es más modesto. Taylor y sus colegas compararon las heces de 6.811 personas del American Gut Project [s4] y encontraron diferencias entre quienes los consumían y quienes no, estadísticamente significativas pero, en su propia palabra, sutiles [s4], con un enriquecimiento de ácido linoleico conjugado entre los consumidores [s4]. Reales. Pequeñas. No una prueba de causa.
 

@@ -1,5 +1,5 @@
 ---
-title: "Cómo recuperar la flora intestinal tras los antibióticos"
+title: "Qué comer después de un ciclo de antibióticos"
 meta: "Cómo recuperar la flora intestinal tras un tratamiento: vuelve casi a la base en 1,5 meses, pero nueve especies faltaban a los 180 días. Qué dicen los ensayos."
 kicker: "Después de los antibióticos"
 type: routine
@@ -10,6 +10,7 @@ date: 2026-09-04
 asOf: 2026-09-04
 seo:
   keyword: "como recuperar la flora intestinal"
+  collision: "pending — casi idéntica a la frase de la página de preguntas; esta espera su propia medición (qué comer después de antibióticos, MX) mañana"
   volume: 320
   market: "MX (Ubersuggest locId 2484)"
   pulled: "2026-09-16"
@@ -21,19 +22,19 @@ keyFacts:
     source: s1
   - fact: "El ciprofloxacino redujo la diversidad intestinal en 3–4 días desde la primera dosis; las comunidades empezaron a volver alrededor de una semana después de cada tanda, pero la vuelta fue a menudo incompleta y el estado final quedó alterado."
     source: s2
-  - fact: "En 17 ensayos aleatorizados con 3.631 pacientes ambulatorios, hubo diarrea asociada a antibióticos en el 8,0 % del grupo con probiótico y en el 17,7 % de los controles (RR 0,49; IC del 95 % de 0,36 a 0,66)."
+  - fact: "En 17 ensayos aleatorizados con 3.631 pacientes ambulatorios, hubo diarrea asociada a antibióticos en el 8,0 % del grupo con probiótico y en el 17,7 % de los controles (RR 0,49; IC del 95 % de 0,36 a 0,66)."
     source: s5
-  - fact: "En el ensayo PLACIDE, 2.941 pacientes hospitalizados de 65 años o más se asignaron al azar a 6 × 10¹⁰ microorganismos al día durante 21 días o a placebo; hubo diarrea en el 10,8 % con probiótico y en el 10,4 % con placebo (RR 1,04; IC del 95 % de 0,84 a 1,28)."
+  - fact: "En el ensayo PLACIDE, 2.941 pacientes hospitalizados de 65 años o más se asignaron al azar a 6 × 10¹⁰ microorganismos al día durante 21 días o a placebo; hubo diarrea en el 10,8 % con probiótico y en el 10,4 % con placebo (RR 1,04; IC del 95 % de 0,84 a 1,28)."
     source: s6
   - fact: "Frente a la recuperación espontánea, un probiótico de 11 cepas administrado después de los antibióticos produjo una vuelta claramente retrasada y persistentemente incompleta del microbioma propio de las heces y de la mucosa, mientras que el trasplante fecal autólogo lo restableció en días."
     source: s3
-  - fact: "Los adultos sanos que subieron los alimentos fermentados de 0,4 a 6,3 raciones al día durante 17 semanas ganaron diversidad de microbiota y vieron bajar 19 de 93 proteínas inflamatorias del suero, entre ellas la IL-6; la rama de mucha fibra, que llegó a 45,1 g al día, no ganó diversidad."
+  - fact: "Los adultos sanos que subieron los alimentos fermentados de 0,4 a 6,3 raciones al día durante 17 semanas ganaron diversidad de microbiota y vieron bajar 19 de 93 proteínas inflamatorias del suero, entre ellas la IL-6; la rama de mucha fibra, que llegó a 45,1 g al día, no ganó diversidad."
     source: s7
 faq:
   - q: "¿Cuánto tardará mi intestino en volver a la normalidad?"
     a: "Para la mayor parte de la comunidad, semanas. En el estudio de Copenhague con 12 hombres sanos y una combinación intravenosa de 4 días de tres antibióticos de último recurso, la composición estaba cerca de la inicial en 1,5 meses. La cola es más larga: nueve especies que todos llevaban antes del tratamiento seguían siendo indetectables en la mayoría a los 180 días. Un tratamiento oral suave es un golpe menor que esa combinación, pero nadie ha medido tu tratamiento concreto en tu intestino concreto."
   - q: "¿Debería tomar un probiótico durante el tratamiento o después?"
-    a: "Depende de qué estés preguntando. Si quieres menos heces blandas, los ensayos en pacientes ambulatorios encontraron un 8,0 % con probiótico frente a un 17,7 % con control, y la revisión Cochrane encontró protección real frente a la diarrea por Clostridioides difficile en personas cuyo riesgo basal superaba el 5 %, y ninguna en las que estaban por debajo. Si quieres recuperar antes tus propias especies, el único estudio que midió eso encontró que los probióticos frenaban la vuelta. Son desenlaces distintos, y ningún ensayo ha medido los dos en las mismas personas."
+    a: "Depende de qué estés preguntando. Si quieres menos heces blandas, los ensayos en pacientes ambulatorios encontraron un 8,0 % con probiótico frente a un 17,7 % con control, y la revisión Cochrane encontró protección real frente a la diarrea por Clostridioides difficile en personas cuyo riesgo basal superaba el 5 %, y ninguna en las que estaban por debajo. Si quieres recuperar antes tus propias especies, el único estudio que midió eso encontró que los probióticos frenaban la vuelta. Son desenlaces distintos, y ningún ensayo ha medido los dos en las mismas personas."
   - q: "¿Tengo que esperar a terminar el tratamiento para empezar a comer bien?"
     a: "No. La alteración empieza a los pocos días de la primera dosis, así que la comida no tiene que esperar a la última. No hay ningún ensayo que pruebe cuándo empezar, de modo que esto es mecanismo y sentido común, no un beneficio medido."
   - q: "¿El yogur es un probiótico?"
@@ -124,7 +125,7 @@ Aquí está la parte que la mayoría de los artículos se salta. Ningún ensayo 
 
 En ratones, una dieta pobre en fibra empeoró el derrumbe y retrasó la recuperación después de los antibióticos [s8]: un mecanismo demostrado en animales, no un resultado humano.
 
-En personas, Wastyk y sus colegas hicieron un ensayo aleatorizado de 17 semanas en adultos sanos, sin antibióticos de por medio, con 18 personas por rama [s7]. Una rama subió la fibra de 21,5 g al día a 45,1 g; la otra subió los alimentos fermentados de 0,4 raciones al día a 6,3 [s7]. La rama de fermentados fue ganando diversidad de microbiota y 19 de sus 93 proteínas inflamatorias del suero bajaron, la IL-6 entre ellas [s7]. La rama de mucha fibra no ganó diversidad, aunque aumentaron sus genes de enzimas que degradan glicanos [s7].
+En personas, Wastyk y sus colegas hicieron un ensayo aleatorizado de 17 semanas en adultos sanos, sin antibióticos de por medio, con 18 personas por rama [s7]. Una rama subió la fibra de 21,5 g al día a 45,1 g; la otra subió los alimentos fermentados de 0,4 raciones al día a 6,3 [s7]. La rama de fermentados fue ganando diversidad de microbiota y 19 de sus 93 proteínas inflamatorias del suero bajaron, la IL-6 entre ellas [s7]. La rama de mucha fibra no ganó diversidad, aunque aumentaron sus genes de enzimas que degradan glicanos [s7].
 
 Junta las dos y la lógica es clara más que probada: los grupos que los antibióticos tumban primero —las bifidobacterias y los productores de butirato [s1]— viven de hidratos de carbono vegetales fermentables. Dales a los supervivientes lo que comen.
 
@@ -132,15 +133,15 @@ Junta las dos y la lógica es clara más que probada: los grupos que los antibi�
 
 Empieza ya, no cuando termine el tratamiento. La caída arranca a los pocos días de la primera dosis [s2], así que no hay nada que esperar.
 
-Pon plantas fermentables en cada plato: legumbres, avena y cebada, cebolla, ajo y poro (puerro), manzanas y peras, papa o arroz cocidos y enfriados. La rama que cambió la capacidad enzimática llegó a 45,1 g de fibra al día [s7], aproximadamente el doble de su punto de partida de 21,5 g [s7], con una subida progresiva de 4 semanas antes de 6 semanas de mantenimiento [s7]. Subir poco a poco no es un detalle amable: así se hizo esa rama.
+Pon plantas fermentables en cada plato: legumbres, avena y cebada, cebolla, ajo y poro (puerro), manzanas y peras, papa o arroz cocidos y enfriados. La rama que cambió la capacidad enzimática llegó a 45,1 g de fibra al día [s7], aproximadamente el doble de su punto de partida de 21,5 g [s7], con una subida progresiva de 4 semanas antes de 6 semanas de mantenimiento [s7]. Subir poco a poco no es un detalle amable: así se hizo esa rama.
 
 Añade un fermentado al día: yogur con cultivos vivos, kéfir, chucrut, kimchi, verduras en salmuera. La cantidad que movió la diversidad fue de 6,3 raciones al día [s7], muchas más de las que va a alcanzar la mayoría. Una ración es una dirección, no la dosis que se probó.
 
 ## La cuestión de los probióticos, y la pelea que hay dentro
 
-Ahora el argumento, dicho en voz alta, porque la literatura no se pone de acuerdo. En 17 ensayos aleatorizados con 3.631 pacientes ambulatorios, la diarrea asociada a antibióticos afectó al 8,0 % de los grupos con probiótico y al 17,7 % de los controles, un riesgo relativo de 0,49 (IC del 95 % de 0,36 a 0,66), sin diferencias en los efectos adversos entre ramas [s5]. La revisión Cochrane sobre la diarrea por *Clostridioides difficile* agrupó 31 ensayos y 8.672 pacientes y encontró un 1,5 % frente a un 4,0 %, un riesgo relativo de 0,40, certeza moderada y 42 personas tratadas por caso evitado [s4]. Pero también encontró dónde vivía ese beneficio: donde el riesgo basal de [*C. difficile*](/bacteria/clostridioides-difficile/) superaba el 5 %, la tasa fue del 3,1 % frente al 11,6 % y el número necesario fue 12; al 5 % o por debajo, ninguna diferencia [s4].
+Ahora el argumento, dicho en voz alta, porque la literatura no se pone de acuerdo. En 17 ensayos aleatorizados con 3.631 pacientes ambulatorios, la diarrea asociada a antibióticos afectó al 8,0 % de los grupos con probiótico y al 17,7 % de los controles, un riesgo relativo de 0,49 (IC del 95 % de 0,36 a 0,66), sin diferencias en los efectos adversos entre ramas [s5]. La revisión Cochrane sobre la diarrea por *Clostridioides difficile* agrupó 31 ensayos y 8.672 pacientes y encontró un 1,5 % frente a un 4,0 %, un riesgo relativo de 0,40, certeza moderada y 42 personas tratadas por caso evitado [s4]. Pero también encontró dónde vivía ese beneficio: donde el riesgo basal de [*C. difficile*](/bacteria/clostridioides-difficile/) superaba el 5 %, la tasa fue del 3,1 % frente al 11,6 % y el número necesario fue 12; al 5 % o por debajo, ninguna diferencia [s4].
 
-Luego PLACIDE, el mayor ensayo aislado: 2.941 pacientes hospitalizados de 65 años o más, asignados al azar a dos cepas de lactobacilos y dos de bifidobacterias —6 × 10¹⁰ microorganismos al día durante 21 días— o a un placebo idéntico [s6]. La diarrea afectó al 10,8 % con probiótico y al 10,4 % con placebo, un riesgo relativo de 1,04 [s6]. Nada.
+Luego PLACIDE, el mayor ensayo aislado: 2.941 pacientes hospitalizados de 65 años o más, asignados al azar a dos cepas de lactobacilos y dos de bifidobacterias —6 × 10¹⁰ microorganismos al día durante 21 días— o a un placebo idéntico [s6]. La diarrea afectó al 10,8 % con probiótico y al 10,4 % con placebo, un riesgo relativo de 1,04 [s6]. Nada.
 
 Y luego el estudio que cambió la pregunta. Suez y sus colegas tomaron muestras directamente de la mucosa intestinal, no solo de las heces. Frente a limitarse a esperar, un probiótico de varias cepas produjo una reconstitución claramente retrasada y persistentemente incompleta del microbioma propio y de su expresión génica, mientras que un trasplante fecal autólogo —sus propias bacterias de antes del antibiótico, devueltas— restableció las cosas en días [s3]. En cultivo, los factores solubles segregados por *[Lactobacillus](/bacteria/lactobacillus/)* inhibieron a la comunidad autóctona [s3].
 

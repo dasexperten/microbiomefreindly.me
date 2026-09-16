@@ -1,6 +1,6 @@
 ---
-title: "Cómo restaurar la flora intestinal: tres días no bastan"
-meta: "Cómo restaurar la flora intestinal no se resuelve en tres días: cambia en un día, vuelve en dos y el 60 % de las cepas sigue ahí durante años."
+title: "Reset intestinal en tres días: qué dicen las mediciones"
+meta: "Cómo restaurar la flora intestinal no se resuelve en tres días: cambia en un día, vuelve en dos y el 60 % de las cepas sigue ahí durante años."
 kicker: "Comprobación de mitos"
 type: myth
 topic: gut
@@ -10,18 +10,19 @@ date: 2026-09-04
 asOf: 2026-09-04
 seo:
   keyword: "como restaurar la flora intestinal"
+  collision: "pending — la frase medida la queda la página de preguntas; esta espera su propia medición (reset/detox intestinal, MX) mañana"
   volume: 590
   market: "MX (Ubersuggest locId 2484)"
   pulled: "2026-09-16"
 author: magnus-larsen
 voice: greger
-answer: "Falso. La comida sí mueve la comunidad intestinal, y deprisa. Once voluntarios siguieron dos dietas extremas: la mezcla cambió un día tras llegar la comida y volvió dos días tras dejarla (Nature, 2014). Cerca del 60 % de las cepas de un adulto siguen ahí cinco años después (Science, 2013). Tres días cambian la lectura, no los residentes."
+answer: "Falso. La comida sí mueve la comunidad intestinal, y deprisa. Once voluntarios siguieron dos dietas extremas: la mezcla cambió un día tras llegar la comida y volvió dos días tras dejarla (Nature, 2014). Cerca del 60 % de las cepas de un adulto siguen ahí cinco años después (Science, 2013). Tres días cambian la lectura, no los residentes."
 keyFacts:
   - fact: "La composición de la comunidad intestinal cambió un día después de que una dieta enteramente animal llegara al intestino, y volvió a su estructura original dos días después de terminar esa dieta, en once voluntarios reclutados: diez por cada rama de cinco días y nueve completando ambas."
     source: s1
   - fact: "En un estudio de alimentación controlada con diez sujetos, la composición cambió de forma detectable en menos de 24 horas tras un cambio de dieta, mientras que la identidad del enterotipo se mantuvo estable durante todo el estudio de 10 días."
     source: s2
-  - fact: "De media, el 60 % de las aproximadamente 200 cepas bacterianas del intestino de un adulto se conservaron a lo largo de un periodo de muestreo de cinco años en 37 adultos estadounidenses."
+  - fact: "De media, el 60 % de las aproximadamente 200 cepas bacterianas del intestino de un adulto se conservaron a lo largo de un periodo de muestreo de cinco años en 37 adultos estadounidenses."
     source: s3
   - fact: "Tras una combinación de cuatro días de meropenem, gentamicina y vancomicina, doce hombres sanos recuperaron una composición cercana a la inicial en torno a 1,5 meses, y sin embargo nueve especies comunes seguían siendo indetectables en la mayoría de ellos a los 180 días."
     source: s4
@@ -72,7 +73,7 @@ images:
   preview: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-preview.webp"
   previewAlt: "Illustration: plump rod-shaped gut bacteria and pairs of small round cells settled on a fragment of plant fibre"
   plate: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-plate-en.webp"
-  plateLines: "First — food shifts the mix in a day · Then — two days later it slides back · So — 60 % of strains stay for years"
+  plateLines: "First — food shifts the mix in a day · Then — two days later it slides back · So — 60 % of strains stay for years"
   hero: "/assets/img/mbf/myth/you-can-reset-your-gut-in-three-days/you-can-reset-your-gut-in-three-days-hero.webp"
   heroAlt: "Illustration: two rows of ten gut bacteria groups in the mucus as food drifts in; in the later row six groups are unchanged and four are replaced by newcomers"
 referral:
@@ -107,7 +108,7 @@ El grupo de Wu puso a prueba la capa más profunda y la encontró firme. La iden
 
 ## La parte que no se mueve
 
-La respuesta más directa a «¿puedo empezar de cero?» sale de contar cepas en lugar de especies. Faith y sus colegas secuenciaron las heces de 37 adultos estadounidenses [s3] en intervalos que llegaban a cinco años [s3] y encontraron que, de media, el 60 % de las aproximadamente 200 cepas microbianas del intestino de un adulto se conservaban a lo largo de esa ventana de cinco años [s3]. Extrapolando la curva de pérdida, concluyeron que la mayoría de las cepas de una persona son residentes durante décadas [s3].
+La respuesta más directa a «¿puedo empezar de cero?» sale de contar cepas en lugar de especies. Faith y sus colegas secuenciaron las heces de 37 adultos estadounidenses [s3] en intervalos que llegaban a cinco años [s3] y encontraron que, de media, el 60 % de las aproximadamente 200 cepas microbianas del intestino de un adulto se conservaban a lo largo de esa ventana de cinco años [s3]. Extrapolando la curva de pérdida, concluyeron que la mayoría de las cepas de una persona son residentes durante décadas [s3].
 
 Ese es el número que decide este mito. Tu intestino no es una pizarra. Es un barrio con una población asentada desde hace mucho, y tres días cambian lo que hacen los vecinos, no quiénes son.
 

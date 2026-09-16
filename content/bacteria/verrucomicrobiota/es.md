@@ -33,7 +33,7 @@ faq:
   - q: "¿Verrucomicrobia es lo mismo que Verrucomicrobiota?"
     a: "Sí. El rango de filo entró en el código formal de nomenclatura bacteriana, y en 2021 se publicaron de forma válida cuarenta y dos nombres de filo con la terminación nueva. Verrucomicrobia es el nombre antiguo de los mismos organismos, y sigue apareciendo en casi todos los artículos citados aquí."
   - q: "¿Puedo tomar Akkermansia como suplemento?"
-    a: "Un ensayo humano pequeño lo probó y lo dio por seguro y bien tolerado durante tres meses. Eso es un piloto, no una licencia: 32 personas que lo terminaron, un solo centro y marcadores en sangre en vez de enfermedad como resultado. Quien tenga enfermedad inflamatoria intestinal o venga de una tanda reciente de antibióticos debería consultarlo antes con su médico."
+    a: "Un ensayo humano pequeño lo probó y lo dio por seguro y bien tolerado durante tres meses. Eso es un piloto, no una licencia: 32 personas que lo terminaron, un solo centro y marcadores en sangre en vez de enfermedad como resultado. Quien tenga enfermedad inflamatoria intestinal o venga de una ronda reciente de antibióticos debería consultarlo antes con su médico."
   - q: "¿Un estudio de heces me dice cuánta tengo?"
     a: "Solo de forma aproximada. Las heces muestrean lo que sale del intestino, no lo que se pega al moco donde de verdad vive este organismo, y el método también pesa: los cebadores de PCR de uso común amplifican mal los genes verrucomicrobianos, y por eso los estudios de suelo subestimaron el filo durante años."
   - q: "¿Comer más fibra lo sube?"

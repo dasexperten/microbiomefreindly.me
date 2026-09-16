@@ -30,9 +30,16 @@ const markers = (t) => (t.match(/\[s\d+\]/g) || []).sort();
 const links = (t) => (t.match(/\]\((\/[a-z0-9/-]+\/)\)/g) || []).sort();
 const field = (h, k) => (h.match(new RegExp(`^${k}:\\s*"?(.*?)"?\\s*$`, 'm')) || [])[1] || '';
 /* numbers as the reader meets them: digits with their separators, ignoring the ones inside urls and ids */
-const numbers = (t) => (t.replace(/https?:\S+/g, ' ').replace(/\[s\d+\]/g, ' ').match(/\d[\d.,  ]*\d|\d/g) || [])
-  // 0.22 and 0,22, 3,350 and 3 350 are the same number wearing different local clothes
-  .map((x) => x.replace(/[\s .,]/g, '')).filter((x) => x.length > 0).sort();
+const numbers = (t) => (t.replace(/https?:\S+/g, ' ').replace(/\[s\d+\]/g, ' ')
+  /* Join a thousands group written with a space — "36 043" is one number — but never join two numbers
+   * that merely stand beside each other. The first version swallowed whitespace greedily, so
+   * "0.74, 95 % CI" read as the single figure 07495 and "36 043 16S rRNA" as 3604316. Three translators
+   * bent good sentences to satisfy that, which is the tool making the writing worse. */
+  .replace(/(\d)[\s\u00a0](\d{3})(?!\d)/g, '$1$2')     // 36 043 -> 36043
+  .replace(/(\d)[\s\u00a0](\d{3})(?!\d)/g, '$1$2')     // again, for 2 030 936 -> 2030936
+  .match(/\d[\d.,]*\d|\d/g) || [])
+  // 0.22 and 0,22, 3,350 and 3.350 are the same number in different local clothes
+  .map((x) => x.replace(/[.,]/g, '')).filter((x) => x.length > 0).sort();
 const rows = (h, key) => (h.match(new RegExp(`^\\s+${key}:\\s*"?(.*?)"?\\s*$`, 'gm')) || []).map((s) => s.trim());
 
 let fails = 0, ok = 0, missing = 0, warns = 0;
