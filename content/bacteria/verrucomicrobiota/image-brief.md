@@ -190,3 +190,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ro card alt: "E bun mâncătorul de mucus? — o femeie alege verdețuri într-o hală de piață, într-o dimineață de sâmbătă"
 - ro card question: "E bun mâncătorul de mucus?"
 - ro plate lines: "Mai întâi — pasc mantaua de mucus a intestinului · Apoi — mucoasa se hrănește și face mai mult · Rezultat — fără fibre, mantaua se subțiază"
+
+- zh-Hans preview alt: "插画：椭圆形细菌待在肠壁上方被拉长的黏液丝之间，其中一根丝在一个细胞进食的地方散开了"
+- zh-Hans hero alt: "插画：椭圆形细菌啃食结肠内壁上的黏液层，内壁吸收金色的燃料并造出新的黏液；再往右，密集的细菌把这一层磨成了一层薄纱"
+- zh-Hans card alt: "吃黏液的菌是好的吗？ — 一位女性在周六早晨的室内菜市场里挑绿叶菜"
+- zh-Hans card question: "吃黏液的菌是好的吗？"
+- zh-Hans plate lines: "首先 — 它啃食肠道的黏液外衣 · 接着 — 肠壁得到养分并造出更多 · 结果 — 没有纤维，这件外衣就被磨薄"

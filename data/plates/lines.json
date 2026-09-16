@@ -270,6 +270,10 @@
         "question": "От бактерий полнеют?",
         "plateLines": "Сначала — крахмал доходит целым · Затем — палочки делают из него бутират · Итог — стенка сыта; 50–60 % со спорами"
       },
+      "th": {
+        "question": "แบคทีเรียในลำไส้ทำให้อ้วนไหม?",
+        "plateLines": "ก่อนอื่น — แป้งไปถึงลำไส้ใหญ่ทั้งเม็ด · จากนั้น — แท่งหมักมันเป็นบิวทิเรต · ผลลัพธ์ — เยื่อบุได้กิน สปอร์อยู่ใน 50–60 %"
+      },
       "tl": {
         "question": "Nakakataba ba ang gut bacteria?",
         "plateLines": "Una — buo pang nakakarating sa colon ang starch · Tapos — ginagawa itong butyrate ng mga baras · Kaya — kumakain ang lining; spore sa 50–60 %"
@@ -357,9 +361,17 @@
         "question": "O esporo probiótico fica?",
         "plateLines": "Primeiro — os esporos chegam adormecidos e inteiros · Depois — um deles acorda e azeda o açúcar · Resultado — eles passam direto e vão embora"
       },
+      "ro": {
+        "question": "Rămân sporii probiotici în intestin?",
+        "plateLines": "Mai întâi — sporii sosesc adormiți și întregi · Apoi — unul se trezește și acrește zahărul · Rezultat — trec mai departe și pleacă"
+      },
       "ru": {
         "question": "Пробиотик остаётся в кишечнике?",
         "plateLines": "Сначала — споры приходят спящими · Затем — одна прорастает в палочку · Итог — проплывают мимо и уходят"
+      },
+      "th": {
+        "question": "สปอร์โพรไบโอติกอยู่ต่อไหม?",
+        "plateLines": "ก่อนอื่น — สปอร์มาถึงทั้งที่ยังหลับและยังครบ · จากนั้น — เม็ดหนึ่งตื่นขึ้นและทำให้น้ำตาลเปรี้ยว · ผลลัพธ์ — พวกมันลอยผ่านไปแล้วก็จากไป"
       },
       "tl": {
         "question": "Nananatili ba ang probiotic spore?",
@@ -428,6 +440,18 @@
         "question": "Que se passe-t-il sans fibres ?",
         "plateLines": "D'abord — la fibre végétale leur arrive entière · Ensuite — ils la démontent pour vous · Résultat — sans fibres, ils mangent votre muqueuse"
       },
+      "ja": {
+        "question": "食物繊維がないとどうなる？",
+        "plateLines": "まず — 植物繊維がそのまま届く · 次に — あなたの代わりに分解する · 結果 — 繊維がなければ粘膜を食べる"
+      },
+      "ko": {
+        "question": "식이섬유가 없으면 어떻게 되나요?",
+        "plateLines": "먼저 — 식물 섬유가 온전한 채 이들에게 닿는다 · 그다음 — 우리를 대신해 그것을 분해한다 · 결과 — 섬유가 없으면 내 점막을 먹는다"
+      },
+      "ms": {
+        "question": "Apa jadi tanpa serat?",
+        "plateLines": "Mula-mula — serat tumbuhan sampai kepadanya dalam keadaan utuh · Kemudian — ia menguraikannya untuk anda · Hasilnya — tiada serat, ia makan lapisan usus anda"
+      },
       "pl": {
         "question": "Co się dzieje bez błonnika?",
         "plateLines": "Najpierw — błonnik roślinny dociera do nich cały · Potem — rozbierają go za ciebie · Efekt — bez błonnika jedzą twoją wyściółkę"
@@ -443,6 +467,14 @@
       "ru": {
         "question": "Что будет без клетчатки?",
         "plateLines": "Сначала — клетчатка доходит целой · Затем — они разбирают её для вас · Итог — без клетчатки едят вашу слизь"
+      },
+      "th": {
+        "question": "ถ้าไม่มีใยอาหารจะเกิดอะไรขึ้น?",
+        "plateLines": "ก่อนอื่น — ใยอาหารจากพืชมาถึงพวกมันทั้งเส้น · จากนั้น — พวกมันแยกมันออกให้คุณ · ผลลัพธ์ — ไม่มีใยอาหาร พวกมันก็กินเยื่อบุของคุณ"
+      },
+      "tl": {
+        "question": "Ano ang mangyayari kapag walang fiber?",
+        "plateLines": "Una — buo pang nakakarating sa kanila ang fiber · Tapos — hinahati nila ito para sa iyo · Kaya — walang fiber, kakainin nila ang lining mo"
       },
       "tr": {
         "question": "Lif olmayınca ne olur?",
@@ -507,6 +539,18 @@
         "question": "Toutes les bifidobactéries sont-elles bonnes ?",
         "plateLines": "D'abord — les sucres du lait passent sans être digérés · Ensuite — ces bâtonnets mangent ce que le bébé ne peut pas · Résultat — plus de 90 % de son intestin"
       },
+      "ja": {
+        "question": "ビフィズス菌はみな善玉？",
+        "plateLines": "まず — 乳の糖は赤ちゃんの体を素通りする · 次に — この桿菌が赤ちゃんに食べられないものを食べる · 結果 — 腸の90%以上がこの菌になる"
+      },
+      "ko": {
+        "question": "비피더스균은 다 좋은가요?",
+        "plateLines": "먼저 — 모유 당이 아기를 그냥 지나친다 · 그다음 — 아기가 못 먹는 것을 이 막대균이 먹는다 · 결과 — 아기 장의 90 % 넘게가 이들의 것이 된다"
+      },
+      "ms": {
+        "question": "Adakah semua bifidobakteria baik?",
+        "plateLines": "Mula-mula — gula susu berlalu tanpa diambil bayi · Kemudian — rod ini memakan apa yang bayi tidak mampu · Hasilnya — lebih 90 % ususnya milik mereka"
+      },
       "pl": {
         "question": "Czy każda jest dobra?",
         "plateLines": "Najpierw — cukry mleka przechodzą obok dziecka · Potem — te pałeczki jedzą to, czego ono nie potrafi · Efekt — ponad 90 % jego jelita należy do nich"
@@ -515,9 +559,17 @@
         "question": "Toda bifidobactéria é boa?",
         "plateLines": "Primeiro — os açúcares do leite passam direto pelo bebê · Depois — estes bastonetes comem o que ela não come · Resultado — mais de 90 % do intestino dela é deles"
       },
+      "ro": {
+        "question": "Orice bifidobacterie e bună?",
+        "plateLines": "Mai întâi — zaharurile din lapte trec pe lângă bebeluș · Apoi — aceste bastonașe mănâncă ce ea nu poate · Rezultat — peste 90 % din intestinul ei e al lor"
+      },
       "ru": {
         "question": "Все бифидобактерии полезные?",
         "plateLines": "Сначала — сахара молока ей не по зубам · Затем — их съедают эти палочки · Итог — в юном кишечнике их больше 90 %"
+      },
+      "tl": {
+        "question": "Mabuti ba lahat ng bifidobacterium?",
+        "plateLines": "Una — dumaraan lang sa sanggol ang asukal ng gatas · Tapos — kinakain ng mga baras ang hindi niya kaya · Kaya — mahigit 90 % ng gut niya ay kanila"
       },
       "tr": {
         "question": "Her bifidobakteri iyi midir?",
@@ -530,6 +582,10 @@
       "vi": {
         "question": "Bifidobacterium nào cũng tốt?",
         "plateLines": "Đầu tiên — đường sữa đi ngang em bé · Sau đó — những que này ăn thứ bé không ăn nổi · Kết quả — hơn 90 % ruột bé là của chúng"
+      },
+      "zh-Hans": {
+        "question": "每一种双歧杆菌都是好的吗？",
+        "plateLines": "首先 — 母乳里的糖从婴儿身边过而不入 · 接着 — 这些杆菌吃掉她吃不了的东西 · 结果 — 她肠道里超过 90% 都是它们"
       }
     }
   },
@@ -578,6 +634,18 @@
         "question": "La porter, est-ce être malade ?",
         "plateLines": "D'abord — les voisins la tiennent en respect · Ensuite — les antibiotiques les balaient · Résultat — les spores se réveillent et se multiplient"
       },
+      "ja": {
+        "question": "持っていたら病気ですか？",
+        "plateLines": "まず — 隣人たちが押さえ込んでいる · 次に — 抗菌薬が隣人を一掃する · 結果 — 芽胞が目を覚まして増える"
+      },
+      "ko": {
+        "question": "보균이면 병에 걸린 건가요?",
+        "plateLines": "먼저 — 이웃들이 이 균을 눌러 둔다 · 그다음 — 항생제가 이웃들을 쓸어 간다 · 결과 — 포자가 깨어나 불어난다"
+      },
+      "ms": {
+        "question": "Membawanya bermakna kita sakit?",
+        "plateLines": "Mula-mula — jiran-jiran menahannya · Kemudian — antibiotik menyapu mereka pergi · Hasilnya — spora terjaga lalu membiak"
+      },
       "pl": {
         "question": "Nosicielstwo to już choroba?",
         "plateLines": "Najpierw — sąsiedzi trzymają ją w ryzach · Potem — antybiotyki zmiatają sąsiadów · Efekt — przetrwalniki budzą się i mnożą"
@@ -586,9 +654,17 @@
         "question": "Carregar já é estar doente?",
         "plateLines": "Primeiro — os vizinhos a mantêm sob controle · Depois — os antibióticos varrem os vizinhos · Resultado — os esporos acordam e se multiplicam"
       },
+      "ro": {
+        "question": "Dacă îl porți, te îmbolnăvești?",
+        "plateLines": "Mai întâi — vecinii îl țin în frâu · Apoi — antibioticele îi mătură · Rezultat — sporii se trezesc și se înmulțesc"
+      },
       "ru": {
         "question": "Носитель — значит больной?",
         "plateLines": "Сначала — соседи держат её в узде · Затем — антибиотик сметает соседей · Итог — споры просыпаются и растут"
+      },
+      "tl": {
+        "question": "May dala, may sakit na ba?",
+        "plateLines": "Una — pinipigil ito ng mga kapitbahay · Tapos — tinatangay sila ng antibiotics · Kaya — nagigising ang spore at dumarami"
       },
       "tr": {
         "question": "Taşımak hastalık demek mi?",
@@ -601,6 +677,10 @@
       "vi": {
         "question": "Mang nó là bị bệnh?",
         "plateLines": "Đầu tiên — hàng xóm ghìm nó xuống · Sau đó — kháng sinh quét sạch hàng xóm · Kết quả — bào tử thức dậy và nhân lên"
+      },
+      "zh-Hans": {
+        "question": "带着它就等于生病吗？",
+        "plateLines": "首先 — 邻居们把它按住 · 接着 — 抗生素把邻居扫走 · 结果 — 芽孢醒来，开始增殖"
       }
     }
   },
@@ -649,6 +729,18 @@
         "question": "E. coli est-elle toujours dangereuse ?",
         "plateLines": "D'abord — l'oxygène suinte de la muqueuse · Ensuite — ces bâtonnets le consomment · Résultat — plus de 90 % d'entre nous les portent"
       },
+      "ja": {
+        "question": "大腸菌はいつも危険？",
+        "plateLines": "まず — 粘膜から酸素がしみ出す · 次に — この桿菌がそれを吸ってしまう · 結果 — 90%以上の人がこの菌を持つ"
+      },
+      "ko": {
+        "question": "대장균은 늘 위험한가요?",
+        "plateLines": "먼저 — 점막에서 산소가 새어 나온다 · 그다음 — 이 막대균이 그것을 마셔 없앤다 · 결과 — 우리 90 % 넘게가 이 균을 지닌다"
+      },
+      "ms": {
+        "question": "Adakah E. coli sentiasa bahaya?",
+        "plateLines": "Mula-mula — oksigen merembes dari lapisan usus · Kemudian — rod ini menghabiskannya · Hasilnya — lebih 90 % daripada kita membawanya"
+      },
       "pl": {
         "question": "Czy E. coli zawsze szkodzi?",
         "plateLines": "Najpierw — tlen przesącza się z wyściółki · Potem — te pałeczki go zużywają · Efekt — ponad 90 % z nas je nosi"
@@ -657,9 +749,17 @@
         "question": "E. coli é sempre perigosa?",
         "plateLines": "Primeiro — o oxigênio escapa da mucosa · Depois — estes bastonetes o consomem · Resultado — mais de 90 % de nós os carrega"
       },
+      "ro": {
+        "question": "E. coli e mereu periculoasă?",
+        "plateLines": "Mai întâi — oxigenul se prelinge din mucoasă · Apoi — aceste bastonașe îl consumă · Rezultat — peste 90 % dintre noi le purtăm"
+      },
       "ru": {
         "question": "Кишечная палочка всегда опасна?",
         "plateLines": "Сначала — от стенки идёт кислород · Затем — палочки его забирают · Итог — их носят больше 90 % людей"
+      },
+      "tl": {
+        "question": "Delikado ba lagi ang E. coli?",
+        "plateLines": "Una — tumatagas ang oxygen mula sa lining · Tapos — nilalanghap ito ng mga baras na ito · Kaya — mahigit 90 % sa atin ang may dala"
       },
       "tr": {
         "question": "E. coli her zaman tehlikeli mi?",
@@ -672,6 +772,10 @@
       "vi": {
         "question": "E. coli luôn nguy hiểm?",
         "plateLines": "Đầu tiên — oxy rỉ ra từ niêm mạc · Sau đó — những que này thở hết chỗ oxy ấy · Kết quả — hơn 90 % chúng ta mang chúng"
+      },
+      "zh-Hans": {
+        "question": "大肠杆菌总是危险的吗？",
+        "plateLines": "首先 — 氧气从肠壁渗出来 · 接着 — 这些杆菌把它呼吸掉 · 结果 — 我们中超过 90% 都带着它们"
       }
     }
   },
@@ -720,6 +824,10 @@
         "question": "Qui nourrit votre muqueuse intestinale ?",
         "plateLines": "D'abord — il se cache là où l'air n'arrive pas · Ensuite — il mange ce que les voisines laissent · Résultat — la muqueuse est nourrie ; plus de 5 %"
       },
+      "ms": {
+        "question": "Apa memberi makan lapisan usus?",
+        "plateLines": "Mula-mula — ia bersembunyi di tempat udara tidak sampai · Kemudian — ia memakan apa yang dijatuhkan jiran · Hasilnya — lapisan usus diberi makan; lebih 5 % daripada semua"
+      },
       "pl": {
         "question": "Co karmi wyściółkę jelita?",
         "plateLines": "Najpierw — chowa się tam, gdzie nie dociera powietrze · Potem — je to, co upuszczają sąsiedzi · Efekt — wyściółka nakarmiona; ponad 5 % wszystkich"
@@ -728,9 +836,17 @@
         "question": "O que alimenta sua mucosa?",
         "plateLines": "Primeiro — ela se esconde onde não chega ar · Depois — come o que os vizinhos largam · Resultado — a mucosa é alimentada; mais de 5 % de tudo"
       },
+      "ro": {
+        "question": "Ce hrănește mucoasa intestinului?",
+        "plateLines": "Mai întâi — se ascunde unde nu ajunge aerul · Apoi — mănâncă ce scapă vecinii · Rezultat — mucoasa e hrănită; peste 5 % din total"
+      },
       "ru": {
         "question": "Чем питается стенка кишечника?",
         "plateLines": "Сначала — прячется там, где нет воздуха · Затем — ест то, что бросили соседи · Итог — стенка сыта; больше 5 % бактерий"
+      },
+      "tr": {
+        "question": "Bağırsak mukozasını ne besler?",
+        "plateLines": "Önce — havanın girmediği yere saklanır · Sonra — komşularının düşürdüğünü yer · Sonuç — mukoza beslenir; hepsinin %5'inden fazlası"
       },
       "uk": {
         "question": "Чим живиться вистилка кишківника?",
@@ -739,6 +855,10 @@
       "vi": {
         "question": "Cái gì nuôi niêm mạc ruột?",
         "plateLines": "Đầu tiên — nó trốn nơi không khí không tới · Sau đó — nó ăn thứ hàng xóm bỏ lại · Kết quả — niêm mạc được nuôi; hơn 5 % tổng số"
+      },
+      "zh-Hans": {
+        "question": "是什么在喂养你的肠壁？",
+        "plateLines": "首先 — 它藏在空气到不了的地方 · 接着 — 它吃邻居掉下来的东西 · 结果 — 肠壁被喂饱，占全部的 5% 以上"
       }
     }
   },
@@ -799,6 +919,10 @@
         "question": "Ей место во рту?",
         "plateLines": "Сначала — первый слой круглых клеток · Затем — поперёк ложатся веретёна · Итог — налёт держится как одно целое"
       },
+      "tr": {
+        "question": "Bu ağzımda yaşamalı mı?",
+        "plateLines": "Önce — yuvarlak yerleşimciler bir katman kurar · Sonra — uzun iğler onların üzerine uzanır · Sonuç — plak tek parça olarak tutunur"
+      },
       "uk": {
         "question": "Це має жити в роті?",
         "plateLines": "Спершу — круглі поселенці утворюють шар · Потім — довгі веретена лягають упоперек них · Наслідок — наліт тримається як одне ціле"
@@ -806,6 +930,10 @@
       "vi": {
         "question": "Thứ này nên ở trong miệng?",
         "plateLines": "Đầu tiên — những kẻ định cư tròn tạo một lớp · Sau đó — các hình thoi dài nằm vắt ngang · Kết quả — mảng bám giữ được như một khối"
+      },
+      "zh-Hans": {
+        "question": "这东西该住在我嘴里吗？",
+        "plateLines": "首先 — 圆形的定居者铺成一层 · 接着 — 长长的梭形细胞横卧其上 · 结果 — 牙菌斑连成一整块"
       }
     }
   },
@@ -850,6 +978,10 @@
         "question": "¿Tan común y aun así patógena?",
         "plateLines": "Primero — se rodea de una nube neutra en el ácido · Luego — se abre paso hacia el moco · Resultado — se fija a la mucosa de por vida"
       },
+      "fr": {
+        "question": "Si commune, est-elle un pathogène ?",
+        "plateLines": "D'abord — elle se fait un nuage neutre dans l'acide · Ensuite — elle s'enfonce dans le mucus · Résultat — elle s'accroche à la muqueuse pour la vie"
+      },
       "pl": {
         "question": "Tak powszechny, a jednak groźny?",
         "plateLines": "Najpierw — tworzy w kwasie obojętną chmurę · Potem — wwierca się w śluz · Efekt — mocuje się do śluzówki na całe życie"
@@ -862,6 +994,10 @@
         "question": "Носит половина мира — и опасна?",
         "plateLines": "Сначала — гасит кислоту вокруг себя · Затем — ввинчивается в слизь · Итог — держится на стенке всю жизнь"
       },
+      "tr": {
+        "question": "Bu kadar yaygını patojen mi?",
+        "plateLines": "Önce — asitte nötr bir bulut yapar · Sonra — mukusun içine doğru deler · Sonuç — mukozaya ömür boyu tutunur"
+      },
       "uk": {
         "question": "Чи може настільки поширене шкодити?",
         "plateLines": "Спершу — вона робить у кислоті нейтральну хмарку · Потім — угвинчується вглиб слизу · Наслідок — чіпляється до вистилки довіку"
@@ -869,6 +1005,10 @@
       "vi": {
         "question": "Phổ biến vậy mà gây bệnh?",
         "plateLines": "Đầu tiên — nó tạo một đám mây trung tính trong axit · Sau đó — nó khoan xuống lớp chất nhầy · Kết quả — nó bám vào niêm mạc suốt đời"
+      },
+      "zh-Hans": {
+        "question": "这么常见的东西也算病原体吗？",
+        "plateLines": "首先 — 它在酸里造出一团中性的云 · 接着 — 它向下钻进黏液 · 结果 — 它终身扣在胃壁上"
       }
     }
   },
@@ -912,6 +1052,10 @@
       "es": {
         "question": "¿El yogur vive en tu intestino?",
         "plateLines": "Primero — los bastones comen azúcar en un hueco quieto · Luego — su ácido acidifica el espacio · Resultado — en el intestino, un 0,01 %"
+      },
+      "fr": {
+        "question": "Le yaourt vit-il dans l'intestin ?",
+        "plateLines": "D'abord — les bâtonnets mangent le sucre dans une poche calme · Ensuite — leur acide acidifie l'espace · Résultat — dans l'intestin, environ 0,01 %"
       },
       "ja": {
         "question": "ヨーグルトは腸に住んでいますか？",
@@ -1008,6 +1152,10 @@
         "question": "¿Tenerla significa enfermedad?",
         "plateLines": "Primero — vive tranquila entre vecinas · Luego — el equilibrio se rompe, sus enzimas cortan · Resultado — la bolsa rezuma y la alimenta"
       },
+      "fr": {
+        "question": "L'avoir signifie-t-il une maladie ?",
+        "plateLines": "D'abord — elle reste tranquille parmi ses voisines · Ensuite — l'équilibre bascule, ses enzymes coupent · Résultat — la poche suinte et la nourrit"
+      },
       "pl": {
         "question": "Czy nosicielstwo oznacza chorobę?",
         "plateLines": "Najpierw — spoczywa cicho wśród sąsiadów · Potem — równowaga się przechyla, jej enzymy tną · Efekt — kieszonka sączy się i ją karmi"
@@ -1019,6 +1167,10 @@
       "ru": {
         "question": "Нашли — значит, болезнь?",
         "plateLines": "Сначала — тихо живёт среди соседей · Затем — баланс сдвинут, ферменты режут · Итог — карман сочится и кормит её"
+      },
+      "tr": {
+        "question": "Taşıyan herkes hasta olur mu?",
+        "plateLines": "Önce — komşuları arasında sessizce durur · Sonra — denge bozulur, enzimleri keser · Sonuç — cep sızar ve onu besler"
       },
       "uk": {
         "question": "Носійство означає хворобу?",
@@ -1070,6 +1222,10 @@
       "es": {
         "question": "¿Son las bacterias malas?",
         "plateLines": "Primero — pocos bastones en una multitud sin aire · Luego — la mucosa herida deja pasar oxígeno · Resultado — se multiplican y el resto mengua"
+      },
+      "fr": {
+        "question": "Sont-elles les mauvaises bactéries ?",
+        "plateLines": "D'abord — quelques bâtonnets dans une foule sans air · Ensuite — la muqueuse enflammée laisse filtrer l'oxygène · Résultat — ils prolifèrent, les autres s'éclaircissent"
       },
       "pl": {
         "question": "Czy to te złe bakterie?",
@@ -1133,6 +1289,10 @@
       "es": {
         "question": "¿La tenemos todos?",
         "plateLines": "Primero — el azúcar cae sobre la placa · Luego — hilan pegamento y hacen ácido · Resultado — el esmalte de abajo se disuelve"
+      },
+      "fr": {
+        "question": "Tout le monde a-t-il ce microbe ?",
+        "plateLines": "D'abord — le sucre se dépose sur la plaque · Ensuite — elles filent la colle et font l'acide · Résultat — l'émail en dessous se dissout"
       },
       "pl": {
         "question": "Czy każdy ma zarazek próchnicy?",
@@ -1879,6 +2039,10 @@
         "question": "Кишечник восстановится после антибиотиков?",
         "plateLines": "Сначала — антибиотики выметают всё · Затем — за полтора месяца возвращается · Итог — 9 видов так и нет"
       },
+      "th": {
+        "question": "ฟื้นลำไส้กลับมาได้ไหม?",
+        "plateLines": "ก่อนอื่น — ยาปฏิชีวนะกวาดจนโล่ง · จากนั้น — เต็มกลับมาในหกสัปดาห์ · ผลลัพธ์ — ยังขาดไปอีก 9 ชนิด"
+      },
       "tl": {
         "question": "Maibabalik ko pa ang gut?",
         "plateLines": "Una — hinuhubaran ito ng antibiotics · Tapos — napupuno muli sa anim na linggo · Kaya — 9 na espesye ang wala pa rin"
@@ -1946,6 +2110,10 @@
         "question": "Au repas ou à jeun ?",
         "plateLines": "D'abord — la foule rencontre l'acide · Ensuite — les spores passent, les fragiles tombent · Résultat — 18,5 % arrivent, peu s'installent"
       },
+      "ja": {
+        "question": "食後？それとも空腹時？",
+        "plateLines": "まず — 群れが胃酸に出会う · 次に — 芽胞は通り、弱い細胞は倒れる · 結果 — 18.5 %が着き、住みつくのはごくわずか"
+      },
       "ms": {
         "question": "Dengan makanan atau perut kosong?",
         "plateLines": "Mula-mula — kumpulan itu bertemu asid · Kemudian — spora lalu, sel halus gugur · Hasilnya — 18.5 % sampai, sedikit menetap"
@@ -1965,6 +2133,10 @@
       "ru": {
         "question": "С едой или натощак?",
         "plateLines": "Сначала — все вместе входят в кислоту · Затем — споры проходят, нежные гибнут · Итог — доходит 18,5 %, но не селится"
+      },
+      "tl": {
+        "question": "Kasabay ng pagkain o hindi?",
+        "plateLines": "Una — nakakasalubong ng pulutong ang asido · Tapos — dumadaan ang spore, bumabagsak ang maselan · Kaya — 18.5 % ang dumarating, kakaunti ang tumitira"
       },
       "tr": {
         "question": "Yemekle mi, aç karnına mı?",
@@ -2029,6 +2201,10 @@
         "question": "Une langue chargée, c'est grave ?",
         "plateLines": "D'abord — les cellules mortes comblent les sillons · Ensuite — des bactéries sans air font l'odeur · Résultat — un enduit fin chez 90,7 %"
       },
+      "ja": {
+        "question": "舌の苔は悪いもの？",
+        "plateLines": "まず — はがれた細胞が溝を埋める · 次に — 酸素のない場所の細菌がにおいを作る · 結果 — 90.7 %は薄い苔"
+      },
       "ms": {
         "question": "Lidah berselaput itu bahaya?",
         "plateLines": "Mula-mula — sel luruh mengisi alur · Kemudian — bakteria tanpa udara membuat bau · Hasilnya — selaput nipis pada 90.7 %"
@@ -2048,6 +2224,14 @@
       "ru": {
         "question": "Налёт на языке — это плохо?",
         "plateLines": "Сначала — в бороздках копятся клетки · Затем — бактерии без воздуха дают запах · Итог — тонкий налёт у 90,7 %"
+      },
+      "th": {
+        "question": "ลิ้นเป็นฝ้าอันตรายไหม?",
+        "plateLines": "ก่อนอื่น — เซลล์ที่หลุดลอกถมเต็มร่อง · จากนั้น — แบคทีเรียที่ไม่ใช้อากาศสร้างกลิ่น · ผลลัพธ์ — ฝ้าบาง ๆ ใน 90.7 %"
+      },
+      "tl": {
+        "question": "Masama ba ang maputing dila?",
+        "plateLines": "Una — pinupuno ng nalagas na selula ang mga uka · Tapos — ang bacteriang ayaw sa hangin ang gumagawa ng amoy · Kaya — manipis na patong sa 90.7 %"
       },
       "tr": {
         "question": "Dildeki pas kötü mü?",
@@ -2112,6 +2296,10 @@
         "question": "Ça l'a aidée. Pourquoi pas moi ?",
         "plateLines": "D'abord — six souches semblent identiques · Ensuite — même intestin, mêmes conditions · Résultat — 4 sur 6 ont fait quelque chose"
       },
+      "ja": {
+        "question": "友人には効いたのに、なぜ？",
+        "plateLines": "まず — 6つの菌株は見た目が同じ · 次に — 同じ腸、同じ条件 · 結果 — 効いたのは6つ中4つ"
+      },
       "ms": {
         "question": "Dia berkesan. Kenapa saya tidak?",
         "plateLines": "Mula-mula — enam strain kelihatan serupa · Kemudian — usus sama, keadaan sama · Hasilnya — 4 daripada 6 beri kesan"
@@ -2132,6 +2320,10 @@
         "question": "Пробиотик другу помог. А мне?",
         "plateLines": "Сначала — 6 штаммов на вид одинаковы · Затем — кишечник один и тот же · Итог — помогли 4 из 6"
       },
+      "tl": {
+        "question": "Bakit sa kanya lang umepekto?",
+        "plateLines": "Una — magkamukha ang anim na strain · Tapos — parehong bituka, parehong kondisyon · Kaya — 4 sa 6 ang may nagawa"
+      },
       "tr": {
         "question": "Ona yaradı, bana neden yaramadı?",
         "plateLines": "Önce — altı suş birbirinin aynı görünür · Sonra — aynı bağırsak, aynı koşullar · Sonuç — 6 suştan 4'ü bir şey yaptı"
@@ -2143,6 +2335,10 @@
       "vi": {
         "question": "Cô ấy hợp, sao tôi không?",
         "plateLines": "Đầu tiên — sáu chủng trông giống hệt nhau · Sau đó — cùng một ruột, cùng điều kiện · Kết quả — chỉ 4 trong 6 làm được gì đó"
+      },
+      "zh-Hans": {
+        "question": "她有效，我为什么没效？",
+        "plateLines": "首先 — 六个菌株看上去一样 · 然后 — 同样的肠道，同样的条件 · 结果 — 6 个里只有 4 个起了作用"
       }
     }
   },
@@ -2191,6 +2387,14 @@
         "question": "Faut-il se rincer chaque jour ?",
         "plateLines": "D'abord — le bain de bouche ne trie pas · Ensuite — la communauté buccale s'éclaircit · Résultat — le nitrite chute de 90 %"
       },
+      "ja": {
+        "question": "毎日うがいしていい？",
+        "plateLines": "まず — 洗口液は菌を選ばない · 次に — 口の中の菌の群れが薄くなる · 結果 — 亜硝酸が90 %減る"
+      },
+      "ms": {
+        "question": "Perlukah berkumur setiap hari?",
+        "plateLines": "Mula-mula — kumuran tidak memilih · Kemudian — komuniti mulut menipis · Hasilnya — nitrit turun 90 %"
+      },
       "pl": {
         "question": "Czy płukać usta codziennie?",
         "plateLines": "Najpierw — płukanka nie wybiera · Potem — społeczność ust się przerzedza · Efekt — azotyny spadają o 90 %"
@@ -2198,6 +2402,10 @@
       "pt-BR": {
         "question": "Devo enxaguar todo dia?",
         "plateLines": "Primeiro — o enxaguante não escolhe · Depois — a comunidade da boca rareia · Resultado — o nitrito cai 90 %"
+      },
+      "ro": {
+        "question": "Să folosesc apă de gură zilnic?",
+        "plateLines": "Întâi — clătirea nu alege · Apoi — comunitatea din gură se rărește · Rezultat — nitritul scade cu 90 %"
       },
       "ru": {
         "question": "Полоскать рот каждый день?",
@@ -2214,6 +2422,10 @@
       "vi": {
         "question": "Ngày nào cũng súc miệng ư?",
         "plateLines": "Đầu tiên — nước súc không chọn lựa · Sau đó — cộng đồng trong miệng thưa đi · Kết quả — nitrit giảm 90 %"
+      },
+      "zh-Hans": {
+        "question": "每天都要用漱口水吗？",
+        "plateLines": "首先 — 漱口水不会挑 · 然后 — 口腔菌群变稀薄 · 结果 — 亚硝酸盐下降 90 %"
       }
     }
   },
@@ -2242,6 +2454,10 @@
       "pass": true
     },
     "locales": {
+      "ar": {
+        "question": "هل تأتي من المعدة؟",
+        "plateLines": "أولاً — الطبقة تحجب الهواء · ثم — البكتيريا تنتزع منه الكبريت · النتيجة — الفم 87 %، الأمعاء 1 %"
+      },
       "de": {
         "question": "Kommt das aus dem Magen?",
         "plateLines": "Zuerst — der Belag schließt die Luft aus · Dann — Bakterien lösen Schwefel heraus · Ergebnis — Mund 87 %, Darm 1 %"
@@ -2258,6 +2474,10 @@
         "question": "Ça vient de mon estomac ?",
         "plateLines": "D'abord — l'enduit coupe l'air · Ensuite — les bactéries en arrachent le soufre · Résultat — bouche 87 %, intestin 1 %"
       },
+      "ms": {
+        "question": "Adakah ia datang dari perut?",
+        "plateLines": "Mula-mula — selaput menutup udara · Kemudian — bakteria melucutkan sulfur daripadanya · Hasilnya — mulut 87 %, usus 1 %"
+      },
       "pl": {
         "question": "Czy to idzie z żołądka?",
         "plateLines": "Najpierw — nalot odcina powietrze · Potem — bakterie odrywają od niego siarkę · Efekt — usta 87 %, jelito 1 %"
@@ -2266,9 +2486,17 @@
         "question": "Será que é meu estômago?",
         "plateLines": "Primeiro — a camada fecha a passagem do ar · Depois — as bactérias arrancam o enxofre · Resultado — boca 87 %, intestino 1 %"
       },
+      "ro": {
+        "question": "Vine de la stomac?",
+        "plateLines": "Întâi — depozitul taie accesul aerului · Apoi — bacteriile desprind sulful · Rezultat — gura 87 %, intestinul 1 %"
+      },
       "ru": {
         "question": "Это всё-таки желудок?",
         "plateLines": "Сначала — налёт закрывает доступ воздуха · Затем — бактерии отщепляют серу · Итог — рот 87 %, кишечник 1 %"
+      },
+      "tr": {
+        "question": "Kokusu midemden mi geliyor?",
+        "plateLines": "Önce — tabaka havayı keser · Sonra — bakteriler ondan kükürdü koparır · Sonuç — ağız %87, bağırsak %1"
       },
       "uk": {
         "question": "Це йде з мого шлунка?",
@@ -2277,6 +2505,10 @@
       "vi": {
         "question": "Mùi này bốc từ dạ dày?",
         "plateLines": "Đầu tiên — lớp rêu chặn hết không khí · Sau đó — vi khuẩn tách lưu huỳnh ra · Kết quả — miệng 87 %, ruột 1 %"
+      },
+      "zh-Hans": {
+        "question": "是从胃里上来的吗？",
+        "plateLines": "首先 — 舌苔挡住了空气 · 然后 — 细菌从中剥下硫 · 结果 — 口腔 87 %，消化道 1 %"
       }
     }
   },
@@ -2305,6 +2537,10 @@
       "pass": true
     },
     "locales": {
+      "ar": {
+        "question": "هل الرقم الأكبر أفضل؟",
+        "plateLines": "أولاً — مضاعفة الجرعة نفعت مرة · ثم — السلالة نفسها بكمية أكبر بكثير · النتيجة — أكبر بمئة مرة ولم يتغير شيء"
+      },
       "de": {
         "question": "Ist die größere Zahl besser?",
         "plateLines": "Zuerst — doppelte Dosis half einmal · Dann — derselbe Stamm, viel mehr davon · Ergebnis — 100 × mehr änderte nichts"
@@ -2317,6 +2553,14 @@
         "question": "¿Un número más grande es mejor?",
         "plateLines": "Primero — duplicar la dosis ayudó una vez · Luego — la misma cepa, mucha más cantidad · Resultado — 100 × más no cambió nada"
       },
+      "fr": {
+        "question": "Un plus gros chiffre, mieux ?",
+        "plateLines": "D'abord — doubler la dose a aidé une fois · Ensuite — la même souche, en bien plus grand nombre · Résultat — 100 fois plus n'a rien changé"
+      },
+      "ms": {
+        "question": "Angka lebih besar lebih baik?",
+        "plateLines": "Mula-mula — menggandakan dos pernah membantu · Kemudian — strain sama, jauh lebih banyak · Hasilnya — 100× lebih tiada beza"
+      },
       "pl": {
         "question": "Czy większa liczba jest lepsza?",
         "plateLines": "Najpierw — podwojenie dawki raz pomogło · Potem — ten sam szczep, dużo więcej · Efekt — 100× więcej nie zmieniło nic"
@@ -2325,9 +2569,17 @@
         "question": "Número maior é melhor?",
         "plateLines": "Primeiro — dobrar a dose ajudou uma vez · Depois — a mesma cepa, muito mais dela · Resultado — 100× a mais não mudou nada"
       },
+      "ro": {
+        "question": "Mai multe UFC înseamnă mai bine?",
+        "plateLines": "Întâi — dublarea dozei a ajutat o dată · Apoi — aceeași tulpină, mult mai multă · Rezultat — de 100 de ori mai mult n-a schimbat nimic"
+      },
       "ru": {
         "question": "Большое число — это лучше?",
         "plateLines": "Сначала — двойная доза раз помогла · Затем — тот же штамм, доза больше · Итог — в 100 раз больше — то же самое"
+      },
+      "tr": {
+        "question": "Büyük sayı daha mı iyi?",
+        "plateLines": "Önce — dozu ikiye katlamak bir kez yaradı · Sonra — aynı suş, çok daha fazlası · Sonuç — 100 kat fazlası hiçbir şey değiştirmedi"
       },
       "uk": {
         "question": "Більше число — це краще?",
@@ -2336,6 +2588,10 @@
       "vi": {
         "question": "Số lớn hơn là tốt hơn?",
         "plateLines": "Đầu tiên — liều gấp đôi từng giúp một lần · Sau đó — cùng chủng đó, nhiều hơn hẳn · Kết quả — gấp 100 lần chẳng đổi gì"
+      },
+      "zh-Hans": {
+        "question": "数字越大就越好吗？",
+        "plateLines": "首先 — 剂量加倍曾经有用 · 然后 — 同一个菌株，多得多 · 结果 — 多 100 倍什么也没变"
       }
     }
   },
@@ -2364,6 +2620,10 @@
       "pass": true
     },
     "locales": {
+      "ar": {
+        "question": "هل تكفي ثلاثة أيام؟",
+        "plateLines": "أولاً — الطعام يزيح الخليط خلال يوم · ثم — بعد يومين يعود أدراجه · النتيجة — 60 % من السلالات تبقى سنوات"
+      },
       "de": {
         "question": "Setzen drei Tage den Darm zurück?",
         "plateLines": "Zuerst — Essen verschiebt die Mischung an einem Tag · Dann — zwei Tage später rutscht sie zurück · Ergebnis — 60 % der Stämme bleiben jahrelang"
@@ -2375,6 +2635,14 @@
       "es": {
         "question": "¿Tres días bastan?",
         "plateLines": "Primero — la comida mueve la mezcla en un día · Luego — dos días después vuelve atrás · Resultado — el 60 % de las cepas se queda años"
+      },
+      "fr": {
+        "question": "Trois jours suffisent-ils vraiment ?",
+        "plateLines": "D'abord — l'alimentation déplace le mélange en un jour · Ensuite — deux jours plus tard il revient · Résultat — 60 % des souches restent des années"
+      },
+      "ms": {
+        "question": "Tiga hari boleh set semula?",
+        "plateLines": "Mula-mula — makanan mengalih campuran dalam sehari · Kemudian — dua hari kemudian ia berbalik · Hasilnya — 60 % strain kekal bertahun-tahun"
       },
       "pl": {
         "question": "Czy trzy dni to zresetują?",
@@ -2388,6 +2656,10 @@
         "question": "Три дня что-то меняют?",
         "plateLines": "Сначала — еда сдвигает состав за сутки · Затем — через двое суток всё назад · Итог — 60 % штаммов живут годами"
       },
+      "tr": {
+        "question": "Üç gün onu sıfırlar mı?",
+        "plateLines": "Önce — besin karışımı bir günde kaydırır · Sonra — iki gün sonra geri kayar · Sonuç — suşların %60'ı yıllarca kalır"
+      },
       "uk": {
         "question": "Невже три дні все змінять?",
         "plateLines": "Спочатку — їжа зсуває суміш за день · Потім — через два дні вона сповзає назад · Підсумок — 60 % штамів лишаються роками"
@@ -2395,6 +2667,10 @@
       "vi": {
         "question": "Ba ngày đủ để làm lại?",
         "plateLines": "Đầu tiên — thức ăn đổi hỗn hợp trong một ngày · Sau đó — hai ngày sau nó trượt về cũ · Kết quả — 60 % số chủng ở lại nhiều năm"
+      },
+      "zh-Hans": {
+        "question": "三天能重启肠道吗？",
+        "plateLines": "首先 — 食物一天内改变配比 · 然后 — 两天后又滑回去 · 结果 — 60 % 的菌株留存多年"
       }
     }
   },
@@ -2439,6 +2715,14 @@
         "question": "¿Qué como ahora?",
         "plateLines": "Primero — el tratamiento deja el campo vacío · Luego — la fibra y lo fermentado lo vuelven a llenar · Resultado — faltan 9 especies el día 180"
       },
+      "fr": {
+        "question": "Que manger maintenant ?",
+        "plateLines": "D'abord — la cure la laisse nue · Ensuite — fibres et ferments la remplissent · Résultat — 9 espèces manquent au jour 180"
+      },
+      "ms": {
+        "question": "Apa patut saya makan sekarang?",
+        "plateLines": "Mula-mula — kursus itu meninggalkannya licin · Kemudian — serat dan makanan fermentasi mengisinya semula · Hasilnya — 9 spesies hilang pada hari ke-180"
+      },
       "pl": {
         "question": "Co mam teraz jeść?",
         "plateLines": "Najpierw — kuracja zostawia je nagie · Potem — błonnik i kiszonki je zapełniają · Efekt — 9 gatunków brak w 180. dniu"
@@ -2451,6 +2735,10 @@
         "question": "Что теперь есть?",
         "plateLines": "Сначала — после курса поле пустое · Затем — клетчатка и квашеное кормят · Итог — 9 видов нет и на 180-й день"
       },
+      "tr": {
+        "question": "Şimdi ne yemeliyim?",
+        "plateLines": "Önce — kür onu çıplak bırakır · Sonra — lif ve fermente gıdalar yeniden doldurur · Sonuç — 180. günde 9 tür eksik"
+      },
       "uk": {
         "question": "Що мені тепер їсти?",
         "plateLines": "Спершу — курс лишає поле порожнім · Потім — клітковина й квашене знову його заповнюють · Підсумок — 9 видів бракує на 180-й день"
@@ -2458,6 +2746,10 @@
       "vi": {
         "question": "Giờ tôi nên ăn gì?",
         "plateLines": "Đầu tiên — đợt kháng sinh để lại chỗ trống · Sau đó — chất xơ và món lên men lấp đầy · Kết quả — 9 loài vẫn vắng ở ngày 180"
+      },
+      "zh-Hans": {
+        "question": "现在该吃什么？",
+        "plateLines": "首先 — 疗程把它清空 · 然后 — 纤维和发酵食品把它填回来 · 结果 — 第 180 天仍缺 9 个物种"
       }
     }
   },
@@ -2501,6 +2793,10 @@
       "es": {
         "question": "¿Lo fermentado sirve de algo?",
         "plateLines": "Primero — las células vivas llegan con la comida · Luego — pasan de largo y pocas se quedan · Resultado — bajaron 19 proteínas de inflamación"
+      },
+      "fr": {
+        "question": "Les aliments fermentés, ça marche ?",
+        "plateLines": "D'abord — les cellules vivantes arrivent avec l'aliment · Ensuite — elles passent, peu restent · Résultat — 19 protéines inflammatoires ont baissé"
       },
       "pl": {
         "question": "Czy żywność fermentowana działa?",
@@ -2565,6 +2861,10 @@
         "question": "¿Cuánta fibra al día?",
         "plateLines": "Primero — llegan tres clases de fibra · Luego — solo una de ellas se come · Resultado — 25–29 g al día y luego se aplana"
       },
+      "fr": {
+        "question": "Combien de fibres par jour ?",
+        "plateLines": "D'abord — trois sortes de fibres arrivent · Ensuite — une seule est mangée · Résultat — 25 à 29 g par jour, puis ça plafonne"
+      },
       "pl": {
         "question": "Ile błonnika to dość?",
         "plateLines": "Najpierw — przychodzą trzy rodzaje błonnika · Potem — zjedzony zostaje tylko jeden · Efekt — 25–29 g dziennie, dalej płasko"
@@ -2627,6 +2927,10 @@
       "es": {
         "question": "¿Dormir mal daña el intestino?",
         "plateLines": "Primero — ritmo parejo, muchas clases · Luego — el ritmo se vuelve irregular · Resultado — igual de densa, menos clases"
+      },
+      "fr": {
+        "question": "Mal dormir abîme-t-il l'intestin ?",
+        "plateLines": "D'abord — un rythme régulier, beaucoup de sortes · Ensuite — le rythme se déchire · Résultat — aussi dense, moins de sortes"
       },
       "pl": {
         "question": "Czy zły sen szkodzi jelitom?",
@@ -2698,6 +3002,10 @@
       "ja": {
         "question": "腸内細菌は気分に効く？",
         "plateLines": "まず — 腸内細菌が分子を放つ · 次に — 腸の細胞が感じて信号を出す · 結果 — 神経が運び、細菌は腸に残る"
+      },
+      "ko": {
+        "question": "장내 세균이 기분을 바꿀까?",
+        "plateLines": "먼저 — 장내 미생물이 분자를 내놓는다 · 그다음 — 장 세포가 감지해 신호를 보낸다 · 결과 — 신경이 그것을 나르고, 세균은 그대로 머문다"
       },
       "ms": {
         "question": "Bolehkah bakteria usus ubah mood?",
@@ -2790,6 +3098,10 @@
         "question": "酵素は細菌を殺すの？",
         "plateLines": "まず — 糖の網が歯垢をつなぎ止める · 次に — 酵素が結合をひとつ切る · 結果 — 網は崩れ、細菌は生きている"
       },
+      "ko": {
+        "question": "효소가 세균을 죽일까?",
+        "plateLines": "먼저 — 당 그물이 치태를 붙든다 · 그다음 — 효소가 고리 하나를 끊는다 · 결과 — 그물은 무너지고 세균은 살아 있다"
+      },
       "ms": {
         "question": "Adakah enzim bunuh bakteria?",
         "plateLines": "Mula-mula — jaringan gula memegang plak · Kemudian — enzim memotong satu pautan · Hasilnya — jaringan runtuh, sel terus hidup"
@@ -2880,6 +3192,10 @@
       "ja": {
         "question": "私の腸内フローラは健康？",
         "plateLines": "まず — 消化できない繊維が届く · 次に — 群れがそれを発酵させる · 結果 — 酸が腸の壁を養う"
+      },
+      "ko": {
+        "question": "내 장은 건강할까?",
+        "plateLines": "먼저 — 소화되지 않는 섬유가 도착한다 · 그다음 — 무리가 그것을 발효시킨다 · 결과 — 산이 장 점막을 먹여 살린다"
       },
       "ms": {
         "question": "Adakah usus saya sihat?",
@@ -2972,6 +3288,10 @@
         "question": "免疫の寛容はどう学ぶ？",
         "plateLines": "まず — 細菌が壁ごしに信号を送る · 次に — 見回りの細胞は静かなまま · 結果 — 寛容が保たれ、警報は鳴らない"
       },
+      "ko": {
+        "question": "면역 관용은 어떻게 배울까?",
+        "plateLines": "먼저 — 세균이 장 점막 너머로 신호를 보낸다 · 그다음 — 순찰 세포가 조용히 있는다 · 결과 — 관용이 유지되고 경보는 울리지 않는다"
+      },
       "ms": {
         "question": "Bagaimana toleransi dipelajari?",
         "plateLines": "Mula-mula — bakteria memberi isyarat merentas dinding · Kemudian — sel peronda kekal senyap · Hasilnya — toleransi bertahan, tiada penggera"
@@ -3062,6 +3382,10 @@
       "ja": {
         "question": "満腹感は何が作るの？",
         "plateLines": "まず — 細菌が食物繊維を発酵させる · 次に — 脂肪酸が腸の細胞に届く · 結果 — 細胞がGLP-1を血中へ放つ"
+      },
+      "ko": {
+        "question": "무엇이 배부름을 만들까?",
+        "plateLines": "먼저 — 세균이 섬유를 발효시킨다 · 그다음 — 지방산이 장 세포에 닿는다 · 결과 — 세포가 GLP-1을 혈액으로 내보낸다"
       },
       "ms": {
         "question": "Apa buat anda rasa kenyang?",
@@ -3154,6 +3478,10 @@
         "question": "歯垢はどこから来るの？",
         "plateLines": "まず — 細菌がエナメル質に貼りつく · 次に — 糖が酸を作る菌を育てる · 結果 — 下のエナメル質がやわらぐ"
       },
+      "ko": {
+        "question": "치태는 어디서 생길까?",
+        "plateLines": "먼저 — 세균이 법랑질에 들러붙는다 · 그다음 — 당이 산을 만드는 균을 먹인다 · 결과 — 그 아래 법랑질이 물러진다"
+      },
       "ms": {
         "question": "Dari mana datangnya plak?",
         "plateLines": "Mula-mula — bakteria melekat pada enamel · Kemudian — gula memberi makan penghasil asid · Hasilnya — enamel melembut di bawahnya"
@@ -3244,6 +3572,10 @@
       "ja": {
         "question": "腸は肌に出るの？",
         "plateLines": "まず — 腸内細菌が分子を放つ · 次に — 血流が運ぶのは分子で、細菌ではない · 結果 — 皮膚の常在菌が応える"
+      },
+      "ko": {
+        "question": "장이 피부에 드러날까?",
+        "plateLines": "먼저 — 장내 세균이 분자를 내놓는다 · 그다음 — 세균이 아니라 혈액이 그것을 나른다 · 결과 — 피부의 미생물이 답한다"
       },
       "ms": {
         "question": "Adakah usus mempengaruhi kulit?",

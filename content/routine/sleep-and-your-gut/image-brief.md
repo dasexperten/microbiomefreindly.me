@@ -181,3 +181,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ko card alt: "잠을 못 자면 장이 상할까? — 새벽 3시, 낮은 조명 곁에서 여성이 침대 가장자리에 앉아 있다"
 - ko card question: "잠을 못 자면 장이 상할까?"
 - ko plate lines: "먼저 — 규칙적인 리듬, 여러 종류 · 그다음 — 리듬이 들쭉날쭉해진다 · 결과 — 빽빽함은 그대로, 종류는 줄어든다"
+
+- fr preview alt: "Illustration : quatre sortes de bactéries intestinales côte à côte dans un film de mucus luisant, sous une lumière de nuit bleu profond"
+- fr hero alt: "Illustration : les bactéries intestinales le long de la muqueuse forment une vague régulière qui devient irrégulière, la foule restant aussi dense mais faite de moins de sortes de cellules"
+- fr card alt: "Mal dormir abîme-t-il l'intestin ? — une femme assise au bord de son lit à trois heures du matin près d'une lampe basse"
+- fr card question: "Mal dormir abîme-t-il l'intestin ?"
+- fr plate lines: "D'abord — un rythme régulier, beaucoup de sortes · Ensuite — le rythme se déchire · Résultat — aussi dense, moins de sortes"
+
+- ms preview alt: "Ilustrasi: empat jenis bakteria usus bersebelahan dalam selaput lendir yang berkilau di bawah cahaya malam biru pekat"
+- ms hero alt: "Ilustrasi: bakteria usus di sepanjang lapisan usus dalam ombak yang sekata lalu menjadi tidak rata, kumpulannya tetap sepadat dahulu tetapi terdiri daripada lebih sedikit jenis sel"
+- ms card alt: "Tidur teruk jejas usus saya? — seorang wanita di birai katil pada pukul tiga pagi di bawah lampu malap"
+- ms card question: "Tidur teruk jejas usus saya?"
+- ms plate lines: "Mula-mula — irama yang tetap, banyak jenis · Kemudian — iramanya menjadi tidak rata · Hasilnya — sama padat, kurang jenis"
+
+- tr preview alt: "İllüstrasyon: koyu mavi gece ışığında parlayan bir mukus filminde yan yana duran dört tür bağırsak bakterisi"
+- tr hero alt: "İllüstrasyon: astar boyunca düzgün bir dalga hâlinde giden bağırsak bakterilerinde dalga düzensizleşiyor; kalabalık aynı ölçüde dolu kalıyor, ama daha az sayıda farklı hücre türünden oluşuyor"
+- tr card alt: "Kötü uyku bağırsağımı bozar mı? — bir kadın gecenin üçünde kısık bir lambanın yanında yatağının kenarında"
+- tr card question: "Kötü uyku bağırsağımı bozar mı?"
+- tr plate lines: "Önce — düzenli bir ritim, çok sayıda tür · Sonra — ritim düzensizleşir · Sonuç — aynı ölçüde dolu, daha az tür"

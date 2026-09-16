@@ -137,3 +137,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ro card alt: "Toți purtăm microbul cariei? — un tânăr ia o bomboană dintr-o pungă de hârtie, la biroul lui"
 - ro card question: "Toți purtăm microbul cariei?"
 - ro plate lines: "Mai întâi — zahărul ajunge pe placă · Apoi — ele țes clei și fac acid · Rezultat — smalțul de dedesubt se dizolvă"
+
+- zh-Hans preview alt: "插画：成串的椭圆形细菌被黏稠的丝线黏在淡色、有纹路的牙釉质上，边缘有一粒青柠色的糖晶体"
+- zh-Hans hero alt: "插画：糖在牙釉质上成串的椭圆形细菌之间溶开；它们纺出黏丝把自己粘牢，并放出酸，在酸雾之下，矿化表面开始松动"
+- zh-Hans card alt: "人人都带着蛀牙菌吗？ — 一个年轻男人在办公桌前从纸袋里取出一颗糖"
+- zh-Hans card question: "人人都带着蛀牙菌吗？"
+- zh-Hans plate lines: "首先 — 糖落到牙菌斑上 · 接着 — 它们纺出胶、产出酸 · 结果 — 下面的牙釉质被溶掉"
+
+- ko preview alt: "일러스트: 결이 진 옅은 법랑질 위에서 끈적한 가닥에 붙들린 타원형 세균의 사슬들, 가장자리에 연둣빛 설탕 결정 하나"
+- ko hero alt: "일러스트: 법랑질 위 타원형 세균 사슬들 사이에서 설탕이 녹고, 세균은 자기를 붙들어 매는 끈적한 가닥을 자아내며 산을 내놓고, 그 산의 아지랑이 아래에서 광물 표면이 헐거워진다"
+- ko card alt: "충치균은 누구나 있나요? — 젊은 남자가 책상에서 종이봉투에 든 사탕을 하나 집는다"
+- ko card question: "충치균은 누구나 있나요?"
+- ko plate lines: "먼저 — 설탕이 치태 위에 내려앉는다 · 그다음 — 접착제를 자아내고 산을 만든다 · 결과 — 그 아래 법랑질이 녹는다"
+
+- ms preview alt: "Ilustrasi: rantai bakteria bujur terpegang dalam benang melekit pada enamel pucat beralur, sebutir hablur gula berwarna limau nipis di tepi"
+- ms hero alt: "Ilustrasi: gula larut antara rantai bakteria bujur pada enamel; ia memintal benang melekit yang melekatkannya dan melepaskan asid, dan di bawah kabus asid itu permukaan mineral melonggar"
+- ms card alt: "Semua orang bawa kuman gigi? — seorang lelaki muda mengambil gula-gula dari beg kertas di mejanya"
+- ms card question: "Semua orang bawa kuman gigi?"
+- ms plate lines: "Mula-mula — gula mendarat pada plak · Kemudian — ia memintal gam dan menghasilkan asid · Hasilnya — enamel di bawahnya larut"

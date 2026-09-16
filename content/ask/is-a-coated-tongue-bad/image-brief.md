@@ -181,3 +181,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ko card alt: "설태가 있으면 나쁠까? — 동틀 무렵 욕실 거울 앞에서 여성이 자기 혀를 들여다본다"
 - ko card question: "설태가 있으면 나쁠까?"
 - ko plate lines: "먼저 — 떨어진 세포가 홈을 메운다 · 그다음 — 공기 없는 곳의 세균이 냄새를 만든다 · 결과 — 90.7%는 얇은 설태"
+
+- tl preview alt: "Ilustrasyon: mga piraso ng nalagas na selula sa ibabaw kasama ang maliliit na kadena ng bacteria, nakalapag sa makipot na lambak sa pagitan ng papillae ng dila"
+- tl hero alt: "Ilustrasyon: hanay ng papillae ng dila na may nalagas na piraso at bacteria sa mga lambak sa pagitan nila, manipis sa siyam na lambak at mas makapal sa isa, may bahagyang gas na umaangat"
+- tl card alt: "Masama ba ang maputing dila? — isang babae sa salamin ng banyo sa unang liwanag, tinitingnan ang sariling dila"
+- tl card question: "Masama ba ang maputing dila?"
+- tl plate lines: "Una — pinupuno ng nalagas na selula ang mga uka · Tapos — ang bacteriang ayaw sa hangin ang gumagawa ng amoy · Kaya — manipis na patong sa 90.7 %"

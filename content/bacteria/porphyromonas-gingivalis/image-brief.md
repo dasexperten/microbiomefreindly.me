@@ -112,3 +112,33 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ro card alt: "O porți — înseamnă boală? — o femeie stă pe marginea patului noaptea, cu un pahar de apă în ambele mâini"
 - ro card question: "O porți — înseamnă boală?"
 - ro plate lines: "Mai întâi — stă liniștită printre vecini · Apoi — echilibrul se rupe, enzimele ei taie · Rezultat — punga se prelinge și o hrănește"
+
+- zh-Hans preview alt: "插画：饱满的深色杆状细菌待在一道狭窄缝隙内的湿润薄膜里，光在起伏，血红素闪着金色微光"
+- zh-Hans hero alt: "插画：饱满的深色杆菌待在一处混合的牙周袋生物膜里；随着群落失衡，它们放出把防御蛋白剪断的酶，而渗出的组织液又给它们送来食物"
+- zh-Hans card alt: "带着它就等于有病吗？ — 一位女性夜里坐在床沿，双手捧着一杯水"
+- zh-Hans card question: "带着它就等于有病吗？"
+- zh-Hans plate lines: "首先 — 它在邻居之间安静待着 · 接着 — 平衡倾斜，它的酶开始剪切 · 结果 — 牙周袋渗液，反过来喂养它"
+
+- ko preview alt: "일러스트: 좁은 틈새 안 젖은 막 속에 통통하고 어두운 막대 모양 세균들이 놓여 있고, 일렁이는 빛과 금빛 헴의 반짝임이 함께 있다"
+- ko hero alt: "일러스트: 통통하고 어두운 막대균들이 여러 종이 섞인 치주낭 생물막 속에 놓여 있고, 군집이 기울자 방어 단백질을 잘라내는 효소를 내놓으며, 배어 나오는 액이 이들에게 먹이를 가져다준다"
+- ko card alt: "지니고 있으면 병인가요? — 한 여자가 밤에 침대 가장자리에 앉아 두 손으로 물컵을 들고 있다"
+- ko card question: "지니고 있으면 병인가요?"
+- ko plate lines: "먼저 — 이웃들 사이에서 조용히 지낸다 · 그다음 — 균형이 기울고 효소가 자른다 · 결과 — 치주낭이 배어 나오며 이 균을 먹인다"
+
+- ms preview alt: "Ilustrasi: bakteria berbentuk rod yang gempal dan gelap terbaring dalam lapisan basah di dalam celah yang sempit, cahaya beriak dan kilauan hem keemasan"
+- ms hero alt: "Ilustrasi: rod gempal yang gelap terbaring dalam biofilem poket bercampur; apabila komuniti itu beralih, ia melepaskan enzim yang mengerat protein pertahanan, dan cecair yang merembes membawakannya makanan"
+- ms card alt: "Adakah membawanya bermakna penyakit? — seorang wanita duduk di birai katilnya pada waktu malam, segelas air dalam dua tangan"
+- ms card question: "Adakah membawanya bermakna penyakit?"
+- ms plate lines: "Mula-mula — ia diam dalam kalangan jiran · Kemudian — keseimbangan terjungkit, enzimnya mengerat · Hasilnya — poket itu merembes lalu memberinya makan"
+
+- ja preview alt: "イラスト：狭いすき間の中の湿った膜に、ふっくらした濃い色の桿菌が横たわり、光がゆらぎ、ヘムの金色がちらついている"
+- ja hero alt: "イラスト：混ざり合ったバイオフィルムの窪みに、ふっくらした濃い色の桿菌が横たわる。集団が傾くと酵素を放って防御のタンパク質を切り刻み、しみ出す液がこの菌の餌になる"
+- ja card alt: "いれば歯周病なのですか？ — 夜、女性がベッドの端に座り、両手でコップの水を持っている"
+- ja card question: "いれば歯周病なのですか？"
+- ja plate lines: "まず — 隣人にまじって静かにしている · 次に — つり合いが傾き、酵素が切りはじめる · 結果 — 溝から液がしみ出し、菌を養う"
+
+- tl preview alt: "Ilustrasyon: matataba at maiitim na hugis-baras na bacteria na nakahimlay sa basang pelikula sa loob ng makipot na siwang, may alon ng liwanag at gintong kislap ng haem"
+- tl hero alt: "Ilustrasyon: nakahimlay ang matataba at maiitim na baras sa halong biofilm ng bulsa; habang gumagalaw ang komunidad, naglalabas sila ng enzyme na pumuputol sa protina ng depensa, at may tumatagas na likidong nagdadala ng pagkain nila"
+- tl card alt: "May dala, sakit na ba? — isang babaeng nakaupo sa gilid ng kama sa gabi, hawak ng dalawang kamay ang basong tubig"
+- tl card question: "May dala, sakit na ba?"
+- tl plate lines: "Una — tahimik itong nakaupo sa gitna ng kapitbahay · Tapos — tumagilid ang balanse, pumuputol ang enzyme nito · Kaya — tumatagas ang bulsa at napapakain ito"

@@ -167,3 +167,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ko card alt: "숫자가 크면 더 좋을까? — 오전 늦은 시간, 한 남성이 빈손으로 채소 매대 앞에 서 있다"
 - ko card question: "숫자가 크면 더 좋을까?"
 - ko plate lines: "먼저 — 용량을 두 배로 올리자 한 번은 들었다 · 그다음 — 같은 균주를 훨씬 많이 · 결과 — 100배는 아무것도 바꾸지 못했다"
+
+- tr preview alt: "İllüstrasyon: pürüzsüz mukus üzerinde çubuk biçimli bakterilerden oluşan küçük bir küme ve yanında aynı çubuklardan yüz kat büyük bir kalabalık"
+- tr hero alt: "İllüstrasyon: bağırsak mukusundaki çubuk biçimli probiyotik bakteriler; ikiye katlanmış bir grup astarı daha sakin bırakıyor, ama yüz kat büyük bir kalabalık onu hiç değiştirmiyor"
+- tr card alt: "Büyük sayı daha mı iyi? — bir adam sabahın geç saatinde manav reyonunda eli boş duruyor"
+- tr card question: "Büyük sayı daha mı iyi?"
+- tr plate lines: "Önce — dozu ikiye katlamak bir kez yaradı · Sonra — aynı suş, çok daha fazlası · Sonuç — 100 kat fazlası hiçbir şey değiştirmedi"
+
+- tl preview alt: "Ilustrasyon: maliit na kumpol ng pahabang bacteria katabi ng pulutong ng parehong rod na isandaang beses na mas malaki, sa makinis na mucus"
+- tl hero alt: "Ilustrasyon: pahabang probiotic na bacteria sa mucus ng bituka; mas kalmado ang lining sa ilalim ng dinobleng grupo, pero walang ipinagbago ang pulutong na isandaang beses na mas malaki"
+- tl card alt: "Mas mabuti ba ang mas marami? — isang lalaking walang dala sa pasilyo ng gulay sa huling bahagi ng umaga"
+- tl card question: "Mas mabuti ba ang mas marami?"
+- tl plate lines: "Una — minsan nakatulong ang pagdodoble ng dosis · Tapos — parehong strain, mas marami pa · Kaya — walang binago ang 100× na dagdag"

@@ -21,7 +21,7 @@ keyFacts:
     source: s1
   - fact: "Menaikkan pH gastrik dengan ubat penyekat asid meningkatkan keturunan pengasas dalam usus kecil bahagian atas sehingga 6.8 kali ganda — sementara jumlah kiraan bakteria tidak berubah dengan bererti."
     source: s1
-  - fact: "Sel bebas Lactobacillus plantarum IS-10506 bertahan dalam model dinamik usus atas pada 18.5 %; selepas mikroenkapsulasi, strain yang sama mencapai 84.5 %, manakala Enterococcus faecium IS-27526 hanya bergerak dari 15.0 % ke 15.7 %."
+  - fact: "Sel bebas Lactobacillus plantarum IS-10506 bertahan dalam model dinamik usus atas pada 18.5 %; selepas mikroenkapsulasi, strain yang sama mencapai 84.5 %, manakala Enterococcus faecium IS-27526 hanya bergerak dari 15.0 % ke 15.7 %."
     source: s2
   - fact: "Satu strain pembentuk spora, Heyndrickxia coagulans LMG S-24828, menunjukkan kemandirian yang kukuh dan bukti percambahan spora yang bererti dalam usus manusia — satu strain, dalam satu kajian yang turut ditulis bersama pihak industri."
     source: s3
@@ -33,7 +33,7 @@ faq:
   - q: "Patutkah saya mengambil probiotik bersama makanan atau ketika perut kosong?"
     a: "Mekanik yang diterbitkan menunjuk kepada makanan, atas sebab yang membosankan: hidangan menimbal perut. Bove dan rakan-rakan mendapati kemandirian Lactobacillus plantarum WCFS1 lebih tinggi dalam pembawa yang kompleks dan kaya nutrien di dalam simulator oro-gastro-usus, dan Pitino dan rakan-rakan mencatat kemandirian yang baik bagi tujuh strain Lactobacillus rhamnosus yang dihantar di dalam keju model. Kedua-duanya model makmal, bukan manusia, dan tiada satu pun membandingkan dos bersama makanan dengan dos tanpa makanan bagi produk sebenar terhadap hasil kesihatan. Anggapkannya mekanik yang munasabah, bukan arahan."
   - q: "Adakah kapsul dan salutan benar-benar membantu?"
-    a: "Kadang-kadang, dan strain demi strain. Dalam model dinamik usus atas yang sama, mikroenkapsulasi mengangkat satu strain lebih empat kali ganda — daripada 18.5 % kepada 84.5 % — dan meninggalkan satu lagi pada dasarnya di tempat asalnya, 15.0 % kepada 15.7 %. Itulah bentuk jujurnya: salutan bukan sifat teknologi itu, ia sifat pasangan itu, dan ia mesti ditunjukkan bagi organisma yang dibalutnya."
+    a: "Kadang-kadang, dan strain demi strain. Dalam model dinamik usus atas yang sama, mikroenkapsulasi mengangkat satu strain lebih empat kali ganda — daripada 18.5 % kepada 84.5 % — dan meninggalkan satu lagi pada dasarnya di tempat asalnya, 15.0 % kepada 15.7 %. Itulah bentuk jujurnya: salutan bukan sifat teknologi itu, ia sifat pasangan itu, dan ia mesti ditunjukkan bagi organisma yang dibalutnya."
   - q: "Adakah probiotik berasaskan spora lebih baik daripada yang berasaskan Lactobacillus?"
     a: "Ia lebih baik pada satu tugas, iaitu melepasi asid, kerana spora ialah objek yang dorman, terdehidrat dan berperisai, bukan sel hidup dengan membran yang perlu dipertahankan. Lebih baik bertahan bukan bermakna lebih baik membantu. Apa yang dilakukan spora selepas ia bercambah ialah soalan berasingan dengan asas bukti yang berasingan, dan ia dijawab bagi setiap strain, tidak pernah bagi satu genus."
   - q: "Kalau saya jumpa strain itu dalam najis saya, bermakna ia berkesan?"
@@ -135,7 +135,7 @@ Kemudian amarannya, dan ia bukan amaran kecil: itu satu strain, dalam satu kajia
 
 Tuas yang satu lagi ialah pembungkusan, dan di sini ada satu angka yang berbaloi dipegang.
 
-Surono dan rakan-rakan menjalankan dua strain probiotik melalui model dinamik usus atas manusia yang dikawal komputer. Sebagai sel bebas, keduanya keluar di hujung sana pada kira-kira 18.5 % kemandirian bagi *Lactobacillus plantarum* IS-10506 dan 15.0 % bagi *Enterococcus faecium* IS-27526 [s2]. Mikroenkapsulasikan keduanya, dan *L. plantarum* naik kepada 84.5 % — manakala *E. faecium* hampir tidak bergerak, mencapai 15.7 % [s2]. Salutan yang sama, model yang sama, hasil yang bertentangan. Enkapsulasi bukan penyelesaian sejagat. Ia penyelesaian yang mesti ditunjukkan bagi strain yang dibalutnya.
+Surono dan rakan-rakan menjalankan dua strain probiotik melalui model dinamik usus atas manusia yang dikawal komputer. Sebagai sel bebas, keduanya keluar di hujung sana pada kira-kira 18.5 % kemandirian bagi *Lactobacillus plantarum* IS-10506 dan 15.0 % bagi *Enterococcus faecium* IS-27526 [s2]. Mikroenkapsulasikan keduanya, dan *L. plantarum* naik kepada 84.5 % — manakala *E. faecium* hampir tidak bergerak, mencapai 15.7 % [s2]. Salutan yang sama, model yang sama, hasil yang bertentangan. Enkapsulasi bukan penyelesaian sejagat. Ia penyelesaian yang mesti ditunjukkan bagi strain yang dibalutnya.
 
 Makanan juga penting, atas sebab membosankan bahawa ia menimbal. Bove dan rakan-rakan memasukkan *L. plantarum* WCFS1 ke dalam simulator oro-gastro-usus dalam pembawa yang berbeza-beza dan mendapati kemandirian lebih tinggi dalam matriks yang kompleks dan kaya nutrien [s9]. Pitino dan rakan-rakan menghantar tujuh strain *L. rhamnosus* di dalam keju model melalui satu model gastrik dinamik dan mencatat kemandirian yang baik, dengan tiga daripada tujuh itu mengatasi strain rujukan *L. rhamnosus* GG pada peringkat gastrik [s6]. Kapsul yang ditelan bersama hidangan berada dalam perut yang berbeza daripada kapsul yang ditelan ketika perut kosong.
 

@@ -181,3 +181,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ms card alt: "Adakah semua bifidobakteria baik? — seorang wanita lewat 20-an duduk dengan cawan di sofa dalam cahaya lampu"
 - ms card question: "Adakah semua bifidobakteria baik?"
 - ms plate lines: "Mula-mula — gula susu berlalu tanpa diambil bayi · Kemudian — rod ini memakan apa yang bayi tidak mampu · Hasilnya — lebih 90 % ususnya milik mereka"
+
+- ja preview alt: "イラスト：透明な腸の内容物の静かな窪みの中に、Y字に枝分かれしたBifidobacteriumの細胞が並び、一つの股に珊瑚色の滴がある"
+- ja hero alt: "イラスト：乳の糖が乳児の腸の粘膜に触れられないまま通り過ぎ、枝分かれしたBifidobacteriumの桿菌がそれを発酵させてライム色の酢酸の滴に変え、右では20個の細胞のうち19個がこの菌である"
+- ja card alt: "ビフィズス菌はみな善玉？ — 20代後半の女性がランプの明かりの中、マグカップを持ってソファに座っている"
+- ja card question: "ビフィズス菌はみな善玉？"
+- ja plate lines: "まず — 乳の糖は赤ちゃんの体を素通りする · 次に — この桿菌が赤ちゃんに食べられないものを食べる · 結果 — 腸の90%以上がこの菌になる"
+
+- th preview alt: "ภาพประกอบ: เซลล์ Bifidobacterium รูปตัว Y ปลายแยกสองแฉก อยู่ในโพรงนิ่งของสิ่งที่อยู่ในลำไส้ซึ่งใสสะอาด มีหยดสีปะการังอยู่ในง่ามของเซลล์หนึ่ง"
+- th hero alt: "ภาพประกอบ: น้ำตาลในนมผ่านเยื่อบุลำไส้ของทารกไปโดยไม่ถูกแตะต้อง แท่ง Bifidobacterium ปลายแยกสองแฉกหมักมันเป็นหยดอะซิเตตสีเขียวมะนาว และสิบเก้าในยี่สิบเซลล์ทางขวาเป็นของพวกมัน"
+- th card alt: "บิฟิโดแบคทีเรียดีทุกตัวไหม? — หญิงวัยปลายยี่สิบนั่งถือแก้วอยู่บนโซฟาใต้แสงโคมไฟ"
+- th card question: "บิฟิโดแบคทีเรียดีทุกตัวไหม?"
+- th plate lines: "ก่อนอื่น — น้ำตาลในนมผ่านตัวทารกไปเฉย ๆ · จากนั้น — แท่งเหล่านี้กินสิ่งที่เธอกินไม่ได้ · ผลลัพธ์ — กว่า 90 % ของลำไส้เธอเป็นของพวกมัน"

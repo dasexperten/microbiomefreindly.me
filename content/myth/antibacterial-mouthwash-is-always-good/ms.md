@@ -1,6 +1,6 @@
 ---
 title: "Ubat kumur membunuh mikrob yang tekanan darah perlukan"
-meta: "Lebih banyak bakteria mulut dibunuh, lebih baik? Kajian 2013 kata tidak: tujuh hari kumuran antiseptik memotong nitrit mulut 90 % dan menaikkan tekanan darah."
+meta: "Lebih banyak bakteria mulut dibunuh, lebih baik? Kajian 2013 kata tidak: tujuh hari kumuran antiseptik memotong nitrit mulut 90 % dan menaikkan tekanan darah."
 kicker: "Semak mitos"
 type: myth
 topic: oral
@@ -15,13 +15,13 @@ seo:
   pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
 author: magnus-larsen
 voice: greger
-answer: "Palsu. Kumuran antiseptik yang luas tidak dapat mengasingkan mikrob berbahaya daripada yang berguna, jadi ia meratakan komuniti mulut anda sendiri. Dalam satu kajian 2013, tujuh hari berkumur klorheksidin memotong nitrit mulut — yang digunakan badan untuk melonggarkan salur darah — sebanyak 90 % dan menaikkan tekanan darah 2–3.5 mmHg. Kumuran merawat masalah, bukan rutin."
+answer: "Palsu. Kumuran antiseptik yang luas tidak dapat mengasingkan mikrob berbahaya daripada yang berguna, jadi ia meratakan komuniti mulut anda sendiri. Dalam satu kajian 2013, tujuh hari berkumur klorheksidin memotong nitrit mulut — yang digunakan badan untuk melonggarkan salur darah — sebanyak 90 % dan menaikkan tekanan darah 2–3.5 mmHg. Kumuran merawat masalah, bukan rutin."
 keyFacts:
-  - fact: "Pada 36 orang dewasa sihat, 7 hari berkumur klorheksidin 0.2 % mengalihkan komuniti air liur — lebih banyak Firmicutes dan Proteobacteria, lebih sedikit Bacteroidetes dan Fusobacteria."
+  - fact: "Pada 36 orang dewasa sihat, 7 hari berkumur klorheksidin 0.2 % mengalihkan komuniti air liur — lebih banyak Firmicutes dan Proteobacteria, lebih sedikit Bacteroidetes dan Fusobacteria."
     source: s1
   - fact: "Selepas klorheksidin, pH dan kapasiti penimbalan air liur menurun manakala laktat dan glukosa air liur meningkat — kimia yang memihak kepada bakteria penghasil asid."
     source: s1
-  - fact: "Tujuh hari berkumur klorheksidin memotong penghasilan nitrit mulut sebanyak 90 % dan nitrit plasma sebanyak 25 %; tekanan darah sistolik dan diastolik naik 2–3.5 mmHg."
+  - fact: "Tujuh hari berkumur klorheksidin memotong penghasilan nitrit mulut sebanyak 90 % dan nitrit plasma sebanyak 25 %; tekanan darah sistolik dan diastolik naik 2–3.5 mmHg."
     source: s2
   - fact: "Kesannya tidak sejagat — pada 17 wanita muda sihat yang berkumur tiga kali sehari selama 3 hari, penukaran nitrat disekat tetapi nitrit plasma dan tekanan darah 24 jam tidak berubah."
     source: s3
@@ -33,7 +33,7 @@ faq:
   - q: "Jadi ubat kumur buruk untuk saya?"
     a: "Itu bentuk soalan yang salah. Kumuran antiseptik ialah ubat dengan indikasi. Sebagai tambahan kepada memberus gigi, ia menghasilkan pengurangan plak gigi yang besar — bukti bermutu tinggi, digabungkan daripada 12 kajian di dalam satu ulasan Cochrane 51 kajian [s5]. Digunakan setiap hari selama bertahun-tahun tanpa masalah yang dinamakan, ia mengganggu satu laluan bakteria yang digunakan peredaran darah anda [s2]. Botol yang sama, keputusan yang berbeza, bergantung pada kenapa ia ada di tangan anda."
   - q: "Adakah ubat kumur benar-benar menaikkan tekanan darah?"
-    a: "Dalam satu kajian terkawal, ya, dan secara sederhana. Sembilan belas sukarelawan sihat berkumur dengan antiseptik berasaskan klorheksidin selama 7 hari; tekanan sistolik dan diastolik naik 2–3.5 mmHg, dan kenaikan setiap orang seiring dengan penurunan nitrit dalam darahnya sendiri [s2]. Tetapi satu kajian silang rawak pada 17 wanita muda langsung tidak menemui perubahan pada tekanan ambulatori 24 jam [s3], dan dalam kajian 36 orang, kenaikan itu tidak bererti dari segi statistik [s1]. Laluan itu terganggu secara konsisten; kesan di hilirnya tidak konsisten."
+    a: "Dalam satu kajian terkawal, ya, dan secara sederhana. Sembilan belas sukarelawan sihat berkumur dengan antiseptik berasaskan klorheksidin selama 7 hari; tekanan sistolik dan diastolik naik 2–3.5 mmHg, dan kenaikan setiap orang seiring dengan penurunan nitrit dalam darahnya sendiri [s2]. Tetapi satu kajian silang rawak pada 17 wanita muda langsung tidak menemui perubahan pada tekanan ambulatori 24 jam [s3], dan dalam kajian 36 orang, kenaikan itu tidak bererti dari segi statistik [s1]. Laluan itu terganggu secara konsisten; kesan di hilirnya tidak konsisten."
   - q: "Adakah ini terpakai pada setiap ubat kumur?"
     a: "Mekanisme itu paling ketat diuji dengan klorheksidin, jadi itulah yang boleh saya cakapkan dengan angka [s1][s2][s3]. Bagi kumuran yang dijual bebas, buktinya lebih lemah dan bersifat pemerhatian: pada 945 orang dewasa berlebihan berat badan yang diikuti selama tiga tahun, menggunakan ubat kumur sekurang-kurangnya dua kali sehari dikaitkan dengan kadar pra-diabetes atau diabetes yang lebih tinggi berbanding tidak menggunakannya [s4]. Satu kaitan dalam satu kohort ialah sebab untuk bertanya, bukan jawapan kepadanya."
   - q: "Bila kumuran antiseptik benar-benar alat yang betul?"
@@ -106,7 +106,7 @@ Itu tidak menjadikan kumuran antiseptik tidak berguna. Ia menjadikannya satu raw
 
 ## Apa yang antiseptik luas lakukan pada komuniti penghuni mulut anda
 
-Mulakan dengan ukuran yang paling terus. Bescos dan rakan-rakan, dalam *Scientific Reports* pada 2020, meminta 36 orang dewasa sihat berkumur seminit dua kali sehari selama 7 hari dengan plasebo, kemudian mengulang jadual yang serupa selama 7 hari lagi dengan klorheksidin 0.2 % [s1].
+Mulakan dengan ukuran yang paling terus. Bescos dan rakan-rakan, dalam *Scientific Reports* pada 2020, meminta 36 orang dewasa sihat berkumur seminit dua kali sehari selama 7 hari dengan plasebo, kemudian mengulang jadual yang serupa selama 7 hari lagi dengan klorheksidin 0.2 % [s1].
 
 Komuniti itu bukan sekadar mengecil. Ia condong. [Firmicutes](/bacteria/bacillota-firmicutes/) dan [Proteobacteria](/bacteria/pseudomonadota-proteobacteria/) menjadi lebih banyak, manakala [Bacteroidetes](/bacteria/bacteroidota/) dan [Fusobacteria](/bacteria/fusobacteriota/) menurun [s1]. Dan mulut tempat yang terselamat itu tinggal pun berbeza dari segi kimia: pH air liur jatuh, kapasiti penimbalan menurun, dan laktat serta glukosa air liur meningkat [s1].
 
@@ -116,7 +116,7 @@ Baca ayat terakhir itu perlahan-lahan, kerana ia menterbalikkan janjinya. Mulut 
 
 Sel manusia tidak dapat menurunkan nitrat menjadi nitrit. Bakteria boleh. Hyde dan rakan-rakan mengikis lidah enam sukarelawan sihat, menjujukkan apa yang hidup di situ, dan mengenal pasti 14 spesies calon penurun nitrat — tujuh daripadanya langsung tidak pernah disangka menyumbang [s6]. Organisma ini duduk kebanyakannya di pangkal lidah, dan ia menyerahkan nitrit kepada badan, yang menjadi nitrik oksida, yang melonggarkan salur darah.
 
-Kapil dan rakan-rakan menguji apa yang berlaku apabila lorong itu ditutup. Sembilan belas sukarelawan sihat diukur sepanjang tempoh kawalan 7 hari, kemudian berkumur dengan antiseptik berasaskan klorheksidin selama 7 hari [s2]. Penghasilan nitrit mulut jatuh 90 % dan nitrit plasma 25 %. Tekanan darah sistolik dan diastolik naik 2–3.5 mmHg, dan besarnya kenaikan setiap orang seiring dengan besarnya penurunan nitrit orang itu sendiri (r² = 0.56, p = 0.002). Kesannya muncul dalam masa sehari selepas flora itu diganggu dan bertahan sepanjang minggu itu [s2].
+Kapil dan rakan-rakan menguji apa yang berlaku apabila lorong itu ditutup. Sembilan belas sukarelawan sihat diukur sepanjang tempoh kawalan 7 hari, kemudian berkumur dengan antiseptik berasaskan klorheksidin selama 7 hari [s2]. Penghasilan nitrit mulut jatuh 90 % dan nitrit plasma 25 %. Tekanan darah sistolik dan diastolik naik 2–3.5 mmHg, dan besarnya kenaikan setiap orang seiring dengan besarnya penurunan nitrit orang itu sendiri (r² = 0.56, p = 0.002). Kesannya muncul dalam masa sehari selepas flora itu diganggu dan bertahan sepanjang minggu itu [s2].
 
 Dua hingga tiga setengah milimeter merkuri bukan krisis pada seorang manusia. Merentasi satu populasi, ia juga bukan tiada apa-apa — dan tiada siapa berniat membelinya dengan sebotol ubat kumur.
 

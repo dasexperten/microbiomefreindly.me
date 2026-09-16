@@ -173,3 +173,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ko card alt: "발효식품이 정말 효과 있을까? — 오후에 발코니의 작은 탁자에서 한 남성이 케피어 한 그릇을 먹는다"
 - ko card question: "발효식품이 정말 효과 있을까?"
 - ko plate lines: "먼저 — 살아 있는 세포가 음식과 함께 들어온다 · 그다음 — 대개는 지나가고 남는 건 적다 · 결과 — 염증 단백질 19가지가 줄었다"
+
+- fr preview alt: "Illustration : des chaînettes de cellules rondes, de longs bâtonnets et de grosses levures en bourgeonnement parmi de minuscules bulles, dans un ferment vivant"
+- fr hero alt: "Illustration : des bactéries issues d'un ferment vivant dérivent le long de la muqueuse intestinale ; sur vingt, une prend place, des acides s'infiltrent dans le mucus, et les bactéries résidentes finissent plus variées"
+- fr card alt: "Les aliments fermentés, ça marche ? — un homme mange un bol de kéfir à une petite table sur son balcon l'après-midi"
+- fr card question: "Les aliments fermentés, ça marche ?"
+- fr plate lines: "D'abord — les cellules vivantes arrivent avec l'aliment · Ensuite — elles passent, peu restent · Résultat — 19 protéines inflammatoires ont baissé"
+
+- ms preview alt: "Ilustrasi: rantai sel bulat, batang panjang dan yis besar yang bertunas antara gelembung halus dalam tapaian yang hidup"
+- ms hero alt: "Ilustrasi: bakteria daripada tapaian hidup hanyut merentasi lapisan usus; daripada dua puluh, satu mengambil tempat, asid meresap ke dalam lendir, dan bakteria penghuni akhirnya lebih pelbagai"
+- ms card alt: "Makanan fermentasi betul-betul berkesan? — seorang lelaki makan semangkuk kefir di meja kecil di balkoninya"
+- ms card question: "Makanan fermentasi betul-betul berkesan?"
+- ms plate lines: "Mula-mula — sel hidup datang bersama makanan · Kemudian — ia lalu sahaja, sedikit yang tinggal · Hasilnya — 19 protein keradangan menurun"
+
+- tr preview alt: "İllüstrasyon: canlı bir fermentte minik kabarcıkların arasında yuvarlak hücre zincirleri, uzun çubuklar ve tomurcuklanan iri mayalar"
+- tr hero alt: "İllüstrasyon: canlı bir fermentten gelen bakteriler bağırsak astarı boyunca süzülüyor; yirmisinden biri bir yer tutuyor, asitler mukusa sızıyor ve yerleşik bakteriler daha çeşitli hâle geliyor"
+- tr card alt: "Fermente gıdalar işe yarıyor mu? — bir adam öğleden sonra balkonundaki küçük masada bir kâse kefir içiyor"
+- tr card question: "Fermente gıdalar işe yarıyor mu?"
+- tr plate lines: "Önce — canlı hücreler besinle gelir · Sonra — içinden geçip giderler, azı kalır · Sonuç — 19 iltihap proteini düştü"

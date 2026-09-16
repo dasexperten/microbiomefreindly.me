@@ -201,3 +201,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ko card alt: "위에서 올라오는 걸까? — 오전 늦게 세워 둔 차 안에서 여성이 배에 손바닥을 얹고 있다"
 - ko card question: "위에서 올라오는 걸까?"
 - ko plate lines: "먼저 — 설태가 공기를 막는다 · 그다음 — 세균이 거기서 황을 떼어 낸다 · 결과 — 입 87%, 위장 1%"
+
+- tl preview alt: "Ilustrasyon: maiikli at matatabang anaerobic na rod sa kailaliman ng makipot na uka ng gilagid, may pinong usok ng sulfur na umaangat mula rito"
+- tl hero alt: "Ilustrasyon: pulutong ng usok ng sulfur ang umaangat mula sa bacteria sa patong sa likod ng dila, habang iisang manipis na usok ang umaangat mula sa kailaliman sa ibaba"
+- tl card alt: "Sa tiyan ba ito galing? — isang babae sa naka-parking niyang sasakyan sa may tanghali, nakapatong ang palad sa tiyan"
+- tl card question: "Sa tiyan ba ito galing?"
+- tl plate lines: "Una — sinasarhan ng patong ang hangin · Tapos — hinuhubaran ng bacteria ang sulfur mula rito · Kaya — bibig 87 %, bituka 1 %"

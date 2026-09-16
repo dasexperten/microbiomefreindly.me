@@ -119,3 +119,33 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ro card alt: "Acestea sunt bacteriile rele? — o femeie îngenunchează la rândurile de fasole dintr-o grădină, în soarele de după-amiază"
 - ro card question: "Acestea sunt bacteriile rele?"
 - ro plate lines: "Mai întâi — câteva bastonașe într-o mulțime fără aer · Apoi — mucoasa inflamată lasă să scape oxigen · Rezultat — ele se înmulțesc, restul se răresc"
+
+- zh-Hans preview alt: "插画：短小的杆状细菌聚在肠壁圆润细胞正上方一层薄薄的青柠色雾气里"
+- zh-Hans hero alt: "插画：几根短杆菌生活在无氧肠壁上众多肠道细菌之间；当肠壁渗出一层淡淡的氧气雾时，这些杆菌大量增殖，其余的则稀疏下去"
+- zh-Hans card alt: "这些就是坏细菌吗？ — 一位女性在午后的阳光里跪在市民菜园的豆架行间"
+- zh-Hans card question: "这些就是坏细菌吗？"
+- zh-Hans plate lines: "首先 — 无氧的人群里只有几根杆菌 · 接着 — 发炎的肠壁漏出氧气 · 结果 — 它们大量增殖，其余的变稀"
+
+- ms preview alt: "Ilustrasi: bakteria berbentuk rod yang pendek berkumpul dalam kabus nipis berwarna limau nipis tepat di atas sel bulat lapisan usus"
+- ms hero alt: "Ilustrasi: beberapa rod pendek hidup antara banyak bakteria usus pada lapisan tanpa udara; apabila lapisan itu membocorkan kabus oksigen yang samar, rod itu membiak dan yang lain menipis"
+- ms card alt: "Inikah bakteria yang jahat? — seorang wanita melutut di barisan kacang di kebun peruntukan dalam cahaya petang"
+- ms card question: "Inikah bakteria yang jahat?"
+- ms plate lines: "Mula-mula — beberapa rod dalam kerumunan tanpa udara · Kemudian — lapisan usus yang sakit membocorkan oksigen · Hasilnya — ia berkembang mekar dan yang lain menipis"
+
+- ko preview alt: "일러스트: 장 점막의 둥근 세포들 바로 위, 얇은 연둣빛 아지랑이 속에 짧은 막대 모양 세균들이 모여 있다"
+- ko hero alt: "일러스트: 공기가 없는 점막 위에서 많은 장내 세균 사이에 짧은 막대균 몇이 살고 있고, 점막이 옅은 산소 아지랑이를 새어 내자 그 막대균이 불어나며 나머지는 성기어진다"
+- ko card alt: "이게 나쁜 세균인가요? — 한 여자가 늦은 오후 햇빛 속 텃밭 콩 이랑 앞에 무릎을 꿇고 있다"
+- ko card question: "이게 나쁜 세균인가요?"
+- ko plate lines: "먼저 — 공기 없는 무리 속 막대균 몇 · 그다음 — 헐어버린 점막이 산소를 흘린다 · 결과 — 이들이 불어나고 나머지는 성기어진다"
+
+- ja preview alt: "イラスト：腸の粘膜の丸い細胞のすぐ上に、短い桿菌が薄いライム色のもやの中に集まっている"
+- ja hero alt: "イラスト：空気のない粘膜の上で、多くの腸内細菌にまじって少数の短い桿菌が暮らしている。粘膜がかすかな酸素のもやを漏らすと、その桿菌が増え、ほかの菌は薄くなっていく"
+- ja card alt: "これが悪玉菌なのですか？ — 午後遅い日ざしの中、女性が市民農園の豆の畝にひざまずいている"
+- ja card question: "これが悪玉菌なのですか？"
+- ja plate lines: "まず — 空気のない群れに数本の桿菌 · 次に — 荒れた粘膜が酸素を漏らす · 結果 — 桿菌が増え、ほかが薄くなる"
+
+- tl preview alt: "Ilustrasyon: maiikling hugis-baras na bacteria na nagtitipon sa manipis at berdeng ulap sa ibabaw mismo ng mabibilog na selula ng lining ng bituka"
+- tl hero alt: "Ilustrasyon: iilang maiikling baras ang nakatira sa gitna ng maraming gut bacteria sa lining na walang hangin; habang tumatagas sa lining ang mahinang ulap ng oxygen, dumarami ang mga baras at nanipis ang iba"
+- tl card alt: "Ito ba ang masasamang bacteria? — isang babaeng nakaluhod sa hanay ng beans sa taniman sa hapon"
+- tl card question: "Ito ba ang masasamang bacteria?"
+- tl plate lines: "Una — iilang baras sa dami na walang hangin · Tapos — tumatagas ang oxygen sa masakit na lining · Kaya — dumarami sila at nanipis ang iba"

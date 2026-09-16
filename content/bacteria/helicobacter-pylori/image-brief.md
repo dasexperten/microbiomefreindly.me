@@ -122,3 +122,33 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ro card alt: "Ceva atât de răspândit e patogen? — o femeie se oprește pe hol după prânz, cu palma sub coaste"
 - ro card question: "Ceva atât de răspândit e patogen?"
 - ro plate lines: "Mai întâi — își face un nor neutru în acid · Apoi — se înșurubează în mucus · Rezultat — se prinde de mucoasă pe viață"
+
+- zh-Hans preview alt: "插画：一端长着一簇鞭毛的螺旋形细菌躺在胃壁上方的黏液里，其中一个处在一小块澄清的空隙中"
+- zh-Hans hero alt: "插画：一个螺旋形细菌在胃酸里把自己裹进一小团中性的云雾，像螺丝一样向下钻进黏液，在已经定居的同伴旁边扣住胃壁"
+- zh-Hans card alt: "这么常见的东西也算病原体吗？ — 一位女性午饭后停在自家走廊里，一只手平贴在肋骨下方"
+- zh-Hans card question: "这么常见的东西也算病原体吗？"
+- zh-Hans plate lines: "首先 — 它在酸里造出一团中性的云 · 接着 — 它向下钻进黏液 · 结果 — 它终身扣在胃壁上"
+
+- ms preview alt: "Ilustrasi: bakteria berbentuk lingkaran dengan seberkas ekor pada satu hujung terbaring dalam lendir di atas lapisan perut, satu daripadanya dalam ruang yang jernih"
+- ms hero alt: "Ilustrasi: sebatang bakteria berlingkar membalut dirinya dalam awan neutral yang kecil dalam asid perut, menggerudi turun ke dalam lendir dan berpaut pada lapisan perut di sisi yang lain yang sudah menetap"
+- ms card alt: "Sesuatu selazim ini patogenkah? — seorang wanita berhenti di lorong rumahnya selepas makan, tapak tangan rata di bawah rusuk"
+- ms card question: "Sesuatu selazim ini patogenkah?"
+- ms plate lines: "Mula-mula — ia membuat awan neutral dalam asid · Kemudian — ia menggerudi turun ke dalam lendir · Hasilnya — ia berpaut pada lapisan perut seumur hidup"
+
+- ko preview alt: "일러스트: 한쪽 끝에 꼬리가 다발로 달린 나선형 세균들이 위 점막을 덮은 점액 속에 놓여 있고, 그중 하나는 맑은 틈새 안에 있다"
+- ko hero alt: "일러스트: 나선형 세균 하나가 위산 속에서 자신을 작은 중성 구름으로 감싸고 점액 속으로 나사처럼 파고들어, 이미 자리 잡은 다른 균들 곁에서 점막에 달라붙는다"
+- ko card alt: "이렇게 흔한데 병원균인가요? — 한 여자가 점심 뒤 복도에서 갈비뼈 아래에 손을 대고 멈춰 선다"
+- ko card question: "이렇게 흔한데 병원균인가요?"
+- ko plate lines: "먼저 — 위산 속에 중성 구름을 만든다 · 그다음 — 점액 속으로 파고든다 · 결과 — 평생 점막에 달라붙어 산다"
+
+- tl preview alt: "Ilustrasyon: mga hugis-tirabuson na bacteria na may bungkos ng buntot sa isang dulo, nakahimlay sa mucus sa ibabaw ng lining ng tiyan, isa ang nasa malinaw na bulsa"
+- tl hero alt: "Ilustrasyon: binabalot ng isang hugis-tirabuson na bacteria ang sarili sa maliit at neutral na ulap sa acid ng tiyan, bumabaon ito paikot pababa sa mucus at kumakapit sa lining sa tabi ng mga naunang pumwesto"
+- tl card alt: "Pathogen ba ang ganito kakaraniwan? — babaeng huminto sa pasilyo matapos kumain, palad na nakapatong sa ilalim ng tadyang"
+- tl card question: "Pathogen ba ang ganito kakaraniwan?"
+- tl plate lines: "Una — gumagawa ito ng neutral na ulap sa acid · Tapos — bumabaon ito pababa sa mucus · Kaya — kumakapit ito sa lining habambuhay"
+
+- ja preview alt: "イラスト：胃の粘膜を覆う粘液の中に、片端に鞭毛の束を持つらせん状の細菌が横たわり、一つは透明な窪みの中にいる"
+- ja hero alt: "イラスト：らせん状の細菌が胃酸の中で自分を小さな中性の雲で包み、粘液の中へらせんを描いて潜り、すでに定着した仲間のそばで粘膜に留まる"
+- ja card alt: "こんなにいるのに病原菌？ — 昼食のあと、女性が廊下で足を止め、肋骨の下に手を当てている"
+- ja card question: "こんなにいるのに病原菌？"
+- ja plate lines: "まず — 酸の中に中性の雲をつくる · 次に — 粘液へと潜っていく · 結果 — 生涯、粘膜に留まりつづける"

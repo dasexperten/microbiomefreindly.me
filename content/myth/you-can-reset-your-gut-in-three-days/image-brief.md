@@ -192,3 +192,15 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ko card alt: "3일이면 리셋될까? — 늦은 빛이 드는 거실 창가에서 여성이 팔짱을 끼고 서 있다"
 - ko card question: "3일이면 리셋될까?"
 - ko plate lines: "먼저 — 음식이 하루 만에 구성을 바꾼다 · 그다음 — 이틀 뒤 도로 돌아간다 · 결과 — 균주의 60%는 몇 해를 머문다"
+
+- tr preview alt: "İllüstrasyon: bir bitkisel lif parçasına yerleşmiş tombul çubuk biçimli bağırsak bakterileri ve küçük yuvarlak hücre çiftleri"
+- tr hero alt: "İllüstrasyon: besin süzülürken mukusta on bağırsak bakteri grubundan iki sıra; sonraki sırada altı grup aynı kalmış, dördünün yerini yeni gelenler almış"
+- tr card alt: "Üç gün onu sıfırlar mı? — bir kadın geç ışıkta oturma odası penceresinde, kolları kavuşturulmuş"
+- tr card question: "Üç gün onu sıfırlar mı?"
+- tr plate lines: "Önce — besin karışımı bir günde kaydırır · Sonra — iki gün sonra geri kayar · Sonuç — suşların %60'ı yıllarca kalır"
+
+- tl preview alt: "Ilustrasyon: matatabang pahabang gut bacteria at pares ng maliliit na bilog na selula na nakalapag sa piraso ng fiber ng halaman"
+- tl hero alt: "Ilustrasyon: dalawang hanay ng sampung grupo ng gut bacteria sa mucus habang dumarating ang pagkain; sa huling hanay, anim na grupo ang hindi nagbago at apat ang napalitan ng bago"
+- tl card alt: "Kayang i-reset sa tatlong araw? — isang babae sa bintana ng sala niya sa huling liwanag, nakahalukipkip"
+- tl card question: "Kayang i-reset sa tatlong araw?"
+- tl plate lines: "Una — inaalog ng pagkain ang halo sa isang araw · Tapos — makalipas ang dalawang araw ay bumabalik ito · Kaya — 60 % ng strain ay nananatili nang mga taon"

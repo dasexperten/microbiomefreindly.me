@@ -25,9 +25,9 @@ keyFacts:
     source: s2
   - fact: "Empat orang yang diberi kursus klindamisin selama 7 hari diikuti selama 2 tahun: komuniti Bacteroides mereka tidak pernah kembali kepada komposisi asalnya dalam tempoh itu."
     source: s3
-  - fact: "Digabungkan daripada 33 kajian rawak pada kanak-kanak (6352 peserta), cirit-birit berkaitan antibiotik berlaku pada 8 % yang mengambil probiotik berbanding 19 % dalam kumpulan kawalan, 9 kanak-kanak dirawat untuk mengelak satu kes."
+  - fact: "Digabungkan daripada 33 kajian rawak pada kanak-kanak (6352 peserta), cirit-birit berkaitan antibiotik berlaku pada 8 % yang mengambil probiotik berbanding 19 % dalam kumpulan kawalan, 9 kanak-kanak dirawat untuk mengelak satu kes."
     source: s5
-  - fact: "Dalam kalangan 2941 pesakit dalam hospital berumur 65 tahun ke atas yang dianalisis (2981 dirawakkan), probiotik pelbagai strain memberikan 10.8 % cirit-birit berkaitan antibiotik berbanding 10.4 % pada plasebo — tiada manfaat."
+  - fact: "Dalam kalangan 2941 pesakit dalam hospital berumur 65 tahun ke atas yang dianalisis (2981 dirawakkan), probiotik pelbagai strain memberikan 10.8 % cirit-birit berkaitan antibiotik berbanding 10.4 % pada plasebo — tiada manfaat."
     source: s6
 faq:
   - q: "Berapa lama saya patut tunggu sebelum memutuskan usus saya sudah pulih?"
@@ -125,9 +125,9 @@ Beberapa minggu untuk bahagian besarnya, berbulan-bulan untuk butirannya, dan ba
 
 Di sini jawapan yang jujur mengecewakan sesiapa sahaja yang sedang menjual penyelesaian.
 
-Probiotik melakukan satu perkara dengan baik dan satu lagi dengan buruk. Yang dilakukannya dengan baik ialah cirit-birit. Satu ulasan Cochrane oleh Guo dan rakan-rakan menggabungkan 33 kajian rawak pada kanak-kanak, 6,352 peserta kesemuanya [s5]: cirit-birit berkaitan antibiotik berlaku pada 8 % kanak-kanak yang mengambil probiotik berbanding 19 % dalam kumpulan kawalan [s5], sembilan dirawat untuk mengelak satu kes, dan enam apabila dos harian sekurang-kurangnya 5 bilion UPK — unit pembentuk koloni [s5]. Bukti berkepastian sederhana [s5]. Ia juga memendekkan cirit-birit hampir sehari [s5]. Itu nyata — dan itu hasil pada gejala, bukan pembinaan semula.
+Probiotik melakukan satu perkara dengan baik dan satu lagi dengan buruk. Yang dilakukannya dengan baik ialah cirit-birit. Satu ulasan Cochrane oleh Guo dan rakan-rakan menggabungkan 33 kajian rawak pada kanak-kanak, 6,352 peserta kesemuanya [s5]: cirit-birit berkaitan antibiotik berlaku pada 8 % kanak-kanak yang mengambil probiotik berbanding 19 % dalam kumpulan kawalan [s5], sembilan dirawat untuk mengelak satu kes, dan enam apabila dos harian sekurang-kurangnya 5 bilion UPK — unit pembentuk koloni [s5]. Bukti berkepastian sederhana [s5]. Ia juga memendekkan cirit-birit hampir sehari [s5]. Itu nyata — dan itu hasil pada gejala, bukan pembinaan semula.
 
-Ia juga tidak berlaku pada semua orang. PLACIDE, satu kajian yang merawakkan 2,981 pesakit dalam hospital berumur 65 tahun ke atas — 2,941 daripada mereka dalam analisis utama — yang diberi sediaan pelbagai strain laktobasilus dan bifidobakteria pada 6 × 10¹⁰ organisma sehari selama 21 hari, mendapati cirit-birit berkaitan antibiotik pada 10.8 % yang mengambil sediaan itu dan 10.4 % pada plasebo [s6]. Tiada manfaat langsung dalam populasi itu.
+Ia juga tidak berlaku pada semua orang. PLACIDE, satu kajian yang merawakkan 2,981 pesakit dalam hospital berumur 65 tahun ke atas — 2,941 daripada mereka dalam analisis utama — yang diberi sediaan pelbagai strain laktobasilus dan bifidobakteria pada 6 × 10¹⁰ organisma sehari selama 21 hari, mendapati cirit-birit berkaitan antibiotik pada 10.8 % yang mengambil sediaan itu dan 10.4 % pada plasebo [s6]. Tiada manfaat langsung dalam populasi itu.
 
 Yang probiotik lakukan dengan buruk ialah pembinaan semula itu sendiri. Suez dan rakan-rakan, dalam *Cell* pada 2018, melangkaui najis dan mengambil sampel mukosa usus secara endoskopi selepas antibiotik [s4]. Berbanding sekadar menunggu, probiotik pelbagai strain menghasilkan kepulangan mikrobiom asal orang itu sendiri — dan ekspresi gen usus itu sendiri — yang jelas terlambat dan berterusan tidak lengkap [s4]. Pemindahan najis autologus — najis orang itu sendiri, disimpan sebelum antibiotik dan dikembalikan selepasnya — membawa pemulihan yang pantas dan hampir lengkap dalam beberapa hari [s4]. Dalam piring makmal, faktor larut yang dirembeskan laktobasilus menahan kepulangan komuniti itu [s4].
 

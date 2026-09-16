@@ -161,3 +161,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ko card alt: "이제 뭘 먹어야 할까? — 오전 늦게 시장 좌판 앞에 선 여성이 채소가 담긴 종이봉투를 들고 있다"
 - ko card question: "이제 뭘 먹어야 할까?"
 - ko plate lines: "먼저 — 항생제가 장을 비워 놓는다 · 그다음 — 식이섬유와 발효식품이 다시 채운다 · 결과 — 180일째에도 9종이 빠져 있다"
+
+- fr preview alt: "Illustration : des bâtonnets et des bactéries intestinales en fourche se réinstallent le long de parois de cellules végétales déchirées, dans une douce lumière du matin"
+- fr hero alt: "Illustration : de la fibre végétale sur la muqueuse intestinale, presque nue après les antibiotiques, puis se peuplant de bactéries le long de ses brins, et enfin de nouveau dense avec neuf places restées vides"
+- fr card alt: "Que manger maintenant ? — une femme devant un étal de marché en milieu de matinée, un sac en papier de légumes à la main"
+- fr card question: "Que manger maintenant ?"
+- fr plate lines: "D'abord — la cure la laisse nue · Ensuite — fibres et ferments la remplissent · Résultat — 9 espèces manquent au jour 180"
+
+- tr preview alt: "İllüstrasyon: yumuşak sabah ışığında, yırtılmış bitki hücre duvarları boyunca yeniden yerleşen çubuk ve çatallı bağırsak bakterileri"
+- tr hero alt: "İllüstrasyon: bağırsak astarının üzerindeki bitkisel lif, antibiyotikten sonra neredeyse çıplak, sonra lifleri boyunca bakterilerle doluyor ve en sonunda yine kalabalık, ama dokuz yer boş kalmış"
+- tr card alt: "Şimdi ne yemeliyim? — bir kadın sabahın ortasında pazar tezgâhında, elinde kâğıt bir sebze poşeti"
+- tr card question: "Şimdi ne yemeliyim?"
+- tr plate lines: "Önce — kür onu çıplak bırakır · Sonra — lif ve fermente gıdalar yeniden doldurur · Sonuç — 180. günde 9 tür eksik"
+
+- ms preview alt: "Ilustrasi: bakteria usus berbentuk batang dan bercabang bertapak semula di sepanjang dinding sel tumbuhan yang koyak dalam cahaya pagi yang lembut"
+- ms hero alt: "Ilustrasi: serat tumbuhan di atas lapisan usus, hampir licin selepas antibiotik, kemudian terisi dengan bakteria di sepanjang jaringannya, dan akhirnya padat semula dengan sembilan tempat masih kosong"
+- ms card alt: "Apa patut saya makan sekarang? — seorang wanita di gerai pasar waktu pagi, beg kertas berisi sayur di tangan"
+- ms card question: "Apa patut saya makan sekarang?"
+- ms plate lines: "Mula-mula — kursus itu meninggalkannya licin · Kemudian — serat dan makanan fermentasi mengisinya semula · Hasilnya — 9 spesies hilang pada hari ke-180"

@@ -122,3 +122,33 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ro card alt: "Ar trebui să trăiască în gură? — o femeie își usucă mâinile la chiuveta din baie, târziu în noapte"
 - ro card question: "Ar trebui să trăiască în gură?"
 - ro plate lines: "Mai întâi — colonizatorii rotunzi fac un strat · Apoi — fusurile lungi se așază peste ei · Rezultat — placa ține ca un întreg"
+
+- zh-Hans preview alt: "插画：一根梭形细菌像横梁一样架在牙菌斑礁石里成簇的球状细胞之间，光从下面打上来"
+- zh-Hans hero alt: "插画：圆形的早期定居者在矿化表面上铺成一层，长长的梭形细胞横卧其上，随后到来的各种形状的细胞沿着它们固定下来，结成一个有序的群落"
+- zh-Hans card alt: "这东西该住在我嘴里吗？ — 一位女性深夜在盥洗池边擦干双手"
+- zh-Hans card question: "这东西该住在我嘴里吗？"
+- zh-Hans plate lines: "首先 — 圆形的定居者铺成一层 · 接着 — 长长的梭形细胞横卧其上 · 结果 — 牙菌斑连成一整块"
+
+- ko preview alt: "일러스트: 아래에서 빛을 받은 치태의 암초 속에서, 방추 모양 세균 하나가 둥근 세포 무리 사이에 들보처럼 누워 있다"
+- ko hero alt: "일러스트: 둥근 초기 정착자들이 광물 표면에 한 층을 이루고 그 위로 긴 방추 모양 세포들이 가로놓이며, 뒤이어 온 다른 모양의 세포들이 그것을 따라 붙어 하나의 질서 잡힌 군집이 된다"
+- ko card alt: "입안에 있어도 되나요? — 한 여자가 늦은 밤 욕실 세면대에서 손을 닦고 있다"
+- ko card question: "입안에 있어도 되나요?"
+- ko plate lines: "먼저 — 둥근 정착자들이 한 층을 이룬다 · 그다음 — 긴 방추들이 그 위에 가로놓인다 · 결과 — 치태가 하나로 버틴다"
+
+- ms preview alt: "Ilustrasi: sebatang bakteria berbentuk gelendong terbaring seperti rasuk antara gugusan sel bulat dalam terumbu plak, disuluh dari bawah"
+- ms hero alt: "Ilustrasi: peneroka awal yang bulat membentuk satu lapisan pada permukaan mineral, sel panjang berbentuk gelendong terbaring melintanginya, dan sel kemudian yang pelbagai bentuk berpaut sepanjangnya menjadi satu komuniti yang tersusun"
+- ms card alt: "Patutkah ini hidup dalam mulut? — seorang wanita mengeringkan tangannya di besen bilik air pada larut malam"
+- ms card question: "Patutkah ini hidup dalam mulut?"
+- ms plate lines: "Mula-mula — peneroka bulat membentuk satu lapisan · Kemudian — gelendong panjang terbaring melintanginya · Hasilnya — plak itu bertaut sebagai satu"
+
+- tl preview alt: "Ilustrasyon: isang hugis-suliran na bacteria na nakahiga na parang biga sa pagitan ng mga kumpol ng bilog na selula sa bahura ng plaque, may ilaw mula sa ilalim"
+- tl hero alt: "Ilustrasyon: bumubuo ng layer sa mineral na ibabaw ang mga bilog na unang naninirahan, nakahalang dito ang mahahabang hugis-suliran na selula, at kumakapit sa kanila ang mga sumunod na selulang iba ang hugis tungo sa iisang maayos na komunidad"
+- tl card alt: "Dapat bang nasa bibig ko ito? — isang babaeng nagpapatuyo ng kamay sa lababo ng banyo nang gabing-gabi"
+- tl card question: "Dapat bang nasa bibig ko ito?"
+- tl plate lines: "Una — bumubuo ng layer ang mga bilog na naninirahan · Tapos — nakahalang sa kanila ang mahahabang suliran · Kaya — nananatiling isa ang plaque"
+
+- ja preview alt: "イラスト：歯垢の礁の中で、紡錘形の細菌が丸い細胞の塊のあいだに梁のように横たわり、下から光が当たっている"
+- ja hero alt: "イラスト：鉱物の表面に丸い初期の定着菌が層をつくり、その上に長い紡錘形の細胞が横たわり、あとから来た別の形の細胞がそれに沿って留まって一つの秩序ある集団になる"
+- ja card alt: "口にいていい菌ですか？ — 深夜、洗面台で手を拭いている女性"
+- ja card question: "口にいていい菌ですか？"
+- ja plate lines: "まず — 丸い定着菌が層をつくる · 次に — 長い紡錘がその上に横たわる · 結果 — 歯垢が一つにまとまる"

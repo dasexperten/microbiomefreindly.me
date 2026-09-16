@@ -177,3 +177,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ko card alt: "매일 가글해야 할까? — 8시가 막 지난 시각, 코트를 반쯤 걸친 여성이 현관 복도에서 멈춰 선다"
 - ko card question: "매일 가글해야 할까?"
 - ko plate lines: "먼저 — 구강청결제는 상대를 가리지 않는다 · 그다음 — 입안 군집이 성글어진다 · 결과 — 아질산염이 90% 떨어진다"
+
+- tl preview alt: "Ilustrasyon: dumadaloy ang malinaw na mumog sa halo-halong banig ng rod, bilog na selula at spindle, at manipis na ang naiiwan sa likod ng gilid nito"
+- tl hero alt: "Ilustrasyon: dinadaanan ng mumog ang halo-halong banig ng bacteria sa ibabaw ng dila, at bumababa sa ikasampung bahagi ang agos ng partikulang ipinapadala nito sa isang ugat"
+- tl card alt: "Araw-araw ba akong magmumumog? — huminto ang isang babae sa pasilyo niya, kalahating suot ang coat, pasado alas-otso"
+- tl card question: "Araw-araw ba akong magmumumog?"
+- tl plate lines: "Una — hindi pumipili ang mumog · Tapos — nanipis ang komunidad sa bibig · Kaya — bumaba ang nitrite nang 90 %"

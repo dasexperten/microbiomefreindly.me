@@ -184,3 +184,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ro card alt: "E sigur microbul propriei limbi? — o femeie stă cu o ceașcă de ceai pe balcon, dimineața"
 - ro card question: "E sigur microbul propriei limbi?"
 - ro plate lines: "Mai întâi — pe limbă încă de la naștere · Apoi — își eliberează propriile antibiotice · Rezultat — rivalii se opresc la marginea ei"
+
+- zh-Hans preview alt: "插画：珠串般的圆形细菌链躺在柔软褶皱之间的湿润薄膜里，其中一串周围有一圈淡淡的珊瑚色光晕"
+- zh-Hans hero alt: "插画：圆形细菌链在柔软褶皱上的湿润薄膜里安顿下来，放出细小的金色颗粒；漂过来的竞争者菌链在它们这片地盘的边缘软塌下去"
+- zh-Hans card alt: "舌头自己的菌安全吗？ — 一位女性早晨端着一杯茶坐在自家阳台上"
+- zh-Hans card question: "舌头自己的菌安全吗？"
+- zh-Hans plate lines: "首先 — 它从出生起就在舌头上 · 接着 — 它放出自己的抗生素 · 结果 — 对手在它的地盘边停住"

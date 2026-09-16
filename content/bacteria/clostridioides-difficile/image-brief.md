@@ -134,3 +134,33 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - zh-Hans card alt: "带着它就等于生病吗？ — 一位七十多岁的女性提着购物袋，在楼梯平台上歇脚"
 - zh-Hans card question: "带着它就等于生病吗？"
 - zh-Hans plate lines: "首先 — 邻居们把它按住 · 接着 — 抗生素把邻居扫走 · 结果 — 芽孢醒来，开始增殖"
+
+- ms preview alt: "Ilustrasi: sebatang rod langsing dengan hujung spora yang membengkak dan spora bersalut limau nipis yang tertutup rapat, terkepung oleh kerumunan mikrob usus"
+- ms hero alt: "Ilustrasi: spora yang tidur duduk antara penghuni usus di bawah kabus emas; sebaik penghuni itu disapu pergi, spora terbuka menjadi rod yang membiak dan melonggarkan jahitan lapisan usus"
+- ms card alt: "Membawanya bermakna kita sakit? — seorang wanita 70-an berehat di pelantar tangga dengan beg belanjanya"
+- ms card question: "Membawanya bermakna kita sakit?"
+- ms plate lines: "Mula-mula — jiran-jiran menahannya · Kemudian — antibiotik menyapu mereka pergi · Hasilnya — spora terjaga lalu membiak"
+
+- tl preview alt: "Ilustrasyon: isang payat na baras na namamaga ang dulo dahil sa spore at mga selyadong spore na may berdeng balot, nakukulong sa dami ng mikrobyo sa gut"
+- tl hero alt: "Ilustrasyon: nakaupo ang natutulog na spore sa gitna ng mga residente ng bituka sa ilalim ng gintong ulap; nang matangay ang mga residente, bumubuka ang spore tungo sa mga baras na dumarami at pinapaluwag ang mga tahi ng lining"
+- tl card alt: "May dala, may sakit na ba? — isang babaeng pitumpuhin ang nagpapahinga sa palapag ng hagdan, hawak ang bag ng pamimili"
+- tl card question: "May dala, may sakit na ba?"
+- tl plate lines: "Una — pinipigil ito ng mga kapitbahay · Tapos — tinatangay sila ng antibiotics · Kaya — nagigising ang spore at dumarami"
+
+- ko preview alt: "일러스트: 한쪽 끝이 부풀어 포자가 든 가느다란 막대균과 연둣빛으로 밀봉된 포자들이, 빽빽한 장내 미생물 무리에 둘러싸여 있다"
+- ko hero alt: "일러스트: 금빛 안개 아래 장의 상주균들 사이에 잠든 포자들이 앉아 있고, 상주균이 쓸려 나가자 포자가 열려 막대균이 되어 불어나며 점막의 이음매를 느슨하게 만든다"
+- ko card alt: "보균이면 병에 걸린 건가요? — 일흔 넘은 여자가 장바구니를 들고 계단 층계참에서 숨을 고른다"
+- ko card question: "보균이면 병에 걸린 건가요?"
+- ko plate lines: "먼저 — 이웃들이 이 균을 눌러 둔다 · 그다음 — 항생제가 이웃들을 쓸어 간다 · 결과 — 포자가 깨어나 불어난다"
+
+- ja preview alt: "イラスト：先端が芽胞でふくらんだ細い桿菌と、ライム色の殻に閉じた芽胞が、ひしめく腸内細菌の群れに取り囲まれている"
+- ja hero alt: "イラスト：金色のもやの下、眠った芽胞が腸の住人たちのあいだに座っている。住人が一掃されると芽胞は開いて桿菌になり、増えて粘膜のつなぎ目をゆるめていく"
+- ja card alt: "持っていたら病気ですか？ — 70代の女性が買い物袋を持って階段の踊り場で休んでいる"
+- ja card question: "持っていたら病気ですか？"
+- ja plate lines: "まず — 隣人たちが押さえ込んでいる · 次に — 抗菌薬が隣人を一掃する · 結果 — 芽胞が目を覚まして増える"
+
+- th preview alt: "ภาพประกอบ: แท่งเรียวที่ปลายบวมเป็นสปอร์ และสปอร์ที่ปิดผนึกเคลือบสีเขียวมะนาว ถูกขนาบไว้ด้วยฝูงจุลินทรีย์ในลำไส้"
+- th hero alt: "ภาพประกอบ: สปอร์ที่หลับอยู่นั่งอยู่ท่ามกลางผู้อาศัยในลำไส้ใต้ละอองหมอกสีทอง พอผู้อาศัยถูกกวาดออกไป สปอร์ก็เปิดออกเป็นแท่งที่เพิ่มจำนวนและทำให้รอยต่อของเยื่อบุคลายออก"
+- th card alt: "มีเชื้ออยู่แปลว่าป่วยไหม? — หญิงวัยเจ็ดสิบนั่งพักบนชานพักบันไดพร้อมถุงของที่ซื้อมา"
+- th card question: "มีเชื้ออยู่แปลว่าป่วยไหม?"
+- th plate lines: "ก่อนอื่น — เพื่อนบ้านกดมันไว้ · จากนั้น — ยาปฏิชีวนะกวาดพวกเขาออกไป · ผลลัพธ์ — สปอร์ตื่นขึ้นและเพิ่มจำนวน"

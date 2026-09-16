@@ -195,3 +195,9 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ko card alt: "친구는 됐는데 나는 왜? — 오후의 카페 자리, 맞은편에 두 번째 잔이 놓여 있다"
 - ko card question: "친구는 됐는데 나는 왜?"
 - ko plate lines: "먼저 — 여섯 균주가 똑같아 보인다 · 그다음 — 같은 장, 같은 조건 · 결과 — 6개 중 4개만 무언가를 했다"
+
+- tl preview alt: "Ilustrasyon: dalawang magkatulad na grupo ng pahabang bacteria sa alun-along mucus ng bituka; gumagalaw ang mucus sa ilalim ng isa at hindi sa ilalim ng isa pa"
+- tl hero alt: "Ilustrasyon: anim na magkakatulad na kumpol ng pahabang bacteria ang dumadapo sa parehong mucus ng bituka; sa ilalim ng apat ay kitang nagbabago ang mucus, sa ilalim ng dalawa ay hindi ito nagagalaw"
+- tl card alt: "Bakit sa kanya lang umepekto? — isang babae sa mesa ng café sa hapon, may pangalawang tasa sa harap niya"
+- tl card question: "Bakit sa kanya lang umepekto?"
+- tl plate lines: "Una — magkamukha ang anim na strain · Tapos — parehong bituka, parehong kondisyon · Kaya — 4 sa 6 ang may nagawa"

@@ -178,3 +178,33 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ro card alt: "Ce hrănește mucoasa intestinului? — o femeie de douăzeci de ani mănâncă ovăz pe balcon, în ultimul soare"
 - ro card question: "Ce hrănește mucoasa intestinului?"
 - ro plate lines: "Mai întâi — se ascunde unde nu ajunge aerul · Apoi — mănâncă ce scapă vecinii · Rezultat — mucoasa e hrănită; peste 5 % din total"
+
+- zh-Hans preview alt: "插画：细长的杆状细菌躺在结肠内壁上方浓密的黏液里，细小的珊瑚色颗粒从它们身上飘落下来"
+- zh-Hans hero alt: "插画：在无氧黏液里的二十个肠道细菌中，一根细长的杆菌吸走邻居剩下的东西，释放出金色的丁酸颗粒，进入结肠内壁"
+- zh-Hans card alt: "是什么在喂养你的肠壁？ — 一位二十多岁的女性在阳台上就着最后一点阳光吃一碗燕麦"
+- zh-Hans card question: "是什么在喂养你的肠壁？"
+- zh-Hans plate lines: "首先 — 它藏在空气到不了的地方 · 接着 — 它吃邻居掉下来的东西 · 结果 — 肠壁被喂饱，占全部的 5% 以上"
+
+- ms preview alt: "Ilustrasi: bakteria berbentuk rod yang langsing terbaring dalam lendir pekat di atas lapisan kolon, manik kecil warna karang hanyut turun daripadanya"
+- ms hero alt: "Ilustrasi: antara dua puluh bakteria usus dalam lendir tanpa udara, satu rod langsing mengambil sisa jirannya dan melepaskan manik butirat keemasan yang masuk ke dalam lapisan kolon"
+- ms card alt: "Apa memberi makan lapisan usus? — seorang wanita 20-an makan semangkuk oat di balkoninya dalam cahaya matahari terakhir"
+- ms card question: "Apa memberi makan lapisan usus?"
+- ms plate lines: "Mula-mula — ia bersembunyi di tempat udara tidak sampai · Kemudian — ia memakan apa yang dijatuhkan jiran · Hasilnya — lapisan usus diberi makan; lebih 5 % daripada semua"
+
+- ko preview alt: "일러스트: 대장 점막을 덮은 빽빽한 점액 속에 가느다란 막대 모양 세균들이 누워 있고, 그들에게서 작은 산호색 알갱이가 흘러내린다"
+- ko hero alt: "일러스트: 공기가 닿지 않는 점액 속 스무 마리 장내 세균 사이에서 가느다란 막대 하나가 이웃들이 남긴 것을 받아먹고 금빛 부티르산 알갱이를 내놓아 그것이 대장 점막으로 들어간다"
+- ko card alt: "장 점막은 무엇을 먹나요? — 스무 살 무렵의 여자가 마지막 햇빛 속 발코니에서 귀리 한 그릇을 먹는다"
+- ko card question: "장 점막은 무엇을 먹나요?"
+- ko plate lines: "먼저 — 공기가 닿지 않는 곳에 숨는다 · 그다음 — 이웃이 흘린 것을 먹는다 · 결과 — 점막이 먹는다, 전체의 5 % 넘게"
+
+- tl preview alt: "Ilustrasyon: mga payat at hugis-baras na bacteria na nakahiga sa makapal na mucus sa ibabaw ng lining ng colon, may maliliit na butil na coral na dumadaloy pababa mula sa kanila"
+- tl hero alt: "Ilustrasyon: sa gitna ng dalawampung gut bacteria sa mucus na walang hangin, sinisipsip ng isang payat na baras ang tira ng mga kapitbahay nito at naglalabas ito ng gintong butil ng butyrate na pumapasok sa lining ng colon"
+- tl card alt: "Ano ang pagkain ng gut lining? — isang babaeng bentehin ang kumakain ng oats sa balkonahe sa huling sikat ng araw"
+- tl card question: "Ano ang pagkain ng gut lining?"
+- tl plate lines: "Una — nagtatago ito kung saan walang hangin · Tapos — kinakain nito ang tira ng kapitbahay · Kaya — napapakain ang lining; mahigit 5 % ng lahat"
+
+- ja preview alt: "イラスト：大腸の粘膜を覆う濃い粘液の中に細い桿菌が横たわり、そこから小さな珊瑚色の粒がこぼれ落ちていく"
+- ja hero alt: "イラスト：空気のない粘液の中にいる20個の腸内細菌のうち、一本の細い桿菌が隣人たちの食べ残しを取り込み、金色の酪酸の粒を放って大腸の粘膜へ渡している"
+- ja card alt: "腸の粘膜は何を食べる？ — 20代の女性が最後の日ざしの中、バルコニーでオートミールを食べている"
+- ja card question: "腸の粘膜は何を食べる？"
+- ja plate lines: "まず — 空気の届かない場所に隠れる · 次に — 隣人が落としたものを食べる · 結果 — 粘膜が養われる。全体の5%以上"

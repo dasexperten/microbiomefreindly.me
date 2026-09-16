@@ -25,9 +25,9 @@ keyFacts:
     source: s2
   - fact: "Apat na taong binigyan ng 7 araw na kurso ng clindamycin ang sinundan sa loob ng 2 taon: hindi na bumalik sa orihinal nitong komposisyon ang komunidad nilang Bacteroides sa loob ng panahong iyon."
     source: s3
-  - fact: "Sa pinagsamang 33 randomised trial sa mga bata (6352 kalahok), nagkaroon ng antibiotic-associated diarrhoea ang 8 % ng nasa probiotics laban sa 19 % ng nasa control, 9 na bata ang gagamutin para maiwasan ang isang kaso."
+  - fact: "Sa pinagsamang 33 randomised trial sa mga bata (6352 kalahok), nagkaroon ng antibiotic-associated diarrhoea ang 8 % ng nasa probiotics laban sa 19 % ng nasa control, 9 na bata ang gagamutin para maiwasan ang isang kaso."
     source: s5
-  - fact: "Sa 2941 sinuring inpatient sa ospital na 65 anyos pataas (2981 ang randomised), 10.8 % ang antibiotic-associated diarrhoea sa multi-strain na probiotic laban sa 10.4 % sa placebo — walang benepisyo."
+  - fact: "Sa 2941 sinuring inpatient sa ospital na 65 anyos pataas (2981 ang randomised), 10.8 % ang antibiotic-associated diarrhoea sa multi-strain na probiotic laban sa 10.4 % sa placebo — walang benepisyo."
     source: s6
 faq:
   - q: "Gaano katagal ako maghihintay bago sabihing gumaling na ang bituka ko?"
@@ -125,9 +125,9 @@ Linggo para sa malaking bahagi, buwan para sa detalye, at para sa ilang miyembro
 
 Dito nabibigo ng tapat na sagot ang sinumang nagbebenta ng solusyon.
 
-May isang bagay na magaling gawin ang probiotics at isa pang hindi. Ang magaling nilang gawin ay ang pagtatae. Pinagsama ng isang Cochrane review nina Guo ang 33 randomised trial sa mga bata, 6352 kalahok sa kabuuan [s5]: nagkaroon ng antibiotic-associated diarrhoea ang 8 % ng mga batang nasa probiotics laban sa 19 % ng nasa control [s5], siyam ang gagamutin para maiwasan ang isang kaso, at anim kapag hindi bababa sa 5 bilyong CFU — colony-forming units, ang bilang ng buhay na selulang kayang magparami — ang araw-araw na dosis [s5]. Katamtaman ang katiyakan ng ebidensiya [s5]. Pinaikli rin nito ang pagtatae nang halos isang araw [s5]. Totoo iyon — at resulta iyon sa sintomas, hindi pagtatayong muli.
+May isang bagay na magaling gawin ang probiotics at isa pang hindi. Ang magaling nilang gawin ay ang pagtatae. Pinagsama ng isang Cochrane review nina Guo ang 33 randomised trial sa mga bata, 6352 kalahok sa kabuuan [s5]: nagkaroon ng antibiotic-associated diarrhoea ang 8 % ng mga batang nasa probiotics laban sa 19 % ng nasa control [s5], siyam ang gagamutin para maiwasan ang isang kaso, at anim kapag hindi bababa sa 5 bilyong CFU — colony-forming units, ang bilang ng buhay na selulang kayang magparami — ang araw-araw na dosis [s5]. Katamtaman ang katiyakan ng ebidensiya [s5]. Pinaikli rin nito ang pagtatae nang halos isang araw [s5]. Totoo iyon — at resulta iyon sa sintomas, hindi pagtatayong muli.
 
-Hindi rin ito totoo sa lahat. Ang PLACIDE, isang pagsubok na nag-randomise ng 2981 inpatient sa ospital na 65 anyos pataas — 2941 sa kanila ang nasa pangunahing pagsusuri — na binigyan ng multi-strain na paghahanda ng lactobacilli at bifidobacteria sa 6 × 10¹⁰ organismo araw-araw sa loob ng 21 araw, ay nakakita ng antibiotic-associated diarrhoea sa 10.8 % ng uminom nito at sa 10.4 % ng nasa placebo [s6]. Walang anumang benepisyo sa populasyong iyon.
+Hindi rin ito totoo sa lahat. Ang PLACIDE, isang pagsubok na nag-randomise ng 2981 inpatient sa ospital na 65 anyos pataas — 2941 sa kanila ang nasa pangunahing pagsusuri — na binigyan ng multi-strain na paghahanda ng lactobacilli at bifidobacteria sa 6 × 10¹⁰ organismo araw-araw sa loob ng 21 araw, ay nakakita ng antibiotic-associated diarrhoea sa 10.8 % ng uminom nito at sa 10.4 % ng nasa placebo [s6]. Walang anumang benepisyo sa populasyong iyon.
 
 Ang hindi magaling gawin ng probiotics ay ang pagtatayong muli mismo. Lumampas sina Suez, sa *Cell* noong 2018, sa dumi at kumuha ng sampol sa mucosa ng bituka gamit ang endoscope pagkatapos ng antibiotics [s4]. Kumpara sa basta paghihintay, malinaw na naantala at patuloy na hindi nabuo ang pagbalik ng sariling katutubong microbiome ng tao at ng sariling gene expression ng bituka sa mga uminom ng multi-strain na probiotic [s4]. Ang autologous faecal transplant — ang sariling dumi ng tao, itinabi bago ang antibiotics at ibinalik pagkatapos — ay nagdulot ng mabilis at halos buong paggaling sa loob ng ilang araw [s4]. Sa platito, pinigilan ng mga natutunaw na sangkap na inilalabas ng lactobacilli ang pagbabalik ng komunidad [s4].
 

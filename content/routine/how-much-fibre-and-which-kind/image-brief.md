@@ -187,3 +187,21 @@ Read off the live stylesheet: `.card-cover{aspect-ratio:3/2}`, `.article-hero{as
 - ko card alt: "식이섬유는 얼마나 먹을까? — 이른 아침 식탁 앞에 앉은 여성 앞에 죽 한 그릇이 놓여 있다"
 - ko card question: "식이섬유는 얼마나 먹을까?"
 - ko plate lines: "먼저 — 세 가지 섬유가 도착한다 · 그다음 — 그중 하나만 먹힌다 · 결과 — 하루 25–29 g, 그 뒤로는 평평해진다"
+
+- fr preview alt: "Illustration : des bactéries intestinales en fourche démontent de souples chaînes de fibres ramifiées tandis qu'un ruban de gel lisse glisse à côté"
+- fr hero alt: "Illustration : trois fibres atteignent la muqueuse intestinale ; les bactéries ne mangent que les chaînes ramifiées, un ruban de gel et une écaille de son passent intacts, et de plus grosses portions ne donnent plus davantage"
+- fr card alt: "Combien de fibres par jour ? — une femme à sa table à manger tôt le matin, un bol de flocons d'avoine devant elle"
+- fr card question: "Combien de fibres par jour ?"
+- fr plate lines: "D'abord — trois sortes de fibres arrivent · Ensuite — une seule est mangée · Résultat — 25 à 29 g par jour, puis ça plafonne"
+
+- ms preview alt: "Ilustrasi: bakteria usus bercabang menguraikan rantai serat bercabang yang lembut sementara reben gel yang licin meluncur lalu"
+- ms hero alt: "Ilustrasi: tiga jenis serat sampai ke lapisan usus; bakteria hanya memakan rantai bercabang, reben gel dan serpihan dedak lalu utuh, dan hidangan yang lebih besar berhenti memberi lebih"
+- ms card alt: "Berapa banyak serat sudah cukup? — seorang wanita di meja makan awal pagi, semangkuk bubur di hadapannya"
+- ms card question: "Berapa banyak serat sudah cukup?"
+- ms plate lines: "Mula-mula — tiga jenis serat tiba · Kemudian — hanya satu daripadanya dimakan · Hasilnya — 25–29 g sehari, kemudian mendatar"
+
+- tr preview alt: "İllüstrasyon: pürüzsüz bir jel şeridi yanından kayıp giderken yumuşak dallı lif zincirlerini parçalayan çatallı bağırsak bakterileri"
+- tr hero alt: "İllüstrasyon: bağırsak astarına üç lif ulaşıyor; bakteriler yalnızca dallı zincirleri yiyor, bir jel şeridi ile bir kepek pulu bütün hâlde geçiyor ve daha büyük porsiyonlar artık daha fazlasını vermiyor"
+- tr card alt: "Ne kadar lif yeterli? — bir kadın sabah erkenden yemek masasında, önünde bir kâse yulaf lapası"
+- tr card question: "Ne kadar lif yeterli?"
+- tr plate lines: "Önce — üç tür lif gelir · Sonra — yalnızca biri yenir · Sonuç — günde 25–29 g, sonrası düzleşir"
