@@ -107,6 +107,20 @@ sup{font-size:.6em;}
   html:not(:lang(en)) .hdr__nav{display:none;}
   html:not(:lang(en)) .hdr__icons{display:flex;}
 }
+/* English was left out of the rule above on the assumption that it fits. Measured, it does not:
+   its eight words hold down to 1100 px and run 25 px past the edge at 1050, 204 px at 861. So English
+   gets its own line at the width it actually fits, not the one it was assumed to. */
+@media(max-width:1100px){
+  .hdr__nav{display:none;}
+  .hdr__icons{display:flex;}
+}
+/* On a desktop-width bar the words ran from the mark to the right edge. Seven icons kept their old
+   phone position and left two thirds of the bar empty, which reads as unfinished rather than as our
+   header. Above the phone breakpoint they take the right edge instead, where the last menu word used
+   to sit. On a phone the row stays as the Owner approved it, next to the mark. */
+@media(min-width:861px){
+  .hdr__icons{margin-inline-start:auto;}
+}
 @media(max-width:860px){
   .hdr__nav{display:none;}
   .hdr__icons{display:flex;}
