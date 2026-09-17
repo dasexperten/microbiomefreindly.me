@@ -9,10 +9,10 @@ slug: akkermansia-muciniphila
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "akkermansia muciniphila"
+  volume: 1000
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Akkermansia muciniphila est une bactérie intestinale qui vit dans la couche de mucus et mange la mucine, la protéine que l'intestin y sécrète. Brouter cette couche pousse au renouvellement — chez la souris une barrière plus étanche, dans un petit essai humain une meilleure sensibilité à l'insuline — mais sans fibres, ou face à un pathogène, le même appétit amincit la couche."

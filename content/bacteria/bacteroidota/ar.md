@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroidota، وكانت تُسمّى Bacteroidetes، شعبة من البكتيريا سلبية الغرام المتجنّبة للأكسجين، تعيش بأعداد هائلة في قولونك. إن أطعمتها ألياف النبات فكّت لك ما تعجز إنزيماتك عن تفكيكه وساعدت في تدريب جهاز المناعة؛ وإن حرمتها منها أكلت طبقة المخاط لديك — في الفئران حتى الآن. والتحفّظ: إن خرجت من الأمعاء وُجدت في معظم حالات العدوى اللاهوائية."

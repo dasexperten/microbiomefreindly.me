@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "ميكروبات من لعاب مرضى سرطان الرأس والعنق حوّلت السكر (الغلوكوز) والكحول (الإيثانول) إلى أسيتالدهيد، مسرطن من المجموعة 1، أعلى فئة، مع تدخين التبغ. وبلغ الإنتاج ذروته عند 100 ملي مولار سكر. وأوقفه ببتيد مضاد للميكروبات مع صمغ الفول، لكن ميكروبات يحميها الغشاء الحيوي نجت حتى أذابت إنزيمات قشرة اللويحة. أطباق مختبر فقط: لا تجربة بشرية ولا نتيجة سرطانية."

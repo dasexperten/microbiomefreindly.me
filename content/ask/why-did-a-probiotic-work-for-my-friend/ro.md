@@ -1,6 +1,6 @@
 ---
-title: "De ce probioticul a mers la prietena ta, nu la tine"
-meta: "Trei lucruri diferă între tine și prietena ta: tulpina (soiul anume, nu specia), doza și durata și intestinul cu care ai pornit."
+title: "Beneficiile probioticelor: de ce ea simte și tu nu"
+meta: "Beneficiile probioticelor nu sunt aceleași pentru toți: tulpina (soiul anume, nu specia), doza și durata și intestinul cu care ai pornit fac diferența."
 kicker: "Magnus răspunde"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: why-did-a-probiotic-work-for-my-friend
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "probiotice beneficii"
+  volume: 170
   market: "RO (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Pentru că n-ați făcut același experiment. Efectul ține de tulpina exactă, de doză, de cât timp o iei și, poate, de comunitatea cu care ai pornit. Un studiu din 2026 pe 120 de adulți supraponderali și-a ratat obiectivul principal și a văzut o diferență de greutate abia la o analiză ulterioară, la jumătatea cu cele mai puține specii."

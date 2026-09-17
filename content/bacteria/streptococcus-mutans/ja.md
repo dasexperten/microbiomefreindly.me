@@ -1,6 +1,6 @@
 ---
-title: "ミュータンス菌：糖を与えたときだけ勝つ"
-meta: "Streptococcus mutansとは何か、どこに住み、どうやって糖を歯垢と酸に変え、私たちのために、そして私たちに逆らって何をするのか。すべての数字に名前のついた研究を。"
+title: "虫歯菌は糖を与えたときだけ勝つ"
+meta: "虫歯菌ミュータンスとは何か。Streptococcus mutansとは何か、どこに住み、どうやって糖を歯垢と酸に変え、私たちのために、そして私たちに逆らって何をするのか。すべての数字に名前のついた研究を。"
 kicker: "Streptococcus mutans"
 type: bacteria
 topic: oral
@@ -9,10 +9,10 @@ slug: streptococcus-mutans
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "虫歯菌"
+  volume: 4400
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus mutansは、歯の歯垢にいる糖の好きな細菌です。砂糖（スクロース）を与えられると、歯垢を歯に貼りつける粘つく糊であるグルカンと、エナメル質を溶かす乳酸をつくります。虫歯の原因として最もよく研究された菌です。多くの人が幼児のころから持っていますが、持ち主への利益は証明されておらず、一部の株は心臓や脳まで届くことがあります。"

@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Ang Porphyromonas gingivalis ay anaerobe (nabubuhay nang walang oxygen) na ayaw sa asukal at kumakain ng protina, nasa bulsa sa pagitan ng ngipin at gilagid. Marami sa malulusog ang may dala; nakakapinsala lang ito kapag nawala sa balanse ang paligid. Walang naipakitang benepisyo. Pinapatay ng protease nito ang depensa mo, at suspek ito sa arthritis at Alzheimer's."

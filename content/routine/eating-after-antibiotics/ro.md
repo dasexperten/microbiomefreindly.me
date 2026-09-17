@@ -1,6 +1,6 @@
 ---
-title: "Nouă specii tot lipsesc: ce mănânci după antibiotice"
-meta: "La 1,5 luni după cură intestinul e aproape ca la început, dar nouă specii lipseau la majoritatea bărbaților în ziua 180. Ce arată studiile pe hrană."
+title: "Refacerea florei intestinale: ce mănânci după antibiotice"
+meta: "Refacerea florei intestinale după o cură: la 1,5 luni intestinul e aproape ca la început, dar nouă specii lipseau în ziua 180. Ce arată studiile pe hrană."
 kicker: "După antibiotice"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: eating-after-antibiotics
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "refacere flora intestinala"
+  volume: 110
   market: "RO (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Plante bogate în fibre, alimente fermentate și răbdare. Cea mai mare parte a comunității era aproape ca la început cam la 1,5 luni după amestecul de antibiotice de 4 zile studiat (Nature Microbiology, 2018), dar nouă specii obișnuite lipseau încă la majoritatea bărbaților în ziua 180. Probioticele taie diareea, dar singurul studiu pe mucoasă a găsit că întârzie refacerea."

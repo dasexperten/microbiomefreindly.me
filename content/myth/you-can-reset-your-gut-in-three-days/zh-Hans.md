@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "错误。食物确实会推动肠道菌群，而且很快。十一名志愿者先后吃了两种极端饮食：食物抵达后一天配比就改变，停掉饮食两天后又变了回去（《自然》2014 年）。一个成年人约 60 % 的菌株五年后仍然在那里（《科学》2013 年）。三天改变的是读数，不是居民。"

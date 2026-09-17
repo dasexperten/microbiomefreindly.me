@@ -1,6 +1,6 @@
 ---
-title: "バイオフィルムを壊す酵素、その働き方"
-meta: "デキストラナーゼ、パパイン、ブロメライン、リゾチーム、グルコースオキシダーゼ。それぞれが何を切り、のりを失った歯垢がなぜ崩れるのか。"
+title: "歯垢除去と酵素、何を切っているのか"
+meta: "酵素による歯垢除去のしくみ。デキストラナーゼ、パパイン、ブロメライン、リゾチーム、グルコースオキシダーゼ。それぞれが何を切り、のりを失った歯垢がなぜ崩れるのか。"
 kicker: "酵素"
 type: hubs
 topic: enzymes
@@ -9,10 +9,10 @@ slug: enzymes
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "歯垢 除去"
+  volume: 1600
   market: "Japan (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "酵素は、決まった結合をひとつだけ切るタンパク質です。デキストラナーゼは歯垢の糖ののりを切り、パパインとブロメラインはタンパク質を切り、リゾチームは細菌の細胞壁を切り、グルコースオキシダーゼはブドウ糖を穏やかな消毒成分に変えます。どれも広く殺しはしません。構造を取り除くのが仕事で、だから抗菌薬ではなくバイオフィルム対策として研究されています。"

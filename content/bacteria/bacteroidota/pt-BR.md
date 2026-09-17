@@ -1,5 +1,5 @@
 ---
-title: "Bacteroidota: sem fibra, ela come a sua mucosa intestinal"
+title: "Bacteroidetes, hoje Bacteroidota: sem fibra comem sua mucosa"
 meta: "Bacteroidota, antes Bacteroidetes: o que esse enorme grupo de bactérias do intestino digere por você, quando ele fica perigoso e o que os estudos acharam."
 kicker: "Bacteroidota"
 type: bacteria
@@ -9,10 +9,10 @@ slug: bacteroidota
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "Brasil (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "bacteroidetes"
+  volume: 260
+  market: "BR (Ubersuggest locId 2076)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroidota, antes Bacteroidetes, é um filo de bactérias gram-negativas anaeróbias que vivem aos montes no seu cólon. Com fibra vegetal, elas abrem o que suas enzimas não abrem e ajudam a treinar o sistema imune; sem ela, comem a sua camada de muco — em camundongos, por enquanto. A ressalva: fora do intestino, estão na maioria das infecções anaeróbias."

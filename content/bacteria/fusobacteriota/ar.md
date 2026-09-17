@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Fusobacteriota شعبة (فرع كامل من شجرة البكتيريا) من بكتيريا لاهوائية مغزلية الشكل، تعيش عادةً في الفم بوصفها الرابط الذي يشدّ مجتمع اللويحة السنية بعضه إلى بعض: وظيفة بنيوية لا خلل. لكن سلالة صغيرة واحدة من Fusobacterium nucleatum تتركّز بقوة في أورام القولون والمستقيم، حيث يستطيع أحد لواصقها تشغيل إشارات مرتبطة بالسرطان داخل الخلايا البشرية."

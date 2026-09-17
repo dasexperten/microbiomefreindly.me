@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — market measured, no honest match for this page; left pending"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus salivariusは無害なレンサ球菌で、生まれて数日のうちに舌に住みつき、競争相手の細菌に向けたタンパク質の抗生物質であるバクテリオシンで自分の場所を守ります。いくつかの株は、のどの痛みと口臭について、小規模でおおむね質の低い試験で試されました。口を出ることはめったにありませんが、腰椎穿刺の針に運ばれて髄膜炎を起こしたことがあります。"

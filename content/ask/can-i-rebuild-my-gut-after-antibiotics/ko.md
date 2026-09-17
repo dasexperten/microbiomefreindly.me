@@ -11,8 +11,8 @@ asOf: 2026-09-04
 seo:
   keyword: "pending"
   volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "대체로 그렇습니다. 항생제 3종을 4일간 복용한 건강한 남성 12명에서(Nature Microbiology, 2018) 장내 군집은 약 1.5개월 만에 기준선 가까이 돌아왔습니다. 다만 복용 전 모두에게 있던 9종은 180일째에도 대부분에게서 검출되지 않았습니다. 회복은 실재하고, 불완전하며, 사람에 따라 더 느립니다."

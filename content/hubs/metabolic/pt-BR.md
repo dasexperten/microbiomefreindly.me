@@ -1,6 +1,6 @@
 ---
-title: "Micróbios e metabolismo: GLP-1, Akkermansia, ácidos graxos"
-meta: "Como as bactérias do intestino falam com o seu metabolismo: ácidos graxos de cadeia curta, a Akkermansia que come muco e o hormônio GLP-1. O que é mecanismo."
+title: "Microbiota e obesidade: GLP-1, Akkermansia, ácidos graxos"
+meta: "Microbiota e obesidade sem exagero: ácidos graxos de cadeia curta, a Akkermansia que come muco e o hormônio GLP-1. O que é mecanismo e o que é prova."
 kicker: "Micróbios e metabolismo"
 type: hubs
 topic: metabolic
@@ -9,10 +9,10 @@ slug: metabolic
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "microbiota e obesidade"
+  volume: 20
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "As bactérias do intestino fermentam a fibra em ácidos graxos de cadeia curta: acetato, propionato, butirato. Eles alimentam a parede intestinal e avisam as células que liberam o GLP-1, o hormônio que retarda o estômago e dá saciedade. A Akkermansia muciniphila, que vive do muco, reforça a barreira que organiza essa conversa. É um caminho, não uma cura."

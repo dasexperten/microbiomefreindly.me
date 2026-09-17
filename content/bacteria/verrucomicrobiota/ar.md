@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Verrucomicrobiota (المعروفة سابقاً بـVerrucomicrobia) شعبة بكتيرية أشهر أعضائها Akkermansia muciniphila، التي تعيش في طبقة المخاط في قولونك وتأكلها. وباعتدال يغذّي هذا التجديد بطانة الأمعاء ويواكب مؤشرات أيضية أفضل. أما بالإفراط، أو مع غذاء فقير بالألياف، فالشهية نفسها ترقّق الحاجز."

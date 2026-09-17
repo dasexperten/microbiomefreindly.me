@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — market measured, no honest match for this page; left pending"
 author: magnus-larsen
 voice: greger
 answer: "ある研究によれば、始めたときの腸の多様性です。太り気味の成人120人を対象とした12週間のランダム化二重盲検試験（Gut Microbes、2026年）では、生きたプロバイオティクスではなく死んだ細胞である加熱殺菌のLactiplantibacillus plantarum LRCC5282は、平均では何も変えませんでした。開始時に腸の多様性が最も低かった人だけが、プラセボより体重、BMI、レプチンを減らしました。部分集団の発見であって、証明された効果ではありません。"

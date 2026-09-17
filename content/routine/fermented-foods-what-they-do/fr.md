@@ -1,6 +1,6 @@
 ---
 title: "Aliments fermentés : les microbes avalés ne font pas tout"
-meta: "Stanford a suivi 36 adultes 17 semaines, moitié à six portions par jour : diversité en hausse, 19 protéines inflammatoires en baisse — pas grâce aux microbes."
+meta: "Aliments fermentés : Stanford a suivi 36 adultes 17 semaines, moitié à six portions par jour — diversité en hausse, 19 protéines inflammatoires en baisse."
 kicker: "Aliments fermentés"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: fermented-foods-what-they-do
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "aliments fermentés"
+  volume: 1600
   market: "FR (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Kéfir, yaourt, kimchi et choucroute portent des bactéries lactiques vivantes, jusqu'à cent milliards de cellules par portion. Dans un essai Stanford de 17 semaines (Cell, 2021), six portions par jour ont élevé la diversité intestinale et abaissé 19 protéines inflammatoires sanguines. Les bactéries avalées ne s'installent guère ; c'est votre communauté résidente qui bouge. Les bocaux pasteurisés, aucune."

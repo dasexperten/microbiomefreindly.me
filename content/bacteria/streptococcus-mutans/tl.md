@@ -9,10 +9,10 @@ slug: streptococcus-mutans
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "streptococcus mutans"
+  volume: 1300
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Ang Streptococcus mutans ay bacteria na mahilig sa asukal sa plaque ng ngipin mo. Kapag pinakain ng table sugar, gumagawa ito ng malagkit na glucan na nagkakabit ng plaque sa ngipin, at ng lactic acid na tumutunaw ng enamel: ang pinakapinag-aralang sanhi ng sira ng ngipin. May dala nito ang halos lahat mula pagkabata; walang napatunayang benepisyo."

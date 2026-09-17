@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "疣微菌门（旧称 Verrucomicrobia）是一个细菌门，它最有名的成员嗜黏蛋白阿克曼菌住在你结肠的黏液层里，并以它为食。适度时，这种周转喂养肠道内壁，也与更好的代谢指标同行。过量时，或者在低纤维饮食下，同样的食欲会把屏障啃薄。"

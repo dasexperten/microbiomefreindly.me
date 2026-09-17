@@ -1,6 +1,6 @@
 ---
-title: "胃酸を越えるかより、大事な問いがある"
-meta: "胃酸は飲み込まれた細菌の多くを殺し、芽胞やコーティングはその確率を変えます。けれど旅を生き延びたプロバイオティクスも、あなたの腸に住みつくとはかぎりません。"
+title: "生きて腸まで届く乳酸菌より大事な問い"
+meta: "生きて腸まで届く乳酸菌の話。胃酸は飲み込まれた細菌の多くを殺し、芽胞やコーティングはその確率を変えます。けれど旅を生き延びたプロバイオティクスも、あなたの腸に住みつくとはかぎりません。"
 kicker: "マグナスが答えます"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: do-probiotics-survive-stomach-acid
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "生きて腸まで届く乳酸菌"
+  volume: 480
   market: "Japan (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "一部は越えます。芽胞を作る菌は構造からして生き延び、弱い菌株はたいてい生き延びません。コーティングと食事は確率を上げます。ただ、生存はゴールラインとしてずれています。人の腸粘膜を調べた唯一の研究では、飲み込まれた菌株は旅のあとも生きていましたが、住みついた人とつかなかった人がいました。通り抜けることは、住みつくことではありません。"

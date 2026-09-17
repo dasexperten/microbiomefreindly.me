@@ -1,5 +1,5 @@
 ---
-title: "Nosicielstwo C. difficile obniża ryzyko C. difficile"
+title: "Clostridium difficile: nosicielstwo obniża ryzyko choroby"
 meta: "Clostridioides difficile, dawniej Clostridium difficile: czym jest, gdzie żyje, dlaczego szkodzi — i dlaczego ciche nosicielstwo wiąże się z rzadszą biegunką."
 kicker: "Clostridioides difficile"
 type: bacteria
@@ -9,10 +9,10 @@ slug: clostridioides-difficile
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "clostridium difficile"
+  volume: 6600
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Clostridioides difficile to bakteria jelitowa tworząca przetrwalniki — uśpione, opancerzone kopie, które przeżywają antybiotyki. Wywołuje ciężką biegunkę, gdy antybiotyk zmiecie wspólnotę drobnoustrojów trzymającą ją w ryzach. Nosicielstwo to nie choroba: w zbiorczych badaniach szpitalnych cisi nosiciele — bakteria w kale, żadnych objawów — rzadziej dostawali biegunki C. difficile niż pacjenci, którzy nie nosili nic."

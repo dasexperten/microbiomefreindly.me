@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus salivarius — нешкідливий стрептокок, який оселяється на язику вже в перші дні життя і боронить свою ділянку бактеріоцинами, білковими антибіотиками проти бактерій-суперників. Деякі штами перевіряли проти болю в горлі й неприємного запаху з рота в невеликих і переважно слабких дослідженнях. Рот він покидає рідко, але занесений голкою при люмбальній пункції спричиняв менінгіт."

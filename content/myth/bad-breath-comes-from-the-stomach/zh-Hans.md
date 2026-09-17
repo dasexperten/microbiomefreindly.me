@@ -1,6 +1,6 @@
 ---
-title: "口臭来自胃？100 个里只有 1 个"
-meta: "一家口气门诊测量了 491 名患者：口腔解释了 87 % 的口臭，消化道只占 1 %。那股硫味究竟是在哪里造出来的。"
+title: "口臭原因：来自胃的 100 个里只有 1 个"
+meta: "口臭原因被测量过了：一家口气门诊查了 491 名患者，口腔解释了 87 % 的口臭，消化道只占 1 %。那股硫味究竟是在哪里造出来的。"
 kicker: "传言核查"
 type: myth
 topic: oral
@@ -9,10 +9,11 @@ slug: bad-breath-comes-from-the-stomach
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "口臭原因"
+  keywordSimplified: "口臭原因"
+  volume: 4400
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "部分成立，而且非常勉强。气味是挥发性硫化合物，由舌根和牙龈下的厌氧细菌制造，产地在食道之上而不是之下。在一家收治 491 名患者的口气门诊里，口腔解释了 87 % 的病例，消化道占 1 %。胃源性口臭存在；它是例外。"

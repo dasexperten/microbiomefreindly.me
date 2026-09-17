@@ -1,6 +1,6 @@
 ---
-title: "肠易激的痛不在脑子里：酶在戳肠道的神经"
-meta: "2026年《Gut》的一项研究发现，来自肠易激患者粪便的液体，让肠道神经网络放电远比健康人的液体猛烈。它显示了什么——又没有显示什么。"
+title: "为什么会得肠躁症？酶在戳肠道的神经"
+meta: "2026年《Gut》的一项研究发现，来自肠躁症患者粪便的液体，让肠道神经网络放电远比健康人的液体猛烈。它显示了什么——又没有显示什么。"
 kicker: "Irritable bowel"
 type: news
 topic: gut
@@ -9,10 +9,11 @@ slug: stool-proteases-irritable-bowel-nerves
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "為什麼會得腸躁症"
+  keywordSimplified: "为什么会得肠躁症"
+  volume: 10
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "研究者取了肠易激综合征患者粪便中的液体部分，滴到活的肠道神经网络上。这些神经放电的猛烈程度，远超健康人的粪水。在腹泻型里，能解释这个效应的是剪切蛋白质的酶。被检验的神经来自豚鼠，不是人。"

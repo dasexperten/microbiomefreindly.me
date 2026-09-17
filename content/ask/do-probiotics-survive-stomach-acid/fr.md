@@ -1,6 +1,6 @@
 ---
-title: "Probiotiques et acide : ce n'est pas la bonne question"
-meta: "L'acide de l'estomac tue la plupart des bactéries avalées, et spores et enrobages changent la donne — mais survivre au trajet, ce n'est pas s'installer."
+title: "Probiotiques et estomac : ce n'est pas la bonne question"
+meta: "L'acide de l'estomac tue la plupart des probiotiques avalés, et spores et enrobages changent la donne — mais survivre au trajet, ce n'est pas s'installer."
 kicker: "Magnus répond"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: do-probiotics-survive-stomach-acid
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "probiotiques estomac"
+  volume: 880
   market: "FR (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Certaines, oui. Les sporulantes survivent par construction ; les souches fragiles, le plus souvent non, même si un enrobage et un repas améliorent leurs chances. Survivre est la mauvaise ligne d'arrivée : la seule étude menée sur la muqueuse humaine a trouvé les souches avalées vivantes, installées chez les uns et pas chez les autres. Passer n'est pas s'installer."

@@ -1,6 +1,6 @@
 ---
-title: "Helicobacter pylori: karsinogen, namun asma lebih jarang"
-meta: "Separuh dunia menjadi hosnya. Ia punca ulser dan kanser gastrik, namun seiring dengan kurang asma dan kurang kanser esofagus. Mudarat terbukti, manfaat belum."
+title: "Helicobacter pylori: punca ulser, namun asma lebih jarang"
+meta: "Helicobacter pylori punca ulser dan kanser gastrik, namun seiring dengan kurang asma dan kurang kanser esofagus. Mudarat terbukti, manfaat belum."
 kicker: "Helicobacter pylori"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: helicobacter-pylori
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "helicobacter pylori causes"
+  volume: 260
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Helicobacter pylori ialah bakteria berbentuk lingkaran yang mengkoloni lapisan perut, biasanya seumur hidup. Ia punca berjangkit terbesar kanser di seluruh dunia dan punca bakteria utama ulser peptik. Namun di tempat bakteria ini lazim, adenokarsinoma esofagus dan asma kanak-kanak lebih jarang. Mudaratnya punca yang terbukti; manfaatnya setakat ini hanya satu corak."

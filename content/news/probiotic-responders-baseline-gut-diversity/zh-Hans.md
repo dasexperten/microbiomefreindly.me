@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "一项研究提示，关键是你起始的肠道多样性。在一项为期 12周、纳入 120名超重成年人的随机双盲试验中（《Gut Microbes》，2026年），热灭活的植物乳植杆菌 LRCC5282——是死细胞，不是活的益生菌——平均下来什么都没改变。只有起始时肠道最不多样的那些人，体重、BMI 和瘦素的下降超过安慰剂，而那是一个亚组发现，不是一个被证明的效果。"

@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus salivarius عقدية غير مؤذية تستقر على اللسان خلال أيام من الولادة وتدافع عن رقعتها ببكتيريوسينات، وهي مضادات حيوية بروتينية موجّهة إلى بكتيريا منافسة. واختُبرت بعض سلالاتها ضد التهاب الحلق ورائحة الفم في تجارب صغيرة ضعيفة في معظمها. ونادراً ما تغادر الفم، لكنها حين دخلت على إبرة بزل قطني سببت التهاب سحايا."

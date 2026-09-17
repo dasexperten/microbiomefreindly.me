@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Un studiu din 2026, în Gut, propune că inflamația din covidul lung pornește din intestin: flagelina, proteina din care bacteriile își fac cozile, scapă și declanșează TLR5 pe neutrofile, care eliberează IL-15 și împing acidul arahidonic din macrofage până când organe îndepărtate se inflamează. Testul de cauzalitate a fost doar pe șoareci. Nimic de aici nu este un tratament."

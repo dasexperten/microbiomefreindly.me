@@ -1,6 +1,6 @@
 ---
-title: "Helicobacter pylori: cancerigen, dar și mai puțin astm"
-meta: "Jumătate din lume o găzduiește. Dă ulcere și cancer de stomac, dar merge cu mai puțin astm și mai puțin cancer de esofag. Rău dovedit, beneficiu nedovedit."
+title: "Ce este Helicobacter pylori: cancerigen și mai puțin astm"
+meta: "Ce este Helicobacter pylori: jumătate din lume o găzduiește. Dă ulcere și cancer de stomac, dar merge cu mai puțin astm și mai puțin cancer de esofag."
 kicker: "Helicobacter pylori"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: helicobacter-pylori
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "ce este helicobacter pylori"
+  volume: 210
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Helicobacter pylori este o bacterie spiralată care colonizează mucoasa stomacului, de obicei pe viață. Este principala cauză infecțioasă de cancer din lume și principala cauză bacteriană a ulcerului. Totuși, acolo unde bacteria este răspândită, adenocarcinomul de esofag și astmul copilăriei sunt mai rare. Răul este o cauză dovedită; beneficiul este deocamdată doar un tipar."

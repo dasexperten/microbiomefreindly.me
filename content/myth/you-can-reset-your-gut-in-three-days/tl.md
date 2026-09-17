@@ -1,5 +1,5 @@
 ---
-title: "Babaguhin ng tatlong araw ang gut mo. Tapos babalik din"
+title: "Gut reset sa tatlong araw? Babalik din pagkatapos"
 meta: "Ibinebenta sa lahat ng dako ang tatlong araw na gut reset. Ayon sa sukat: gumagalaw sa isang araw, bumabalik sa dalawa, 60 % ng strain ay nananatili nang taon."
 kicker: "Tsek ng mito"
 type: myth
@@ -9,10 +9,10 @@ slug: you-can-reset-your-gut-in-three-days
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "gut reset"
+  volume: 40
   market: "Philippines (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Mali. Ginagalaw nga ng pagkain ang bituka, at mabilis. Kumain ang labing-isang boluntaryo ng dalawang sukdulang diyeta: gumalaw ang halo isang araw matapos dumating ang pagkain, bumalik dalawang araw matapos ihinto ang diyeta (Nature, 2014). Mga 60 % ng strain ng adulto ay naroon pa makalipas ang limang taon (Science, 2013). Sukat ang binabago ng tatlong araw, hindi ang nakatira."

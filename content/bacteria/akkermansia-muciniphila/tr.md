@@ -1,6 +1,6 @@
 ---
 title: "Akkermansia muciniphila: mukusunuzu yiyen mikrop"
-meta: "Kendi mukus tabakanızla beslenen ve metabolizmanızı koruyabilen bir bağırsak bakterisi. Adı geçen çalışmalar ne gösteriyor, nerede duruyorlar?"
+meta: "Akkermansia muciniphila: kendi mukus tabakanızla beslenen ve metabolizmanızı koruyabilen bir bağırsak bakterisi. Çalışmalar ne gösteriyor, nerede duruyor?"
 kicker: "Akkermansia"
 type: bacteria
 topic: metabolic
@@ -9,10 +9,10 @@ slug: akkermansia-muciniphila
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "akkermansia muciniphila"
+  volume: 5400
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Akkermansia muciniphila, bağırsak mukus tabakasının içinde yaşayan ve kendi bağırsağınızın oraya salgıladığı protein olan müsini yiyen bir bakteridir. Bu tabakayı otlaması yenilenmeyi tetikler — farelerde daha sıkı bir bağırsak bariyeri, küçük bir insan çalışmasında daha iyi insülin duyarlılığı — ama lif yoksa ya da ortamda bir patojen varsa aynı iştah tabakayı inceltir."

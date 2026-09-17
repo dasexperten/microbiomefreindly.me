@@ -1,6 +1,6 @@
 ---
-title: "Streptococcus mutans: جرثومة التسوس لا تفوز إلا بالسكر"
-meta: "ما هي Streptococcus mutans، وأين تعيش، وكيف تحوّل السكر إلى لويحة وحمض، وماذا تفعل لك وضدك — كل رقم مع دراسة باسمها."
+title: "أسباب تسوس الأسنان: Streptococcus mutans والسكر"
+meta: "من أسباب تسوس الأسنان جرثومة Streptococcus mutans: أين تعيش، وكيف تحوّل السكر إلى لويحة وحمض، وماذا تفعل لك وضدك — كل رقم مع دراسة باسمها."
 kicker: "Streptococcus mutans"
 type: bacteria
 topic: oral
@@ -9,10 +9,10 @@ slug: streptococcus-mutans
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "اسباب تسوس الأسنان"
+  volume: 260
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus mutans بكتيريا تعشق السكر وتعيش في اللويحة على أسنانك. فإذا أُطعمت سكر المائدة (السكروز) صنعت غراءً لزجاً هو الجلوكان يثبّت اللويحة على السن، وحمض لاكتيك يذيب المينا: أفضل أسباب التسوس دراسةً. ويحملها معظم الناس منذ سن الحبو؛ ولا فائدة مثبتة منها لحاملها، وبعض سلالاتها قد تبلغ القلب والدماغ."

@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroidota, trước là Bacteroidetes, là ngành vi khuẩn Gram âm, kỵ khí, sống rất đông trong đại tràng bạn. Có chất xơ thực vật, chúng mở khóa thứ men của bạn không mở được; thiếu chất xơ, chúng ăn lớp chất nhầy — mới ở chuột. Thoát khỏi ruột, chúng có mặt trong hầu hết nhiễm trùng kỵ khí."

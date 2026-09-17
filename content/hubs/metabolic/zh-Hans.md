@@ -1,5 +1,5 @@
 ---
-title: "微生物与代谢：GLP-1、阿克曼菌、脂肪酸"
+title: "短链脂肪酸与代谢：GLP-1 和阿克曼菌"
 meta: "肠道细菌如何与代谢对话：短链脂肪酸、吃黏液的阿克曼菌，以及 GLP-1 这种激素。哪些是机制，哪些出自小鼠，哪些来自人。"
 kicker: "微生物与代谢"
 type: hubs
@@ -9,10 +9,11 @@ slug: metabolic
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "短鏈脂肪酸"
+  keywordSimplified: "短链脂肪酸"
+  volume: 590
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "肠道细菌把纤维发酵成短链脂肪酸——乙酸、丙酸、丁酸。它们喂养肠壁，并向那些释放 GLP-1 的细胞发信号；GLP-1 正是让胃排空变慢、告诉大脑你饱了的激素。靠黏液为生的 Akkermansia muciniphila（嗜黏蛋白阿克曼菌）加固屏障，让这场对话保持有序。它是一条通路，不是一种解药。"

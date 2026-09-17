@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Actinomycetota, dawniej Actinobacteria, to typ bakterii Gram-dodatnich o wysokiej zawartości GC (DNA bogate w dwie z czterech liter), żyjących w jelitach, ustach i na skórze. Stąd pochodzą bifidobakterie i większość naturalnych antybiotyków, ale też zarazki gruźlicy i błonicy oraz bakteria skóry powiązana z trądzikiem. To samo drzewo, przeciwne skutki: decydują gatunek, miejsce i człowiek, w którym żyją."

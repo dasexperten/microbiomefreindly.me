@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Faecalibacterium prausnitzii من أوفر البكتيريا في قولون سليم — أكثر من 5 % من بكتيريا الأمعاء — وهي تصنع البوتيرات، الوقود الرئيسي لبطانة القولون. وتنخفض في داء كرون، وهو مرض أمعاء التهابي. هذا الارتباط قوي، لكن الدليل على أن البكتيريا نفسها تجعل الإنسان أصح غير متوفر بعد."

@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Kinuha ng mga mananaliksik ang likidong bahagi ng dumi ng may irritable bowel syndrome at pinatak ito sa buhay na network ng nerbiyo ng bituka. Mas malakas na pumutok ang nerbiyo kaysa sa likido ng dumi ng malulusog. Ipinaliwanag ng mga enzyme na pumuputol ng protina ang epekto sa subtype na pagtatae. Guinea pig ang nerbiyong sinubukan, hindi tao."

@@ -9,10 +9,10 @@ slug: how-much-fibre-and-which-kind
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "ใยอาหาร"
+  volume: 590
   market: "Thailand (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "ใยอาหารที่หมักได้ ได้แก่ ฟรุกแทน กาแลกโต-โอลิโกแซ็กคาไรด์ และแป้งทนย่อย คือสิ่งที่แบคทีเรียในลำไส้ใหญ่ของคุณกิน ส่วนคุณย่อยมันเองไม่ได้ ใยอาหารที่เป็นเจลและที่หยาบทำงานอย่างอื่น ข้อมูลรวมจากงานที่ติดตามคนนานหลายปีชี้ว่าความเสี่ยงลดลงมากที่สุดที่ระหว่าง 25 g ถึง 29 g ต่อวัน และผลของการหมักจะคงที่ ให้ค่อย ๆ เพิ่มเป็นสัปดาห์"

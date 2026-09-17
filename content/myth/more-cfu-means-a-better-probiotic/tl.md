@@ -1,6 +1,6 @@
 ---
-title: "Mas maraming CFU, mas mabuti? Walang binago ang 100×"
-meta: "Mas malaking CFU — mas maraming buhay na bacteria bawat dosis — ang ibinebenta. Hindi sang-ayon ang pagsubok: nakatulong ang dinoble, walang nagawa ang 100×."
+title: "Mas maraming CFU sa probiotics, mas mabuti? Hindi"
+meta: "Mas malaking CFU sa probiotics — mas maraming buhay na bacteria kada dosis — ang ibinebenta. Hindi sang-ayon ang pagsubok: dinoble nakatulong, wala ang 100×."
 kicker: "Tsek ng mito"
 type: myth
 topic: gut
@@ -9,10 +9,10 @@ slug: more-cfu-means-a-better-probiotic
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "probiotics with cfu"
+  volume: 90
   market: "Philippines (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bahagyang totoo. Mahalaga ang dosis, pero sa loob lang ng isang strain at isang kalalabasan. Sa isang pagsubok, nanalo ang 100 bilyong CFU sa 50 bilyon para sa antibiotic-associated diarrhoea; sa isa pa, walang binago ang isandaang beses na dagdag ng parehong organismo sa mga batang may acute diarrhoea. Pahayag tungkol sa dami ang numero sa label, hindi sa ebidensiya."

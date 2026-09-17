@@ -9,10 +9,10 @@ slug: bifidobacterium
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "bifidobacterium"
+  volume: 880
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Ang Bifidobacterium ay genus ng bifurcated (hugis-tinidor) at anaerobic (umiiwas sa hangin) na bacteria na naghahari sa gut ng sanggol na pinapasuso dahil kumakain ito ng asukal ng gatas ng tao. Halos lahat ng species ay hindi nakakapinsala; ilan, hindi: ang B. dentium ay oportunistang cariogen, at may probiotic strain na nakarating sa dugo ng sanggol na napakaagang isinilang."

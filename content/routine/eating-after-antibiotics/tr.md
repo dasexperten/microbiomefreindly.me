@@ -1,6 +1,6 @@
 ---
-title: "Dokuz tür hâlâ eksik: antibiyotikten sonra ne yenir"
-meta: "Kürden 1,5 ay sonra bağırsağınız başlangıca yakın, ama dokuz tür 180. günde çoğu erkekte saptanamadı. Besin ve probiyotik denemeleri ne gösteriyor."
+title: "Bağırsak florası nasıl düzelir: dokuz tür hâlâ eksik"
+meta: "Bağırsak florası nasıl düzelir? Kürden 1,5 ay sonra başlangıca yakın, ama dokuz tür 180. günde saptanamadı. Besin ve probiyotik denemeleri ne gösteriyor."
 kicker: "Antibiyotikten sonra"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: eating-after-antibiotics
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "bağırsak florası nasıl düzelir"
+  volume: 2900
   market: "TR (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Lifli bitkiler, fermente gıdalar ve sabır. İncelenen 4 günlük antibiyotik karışımından yaklaşık 1,5 ay sonra topluluğun çoğu başlangıca yakındı (Nature Microbiology, 2018), ama yaygın dokuz tür 180. günde çoğu erkekte hâlâ saptanamıyordu. Probiyotikler antibiyotiğe bağlı ishali azaltıyor; ama bağırsak astarını inceleyen tek çalışma, onların yeniden kurulmayı geciktirdiğini buldu."

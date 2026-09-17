@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacillota, eskiden Firmicutes denen bakteri şubesidir; adı, şube adlarının resmen standartlaştırıldığı 2021'de değişti. İnsan kalın bağırsağındaki iki baskın gruptan biridir ve hem bağırsak mukozasını besleyen bütirat üreticilerini hem de Clostridioides difficile gibi patojenleri barındırır; ne var ki popüler «Firmicutes/Bacteroidetes oranı» güvenilir bir obezite göstergesi değildir."

@@ -1,5 +1,5 @@
 ---
-title: "Bacteroidota : privée de fibres, elle mange votre muqueuse"
+title: "Bacteroidota, ex-Bacteroidetes : elle mange votre muqueuse"
 meta: "Bacteroidota, ex-Bacteroidetes : ce que ce grand groupe bactérien digère pour vous, quand il devient dangereux, et ce qu'ont trouvé les études citées."
 kicker: "Bacteroidota"
 type: bacteria
@@ -9,10 +9,10 @@ slug: bacteroidota
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "bacteroidetes"
+  volume: 170
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroidota, autrefois Bacteroidetes, est un embranchement de bactéries à Gram négatif, fuyant l'oxygène, très nombreuses dans votre côlon. Nourries de fibres, elles ouvrent ce que vos enzymes ne peuvent pas et aident à former l'immunité ; privées de fibres, elles mangent votre mucus — chez la souris, à ce jour. Hors de l'intestin, on les retrouve dans la plupart des infections anaérobies."

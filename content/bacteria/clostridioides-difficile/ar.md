@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Clostridioides difficile بكتيريا معوية مكوِّنة للأبواغ، تبقى أبواغها الساكنة حية بعد المضادات الحيوية؛ وهي تسبب إسهالًا شديدًا حين تجرف المضادات الحيوية المجتمع الميكروبي الذي يكبحها. والحمل ليس مرضًا: في دراسات مستشفيات مجمّعة، أصيب الحاملون الصامتون — الجرثومة في البراز بلا أعراض — بإسهال C. difficile أقل من المرضى الذين لا يحملون شيئًا."

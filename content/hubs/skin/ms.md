@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Malaysia (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — measured, no honest phrase: best match (gut health skin) is 20/mo in MY"
 author: magnus-larsen
 voice: greger
 answer: "Paksi usus–kulit ialah hubungan dua hala antara mikrobiom usus dan kulit. Bakteria usus membentuk sel imun dan metabolit yang beredar ke kulit; mikrob kulit sendiri pula membalas nada imun itu. Ekzema, jerawat dan rosacea dikaitkan dengan perubahan usus — melalui keradangan, fungsi sawar dan pemakanan, bukan melalui bakteria yang mengembara ke muka."

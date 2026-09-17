@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Ang Bacillus coagulans ay lactic acid bacteria na nabubuhay bilang natutulog at nakabaluting spore: pasahero ito, hindi residente — tumutubo, gumagana, naaanod palabas. Heyndrickxia coagulans ang mas bagong wastong pangalan; luma pa rin ang gamit ng medisina. Ayon sa mga trial, bumababa ang Streptococcus mutans sa laway at bumabanayad ang IBS; pinapanis din nito ang maiinit na pagkain."

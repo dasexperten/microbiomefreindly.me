@@ -1,6 +1,6 @@
 ---
-title: "Ağız kokusu mideden mi? Yüz olgudan birinde"
-meta: "Bir nefes kliniği 491 hastayı ölçtü: ağız kokusunun %87'sini ağız, yalnızca %1'ini sindirim yolu açıkladı. Kükürt kokusu gerçekte nerede yapılıyor."
+title: "Mideden gelen ağız kokusu nasıl giderilir? Yüz olguda bir"
+meta: "Mideden gelen ağız kokusu nasıl giderilir? Bir nefes kliniği 491 hastayı ölçtü: %87'sini ağız, %1'ini sindirim yolu açıkladı. Koku gerçekte nerede yapılıyor."
 kicker: "Mit kontrolü"
 type: myth
 topic: oral
@@ -9,10 +9,10 @@ slug: bad-breath-comes-from-the-stomach
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "mideden gelen ağız kokusu nasıl giderilir"
+  volume: 210
   market: "TR (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Kısmen doğru, hem de çok az. Koku, uçucu kükürt bileşikleridir; onları dilin arkasındaki ve diş etlerinin altındaki anaerop bakteriler, yemek borusunun altında değil üstünde yapar. 491 hastalık bir nefes kliniğinde olguların %87'sini ağız, %1'ini sindirim yolu açıkladı. Mide kaynaklı ağız kokusu vardır; kuraldışıdır."

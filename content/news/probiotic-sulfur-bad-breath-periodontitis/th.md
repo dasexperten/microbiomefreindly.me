@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "TH (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Thailand (Ubersuggest locId 2764)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "กลิ่นปากคือแก๊ส แบคทีเรียที่ไม่ใช้ออกซิเจน คือจุลินทรีย์ในฝ้าบนลิ้นและในร่องเหงือก ดึงกำมะถันออกจากกรดอะมิโนด้วยเอนไซม์ที่ยีน mgl เข้ารหัสไว้ ในงานวิจัยปี 2026 ในวารสาร Journal of Oral Microbiology แบคทีเรียกรดแลกติกสองตัวลดการทำงานของยีนนั้นลงในจานเพาะเลี้ยง และลดฝ้าบนลิ้นในหนู แม้จะไม่มีการทดสอบในคนและไม่มีการวัดแก๊สเลยก็ตาม"

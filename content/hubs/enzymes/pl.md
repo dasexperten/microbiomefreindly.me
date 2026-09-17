@@ -1,6 +1,6 @@
 ---
-title: "Enzymy, które rozbijają biofilm i jedzenie: jak działają"
-meta: "Dekstranaza, papaina, bromelaina, lizozym, oksydaza glukozowa: co tnie każdy enzym, dlaczego biofilm rozpada się bez kleju i czego badania nie pokazały."
+title: "Enzymy trawienne i te, które rozbijają biofilm"
+meta: "Enzymy trawienne i te rozbijające biofilm: dekstranaza, papaina, bromelaina, lizozym. Co tnie każdy z nich i czego badania nie pokazały."
 kicker: "Enzymy"
 type: hubs
 topic: enzymes
@@ -9,10 +9,10 @@ slug: enzymes
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "enzymy trawienne"
+  volume: 6600
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Enzym to białko, które tnie jedno konkretne wiązanie. Dekstranaza tnie cukrowy klej płytki nazębnej; papaina i bromelaina tną białka; lizozym tnie ściany komórkowe bakterii; oksydaza glukozowa zmienia glukozę w łagodny antyseptyk. Żaden nie zabija szeroko. Działają przez usuwanie struktury — dlatego bada się je przeciw biofilmom, a nie jako antybiotyki."

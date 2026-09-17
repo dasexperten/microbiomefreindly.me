@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Porphyromonas gingivalis는 치아와 잇몸 사이 틈새에 사는, 당에는 관심이 없고 단백질을 먹는 혐기성 세균, 곧 산소 없이 사는 세균입니다. 건강한 사람도 많이 지니고 있으며, 둘레의 세균 균형이 기울 때만 해를 끼칩니다. 입증된 이점은 없습니다. 이 균의 단백질 분해 효소는 우리 몸의 방어를 무력화하고, 관절염과 알츠하이머병에서는 아직 입증된 원인이 아니라 용의자입니다."

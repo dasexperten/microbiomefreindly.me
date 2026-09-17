@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Porphyromonas gingivalis, diş ile diş eti arasındaki cepte yaşayan, şekere kör, protein yiyen bir anaeroptur (oksijensiz yaşar). Sağlıklı birçok insan onu taşır; ancak çevresindeki bakterilerin dengesi bozulunca zarar verir. Kanıtlanmış bir yararı yok. Proteazları (protein kesen enzimleri) vücudunuzun savunmasını devre dışı bırakır ve romatoid artrit ile Alzheimer'da kanıtlanmış bir neden değil, bir şüphelidir."

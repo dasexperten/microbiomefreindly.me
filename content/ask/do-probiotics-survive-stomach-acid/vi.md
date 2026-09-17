@@ -1,6 +1,6 @@
 ---
-title: "Lợi khuẩn sống qua axit dạ dày? Hỏi vậy là sai chỗ"
-meta: "Axit dạ dày đúng là giết phần lớn vi khuẩn nuốt vào, bào tử và lớp bọc làm thay đổi tỷ lệ — nhưng lợi khuẩn qua được chặng đó vẫn có thể chẳng bao giờ trụ lại."
+title: "Men vi sinh uống trước hay sau ăn, và axit dạ dày"
+meta: "Men vi sinh uống trước hay sau ăn? Thức ăn làm đệm cho axit dạ dày — nhưng lợi khuẩn qua được chặng đó vẫn có thể chẳng bao giờ trụ lại."
 kicker: "Magnus trả lời"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: do-probiotics-survive-stomach-acid
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "men vi sinh uống trước hay sau ăn"
+  volume: 720
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Một số thì có. Bào tử sống sót nhờ cấu tạo; chủng mỏng manh thì phần lớn không. Nhưng sống sót là vạch đích sai: nghiên cứu soi niêm mạc ruột người thấy chủng nuốt vào vẫn sống, trụ lại ở người này mà không ở người kia. Đi qua không phải là ở lại."

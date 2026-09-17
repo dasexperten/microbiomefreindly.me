@@ -1,6 +1,6 @@
 ---
-title: "Colonul iritabil nu e în cap: enzimele împung nervii"
-meta: "Lichidul din scaunul pacienților cu colon iritabil a făcut rețelele nervoase ale intestinului să descarce mult mai tare, arată un studiu din 2026 în Gut."
+title: "Colon iritabil, cauze: enzimele din scaun împung nervii"
+meta: "Colon iritabil, cauze măsurate: lichidul din scaunul pacienților a făcut rețelele nervoase ale intestinului să descarce mult mai tare — studiu 2026, Gut."
 kicker: "Colon iritabil"
 type: news
 topic: gut
@@ -9,10 +9,10 @@ slug: stool-proteases-irritable-bowel-nerves
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "colon iritabil cauze"
+  volume: 90
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Cercetătorii au luat partea lichidă din scaunul unor oameni cu sindrom de colon iritabil și au picurat-o pe rețele nervoase vii din intestin. Nervii au descărcat mult mai tare decât cu lichid de la oameni sănătoși. Enzimele care taie proteine au explicat efectul la subtipul cu diaree. Nervii testați erau de cobai, nu de om."

@@ -9,10 +9,10 @@ slug: bifidobacterium
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "bifidobacterium"
+  volume: 1900
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bifidobacterium, anne sütü şekerleriyle beslenerek emzirilen bebeğin bağırsağına egemen olan, çatallı (iki uçlu), anaerop (havadan kaçınan) bakterilerin cinsidir. Türlerin çoğu zararsızdır ve bu şekerleri iki hafif asit olan asetat ile laktata fermente eder; birkaçı değildir: B. dentium diş çürüğünden izole edilmiş fırsatçı bir çürük yapıcıdır ve probiyotik suşlar kimi zaman çok erken doğan bebeklerin kanına ulaşmıştır."

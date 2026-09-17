@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Pseudomonadota, do niedawna nazywane Proteobacteria, to ogromny typ bakterii Gram-ujemnych (cienka ściana komórkowa, dodatkowa błona zewnętrzna). Należą tu E. coli, Salmonella, Pseudomonas aeruginosa, Neisseria i wiążące azot ryzobia w korzeniach fasoli i grochu. Zdrowi ludzie też je noszą, jako niewielką część mikrobioty jelitowej; wraz z chorobą rośnie poziom, a nie sama obecność."

@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "RO (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Unele, da. Cele care fac spori rezistă prin construcție; tulpinile fragile, mai ales nu, deși un înveliș și o masă le cresc șansele. Supraviețuirea e linia de sosire greșită: singurul studiu pe mucoasa intestinală umană a găsit tulpinile viabile după drum, dar așezate la unii oameni și la alții nu. A trece nu înseamnă a rămâne."

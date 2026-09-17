@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "VN (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroides fragilis gắn vào màng mình một chất béo, alpha-galactosylceramide. Công trình mới trên Cell cho thấy nó bịt kín màng khỏi rò proton, nên loài kỵ khí này sống qua được giai đoạn có oxy của ruột trẻ sơ sinh; cùng phân tử ấy hiệu chỉnh tế bào T sát thủ tự nhiên. Chỉ chuột, chưa có trẻ em."

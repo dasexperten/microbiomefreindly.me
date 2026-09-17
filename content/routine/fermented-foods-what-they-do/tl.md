@@ -1,6 +1,6 @@
 ---
 title: "Fermented foods: hindi ang kinakain mong microbes ang punto"
-meta: "Pinadaan ng Stanford ang 36 adulto sa 17 linggong pagsubok, kalahati sa anim na serving kada araw: tumaas ang diversity, bumaba ang 19 inflammatory protein."
+meta: "Fermented foods sa pagsubok ng Stanford: 36 adulto, 17 linggo, anim na serving kada araw — tumaas ang diversity, bumaba ang 19 inflammatory protein."
 kicker: "Fermented foods"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: fermented-foods-what-they-do
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "fermented foods"
+  volume: 3600
   market: "Philippines (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "May buhay na lactic acid bacteria ang kefir, yogurt, kimchi at sauerkraut, hanggang sandaang bilyong selula kada serving. Sa 17 linggong pagsubok ng Stanford (Cell, 2021), itinaas ng anim na serving kada araw ang diversity sa bituka at ibinaba ang 19 inflammatory na protina. Hindi tumitira ang nilulunok mong bacteria; ang nakatira ang gumagalaw. Walang laman ang pasteurisadong garapon."

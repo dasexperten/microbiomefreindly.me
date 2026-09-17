@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacillota là ngành vi khuẩn trước gọi là Firmicutes, đổi tên năm 2021 khi tên các ngành được chuẩn hóa. Là một trong hai nhóm chiếm ưu thế ở đại tràng người, nó chứa cả vi khuẩn sinh butyrat nuôi niêm mạc lẫn mầm bệnh như Clostridioides difficile. Còn “tỷ lệ Firmicutes trên Bacteroidetes” không phải dấu ấn béo phì."

@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "睡眠和肠道一起动，但证据在一个方向上更强。观察性研究把糟糕、不规律的睡眠与更低的微生物多样性联系起来。仅有的两项人体睡眠限制对照实验彼此矛盾：一项发现两个短夜轻微改变了各菌群所占的比例，另一项什么变化也没发现。有证据可依的动作，是纤维和一个固定的起床时间。"

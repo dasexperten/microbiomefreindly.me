@@ -1,6 +1,6 @@
 ---
-title: "Hệ vi sinh khoang miệng: mảng bám, sâu răng và lợi"
-meta: "Mảng bám là màng sinh học, không phải bụi bẩn. Hệ vi sinh miệng là gì, vì sao thành sâu răng và viêm lợi, ba câu hỏi ai cũng hỏi, và bằng chứng dừng ở đâu."
+title: "Mảng bám răng từ đâu ra: sâu răng, lợi và vi khuẩn"
+meta: "Mảng bám răng là màng sinh học, không phải bụi bẩn. Hệ vi sinh miệng là gì, vì sao thành sâu răng và viêm lợi, ba câu hỏi ai cũng hỏi, và bằng chứng dừng ở đâu."
 kicker: "Hệ vi sinh khoang miệng"
 type: hubs
 topic: oral
@@ -9,10 +9,10 @@ slug: oral
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "mảng bám răng"
+  volume: 210
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Hệ vi sinh miệng là cộng đồng vi khuẩn trên răng, lợi, lưỡi và má. Trên răng, chúng dựng mảng bám: một màng sinh học gắn kết bằng lớp đường chúng tự làm ra. Cân bằng thì nó che chở; đường đến liên tục hoặc ít làm sạch thì loài sinh axit chiếm chỗ, men răng tan và lợi viêm."

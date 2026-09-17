@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Porque vocês não fizeram o mesmo experimento. O efeito depende da cepa exata, da dose, de quanto tempo você toma e talvez da comunidade com que você começou. Um ensaio de 2026 com 120 adultos com sobrepeso não atingiu o desfecho principal e só viu diferença de peso numa análise posterior, na metade com menos espécies no intestino."

@@ -1,5 +1,5 @@
 ---
-title: "E. coli: residente ng gut mo, hindi lang food poisoning"
+title: "Escherichia coli: residente ng gut, hindi food poisoning"
 meta: "Nakatira ang Escherichia coli sa gut ng mahigit 90 % ng tao. Ano ang gawa nito para sa atin, ano ang laban sa atin, at saan huminto ang tapat na ebidensiya."
 kicker: "Escherichia coli"
 type: bacteria
@@ -9,10 +9,10 @@ slug: escherichia-coli
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "escherichia coli"
+  volume: 27100
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Nakatira nang walang pinsala ang Escherichia coli sa gut ng mahigit 90 % ng tao bilang pangunahing residenteng kayang magtiis ng oxygen, at gumagawa ito ng vitamin K2. Pero may dalang toxin o invasion gene ang iilang strain: food poisoning, impeksiyon sa pantog, sepsis. Ang E. coli ang nangungunang sanhi ng kamatayang kaugnay ng antibiotic resistance."

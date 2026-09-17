@@ -1,6 +1,6 @@
 ---
-title: "口臭は胃から？100人に1人です"
-meta: "口臭外来が患者491人を調べました。口が口臭の87 %を説明し、消化管はわずか1 %。あの硫黄のにおいが本当に作られている場所の話です。"
+title: "口臭の原因は胃？100人に1人です"
+meta: "口臭の原因はどこにあるのか。口臭外来が患者491人を調べました。口が口臭の87 %を説明し、消化管はわずか1 %。あの硫黄のにおいが本当に作られている場所の話です。"
 kicker: "俗説チェック"
 type: myth
 topic: oral
@@ -9,10 +9,10 @@ slug: bad-breath-comes-from-the-stomach
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "口臭 の原因"
+  volume: 27100
   market: "Japan (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "部分的に本当で、その部分はごくわずかです。においの正体は揮発性硫黄化合物で、舌の奥と歯ぐきの下の嫌気性菌が作ります。食道の上であって、下ではありません。患者491人の口臭外来では、口が症例の87 %、消化管が1 %を説明しました。胃から来る口臭はあります。それは例外です。"

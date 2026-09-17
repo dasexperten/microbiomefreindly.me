@@ -9,10 +9,10 @@ slug: lactobacillus
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "lactobacillus"
+  volume: 1900
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Lactobacillus este un gen de bacterii care produc acid lactic și trăiesc în alimente fermentate, în gură, în vagin și, în număr mic, în intestin. Studiile arată că ajută la prevenirea diareei de antibiotice; un studiu mare nu a găsit niciun beneficiu în gastroenterită. În 2020, datele genomice au împărțit vechiul gen în 25 de genuri."

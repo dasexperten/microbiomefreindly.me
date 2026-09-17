@@ -1,6 +1,6 @@
 ---
-title: "Micróbios e imunidade: a tolerância se aprende, não nasce"
-meta: "Boa parte da sua defesa mora ao lado dos micróbios. Como as bactérias moldam macrófagos, tolerância e inflamação, o que perguntam e o que segue sem prova."
+title: "Microbiota e imunidade: a tolerância se aprende, não nasce"
+meta: "Microbiota e imunidade: como as bactérias moldam macrófagos, tolerância e inflamação, o que as pessoas perguntam e o que segue sem prova."
 kicker: "Micróbios e imunidade"
 type: hubs
 topic: immunity
@@ -9,10 +9,10 @@ slug: immunity
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "microbiota e imunidade"
+  volume: 20
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "O sistema imune não foi feito para eliminar micróbios; foi feito para conviver com eles. As bactérias da mucosa intestinal ensinam as células de defesa — macrófagos, células T reguladoras — quais sinais querem dizer perigo e quais querem dizer vizinho. Esse aprendizado, a tolerância, começa no parto. Quando falha, o resultado é inflamação crônica, e não infecção."

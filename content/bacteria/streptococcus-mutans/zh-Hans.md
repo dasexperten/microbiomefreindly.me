@@ -1,6 +1,6 @@
 ---
-title: "变异链球菌：只有喂它，它才赢"
-meta: "变异链球菌是什么，住在哪里，怎样把糖变成牙菌斑和酸，为你做什么又对你做什么——每一个数字都配着一项有名有姓的研究。"
+title: "蛀牙菌变异链球菌：只有喂它，它才赢"
+meta: "蛀牙菌（变异链球菌）是什么，住在哪里，怎样把糖变成牙菌斑和酸，为你做什么又对你做什么——每一个数字都配着一项有名有姓的研究。"
 kicker: "Streptococcus mutans"
 type: bacteria
 topic: oral
@@ -9,10 +9,11 @@ slug: streptococcus-mutans
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "蛀牙菌"
+  keywordSimplified: "蛀牙菌"
+  volume: 170
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "变异链球菌是牙菌斑里一种爱糖的细菌。喂它蔗糖，它就造出一种叫葡聚糖的黏胶，把牙菌斑锚在牙齿上，同时产出溶解牙釉质的乳酸：这是研究得最透的蛀牙原因。多数人从幼儿期就带着它；它没有给携带者带来任何已被证明的好处，而某些菌株还能到达心脏和大脑。"

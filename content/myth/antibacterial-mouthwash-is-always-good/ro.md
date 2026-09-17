@@ -1,6 +1,6 @@
 ---
-title: "Apa de gură omoară microbii de care depinde tensiunea"
-meta: "Mai puține bacterii în gură e mereu mai bine? Un studiu din 2013 spune nu: șapte zile de clătire antiseptică au tăiat nitritul cu 90 % și au urcat tensiunea."
+title: "Apa de gură antiseptică omoară microbii care scad tensiunea"
+meta: "Apa de gură antiseptică e mereu bună? Un studiu din 2013 spune nu: șapte zile de clătire au tăiat nitritul cu 90 % și au urcat tensiunea."
 kicker: "Verificăm mitul"
 type: myth
 topic: oral
@@ -9,10 +9,10 @@ slug: antibacterial-mouthwash-is-always-good
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "apa de gura antiseptica"
+  volume: 320
   market: "RO (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Fals. O clătire antiseptică nu poate alege între microbii dăunători și cei folositori, așa că aplatizează comunitatea gurii tale. Într-un studiu din 2013, șapte zile de clătire cu clorhexidină au tăiat cu 90 % nitritul din gură, cel care relaxează vasele de sânge, și au urcat tensiunea cu 2–3,5 mmHg. Clătirea tratează o problemă, nu e o rutină."

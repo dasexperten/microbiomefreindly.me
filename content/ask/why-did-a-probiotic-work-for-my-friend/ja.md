@@ -1,6 +1,6 @@
 ---
-title: "友人には効いて、自分には効かない理由"
-meta: "あなたと友人のあいだで違うものは三つ。菌株（菌種ではなく、名前のついた正確な系統）、量と期間、そして出発点になった腸です。"
+title: "プロバイオティクスの効果が人で違う理由"
+meta: "プロバイオティクスの効果はなぜ人で違うのか。あなたと友人のあいだで違うものは三つ。菌株（菌種ではなく、名前のついた正確な系統）、量と期間、そして出発点になった腸です。"
 kicker: "マグナスが答えます"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: why-did-a-probiotic-work-for-my-friend
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "プロバイオティクス 効果"
+  volume: 480
   market: "Japan (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "同じ実験をしていないからです。効果は正確な菌株、量、飲む期間、そしておそらくは出発点の群れに左右されます。過体重の大人120人を対象にした2026年の試験は主要評価項目を外し、体重の差が見えたのは、腸の菌種がいちばん少なかった半分をあとから見たときだけでした。"

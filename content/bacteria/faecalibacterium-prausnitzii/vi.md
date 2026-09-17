@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Faecalibacterium prausnitzii là một trong những vi khuẩn đông nhất ở đại tràng khỏe mạnh — hơn 5 % — và nó tạo butyrat, nhiên liệu chính của niêm mạc đại tràng. Nó giảm trong bệnh Crohn, một bệnh viêm ruột. Liên quan thì mạnh, nhưng bằng chứng rằng chính nó làm người ta khỏe hơn thì chưa có."

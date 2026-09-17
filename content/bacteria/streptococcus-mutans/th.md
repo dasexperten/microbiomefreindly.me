@@ -1,6 +1,6 @@
 ---
-title: "Streptococcus mutans: เชื้อฟันผุที่ชนะก็ต่อเมื่อได้กิน"
-meta: "Streptococcus mutans คืออะไร อยู่ที่ไหน เปลี่ยนน้ำตาลเป็นคราบพลัคและกรดอย่างไร ทำอะไรให้คุณและทำอะไรกับคุณ — ทุกตัวเลขมีงานวิจัยที่ระบุชื่อ"
+title: "ฟันผุเกิดจาก Streptococcus mutans ที่ได้กินน้ำตาล"
+meta: "ฟันผุเริ่มต้นอย่างไร: Streptococcus mutans เปลี่ยนน้ำตาลเป็นกรดที่ละลายเคลือบฟัน มันอยู่ที่ไหน ทำอะไรกับคุณ — ทุกตัวเลขมีงานวิจัยที่ระบุชื่อ"
 kicker: "Streptococcus mutans"
 type: bacteria
 topic: oral
@@ -9,10 +9,10 @@ slug: streptococcus-mutans
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "TH (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "ฟันผุ"
+  volume: 22200
+  market: "Thailand (Ubersuggest locId 2764)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus mutans เป็นแบคทีเรียที่รักน้ำตาล อยู่ในคราบพลัคบนฟันของคุณ เมื่อได้กินน้ำตาลทราย (ซูโครส) มันจะสร้างกาวเหนียวชื่อกลูแคนที่ยึดคราบพลัคไว้กับฟัน และสร้างกรดแลกติกที่ละลายเคลือบฟัน นี่คือสาเหตุของฟันผุที่ถูกศึกษาไว้ดีที่สุด คนส่วนใหญ่มีมันอยู่ในตัวตั้งแต่วัยเตาะแตะ มันไม่ได้ให้ประโยชน์ที่พิสูจน์แล้วแก่ผู้ที่มีมันอยู่ และบางสายพันธุ์ก็ไปถึงหัวใจและสมองได้"

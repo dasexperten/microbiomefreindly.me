@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "TH (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Thailand (Ubersuggest locId 2764)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroidota หรือเดิมคือ Bacteroidetes เป็นไฟลัมของแบคทีเรียแกรมลบที่หลบออกซิเจน อาศัยอยู่ในลำไส้ใหญ่ของคุณด้วยจำนวนมหาศาล ถ้าได้ใยอาหารจากพืช พวกมันจะปลดล็อกสิ่งที่เอนไซม์ของคุณทำไม่ได้ และช่วยฝึกระบบภูมิคุ้มกัน ถ้าอดใยอาหาร พวกมันจะกินชั้นเมือกของคุณ — ในหนู เท่าที่รู้ตอนนี้ ข้อแม้: เมื่อหลุดออกจากลำไส้ พวกมันถูกพบในการติดเชื้อชนิดไม่ใช้ออกซิเจนเกือบทุกราย"

@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Частково правда. Доза важить, але тільки в межах одного штаму й одного наслідку. В одному дослідженні 100 мільярдів КУО (колонієутворювальних одиниць) перемогли 50 мільярдів при діареї від антибіотиків; в іншому стократна доза того самого мікроба не змінила нічого в дітей із гострою діареєю. Число на етикетці — заява про кількість, а не про докази."

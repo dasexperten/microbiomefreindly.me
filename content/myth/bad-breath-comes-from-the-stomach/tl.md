@@ -1,6 +1,6 @@
 ---
-title: "Mabahong hininga mula sa tiyan? Isa sa sandaan"
-meta: "Sinukat ng isang breath clinic ang 491 pasyente: 87 % ng mabahong hininga ay ipinaliwanag ng bibig, 1 % lang ng panunaw. Saan talaga gawa ang amoy."
+title: "Mabahong hininga galing sa bituka? Isa sa sandaan"
+meta: "Mabahong hininga galing sa bituka? Sinukat ng breath clinic ang 491 pasyente: 87 % ipinaliwanag ng bibig, 1 % lang ng panunaw. Saan gawa ang amoy."
 kicker: "Tsek ng mito"
 type: myth
 topic: oral
@@ -9,10 +9,10 @@ slug: bad-breath-comes-from-the-stomach
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "mabahong hininga galing sa bituka"
+  volume: 390
   market: "Philippines (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bahagyang totoo lang. Ang amoy ay volatile sulfur compounds, gawa ng anaerobic na bacteria sa likod ng dila at sa gilagid, sa ibabaw ng lalaugan, hindi sa ilalim. Sa breath clinic na may 491 pasyente, 87 % ng kaso ang ipinaliwanag ng bibig at 1 % ng sistema ng panunaw. May mabahong hiningang galing sa tiyan; eksepsiyon ito."

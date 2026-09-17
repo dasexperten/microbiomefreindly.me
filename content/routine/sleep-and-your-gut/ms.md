@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Malaysia (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — measured, no honest phrase: best match (gut health and sleep quality) is 10/mo"
 author: magnus-larsen
 voice: greger
 answer: "Tidur dan usus bergerak bersama, tetapi buktinya lebih kuat pada satu arah. Kerja pemerhatian mengaitkan tidur yang teruk dan tidak teratur dengan kepelbagaian mikrob yang lebih rendah. Dua eksperimen sekatan tidur terkawal bercanggah: satu mendapati dua malam pendek mengalihkan bahagian setiap kumpulan; satu lagi tiada perubahan. Serat dan waktu bangun yang tetap ada buktinya."

@@ -1,6 +1,6 @@
 ---
-title: "Có, nhưng không hết: ruột của bạn sau kháng sinh"
-meta: "Mười hai người khỏe mạnh, ba kháng sinh cuối tay, sáu tháng lấy mẫu: quần thể trở lại gần mức nền sau 1,5 tháng. Chín loài thì không trở lại."
+title: "Uống kháng sinh nhiều bị gì: ruột bạn có trở lại không"
+meta: "Uống kháng sinh nhiều bị gì? Mười hai người, sáu tháng lấy mẫu: quần thể trở lại gần mức nền sau 1,5 tháng. Chín loài thì không trở lại."
 kicker: "Magnus trả lời"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: can-i-rebuild-my-gut-after-antibiotics
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "uống kháng sinh nhiều bị gì"
+  volume: 320
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Phần lớn là có. Ở 12 nam giới khỏe mạnh dùng ba kháng sinh trong bốn ngày (Nature Microbiology, 2018), quần thể ruột trở lại gần mức nền sau khoảng 1,5 tháng, nhưng chín loài ai cũng có trước đó vẫn không phát hiện được ở phần lớn vào ngày 180. Phục hồi là thật nhưng không trọn vẹn."

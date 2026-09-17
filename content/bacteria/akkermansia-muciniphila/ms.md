@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17 — measured as a seed, no search volume in MY"
 author: magnus-larsen
 voice: greger
 answer: "Akkermansia muciniphila ialah bakteria usus yang hidup dalam lapisan lendir dan memakan musin, protein yang dirembeskan oleh usus anda sendiri. Meragut lapisan itu mencetuskan pembaharuan: sawar usus yang lebih rapat pada tikus, sensitiviti insulin yang lebih baik dalam satu ujian manusia kecil. Tanpa serat, atau apabila ada patogen, selera yang sama menipiskan lapisan itu."

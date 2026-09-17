@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Faecalibacterium prausnitzii to jedna z najliczniejszych bakterii zdrowego jelita grubego — ponad 5 % bakterii jelitowych — i wytwarza maślan, główne paliwo wyściółki jelita grubego. Jej udział spada w chorobie Leśniowskiego-Crohna, zapalnej chorobie jelit. Ten związek jest silny, ale dowodu, że sama bakteria czyni człowieka zdrowszym, wciąż nie ma."

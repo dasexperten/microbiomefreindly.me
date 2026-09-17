@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Pseudomonadota, appelée jusqu'à récemment Proteobacteria, est un vaste embranchement de bactéries à Gram négatif (paroi fine, membrane externe). On y trouve E. coli, Salmonella, Pseudomonas aeruginosa, Neisseria et les rhizobiums qui fixent l'azote dans les racines de haricots. Les gens sains en portent aussi, en petite part ; ce qui monte avec la maladie, c'est le niveau, pas la présence."

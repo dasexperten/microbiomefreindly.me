@@ -1,6 +1,6 @@
 ---
-title: "Fermente gıdalar: mesele yediğiniz mikroplar değil"
-meta: "Stanford 36 yetişkini 17 haftalık bir denemeden geçirdi, yarısı günde altı porsiyon: çeşitlilik arttı, 19 iltihap proteini düştü — mikroplardan değil."
+title: "Fermente gıdalar nedir: mesele yediğiniz mikroplar değil"
+meta: "Fermente gıdalar nedir, ne yapar: Stanford 36 yetişkini 17 hafta izledi, yarısı günde altı porsiyon — çeşitlilik arttı, 19 iltihap proteini düştü."
 kicker: "Fermente gıdalar"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: fermented-foods-what-they-do
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "fermente gıdalar nedir"
+  volume: 720
   market: "TR (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Kefir, yoğurt, kimçi ve lahana turşusu canlı laktik asit bakterisi taşır; porsiyon başına yüz milyar hücreye kadar. Stanford'ın 17 haftalık denemesinde (Cell, 2021) günde altı porsiyon, bağırsak mikrop çeşitliliğini yükseltti ve 19 iltihap kan proteinini düşürdü. Yuttuğunuz bakteriler çoğunlukla yerleşmez; onun yerine kendi yerleşik topluluğunuz kayar. Pastörize kavanozlarda hiç yoktur."

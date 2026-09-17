@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "TH (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Thailand (Ubersuggest locId 2764)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacillota คือไฟลัมแบคทีเรียที่เดิมเรียกว่า Firmicutes เปลี่ยนชื่อในปี 2021 ตอนที่ชื่อไฟลัมถูกจัดให้เป็นมาตรฐานอย่างเป็นทางการ มันเป็นหนึ่งในสองกลุ่มที่ครองลำไส้ใหญ่ของคน และมีทั้งตัวผลิตบิวทิเรตที่เลี้ยงเยื่อบุลำไส้ และเชื้อก่อโรคอย่าง Clostridioides difficile ส่วน “สัดส่วน Firmicutes ต่อ Bacteroidetes” ที่โด่งดังนั้น ไม่ใช่ตัวชี้วัดโรคอ้วนที่เชื่อถือได้"

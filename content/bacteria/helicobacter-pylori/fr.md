@@ -1,6 +1,6 @@
 ---
-title: "Helicobacter pylori : cancérogène, mais moins d'asthme"
-meta: "La moitié du monde l'héberge. Elle cause ulcères et cancer gastrique, mais va avec moins d'asthme et de cancer œsophagien. Dégât prouvé, bénéfice non prouvé."
+title: "Helicobacter pylori, est-ce grave ? Cancérogène, oui"
+meta: "Helicobacter pylori, est-ce grave ? La moitié du monde l'héberge : ulcères et cancer gastrique prouvés, moins d'asthme et de cancer œsophagien, non prouvé."
 kicker: "Helicobacter pylori"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: helicobacter-pylori
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "helicobacter pylori est ce grave"
+  volume: 2400
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Helicobacter pylori est une bactérie en spirale qui colonise la paroi de l'estomac, en général à vie. C'est la première cause infectieuse de cancer dans le monde et la principale cause bactérienne d'ulcères. Pourtant, là où elle est fréquente, l'adénocarcinome de l'œsophage et l'asthme de l'enfant sont plus rares. Le dégât est une cause prouvée ; le bénéfice n'est qu'un motif."

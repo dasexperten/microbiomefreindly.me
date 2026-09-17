@@ -1,5 +1,5 @@
 ---
-title: "Purtarea C. difficile poate scădea riscul de C. difficile"
+title: "Clostridium difficile: purtarea tăcută poate scădea riscul"
 meta: "Clostridioides difficile, fost Clostridium difficile: ce este, unde trăiește, de ce face rău — și de ce purtarea tăcută merge cu mai puțină diaree."
 kicker: "Clostridioides difficile"
 type: bacteria
@@ -9,10 +9,10 @@ slug: clostridioides-difficile
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "clostridium difficile"
+  volume: 1900
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Clostridioides difficile este o bacterie intestinală formatoare de spori, ai cărei spori adormiți supraviețuiesc antibioticelor; provoacă diaree severă odată ce antibioticele înlătură comunitatea microbiană care o ține în frâu. A o purta nu înseamnă a fi bolnav: în studii de spital adunate laolaltă, purtătorii tăcuți au făcut diaree cu C. difficile mai rar decât pacienții care nu purtau nimic."

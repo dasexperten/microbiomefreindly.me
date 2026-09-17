@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "FR (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "La vitamine A ne rejoint pas seule vos cellules immunitaires. Chez la souris, les bactéries intestinales poussent la muqueuse à fabriquer des protéines porteuses (sérum-amyloïde A) qui remettent le rétinol à des cellules myéloïdes. Celles-ci gagnent les ganglions qui drainent l'intestin et le passent aux lymphocytes T. Le relais prend environ trois jours, chez la souris seulement."

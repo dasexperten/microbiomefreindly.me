@@ -1,6 +1,6 @@
 ---
-title: "Ubat kumur membunuh mikrob yang tekanan darah perlukan"
-meta: "Lebih banyak bakteria mulut dibunuh, lebih baik? Kajian 2013 kata tidak: tujuh hari kumuran antiseptik memotong nitrit mulut 90 % dan menaikkan tekanan darah."
+title: "Ubat kumur antiseptik membunuh mikrob yang anda perlu"
+meta: "Ubat kumur antiseptik yang luas membunuh yang berguna juga: kajian 2013 dapati tujuh hari kumuran memotong nitrit mulut 90 % dan menaikkan tekanan darah."
 kicker: "Semak mitos"
 type: myth
 topic: oral
@@ -9,10 +9,10 @@ slug: antibacterial-mouthwash-is-always-good
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "ubat kumur antiseptik"
+  volume: 170
   market: "Malaysia (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Palsu. Kumuran antiseptik yang luas tidak dapat mengasingkan mikrob berbahaya daripada yang berguna, jadi ia meratakan komuniti mulut anda sendiri. Dalam satu kajian 2013, tujuh hari berkumur klorheksidin memotong nitrit mulut — yang digunakan badan untuk melonggarkan salur darah — sebanyak 90 % dan menaikkan tekanan darah 2–3.5 mmHg. Kumuran merawat masalah, bukan rutin."

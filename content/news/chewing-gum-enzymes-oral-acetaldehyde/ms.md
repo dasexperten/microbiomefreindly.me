@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Mikrob yang dikultur daripada air liur pesakit kanser kepala dan leher menukar gula (glukosa) dan alkohol (etanol) menjadi asetaldehid, karsinogen Kumpulan 1, kategori tertinggi, setaraf merokok tembakau. Keluarannya memuncak pada 100 mM gula. Satu peptida antimikrob dengan gam kacang menghentikannya, tetapi mikrob yang berlindung dalam biofilem terus hidup sehingga enzim melarutkan cengkerang plak. Piring makmal sahaja: tiada ujian manusia."

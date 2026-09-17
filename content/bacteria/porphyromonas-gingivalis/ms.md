@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Porphyromonas gingivalis ialah anaerob (hidup tanpa oksigen) buta gula dan pemakan protein dalam poket antara gigi dan gusi. Ramai orang sihat membawanya; ia memudaratkan hanya apabila bakteria di sekelilingnya hilang keseimbangan. Tiada manfaat yang terbukti. Proteasenya (enzim pemotong protein) melumpuhkan pertahanan tubuh anda, dan ia suspek, belum punca terbukti, dalam artritis dan Alzheimer."

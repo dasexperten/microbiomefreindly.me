@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Ang Verrucomicrobiota (dating Verrucomicrobia) ay phylum ng bacteria na ang pinakakilalang kasapi, ang Akkermansia muciniphila, ay nakatira sa mucus layer ng colon mo at kinakain ito. Sa katamtaman, pinapakain ng paglilipat na iyon ang gut lining at sumasabay ito sa mas mabuting metabolic marker. Sa sobra, o sa diyetang kulang sa fiber, pinapanipis ng parehong gana ang harang."

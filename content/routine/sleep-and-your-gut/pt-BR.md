@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Sono e intestino andam juntos, mas a evidência é mais forte num sentido. Estudos observacionais ligam sono ruim e irregular a menos diversidade. Os dois experimentos controlados de privação de sono discordam: num deles, duas noites curtas mexeram na fatia de cada grupo; no outro, nada mudou. Fibra e hora fixa de acordar são os passos com evidência."

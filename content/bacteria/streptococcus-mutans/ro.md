@@ -9,10 +9,10 @@ slug: streptococcus-mutans
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "streptococcus mutans"
+  volume: 170
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus mutans este o bacterie iubitoare de zahăr din placa de pe dinții tăi. Hrănită cu zahăr de masă (zaharoză), face un clei lipicios, glucanul, care ancorează placa de dinte, și acid lactic, care dizolvă smalțul: cauza cea mai bine studiată a cariilor. O poartă mai toți, din copilărie; purtătorul nu are niciun beneficiu dovedit."

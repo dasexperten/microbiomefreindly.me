@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "تقترح دراسة عام 2026 في Gut أن التهاب كوفيد طويل الأمد يبدأ في الأمعاء: فالفلاجيلين، البروتين الذي تبني منه البكتيريا ذيول سباحتها، يتسرّب ويشدّ TLR5 على العدلات، فتطلق IL-15 وتدفع البلاعم إلى حمض الأراكيدونيك حتى تلتهب أعضاء بعيدة. وظهر النمط نفسه في أربعة أمراض؛ أما اختبار السببية فكان في الفئران وحدها. ولا شيء هنا علاج."

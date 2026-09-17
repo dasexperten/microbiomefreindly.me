@@ -1,6 +1,6 @@
 ---
-title: "腸は肌にどう語りかけ、どこまで届くか"
-meta: "腸内細菌とその代謝産物、免疫細胞はどうやって肌に届くのか。にきび、湿疹、酒さについてよく聞かれること、そしてまだ証明されていないこと。"
+title: "腸内環境と肌荒れ、どこまで届くか"
+meta: "腸内環境と肌荒れはつながるのか。腸内細菌とその代謝産物、免疫細胞はどうやって肌に届くのか。にきび、湿疹、酒さについてよく聞かれること、そしてまだ証明されていないこと。"
 kicker: "腸と皮膚"
 type: hubs
 topic: skin
@@ -9,10 +9,10 @@ slug: skin
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "腸内環境 肌荒れ"
+  volume: 390
   market: "Japan (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "腸と皮膚のつながりは双方向です。腸内細菌は、皮膚へめぐる免疫細胞と代謝産物を形づくり、皮膚の常在菌はその免疫の調子に応えます。湿疹、にきび、酒さは腸の変化と結びついていますが、それは炎症とバリアと食事を通してであって、細菌が顔まで旅をするからではありません。"

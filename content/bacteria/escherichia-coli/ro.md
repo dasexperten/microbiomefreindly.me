@@ -1,6 +1,6 @@
 ---
-title: "E. coli locuiește în intestinul tău, nu doar în mâncare"
-meta: "Escherichia coli trăiește în intestinul a peste 90 % dintre oameni. Ce face pentru noi, ce face împotriva noastră și unde se opresc cinstit dovezile."
+title: "Escherichia coli: ce este și unde trăiește de fapt"
+meta: "Escherichia coli: ce este, unde trăiește — în intestinul a peste 90 % dintre oameni — ce face pentru noi și ce face împotriva noastră, cu dovezile citate."
 kicker: "Escherichia coli"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: escherichia-coli
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "escherichia coli ce este"
+  volume: 140
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Escherichia coli trăiește nevinovat în intestinul a peste 90 % dintre oameni, ca principal locuitor tolerant la oxigen, și poate face vitamina K2. Dar unele tulpini ale aceleiași specii poartă gene de toxină sau de invazie și dau toxiinfecții alimentare, infecții urinare și sepsis; E. coli e cauza numărul unu a deceselor legate de rezistența la antibiotice."

@@ -9,10 +9,11 @@ slug: escherichia-coli
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "大腸桿菌"
+  keywordSimplified: "大肠杆菌"
+  volume: 4400
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "大肠杆菌无害地住在超过 90% 的人的肠道里，是那里最主要的耐氧住户，还能制造维生素 K2。但同一物种中有少数菌株带着毒素或侵袭基因，引起食物中毒、膀胱感染和败血症，而大肠杆菌是与抗生素耐药相关死亡中排名第一的病原体。"

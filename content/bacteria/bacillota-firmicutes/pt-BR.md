@@ -9,10 +9,10 @@ slug: bacillota-firmicutes
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "Brasil (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "firmicutes"
+  volume: 1600
+  market: "BR (Ubersuggest locId 2076)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bacillota é o filo bacteriano antes chamado de Firmicutes, rebatizado em 2021, quando os nomes de filo foram padronizados. Um dos dois grupos dominantes do cólon humano, reúne tanto os produtores de butirato que alimentam a mucosa intestinal quanto patógenos como o Clostridioides difficile; já a famosa “razão Firmicutes/Bacteroidetes” não é um marcador confiável de obesidade."

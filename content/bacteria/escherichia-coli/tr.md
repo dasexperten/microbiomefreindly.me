@@ -1,6 +1,6 @@
 ---
-title: "E. coli bağırsak sakininiz, sadece zehirlenme mikrobu değil"
-meta: "Escherichia coli insanların %90'ından fazlasının bağırsağında yaşar. Bizim için ne yapar, bize karşı ne yapar ve dürüst kanıt nerede biter?"
+title: "E. coli nedir: sadece zehirlenme mikrobu değil"
+meta: "E. coli nedir? Escherichia coli insanların %90'ından fazlasının bağırsağında yaşar. Bizim için ne yapar, bize karşı ne yapar ve dürüst kanıt nerede biter?"
 kicker: "Escherichia coli"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: escherichia-coli
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "e coli nedir"
+  volume: 2900
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Escherichia coli, insanların %90'ından fazlasının bağırsağında, oksijene dayanıklı başlıca sakin olarak zararsızca yaşar ve K2 vitamini üretebilir. Ama aynı türün azınlıktaki bazı suşları toksin ya da istila genleri taşır; gıda zehirlenmesine, mesane enfeksiyonuna ve sepsise yol açarlar ve E. coli, antibiyotik dirençli bakterilere bağlı ölümlerin başlıca tek nedenidir."

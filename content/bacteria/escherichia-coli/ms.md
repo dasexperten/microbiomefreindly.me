@@ -9,10 +9,10 @@ slug: escherichia-coli
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "e coli"
+  volume: 9900
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Escherichia coli hidup tanpa mudarat dalam usus lebih 90 % orang sebagai penghuni utama yang tahan oksigen, dan ia boleh menghasilkan vitamin K2. Tetapi sebilangan kecil strain spesies yang sama membawa gen toksin atau pencerobohan, menyebabkan keracunan makanan, jangkitan pundi kencing dan sepsis, dan E. coli ialah punca tunggal terbesar kematian berkaitan bakteria rintang antibiotik."

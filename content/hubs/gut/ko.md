@@ -9,10 +9,10 @@ slug: gut
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "장내 미생물"
+  volume: 880
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "장내 미생물은 주로 대장에 사는 세균, 고세균, 곰팡이, 바이러스의 무리입니다. 우리가 소화하지 못하는 식이섬유를 분해해 단쇄지방산과 비타민을 만들고, 면역계를 가르치고, 장 점막을 먹여 살립니다. 식사와 출생 방식, 항생제, 나이가 그 모습을 빚으며 — 며칠 만에도 달라집니다."

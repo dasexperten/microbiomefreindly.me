@@ -1,6 +1,6 @@
 ---
-title: "Nove espécies ainda faltam: o que comer após antibióticos"
-meta: "O intestino volta perto do ponto de partida em 1,5 mês, mas nove espécies seguiam indetectáveis na maioria dos homens no dia 180. O que os estudos mostram."
+title: "Como repor a flora intestinal naturalmente após antibiótico"
+meta: "Como repor a flora intestinal naturalmente: o intestino volta perto do ponto de partida em 1,5 mês, mas nove espécies seguiam indetectáveis no dia 180."
 kicker: "Depois dos antibióticos"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: eating-after-antibiotics
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "como repor a flora intestinal naturalmente"
+  volume: 590
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Plantas ricas em fibra, fermentados e paciência. Quase toda a comunidade voltou perto do ponto de partida cerca de 1,5 mês após o coquetel de 4 dias estudado (Nature Microbiology, 2018), mas nove espécies comuns seguiam indetectáveis na maioria dos homens no dia 180. Probióticos reduzem a diarreia; o único estudo da mucosa viu a reconstrução atrasar."

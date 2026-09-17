@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Diversitatea intestinală de pornire, sugerează un studiu. Într-un studiu randomizat, dublu-orb, de 12 săptămâni, pe 120 de adulți supraponderali, Lactiplantibacillus plantarum LRCC5282 inactivată termic, celule moarte, nu un probiotic viu, nu a schimbat nimic în medie. Doar cei cu intestinul cel mai sărac au slăbit mai mult decât cu placebo — o constatare de subgrup, nu un efect dovedit."

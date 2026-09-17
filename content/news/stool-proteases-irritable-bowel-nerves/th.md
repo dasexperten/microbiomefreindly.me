@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "TH (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Thailand (Ubersuggest locId 2764)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "นักวิจัยเอาส่วนที่เป็นของเหลวของอุจจาระจากผู้ที่เป็นกลุ่มอาการลำไส้แปรปรวนมาหยดลงบนเครือข่ายเส้นประสาทลำไส้ที่ยังมีชีวิต เส้นประสาทยิงแรงกว่าตอนที่ใช้ของเหลวจากอุจจาระของคนสุขภาพดีมาก เอนไซม์ที่ตัดโปรตีนอธิบายผลนั้นได้ในชนิดย่อยที่ท้องเสียเด่น ส่วนเส้นประสาทที่ทดสอบเป็นของหนูตะเภา ไม่ใช่ของคน"

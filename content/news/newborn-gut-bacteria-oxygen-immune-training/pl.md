@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroides fragilis wbudowuje w swoją błonę tłuszcz, alfa-galaktozyloceramid. Nowa praca w Cell donosi, że ten tłuszcz uszczelnia błonę przed ucieczką protonów, więc ścisły beztlenowiec, którego powietrze powinno otruć, przetrzymuje tlen w jelicie noworodka, a ta sama cząsteczka stroi limfocyty NKT, które czytają tłuszcze. Tylko myszy i cząsteczki; nie badano ludzkich niemowląt."

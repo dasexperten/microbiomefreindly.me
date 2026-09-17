@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "A vitamina A não chega sozinha às suas células de defesa. Em camundongos, as bactérias do intestino fazem a mucosa produzir proteínas transportadoras — a amiloide A sérica — que entregam retinol a células mieloides. Elas caminham até os linfonodos do intestino e passam o retinol aos linfócitos T. O revezamento leva cerca de três dias — só em camundongos."

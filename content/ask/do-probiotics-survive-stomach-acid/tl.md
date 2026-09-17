@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Philippines (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "May ilan. Nakakaligtas ang mga gumagawa ng spore dahil sa pagkakagawa sa kanila; kadalasan hindi ang maseselang strain, kahit may tulong ang coating at ang pagkain. Maling linya ng katapusan ang pagkaligtas: sa iisang pag-aaral sa lining ng bituka ng tao, buhay ang nilunok na strain pagkarating, pero tumira lang ito sa ilan. Ang dumaan ay hindi ang tumira."

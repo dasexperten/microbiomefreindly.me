@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — market measured, no honest match for this page; left pending"
 author: magnus-larsen
 voice: greger
 answer: "口臭はガスです。舌苔と歯周ポケットにいる口の細菌、つまり嫌気性菌が、mgl遺伝子が指定する酵素でアミノ酸から硫黄を切り離します。2026年のJournal of Oral Microbiologyの研究では、2種類の乳酸菌が実験皿でその遺伝子を静め、ラットの舌苔を減らしました。ただし人は一人も調べられておらず、ガスも測られていません。"

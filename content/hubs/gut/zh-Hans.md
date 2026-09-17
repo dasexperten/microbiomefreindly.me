@@ -1,6 +1,6 @@
 ---
-title: "肠道菌群：科学说清了什么，说不清什么"
-meta: "不吹不夸地讲肠道菌群：住在你肠子里的微生物群落到底在做什么，人人都会问的三个问题，以及证据到哪里为止。"
+title: "肠道健康与肠道菌群：证据到哪里为止"
+meta: "不吹不夸地讲肠道健康：住在你肠子里的微生物群落到底在做什么，人人都会问的三个问题，以及证据到哪里为止。"
 kicker: "肠道菌群"
 type: hubs
 topic: gut
@@ -9,10 +9,11 @@ slug: gut
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "腸道健康"
+  keywordSimplified: "肠道健康"
+  volume: 320
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "肠道菌群是主要住在大肠里的细菌、古菌、真菌和病毒组成的群落。它消化我们消化不了的纤维，制造短链脂肪酸和维生素，训练免疫系统，喂养肠壁。饮食、出生方式、抗生素和年龄都在塑造它，而它几天之内就会变。"

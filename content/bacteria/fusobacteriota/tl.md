@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Ang Fusobacteriota, isang phylum (buong sanga ng puno ng bacteria) ng anaerobic at hugis-suliran na bacteria, ay karaniwang nakatira sa bibig bilang tagakabit ng komunidad ng dental plaque: trabahong pang-estruktura, hindi depekto. Pero may isang maliit na clade ng Fusobacterium nucleatum na dumarami sa colorectal na tumor, at kayang buksan ng adhesin nito ang senyas ng cancer."

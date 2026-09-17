@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Pseudomonadota, yakın zamana kadar Proteobacteria denen, Gram negatif (ince hücre duvarı, üstünde bir dış zar) bakterilerin büyük bir şubesidir. E. coli'yi, Salmonella'yı, Pseudomonas aeruginosa'yı, Neisseria'yı ve fasulye ile bezelye köklerindeki azot bağlayan rizobiyumları içerir. Sağlıklı insanlar da onu, bağırsak topluluğunun küçük bir payı olarak taşır; hastalıkla yükselen şey varlığı değil, düzeyidir."

@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Dalam satu ujian 142 orang dalam Gut Microbes, 2026, empat bulan Akkermansia muciniphila yang dipasteur (mati haba) tidak memperbaik sensitiviti insulin seluruh tubuh, iaitu satu perkara yang ia dibina untuk menguji. Dalam analisis penerokaan, yang menimbulkan soalan dan bukan menjawabnya, ia menaikkan GLP-1 tubuh sendiri selepas minuman glukosa dan menganjak sedikit sensitiviti insulin hati pada peserta pradiabetes."

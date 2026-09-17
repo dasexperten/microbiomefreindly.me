@@ -1,6 +1,6 @@
 ---
-title: "Lactobacillus: بكتيريا الزبادي التي تكاد تغيب عن أمعائك"
-meta: "ما هي Lactobacillus، وأين تعيش فعلاً في الجسم، وماذا تُثبت التجارب أنها تفعله وما لا تفعله، ولماذا انقسم الجنس إلى 25 جنساً عام 2020."
+title: "لاكتوباسيلس: بكتيريا تكاد تغيب عن أمعائك"
+meta: "ما هي بكتيريا لاكتوباسيلس Lactobacillus، وأين تعيش فعلاً في الجسم، وماذا تُثبت التجارب أنها تفعله، ولماذا انقسم الجنس إلى 25 جنساً عام 2020."
 kicker: "Lactobacillus"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: lactobacillus
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "لاكتوباسيلس"
+  volume: 140
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Lactobacillus جنس من البكتيريا المنتجة لحمض اللاكتيك، يوجد في الأطعمة المخمّرة والفم والمهبل، وبأعداد قليلة في الأمعاء. تُظهر التجارب أنه يساعد على الوقاية من الإسهال المصاحب للمضادات الحيوية، لكن تجربة كبيرة لم تجد أي فائدة في النزلة المعوية. وفي 2020 قسّمت بيانات الجينوم الجنس القديم إلى 25 جنساً، فتغيّرت أسماء مألوفة كثيرة."

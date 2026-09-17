@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus salivarius, doğumdan sonraki günler içinde dile yerleşen ve alanını, rakip bakterilere yönelik protein antibiyotikler olan bakteriyosinlerle savunan zararsız bir streptokoktur. Bazı suşları boğaz ağrısına ve ağız kokusuna karşı küçük ve çoğunlukla zayıf çalışmalarda sınandı. Ağızdan ender çıkar, ama bir lomber ponksiyon iğnesiyle taşındığında menenjite yol açmıştır."

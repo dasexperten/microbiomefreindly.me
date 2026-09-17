@@ -1,6 +1,6 @@
 ---
-title: "Nieświeży oddech z żołądka? Jeden przypadek na sto"
-meta: "Poradnia oddechu zbadała 491 pacjentów: usta tłumaczyły 87 % nieświeżego oddechu, a przewód pokarmowy tylko 1 %. Gdzie naprawdę powstaje zapach siarki."
+title: "Nieświeży oddech z żołądka? Jeden przypadek na sto"
+meta: "Nieświeży oddech z żołądka: poradnia zbadała 491 pacjentów — usta tłumaczyły 87 % przypadków, przewód pokarmowy tylko 1 %. Zapach siarki powstaje wyżej."
 kicker: "Sprawdzamy mit"
 type: myth
 topic: oral
@@ -9,10 +9,10 @@ slug: bad-breath-comes-from-the-stomach
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "nieświeży oddech z żołądka"
+  volume: 320
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Częściowo prawda, i ledwie. Ten zapach to lotne związki siarki, wytwarzane przez bakterie beztlenowe z tyłu języka i pod dziąsłami — nad przełykiem, a nie pod nim. W poradni oddechu na 491 pacjentów usta tłumaczyły 87 % przypadków, a przewód pokarmowy 1 %. Żołądkowy nieświeży oddech istnieje; jest wyjątkiem."

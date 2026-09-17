@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroidota, dawniej Bacteroidetes, to typ bakterii Gram-ujemnych, unikających tlenu, żyjących w ogromnej liczbie w twojej okrężnicy. Karmione błonnikiem roślinnym otwierają to, czego nie potrafią twoje enzymy, i pomagają trenować układ odpornościowy; pozbawione go zjadają twoją warstwę śluzu — jak dotąd u myszy. Zastrzeżenie: poza jelitem znajduje się je w większości zakażeń beztlenowych."

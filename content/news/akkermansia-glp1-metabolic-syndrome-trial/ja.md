@@ -1,6 +1,6 @@
 ---
-title: "GLP-1は上げたのに目標を外した腸内細菌"
-meta: "2026年のGut Microbesの試験、成人142人。加熱して殺したAkkermansiaは主目標のインスリン感受性を外しましたが、ブドウ糖を飲んだあとの自前のGLP-1は上げました。"
+title: "アッカーマンシア菌サプリ、目標を外した"
+meta: "加熱殺菌したアッカーマンシア菌サプリの試験。2026年のGut Microbesの試験、成人142人。加熱して殺したAkkermansiaは主目標のインスリン感受性を外しましたが、ブドウ糖を飲んだあとの自前のGLP-1は上げました。"
 kicker: "Akkermansia"
 type: news
 topic: metabolic
@@ -9,10 +9,10 @@ slug: akkermansia-glp1-metabolic-syndrome-trial
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "アッカーマンシア菌 サプリ"
+  volume: 590
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Gut Microbesの2026年の142人の試験では、パスツール処理した（加熱して殺した）Akkermansia muciniphilaを4か月使っても、全身のインスリン感受性 — この試験が確かめるためにつくられた、ただ一つのもの — は改善しませんでした。答えを出すのではなく問いを立てる探索的な解析では、ブドウ糖を飲んだあとの自前のGLP-1が上がり、糖尿病予備群の参加者では肝臓のインスリン感受性が少し動きました。"

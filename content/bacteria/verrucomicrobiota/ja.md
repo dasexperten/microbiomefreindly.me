@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — market measured, no honest match for this page; left pending"
 author: magnus-larsen
 voice: greger
 answer: "Verrucomicrobiota（旧Verrucomicrobia）は細菌の門で、最もよく知られた一員のAkkermansia muciniphilaは大腸の粘液層に住み、それを食べます。ほどほどであれば、その入れ替わりが腸の粘膜を養い、代謝の指標の良さと一緒に動きます。多すぎるとき、あるいは食物繊維の少ない食事のもとでは、同じ食欲がバリアを薄くします。"

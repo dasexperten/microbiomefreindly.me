@@ -1,6 +1,6 @@
 ---
-title: "Chất xơ: loại nào nuôi vi khuẩn, nhiều chưa chắc tốt"
-meta: "Chất xơ lên men được nuôi vi khuẩn ruột; chất xơ nhớt và chất xơ thô làm việc khác. Thử nghiệm đo được bao nhiêu, và thêm thế nào để không đầy hơi."
+title: "Chất xơ hòa tan hay chất xơ thô: loại nào nuôi vi khuẩn"
+meta: "Chất xơ hòa tan lên men được nuôi vi khuẩn ruột; chất xơ nhớt và chất xơ thô làm việc khác. Thử nghiệm đo được bao nhiêu, và thêm thế nào để không đầy hơi."
 kicker: "Ăn uống và thói quen"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: how-much-fibre-and-which-kind
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "chất xơ hòa tan"
+  volume: 2400
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Chất xơ lên men được (fructan, galacto-oligosaccharide, tinh bột kháng) là thứ vi khuẩn đại tràng ăn; bạn không tiêu được. Chất xơ nhớt và thô làm việc khác. Số liệu gộp các nghiên cứu nhiều năm cho mức giảm nguy cơ lớn nhất ở 25–29 g mỗi ngày, rồi tác dụng chững lại. Thêm dần qua nhiều tuần."

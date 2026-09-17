@@ -1,6 +1,6 @@
 ---
-title: "9종은 아직 빠져 있다: 항생제 뒤에 뭘 먹을까"
-meta: "코스가 끝나고 1.5개월이면 장은 기준선에 가깝습니다. 그러나 9종은 180일째에도 대부분의 남성에게서 검출되지 않았습니다. 음식과 프로바이오틱스 시험이 보여 주는 것."
+title: "항생제 유산균과 음식: 9종은 아직 빠져 있다"
+meta: "항생제 유산균과 음식은 무엇을 되돌릴까요? 코스가 끝나고 1.5개월이면 장은 기준선에 가깝습니다. 그러나 9종은 180일째에도 대부분의 남성에게서 검출되지 않았습니다. 음식과 프로바이오틱스 시험이 보여 주는 것."
 kicker: "항생제 뒤에"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: eating-after-antibiotics
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "항생제 유산균"
+  volume: 260
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "식이섬유가 풍부한 식물과 발효식품, 그리고 인내입니다. 연구된 4일짜리 항생제 조합 뒤(Nature Microbiology, 2018) 무리의 대부분은 약 1.5개월 만에 기준선 가까이 돌아왔지만, 흔한 9종은 180일째에도 대부분의 남성에게서 검출되지 않았습니다. 프로바이오틱스는 항생제 연관 설사를 줄이지만, 장 점막을 살핀 유일한 연구는 그것이 재건을 늦췄다고 보았습니다."

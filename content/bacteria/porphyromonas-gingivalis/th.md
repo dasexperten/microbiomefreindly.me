@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "TH (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Thailand (Ubersuggest locId 2764)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Porphyromonas gingivalis เป็นแบคทีเรียที่ไม่สนใจน้ำตาล กินโปรตีน และไม่ใช้ออกซิเจน (อยู่ได้โดยไม่ต้องมีออกซิเจน) อาศัยอยู่ในร่องระหว่างฟันกับเหงือก คนสุขภาพดีจำนวนมากมีมันอยู่ในตัว มันก่อโทษก็ต่อเมื่อแบคทีเรียรอบตัวมันเสียสมดุลไป ยังไม่มีการแสดงประโยชน์ใด ๆ ของมัน เอนไซม์โปรตีเอส (เอนไซม์ตัดโปรตีน) ของมันปิดการทำงานของระบบป้องกันในร่างกายคุณ และมันเป็นผู้ต้องสงสัย ยังไม่ใช่สาเหตุที่พิสูจน์แล้ว ในโรคข้ออักเสบรูมาตอยด์และอัลไซเมอร์"

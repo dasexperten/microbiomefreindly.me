@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Satu kajian 2026 dalam Gut mencadangkan bahawa keradangan covid berpanjangan bermula dalam usus: flagelin, protein yang dibina bakteria menjadi ekor renangnya, bocor keluar dan menarik TLR5 pada neutrofil, yang melepaskan IL-15 dan memacu asid arakidonik makrofaj sehingga organ jauh meradang. Corak sama muncul dalam empat penyakit; ujian sebabnya pada tikus sahaja. Tiada apa-apa di sini rawatan."

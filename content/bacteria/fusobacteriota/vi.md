@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Fusobacteriota là ngành vi khuẩn kỵ khí hình thoi, thường sống trong miệng như mối nối giữ quần thể mảng bám gắn kết: một việc kết cấu, không phải lỗi. Nhưng một nhánh nhỏ của Fusobacterium nucleatum tăng mạnh trong khối u đại trực tràng, nơi protein bám dính của nó bật tín hiệu ung thư ở tế bào người."

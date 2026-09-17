@@ -1,6 +1,6 @@
 ---
-title: "CFUは多いほど良い？100倍でも同じ"
-meta: "CFUの数字——1回あたりの生きた菌の数——はプロバイオティクスを売ります。試験はそう言いません。2倍が効いた例はあり、100倍では何も変わりませんでした。"
+title: "乳酸菌のとりすぎ？100倍でも同じ"
+meta: "乳酸菌はとりすぎれば効くのか。CFUの数字——1回あたりの生きた菌の数——はプロバイオティクスを売ります。試験はそう言いません。2倍が効いた例はあり、100倍では何も変わりませんでした。"
 kicker: "俗説チェック"
 type: myth
 topic: gut
@@ -9,10 +9,10 @@ slug: more-cfu-means-a-better-probiotic
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "乳酸菌 とりすぎ"
+  volume: 2400
   market: "Japan (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "部分的に本当です。量は効きますが、それはひとつの菌株とひとつの結果の中でのことです。ある試験では抗生物質関連下痢に対して100 × 10⁹ CFUが50 × 10⁹ CFUにまさりました。別の試験では、急性下痢の子どもで同じ生き物を100倍にしても何も変わりませんでした。表示の数字は量についての主張であって、証拠についての主張ではありません。"

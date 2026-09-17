@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Faecalibacterium prausnitzii — одна з найчисленніших бактерій здорової товстої кишки, понад 5 % кишкових бактерій, і вона виробляє бутират, головне пальне для вистилки товстої кишки. При хворобі Крона, запальному захворюванні кишківника, її стає менше. Цей зв'язок сильний, але доказу, що сама бактерія робить людину здоровішою, поки що немає."

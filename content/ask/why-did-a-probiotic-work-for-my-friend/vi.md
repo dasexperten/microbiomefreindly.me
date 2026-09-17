@@ -1,6 +1,6 @@
 ---
-title: "Vì sao lợi khuẩn hợp với bạn của bạn mà không hợp bạn"
-meta: "Ba thứ khác nhau giữa bạn và người bạn kia: chủng (đúng giống được gọi tên, không phải loài), liều và thời gian dùng, và cái ruột bạn có lúc bắt đầu."
+title: "Men vi sinh có tác dụng gì — và vì sao không giống nhau"
+meta: "Men vi sinh có tác dụng gì còn tùy ba thứ: chủng (đúng giống được gọi tên, không phải loài), liều và thời gian dùng, và cái ruột bạn có lúc bắt đầu."
 kicker: "Magnus trả lời"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: why-did-a-probiotic-work-for-my-friend
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "men vi sinh có tác dụng gì"
+  volume: 720
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Vì bạn đã không làm cùng một thí nghiệm. Tác dụng phụ thuộc vào đúng chủng, vào liều, vào thời gian dùng, và có thể vào quần thể ban đầu. Thử nghiệm năm 2026 trên 120 người thừa cân đã trượt tiêu chí chính, chỉ thấy khác biệt cân nặng ở nửa có ít loài nhất."

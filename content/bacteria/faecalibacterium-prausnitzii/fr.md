@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Faecalibacterium prausnitzii est l'une des bactéries les plus abondantes d'un côlon sain — plus de 5 % des bactéries intestinales — et elle fabrique du butyrate, le carburant principal de la paroi du côlon. Elle chute dans la maladie de Crohn, une maladie inflammatoire de l'intestin. L'association est forte, mais la preuve que la bactérie rend plus sain manque encore."

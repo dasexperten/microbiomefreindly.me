@@ -1,6 +1,6 @@
 ---
-title: "Makanan fermentasi: mikrob yang anda makan bukan intinya"
-meta: "Stanford menguji 36 orang dewasa selama 17 minggu, separuh pada enam hidangan sehari: kepelbagaian usus naik, 19 protein keradangan turun — bukan sebab mikrob."
+title: "Makanan baik untuk usus: fermentasi, bukan mikrobnya"
+meta: "Makanan baik untuk usus: Stanford menguji 36 orang dewasa 17 minggu, separuh pada enam hidangan fermentasi sehari — kepelbagaian naik, 19 protein radang turun."
 kicker: "Makanan fermentasi"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: fermented-foods-what-they-do
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "makanan baik untuk usus"
+  volume: 140
   market: "Malaysia (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Kefir, yogurt, kimchi dan sauerkraut membawa bakteria asid laktik hidup, sehingga seratus bilion sel satu hidangan. Dalam kajian Stanford 17 minggu (Cell, 2021), enam hidangan sehari menaikkan kepelbagaian mikrob usus dan menurunkan 19 protein keradangan dalam darah. Bakteria yang anda telan kebanyakannya tidak menetap; komuniti penghuni anda yang beralih. Balang terpasteur tiada satu pun."

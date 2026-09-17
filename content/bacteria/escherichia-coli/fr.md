@@ -1,5 +1,5 @@
 ---
-title: "E. coli habite votre intestin, pas que vos intoxications"
+title: "Escherichia coli : votre intestin, pas que vos intoxications"
 meta: "Escherichia coli vit dans l'intestin de plus de 90 % des gens. Ce qu'elle fait pour nous, ce qu'elle fait contre nous, et où s'arrêtent les preuves."
 kicker: "Escherichia coli"
 type: bacteria
@@ -9,10 +9,10 @@ slug: escherichia-coli
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "escherichia coli"
+  volume: 60500
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Escherichia coli vit sans nuire dans l'intestin de plus de 90 % des gens, où elle est la principale résidente tolérant l'oxygène, et elle sait fabriquer de la vitamine K2. Mais une minorité de souches de la même espèce portent des gènes de toxine ou d'invasion : intoxications, infections urinaires, sepsis. C'est aussi le premier germe des décès liés à l'antibiorésistance."

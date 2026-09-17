@@ -1,6 +1,6 @@
 ---
-title: "Helicobacter pylori: مسرطنة، ومع ذلك ترافق ربوًا أقل"
-meta: "نصف سكان العالم يحملونها. تسبب القرحة وسرطان المعدة، ومع ذلك ترافق ربوًا أقل وسرطان مريء أقل. الضرر سبب مثبت، والفائدة غير مثبتة."
+title: "ما هي جرثومة المعدة؟ مسرطنة ترافق ربوًا أقل"
+meta: "ما هي جرثومة المعدة Helicobacter pylori؟ نصف سكان العالم يحملونها: تسبب القرحة وسرطان المعدة، ومع ذلك ترافق ربوًا أقل. الضرر مثبت والفائدة لا."
 kicker: "Helicobacter pylori"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: helicobacter-pylori
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "ما هي جرثومة المعدة"
+  volume: 880
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Helicobacter pylori بكتيريا حلزونية تستوطن بطانة المعدة، ومدى الحياة عادةً. وهي أكبر سبب معدٍ للسرطان في العالم، والسبب البكتيري الرئيسي للقرحة الهضمية. ومع ذلك، حيث تنتشر البكتيريا، يقلّ سرطان المريء الغدي ويقلّ ربو الطفولة. الضرر سبب مثبت، أما الفائدة فلا تزال مجرد نمط."

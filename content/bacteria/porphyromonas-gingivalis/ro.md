@@ -9,10 +9,10 @@ slug: porphyromonas-gingivalis
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "porphyromonas gingivalis"
+  volume: 140
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Porphyromonas gingivalis este un anaerob (trăiește fără oxigen) orb la zahăr și mâncător de proteine, din punga dintre dinte și gingie. Mulți oameni sănătoși o poartă; face rău doar când bacteriile din jur ies din echilibru. Niciun beneficiu nu este demonstrat. Proteazele ei (enzime care taie proteine) îți dezarmează apărarea, iar în artrită și Alzheimer este doar suspect."

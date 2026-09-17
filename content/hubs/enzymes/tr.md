@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TR (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Enzim, tek bir belirli bağı kesen bir proteindir. Dekstranaz diş plağının şeker tutkalını keser; papain ve bromelain proteinleri keser; lizozim bakteri hücre duvarını keser; glukoz oksidaz glukozu hafif bir antiseptiğe çevirir. Hiçbiri geniş çaplı öldürmez. Yapıyı ortadan kaldırarak çalışırlar; bu yüzden antibiyotik olarak değil, biyofilme karşı araştırılırlar."

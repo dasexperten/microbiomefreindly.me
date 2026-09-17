@@ -9,10 +9,10 @@ slug: lactobacillus
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "lactobacillus"
+  volume: 4400
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Lactobacillus, fermente gıdalarda, ağızda, vajinada ve az sayıda da bağırsakta bulunan, laktik asit üreten bir bakteri cinsidir. Çalışmalar antibiyotik ishalini önlemeye yardımcı olduğunu gösteriyor; büyük bir çalışma mide-bağırsak enfeksiyonunda yarar bulamadı. 2020'de genom verileri eski cinsi 25 cinse böldü, tanıdık adların çoğu böylece değişti."

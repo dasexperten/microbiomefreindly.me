@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — market measured, no honest match for this page; left pending"
 author: magnus-larsen
 voice: greger
 answer: "アクチノミセトータ（旧アクチノバクテリア）は、腸、口、皮膚にいるグラム陽性でGC含量の高い細菌の門です（DNAが4文字のうち2文字に富んでいます）。ビフィズス菌と天然由来の抗生物質の大半をもたらす一方、結核やジフテリアの菌、ニキビと結びつく皮膚の住人も含みます。同じ家系図でも結果は正反対で、決めるのは種と場所と宿主、つまりその菌が住んでいる人です。"

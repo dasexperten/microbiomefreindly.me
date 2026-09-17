@@ -1,5 +1,5 @@
 ---
-title: "Vi khuẩn ruột nâng GLP-1 nhưng trượt mục tiêu chính"
+title: "Hội chứng chuyển hóa: vi khuẩn nâng GLP-1, trượt đích chính"
 meta: "Thử nghiệm Gut Microbes 2026, 142 người: Akkermansia đun chết trượt đích chính là độ nhạy insulin, nhưng nâng được GLP-1 của chính cơ thể sau khi uống glucose."
 kicker: "Akkermansia"
 type: news
@@ -9,10 +9,10 @@ slug: akkermansia-glp1-metabolic-syndrome-trial
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "hội chứng chuyển hóa"
+  volume: 590
   market: "VN (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Trong một thử nghiệm 142 người trên Gut Microbes năm 2026, bốn tháng dùng Akkermansia muciniphila đã đun chết không cải thiện độ nhạy insulin toàn thân, đúng thứ nó được dựng ra để kiểm tra. Ở các phân tích thăm dò, vốn chỉ gợi câu hỏi, nó có nâng GLP-1 của chính cơ thể sau khi uống glucose."

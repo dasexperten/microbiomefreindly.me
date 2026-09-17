@@ -1,5 +1,5 @@
 ---
-title: "Z czego naprawdę zrobiony jest nalot na języku"
+title: "Biały nalot na języku: najczęściej zupełnie normalny"
 meta: "Biały nalot na języku to w większości twoje złuszczone komórki i bakterie. Z czego się składa, dlaczego pachnie, kiedy jest normalny i co go zmniejsza."
 kicker: "Magnus odpowiada"
 type: ask
@@ -9,10 +9,10 @@ slug: is-a-coated-tongue-bad
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "biały nalot na języku"
+  volume: 9900
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Najczęściej jest normalny. Ten nalot to złuszczone komórki, resztki jedzenia i bakterie lubiące brak tlenu, uwięzione między brodawkami. U młodych dorosłych cienki nalot z tyłu, biały albo żółtawy, to zwykły obraz, a nie ostrzeżenie. Zmieniają to trzy rzeczy: gęstnieje, ściera się, zostawiając żywą tkankę, albo usta wyschły."

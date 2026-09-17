@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Akkermansia muciniphila بكتيريا معوية تعيش داخل طبقة المخاط في الأمعاء وتتغذى على الميوسين، وهو البروتين الذي تفرزه أمعاؤك هناك. رعيها لهذه الطبقة يحفّز تجديدها — حاجز معوي أشدّ إحكامًا في الفئران، وحساسية أفضل للإنسولين في تجربة بشرية صغيرة واحدة — لكن من دون ألياف، أو بحضور ممرض، تصير الشهية نفسها ترقيقًا للطبقة."

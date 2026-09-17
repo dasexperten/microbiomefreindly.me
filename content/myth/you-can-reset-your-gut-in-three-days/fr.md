@@ -1,6 +1,6 @@
 ---
-title: "Trois jours changent votre intestin. Puis tout revient"
-meta: "La « remise à zéro » du microbiote en trois jours se vend partout. Les mesures : il bouge en un jour, revient en deux, garde 60 % de ses souches des années."
+title: "Refaire la flore intestinale en trois jours ? Non"
+meta: "Refaire la flore intestinale en trois jours se vend partout. Les mesures : elle bouge en un jour, revient en deux, garde 60 % de ses souches des années."
 kicker: "Le mythe au crible"
 type: myth
 topic: gut
@@ -9,10 +9,10 @@ slug: you-can-reset-your-gut-in-three-days
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "refaire la flore intestinale"
+  volume: 1000
   market: "FR (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Faux. L'alimentation déplace bien la flore, et vite. Onze volontaires ont suivi deux régimes extrêmes : le mélange a bougé un jour après l'arrivée des aliments et est revenu deux jours après l'arrêt (Nature, 2014). Environ 60 % des souches d'un adulte sont encore là cinq ans plus tard (Science, 2013). Trois jours changent la mesure, pas les habitants."

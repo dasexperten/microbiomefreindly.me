@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Pseudomonadota, antes chamada de Proteobacteria, é um filo enorme de bactérias gram-negativas (parede fina, membrana externa a mais). Inclui E. coli, Salmonella, Pseudomonas aeruginosa, Neisseria e os rizóbios que fixam nitrogênio na raiz do feijão e da ervilha. Gente saudável também a carrega, como fatia pequena do intestino; o que sobe na doença é o nível, não a presença."

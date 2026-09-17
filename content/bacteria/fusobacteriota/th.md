@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "TH (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Thailand (Ubersuggest locId 2764)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Fusobacteriota เป็นไฟลัม (กิ่งทั้งกิ่งบนต้นไม้ของแบคทีเรีย) ของแบคทีเรียรูปกระสวยที่ไม่ใช้ออกซิเจน ตามปกติมันอาศัยอยู่ในปากในฐานะตัวเชื่อมที่ยึดชุมชนคราบพลัคบนฟันไว้ด้วยกัน เป็นงานเชิงโครงสร้าง ไม่ใช่ความผิดพลาด แต่มีเคลดเล็ก ๆ หนึ่งกลุ่มของ Fusobacterium nucleatum ที่พบมากเป็นพิเศษในเนื้องอกลำไส้ใหญ่และทวารหนัก ที่ซึ่งโปรตีนเกาะติดตัวหนึ่งของมันเปิดสวิตช์สัญญาณที่เกี่ยวกับมะเร็งในเซลล์คนได้"

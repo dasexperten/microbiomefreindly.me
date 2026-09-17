@@ -1,6 +1,6 @@
 ---
-title: "Nieświeży oddech to nie brud. To jeden gen bakterii w pracy"
-meta: "Badanie z 2026 roku wyciszyło w probówce i u szczurów gen bakterii stojący za nieświeżym oddechem. Mechanizm, liczby i to, czego badanie nie pokazało."
+title: "Nieświeży oddech: przyczyny to jeden gen bakterii"
+meta: "Nieświeży oddech, przyczyny na poziomie genu: badanie z 2026 roku wyciszyło go w probówce i u szczurów. Mechanizm, liczby i to, czego nie pokazało."
 kicker: "Lotne związki siarki"
 type: news
 topic: oral
@@ -9,10 +9,10 @@ slug: probiotic-sulfur-bad-breath-periodontitis
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "nieświeży oddech przyczyny"
+  volume: 320
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Nieświeży oddech to gaz. Beztlenowce, bakterie jamy ustnej z nalotu na języku i kieszonek dziąsłowych, odrywają siarkę od aminokwasów enzymem zapisanym w genie mgl. W badaniu Journal of Oral Microbiology z 2026 roku dwie bakterie kwasu mlekowego wyciszyły ten gen w probówce i zmniejszyły nalot u szczurów, ale nikogo nie badano i gazu nie mierzono."

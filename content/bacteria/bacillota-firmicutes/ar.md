@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacillota هي الشعبة البكتيرية التي كانت تُسمّى Firmicutes، وأُعيدت تسميتها عام 2021 حين جرى توحيد أسماء الشعب رسميًا. وهي إحدى المجموعتين المهيمنتين في القولون البشري، وتضمّ في آنٍ واحد منتِجات البوتيرات التي تغذّي بطانة الأمعاء وممرضات مثل Clostridioides difficile؛ أما «نسبة Firmicutes إلى Bacteroidetes» الشائعة فليست مؤشرًا موثوقًا للسمنة."

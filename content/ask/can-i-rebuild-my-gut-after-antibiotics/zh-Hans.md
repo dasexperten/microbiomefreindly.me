@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "多半能。12 名健康男性连用 4 天三种抗生素（《自然·微生物学》2018 年），肠道菌群在约 1.5 个月内回到接近基线；但事先人人都带有的 9 个物种，到第 180 天在多数人身上仍检测不到。恢复是真的，不完整，而且快慢因人而异。"

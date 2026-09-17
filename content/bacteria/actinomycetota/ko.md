@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Actinomycetota는 옛 이름이 Actinobacteria인 문으로, 그람양성이며 DNA에 네 글자 중 두 글자가 유난히 많은 고GC 세균들이 장과 입안, 피부에 삽니다. 이 문에서 Bifidobacterium과 천연 항생제 대부분이 나오고, 결핵과 디프테리아의 세균, 여드름과 엮이는 피부 상주균도 나옵니다. 같은 계통수, 정반대의 결과입니다. 종과 자리, 그리고 그 균이 사는 사람이 결정합니다."

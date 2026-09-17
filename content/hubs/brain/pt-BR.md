@@ -1,6 +1,6 @@
 ---
-title: "Eixo intestino–cérebro: bactérias chegam sem sair do lugar"
-meta: "Eixo intestino–cérebro: nervo vago, ácidos graxos, serotonina e sinais imunes. O que perguntam sobre humor, ansiedade e psicobióticos, e o que não tem prova."
+title: "Eixo intestino-cérebro: bactérias chegam sem sair do lugar"
+meta: "Eixo intestino-cérebro: nervo vago, ácidos graxos, serotonina e sinais imunes. O que perguntam sobre humor, ansiedade e psicobióticos, e o que não tem prova."
 kicker: "Eixo intestino–cérebro"
 type: hubs
 topic: brain
@@ -9,10 +9,10 @@ slug: brain
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "eixo intestino cérebro"
+  volume: 1300
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "O eixo intestino–cérebro reúne os caminhos pelos quais o intestino e seus micróbios falam com o cérebro: o nervo vago, hormônios de células intestinais, mensageiros do sistema imune e metabólitos bacterianos no sangue. Quase toda a serotonina do corpo é feita no intestino, sob influência microbiana. A ligação existe; seu tamanho no humor humano ainda está sendo medido."

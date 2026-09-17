@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroides fragilis, zarına bir alfa-galaktozilseramit olan bir yağ kurar. Cell dergisindeki yeni çalışma, bu yağın zarı proton sızıntısına karşı mühürlediğini, böylece havanın zehirlemesi gereken zorunlu bir anaerobun yenidoğan bağırsağındaki oksijene dayandığını ve aynı molekülün yağları okuyan doğal öldürücü T hücrelerini ayarladığını bildiriyor. Yalnızca fareler ve moleküller; hiçbir insan bebeği sınanmadı."

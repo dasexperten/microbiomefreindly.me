@@ -1,6 +1,6 @@
 ---
-title: "Ağız kokusu kir değil. İşini yapan tek bir bakteri geni"
-meta: "2026 tarihli bir tüp ve sıçan çalışması ağız kokusunun ardındaki bakteri genini kıstı. İşte mekanizma, sayılar ve çalışmanın göstermediği her şey."
+title: "Ağız kokusu neden olur? İşini yapan tek bir bakteri geni"
+meta: "Ağız kokusu neden olur? 2026 tarihli bir tüp ve sıçan çalışması kokunun ardındaki bakteri genini kıstı. Mekanizma, sayılar ve çalışmanın göstermediği."
 kicker: "Uçucu kükürt bileşikleri"
 type: news
 topic: oral
@@ -9,10 +9,10 @@ slug: probiotic-sulfur-bad-breath-periodontitis
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "ağız kokusu neden"
+  volume: 210
   market: "TR (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Ağız kokusu bir gazdır. Dil tabakasındaki ve diş eti ceplerindeki ağız bakterileri, yani anaeroplar, mgl geninin kodladığı bir enzimle amino asitlerden kükürdü koparır. Journal of Oral Microbiology'de 2026'da yayımlanan bir çalışmada iki laktik asit bakterisi bu geni tüpte kıstı ve sıçanlarda dil tabakasını azalttı; ama hiçbir insan denenmedi, hiç gaz ölçülmedi."

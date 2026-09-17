@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Ang Faecalibacterium prausnitzii ang isa sa pinakamaraming bacteria sa malusog na colon — mahigit 5 % ng gut bacteria — at gumagawa ito ng butyrate, ang pangunahing panggatong ng lining ng colon. Bumababa ito sa Crohn's disease, isang inflammatory bowel disease. Malakas ang asosasyong iyon, pero wala pang patunay na ang bacteria mismo ang nagpapalusog sa tao."

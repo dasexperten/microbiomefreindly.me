@@ -9,10 +9,10 @@ slug: bifidobacterium
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "bifidobacterium"
+  volume: 1000
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bifidobacterium là chi vi khuẩn kỵ khí, tế bào chẻ đôi, thống trị ruột trẻ bú mẹ nhờ ăn đường trong sữa người. Phần lớn loài vô hại, lên men đường ấy thành axetat và lactat; vài loài thì không: B. dentium gây sâu răng cơ hội, và vài chủng lợi khuẩn đã lọt vào máu trẻ sinh non."

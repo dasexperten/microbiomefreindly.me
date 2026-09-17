@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Ginawang acetaldehyde ng mikrobyong pinatubo mula sa laway ng mga pasyenteng may cancer ang asukal (glucose) at alak (ethanol), isang Group 1 carcinogen, ang pinakamataas na uri, kapantay ng paninigarilyo. Pinakamataas ang labas sa 100 mM na asukal. Napigil ito ng antimicrobial peptide na may bean gum, pero nakaligtas ang nasa biofilm hanggang tunawin ng enzyme ang plaque."

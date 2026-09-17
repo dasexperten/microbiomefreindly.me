@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "嗜黏蛋白阿克曼菌是一种住在肠道黏液层里的细菌，吃的是黏蛋白，也就是你自己的肠道分泌到那里的蛋白质。啃食这一层会促使它更新——在小鼠身上表现为更严密的肠屏障，在一项小型人体试验里表现为更好的胰岛素敏感性——但如果没有膳食纤维，或者同时有病原体在场，同样的食欲反而会把这一层啃薄。"

@@ -9,10 +9,10 @@ slug: bacillota-firmicutes
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "firmicutes"
+  volume: 480
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bacillota est l'embranchement bactérien autrefois appelé Firmicutes, rebaptisé en 2021 lors de la normalisation officielle des noms d'embranchements. C'est l'un des deux groupes dominants du côlon humain : il abrite les producteurs de butyrate qui nourrissent la paroi intestinale et des pathogènes comme Clostridioides difficile ; le fameux ratio Firmicutes/Bacteroidetes, lui, n'est pas un marqueur fiable d'obésité."

@@ -1,6 +1,6 @@
 ---
-title: "Microbiota da boca: placa, cárie e gengiva, explicadas"
-meta: "A placa é um biofilme, não sujeira. O que é a microbiota da boca, como ela vira cárie e doença da gengiva, as três perguntas de sempre e onde a prova acaba."
+title: "Placa bacteriana: como ela vira cárie e doença da gengiva"
+meta: "A placa bacteriana é um biofilme, não sujeira. O que é a microbiota da boca, como ela vira cárie e doença da gengiva, e onde a prova acaba."
 kicker: "Microbiota da boca"
 type: hubs
 topic: oral
@@ -9,10 +9,10 @@ slug: oral
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "placa bacteriana"
+  volume: 3600
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "A microbiota da boca é a comunidade de bactérias que vive em dentes, gengivas, língua e bochechas. No dente ela forma a placa, um biofilme colado por açúcares que elas mesmas fabricam. Em equilíbrio, protege; quando o açúcar é frequente ou a limpeza é rara, as espécies que fazem ácido tomam conta, o esmalte dissolve e a gengiva inflama."

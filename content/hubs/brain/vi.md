@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Trục ruột–não là các đường liên lạc giữa ruột, vi khuẩn và não: dây thần kinh phế vị, hormone ruột, sứ giả miễn dịch, chất chuyển hóa vi khuẩn trong máu. Phần lớn serotonin của cơ thể sinh ra ở ruột, dưới ảnh hưởng vi khuẩn. Liên hệ là thật; mức tác động lên tâm trạng vẫn đang được đo."

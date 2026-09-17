@@ -1,6 +1,6 @@
 ---
-title: "구강청결제는 혈압에 필요한 균도 죽입니다"
-meta: "입속 세균을 더 많이 죽이면 늘 좋을까요? 2013년 시험은 아니라고 말합니다. 소독 가글 7일에 구강 아질산염이 90 % 줄고 혈압이 조금 올랐습니다."
+title: "구강청결제 부작용: 혈압에 필요한 균도 죽습니다"
+meta: "구강청결제 부작용을 재봤습니다. 입속 세균을 더 많이 죽이면 늘 좋을까요? 2013년 시험은 아니라고 말합니다. 소독 가글 7일에 구강 아질산염이 90 % 줄고 혈압이 조금 올랐습니다."
 kicker: "속설 점검"
 type: myth
 topic: oral
@@ -9,10 +9,10 @@ slug: antibacterial-mouthwash-is-always-good
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "구강청결제 부작용"
+  volume: 90
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "거짓입니다. 넓게 듣는 소독 가글은 해로운 균과 쓸모 있는 균을 가려내지 못해 입안 고유의 무리를 납작하게 만듭니다. 2013년 시험에서 클로르헥시딘으로 7일 헹구자, 혈관을 이완시키는 데 몸이 쓰는 구강 아질산염이 90 % 줄고 혈압이 2~3.5 mmHg 올랐습니다. 가글은 일상이 아니라 문제를 다루는 도구입니다."

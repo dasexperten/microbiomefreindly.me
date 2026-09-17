@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Gut dergisindeki 2026 tarihli bir çalışma, uzun kovid iltihabının bağırsakta başladığını öne sürüyor: bakterilerin yüzme kuyruklarını yaptıkları protein olan flajelin sızıyor, nötrofillerdeki TLR5'i tetikliyor, bunlar IL-15 salıyor ve makrofajların araşidonik asidini uzak organlar iltihaplanana kadar sürüyor. Aynı örüntü dört hastalıkta görüldü; nedensellik testi yalnızca farelerde yapıldı. Buradaki hiçbir şey tedavi değildir."

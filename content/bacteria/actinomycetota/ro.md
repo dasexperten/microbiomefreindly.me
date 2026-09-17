@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Actinomycetota, fost Actinobacteria, este o încrengătură de bacterii gram-pozitive bogate în GC, din intestinul, gura și pielea ta. Ne dă Bifidobacterium și majoritatea antibioticelor naturale, dar și bacteriile tuberculozei și difteriei și locuitorul pielii legat de acnee. Același arbore de familie, urmări opuse: hotărăsc specia, locul și gazda."

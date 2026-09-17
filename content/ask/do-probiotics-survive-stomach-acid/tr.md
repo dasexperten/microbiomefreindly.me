@@ -1,6 +1,6 @@
 ---
-title: "Probiyotikler asitten sağ çıkar mı? Yanlış soru bu"
-meta: "Mide asidi yutulan bakterilerin çoğunu öldürür; spor ve kaplama şansı değiştirir — ama yolculuğu atlatan bir probiyotik yine de size yerleşmeyebilir."
+title: "Probiyotik aç mı tok mu içilir? Asit yanlış bitiş çizgisi"
+meta: "Probiyotik aç mı tok mu içilir? Mide asidi yutulan bakterilerin çoğunu öldürür; spor, kaplama ve bir öğün şansı değiştirir — yerleşmek ise başka iştir."
 kicker: "Magnus yanıtlıyor"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: do-probiotics-survive-stomach-acid
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "probiyotik aç mı tok mu içilir"
+  volume: 720
   market: "TR (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bazıları çıkar. Spor yapanlar yapıları gereği sağ çıkar; narin suşlar çoğunlukla çıkamaz, ama bir kaplama ve bir öğün şansı artırır. Sağ kalmak yanlış bitiş çizgisidir: insan bağırsak astarını inceleyen tek çalışma, yutulan suşları yolculuktan sonra canlı buldu; kimi insanlara yerleştiler, kimilerine yerleşmediler. Geçip gitmek, taşınmak değildir."

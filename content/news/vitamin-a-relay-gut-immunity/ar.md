@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "فيتامين A لا يسافر إلى خلاياك المناعية وحده. ففي الفئران، تجعل بكتيريا الأمعاء بطانةَ الأمعاء تنتج بروتينات ناقلة — الأميلويد A المصلي — تسلّم الريتينول إلى الخلايا النخاعية. وتمشي تلك الخلايا إلى العقد اللمفية التي تصرّف الأمعاء وتمرره إلى الخلايا التائية. ويستغرق التتابع نحو ثلاثة أيام — في الفئران وحدها."

@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Malaysia (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — measured, no honest phrase: no Malay gut-brain term returns volume; best English match (mental health and gut health) is 20/mo"
 author: magnus-larsen
 voice: greger
 answer: "Paksi usus–otak ialah himpunan laluan yang membolehkan usus dan mikrobnya bercakap dengan otak: saraf vagus, hormon daripada sel usus, utusan imun dan metabolit bakteria dalam darah. Kebanyakan serotonin badan dihasilkan dalam usus, di bawah pengaruh mikrob. Hubungan itu nyata; sebesar mana kesannya pada mood manusia masih sedang diukur."

@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Actinomycetota، المعروفة سابقًا بـ Actinobacteria، شعبة من البكتيريا موجبة الغرام يغنى حمضها النووي بحرفين من حروفه الأربعة، وتعيش في أمعائك وفمك وجلدك. منها Bifidobacterium ومعظم المضادات الحيوية الطبيعية، ومنها أيضًا بكتيريا السل والخُناق وساكن الجلد المرتبط بحب الشباب. شجرة واحدة ونتائج متعاكسة: النوع والموضع والشخص المضيف هم من يحسم الأمر."

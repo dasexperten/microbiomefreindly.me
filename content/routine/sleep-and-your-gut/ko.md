@@ -11,8 +11,8 @@ asOf: 2026-09-04
 seo:
   keyword: "pending"
   volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "잠과 장은 함께 움직이지만, 근거는 한쪽 방향이 더 셉니다. 관찰 연구는 나쁘고 불규칙한 잠을 낮은 미생물 다양성과 잇습니다. 수면을 줄인 사람 대상 통제 실험 두 건은 서로 어긋납니다. 하나는 짧은 두 밤이 각 무리의 비중을 살짝 옮겼다고 보았고, 다른 하나는 아무 변화도 찾지 못했습니다. 근거가 있는 수는 식이섬유와 일정한 기상 시각입니다."

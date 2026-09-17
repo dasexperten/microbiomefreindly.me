@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Неправда. Їжа справді зрушує спільноту кишківника, і швидко. Одинадцятеро добровольців по черзі їли дві крайні дієти: суміш зсунулася через день після того, як їжа дійшла, і повернулася через два дні після кінця дієти (Nature, 2014). Близько 60 % штамів дорослого на місці й через п'ять років (Science, 2013). Три дні змінюють показник, а не мешканців."

@@ -1,6 +1,6 @@
 ---
-title: "미생물과 대사: GLP-1, Akkermansia, 지방산"
-meta: "장내 세균이 대사와 나누는 대화. 단쇄지방산, 점액을 먹는 Akkermansia, 그리고 GLP-1 호르몬. 어디까지가 기전이고 어디까지가 생쥐이며 어디부터가 사람인지."
+title: "아커만시아와 GLP-1: 미생물과 대사"
+meta: "장내 세균이 대사와 나누는 대화. 단쇄지방산, 점액을 먹는 아커만시아, 그리고 GLP-1 호르몬. 어디까지가 기전이고 어디까지가 생쥐이며 어디부터가 사람인지."
 kicker: "미생물과 대사"
 type: hubs
 topic: metabolic
@@ -9,10 +9,10 @@ slug: metabolic
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "아커만시아"
+  volume: 260
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "장내 세균은 식이섬유를 발효해 아세트산, 프로피온산, 부티르산 같은 단쇄지방산을 만듭니다. 이들은 장 점막을 먹이고, GLP-1을 내놓는 세포에 신호를 보냅니다. GLP-1은 위를 늦추고 뇌에 배부르다고 알리는 호르몬입니다. 점액에 사는 Akkermansia muciniphila는 이 대화를 질서 있게 지켜 주는 장벽을 튼튼하게 합니다. 길이지, 치료제가 아닙니다."

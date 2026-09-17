@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "أخذ الباحثون الجزء السائل من براز مصابين بمتلازمة القولون العصبي وقطّروه على شبكات عصبية حية من الأمعاء. فاشتعلت الأعصاب أقوى بكثير مما فعل سائل براز الأصحاء. وفسّرت إنزيمات قاطعة للبروتين هذا الأثر في النمط الإسهالي. والأعصاب المختبَرة كانت لخنازير غينيا، لا لبشر."

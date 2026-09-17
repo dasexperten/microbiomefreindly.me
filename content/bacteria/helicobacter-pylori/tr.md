@@ -1,6 +1,6 @@
 ---
-title: "Helicobacter pylori: kanserojen, ama astımla ters ilişkili"
-meta: "Dünyanın yarısı taşıyor. Ülsere ve mide kanserine yol açar, ama daha az astım ve daha az yemek borusu kanseriyle gider. Zarar kanıtlı, yarar kanıtsız."
+title: "Helikobakter pilori: kanserojen, ama astımla ters ilişkili"
+meta: "Helikobakter pilori: dünyanın yarısı taşıyor. Ülsere ve mide kanserine yol açar, ama daha az astım ve yemek borusu kanseriyle gider. Zarar kanıtlı, yarar değil."
 kicker: "Helicobacter pylori"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: helicobacter-pylori
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "helikobakter pilori"
+  volume: 1600
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Helicobacter pylori, mide mukozasına yerleşen ve genellikle ömür boyu orada kalan spiral bir bakteridir. Dünyada kanserin başlıca bulaşıcı nedeni ve peptik ülserin başlıca bakteriyel nedenidir. Yine de bakterinin yaygın olduğu yerlerde yemek borusu adenokarsinomu ve çocukluk astımı daha seyrektir. Zarar kanıtlanmış bir nedendir; yarar şimdilik yalnızca bir örüntü."

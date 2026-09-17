@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Enzima é uma proteína que corta uma ligação específica. A dextranase corta a cola de açúcar da placa dentária; a papaína e a bromelina cortam proteínas; a lisozima corta a parede da bactéria; a glicose oxidase transforma glicose num antisséptico leve. Nenhuma mata em massa. Elas agem tirando estrutura, e por isso são estudadas contra biofilmes, não como antibióticos."

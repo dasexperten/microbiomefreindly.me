@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "放线菌门（旧称 Actinobacteria）是一类革兰氏阳性、DNA 中 GC 含量很高的细菌，住在你的肠道、口腔和皮肤里。它给了我们双歧杆菌和大多数天然抗生素，也给了我们结核和白喉的病原体，以及与痤疮有关的皮肤常住菌。同一棵家谱树，结果却相反：决定权在物种、部位和宿主，也就是它所住的那个人。"

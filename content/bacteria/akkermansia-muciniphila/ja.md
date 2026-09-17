@@ -1,6 +1,6 @@
 ---
-title: "アッカーマンシア・ムシニフィラ：粘液を食べる菌"
-meta: "自分の粘液層を食べて生きる腸内細菌。代謝を守る可能性もあります。名前のついた研究が何を示し、どこで止まっているのかを見ていきます。"
+title: "アッカーマンシア菌、粘液を食べる腸の住人"
+meta: "アッカーマンシア菌とは何か。自分の粘液層を食べて生きる腸内細菌。代謝を守る可能性もあります。名前のついた研究が何を示し、どこで止まっているのかを見ていきます。"
 kicker: "Akkermansia"
 type: bacteria
 topic: metabolic
@@ -9,10 +9,10 @@ slug: akkermansia-muciniphila
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "アッカーマンシア菌"
+  volume: 1900
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Akkermansia muciniphilaは腸の粘液層にすみ、宿主自身がそこへ分泌するタンパク質ムチンを食べる腸内細菌です。その層を削ることが更新を促し、マウスでは腸のバリアが締まり、小規模なヒト試験一つではインスリン感受性が改善しました。ただし食物繊維がなかったり病原体がいたりすると、同じ食欲が今度は層を薄くします。"

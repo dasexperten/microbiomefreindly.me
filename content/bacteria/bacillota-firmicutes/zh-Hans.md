@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacillota 是过去叫 Firmicutes 的那个细菌门，2021年门一级名称正式规范化时改了名。它是人体结肠里两大优势类群之一，既包含喂养肠道内壁的产丁酸菌，也包含艰难梭菌这样的病原体；不过流行的「厚壁菌门与拟杆菌门比值」并不是一个可靠的肥胖标志物。"

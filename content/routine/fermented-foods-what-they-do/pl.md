@@ -1,6 +1,6 @@
 ---
-title: "Żywność fermentowana: nie chodzi o zjadane bakterie"
-meta: "Stanford przeprowadził 36 dorosłych przez 17-tygodniowe badanie, połowę na sześciu porcjach dziennie: różnorodność wzrosła, a 19 białek zapalnych spadło."
+title: "Kiszonki na jelita: nie chodzi o zjadane bakterie"
+meta: "Kiszonki na jelita: Stanford przeprowadził 36 dorosłych przez 17 tygodni, połowę na sześciu porcjach dziennie — różnorodność wzrosła, 19 białek spadło."
 kicker: "Żywność fermentowana"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: fermented-foods-what-they-do
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "kiszonki na jelita"
+  volume: 320
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Kefir, jogurt, kimchi i kiszona kapusta niosą żywe bakterie kwasu mlekowego, do stu miliardów komórek na porcję. W 17-tygodniowym badaniu Stanforda (Cell, 2021) sześć porcji dziennie podniosło różnorodność mikrobów jelitowych i obniżyło 19 zapalnych białek krwi. Połknięte bakterie przeważnie się nie osiedlają; przesuwa się za to twoja własna społeczność. Pasteryzowane słoiki nie zawierają żadnych."

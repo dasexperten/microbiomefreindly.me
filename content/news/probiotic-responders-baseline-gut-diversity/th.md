@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "TH (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Thailand (Ubersuggest locId 2764)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "ความหลากหลายของลำไส้ที่คุณเริ่มต้นไว้ คืองานวิจัยหนึ่งเสนอไว้เช่นนั้น ในงานทดลองแบบสุ่มปกปิดสองทางนาน 12 สัปดาห์ในผู้ใหญ่น้ำหนักเกิน 120 คน (Gut Microbes, 2026) Lactiplantibacillus plantarum LRCC5282 ที่ฆ่าด้วยความร้อน คือเซลล์ที่ตายแล้วแทนที่จะเป็นโพรไบโอติกที่มีชีวิต ไม่ได้เปลี่ยนอะไรเลยโดยเฉลี่ย มีเพียงคนที่ลำไส้หลากหลายน้อยที่สุดตั้งแต่ต้นที่น้ำหนัก ดัชนีมวลกาย และเลปตินลดลงมากกว่ายาหลอก ซึ่งเป็นข้อค้นพบในกลุ่มย่อย ไม่ใช่ผลที่พิสูจน์แล้ว"

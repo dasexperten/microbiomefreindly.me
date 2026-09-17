@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Pesquisadores pegaram a parte líquida das fezes de pessoas com síndrome do intestino irritável e pingaram sobre redes vivas de nervos do intestino. Os nervos dispararam muito mais forte do que com o líquido de pessoas saudáveis. Enzimas que cortam proteínas explicaram o efeito no subtipo com diarreia. Os nervos testados eram de cobaia, não humanos."

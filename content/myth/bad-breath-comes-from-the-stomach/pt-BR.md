@@ -1,6 +1,6 @@
 ---
 title: "Mau hálito do estômago? Um caso em cada cem"
-meta: "Uma clínica do hálito mediu 491 pacientes: a boca explicou 87 % do mau hálito e o tubo digestivo, só 1 %. Onde o cheiro de enxofre é mesmo fabricado."
+meta: "Uma clínica do hálito mediu 491 pacientes: a boca explicou 87 % do mau hálito; o estômago e o resto do tubo digestivo, só 1 %."
 kicker: "Checagem de mito"
 type: myth
 topic: oral
@@ -9,10 +9,10 @@ slug: bad-breath-comes-from-the-stomach
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "mau hálito estômago"
+  volume: 1300
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Em parte verdade, e muito pouco. O cheiro são compostos sulfurados voláteis, feitos por bactérias anaeróbias no fundo da língua e sob a gengiva, acima do esôfago e não abaixo dele. Numa clínica do hálito com 491 pacientes, a boca explicou 87 % dos casos e o tubo digestivo, 1 %. Mau hálito gástrico existe; é a exceção."

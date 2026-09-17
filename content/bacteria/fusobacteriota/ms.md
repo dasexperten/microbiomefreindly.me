@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Fusobacteriota, satu filum (cabang penuh pokok bakteria) bakteria anaerob berbentuk gelendong, biasanya hidup dalam mulut sebagai penyambung yang mengikat komuniti plak gigi: tugas struktur, bukan kecacatan. Tetapi satu klad kecil Fusobacterium nucleatum sangat diperkaya dalam tumor kolorektum, tempat salah satu adhesinnya boleh menghidupkan isyarat berkaitan kanser dalam sel manusia."

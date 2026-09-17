@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Malaysia (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — measured, no volume: enzim pencernaan returns no data in MY"
 author: magnus-larsen
 voice: greger
 answer: "Enzim ialah protein yang memotong satu ikatan tertentu. Dekstranase memotong gam gula plak gigi; papain dan bromelain memotong protein; lisozim memotong dinding sel bakteria; glukosa oksidase menukar glukosa menjadi antiseptik lembut. Tiada satu pun membunuh secara meluas. Semuanya bekerja dengan membuang struktur — sebab itulah ia dikaji terhadap biofilem, bukan sebagai antibiotik."

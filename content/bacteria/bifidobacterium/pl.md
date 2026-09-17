@@ -9,10 +9,10 @@ slug: bifidobacterium
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "bifidobacterium"
+  volume: 3600
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bifidobacterium to rodzaj bakterii rozwidlonych (w kształcie widełek), beztlenowych (unikających powietrza), które rządzą jelitami niemowlęcia karmionego piersią, żywiąc się cukrami mleka kobiecego. Większość gatunków jest nieszkodliwa i fermentuje te cukry do octanu i mleczanu, dwóch łagodnych kwasów; kilka nie: B. dentium to oportunistyczny sprawca próchnicy wyizolowany z ubytków, a szczepy probiotyczne trafiały czasem do krwi skrajnych wcześniaków."

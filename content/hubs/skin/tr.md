@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TR (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bağırsak–cilt ekseni, bağırsak mikrobiyomuyla cilt arasındaki çift yönlü bağdır. Bağırsak bakterileri cilde ulaşan bağışıklık hücrelerini ve metabolitleri biçimlendirir; cildin kendi mikropları da bu bağışıklık tonuna yanıt verir. Egzama, akne ve rozase bağırsaktaki değişimlerle ilişkilidir — bakteriler yüze göç ettiği için değil, iltihap, bariyer ve beslenme üzerinden."

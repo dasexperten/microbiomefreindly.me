@@ -1,6 +1,6 @@
 ---
-title: "바이오필름과 음식을 끊는 효소, 하나씩"
-meta: "덱스트라나아제, 파파인, 브로멜라인, 라이소자임, 글루코스 옥시다아제. 각 효소가 무엇을 끊는지, 접착제가 사라지면 바이오필름이 왜 무너지는지, 시험이 보이지 못한 것."
+title: "바이오필름을 끊는 단백질 분해 효소"
+meta: "덱스트라나아제, 파파인, 브로멜라인, 라이소자임, 글루코스 옥시다아제. 단백질 분해 효소를 비롯한 각 효소가 무엇을 끊는지, 접착제가 사라지면 바이오필름이 왜 무너지는지, 시험이 보이지 못한 것."
 kicker: "효소"
 type: hubs
 topic: enzymes
@@ -9,10 +9,10 @@ slug: enzymes
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "단백질 분해 효소"
+  volume: 480
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "효소는 특정한 결합 하나를 끊는 단백질입니다. 덱스트라나아제는 치태의 당 접착제를 끊고, 파파인과 브로멜라인은 단백질을 끊고, 라이소자임은 세균 세포벽을 끊고, 글루코스 옥시다아제는 포도당을 순한 소독제로 바꿉니다. 어느 것도 널리 죽이지는 않습니다. 구조를 걷어내는 방식으로 일하기에 항생제가 아니라 바이오필름을 상대로 연구됩니다."

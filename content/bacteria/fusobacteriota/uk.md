@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Fusobacteriota — тип, тобто ціла гілка бактеріального дерева, анаеробних веретеноподібних бактерій, які звично живуть у роті як з'єднувач, що тримає спільноту зубного нальоту вкупі: це будівельна робота, а не вада. Але одна мала клада Fusobacterium nucleatum сильно збагачена в колоректальних пухлинах, де один з її адгезинів уміє вмикати пов'язану з раком сигналізацію в клітинах людини."

@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Malaysia (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — measured, no honest phrase: CFU terms return no data; probiotik terbaik (480) is buyer intent this page does not serve"
 author: magnus-larsen
 voice: greger
 answer: "Separuh benar. Dos penting, tetapi hanya dalam satu strain dan satu hasil. Dalam satu kajian, 100 bilion UPK — unit pembentuk koloni — mengatasi 50 bilion bagi cirit-birit berkaitan antibiotik; dalam satu lagi, lonjakan seratus kali ganda organisma yang sama tidak mengubah apa-apa pada kanak-kanak dengan cirit-birit akut. Angka pada label ialah dakwaan tentang kuantiti, bukan tentang bukti."

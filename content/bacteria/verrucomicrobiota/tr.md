@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Verrucomicrobiota (eski adıyla Verrucomicrobia), en tanınmış üyesi Akkermansia muciniphila olan bir bakteri şubesidir; bu tür kolonunuzun mukus tabakasında yaşar ve onu yer. Ölçülü olduğunda bu döngü bağırsak mukozasını besler ve daha iyi metabolik belirteçlerle birlikte gider. Aşırı olduğunda ya da lifsiz bir beslenmede aynı iştah bariyeri inceltir."

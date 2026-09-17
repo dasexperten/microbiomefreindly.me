@@ -1,6 +1,6 @@
 ---
-title: "Mikrobiom usus: apa yang sains tahu dan tidak tahu"
-meta: "Mikrobiom usus tanpa berlebihan: apa yang dibuat komuniti mikrob dalam usus anda, tiga soalan yang paling kerap ditanya, dan di mana bukti berhenti."
+title: "Mikrobiom usus: apa itu gut health sebenarnya"
+meta: "Gut health tanpa berlebihan: apa yang dibuat komuniti mikrob dalam usus anda, tiga soalan yang paling kerap ditanya, dan di mana bukti berhenti."
 kicker: "Mikrobiom usus"
 type: hubs
 topic: gut
@@ -9,10 +9,10 @@ slug: gut
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "gut health"
+  volume: 1600
   market: "Malaysia (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Mikrobiom usus ialah komuniti bakteria, arkea, kulat dan virus yang hidup terutamanya dalam usus besar. Ia menghadam serat yang kita sendiri tidak mampu hadam, menghasilkan asid lemak rantai pendek dan vitamin, melatih sistem imun dan memberi makan lapisan usus. Ia dibentuk oleh pemakanan, kelahiran, antibiotik dan usia — dan ia berubah dalam beberapa hari."

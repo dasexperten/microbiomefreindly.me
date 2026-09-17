@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "A diversidade que o seu intestino já tinha, sugere um estudo. Num ensaio duplo-cego de 12 semanas com 120 adultos com sobrepeso (Gut Microbes, 2026), Lactiplantibacillus plantarum LRCC5282 morta pelo calor, e não um probiótico vivo, não mudou nada na média. Só os intestinos menos diversos perderam mais peso, IMC e leptina que o placebo: achado de subgrupo, não prova."

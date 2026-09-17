@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "TH (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Thailand (Ubersuggest locId 2764)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Verrucomicrobiota หรือเดิมคือ Verrucomicrobia เป็นไฟลัมแบคทีเรียที่สมาชิกซึ่งรู้จักกันดีที่สุดคือ Akkermansia muciniphila ซึ่งอาศัยอยู่ในชั้นเมือกของลำไส้ใหญ่คุณและกินมันเป็นอาหาร ถ้าอยู่ในระดับพอดี การหมุนเวียนนั้นเลี้ยงเยื่อบุลำไส้และเดินคู่ไปกับค่าทางเมตาบอลิกที่ดีขึ้น แต่ถ้ามากเกินไป หรืออยู่ในอาหารที่มีใยอาหารน้อย ความอยากอาหารแบบเดียวกันนั้นก็ทำให้กำแพงบางลง"

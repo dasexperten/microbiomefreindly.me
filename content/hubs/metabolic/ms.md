@@ -9,10 +9,10 @@ slug: metabolic
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "glp-1"
+  volume: 4400
   market: "Malaysia (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bakteria usus menapai serat menjadi asid lemak rantai pendek — asetat, propionat, butirat. Semuanya memberi makan dinding usus dan memberi isyarat kepada sel yang membebaskan GLP-1, hormon yang melambatkan perut dan memberitahu otak bahawa anda sudah kenyang. Akkermansia muciniphila, yang hidup atas lendir, mengukuhkan sawar yang menjaga perbualan ini teratur. Ia satu laluan, bukan penawar."

@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Gas ang mabahong hininga. Tinatanggal ng anaerobe sa balat ng dila at sa bulsa ng gilagid ang sulfur sa amino acid gamit ang enzyme ng mgl gene. Sa 2026 na pag-aaral, ibinaba ng dalawang lactic acid bacteria ang gene na iyon sa lalagyan at binawasan ang balat ng dila sa daga; walang taong sinubukan, walang gas na sinukat."

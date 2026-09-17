@@ -1,6 +1,6 @@
 ---
-title: "Ağız gargarası tansiyona gereken mikropları öldürür"
-meta: "Daha çok ağız bakterisi öldürmek hep daha mı iyi? 2013 çalışması hayır diyor: yedi gün antiseptik gargara ağız nitritini %90 azalttı, tansiyonu yükseltti."
+title: "Antibakteriyel gargara tansiyona gereken mikropları öldürür"
+meta: "Antibakteriyel gargara hep daha mı iyi? 2013 çalışması hayır diyor: yedi gün antiseptik gargara ağız nitritini %90 azalttı, tansiyonu yükseltti."
 kicker: "Mit kontrolü"
 type: myth
 topic: oral
@@ -9,10 +9,10 @@ slug: antibacterial-mouthwash-is-always-good
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "antibakteriyel gargara"
+  volume: 480
   market: "TR (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Yanlış. Geniş etkili bir antiseptik gargara, zararlı mikropları yararlı olanlardan ayıramaz; bu yüzden ağzınızın kendi topluluğunu düzleştirir. 2013 tarihli bir çalışmada yedi günlük klorheksidin gargarası, vücudun damarları gevşetmek için kullandığı ağız nitritini %90 azalttı ve tansiyonu 2–3,5 mmHg yükseltti. Gargara bir sorunu tedavi eder, bir rutini değil."

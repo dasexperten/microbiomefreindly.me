@@ -1,6 +1,6 @@
 ---
-title: "舌头上那层苔，到底是什么做的"
-meta: "舌头上的白膜，主要是你自己脱落的细胞和细菌。它由什么组成，为什么会有气味，什么时候算正常，以及试验显示什么能减少它。"
+title: "舌苔和口臭：那层苔到底是什么做的"
+meta: "舌苔主要是你自己脱落的细胞和细菌。它由什么组成，为什么会引起口臭，什么时候算正常，以及试验显示什么能减少它。"
 kicker: "马格努斯解答"
 type: ask
 topic: oral
@@ -9,10 +9,11 @@ slug: is-a-coated-tongue-bad
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "舌苔口臭"
+  keywordSimplified: "舌苔口臭"
+  volume: 210
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "多半是正常的。那层膜是脱落的细胞、食物残渣和喜欢缺氧的细菌，卡在舌乳头之间。在年轻成年人身上，舌根一层白色或淡黄的薄苔是常见所见，不是警告。三件事会改变这个判断：它变厚；它擦掉后露出发红的创面；或者口腔已经变干。"

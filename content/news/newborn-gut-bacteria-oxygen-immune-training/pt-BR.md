@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroides fragilis monta na membrana uma gordura, a alfa-galactosilceramida. Um trabalho na Cell relata que essa gordura veda a membrana contra o vazamento de prótons, então um anaeróbio que o ar deveria envenenar resiste ao oxigênio do intestino do bebê, e a mesma molécula calibra as células T natural killer, que leem gorduras. Só em camundongos; nenhum bebê testado."

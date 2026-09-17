@@ -1,6 +1,6 @@
 ---
-title: "Microbiomul gurii: placa, cariile și gingiile pe înțeles"
-meta: "Placa e un biofilm, nu murdărie. Ce este microbiomul gurii, cum ajunge la carii și la boala de gingii și unde se opresc dovezile."
+title: "Placa dentară e un biofilm: cariile și gingiile pe înțeles"
+meta: "Placa dentară e un biofilm, nu murdărie. Ce este microbiomul gurii, cum ajunge placa la carii și la boala de gingii și unde se opresc dovezile."
 kicker: "Microbiomul gurii"
 type: hubs
 topic: oral
@@ -9,10 +9,10 @@ slug: oral
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "placa dentara"
+  volume: 590
   market: "RO (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Microbiomul gurii este comunitatea de bacterii care trăiesc pe dinți, pe gingii, pe limbă și pe obraji. Pe dinți formează placa — un biofilm structurat, ținut laolaltă de zaharuri făcute chiar de bacterii. În echilibru, protejează; când zahărul vine des sau curățarea e rară, speciile care fac acid preiau locul, smalțul se dizolvă, iar gingiile se inflamează."

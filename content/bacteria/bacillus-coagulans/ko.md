@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacillus coagulans는 잠든 갑옷 포자로 살아남는 젖산 세균이며, 상주자가 아니라 승객입니다. 발아하고, 일하고, 씻겨 나갑니다. Heyndrickxia coagulans는 같은 생물의 더 새로운 유효 이름이고 의학은 아직 옛 이름을 씁니다. 시험에서는 침 속 Streptococcus mutans, 즉 충치 세균이 줄고 과민성 대장 증상이 누그러졌지만, 따뜻하고 산성인 식품을 상하게 하기도 합니다."

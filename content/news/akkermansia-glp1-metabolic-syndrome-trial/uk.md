@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "У дослідженні за участю 142 людей (Gut Microbes, 2026) чотири місяці пастеризованої, тобто вбитої нагріванням, Akkermansia muciniphila не поліпшили загальної чутливості до інсуліну — єдиного, заради чого його будували. У пошукових аналізах, які радше ставлять питання, ніж закривають їх, вона підняла власний GLP-1 після солодкого напою і трохи зрушила печінкову чутливість у переддіабетиків."

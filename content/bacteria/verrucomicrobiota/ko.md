@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Verrucomicrobiota는 옛 이름이 Verrucomicrobia인 세균 문으로, 가장 잘 알려진 구성원 Akkermansia muciniphila가 대장의 점액층에 살면서 그 점액을 먹습니다. 알맞은 정도라면 그 교체가 장 점막을 먹이고 더 나은 대사 지표와 함께 갑니다. 지나치거나 식이섬유가 적은 식단에서는 같은 식욕이 장벽을 얇게 만듭니다."

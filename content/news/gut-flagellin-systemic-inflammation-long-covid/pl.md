@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Badanie z 2026 roku w Gut proponuje, że zapalenie w długim covidzie zaczyna się w jelitach: flagelina, białko bakteryjnych wici, przedostaje się dalej i uruchamia TLR5 na neutrofilach, a te wydzielają IL-15 i skłaniają makrofagi do kwasu arachidonowego, aż zapalają się odległe narządy. Ten sam wzorzec w czterech chorobach; test przyczynowy tylko u myszy. To nie jest leczenie."

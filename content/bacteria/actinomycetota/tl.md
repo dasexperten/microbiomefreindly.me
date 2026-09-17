@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Ang Actinomycetota, dating Actinobacteria, ay phylum ng Gram-positive at high-GC na bacteria (mayaman ang DNA sa dalawa sa apat nitong letra) sa gut, bibig at balat mo. Dito galing ang Bifidobacterium at ang karamihan ng natural na antibiotics, pati ang bacteria ng tuberculosis at diphtheria. Iisang puno ng pamilya, magkasalungat na bunga: species, lugar at host ang nagpapasya."

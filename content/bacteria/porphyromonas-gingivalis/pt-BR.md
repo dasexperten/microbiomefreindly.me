@@ -9,10 +9,10 @@ slug: porphyromonas-gingivalis
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "porphyromonas gingivalis"
+  volume: 880
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Porphyromonas gingivalis é um anaeróbio (vive sem oxigênio) que ignora açúcar e come proteína, na bolsa da gengiva. Muita gente saudável a carrega; só faz mal quando a comunidade ao redor desequilibra. Nenhum benefício demonstrado. Suas proteases (enzimas que cortam proteínas) desarmam as defesas do corpo; é suspeita, não causa provada, na artrite e no Alzheimer."

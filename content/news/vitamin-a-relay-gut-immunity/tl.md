@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Hindi mag-isang naglalakbay ang vitamin A patungo sa immune cell. Sa mga daga, pinapagawa ng gut bacteria ang gut lining ng mga protinang tagadala — serum amyloid A — na nag-aabot ng retinol sa myeloid cell. Naglalakad ang mga selulang iyon sa lymph node at ipinapasa ito sa T cell. Mga tatlong araw ang relay — sa daga lang."

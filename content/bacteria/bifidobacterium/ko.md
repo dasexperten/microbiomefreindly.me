@@ -1,6 +1,6 @@
 ---
 title: "비피더스균이 다 좋은 균은 아니다"
-meta: "Bifidobacterium은 모유를 먹는 아기의 장을 지배합니다. 우리에게 해주는 일과 우리를 상대로 하는 일, 그리고 근거가 정확히 어디서 멈추는지."
+meta: "비피더스균(Bifidobacterium)은 모유를 먹는 아기의 장을 지배합니다. 우리에게 해주는 일과 우리를 상대로 하는 일, 그리고 근거가 정확히 어디서 멈추는지."
 kicker: "Bifidobacterium"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: bifidobacterium
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "비피더스균"
+  volume: 1600
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bifidobacterium은 Y자로 갈라진 모양의 혐기성, 즉 공기를 피하는 세균 속으로, 모유 당을 먹으며 모유 수유아의 장을 지배합니다. 대부분의 종은 해롭지 않고 그 당을 발효해 순한 산인 아세트산과 젖산으로 만듭니다. 그렇지 않은 종도 몇 있습니다. B. dentium은 충치에서 분리된 기회성 충치 유발균이고, 프로바이오틱스 균주가 초미숙아의 혈류에 이른 일도 드물게 있었습니다."

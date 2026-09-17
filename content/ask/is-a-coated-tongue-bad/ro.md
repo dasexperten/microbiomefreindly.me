@@ -1,6 +1,6 @@
 ---
-title: "Din ce e făcut, de fapt, depozitul de pe limbă"
-meta: "Pelicula albă de pe limbă e mai ales din propriile tale celule căzute și bacterii. Din ce e făcută, de ce miroase, când e normală și ce o reduce în studii."
+title: "Limba albă: din ce e făcut, de fapt, depozitul de pe limbă"
+meta: "Limba albă e mai ales din propriile tale celule căzute și bacterii. Din ce e făcut depozitul, de ce miroase, când e normal și ce îl reduce în studii."
 kicker: "Magnus răspunde"
 type: ask
 topic: oral
@@ -9,10 +9,10 @@ slug: is-a-coated-tongue-bad
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "limba alba"
+  volume: 1300
   market: "RO (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "De cele mai multe ori e normal. Pelicula e făcută din celule căzute, resturi de mâncare și bacterii care iubesc lipsa aerului, prinse între papile. La adulții tineri, un depozit subțire în spate, alb sau gălbui, e lucrul obișnuit, nu un avertisment. Trei lucruri schimbă asta: se îngroașă, se șterge lăsând țesut viu sau gura s-a uscat."

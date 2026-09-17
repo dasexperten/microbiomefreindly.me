@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroides fragilis fabrique une graisse de membrane, un alpha-galactosylcéramide. De nouveaux travaux dans Cell rapportent que cette graisse scelle la membrane contre les fuites de protons, si bien qu'une anaérobie stricte que l'air devrait empoisonner survit à l'oxygène d'un intestin de nouveau-né, et que la même molécule règle les cellules immunitaires qui lisent les graisses. Souris seulement, aucun nourrisson testé."

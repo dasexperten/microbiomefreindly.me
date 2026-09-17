@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Ang Akkermansia muciniphila ay gut bacteria na nakatira sa mucus layer ng bituka at kumakain ng mucin, ang protina na inilalabas doon ng gut mo. Pinapasigla ng pangangaing ito ang renewal — sa daga, mas mahigpit na barrier; sa isang maliit na human trial, mas mabuting insulin sensitivity. Pero kapag walang fiber, o may pathogen, nagpapanipis ito sa halip."

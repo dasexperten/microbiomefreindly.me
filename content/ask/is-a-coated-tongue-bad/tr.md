@@ -1,6 +1,6 @@
 ---
-title: "Dilinizdeki o beyaz tabaka gerçekte neyden oluşur"
-meta: "Dildeki beyaz film çoğunlukla kendi dökülen hücrelerinizle bakterilerdir. Neyden oluşur, neden kokar, ne zaman normaldir ve denemelere göre onu ne azaltır."
+title: "Dil pası nedir, o beyaz tabaka gerçekte neyden oluşur"
+meta: "Dil pası nedir: dildeki beyaz film çoğunlukla kendi dökülen hücreleriniz ve bakterilerdir. Neden kokar, ne zaman normaldir, denemelere göre onu ne azaltır."
 kicker: "Magnus yanıtlıyor"
 type: ask
 topic: oral
@@ -9,10 +9,10 @@ slug: is-a-coated-tongue-bad
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "dil pası"
+  volume: 390
   market: "TR (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Çoğunlukla normaldir. Film; dökülen hücreler, besin artıkları ve papillaların arasına sıkışmış, havasızlığı seven bakterilerdir. Genç yetişkinlerde dilin arkasındaki beyaz ya da sarımsı ince bir tabaka olağan bulgudur, uyarı değil. Bunu üç şey değiştirir: tabakanın kalınlaşması, silindiğinde altından çiğ doku çıkması ya da ağzın kurumuş olması."

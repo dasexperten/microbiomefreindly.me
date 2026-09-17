@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "VN (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Nghiên cứu năm 2026 trên Gut đề xuất: viêm trong covid kéo dài bắt đầu từ ruột. Flagellin, đạm dựng nên roi bơi, rò ra, chạm vào TLR5 trên bạch cầu trung tính; chúng nhả IL-15 và đẩy đại thực bào tạo axit arachidonic tới khi cơ quan ở xa phát viêm. Phép thử nhân quả chỉ ở chuột."

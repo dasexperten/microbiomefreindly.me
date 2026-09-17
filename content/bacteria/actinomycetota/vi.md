@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Actinomycetota (trước là Actinobacteria) là ngành vi khuẩn Gram dương giàu GC, sống ở ruột, miệng và da bạn. Ngành này cho ta Bifidobacterium và hầu hết kháng sinh tự nhiên, nhưng cũng cho ta vi khuẩn lao và vi khuẩn gây mụn trứng cá. Cùng một cây, kết cục trái ngược: loài và vị trí quyết định."

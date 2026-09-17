@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroidota, fost Bacteroidetes, este o încrengătură de bacterii gram-negative care fug de oxigen și trăiesc în număr uriaș în colonul tău. Hrănite cu fibre vegetale, desfac ce enzimele tale nu pot și ajută la antrenarea imunității; lipsite de ele, îți mănâncă stratul de mucus — deocamdată la șoareci. Rezerva: ieșite din intestin, apar în majoritatea infecțiilor anaerobe."

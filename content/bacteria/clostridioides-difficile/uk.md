@@ -1,6 +1,6 @@
 ---
-title: "Носійство C. difficile може знизити ризик C. difficile"
-meta: "Clostridioides difficile, колишня Clostridium difficile: що це, де живе, чому шкодить — і чому тихе носійство йде поряд із меншим проносом."
+title: "Клостридії: носійство C. difficile знижує ризик"
+meta: "Клостридії та Clostridioides difficile: що це, де живе, чому шкодить — і чому тихе носійство йде поряд із меншим проносом."
 kicker: "Clostridioides difficile"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: clostridioides-difficile
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "клостридії"
+  volume: 480
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Clostridioides difficile — спороутворювальна кишкова бактерія, чиї сплячі спори переживають антибіотики; вона спричиняє тяжкий пронос, щойно антибіотики зметуть мікробну спільноту, яка тримала її в шорах. Носійство — не хвороба: в об'єднаних лікарняних дослідженнях у тихих носіїв — організм у калі, симптомів немає — пронос від C. difficile розвивався рідше, ніж у пацієнтів, які не носили нічого."

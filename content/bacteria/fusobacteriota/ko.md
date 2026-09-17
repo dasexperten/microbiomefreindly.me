@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Fusobacteriota는 혐기성 방추 모양 세균들의 문, 곧 세균 계통수의 한 가지 전체로, 보통 입안에 살면서 치태 군집을 하나로 붙들어 두는 연결자 노릇을 합니다. 결함이 아니라 구조적 역할입니다. 다만 Fusobacterium nucleatum의 작은 한 갈래가 대장 종양에서 뚜렷하게 많아지고, 그 부착소 하나가 사람 세포에서 암과 관련된 신호를 켤 수 있습니다."

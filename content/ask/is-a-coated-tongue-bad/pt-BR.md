@@ -1,6 +1,6 @@
 ---
-title: "Do que é feita mesmo aquela camada na sua língua"
-meta: "A camada branca na língua é feita sobretudo das suas próprias células soltas e de bactérias. Do que ela é, por que cheira, quando é normal e o que a reduz."
+title: "Língua branca: do que é feita mesmo essa camada"
+meta: "A língua branca é feita sobretudo das suas próprias células soltas e de bactérias. Do que ela é, por que cheira, quando é normal e o que a reduz."
 kicker: "Magnus responde"
 type: ask
 topic: oral
@@ -9,10 +9,10 @@ slug: is-a-coated-tongue-bad
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "língua branca"
+  volume: 18100
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Quase sempre é normal. A camada é feita de células soltas, restos de comida e bactérias que fogem do ar, presas entre as papilas. Em adultos jovens, uma camada fina no fundo, branca ou amarelada, é o normal, não um alerta. Três coisas mudam isso: ela engrossa, sai e deixa carne viva, ou a boca secou."

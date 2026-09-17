@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Fałsz. Szeroko działający antyseptyk nie odróżni bakterii szkodliwych od pożytecznych, więc spłaszcza własną społeczność twoich ust. W badaniu z 2013 roku tydzień płukania chlorheksydyną obniżył azotyny w ustach — to, czym ciało rozluźnia naczynia — o 90 % i podniósł ciśnienie o 2–3,5 mmHg. Płukanka leczy problem, a nie jest rutyną."

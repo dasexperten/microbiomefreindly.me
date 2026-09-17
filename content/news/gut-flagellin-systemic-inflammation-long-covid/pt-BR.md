@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Um estudo na Gut, 2026, propõe que a inflamação da covid longa vem do intestino: a flagelina, a proteína do rabo bacteriano, vaza e aciona o TLR5 dos neutrófilos, que soltam IL-15 e levam macrófagos a fazer ácido araquidônico até inflamar órgãos distantes. O padrão está em quatro doenças; o teste causal, só em camundongos. Nada aqui é tratamento."

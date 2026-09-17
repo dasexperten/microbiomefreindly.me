@@ -1,6 +1,6 @@
 ---
-title: "IBS ağrısı kafanızda değil: enzimler sinirleri dürtüyor"
-meta: "IBS hastalarının dışkı sıvısı bağırsak sinir ağlarını sağlıklılarınkinden çok daha güçlü ateşledi; 2026 Gut çalışması. Neyi gösteriyor, neyi göstermiyor."
+title: "Huzursuz bağırsak sendromu neden olur: enzimler ve sinirler"
+meta: "Huzursuz bağırsak sendromu neden olur? IBS hastalarının dışkı sıvısı bağırsak sinir ağlarını çok daha güçlü ateşledi; 2026 Gut. Neyi göstermiyor?"
 kicker: "Huzursuz bağırsak"
 type: news
 topic: gut
@@ -9,10 +9,10 @@ slug: stool-proteases-irritable-bowel-nerves
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "huzursuz bağırsak sendromu neden olur"
+  volume: 1300
   market: "TR (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Araştırmacılar huzursuz bağırsak sendromu olan kişilerin dışkısının sıvı kısmını alıp canlı bağırsak sinir ağlarının üzerine damlattı. Sinirler, sağlıklı insanların dışkı sıvısındakine göre çok daha güçlü ateşledi. İshal alt tipinde etkiyi, protein kesen enzimler açıkladı. Denenen sinirler insan değil, kobay sinirleriydi."

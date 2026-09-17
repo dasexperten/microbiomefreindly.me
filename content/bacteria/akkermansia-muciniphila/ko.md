@@ -1,6 +1,6 @@
 ---
-title: "Akkermansia: 내 점액을 먹는 장내 세균"
-meta: "내 장 점액층을 먹고 사는 세균, 그리고 대사를 지켜줄지도 모르는 세균. 이름 붙은 연구들이 보여주는 것과, 그 근거가 멈추는 지점."
+title: "아커만시아 뮤시니필라: 점액을 먹는 균"
+meta: "아커만시아 뮤시니필라는 내 장 점액층을 먹고 사는 세균, 그리고 대사를 지켜줄지도 모르는 세균. 이름 붙은 연구들이 보여주는 것과, 그 근거가 멈추는 지점."
 kicker: "Akkermansia"
 type: bacteria
 topic: metabolic
@@ -9,10 +9,10 @@ slug: akkermansia-muciniphila
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "아커만시아 뮤시니필라"
+  volume: 110
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Akkermansia muciniphila는 장 점액층 안에 살면서 장이 스스로 내놓는 단백질인 뮤신을 먹는 세균입니다. 그 층을 뜯어 먹으면 새 점액이 만들어지고, 생쥐에서는 장벽이 더 촘촘해졌으며 작은 사람 시험 하나에서는 인슐린 감수성이 좋아졌습니다. 다만 식이섬유가 없거나 병원균이 함께 있으면 같은 식욕이 그 층을 얇게 만듭니다."

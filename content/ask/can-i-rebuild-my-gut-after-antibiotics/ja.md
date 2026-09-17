@@ -1,6 +1,6 @@
 ---
-title: "抗生物質のあとの腸、戻るが全部ではない"
-meta: "健康な男性12人、最後の切り札の抗生物質3種、6か月の採便。群れは1.5か月でほぼ元の構成に戻りました。9種は戻りませんでした。"
+title: "抗生物質と腸内細菌、戻るが全部ではない"
+meta: "抗生物質のあと腸内細菌は戻るのか。健康な男性12人、最後の切り札の抗生物質3種、6か月の採便。群れは1.5か月でほぼ元の構成に戻りました。9種は戻りませんでした。"
 kicker: "マグナスが答えます"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: can-i-rebuild-my-gut-after-antibiotics
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "抗生物質 腸内細菌"
+  volume: 720
   market: "Japan (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "おおむね、戻ります。健康な男性12人に抗生物質3種を4日間投与した研究（Nature Microbiology、2018）では、腸の群れは約1.5か月で元の構成の近くまで戻りました。ただし、投与前には全員が持っていた9種が、180日目の時点でも多くの人で検出できませんでした。回復は本物で、不完全で、人によって速さが違います。"

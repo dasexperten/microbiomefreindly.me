@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Kepelbagaian usus permulaan anda, cadang satu kajian. Dalam ujian rawak buta ganda 12 minggu ke atas 120 orang dewasa berlebihan berat badan (Gut Microbes, 2026), Lactiplantibacillus plantarum LRCC5282 yang mati haba tidak mengubah apa-apa secara purata. Hanya orang yang ususnya paling kurang pelbagai kehilangan lebih berat, BMI dan leptin berbanding plasebo: penemuan subkumpulan, bukan kesan terbukti."

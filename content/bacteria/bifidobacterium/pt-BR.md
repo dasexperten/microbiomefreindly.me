@@ -9,10 +9,10 @@ slug: bifidobacterium
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "Brasil (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "bifidobacterium"
+  volume: 5400
+  market: "BR (Ubersuggest locId 2076)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bifidobacterium é um gênero de bactérias bifurcadas (em forquilha) e anaeróbias que domina o intestino do bebê amamentado comendo açúcares do leite humano. A maioria é inofensiva e fermenta esses açúcares em acetato e lactato, dois ácidos suaves; algumas não: a B. dentium é um cariogênico oportunista isolado de cáries, e probióticos já chegaram ao sangue de prematuros extremos."

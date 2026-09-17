@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "2026년 Gut Microbes에 실린 142명 규모 시험에서, 저온살균한 곧 열로 죽인 Akkermansia muciniphila를 넉 달 먹어도 전신 인슐린 감수성은 좋아지지 않았습니다. 시험이 답하려던 바로 그 하나였습니다. 답을 정하기보다 질문을 던지는 탐색적 분석에서는, 포도당을 마신 뒤 몸 자신의 GLP-1이 올랐고 당뇨 전단계 참가자에서 간의 인슐린 감수성이 조금 움직였습니다."

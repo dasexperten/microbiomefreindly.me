@@ -9,10 +9,10 @@ slug: bifidobacterium
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "ビフィズス菌"
+  volume: 27100
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bifidobacteriumは二股に分かれた（フォーク形の）嫌気性、つまり空気を避ける細菌の属で、母乳の糖を食べて母乳育児の赤ちゃんの腸を支配します。大半の種は無害で、その糖を酢酸と乳酸という二つの穏やかな酸に発酵させます。そうでないものも少数います。B. dentiumはう蝕から分離された日和見の虫歯菌ですし、プロバイオティクスの株が極低出生体重児の血流に入ったこともあります。"

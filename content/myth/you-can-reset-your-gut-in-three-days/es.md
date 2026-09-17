@@ -9,11 +9,10 @@ slug: you-can-reset-your-gut-in-three-days
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "como restaurar la flora intestinal"
-  collision: "pending — la frase medida la queda la página de preguntas; esta espera su propia medición (reset/detox intestinal, MX) mañana"
-  volume: 590
+  keyword: "detox intestinal"
+  volume: 70
   market: "MX (Ubersuggest locId 2484)"
-  pulled: "2026-09-16"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Falso. La comida sí mueve la comunidad intestinal, y deprisa. Once voluntarios siguieron dos dietas extremas: la mezcla cambió un día tras llegar la comida y volvió dos días tras dejarla (Nature, 2014). Cerca del 60 % de las cepas de un adulto siguen ahí cinco años después (Science, 2013). Tres días cambian la lectura, no los residentes."

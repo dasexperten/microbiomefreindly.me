@@ -1,6 +1,6 @@
 ---
 title: "혀에 낀 설태는 무엇으로 되어 있나"
-meta: "혀의 하얀 막은 대부분 자기 몸에서 떨어져 나온 세포와 세균입니다. 무엇으로 이루어졌는지, 왜 냄새가 나는지, 언제가 정상인지, 시험에서 무엇이 줄여 주었는지."
+meta: "설태, 곧 혀의 하얀 막은 대부분 자기 몸에서 떨어져 나온 세포와 세균입니다. 무엇으로 이루어졌는지, 왜 냄새가 나는지, 언제가 정상인지, 시험에서 무엇이 줄여 주었는지."
 kicker: "매그너스가 답합니다"
 type: ask
 topic: oral
@@ -9,10 +9,10 @@ slug: is-a-coated-tongue-bad
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "설태"
+  volume: 880
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "대개는 정상입니다. 이 막은 떨어져 나온 세포와 음식 찌꺼기, 그리고 공기를 싫어하는 세균이 혀 유두 사이에 걸린 것입니다. 젊은 성인에게는 혀 안쪽의 얇고 희거나 누르스름한 설태가 흔한 소견이지 경고가 아닙니다. 달라지는 경우는 셋입니다. 두꺼워질 때, 닦이면서 헌 살이 드러날 때, 그리고 입이 말랐을 때."

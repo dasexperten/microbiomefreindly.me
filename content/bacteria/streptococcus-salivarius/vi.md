@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "VN (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus salivarius là liên cầu vô hại, lên lưỡi vài ngày sau sinh, giữ chỗ bằng bacteriocin, kháng sinh dạng đạm nhắm vào đối thủ. Vài chủng được thử cho viêm họng và hôi miệng trong các thử nghiệm nhỏ, yếu. Nó hiếm khi rời miệng, nhưng khi theo kim chọc dò tủy sống, nó đã gây viêm màng não."

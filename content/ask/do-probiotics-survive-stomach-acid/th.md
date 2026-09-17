@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Thailand (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "บางตัวรอด พวกที่สร้างสปอร์รอดได้ด้วยโครงสร้างของมันเอง ส่วนสายพันธุ์ที่บอบบางส่วนใหญ่ไม่รอด แม้สารเคลือบและมื้ออาหารจะช่วยเพิ่มโอกาส การรอดชีวิตเป็นเส้นชัยที่ผิด งานเดียวที่ดูเยื่อบุลำไส้ของคนจริงพบว่าสายพันธุ์ที่กลืนลงไปยังมีชีวิตหลังการเดินทาง ลงหลักได้ในบางคนและไม่ได้ในบางคน ผ่านไปได้ไม่เท่ากับย้ายเข้าอยู่"

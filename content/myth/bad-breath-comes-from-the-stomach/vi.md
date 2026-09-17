@@ -9,10 +9,10 @@ slug: bad-breath-comes-from-the-stomach
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "hôi miệng do dạ dày"
+  volume: 260
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Đúng một phần, và rất ít. Mùi là các hợp chất lưu huỳnh bay hơi, do vi khuẩn kỵ khí ở phía trong lưỡi và dưới lợi tạo ra, phía trên thực quản chứ không phải dưới. Ở một phòng khám hơi thở với 491 bệnh nhân, khoang miệng giải thích 87 % số ca, đường tiêu hóa 1 %."

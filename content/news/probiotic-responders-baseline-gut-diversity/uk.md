@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Ваше початкове різноманіття кишківника, як припускає одне дослідження. У 12-тижневому подвійному сліпому дослідженні за участю 120 дорослих із надмірною вагою (Gut Microbes, 2026) убита нагріванням, тобто мертва, Lactiplantibacillus plantarum LRCC5282 у середньому не змінила нічого. Вагу, ІМТ і лептин більше за плацебо втратили лише люди з найменш різноманітним кишківником — підгрупова знахідка, а не доведений ефект."

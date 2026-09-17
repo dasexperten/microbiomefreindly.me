@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Badacze wzięli płynną część stolca od osób z zespołem jelita drażliwego i nakropili ją na żywe sieci nerwowe jelita. Nerwy wyładowywały się dużo mocniej niż przy płynie od osób zdrowych. W podtypie biegunkowym efekt tłumaczyły enzymy tnące białka. Badane nerwy pochodziły od świnki morskiej, nie od człowieka."

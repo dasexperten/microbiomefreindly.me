@@ -9,10 +9,10 @@ slug: bacillus-coagulans
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "bacillus coagulans"
+  volume: 1000
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bacillus coagulans to bakteria kwasu mlekowego, która przetrwa jako uśpiony, opancerzony przetrwalnik i jest pasażerem, nie mieszkańcem: kiełkuje, pracuje, zostaje wypłukana. Heyndrickxia coagulans to nowsza ważna nazwa tego samego organizmu; medycyna wciąż używa starej. Badania pokazują mniej Streptococcus mutans (bakterii próchnicy) w ślinie i łagodniejsze objawy jelita drażliwego, ale psuje też ciepłą, kwaśną żywność."

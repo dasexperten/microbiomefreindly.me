@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Vitamin A tidak mengembara ke sel imun anda seorang diri. Pada tikus, bakteria usus membuat lapisan usus menghasilkan protein pembawa — amiloid A serum — yang menyerahkan retinol kepada sel mieloid. Sel itu berjalan ke nodus limfa yang menyalirkan usus lalu menyerahkannya kepada sel T. Larian ganti itu mengambil masa kira-kira tiga hari — pada tikus sahaja."

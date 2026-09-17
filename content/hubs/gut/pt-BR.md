@@ -9,10 +9,10 @@ slug: gut
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "microbiota intestinal"
+  volume: 8100
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "A microbiota intestinal é a comunidade de bactérias, arqueias, fungos e vírus que vive sobretudo no intestino grosso. Ela digere a fibra que nós não digerimos, fabrica ácidos graxos de cadeia curta e vitaminas, treina o sistema imune e alimenta a mucosa. Dieta, parto, antibióticos e idade a moldam, e ela muda em dias."

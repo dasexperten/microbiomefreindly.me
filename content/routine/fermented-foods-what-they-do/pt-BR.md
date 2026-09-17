@@ -1,6 +1,6 @@
 ---
-title: "Fermentados: os micróbios que você come não são o ponto"
-meta: "Stanford levou 36 adultos por 17 semanas, metade com seis porções por dia: a diversidade do intestino subiu e 19 proteínas inflamatórias caíram."
+title: "Alimentos fermentados: os micróbios não são o ponto"
+meta: "Alimentos fermentados em ensaio: Stanford levou 36 adultos por 17 semanas, metade com seis porções por dia — a diversidade subiu e a inflamação caiu."
 kicker: "Alimentos fermentados"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: fermented-foods-what-they-do
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "alimentos fermentados"
+  volume: 1600
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Kefir, iogurte, kimchi e chucrute carregam bactérias lácticas vivas, até cem bilhões de células por porção. Num ensaio de 17 semanas em Stanford (Cell, 2021), seis porções por dia subiram a diversidade do intestino e baixaram 19 proteínas inflamatórias. As bactérias que você engole quase não ficam; quem muda é a comunidade residente. O pote pasteurizado não tem nenhuma."

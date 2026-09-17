@@ -9,10 +9,10 @@ slug: oral
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "microbiote buccal"
+  volume: 320
   market: "FR (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Le microbiote buccal est la communauté de bactéries des dents, des gencives, de la langue et des joues. Sur les dents, elle forme la plaque — un biofilm structuré, tenu par des sucres qu'elles fabriquent. En équilibre, il protège ; quand le sucre revient souvent ou qu'on nettoie peu, les acidifiantes prennent le dessus, l'émail se dissout, les gencives s'enflamment."

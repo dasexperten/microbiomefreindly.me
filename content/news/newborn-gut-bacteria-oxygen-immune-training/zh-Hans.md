@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "脆弱拟杆菌会在自己的细胞膜里装进一种脂，一种 α-半乳糖神经酰胺。《Cell》上的新工作报告，这种脂把膜封住、不让质子漏掉，于是一个本该被空气毒死的严格厌氧菌挺过了新生儿肠道里的氧气；而同一个分子还在调校那些读取脂类的自然杀伤 T 细胞。只有小鼠和分子；没有人类婴儿被检验过。"

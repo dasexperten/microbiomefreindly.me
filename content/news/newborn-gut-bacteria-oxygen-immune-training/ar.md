@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "تبني Bacteroides fragilis دهناً في غشائها، هو ألفا-غالاكتوسيل سيراميد. ويفيد عمل جديد في Cell أن هذا الدهن يحكم غلق الغشاء أمام تسرّب البروتونات، فيصمد لاهوائي صارم يفترض أن يسمّمه الهواء لأكسجين أمعاء الوليد، وأن الجزيء نفسه يعاير الخلايا التائية القاتلة الطبيعية التي تقرأ الدهون. فئران وجزيئات فقط؛ ولم يُختبر أي رضيع بشري."

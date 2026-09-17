@@ -1,6 +1,6 @@
 ---
-title: "Neuf espèces manquent : que manger après les antibiotiques"
-meta: "Votre intestin est proche du départ 1,5 mois après une cure, mais neuf espèces restaient indétectables chez la plupart à 180 jours. Ce que disent les essais."
+title: "Probiotiques après antibiotiques, et quoi manger vraiment"
+meta: "Votre intestin est proche du départ 1,5 mois après une cure, mais neuf espèces manquaient encore à 180 jours. Probiotiques après antibiotiques : les essais."
 kicker: "Après les antibiotiques"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: eating-after-antibiotics
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "probiotiques après antibiotiques"
+  volume: 390
   market: "FR (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Des végétaux riches en fibres, des aliments fermentés et patience. L'essentiel de la communauté était revenu près du départ 1,5 mois après le cocktail de 4 jours étudié (2018), mais neuf espèces restaient indétectables chez la plupart à 180 jours. Les probiotiques réduisent la diarrhée, mais la seule étude de la muqueuse les a vus retarder la reconstruction."

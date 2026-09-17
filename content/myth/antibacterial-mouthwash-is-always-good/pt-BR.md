@@ -1,6 +1,6 @@
 ---
-title: "O enxaguante mata os micróbios que sua pressão precisa"
-meta: "Matar mais bactérias da boca é sempre melhor? Um ensaio de 2013 diz que não: sete dias de enxágue antisséptico cortaram 90 % do nitrito e subiram a pressão."
+title: "Enxaguante bucal faz mal? Depende do que ele mata"
+meta: "Enxaguante bucal faz mal? Um ensaio de 2013 mostrou que sete dias de enxágue antisséptico cortaram 90 % do nitrito e subiram a pressão."
 kicker: "Checagem de mito"
 type: myth
 topic: oral
@@ -9,10 +9,10 @@ slug: antibacterial-mouthwash-is-always-good
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "enxaguante bucal faz mal"
+  volume: 480
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Falso. Um enxaguante antisséptico não separa micróbio nocivo de útil, então achata a comunidade da sua boca. Num ensaio de 2013, sete dias de enxágue com clorexidina cortaram em 90 % o nitrito da boca — o que o corpo usa para relaxar os vasos — e subiram a pressão em 2 a 3,5 mmHg. Trata problema, não rotina."

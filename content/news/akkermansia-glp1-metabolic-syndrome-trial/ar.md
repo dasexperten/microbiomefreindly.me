@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "في تجربة على 142 شخصاً نُشرت في Gut Microbes عام 2026، لم تحسّن أربعة أشهر من Akkermansia muciniphila المبسترة (المقتولة بالحرارة) حساسية الإنسولين في الجسم كله، وهي الشيء الوحيد الذي بُنيت لاختباره. وفي تحليلات استكشافية، تطرح الأسئلة ولا تحسمها، رفعت GLP-1 الذاتي بعد شراب غلوكوز وحرّكت قليلاً حساسية الكبد للإنسولين لدى المشاركين ما قبل السكريين."

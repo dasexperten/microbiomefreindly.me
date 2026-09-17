@@ -9,10 +9,10 @@ slug: bacillota-firmicutes
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "firmicutes"
+  volume: 260
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bacillota to typ bakterii dawniej zwany Firmicutes, przemianowany w 2021 roku, gdy formalnie ujednolicono nazwy typów. Jedna z dwóch dominujących grup w ludzkiej okrężnicy mieści zarówno producentów maślanu, którzy karmią śluzówkę jelita, jak i patogeny w rodzaju Clostridioides difficile; popularny „stosunek Firmicutes do Bacteroidetes” nie jest jednak wiarygodnym wskaźnikiem otyłości."

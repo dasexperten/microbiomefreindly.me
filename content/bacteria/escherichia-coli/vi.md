@@ -9,10 +9,10 @@ slug: escherichia-coli
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "e coli"
+  volume: 5400
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Escherichia coli sống vô hại trong ruột của hơn 90 % số người và tạo được vitamin K2. Nhưng một thiểu số chủng cùng loài mang gen độc tố hoặc gen xâm nhập, gây ngộ độc thức ăn, viêm bàng quang và nhiễm trùng huyết; E. coli là nguyên nhân tử vong hàng đầu liên quan kháng kháng sinh."

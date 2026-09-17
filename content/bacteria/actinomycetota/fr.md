@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Actinomycetota, autrefois Actinobacteria, est un embranchement de bactéries à Gram positif riches en GC (ADN riche en deux lettres sur quatre) dans l'intestin, la bouche et la peau. Il nous donne Bifidobacterium et la plupart des antibiotiques naturels, mais aussi la tuberculose, la diphtérie et le microbe de l'acné. Même arbre, résultats opposés : l'espèce, le site et l'hôte décident."

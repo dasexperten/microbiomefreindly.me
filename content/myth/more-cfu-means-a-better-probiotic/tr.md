@@ -1,6 +1,6 @@
 ---
-title: "Daha çok KOB daha mı iyi? 100 kat hiçbir şey değiştirmedi"
-meta: "Büyük KOB sayısı — doz başına daha çok canlı bakteri — probiyotik satar. Denemeler katılmıyor: ikiye katlamak bir kez yaradı, yüz kat hiçbir şey değiştirmedi."
+title: "En güçlü probiyotik mi? 100 kat hiçbir şey değiştirmedi"
+meta: "En güçlü probiyotik mi? Büyük KOB sayısı — doz başına daha çok canlı bakteri — probiyotik satar; denemeler katılmıyor: yüz kat hiçbir şey değiştirmedi."
 kicker: "Mit kontrolü"
 type: myth
 topic: gut
@@ -9,10 +9,10 @@ slug: more-cfu-means-a-better-probiotic
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "en güçlü probiyotik"
+  volume: 880
   market: "TR (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Kısmen doğru. Doz önemlidir, ama yalnızca tek bir suşun ve tek bir sonucun içinde. Bir çalışmada antibiyotiğe bağlı ishalde 100 milyar KOB, 50 milyarı yendi; bir başkasında aynı canlının yüz katına çıkması, akut ishali olan çocuklarda hiçbir şeyi değiştirmedi. Etiketteki sayı, kanıt hakkında değil, miktar hakkında bir iddiadır."

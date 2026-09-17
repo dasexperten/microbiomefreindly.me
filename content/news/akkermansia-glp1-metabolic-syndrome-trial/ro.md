@@ -1,6 +1,6 @@
 ---
-title: "Microbul care a crescut GLP-1 — și și-a ratat ținta"
-meta: "Studiu Gut Microbes 2026, 142 de adulți: Akkermansia inactivată termic a ratat obiectivul principal, dar a crescut GLP-1 propriu după o băutură cu glucoză."
+title: "Akkermansia muciniphila, probiotic: GLP-1 sus, ținta ratată"
+meta: "Akkermansia muciniphila ca probiotic: în Gut Microbes 2026, la 142 de adulți, forma inactivată termic a ratat ținta, dar a crescut GLP-1 propriu."
 kicker: "Akkermansia"
 type: news
 topic: metabolic
@@ -9,10 +9,10 @@ slug: akkermansia-glp1-metabolic-syndrome-trial
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "akkermansia muciniphila probiotic"
+  volume: 210
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Într-un studiu pe 142 de oameni, în Gut Microbes, 2026, patru luni de Akkermansia muciniphila pasteurizată (inactivată termic) nu au îmbunătățit sensibilitatea la insulină a întregului corp, singurul lucru pentru care a fost construit. În analize exploratorii, care ridică întrebări, nu le închid, a crescut totuși GLP-1 propriu după o băutură cu glucoză."

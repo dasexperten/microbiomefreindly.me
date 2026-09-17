@@ -1,6 +1,6 @@
 ---
-title: "Axe intestin-peau : jusqu'où va vraiment le lien"
-meta: "Comment les bactéries intestinales et leurs métabolites atteignent la peau, ce qu'on demande sur l'acné, l'eczéma et la rosacée, et ce qui reste à prouver."
+title: "Microbiote et peau : jusqu'où va vraiment le lien"
+meta: "Microbiote et peau : comment les bactéries intestinales et leurs métabolites y arrivent, ce qu'on demande sur l'acné et l'eczéma, et ce qui reste à prouver."
 kicker: "Axe intestin-peau"
 type: hubs
 topic: skin
@@ -9,10 +9,10 @@ slug: skin
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "microbiote peau"
+  volume: 70
   market: "FR (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "L'axe intestin-peau est le lien à double sens entre microbiote intestinal et peau. Les bactéries intestinales façonnent les cellules immunitaires et les métabolites qui circulent jusqu'à la peau ; les microbes de la peau y répondent. Eczéma, acné et rosacée vont avec des changements intestinaux — par l'inflammation, la barrière et l'alimentation, non par des bactéries voyageant au visage."

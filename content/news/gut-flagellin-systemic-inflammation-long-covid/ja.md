@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — market measured, no honest match for this page; left pending"
 author: magnus-larsen
 voice: greger
 answer: "2026年のGutの研究は、長引くコロナの炎症が腸から始まると提案しています。細菌が泳ぐ尾をつくるタンパク質フラジェリンが漏れ出して好中球のTLR5を引き、好中球はIL-15を放ってマクロファージのアラキドン酸を動かし、やがて遠くの臓器が炎症を起こす、という道筋です。同じ模様は4つの病気に現れましたが、因果を確かめたのはマウスだけでした。ここに治療法はありません。"

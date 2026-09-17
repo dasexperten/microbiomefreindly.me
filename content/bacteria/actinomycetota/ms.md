@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Actinomycetota, dahulu Actinobacteria, ialah filum bakteria Gram positif berkandungan GC tinggi (DNA kaya dengan dua daripada empat hurufnya) dalam usus, mulut dan kulit anda. Ia memberi kita Bifidobacterium dan kebanyakan antibiotik semula jadi, serta bakteria punca tuberkulosis, difteria dan penghuni kulit yang dikaitkan dengan jerawat. Spesies, tapak dan perumah yang menentukan."

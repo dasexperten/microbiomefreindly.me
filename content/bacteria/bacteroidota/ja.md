@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — market measured, no honest match for this page; left pending"
 author: magnus-larsen
 voice: greger
 answer: "バクテロイドータ（旧バクテロイデーテス）は、大腸に膨大な数で暮らす、グラム陰性で酸素を避ける細菌の門です。植物の食物繊維を与えられれば、あなたの酵素には開けないものを開き、免疫の訓練を助けます。繊維を断たれれば、粘液層を食べます — いまのところマウスでの話です。留保として、腸から逃げ出したこの菌は、嫌気性感染症の大半から見つかります。"

@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Faecalibacterium prausnitzii este una dintre cele mai numeroase bacterii dintr-un colon sănătos — peste 5 % din bacteriile intestinale — și face butirat, combustibilul principal al mucoasei colonului. Scade în boala Crohn, o boală inflamatorie a intestinului. Legătura este puternică, dar dovada că bacteria însăși face omul mai sănătos încă nu există."

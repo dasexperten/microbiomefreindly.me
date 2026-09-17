@@ -1,6 +1,6 @@
 ---
-title: "ジンジバリス菌：健康な口にもいる歯周病の容疑者"
-meta: "Porphyromonas gingivalisとは何か、どこに住み、私たちのために、そして私たちに逆らって何をするのか。仕組みを先に、すべての数字を名前のついた研究へ。"
+title: "歯周病菌ジンジバリスは健康な口にもいる"
+meta: "歯周病菌とは何か。Porphyromonas gingivalisとは何か、どこに住み、私たちのために、そして私たちに逆らって何をするのか。仕組みを先に、すべての数字を名前のついた研究へ。"
 kicker: "Porphyromonas gingivalis"
 type: bacteria
 topic: oral
@@ -9,10 +9,10 @@ slug: porphyromonas-gingivalis
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "歯周病菌"
+  volume: 2400
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Porphyromonas gingivalisは、糖に見向きもせずタンパク質を食べる嫌気性菌、つまり酸素なしで生きる菌で、歯と歯ぐきのあいだのポケットに住みます。健康な人の多くも持っており、害をなすのは周りの細菌のつり合いが崩れたときだけです。利益は何も示されていません。この菌のプロテアーゼ、つまりタンパク質を切る酵素は体の防御を無力にし、関節リウマチとアルツハイマー病では、証明された原因ではなく容疑者です。"

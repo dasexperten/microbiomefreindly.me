@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus salivarius é um estreptococo inofensivo que se instala na língua dias após o nascimento e defende seu território com bacteriocinas, antibióticos proteicos mirados em bactérias rivais. Algumas cepas foram testadas contra dor de garganta e mau hálito em ensaios pequenos e fracos. Ela raramente sai da boca, mas, levada por uma agulha de punção lombar, já causou meningite."

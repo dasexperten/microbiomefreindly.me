@@ -1,5 +1,5 @@
 ---
-title: "E. coli mieszka w jelitach, nie tylko w zepsutym jedzeniu"
+title: "Escherichia coli żyje w jelitach, nie w zepsutym jedzeniu"
 meta: "Escherichia coli żyje w jelitach ponad 90 % ludzi. Co robi dla nas, co robi przeciwko nam i gdzie kończą się uczciwe dowody."
 kicker: "Escherichia coli"
 type: bacteria
@@ -9,10 +9,10 @@ slug: escherichia-coli
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "escherichia coli"
+  volume: 14800
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Escherichia coli nieszkodliwie żyje w jelitach ponad 90 % ludzi jako główny tlenowy mieszkaniec i potrafi wytwarzać witaminę K2. Ale mniejszość szczepów tego samego gatunku nosi geny toksyn lub inwazyjności i wywołuje zatrucia pokarmowe, zakażenia pęcherza i sepsę; E. coli jest też pojedynczą główną przyczyną zgonów powiązanych z bakteriami opornymi na antybiotyki."

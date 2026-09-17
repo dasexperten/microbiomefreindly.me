@@ -1,6 +1,6 @@
 ---
-title: "微生物与免疫：耐受是学来的，不是天生的"
-meta: "你大部分免疫系统就挨着你的微生物。细菌如何塑造巨噬细胞、免疫耐受和炎症，人们最常问什么，以及哪些说法仍未被证实。"
+title: "肠道免疫力：耐受是学来的，不是天生的"
+meta: "你大部分免疫系统就挨着你的微生物。肠道免疫力怎样被细菌塑造——巨噬细胞、免疫耐受和炎症，人们最常问什么，以及哪些说法仍未被证实。"
 kicker: "微生物与免疫"
 type: hubs
 topic: immunity
@@ -9,10 +9,11 @@ slug: immunity
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "腸道 免疫力"
+  keywordSimplified: "肠道免疫力"
+  volume: 40
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "免疫系统不是为消灭微生物而造的，它是为与微生物共处而造的。肠黏膜上的细菌教会免疫细胞——巨噬细胞、调节性 T 细胞——哪些信号意味着危险，哪些只是邻居。这门功课叫免疫耐受，从出生就开始上。它出错的结果不是感染，而是慢性炎症。"

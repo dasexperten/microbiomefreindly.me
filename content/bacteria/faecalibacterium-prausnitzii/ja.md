@@ -1,6 +1,6 @@
 ---
-title: "フィーカリバクテリウム：空気を恐れる腸内細菌"
-meta: "Faecalibacterium prausnitziiは腸内細菌の5%以上を占め、大腸の粘膜を養います。名前のついた研究が示すこと、そして示さないこと。"
+title: "酪酸菌とは何か、空気を恐れる腸内細菌"
+meta: "酪酸菌とは何か。Faecalibacterium prausnitziiは腸内細菌の5%以上を占め、大腸の粘膜を養います。名前のついた研究が示すこと、そして示さないこと。"
 kicker: "Faecalibacterium"
 type: bacteria
 topic: immunity
@@ -9,10 +9,10 @@ slug: faecalibacterium-prausnitzii
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "酪酸菌とは"
+  volume: 8100
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Faecalibacterium prausnitziiは健康な大腸で最も多い細菌の一つで — 腸内細菌の5%以上を占めます — 大腸の粘膜の主な燃料である酪酸をつくります。炎症性腸疾患であるクローン病では減ります。この関連は強いのですが、この菌そのものが人を健康にするという証明は、まだありません。"

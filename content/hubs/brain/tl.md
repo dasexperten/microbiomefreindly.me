@@ -1,6 +1,6 @@
 ---
-title: "Gut–brain axis: paano naaabot ng bacteria ang utak"
-meta: "Gut–brain axis: vagus nerve, fatty acids, serotonin at immune signals. Ang itinatanong tungkol sa mood, anxiety at psychobiotics, at ang hindi pa napapatunayan."
+title: "Gut brain axis: paano naaabot ng bacteria ang utak"
+meta: "Gut brain axis: vagus nerve, fatty acids, serotonin at immune signals. Ang itinatanong tungkol sa mood, anxiety at psychobiotics, at ang hindi pa tiyak."
 kicker: "Gut–brain axis"
 type: hubs
 topic: brain
@@ -9,10 +9,10 @@ slug: brain
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "gut brain axis"
+  volume: 590
   market: "Philippines (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Ang gut–brain axis ay ang mga daan kung saan nag-uusap ang bituka at ang utak: ang vagus nerve, mga hormone mula sa selula ng bituka, immune messengers at bacterial metabolites sa dugo. Sa bituka ginagawa ang halos lahat ng serotonin ng katawan, sa tulong ng microbes. Totoo ang ugnayan; sinusukat pa kung gaano kalaki ito sa mood ng tao."

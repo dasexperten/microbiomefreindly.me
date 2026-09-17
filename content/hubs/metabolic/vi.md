@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Vi khuẩn ruột lên men chất xơ thành axit béo chuỗi ngắn: axetat, propionat, butyrat. Chúng nuôi thành ruột và thúc tế bào tiết GLP-1, hormone làm chậm dạ dày và báo cho não rằng đã no. Akkermansia muciniphila sống trên chất nhầy, làm dày hàng rào, giữ mọi thứ có trật tự. Một con đường, không phải thuốc chữa."

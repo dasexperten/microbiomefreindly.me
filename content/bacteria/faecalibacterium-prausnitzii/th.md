@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "TH (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Thailand (Ubersuggest locId 2764)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Faecalibacterium prausnitzii เป็นหนึ่งในแบคทีเรียที่มีมากที่สุดในลำไส้ใหญ่ที่แข็งแรง — มากกว่า 5 % ของแบคทีเรียในลำไส้ — และมันสร้างบิวทิเรต ซึ่งเป็นเชื้อเพลิงหลักของเยื่อบุลำไส้ใหญ่ มันลดลงในโรคโครห์น ซึ่งเป็นโรคลำไส้อักเสบเรื้อรัง ความสัมพันธ์นั้นหนักแน่น แต่ข้อพิสูจน์ว่าตัวแบคทีเรียเองทำให้คนแข็งแรงขึ้นยังไม่มี"

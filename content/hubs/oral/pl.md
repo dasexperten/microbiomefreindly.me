@@ -1,5 +1,5 @@
 ---
-title: "Mikrobiom jamy ustnej: płytka, próchnica i dziąsła"
+title: "Płytka nazębna, próchnica i dziąsła: mikroby w ustach"
 meta: "Płytka nazębna to biofilm, nie brud. Czym jest mikrobiom jamy ustnej, jak prowadzi do próchnicy i chorób dziąseł i gdzie kończą się dowody."
 kicker: "Mikrobiom jamy ustnej"
 type: hubs
@@ -9,10 +9,10 @@ slug: oral
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "płytka nazębna"
+  volume: 720
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Mikrobiom jamy ustnej to społeczność bakterii żyjących na zębach, dziąsłach, języku i policzkach. Na zębach tworzy płytkę nazębną — uporządkowany biofilm spojony cukrami, które bakterie same wytwarzają. W równowadze chroni; gdy cukier pojawia się często albo czyszczenie rzadko, przewagę biorą gatunki produkujące kwas, szkliwo się rozpuszcza, a dziąsła zapalają."

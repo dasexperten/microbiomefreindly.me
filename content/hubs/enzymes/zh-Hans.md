@@ -1,6 +1,6 @@
 ---
-title: "分解生物膜和食物的酶：各自怎么工作"
-meta: "右旋糖酐酶、木瓜蛋白酶、菠萝蛋白酶、溶菌酶、葡萄糖氧化酶：每种酶剪断什么，为什么没有那层糖胶生物膜就散架，以及试验还没能证明什么。"
+title: "消化酵素与生物膜酶：各自怎么工作"
+meta: "消化酵素和拆生物膜的酶各做什么：右旋糖酐酶、木瓜蛋白酶、菠萝蛋白酶、溶菌酶、葡萄糖氧化酶，以及试验还没能证明什么。"
 kicker: "酶"
 type: hubs
 topic: enzymes
@@ -9,10 +9,11 @@ slug: enzymes
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "消化酵素"
+  keywordSimplified: "消化酵素"
+  volume: 1600
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "酶是只剪断一种特定化学键的蛋白质。右旋糖酐酶剪断牙菌斑的糖胶；木瓜蛋白酶和菠萝蛋白酶剪断蛋白质；溶菌酶剪断细菌细胞壁；葡萄糖氧化酶把葡萄糖变成温和的抗菌剂。它们都不做大面积杀菌。它们靠拆掉结构起作用——所以人们研究它们对付生物膜，而不是当抗生素用。"

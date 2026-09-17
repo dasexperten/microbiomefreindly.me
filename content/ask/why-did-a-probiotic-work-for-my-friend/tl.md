@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Philippines (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Dahil hindi pareho ang eksperimentong pinatakbo ninyo. Nakadepende ang epekto sa eksaktong strain, sa dosis, sa haba ng pag-inom, at posibleng sa komunidad na pinagsimulan mo. Ang pagsubok noong 2026 sa 120 overweight na adulto ay hindi naabot ang pangunahing endpoint nito at nakakita ng pagkakaiba sa timbang sa huling pagsilip lang sa kalahating pinakakaunti ang espesye sa bituka."

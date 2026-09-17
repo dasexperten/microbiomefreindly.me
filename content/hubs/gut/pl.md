@@ -9,10 +9,10 @@ slug: gut
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "mikrobiom jelitowy"
+  volume: 1300
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Mikrobiom jelitowy to społeczność bakterii, archeonów, grzybów i wirusów, żyjąca głównie w jelicie grubym. Trawi błonnik, z którym nie radzą sobie nasze enzymy, wytwarza krótkołańcuchowe kwasy tłuszczowe i witaminy, szkoli odporność i karmi wyściółkę jelita. Kształtują ją dieta, poród, antybiotyki i wiek — a zmienia się w ciągu kilku dni."

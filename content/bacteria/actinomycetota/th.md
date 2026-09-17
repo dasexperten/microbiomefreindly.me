@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "TH (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Thailand (Ubersuggest locId 2764)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Actinomycetota หรือชื่อเดิม Actinobacteria เป็นไฟลัมของแบคทีเรียแกรมบวกที่มี GC สูง (ดีเอ็นเอมีเบสสองในสี่ตัวมาก) ซึ่งอยู่ในลำไส้ ในปาก และบนผิวหนังของคุณ มันให้ Bifidobacterium และยาปฏิชีวนะจากธรรมชาติเกือบทั้งหมดแก่เรา พร้อมกับแบคทีเรียที่ก่อวัณโรคและคอตีบ และตัวประจำถิ่นบนผิวหนังที่ผูกกับสิว วงศ์ตระกูลเดียวกันแต่ผลตรงข้าม สปีชีส์ ตำแหน่ง และตัวคนที่มันอาศัยอยู่ เป็นผู้ตัดสิน"

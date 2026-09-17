@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroides fragilis는 알파갈락토실세라마이드라는 지방을 자기 막에 만들어 넣습니다. Cell에 실린 새 연구는 그 지방이 막을 봉해 양성자가 새지 않게 하고, 그래서 공기에 중독되어야 할 절대혐기성균이 신생아 장의 산소를 견뎌낸다고 보고합니다. 같은 분자가 지방을 읽는 자연살해 T세포를 다듬기도 합니다. 생쥐와 분자뿐이고 사람 아기는 시험하지 않았습니다."

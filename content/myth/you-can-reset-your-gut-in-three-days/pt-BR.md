@@ -1,6 +1,6 @@
 ---
-title: "Três dias mudam seu intestino. Depois ele volta atrás"
-meta: "Resetar o intestino em três dias se vende em todo lugar. As medições dizem que suas bactérias mudam em um dia, voltam em dois e mantêm 60 % das cepas por anos."
+title: "Como melhorar a flora intestinal: três dias não resetam"
+meta: "Como melhorar a flora intestinal de verdade: suas bactérias mudam em um dia, voltam em dois e mantêm 60 % das cepas por anos. O reset não dura."
 kicker: "Checagem de mito"
 type: myth
 topic: gut
@@ -9,10 +9,10 @@ slug: you-can-reset-your-gut-in-three-days
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "como melhorar a flora intestinal"
+  volume: 590
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Falso. A comida mexe na comunidade do intestino, e depressa. Onze voluntários fizeram duas dietas extremas: a mistura mudou um dia depois de a comida chegar e voltou dois dias depois de a dieta acabar (Nature, 2014). Cerca de 60 % das cepas de um adulto seguem lá cinco anos depois. Três dias mudam a leitura, não os moradores."

@@ -1,6 +1,6 @@
 ---
 title: "Akkermansia muciniphila: microbul care îți mănâncă mucusul"
-meta: "O bacterie intestinală care se hrănește cu propriul tău strat de mucus — și poate îți apără metabolismul. Ce arată studiile citate și unde se opresc ele."
+meta: "Akkermansia muciniphila se hrănește cu propriul tău strat de mucus — și poate îți apără metabolismul. Ce arată studiile citate și unde se opresc ele."
 kicker: "Akkermansia"
 type: bacteria
 topic: metabolic
@@ -9,10 +9,10 @@ slug: akkermansia-muciniphila
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "akkermansia muciniphila"
+  volume: 720
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Akkermansia muciniphila este o bacterie intestinală care trăiește în stratul de mucus și mănâncă mucina secretată chiar de intestinul tău. Păscutul acelui strat îi cere refacerea — la șoareci o barieră mai strânsă, într-un studiu mic pe oameni o sensibilitate mai bună la insulină — dar fără fibre, sau când există un patogen, aceeași poftă subțiază stratul."

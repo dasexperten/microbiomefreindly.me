@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Philippines (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Magkasabay ang tulog at ang bituka, pero mas malakas ang ebidensiya sa isang panig. Iniuugnay ng obserbasyonal na gawain ang pabagu-bagong tulog sa mas mababang diversity. Hindi sang-ayon ang dalawang kontroladong eksperimento: nakita ng isa na ginalaw ng dalawang maikling gabi ang halo; walang nakita ang isa pa. Fiber at tiyak na oras ng paggising ang may ebidensiya."

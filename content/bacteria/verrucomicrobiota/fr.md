@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Verrucomicrobiota (ex-Verrucomicrobia) est un embranchement bactérien dont le membre le plus connu, Akkermansia muciniphila, vit dans la couche de mucus de votre côlon et la mange. Avec mesure, ce renouvellement nourrit la paroi intestinale et va avec de meilleurs marqueurs métaboliques. En excès, ou sans fibres, le même appétit amincit la barrière."

@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "从头颈部癌症患者唾液中培养出的微生物，把糖（葡萄糖）和酒精（乙醇）变成了乙醛，那是一种 1 类致癌物，属于最高类别，与吸烟同级。产量在 100 mM 糖浓度时达到峰值。一种抗菌肽配上豆胶把它止住了，但躲在生物膜里的微生物一直活到酶把牙菌斑外壳溶开。这全都只在培养皿里：没有人体试验，没有癌症结局。"

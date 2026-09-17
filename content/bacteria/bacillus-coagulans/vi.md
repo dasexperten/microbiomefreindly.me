@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacillus coagulans là vi khuẩn sinh axit lactic, sống sót dưới dạng bào tử ngủ, và là khách qua đường: nó nảy mầm, làm việc, rồi trôi đi. Heyndrickxia coagulans là tên mới của cùng loài. Thử nghiệm cho thấy Streptococcus mutans trong nước bọt giảm và triệu chứng ruột kích thích nhẹ đi; nó cũng làm hỏng thức ăn."

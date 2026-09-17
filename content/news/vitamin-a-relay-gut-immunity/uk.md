@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Вітамін А не доходить до ваших імунних клітин сам. У мишей кишкові бактерії змушують слизову кишківника виробляти білки-носії — сироватковий амілоїд А, — які передають ретинол мієлоїдним клітинам. Ті йдуть до лімфатичних вузлів, що збирають лімфу кишківника, і передають його T-клітинам. Естафета триває близько трьох днів — і тільки в мишей."

@@ -1,6 +1,6 @@
 ---
-title: "미생물과 면역: 관용은 타고나지 않고 배운다"
-meta: "면역계의 대부분은 미생물 바로 옆에 있습니다. 세균이 대식세포와 면역 관용, 염증을 어떻게 빚는지, 사람들이 묻는 것, 그리고 아직 증명되지 않은 것."
+title: "마이크로바이옴과 면역: 관용은 배운다"
+meta: "면역계의 대부분은 마이크로바이옴 바로 옆에 있습니다. 세균이 대식세포와 면역 관용, 염증을 어떻게 빚는지, 사람들이 묻는 것, 그리고 아직 증명되지 않은 것."
 kicker: "미생물과 면역"
 type: hubs
 topic: immunity
@@ -9,10 +9,10 @@ slug: immunity
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "마이크로바이옴"
+  volume: 2400
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "면역계는 미생물을 없애도록 만들어지지 않았습니다. 함께 살도록 만들어졌습니다. 장 점막의 세균은 대식세포와 조절 T세포 같은 면역세포에게 어떤 신호가 위험이고 어떤 신호가 이웃인지 가르칩니다. 면역 관용이라 부르는 이 배움은 태어날 때 시작됩니다. 그것이 어긋나면 결과는 감염이 아니라 만성 염증입니다."

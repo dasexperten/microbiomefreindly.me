@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacillus coagulans — молочнокисла бактерія, яка виживає у вигляді сплячої броньованої спори і є пасажиром, а не мешканцем: проростає, працює, вимивається. Heyndrickxia coagulans — новіша чинна назва того самого організму; медицина досі вживає стару. Дослідження показують менше Streptococcus mutans, бактерії карієсу, у слині та м'якші прояви синдрому подразненого кишківника, але вона ж псує теплу кислу їжу."

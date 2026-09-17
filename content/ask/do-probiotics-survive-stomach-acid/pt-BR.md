@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Alguns sim. As formadoras de esporo sobrevivem por construção; as cepas delicadas, na maior parte, não — embora uma cápsula e uma refeição melhorem as chances. Sobreviver é a linha de chegada errada: o único estudo feito na mucosa humana achou as cepas vivas depois da viagem, instaladas em umas pessoas e em outras não. Passar não é morar."

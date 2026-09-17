@@ -1,6 +1,6 @@
 ---
-title: "E. coli는 원래 내 장에 산다"
-meta: "Escherichia coli는 사람의 90 % 넘는 이들의 장에 삽니다. 우리에게 해주는 일과 우리를 상대로 하는 일, 그리고 정직한 근거가 멈추는 지점."
+title: "대장균은 원래 내 장에 산다"
+meta: "대장균(Escherichia coli)은 사람의 90 % 넘는 이들의 장에 삽니다. 우리에게 해주는 일과 우리를 상대로 하는 일, 그리고 정직한 근거가 멈추는 지점."
 kicker: "Escherichia coli"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: escherichia-coli
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "대장균"
+  volume: 12100
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Escherichia coli는 사람의 90 % 넘는 이들의 장에 해 없이 살며 산소를 견디는 주된 상주균이고, 비타민 K2를 만들 수 있습니다. 그러나 같은 종의 일부 균주는 독소나 침입 유전자를 지녀 식중독과 방광염, 패혈증을 일으키며, 항생제 내성균과 엮인 사망에서 E. coli는 단일 원인으로 으뜸입니다."

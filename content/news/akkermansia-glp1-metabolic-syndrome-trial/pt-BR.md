@@ -1,6 +1,6 @@
 ---
-title: "O micróbio do intestino que elevou o GLP-1 — e errou o alvo"
-meta: "Ensaio de 2026 na Gut Microbes, 142 adultos: Akkermansia morta pelo calor errou o alvo principal, a sensibilidade à insulina — mas elevou o GLP-1 do corpo."
+title: "Akkermansia muciniphila emagrece? O ensaio errou o alvo"
+meta: "Akkermansia muciniphila emagrece? Ensaio de 2026 na Gut Microbes, 142 adultos: a bactéria morta pelo calor errou o alvo principal, mas elevou o GLP-1."
 kicker: "Akkermansia"
 type: news
 topic: metabolic
@@ -9,10 +9,10 @@ slug: akkermansia-glp1-metabolic-syndrome-trial
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "akkermansia muciniphila emagrece"
+  volume: 210
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Num ensaio com 142 pessoas (Gut Microbes, 2026), quatro meses de Akkermansia muciniphila pasteurizada (morta pelo calor) não melhoraram a sensibilidade à insulina do corpo todo — o alvo do estudo. Em análises exploratórias, que levantam perguntas e não respostas, ela elevou o GLP-1 do próprio corpo depois de glicose e mexeu na sensibilidade hepática dos pré-diabéticos."

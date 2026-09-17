@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Sai. Thức ăn làm dịch chuyển quần thể ruột, và rất nhanh. Mười một người tình nguyện ăn lần lượt hai khẩu phần cực đoan: quần thể đổi một ngày sau khi thức ăn tới nơi và quay lại hai ngày sau khi ngừng (Nature, 2014). Khoảng 60 % số chủng ở người lớn vẫn còn sau năm năm."

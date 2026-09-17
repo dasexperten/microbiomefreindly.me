@@ -9,10 +9,10 @@ slug: lactobacillus
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "lactobacillus"
+  volume: 8100
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Ang Lactobacillus ay genus ng bacteria na gumagawa ng lactic acid, matatagpuan sa fermented na pagkain, bibig, vagina at, sa maliit na bilang, sa gut. Ayon sa mga trial, nakakatulong ito laban sa antibiotic diarrhea; isang malaking trial, walang benepisyo sa stomach flu. Noong 2020, hinati ng genome data ang lumang genus sa 25 genera."

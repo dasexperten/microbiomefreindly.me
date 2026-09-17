@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "FR (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Des chercheurs ont pris la partie liquide des selles de personnes atteintes d'intestin irritable et l'ont déposée sur des réseaux de nerfs intestinaux vivants. Les nerfs ont réagi bien plus fort qu'avec le liquide de personnes en bonne santé. Des enzymes coupeuses de protéines expliquaient l'effet dans la forme avec diarrhée. Les nerfs testés venaient du cobaye, pas de l'humain."

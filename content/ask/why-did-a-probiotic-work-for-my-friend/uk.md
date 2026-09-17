@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — measured, no honest phrase for this page"
 author: magnus-larsen
 voice: greger
 answer: "Бо ви поставили не той самий дослід. Ефект залежить від конкретного штаму, від дози, від того, скільки ви його приймаєте, і, можливо, від спільноти, з якою ви починали. Дослідження 2026 року на 120 дорослих із надмірною вагою не досягло головної мети, а різницю у вазі побачило лише в пізнішому погляді на ту половину, чий кишківник мав найменше видів."

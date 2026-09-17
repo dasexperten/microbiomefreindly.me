@@ -1,6 +1,6 @@
 ---
-title: "Helicobacter pylori: tác nhân ung thư mà đi kèm ít hen"
-meta: "Nửa thế giới mang nó. Nó gây loét và ung thư dạ dày, nhưng lại đi cùng ít hen và ít ung thư thực quản hơn. Tác hại đã chứng minh, lợi ích thì chưa."
+title: "Vi khuẩn HP là gì: tác nhân ung thư mà đi kèm ít hen"
+meta: "Vi khuẩn HP là gì: nó gây loét và ung thư dạ dày, nhưng lại đi cùng ít hen và ít ung thư thực quản hơn. Tác hại đã chứng minh, lợi ích thì chưa."
 kicker: "Helicobacter pylori"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: helicobacter-pylori
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "vi khuẩn hp là gì"
+  volume: 1900
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Helicobacter pylori là vi khuẩn xoắn sống ở niêm mạc dạ dày, thường suốt đời. Nó là nguyên nhân nhiễm trùng gây ung thư hàng đầu và là thủ phạm chính của loét dạ dày. Nhưng nơi nó phổ biến, ung thư thực quản và hen trẻ em hiếm hơn. Tác hại đã chứng minh; lợi ích thì chưa."

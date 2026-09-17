@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "두경부암 환자의 침에서 배양한 미생물이 설탕(포도당)과 술(에탄올)을 아세트알데하이드로 바꿨습니다. 흡연과 같은 최상위 범주인 1군 발암물질입니다. 생산은 설탕 100 mM에서 가장 높았습니다. 항균 펩타이드와 콩검이 그것을 멈췄지만, 생물막에 숨은 미생물은 효소가 치태 껍질을 녹일 때까지 살아남았습니다. 실험실 접시뿐이고 사람 대상 시험도 암 결과도 없습니다."

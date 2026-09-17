@@ -9,10 +9,10 @@ slug: lactobacillus
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "lactobacillus"
+  volume: 6600
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Lactobacillus to rodzaj bakterii kwasu mlekowego z kiszonek, jamy ustnej, pochwy i — w małej liczbie — jelit. Badania pokazują, że pomaga zapobiegać biegunce po antybiotyku; jedno duże badanie nie wykazało korzyści przy jelitówce. W 2020 roku dane genomowe podzieliły dawny rodzaj na 25 rodzajów i wiele znanych nazw się zmieniło."

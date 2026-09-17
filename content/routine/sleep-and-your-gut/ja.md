@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Japan (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — market measured, no honest match for this page; left pending"
 author: magnus-larsen
 voice: greger
 answer: "睡眠と腸は一緒に動きますが、証拠が強いのは片方向です。観察研究は、質の悪い不規則な睡眠と、腸内細菌の多様性の低さを結びつけます。人で睡眠を削った二つの対照実験は食い違っています。ひとつは2晩の短い睡眠が各群の取り分を少し動かしたとし、もうひとつは変化なしとしました。証拠のある手は、食物繊維と、起きる時刻を固定することです。"

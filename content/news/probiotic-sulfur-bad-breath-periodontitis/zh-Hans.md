@@ -1,6 +1,6 @@
 ---
-title: "口臭不是脏，是一个细菌基因在尽职"
-meta: "2026年一项培养皿加大鼠的研究把口臭背后的那个细菌基因调低了。这里是机制、数字，以及这项研究没有证明的一切。"
+title: "口臭益生菌：一个细菌基因被调低了"
+meta: "口臭益生菌的机制：2026年一项培养皿加大鼠的研究把口臭背后的那个细菌基因调低了。这里是数字，以及这项研究没有证明的一切。"
 kicker: "Volatile sulfur compounds"
 type: news
 topic: oral
@@ -9,10 +9,11 @@ slug: probiotic-sulfur-bad-breath-periodontitis
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "口臭 益生菌"
+  keywordSimplified: "口臭益生菌"
+  volume: 110
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "口臭是一种气体。厌氧菌，也就是舌苔和牙周袋里的口腔细菌，用一种由 mgl 基因编码的酶把硫从氨基酸上剥下来。在 2026年《Journal of Oral Microbiology》的一项研究中，两株乳酸菌在培养皿里把这个基因调低了，并减少了大鼠的舌苔，不过没有人被检验过，也没有测量过气体。"

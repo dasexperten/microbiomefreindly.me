@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Faecalibacterium prausnitzii는 건강한 대장에서 가장 많은 세균 가운데 하나로 장내 세균의 5 %를 넘고, 대장 점막의 주된 연료인 부티르산을 만듭니다. 염증성 장질환인 크론병에서는 이 균이 줄어듭니다. 그 연관은 강하지만, 이 세균 자체가 사람을 더 건강하게 만든다는 증명은 아직 없습니다."

@@ -1,6 +1,6 @@
 ---
-title: "Siyam na espesye ang wala pa: ano ang kakainin ngayon"
-meta: "Malapit na sa dati ang bituka mo 1.5 buwan matapos ang kurso, pero siyam na espesye ang hindi matukoy sa karamihan sa araw 180. Ano ang sabi ng mga pagsubok."
+title: "Probiotics pagkatapos ng antibiotics: ano ang kakainin"
+meta: "Probiotics at pagkain pagkatapos ng antibiotics: malapit na sa dati ang bituka mo sa 1.5 buwan, pero siyam na espesye ang hindi matukoy sa araw 180."
 kicker: "Pagkatapos ng antibiotics"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: eating-after-antibiotics
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "probiotics when on antibiotics"
+  volume: 210
   market: "Philippines (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Halamang mayaman sa fiber, fermented foods at pasensiya. Bumalik malapit sa dati ang halos buong komunidad mga 1.5 buwan matapos ang 4 na araw na halo ng antibiotics na pinag-aralan (Nature Microbiology, 2018), pero siyam na karaniwang espesye ang hindi pa matukoy sa karamihan ng lalaki sa araw 180. Binabawasan ng probiotics ang pagtatae, pero inantala nila ang pagtatayong muli."

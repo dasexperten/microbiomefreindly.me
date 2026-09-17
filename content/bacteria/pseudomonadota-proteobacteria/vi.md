@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "VN (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Pseudomonadota, trước gọi là Proteobacteria, là ngành lớn gồm vi khuẩn Gram âm. Trong đó có E. coli, Salmonella, Pseudomonas aeruginosa, Neisseria và các vi khuẩn nốt sần cố định đạm ở rễ đậu. Người khỏe cũng mang nó, chỉ chiếm phần nhỏ trong ruột; cái tăng lên cùng bệnh tật là mức độ, không phải sự có mặt."

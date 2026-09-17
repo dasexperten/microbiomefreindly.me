@@ -1,6 +1,6 @@
 ---
-title: "Oo, pero hindi lahat: ang gut mo pagkatapos ng antibiotics"
-meta: "Labindalawang malusog na lalaki, tatlong antibiotics, anim na buwang sampol: bumalik ang komunidad malapit sa dati sa 1.5 buwan. Hindi ang siyam na espesye."
+title: "Ang effect ng antibiotics sa gut: oo, pero hindi lahat"
+meta: "Ang effect ng antibiotics sa gut: 12 malusog na lalaki, tatlong antibiotics, anim na buwang sampol — bumalik ang komunidad sa 1.5 buwan. Hindi ang siyam."
 kicker: "Sumasagot si Magnus"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: can-i-rebuild-my-gut-after-antibiotics
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "effect of antibiotics"
+  volume: 390
   market: "Philippines (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Kadalasan, oo. Sa 12 malusog na lalaking binigyan ng tatlong antibiotics sa apat na araw (Nature Microbiology, 2018), bumalik ang komunidad malapit sa dati sa mga 1.5 buwan, pero siyam na espesyeng dati nang nasa kanilang lahat ay hindi pa matukoy sa karamihan sa araw 180. Totoo ang paggaling, hindi buo, mas mabagal sa iba."

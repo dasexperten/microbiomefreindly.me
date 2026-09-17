@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Pseudomonadota, yang sehingga baru-baru ini dipanggil Proteobacteria, ialah filum besar bakteria Gram negatif (dinding sel nipis, membran luar tambahan). Ia merangkumi E. coli, Salmonella, Pseudomonas aeruginosa, Neisseria dan rizobia pengikat nitrogen dalam akar kacang. Orang sihat turut membawanya, sebagai sebahagian kecil komuniti usus; yang meningkat dengan penyakit ialah kadarnya, bukan kehadirannya."

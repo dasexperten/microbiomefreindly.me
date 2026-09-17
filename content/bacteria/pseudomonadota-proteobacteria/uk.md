@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Pseudomonadota, донедавна Proteobacteria, — величезний тип грамнегативних бактерій (тонка стінка, додаткова зовнішня мембрана). Сюди належать Escherichia coli, Salmonella, Pseudomonas aeruginosa, Neisseria і азотфіксувальні ризобії в коренях бобів та гороху. Здорові люди теж їх носять, як невелику частку кишкової спільноти; з хворобою зростає рівень, а не присутність."

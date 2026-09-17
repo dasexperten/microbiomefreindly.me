@@ -1,6 +1,6 @@
 ---
-title: "乳酸杆菌：几乎不住在肠道里的酸奶菌"
-meta: "乳酸杆菌到底是什么、真正住在身体的哪些地方、试验显示它能做什么又不能做什么，以及 2020年这个属为何被拆成 25个属。"
+title: "乳酸菌：几乎不住在肠道里的酸奶菌"
+meta: "乳酸菌（乳酸杆菌）到底是什么、真正住在身体的哪些地方、试验显示它能做什么又不能做什么，以及 2020年这个属为何被拆成 25个属。"
 kicker: "Lactobacillus"
 type: bacteria
 topic: gut
@@ -9,10 +9,11 @@ slug: lactobacillus
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "乳酸菌"
+  keywordSimplified: "乳酸菌"
+  volume: 2900
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "乳酸杆菌是一类产乳酸的细菌，见于发酵食品、口腔、阴道，在肠道里数量很少。益生菌试验显示它有助于预防抗生素相关腹泻；一项大型试验发现它对急性肠胃炎没有好处。2020年，基因组数据把这个旧属拆成 25个属，许多熟悉的名字因此改变。"

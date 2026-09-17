@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Запах з рота — це газ. Анаероби, бактерії рота в нальоті на язику і в ясенних кишенях, зривають сірку з амінокислот ферментом, який кодує ген mgl. У дослідженні Journal of Oral Microbiology 2026 року дві молочнокислі бактерії приглушили цей ген у чашці й зменшили наліт на язику в щурів, але людей не перевіряли і газу не міряли."

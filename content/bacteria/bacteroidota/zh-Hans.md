@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "拟杆菌门（旧称 Bacteroidetes）是一个革兰氏阴性、躲避氧气的细菌门，在你的结肠里数量极其庞大。喂它们植物纤维，它们就打开你自己的酶打不开的东西，并帮着训练免疫系统；断了纤维，它们就开始吃你的黏液层——目前是在小鼠身上。保留意见：一旦逃出肠道，多数厌氧感染里都能找到它们。"

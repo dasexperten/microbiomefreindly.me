@@ -9,10 +9,10 @@ slug: bacillota-firmicutes
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "firmicutes"
+  volume: 140
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bacillota este încrengătura bacteriană numită înainte Firmicutes, redenumită în 2021, când numele de încrengături au fost standardizate. Este unul dintre cele două grupuri dominante din colonul tău și cuprinde atât producătorii de butirat care hrănesc mucoasa, cât și patogeni precum Clostridioides difficile; celebrul „raport Firmicutes–Bacteroidetes” nu este însă un semn de încredere al obezității."

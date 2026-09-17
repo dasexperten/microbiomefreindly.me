@@ -1,6 +1,6 @@
 ---
-title: "Da, dar nu tot: intestinul tău după antibiotice"
-meta: "Doisprezece bărbați sănătoși, trei antibiotice de ultimă linie, șase luni de probe: comunitatea a revenit aproape la start în 1,5 luni. Nouă specii, nu."
+title: "În cât timp se reface flora intestinală după antibiotice"
+meta: "În cât timp se reface flora intestinală după antibiotice: la doisprezece bărbați, aproape la start în 1,5 luni — dar nouă specii lipseau la 180 de zile."
 kicker: "Magnus răspunde"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: can-i-rebuild-my-gut-after-antibiotics
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "in cat timp se reface flora intestinala"
+  volume: 210
   market: "RO (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "În general, da. La 12 bărbați sănătoși cărora li s-au dat trei antibiotice timp de patru zile (Nature Microbiology, 2018), comunitatea intestinală a revenit aproape la starea inițială în circa 1,5 luni, dar nouă specii prezente înainte la toți erau încă nedetectabile la majoritatea în ziua 180. Refacerea e reală, incompletă și mai lentă la unii."

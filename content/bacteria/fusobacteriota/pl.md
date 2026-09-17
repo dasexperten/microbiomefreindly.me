@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Fusobacteriota to typ (cała gałąź drzewa bakterii) beztlenowych bakterii o wrzecionowatym kształcie. Normalnie żyją w jamie ustnej jako łącznik spajający płytkę nazębną: to rola budulcowa, nie usterka. Ale jeden mały klad Fusobacterium nucleatum jest silnie wzbogacony w guzach jelita grubego, gdzie jedna z jego adhezyn potrafi włączyć w ludzkich komórkach sygnały związane z nowotworem."

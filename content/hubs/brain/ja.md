@@ -9,10 +9,10 @@ slug: brain
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "腸脳相関"
+  volume: 4400
   market: "Japan (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "腸脳相関とは、腸とそこにすむ細菌が脳と話すための道筋のことです。迷走神経、腸の細胞が出すホルモン、免疫の伝令、そして血中を流れる細菌の代謝産物。体のセロトニンの大半は腸で、細菌の影響のもとで作られます。つながりは本物ですが、人の気分にどれだけ効くのかはまだ測っている最中です。"

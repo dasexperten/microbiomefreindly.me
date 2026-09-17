@@ -1,6 +1,6 @@
 ---
-title: "الميكروبات والأيض: GLP-1 وAkkermansia والأحماض الدهنية"
-meta: "كيف تتحدث بكتيريا الأمعاء إلى أيضك: الأحماض الدهنية قصيرة السلسلة، وآكلة المخاط Akkermansia، وهرمون GLP-1. وما هو آلية وما هو فأر وما هو إنسان."
+title: "الميكروبات والأيض: GLP-1 وAkkermansia والأحماض"
+meta: "كيف تتحدث بكتيريا الأمعاء إلى الأيض: الأحماض الدهنية قصيرة السلسلة، وآكلة المخاط Akkermansia، وهرمون GLP-1. وما هو آلية وما هو فأر وما هو إنسان."
 kicker: "الميكروبات والأيض"
 type: hubs
 topic: metabolic
@@ -9,10 +9,10 @@ slug: metabolic
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "الأيض"
+  volume: 720
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "تخمّر بكتيريا الأمعاء الألياف إلى أحماض دهنية قصيرة السلسلة — أسيتات وبروبيونات وبيوتيرات. وهذه تغذّي جدار الأمعاء وتُشير إلى خلايا تطلق GLP-1، الهرمون الذي يبطئ المعدة ويخبر الدماغ أنك شبعت. وAkkermansia muciniphila، التي تعيش على المخاط، تقوّي الحاجز الذي يبقي هذه المحادثة منتظمة. إنه مسار، لا علاج."

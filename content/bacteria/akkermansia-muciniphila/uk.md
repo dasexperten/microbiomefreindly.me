@@ -1,6 +1,6 @@
 ---
 title: "Akkermansia muciniphila: мікроб, що їсть ваш слиз"
-meta: "Кишкова бактерія, яка живиться вашим власним слизом — і, можливо, береже обмін речовин. Що показують названі дослідження і де вони спиняються."
+meta: "Akkermansia muciniphila — кишкова бактерія, яка живиться вашим власним слизом і, можливо, береже обмін речовин. Де дослідження спиняються."
 kicker: "Akkermansia"
 type: bacteria
 topic: metabolic
@@ -9,10 +9,10 @@ slug: akkermansia-muciniphila
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "akkermansia muciniphila"
+  volume: 170
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Akkermansia muciniphila — кишкова бактерія, яка живе в шарі слизу кишківника і їсть муцин, білок, який ваш же кишківник туди виділяє. Випасання цього шару спонукає його оновлюватися: у мишей це щільніший кишковий бар'єр, в одному малому дослідженні на людях — краща чутливість до інсуліну. Але без клітковини або за присутності збудника той самий апетит шар стоншує."

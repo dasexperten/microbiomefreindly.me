@@ -1,6 +1,6 @@
 ---
-title: "CFU 越多越好？多 100 倍却毫无变化"
-meta: "更大的 CFU 数——每份里更多的活菌——很好卖。试验却不同意：剂量翻倍有一次奏效，而同一种菌多 100 倍，什么也没变。"
+title: "益生菌比较：CFU 越多不等于越好"
+meta: "益生菌比较别只看 CFU——每份里更多的活菌很好卖。试验却不同意：剂量翻倍有一次奏效，而同一种菌多 100 倍，什么也没变。"
 kicker: "传言核查"
 type: myth
 topic: gut
@@ -9,10 +9,11 @@ slug: more-cfu-means-a-better-probiotic
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "益生菌比較"
+  keywordSimplified: "益生菌比较"
+  volume: 720
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "部分成立。剂量确实有用，但只在一个菌株、一个结局之内有用。在一项试验里，100 × 10⁹ CFU 对抗生素相关腹泻胜过 50 × 10⁹；在另一项里，同一种菌多 100 倍，对急性腹泻的儿童毫无差别。标签上的数字是一句关于数量的主张，不是关于证据的主张。"

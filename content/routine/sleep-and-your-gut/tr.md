@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TR (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Uyku ile bağırsak birlikte hareket eder, ama kanıt bir yönde daha güçlü. Gözleme dayalı çalışmalar kötü ve düzensiz uykuyu düşük mikrop çeşitliliğine bağlıyor. Denetimli iki insan uyku kısıtlama deneyi çelişiyor: biri, iki kısa gecenin her grubun payını oynattığını buldu; öteki hiçbir değişiklik bulmadı. Kanıtı olan hamleler lif ve sabit bir kalkma saatidir."

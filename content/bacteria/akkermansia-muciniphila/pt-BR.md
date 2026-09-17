@@ -9,10 +9,10 @@ slug: akkermansia-muciniphila
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "Brasil (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "akkermansia muciniphila"
+  volume: 4400
+  market: "BR (Ubersuggest locId 2076)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Akkermansia muciniphila é uma bactéria que vive na camada de muco do intestino e come mucina, a proteína que o próprio intestino secreta ali. Raspar essa camada estimula a renovação — em camundongos, uma barreira mais firme; num pequeno ensaio humano, melhor sensibilidade à insulina —, mas sem fibra, ou com um patógeno presente, o mesmo apetite afina a camada."

@@ -1,6 +1,6 @@
 ---
-title: "Microbes at immunity: tinuturo ang tolerance, hindi likas"
-meta: "Karamihan ng immune system mo ay katabi ng iyong microbes. Paano hinuhubog ng bacteria ang macrophages, tolerance at inflammation, at ang hindi pa tiyak."
+title: "Immune system at gut: tinuturo ang tolerance, hindi likas"
+meta: "Karamihan ng immune system mo ay nasa gut, katabi ng microbes. Paano hinuhubog ng bacteria ang macrophages, tolerance at inflammation, at ang hindi pa tiyak."
 kicker: "Microbes at immunity"
 type: hubs
 topic: immunity
@@ -9,10 +9,10 @@ slug: immunity
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "immune system gut"
+  volume: 20
   market: "Philippines (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Hindi ginawa ang immune system para lipulin ang microbes; ginawa ito para makisama sa kanila. Tinuturuan ng bacteria sa lining ng bituka ang immune cells — macrophages, regulatory T cells — kung aling hudyat ang panganib at alin ang kapitbahay. Ang pagkatutong iyon, ang tolerance, ay nagsisimula sa kapanganakan. Kapag nabigo ito, chronic inflammation ang bunga, hindi impeksiyon."

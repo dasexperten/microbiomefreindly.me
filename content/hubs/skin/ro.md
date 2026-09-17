@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "RO (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Axa intestin–piele este legătura în ambele sensuri dintre microbiomul intestinal și piele. Bacteriile din intestin modelează celulele imunitare și metaboliții care ajung pe cale sangvină la piele; microbii proprii ai pielii răspund acelui ton imunitar. Eczema, acneea și rozaceea sunt asociate cu schimbări din intestin — prin inflamație, barieră și alimentație, nu prin bacterii care călătoresc spre față."

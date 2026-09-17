@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Drobnoustroje ze śliny pacjentów z rakiem głowy i szyi zamieniały cukier (glukozę) i alkohol (etanol) w aldehyd octowy, substancję rakotwórczą grupy 1 — najwyższej, jak palenie tytoniu. Szczyt przy 100 mM cukru. Peptyd przeciwdrobnoustrojowy z mączką chleba świętojańskiego to zatrzymał, ale drobnoustroje osłonięte biofilmem przeżyły, aż enzymy rozpuściły płytkę. Tylko szalki: żadnego badania u ludzi, żadnego wyniku nowotworowego."

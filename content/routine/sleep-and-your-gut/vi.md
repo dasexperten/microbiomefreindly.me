@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Giấc ngủ và ruột đi cùng nhau, bằng chứng mạnh hơn một chiều. Quan sát gắn ngủ thất thường với đa dạng thấp hơn. Hai thí nghiệm cắt ngủ có đối chứng trái nhau: một bên thấy hai đêm ngắn làm tỷ lệ các nhóm xê dịch, bên kia không. Chất xơ và giờ dậy cố định có bằng chứng."

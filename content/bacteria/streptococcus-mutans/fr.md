@@ -9,10 +9,10 @@ slug: streptococcus-mutans
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "streptococcus mutans"
+  volume: 390
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus mutans est une bactérie amatrice de sucre de la plaque dentaire. Nourri de sucre de table, il fabrique une colle, le glucane, qui ancre la plaque à la dent, et de l'acide qui dissout l'émail : la cause de caries la mieux étudiée. La plupart le portent depuis l'enfance ; aucun bénéfice prouvé, et certaines souches atteignent le cœur."

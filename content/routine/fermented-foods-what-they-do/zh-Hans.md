@@ -1,6 +1,6 @@
 ---
 title: "发酵食品：你吃下的那些活菌不是重点"
-meta: "斯坦福让 36 名成年人做了一项 17 周试验，其中一半每天吃六份：肠道多样性上升，19 种炎症蛋白下降——而原因不是那些微生物。"
+meta: "发酵食品做了什么：斯坦福让 36 名成年人做了 17 周试验，其中一半每天吃六份，肠道多样性上升，19 种炎症蛋白下降——而原因不是那些微生物。"
 kicker: "发酵食品"
 type: routine
 topic: gut
@@ -9,10 +9,11 @@ slug: fermented-foods-what-they-do
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "發酵食品"
+  keywordSimplified: "发酵食品"
+  volume: 260
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "开菲尔、酸奶、泡菜和德式酸菜带着活的乳酸菌，一份最多可达 10¹¹ 个细胞。在一项 17 周的斯坦福试验中（《细胞》2021 年），每天六份让肠道微生物多样性上升，19 种炎症血液蛋白下降。你吞下的细菌多数不会住下；改变的是你自己的常驻群落。巴氏灭菌的罐子里一个活菌也没有。"

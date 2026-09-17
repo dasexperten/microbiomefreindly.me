@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Microbii cultivați din saliva unor pacienți cu cancer de cap și gât au prefăcut zahărul (glucoza) și alcoolul (etanolul) în acetaldehidă, cancerigen de grupa 1, categoria de vârf, alături de fumat. Producția a avut vârful la 100 mM zahăr. O peptidă antimicrobiană a oprit-o, dar microbii adăpostiți în biofilm au supraviețuit. Doar în eprubetă: niciun studiu pe oameni."

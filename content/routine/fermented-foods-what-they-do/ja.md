@@ -1,6 +1,6 @@
 ---
 title: "発酵食品、食べた菌が主役ではありません"
-meta: "スタンフォードが大人36人を17週間の試験に。半分は1日6食分。腸の多様性は上がり、炎症のタンパク質が19種下がりました。菌のおかげではなく。"
+meta: "発酵食品は腸に何をするのか。スタンフォードが大人36人を17週間の試験に。半分は1日6食分。腸の多様性は上がり、炎症のタンパク質が19種下がりました。菌のおかげではなく。"
 kicker: "発酵食品"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: fermented-foods-what-they-do
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "発酵食品"
+  volume: 33100
   market: "Japan (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "ケフィア、ヨーグルト、キムチ、ザワークラウトは生きた乳酸菌を運びます。1食分で最大1,000億個。17週間のスタンフォードの試験（Cell、2021）では、1日6食分で腸内細菌の多様性が上がり、血中の炎症性タンパク質が19種下がりました。飲み込んだ菌はたいてい住みつきません。動くのは、もとからいる群れのほうです。加熱殺菌された瓶に、生きた菌はいません。"

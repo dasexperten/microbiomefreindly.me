@@ -1,6 +1,6 @@
 ---
-title: "S. mutans: 먹여야만 이기는 충치균"
-meta: "Streptococcus mutans가 무엇이고 어디에 살며 어떻게 설탕을 치태와 산으로 바꾸는지, 우리에게 해주는 일과 하는 일. 모든 숫자에 이름 붙은 연구가 붙습니다."
+title: "충치 세균 S. mutans는 먹여야 이긴다"
+meta: "충치 세균 Streptococcus mutans가 무엇이고 어디에 살며 어떻게 설탕을 치태와 산으로 바꾸는지, 우리에게 해주는 일과 하는 일. 모든 숫자에 이름 붙은 연구가 붙습니다."
 kicker: "Streptococcus mutans"
 type: bacteria
 topic: oral
@@ -9,10 +9,10 @@ slug: streptococcus-mutans
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "충치 세균"
+  volume: 140
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus mutans는 치아의 치태에 사는, 당을 좋아하는 세균입니다. 설탕을 먹으면 치태를 치아에 붙들어 매는 끈적한 접착제 글루칸과 법랑질을 녹이는 젖산을 만듭니다. 충치의 원인 가운데 가장 잘 연구된 것입니다. 대부분의 사람이 걸음마 때부터 지니고 살며, 지닌 사람에게 입증된 이점은 없고 일부 균주는 심장과 뇌에 닿을 수 있습니다."

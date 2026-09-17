@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Gumagawa ang Bacteroides fragilis ng taba sa membrana nito, isang alpha-galactosylceramide. Ayon sa bagong gawa sa Cell, sinesolyuhan nito ang membrana laban sa pagtagas ng proton, kaya nakakatagal sa oxygen ng gut ng bagong silang ang mahigpit na anaerobeng dapat lasunin ng hangin, at kinakalibre ng parehong molekula ang natural killer T cell. Daga lang; walang sanggol na sinubukan."

@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Akkermansia muciniphila sống trong lớp chất nhầy ruột và ăn mucin, protein do ruột bạn tiết ra. Việc gặm lớp ấy kích thích tái tạo: ở chuột hàng rào ruột chặt hơn, ở một thử nghiệm nhỏ trên người độ nhạy insulin tốt hơn. Nhưng thiếu chất xơ hoặc có mầm bệnh, cơn thèm ấy làm lớp nhầy mỏng đi."

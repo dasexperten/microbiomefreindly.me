@@ -1,6 +1,6 @@
 ---
-title: "Hindi lahat ng fiber, pagkain ng bacteria mo — at may hangga"
-meta: "Ang fiber na kayang i-ferment ang pagkain ng gut bacteria; ibang trabaho ang sa malapot at magaspang. Gaano karami, at paano idagdag nang hindi kumakabag."
+title: "Dietary fiber: hindi lahat, pagkain ng bacteria mo"
+meta: "Ang dietary fiber na kayang i-ferment ang pagkain ng gut bacteria; ibang trabaho ang sa malapot at magaspang. Gaano karami, at paano idagdag nang walang kabag."
 kicker: "Pagkain at rutina"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: how-much-fibre-and-which-kind
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "dietary fiber"
+  volume: 1300
   market: "Philippines (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Ang fiber na kayang i-ferment — fructans, galacto-oligosaccharides, resistant starch — ang kinakain ng bacteria sa colon mo. Ibang trabaho ang sa malapot at magaspang na fiber. Sa pinagsamang datos ng mahahabang pag-aaral, pinakamalaki ang ibinabang panganib sa 25 g hanggang 29 g kada araw, at pumapatag ang epekto ng fermentation. Idagdag ito sa loob ng linggo."

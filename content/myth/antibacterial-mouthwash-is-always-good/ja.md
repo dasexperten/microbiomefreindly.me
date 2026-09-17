@@ -1,6 +1,6 @@
 ---
-title: "マウスウォッシュは血圧に要る菌も殺す"
-meta: "口の中の菌は殺すほどよいのか。2013年の試験は違うと言います。消毒液で7日間すすぐと口の亜硝酸は90 %減り、血圧はわずかに上がりました。"
+title: "マウスウォッシュを使わないほうがいい時"
+meta: "マウスウォッシュは使わないほうがいいのか。口の中の菌は殺すほどよいのか。2013年の試験は違うと言います。消毒液で7日間すすぐと口の亜硝酸は90 %減り、血圧はわずかに上がりました。"
 kicker: "俗説チェック"
 type: myth
 topic: oral
@@ -9,10 +9,10 @@ slug: antibacterial-mouthwash-is-always-good
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "マウスウォッシュ 使わないほうがいい"
+  volume: 5400
   market: "Japan (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "誤りです。広く効く消毒液のうがい薬は、害になる菌と役に立つ菌を選り分けられないので、口の中の群れを平らにならしてしまいます。2013年の試験では、クロルヘキシジンで7日間すすぐと、体が血管をゆるめるのに使う口の亜硝酸が90 %減り、血圧は2〜3.5 mmHg上がりました。うがい薬は問題を治すものであって、毎日の習慣ではありません。"

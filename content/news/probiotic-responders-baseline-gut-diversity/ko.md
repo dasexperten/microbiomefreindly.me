@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "한 연구는 출발점의 장내 다양성이 갈랐다고 말합니다. 과체중 성인 120명을 12주 동안 무작위 이중맹검으로 본 시험(Gut Microbes, 2026)에서, 살아 있는 프로바이오틱스가 아니라 열로 죽인 세포인 Lactiplantibacillus plantarum LRCC5282는 평균적으로 아무것도 바꾸지 않았습니다. 기저 장내 다양성이 가장 낮았던 사람만 위약보다 체중과 BMI, 렙틴이 더 줄었습니다. 입증된 효과가 아니라 하위군 결과입니다."

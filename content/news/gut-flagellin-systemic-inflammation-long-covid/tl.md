@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Iminumungkahi ng 2026 na pag-aaral sa Gut na sa gut nagsisimula ang pamamaga ng long covid: tumatagas ang flagellin, ang protinang pinagbubuo ng bacteria sa buntot nila, at pinupukaw nito ang TLR5 sa neutrophil, na naglalabas ng IL-15 at nagtutulak ng arachidonic acid ng macrophage hanggang mamaga ang malalayong organo. Sa daga lang ang pagsubok ng sanhi. Walang paggamot."

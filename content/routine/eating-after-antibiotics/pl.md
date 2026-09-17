@@ -1,6 +1,6 @@
 ---
-title: "Dziewięciu gatunków brak: co jeść po antybiotykach"
-meta: "Jelita są blisko punktu wyjścia 1,5 miesiąca po kuracji, ale dziewięciu gatunków u większości mężczyzn nie wykryto w 180. dniu. Co mówią badania jedzenia."
+title: "Odbudowa flory bakteryjnej jelit: co jeść po kuracji"
+meta: "Odbudowa flory bakteryjnej jelit: blisko punktu wyjścia po 1,5 miesiąca, ale dziewięciu gatunków nie wykryto w 180. dniu. Co mówią badania jedzenia."
 kicker: "Po antybiotykach"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: eating-after-antibiotics
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "odbudowa flory bakteryjnej jelit"
+  volume: 320
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Rośliny bogate w błonnik, żywność fermentowana i cierpliwość. Większość społeczności wróciła blisko punktu wyjścia po około 1,5 miesiąca od badanego czterodniowego koktajlu antybiotyków (Nature Microbiology, 2018), ale dziewięciu pospolitych gatunków u większości mężczyzn nie wykryto w 180. dniu. Probiotyki zmniejszają biegunkę po antybiotykach, a jedyne badanie wyściółki jelita stwierdziło, że opóźniają jej odbudowę."

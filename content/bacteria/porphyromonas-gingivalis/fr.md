@@ -9,10 +9,10 @@ slug: porphyromonas-gingivalis
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "porphyromonas gingivalis"
+  volume: 590
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Porphyromonas gingivalis est une anaérobie (elle vit sans oxygène) mangeuse de protéines, logée dans la poche entre dent et gencive. Beaucoup de gens sains la portent ; elle nuit quand les bactéries autour d'elle basculent. Aucun bénéfice démontré. Ses protéases, des enzymes qui coupent les protéines, désactivent vos défenses ; c'est une suspecte, pas une coupable, dans la polyarthrite rhumatoïde et Alzheimer."

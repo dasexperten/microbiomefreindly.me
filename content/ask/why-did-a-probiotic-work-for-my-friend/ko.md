@@ -1,6 +1,6 @@
 ---
-title: "그 프로바이오틱스가 친구에게만 통한 이유"
-meta: "당신과 친구 사이에는 세 가지가 다릅니다. 균주(종이 아니라 이름까지 붙은 정확한 품종), 용량과 기간, 그리고 출발할 때 지니고 있던 장."
+title: "유산균 효과없음? 친구에게만 통한 이유"
+meta: "유산균 효과없음은 흔한 일입니다. 당신과 친구 사이에는 세 가지가 다릅니다. 균주(종이 아니라 이름까지 붙은 정확한 품종), 용량과 기간, 그리고 출발할 때 지니고 있던 장."
 kicker: "매그너스가 답합니다"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: why-did-a-probiotic-work-for-my-friend
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "유산균 효과없음"
+  volume: 140
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "같은 실험을 하지 않았기 때문입니다. 효과는 정확한 균주와 용량, 얼마나 오래 먹는지에 달려 있고, 출발할 때 지니고 있던 군집에도 달렸을 수 있습니다. 과체중 성인 120명을 대상으로 한 2026년 시험은 일차 평가변수를 놓쳤고, 장에 종이 가장 적었던 절반을 나중에 따로 들여다본 분석에서만 체중 차이가 보였습니다."

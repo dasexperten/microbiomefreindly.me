@@ -9,10 +9,10 @@ slug: gut-flagellin-systemic-inflammation-long-covid
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "microbiota intestinal"
-  volume: 9900
+  keyword: "pending"
+  volume: 0
   market: "MX (Ubersuggest locId 2484)"
-  pulled: "2026-09-16"
+  pulled: "2026-09-17 — \"microbiota intestinal\" la queda el centro de intestino; \"covid largo intestino\" no devuelve datos"
 author: magnus-larsen
 voice: greger
 answer: "Un estudio de 2026 en Gut propone que la inflamación del covid largo empieza en el intestino: la flagelina, proteína del flagelo bacteriano, se escapa y activa el TLR5 de los neutrófilos, que liberan IL-15 y empujan al macrófago a fabricar ácido araquidónico hasta que se inflaman órganos lejanos. La causalidad solo se probó en ratones. Aquí no hay tratamiento."

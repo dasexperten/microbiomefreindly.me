@@ -9,10 +9,10 @@ slug: fermented-foods-what-they-do
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "thực phẩm lên men"
+  volume: 170
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Kefir, sữa chua, kim chi, dưa cải mang vi khuẩn lactic sống, cả trăm tỷ mỗi phần. Thử nghiệm 17 tuần tại Stanford (Cell, 2021): sáu khẩu phần mỗi ngày tăng đa dạng vi sinh ruột, hạ 19 protein viêm máu. Phần lớn vi khuẩn nuốt vào đi qua; cộng đồng sẵn có đổi. Hũ thanh trùng: không con nào."

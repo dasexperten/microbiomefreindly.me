@@ -1,5 +1,5 @@
 ---
-title: "Bacillota (колись Firmicutes): не «бактерії ожиріння»"
+title: "Firmicutes (Bacillota): не «бактерії ожиріння»"
 meta: "Bacillota (колись Firmicutes) годує кишківник бутиратом і містить C. difficile. Чому «жирове співвідношення» в аналізі калу нічого не діагностує."
 kicker: "Bacillota"
 type: bacteria
@@ -9,10 +9,10 @@ slug: bacillota-firmicutes
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "firmicutes"
+  volume: 40
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bacillota — бактеріальний тип, який раніше звався Firmicutes; його перейменували 2021 року, коли назви типів офіційно впорядкували. Це одна з двох панівних груп у товстій кишці людини: вона тримає і виробників бутирату, що годують вистилку кишківника, і збудників на кшталт Clostridioides difficile. А популярне «співвідношення Firmicutes до Bacteroidetes» надійним маркером ожиріння не є."

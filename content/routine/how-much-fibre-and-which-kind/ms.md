@@ -1,6 +1,6 @@
 ---
-title: "Bukan semua serat menyuap bakteria, lebih bukan lebih baik"
-meta: "Serat boleh tapai menyuap bakteria usus; serat likat dan kasar buat kerja lain. Berapa banyak yang diukur kajian, dan cara menambahnya tanpa kembung."
+title: "Makanan tinggi serat: bukan semua menyuap bakteria anda"
+meta: "Makanan tinggi serat: serat boleh tapai menyuap bakteria usus, serat likat dan kasar buat kerja lain. Berapa banyak yang diukur kajian, dan cara menambahnya."
 kicker: "Makanan & rutin"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: how-much-fibre-and-which-kind
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "makanan tinggi serat"
+  volume: 720
   market: "Malaysia (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Serat yang boleh ditapai — fruktan, galakto-oligosakarida, kanji rintang — itulah yang dimakan bakteria usus besar anda; anda sendiri tidak dapat menghadamnya. Serat likat dan serat kasar buat kerja lain. Data gabungan daripada kajian yang mengikuti orang bertahun-tahun meletakkan pengurangan risiko terbesar antara 25 g dan 29 g sehari, dan kesan penapaian mendatar. Tambah ia dalam beberapa minggu."

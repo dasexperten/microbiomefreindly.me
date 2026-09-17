@@ -9,10 +9,10 @@ slug: gut
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "腸内フローラ"
+  volume: 9900
   market: "Japan (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "腸内フローラは、主に大腸にすむ細菌・古細菌・真菌・ウイルスの群れです。私たちに消化できない食物繊維を分解し、短鎖脂肪酸やビタミンを作り、免疫を教育し、腸の粘膜を養います。食事、出産、抗生物質、加齢がその形を決め、しかも数日で変わります。"

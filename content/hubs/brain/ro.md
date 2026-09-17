@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "RO (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Axa intestin–creier este mulțimea de drumuri pe care intestinul și microbii lui vorbesc cu creierul: nervul vag, hormoni dați de celulele intestinului, mesageri imunitari și metaboliți bacterieni din sânge. Cea mai mare parte a serotoninei din corp se face în intestin, sub influența microbilor. Legătura e reală; mărimea ei în dispoziția omului încă se măsoară."

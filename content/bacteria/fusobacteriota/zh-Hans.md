@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "梭杆菌门是细菌树上的一整根枝条，由厌氧的、纺锤形的细菌组成，它正常地住在口腔里，是把牙菌斑群落连在一起的那个连接件：这是一份结构工作，不是一项过错。但具核梭杆菌中有一个很小的分支在结直肠肿瘤里高度富集，它的一种黏附素能在人体细胞中打开与癌症相关的信号通路。"

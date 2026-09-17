@@ -1,6 +1,6 @@
 ---
-title: "Nu orice fibră hrănește bacteriile. Mai mult nu e mai bine"
-meta: "Fibrele fermentabile hrănesc bacteriile din intestin; cele vâscoase și cele aspre fac alte treburi. Cât au măsurat studiile și cum le adaugi fără balonare."
+title: "Fibre alimentare: nu orice fibră hrănește bacteriile"
+meta: "Fibre alimentare: cele fermentabile hrănesc bacteriile din intestin, cele vâscoase și aspre fac alte treburi. Cât au măsurat studiile și cum le adaugi."
 kicker: "Mâncare și rutină"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: how-much-fibre-and-which-kind
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "fibre alimentare"
+  volume: 2900
   market: "RO (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Fibrele fermentabile — fructani, galacto-oligozaharide, amidon rezistent — sunt ce mănâncă bacteriile din colonul tău; tu nu le poți digera. Fibrele vâscoase și cele aspre fac alte treburi. Studiile pe termen lung pun scăderea de risc cea mai mare între 25 g și 29 g pe zi, iar efectele fermentației ating un platou. Adaug-o în săptămâni."

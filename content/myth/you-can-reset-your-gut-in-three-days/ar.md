@@ -11,8 +11,8 @@ asOf: 2026-09-04
 seo:
   keyword: "pending"
   volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "خطأ. الطعام يحرّك مجتمع الأمعاء فعلاً، وبسرعة. تناول أحد عشر متطوعاً حميتين متطرفتين بالتناوب: انزاح الخليط بعد يوم من وصول الطعام، وعاد بعد يومين من توقف الحمية (Nature، 2014). ونحو 60 % من سلالات البالغ ما زالت موجودة بعد خمس سنوات (Science، 2013). ثلاثة أيام تغيّر القراءة، لا السكان."

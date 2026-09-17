@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "TH (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Thailand (Ubersuggest locId 2764)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Clostridioides difficile เป็นแบคทีเรียในลำไส้ที่สร้างสปอร์ ซึ่งสปอร์ที่หลับอยู่ของมันอยู่รอดได้นานกว่ายาปฏิชีวนะ มันก่อท้องเสียรุนแรงเมื่อยาปฏิชีวนะกวาดชุมชนจุลินทรีย์ที่คอยกดมันไว้ออกไป การมีเชื้อไม่ใช่การป่วย: ในงานวิจัยในโรงพยาบาลที่รวมกัน พาหะเงียบ — มีเชื้อในอุจจาระ แต่ไม่มีอาการ — เกิดท้องเสียจาก C. difficile น้อยกว่าผู้ป่วยที่ไม่มีเชื้ออะไรเลย"

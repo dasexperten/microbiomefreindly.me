@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Ang Bacteroidota, dating Bacteroidetes, ay phylum ng Gram-negative at ayaw-sa-oxygen na bacteria na napakarami sa colon mo. Kapag pinakain ng fiber, binubuksan nila ang hindi kaya ng enzyme mo at tinutulungang sanayin ang immune system; kapag ginutom, kinakain nila ang mucus lining mo — sa daga pa lang. Sa labas ng gut, nasa halos lahat sila ng anaerobic na impeksiyon."

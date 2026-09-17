@@ -1,6 +1,6 @@
 ---
-title: "S. salivarius: 이로운 균의 드문 그늘"
-meta: "Streptococcus salivarius가 혀 위에서 하는 일, 프로바이오틱스 시험이 실제로 보여주는 것, 그리고 이 균이 일으키는 드문 감염. 모든 출처에 이름이 붙습니다."
+title: "구강 유산균 효능, 그리고 드문 그늘"
+meta: "구강 유산균 효능은 어디까지일까요. Streptococcus salivarius가 혀 위에서 하는 일, 프로바이오틱스 시험이 실제로 보여주는 것, 그리고 이 균이 일으키는 드문 감염. 모든 출처에 이름이 붙습니다."
 kicker: "Streptococcus salivarius"
 type: bacteria
 topic: oral
@@ -9,10 +9,10 @@ slug: streptococcus-salivarius
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "구강 유산균 효능"
+  volume: 390
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus salivarius는 태어난 지 며칠 안에 혀에 자리 잡는 해롭지 않은 연쇄구균으로, 경쟁 세균을 겨냥한 단백질 항생물질인 박테리오신으로 자기 구역을 지킵니다. 일부 균주는 인후통과 입 냄새를 상대로 시험되었지만 대부분 작고 약한 시험이었습니다. 입을 떠나는 일은 드문데, 요추 천자 바늘에 실려 들어가 수막염을 일으킨 적이 있습니다."

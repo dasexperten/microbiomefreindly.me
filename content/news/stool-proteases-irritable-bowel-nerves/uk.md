@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Дослідники взяли рідку частину калу людей із синдромом подразненого кишківника (СРК) і крапнули її на живі нервові сітки кишки. Нерви збуджувалися значно сильніше, ніж від калової рідини здорових людей. При діарейному підтипі ефект пояснили ферменти, що ріжуть білок. Перевіряли нерви морської свинки, не людські."

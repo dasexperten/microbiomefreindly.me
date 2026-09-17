@@ -1,5 +1,5 @@
 ---
-title: "Mikrob dan imuniti: toleransi diajar, bukan dibawa lahir"
+title: "Mikrob dan sistem imun: toleransi diajar, bukan dibawa"
 meta: "Sebahagian besar sistem imun anda duduk bersebelahan mikrob anda. Bagaimana bakteria membentuk makrofaj, toleransi dan keradangan, dan apa yang belum terbukti."
 kicker: "Mikrob dan imuniti"
 type: hubs
@@ -9,10 +9,10 @@ slug: immunity
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "sistem imun"
+  volume: 210
   market: "Malaysia (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Sistem imun tidak dibina untuk menghapuskan mikrob; ia dibina untuk hidup bersama mereka. Bakteria pada lapisan usus mengajar sel imun — makrofaj, sel T pengawal atur — isyarat mana yang bermakna bahaya dan mana yang bermakna jiran. Pembelajaran itu, yang dipanggil toleransi, bermula sejak lahir. Apabila ia gagal, hasilnya keradangan kronik, bukan jangkitan."

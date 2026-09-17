@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Des microbes issus de la salive de patients atteints d'un cancer ORL ont changé le sucre (glucose) et l'alcool (éthanol) en acétaldéhyde, cancérogène du groupe 1, celui du tabac. Le pic était à 100 mM de sucre. Un peptide antimicrobien l'a arrêté, mais les microbes abrités par le biofilm ont survécu jusqu'à l'action d'enzymes. En boîte seulement : aucun essai humain."

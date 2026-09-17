@@ -1,6 +1,6 @@
 ---
-title: "Üç gün bağırsağınızı değiştirir. Sonra geri döner"
-meta: "Üç günlük bağırsak sıfırlama her yerde satılıyor. Ölçümler diyor ki: bakterileriniz bir günde kayar, iki günde geri döner ve suşların %60'ı yıllarca kalır."
+title: "Bağırsak florası ne kadar zamanda düzelir? Üç günde değil"
+meta: "Bağırsak florası ne kadar zamanda düzelir? Üç günlük sıfırlama her yerde satılıyor. Ölçüm: bakterileriniz bir günde kayar, iki günde geri döner."
 kicker: "Mit kontrolü"
 type: myth
 topic: gut
@@ -9,10 +9,10 @@ slug: you-can-reset-your-gut-in-three-days
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "bağırsak florası ne kadar zamanda düzelir"
+  volume: 880
   market: "TR (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Yanlış. Besin bağırsak topluluğunu gerçekten oynatır, hem de hızla. On bir gönüllü sırayla iki uç beslenme uyguladı: karışım, besin ulaştıktan bir gün sonra kaydı ve beslenme bittikten iki gün sonra geri döndü (Nature, 2014). Bir yetişkinin suşlarının yaklaşık %60'ı beş yıl sonra hâlâ oradadır (Science, 2013). Üç gün ölçümü değiştirir, sakinleri değil."

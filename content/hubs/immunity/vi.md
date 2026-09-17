@@ -1,5 +1,5 @@
 ---
-title: "Vi sinh vật và miễn dịch: dung nạp là học, không bẩm sinh"
+title: "Hệ miễn dịch học dung nạp từ vi khuẩn, không bẩm sinh"
 meta: "Phần lớn hệ miễn dịch của bạn nằm ngay cạnh vi sinh vật. Vi khuẩn nặn đại thực bào, sự dung nạp và viêm ra sao, người ta hỏi gì, và điều gì vẫn chưa chứng minh."
 kicker: "Vi sinh vật và miễn dịch"
 type: hubs
@@ -9,10 +9,10 @@ slug: immunity
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "hệ miễn dịch"
+  volume: 1300
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Hệ miễn dịch không sinh ra để quét sạch vi sinh vật, mà để sống chung. Vi khuẩn ở niêm mạc ruột dạy đại thực bào và tế bào T điều hòa: đâu là nguy hiểm, đâu là hàng xóm. Sự dung nạp ấy được học từ lúc chào đời. Hỏng nó thì thành viêm mạn, không phải nhiễm trùng."

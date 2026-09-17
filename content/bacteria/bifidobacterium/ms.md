@@ -9,10 +9,10 @@ slug: bifidobacterium
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "bifidobacterium"
+  volume: 590
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bifidobacterium ialah genus bakteria bercabang dua (berbentuk Y) dan anaerob (mengelak udara) yang menguasai usus bayi susu ibu dengan memakan gula susu manusia. Kebanyakan spesies tidak berbahaya, menapai gula itu menjadi asetat dan laktat, dua asid lembut; beberapa tidak: B. dentium kariogen oportunistik daripada karies gigi, dan strain probiotik pernah sampai ke darah bayi sangat pramatang."

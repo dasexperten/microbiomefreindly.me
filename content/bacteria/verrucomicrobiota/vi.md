@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "VN (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Verrucomicrobiota (trước là Verrucomicrobia) là ngành vi khuẩn của Akkermansia muciniphila, loài sống trong lớp chất nhầy đại tràng và ăn chính lớp ấy. Ở mức vừa phải, sự luân chuyển đó nuôi niêm mạc ruột và đi cùng chỉ số chuyển hóa tốt hơn. Quá nhiều, hoặc khi thiếu chất xơ, cơn thèm ấy làm mỏng hàng rào."

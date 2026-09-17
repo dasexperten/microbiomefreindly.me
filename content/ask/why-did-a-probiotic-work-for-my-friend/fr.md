@@ -1,6 +1,6 @@
 ---
-title: "Le probiotique a marché pour votre amie, pas pour vous"
-meta: "Trois choses diffèrent entre vous et votre amie : la souche exacte (pas l'espèce), la dose et la durée, et l'intestin d'où vous êtes partis."
+title: "Probiotiques et efficacité : pourquoi pas chez vous"
+meta: "Trois choses décident de l'efficacité des probiotiques chez vous et pas chez votre amie : la souche exacte, la dose et la durée, et l'intestin de départ."
 kicker: "Magnus répond"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: why-did-a-probiotic-work-for-my-friend
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "probiotiques efficacité"
+  volume: 320
   market: "FR (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Parce que vous n'avez pas fait la même expérience. L'effet dépend de la souche exacte, de la dose, de la durée, et peut-être de la communauté de départ. Un essai 2026 chez 120 adultes en surpoids a manqué son critère principal et n'a vu une différence de poids que chez la moitié la moins riche en espèces."

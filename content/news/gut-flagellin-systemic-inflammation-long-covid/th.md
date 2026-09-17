@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "TH (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Thailand (Ubersuggest locId 2764)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "งานวิจัยปี 2026 ในวารสาร Gut เสนอว่าการอักเสบของลองโควิดเริ่มต้นในลำไส้: แฟลเจลลิน ซึ่งเป็นโปรตีนที่แบคทีเรียใช้สร้างหางว่ายน้ำ รั่วออกมาแล้วไปสะกิด TLR5 บนนิวโทรฟิล ซึ่งปล่อย IL-15 ออกมาและผลักให้แมโครฟาจสร้างกรดอะราคิโดนิก จนอวัยวะที่อยู่ไกลออกไปอักเสบ รูปแบบเดียวกันนี้ปรากฏในสี่โรค ส่วนการทดสอบความเป็นเหตุเป็นผลทำในหนูเท่านั้น ไม่มีอะไรตรงนี้เป็นการรักษา"

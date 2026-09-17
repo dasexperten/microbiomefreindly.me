@@ -1,6 +1,6 @@
 ---
-title: "Microbii și imunitatea: toleranța se învață, nu se naște"
-meta: "Cea mai mare parte a imunității tale stă lângă microbii tăi. Cum modelează bacteriile macrofagele, toleranța și inflamația și ce rămâne nedovedit."
+title: "Sistem imunitar și microbi: cum se învață toleranța"
+meta: "Sistem imunitar și microbi: cum modelează bacteriile macrofagele, toleranța și inflamația — și ce rămâne nedovedit despre imunitatea din intestin."
 kicker: "Microbii și imunitatea"
 type: hubs
 topic: immunity
@@ -9,10 +9,10 @@ slug: immunity
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "sistem imunitar"
+  volume: 140
   market: "RO (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Sistemul imunitar nu este făcut ca să șteargă microbii; este făcut ca să trăiască cu ei. Bacteriile de pe mucoasa intestinului învață celulele imunitare — macrofage, limfocite T reglatoare — care semnale înseamnă pericol și care înseamnă vecin. Învățătura aceasta, numită toleranță, începe la naștere. Când dă greș, urmarea este inflamația cronică, nu infecția."

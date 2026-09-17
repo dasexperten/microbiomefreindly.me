@@ -1,6 +1,6 @@
 ---
 title: "Alimente fermentate: microbii mâncați nu sunt miezul"
-meta: "Stanford a dus 36 de adulți printr-un studiu de 17 săptămâni, jumătate cu șase porții pe zi: diversitatea a crescut și 19 proteine inflamatorii au scăzut."
+meta: "Alimente fermentate: Stanford, 36 de adulți, 17 săptămâni, șase porții pe zi — diversitatea a crescut și 19 proteine inflamatorii au scăzut."
 kicker: "Alimente fermentate"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: fermented-foods-what-they-do
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "alimente fermentate"
+  volume: 170
   market: "RO (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Chefirul, iaurtul, kimchi și varza murată poartă bacterii lactice vii, până la o sută de miliarde de celule pe porție. Într-un studiu Stanford de 17 săptămâni (Cell, 2021), șase porții pe zi au crescut diversitatea microbiană din intestin și au coborât 19 proteine inflamatorii. Bacteriile înghițite rar se așază; se mută comunitatea ta. Borcanele pasteurizate n-au niciuna."

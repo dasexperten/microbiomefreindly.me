@@ -1,6 +1,6 @@
 ---
-title: "Hôi miệng không phải do bẩn, mà do một gen vi khuẩn"
-meta: "Một nghiên cứu năm 2026 trên đĩa nuôi cấy và trên chuột đã hạ gen vi khuẩn gây hôi miệng. Cơ chế, các con số, và những gì nghiên cứu chưa chứng minh."
+title: "Nguyên nhân hôi miệng không phải do bẩn, mà là một gen"
+meta: "Một nghiên cứu năm 2026 trên đĩa nuôi cấy và trên chuột đã hạ gen vi khuẩn là nguyên nhân hôi miệng. Cơ chế, các con số, và những gì nghiên cứu chưa chứng minh."
 kicker: "Hợp chất lưu huỳnh bay hơi"
 type: news
 topic: oral
@@ -9,10 +9,10 @@ slug: probiotic-sulfur-bad-breath-periodontitis
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "nguyên nhân hôi miệng"
+  volume: 590
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Hôi miệng là khí. Vi khuẩn kỵ khí ở rêu lưỡi và túi lợi tách lưu huỳnh khỏi axit amin nhờ enzyme do gen mgl mã hóa. Năm 2026, trên Journal of Oral Microbiology, hai vi khuẩn lactic đã hạ gen này trong đĩa nuôi cấy và giảm rêu lưỡi ở chuột; chưa thử trên người, chưa đo khí."

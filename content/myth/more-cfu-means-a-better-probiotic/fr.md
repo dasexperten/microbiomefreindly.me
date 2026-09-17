@@ -1,6 +1,6 @@
 ---
-title: "Plus d'UFC, mieux ? 100 fois plus n'a rien changé"
-meta: "Un chiffre d'UFC plus gros — plus de bactéries vivantes par dose — fait vendre. Les essais divergent : doubler a aidé une fois, cent fois plus n'a rien fait."
+title: "Quel probiotique choisir ? Pas au nombre d'UFC"
+meta: "Un chiffre d'UFC plus gros fait vendre. Pour savoir quel probiotique choisir, les essais divergent : doubler a aidé une fois, cent fois plus n'a rien fait."
 kicker: "Le mythe au crible"
 type: myth
 topic: gut
@@ -9,10 +9,10 @@ slug: more-cfu-means-a-better-probiotic
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "quel probiotiques choisir"
+  volume: 880
   market: "FR (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "En partie vrai. La dose compte, mais seulement à l'intérieur d'une souche et d'un résultat. Dans un essai, 100 milliards d'UFC ont battu 50 milliards contre la diarrhée sous antibiotiques ; dans un autre, multiplier le même organisme par cent n'a rien changé chez des enfants en diarrhée aiguë. Un chiffre sur une étiquette parle de quantité, pas de preuves."

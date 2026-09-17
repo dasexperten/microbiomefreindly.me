@@ -1,6 +1,6 @@
 ---
-title: "Porphyromonas gingivalis: підозрюваний зі здорового рота"
-meta: "Що таке Porphyromonas gingivalis, де вона живе, що робить для нас і проти нас — спершу механізм, кожне число з названим дослідженням."
+title: "Пародонтит: причини й підозрюваний зі здорового рота"
+meta: "Пародонтит і його причини: що таке Porphyromonas gingivalis, де вона живе, що робить для нас і проти нас — кожне число з названим дослідженням."
 kicker: "Porphyromonas gingivalis"
 type: bacteria
 topic: oral
@@ -9,10 +9,10 @@ slug: porphyromonas-gingivalis
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "пародонтит причини"
+  volume: 50
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Porphyromonas gingivalis — анаероб (живе без кисню), байдужий до цукру поїдач білка з кишені між зубом і яснами. Багато здорових людей її носять; шкодить вона лише тоді, коли бактерії довкола втрачають рівновагу. Користі не показано. Її протеази (ферменти, що ріжуть білки) вимикають захист тіла, а в артриті й Альцгеймері вона підозрювана, а не доведена причина."

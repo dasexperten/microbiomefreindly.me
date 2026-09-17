@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "维生素 A 不会自己走到你的免疫细胞那里。在小鼠身上，肠道细菌让肠壁产生载体蛋白——血清淀粉样蛋白 A——把视黄醇交给髓系细胞。这些细胞再走到引流肠道的淋巴结，把它交给 T 细胞。这场接力大约需要三天——只在小鼠身上。"

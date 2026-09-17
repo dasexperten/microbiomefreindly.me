@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — market measured, no honest match for this page; left pending"
 author: magnus-larsen
 voice: greger
 answer: "バシロタは、門の名前が正式に統一された2021年にフィルミクテスから改名された細菌の門です。ヒトの大腸で優勢な二つのグループの一つで、腸の粘膜を養う酪酸産生菌も、Clostridioides difficileのような病原菌も抱えています。ただし、よく聞く「フィルミクテス対バクテロイデーテス比」は、肥満の目印として信頼できるものではありません。"

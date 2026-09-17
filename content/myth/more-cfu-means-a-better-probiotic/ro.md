@@ -1,6 +1,6 @@
 ---
-title: "Mai multe UFC, mai bine? De 100× mai mult, nimic"
-meta: "Un număr mai mare de UFC — mai multe bacterii vii pe doză — vinde probiotice. Studiile nu sunt de acord: dublarea a ajutat o dată, de 100× mai mult, nimic."
+title: "Probiotice bune: mai multe UFC nu înseamnă mai bine"
+meta: "Probiotice bune nu înseamnă UFC multe: un număr mai mare de bacterii vii pe doză vinde, dar dublarea a ajutat o dată, iar de 100× mai mult, nimic."
 kicker: "Verificăm mitul"
 type: myth
 topic: gut
@@ -9,10 +9,10 @@ slug: more-cfu-means-a-better-probiotic
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "probiotice bune"
+  volume: 140
   market: "RO (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Parțial adevărat. Doza contează, dar doar pentru o tulpină și un rezultat anume. Într-un studiu, 100 de miliarde de UFC au bătut 50 de miliarde la diareea asociată antibioticelor; în altul, un salt de o sută de ori la același organism n-a schimbat nimic la copii cu diaree acută. Numărul de pe etichetă spune cantitatea, nu dovada."

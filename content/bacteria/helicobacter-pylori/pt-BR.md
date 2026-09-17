@@ -1,6 +1,6 @@
 ---
 title: "Helicobacter pylori: cancerígeno, mas ligado a menos asma"
-meta: "Metade do mundo a hospeda. Causa úlcera e câncer de estômago, mas vem com menos asma e menos câncer de esôfago. Dano provado, benefício não provado."
+meta: "A bactéria Helicobacter pylori: metade do mundo a hospeda. Causa úlcera e câncer de estômago, mas vem com menos asma. Dano provado, benefício não."
 kicker: "Helicobacter pylori"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: helicobacter-pylori
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "Brasil (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "bacteria helicobacter pylori"
+  volume: 4400
+  market: "BR (Ubersuggest locId 2076)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Helicobacter pylori é uma bactéria espiralada que coloniza a mucosa do estômago, em geral para sempre. É a maior causa infecciosa de câncer no mundo e a principal causa bacteriana de úlcera péptica. Mas, onde a bactéria é comum, o adenocarcinoma de esôfago e a asma na infância são mais raros. O dano é provado; o benefício, só um padrão."

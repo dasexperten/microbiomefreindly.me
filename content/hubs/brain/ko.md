@@ -1,6 +1,6 @@
 ---
-title: "장-뇌 축: 세균은 움직이지 않고 뇌에 닿는다"
-meta: "장-뇌 축을 풀어 봅니다. 미주신경, 지방산, 세로토닌, 면역 신호. 기분과 불안, 사이코바이오틱스에 대해 사람들이 묻는 것과 아직 증명되지 않은 것."
+title: "장뇌축: 세균은 움직이지 않고 뇌에 닿는다"
+meta: "장뇌축을 풀어 봅니다. 미주신경, 지방산, 세로토닌, 면역 신호. 기분과 불안, 사이코바이오틱스에 대해 사람들이 묻는 것과 아직 증명되지 않은 것."
 kicker: "장-뇌 축"
 type: hubs
 topic: brain
@@ -9,10 +9,10 @@ slug: brain
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "장뇌축"
+  volume: 590
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "장-뇌 축은 장과 그 미생물이 뇌와 이야기하는 통로들을 함께 이르는 말입니다. 미주신경, 장 세포가 내놓는 호르몬, 면역 전령, 혈액 속 세균 대사산물이 그 길입니다. 몸속 세로토닌의 대부분은 미생물의 영향 아래 장에서 만들어집니다. 연결은 실재하고, 사람의 기분에서 그 크기는 아직 재는 중입니다."

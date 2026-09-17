@@ -1,5 +1,5 @@
 ---
-title: "입속 미생물: 치태와 충치, 잇몸 이야기"
+title: "치태는 때가 아니라 바이오필름이다"
 meta: "치태는 때가 아니라 바이오필름입니다. 입속 미생물이 무엇인지, 어떻게 충치와 잇몸병으로 가는지, 사람들이 묻는 세 가지, 그리고 근거가 끝나는 곳."
 kicker: "입속 미생물"
 type: hubs
@@ -9,10 +9,10 @@ slug: oral
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "치태"
+  volume: 1300
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "입속 미생물은 치아와 잇몸, 혀, 볼 안쪽에 사는 세균의 무리입니다. 치아 위에서는 치태를 이룹니다. 세균이 스스로 만든 당이 붙들어 주는 짜임새 있는 바이오필름이지요. 균형이 맞을 때는 지켜 주지만, 당이 잦거나 닦는 일이 드물면 산을 만드는 종이 우세해지고, 법랑질이 녹고 잇몸에 염증이 생깁니다."

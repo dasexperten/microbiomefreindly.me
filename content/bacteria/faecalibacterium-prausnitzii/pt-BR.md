@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "Brasil (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "BR (Ubersuggest locId 2076)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "A Faecalibacterium prausnitzii é uma das bactérias mais abundantes de um cólon saudável — mais de 5 % das bactérias do intestino — e produz butirato, o combustível principal da mucosa do cólon. Ela cai na doença de Crohn, uma doença inflamatória intestinal. Essa associação é forte, mas ainda falta prova de que a própria bactéria deixe alguém mais saudável."

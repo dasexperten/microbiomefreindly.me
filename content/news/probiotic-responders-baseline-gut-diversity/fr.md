@@ -1,6 +1,6 @@
 ---
-title: "Même gélule, résultat inverse : d'où vient l'écart ?"
-meta: "120 adultes en surpoids, 12 semaines : le L. plantarum tué par la chaleur n'a rien fait en moyenne. Seuls les intestins les moins variés ont maigri."
+title: "Probiotiques et perte de poids : tout dépend de l'intestin"
+meta: "120 adultes en surpoids, 12 semaines : le L. plantarum tué par la chaleur n'a rien fait pour la perte de poids. Seuls les intestins les moins variés ont maigri."
 kicker: "Répondeurs aux probiotiques"
 type: news
 topic: gut
@@ -9,10 +9,10 @@ slug: probiotic-responders-baseline-gut-diversity
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "probiotiques perte de poids"
+  volume: 1900
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Votre diversité intestinale de départ, suggère une étude. Dans un essai randomisé de 12 semaines chez 120 adultes en surpoids (Gut Microbes, 2026), Lactiplantibacillus plantarum LRCC5282 tué par la chaleur n'a rien changé en moyenne. Seuls les intestins les moins variés ont perdu plus de poids, d'IMC et de leptine que sous placebo — résultat de sous-groupe, pas effet prouvé."

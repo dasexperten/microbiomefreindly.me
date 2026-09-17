@@ -9,10 +9,10 @@ slug: lactobacillus
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "lactobacillus"
+  volume: 8100
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Lactobacillus est un genre de bactéries qui produisent de l'acide lactique et vivent dans les aliments fermentés, la bouche, le vagin et, en petit nombre, l'intestin. Les essais montrent qu'elles aident à prévenir la diarrhée sous antibiotiques ; un grand essai n'a rien trouvé contre la gastro-entérite. En 2020, les génomes ont scindé l'ancien genre en 25 genres."

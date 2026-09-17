@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "Brasil (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "BR (Ubersuggest locId 2076)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Fusobacteriota, um filo (um ramo inteiro da árvore bacteriana) de bactérias anaeróbias em forma de fuso, vive na boca como o conector que mantém unida a comunidade da placa dentária: um ofício estrutural, não um defeito. Mas um pequeno clado de Fusobacterium nucleatum está muito enriquecido em tumores colorretais, onde uma adesina dele aciona sinalização de câncer em células humanas."

@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "2026년 Gut에 실린 연구는 롱코비드의 염증이 장에서 시작된다고 제안합니다. 세균이 유영 꼬리를 만드는 단백질 플라젤린이 새어 나와 호중구의 TLR5를 건드리고, 호중구가 IL-15를 내놓아 대식세포의 아라키돈산을 몰아붙이며 멀리 떨어진 장기에 염증이 인다는 것입니다. 같은 양상이 네 질환에서 나타났고, 인과 검증은 생쥐뿐이었습니다. 여기에 치료는 없습니다."

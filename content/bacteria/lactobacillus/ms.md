@@ -9,10 +9,10 @@ slug: lactobacillus
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "lactobacillus"
+  volume: 2900
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Lactobacillus ialah genus bakteria penghasil asid laktik yang hidup dalam makanan yang ditapai, mulut, faraj dan sedikit sahaja dalam usus. Ujian klinikal menunjukkan ia membantu mencegah cirit-birit akibat antibiotik; satu ujian besar tidak menemui manfaat bagi gastroenteritis. Pada 2020, data genom memecah genus lama itu kepada 25 genus."

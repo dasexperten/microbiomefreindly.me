@@ -1,5 +1,5 @@
 ---
-title: "C. difficile taşımak C. difficile riskinizi düşürebilir"
+title: "Clostridium difficile taşımak riskinizi düşürebilir"
 meta: "Clostridioides difficile, eski adıyla Clostridium difficile: nedir, nerede yaşar, neden zarar verir — ve sessiz taşıyıcılıkta neden daha az ishal görülür?"
 kicker: "Clostridioides difficile"
 type: bacteria
@@ -9,10 +9,10 @@ slug: clostridioides-difficile
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "clostridium difficile"
+  volume: 880
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Clostridioides difficile, uykudaki sporları antibiyotikleri atlatan, spor yapan bir bağırsak bakterisidir; antibiyotikler onu dizginleyen mikrop topluluğunu söküp attığında ağır ishale yol açar. Taşımak hastalık değildir: bir araya getirilen hastane çalışmalarında sessiz taşıyıcılarda — dışkıda canlı var, belirti yok — C. difficile ishali, hiçbir şey taşımayan hastalardakinden daha seyrek gelişti."

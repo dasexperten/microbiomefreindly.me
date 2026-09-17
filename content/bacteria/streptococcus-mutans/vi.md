@@ -1,6 +1,6 @@
 ---
-title: "Streptococcus mutans: chỉ gây sâu răng khi có đường"
-meta: "Streptococcus mutans là gì, sống ở đâu, biến đường thành mảng bám và axit ra sao, làm gì cho bạn và chống lại bạn — mỗi con số kèm một nghiên cứu có tên."
+title: "Nguyên nhân sâu răng: Streptococcus mutans cần có đường"
+meta: "Nguyên nhân sâu răng: Streptococcus mutans biến đường thành mảng bám và axit ra sao, làm gì cho bạn và chống lại bạn — mỗi con số kèm một nghiên cứu."
 kicker: "Streptococcus mutans"
 type: bacteria
 topic: oral
@@ -9,10 +9,10 @@ slug: streptococcus-mutans
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "nguyên nhân sâu răng"
+  volume: 390
   market: "VN (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus mutans là vi khuẩn mê đường sống trong mảng bám trên răng bạn. Có đường mía, nó dệt ra keo dính glucan để neo mảng bám vào răng, và axit lactic hòa tan men răng: nguyên nhân sâu răng được nghiên cứu kỹ nhất. Hầu hết chúng ta mang nó từ nhỏ; không lợi ích nào được chứng minh."

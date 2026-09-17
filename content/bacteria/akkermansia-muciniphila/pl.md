@@ -1,6 +1,6 @@
 ---
 title: "Akkermansia muciniphila: drobnoustrój, który je twój śluz"
-meta: "Bakteria jelitowa, która żywi się twoim własnym śluzem — i być może chroni metabolizm. Co pokazują wskazane z nazwy badania i gdzie się kończą."
+meta: "Akkermansia muciniphila żywi się twoim własnym śluzem — i być może chroni metabolizm. Co pokazują wskazane z nazwy badania i gdzie się kończą."
 kicker: "Akkermansia"
 type: bacteria
 topic: metabolic
@@ -9,10 +9,10 @@ slug: akkermansia-muciniphila
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "akkermansia muciniphila"
+  volume: 4400
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Akkermansia muciniphila to bakteria jelitowa, która mieszka w warstwie śluzu jelita i zjada mucynę, białko wydzielane tam przez twoje własne jelito. Skubanie tej warstwy pobudza jej odnowę — u myszy szczelniejszą barierę, w jednym małym badaniu u ludzi lepszą wrażliwość na insulinę — ale bez błonnika albo przy obecnym patogenie ten sam apetyt warstwę przerzedza."

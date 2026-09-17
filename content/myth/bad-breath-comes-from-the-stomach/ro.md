@@ -1,6 +1,6 @@
 ---
-title: "Halena vine din stomac? Doar un caz din o sută"
-meta: "O clinică a măsurat 491 de pacienți: gura a explicat 87 % din halenă, iar tubul digestiv doar 1 %. Unde se face de fapt mirosul de sulf."
+title: "Respirație urât mirositoare din stomac? Un caz din o sută"
+meta: "Respirația urât mirositoare vine din stomac? O clinică a măsurat 491 de pacienți: gura a explicat 87 % din cazuri, tubul digestiv doar 1 %."
 kicker: "Verificăm mitul"
 type: myth
 topic: oral
@@ -9,10 +9,10 @@ slug: bad-breath-comes-from-the-stomach
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "respiratie urat mirositoare"
+  volume: 720
   market: "RO (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Parțial adevărat, și abia. Mirosul e dat de compuși volatili cu sulf, făcuți de bacterii anaerobe pe spatele limbii și sub gingii, deasupra esofagului, nu sub el. Într-o clinică cu 491 de pacienți, gura a explicat 87 % din cazuri, iar tubul digestiv 1 %. Halena gastrică există; e excepția."

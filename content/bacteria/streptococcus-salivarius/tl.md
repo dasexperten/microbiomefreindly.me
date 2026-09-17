@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Ang Streptococcus salivarius ay hindi nakakapinsalang streptococcus na pumupwesto sa dila ilang araw matapos ipanganak at ipinagtatanggol nito ang puwesto gamit ang bacteriocin, mga protinang antibiotic laban sa karibal. May strain na sinubukan laban sa sore throat at bad breath sa maliliit na trial. Bihira itong umalis sa bibig, pero nagdulot na ito ng meningitis mula sa karayom."

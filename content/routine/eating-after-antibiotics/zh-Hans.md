@@ -1,6 +1,6 @@
 ---
-title: "9 个物种仍未回来：抗生素之后怎么吃"
-meta: "疗程结束约 1.5 个月后肠道已接近基线，但第 180 天时多数男性身上仍有 9 个物种检测不到。食物和益生菌试验显示了什么。"
+title: "抗生素益生菌与饮食：之后该怎么吃"
+meta: "抗生素益生菌和食物的试验显示了什么：疗程结束约 1.5 个月后肠道已接近基线，但第 180 天时多数男性身上仍有 9 个物种检测不到。"
 kicker: "抗生素之后"
 type: routine
 topic: gut
@@ -9,10 +9,11 @@ slug: eating-after-antibiotics
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "抗生素益生菌"
+  keywordSimplified: "抗生素益生菌"
+  volume: 720
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "富含纤维的植物、发酵食品，还有耐心。在所研究的那套 4 天抗生素组合之后（《自然·微生物学》2018 年），大部分菌群约 1.5 个月回到接近基线，但第 180 天时多数男性身上仍有九个常见物种检测不到。益生菌能减少抗生素相关腹泻，可唯一一项直接取样肠黏膜的研究发现，它们反而拖慢了重建。"

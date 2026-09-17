@@ -1,6 +1,6 @@
 ---
-title: "IBSの痛みは気のせいではなく酵素が神経を突く"
-meta: "IBSの患者の便の液は、健康な人の液よりはるかに強く腸の神経網を発火させました。2026年のGutの研究が示したこと、そして示さなかったこと。"
+title: "過敏性腸症候群の腹痛は気のせいではない"
+meta: "過敏性腸症候群の腹痛はどんな痛みか。IBSの患者の便の液は、健康な人の液よりはるかに強く腸の神経網を発火させました。2026年のGutの研究が示したこと、そして示さなかったこと。"
 kicker: "過敏性腸症候群"
 type: news
 topic: gut
@@ -9,10 +9,10 @@ slug: stool-proteases-irritable-bowel-nerves
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "過敏性腸症候群 腹痛 どんな痛み"
+  volume: 390
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "研究者たちは、過敏性腸症候群の人の便の液体の部分を取り、生きた腸の神経網に垂らしました。神経は、健康な人の便の液のときよりはるかに強く発火しました。下痢型では、タンパク質を切る酵素がその効果を説明しました。試された神経はモルモットのもので、ヒトのものではありません。"

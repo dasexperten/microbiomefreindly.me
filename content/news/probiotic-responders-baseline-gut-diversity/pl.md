@@ -1,6 +1,6 @@
 ---
-title: "Ta sama kapsułka, inny wynik: od czego zależy probiotyk"
-meta: "120 dorosłych z nadwagą, 12 tygodni: zabite ciepłem L. plantarum średnio nic nie dało. Schudły tylko jelita najuboższe w gatunki. To trop, a nie dowód."
+title: "Probiotyki: jak działają i dlaczego nie u każdego"
+meta: "Probiotyki — jak działają i u kogo. 120 dorosłych z nadwagą, 12 tygodni: schudły tylko jelita najuboższe w gatunki. To trop, a nie dowód."
 kicker: "Kto odpowiada na probiotyk"
 type: news
 topic: gut
@@ -9,10 +9,10 @@ slug: probiotic-responders-baseline-gut-diversity
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "probiotyki jak działają"
+  volume: 70
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Od wyjściowej różnorodności twoich jelit, sugeruje badanie. W 12-tygodniowym badaniu z randomizacją i podwójnie ślepą próbą u 120 dorosłych z nadwagą (Gut Microbes, 2026) zabite ciepłem Lactiplantibacillus plantarum LRCC5282, martwe komórki zamiast żywego probiotyku, średnio nic nie zmieniło. Tylko osoby o najuboższych jelitach straciły więcej masy ciała, BMI i leptyny niż na placebo, wynik w podgrupie, nie dowiedziony efekt."

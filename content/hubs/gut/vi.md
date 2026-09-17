@@ -1,6 +1,6 @@
 ---
-title: "Hệ vi sinh đường ruột: khoa học biết gì, chưa biết gì"
-meta: "Hệ vi sinh đường ruột nói không thổi phồng: cộng đồng vi sinh vật trong ruột bạn làm gì, ba câu hỏi ai cũng hỏi, và bằng chứng dừng lại ở đâu."
+title: "Vi khuẩn đường ruột: khoa học biết gì, chưa biết gì"
+meta: "Vi khuẩn đường ruột nói không thổi phồng: cộng đồng vi sinh vật trong ruột bạn làm gì, ba câu hỏi ai cũng hỏi, và bằng chứng dừng lại ở đâu."
 kicker: "Hệ vi sinh đường ruột"
 type: hubs
 topic: gut
@@ -9,10 +9,10 @@ slug: gut
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "vi khuẩn đường ruột"
+  volume: 210
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Hệ vi sinh đường ruột là cộng đồng vi khuẩn, cổ khuẩn, nấm và virus sống trong ruột già. Nó phân giải chất xơ ta không tiêu nổi, tạo axit béo chuỗi ngắn và vitamin, dạy hệ miễn dịch, nuôi niêm mạc ruột. Bữa ăn, ca sinh, kháng sinh và tuổi tác nặn ra nó; nó đổi sau vài ngày."

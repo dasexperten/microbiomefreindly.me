@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — market measured, no honest match for this page; left pending"
 author: magnus-larsen
 voice: greger
 answer: "ビタミンAは一人で免疫細胞へ旅をするわけではありません。マウスでは、腸内細菌が腸の粘膜に運び屋のタンパク質 — 血清アミロイドA — をつくらせ、それがレチノールを骨髄系の細胞へ手渡します。その細胞は腸から流れ込むリンパ節まで歩いていき、T細胞へ渡します。この中継にはおよそ3日かかります。マウスでの話です。"

@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Thailand (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "จริงบางส่วน ขนาดยามีผล แต่มีผลภายในสายพันธุ์เดียวและผลลัพธ์เดียวเท่านั้น ในการทดลองหนึ่ง 100 พันล้าน CFU ดีกว่า 50 พันล้านสำหรับท้องเสียจากยาปฏิชีวนะ ส่วนอีกงานหนึ่ง การเพิ่มขึ้นร้อยเท่าของสิ่งมีชีวิตตัวเดียวกันไม่เปลี่ยนอะไรเลยในเด็กที่ท้องเสียเฉียบพลัน ตัวเลขบนฉลากคือคำกล่าวอ้างเรื่องปริมาณ ไม่ใช่เรื่องหลักฐาน"

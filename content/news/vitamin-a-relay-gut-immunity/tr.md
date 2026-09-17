@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TR (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "A vitamini bağışıklık hücrelerinize tek başına gitmez. Farelerde bağırsak bakterileri, bağırsak astarına taşıyıcı proteinler — serum amiloid A — ürettiriyor; bu proteinler retinolü miyeloid hücrelere devrediyor. O hücreler de bağırsağı boşaltan lenf düğümlerine yürüyüp retinolü T hücrelerine aktarıyor. Bayrak yarışı yaklaşık üç gün sürüyor — yalnızca farelerde."

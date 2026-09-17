@@ -1,6 +1,6 @@
 ---
-title: "Toutes les fibres ne nourrissent pas vos bactéries"
-meta: "Les fibres fermentescibles nourrissent vos bactéries ; les fibres visqueuses et grossières font autre chose. Combien en manger, et comment sans ballonner."
+title: "Fibres alimentaires : lesquelles nourrissent vos bactéries"
+meta: "Les fibres alimentaires fermentescibles nourrissent vos bactéries ; les visqueuses et grossières font autre chose. Combien en manger, et comment sans ballonner."
 kicker: "Alimentation & quotidien"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: how-much-fibre-and-which-kind
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "fibres alimentaires"
+  volume: 12100
   market: "FR (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Les fibres fermentescibles — fructanes, galacto-oligosaccharides, amidon résistant — nourrissent les bactéries du côlon ; vous ne les digérez pas. Les fibres visqueuses et grossières font d'autres métiers. Les grandes analyses placent la plus forte baisse de risque entre 25 et 29 g par jour, et la fermentation plafonne. Montez sur des semaines."

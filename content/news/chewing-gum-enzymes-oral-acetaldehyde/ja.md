@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — market measured, no honest match for this page; left pending"
 author: magnus-larsen
 voice: greger
 answer: "頭頸部がんの患者の唾液から培養された微生物が、砂糖（グルコース）とアルコール（エタノール）を、たばこの喫煙と並ぶ最上位の区分であるグループ1の発がん物質アセトアルデヒドに変えました。産生量は砂糖100 mMで最大になりました。抗菌ペプチドと豆のガムがそれを止めましたが、バイオフィルムに守られた微生物は、酵素が歯垢の殻を溶かすまで生き延びました。実験皿の中だけの話で、ヒト試験もがんの結果もありません。"

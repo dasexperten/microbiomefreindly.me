@@ -1,6 +1,6 @@
 ---
-title: "9種はまだ戻らない、抗生物質のあとの食事"
-meta: "腸はコースの1.5か月後にはほぼ元へ戻ります。ただし9種は180日目も多くの男性で検出できませんでした。食事とプロバイオティクスの試験が示すこと。"
+title: "抗生物質のあと、腸内細菌の回復と食べ物"
+meta: "抗生物質のあとの腸内細菌の回復と食べ物。腸はコースの1.5か月後にはほぼ元へ戻ります。ただし9種は180日目も多くの男性で検出できませんでした。食事とプロバイオティクスの試験が示すこと。"
 kicker: "抗生物質のあとで"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: eating-after-antibiotics
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "抗生物質腸内細菌 回復食べ物"
+  volume: 320
   market: "Japan (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "食物繊維の多い植物、発酵食品、そして忍耐です。研究された4日間の抗生物質のカクテルのあと、群れの大半は約1.5か月でほぼ元に戻りました（Nature Microbiology、2018）。けれど、ありふれた9つの菌種は180日目でも多くの男性で検出できませんでした。プロバイオティクスは抗生物質関連下痢を減らしますが、腸の粘膜を調べた唯一の研究では、建て直しを遅らせていました。"

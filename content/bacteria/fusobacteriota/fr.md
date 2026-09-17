@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Fusobacteriota, un embranchement (toute une branche de l'arbre bactérien) de bactéries anaérobies en fuseau, vit normalement dans la bouche : c'est le connecteur qui tient la plaque dentaire, un rôle de charpente, pas un défaut. Mais un petit groupe de Fusobacterium nucleatum est fortement enrichi dans les tumeurs colorectales, où l'une de ses adhésines allume une signalisation liée au cancer."

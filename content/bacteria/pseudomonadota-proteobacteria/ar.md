@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Pseudomonadota، التي كانت تُسمى حتى وقت قريب Proteobacteria، شعبة ضخمة من البكتيريا سالبة الغرام (جدار خلوي رقيق وغشاء خارجي إضافي). تضم E. coli وSalmonella وPseudomonas aeruginosa وNeisseria والريزوبيا المثبّتة للنيتروجين في جذور الفاصولياء والبازلاء. ويحملها الأصحاء أيضاً حصةً صغيرة من مجتمع الأمعاء؛ وما يرتفع مع المرض هو المستوى لا الوجود."

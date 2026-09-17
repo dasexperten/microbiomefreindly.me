@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Verrucomicrobiota (fost Verrucomicrobia) este o încrengătură bacteriană al cărei membru cel mai cunoscut, Akkermansia muciniphila, trăiește în stratul de mucus al colonului tău și îl mănâncă. Cu măsură, această reînnoire hrănește mucoasa intestinală și merge cu markeri metabolici mai buni. În exces, sau pe o dietă săracă în fibre, aceeași poftă subțiază bariera."

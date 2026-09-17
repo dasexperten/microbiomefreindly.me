@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "唾液链球菌是一种无害的链球菌，出生后几天内就在舌头上安家，并用细菌素——一种针对竞争细菌的蛋白类抗生素——守住自己的地盘。有些菌株被拿去做过针对咽痛和口臭的试验，规模小，质量多半不高。它很少离开口腔，但被腰椎穿刺针带进去时，它引起过脑膜炎。"

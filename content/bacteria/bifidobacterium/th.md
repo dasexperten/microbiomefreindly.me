@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "TH (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Thailand (Ubersuggest locId 2764)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bifidobacterium เป็นสกุลของแบคทีเรียที่ปลายเซลล์แยกสองแฉก (รูปส้อม) และหลบอากาศ ซึ่งครองลำไส้ของทารกที่กินนมแม่ด้วยการกินน้ำตาลในนมแม่ สปีชีส์ส่วนใหญ่ไม่มีอันตราย พวกมันหมักน้ำตาลเหล่านั้นเป็นอะซิเตตกับแลกเตต ซึ่งเป็นกรดอ่อนสองชนิด แต่บางตัวไม่เป็นเช่นนั้น: B. dentium เป็นตัวก่อฟันผุแบบฉวยโอกาสที่แยกได้จากรอยผุ และสายพันธุ์โพรไบโอติกเคยเข้าสู่กระแสเลือดของทารกคลอดก่อนกำหนดมาก ๆ อยู่บ้าง"

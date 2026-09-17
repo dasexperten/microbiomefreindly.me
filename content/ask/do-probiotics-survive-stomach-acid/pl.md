@@ -1,6 +1,6 @@
 ---
-title: "Czy probiotyki przeżyją kwas? To złe pytanie"
-meta: "Kwas żołądkowy zabija większość połkniętych bakterii, a przetrwalniki i otoczki zmieniają szanse — ale ten, kto przeżyje drogę, może się nigdy nie osiedlić."
+title: "Probiotyki przed czy po jedzeniu? Kwas to nie meta"
+meta: "Probiotyki przed czy po jedzeniu: posiłek i otoczka poprawiają szanse na przejście przez kwas. Ale ten, kto przeżyje drogę, może się nigdy nie osiedlić."
 kicker: "Magnus odpowiada"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: do-probiotics-survive-stomach-acid
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "probiotyki przed czy po jedzeniu"
+  volume: 480
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Niektóre tak. Przetrwalnikowce przeżywają z samej budowy; delikatne szczepy przeważnie nie, choć otoczka i posiłek poprawiają szanse. Przeżycie to zła meta: jedyne badanie wyściółki ludzkiego jelita znalazło połknięte szczepy żywe po drodze, osiedlone u jednych ludzi, a u innych nie. Przejść to nie znaczy zamieszkać."

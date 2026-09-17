@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Vitamin A không tự đi tới tế bào miễn dịch. Ở chuột, vi khuẩn đường ruột khiến niêm mạc ruột sản xuất protein vận chuyển serum amyloid A, thứ trao retinol cho tế bào dòng tủy. Chúng đi tới hạch bạch huyết mạc treo và trao lại cho tế bào T. Chuỗi này mất khoảng ba ngày ở chuột."

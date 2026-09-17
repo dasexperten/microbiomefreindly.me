@@ -1,6 +1,6 @@
 ---
-title: "C. difficile 보균이 위험을 낮춘다"
-meta: "Clostridioides difficile, 옛 이름 Clostridium difficile. 무엇이고 어디에 살며 왜 해를 끼치는지, 그리고 조용한 보균이 왜 더 적은 설사와 함께 가는지."
+title: "클로스트리디움 디피실, 보균이 위험을 낮춘다"
+meta: "클로스트리디움 디피실(Clostridioides difficile), 옛 이름 Clostridium difficile. 무엇이고 어디에 살며 왜 해를 끼치는지, 그리고 조용한 보균이 왜 더 적은 설사와 함께 가는지."
 kicker: "Clostridioides difficile"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: clostridioides-difficile
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "클로스트리디움 디피실"
+  volume: 210
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Clostridioides difficile은 포자를 만드는 장내 세균으로, 잠든 포자가 항생제보다 오래 버팁니다. 항생제가 이 균을 눌러 두던 미생물 군집을 걷어내면 심한 설사를 일으킵니다. 보균은 발병이 아닙니다. 병원 연구를 모아 보면 대변에 균이 있으면서 증상이 없는 조용한 보균자는 아무것도 지니지 않은 환자보다 C. difficile 설사가 덜 생겼습니다."

@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus salivarius ialah streptokokus tidak berbahaya yang menetap pada lidah dalam beberapa hari selepas lahir dan mempertahankan kawasannya dengan bakteriosin, iaitu antibiotik protein yang disasarkan kepada bakteria pesaing. Beberapa strain diuji terhadap sakit tekak dan bau mulut dalam ujian kecil yang kebanyakannya lemah. Ia jarang meninggalkan mulut, tetapi jika dibawa masuk pada jarum pungsi lumbar, ia pernah menyebabkan meningitis."

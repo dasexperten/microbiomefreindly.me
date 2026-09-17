@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "凝结芽孢杆菌是一种产乳酸的细菌，以休眠的、带盔甲的芽孢形式存活，它是过客而不是住户：萌发、干活、被冲走。Heyndrickxia coagulans 是同一种生物更新的有效名称，医学上仍用旧名。试验显示唾液中的变异链球菌（引起蛀牙的那种细菌）减少、肠易激综合征症状减轻，不过它同样会让温热的酸性食品变质。"

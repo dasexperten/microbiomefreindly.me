@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Sa trial na may 142 katao sa Gut Microbes, 2026, hindi pinaganda ng apat na buwang pasteurised (pinatay sa init) na Akkermansia muciniphila ang insulin sensitivity ng buong katawan, ang iisang bagay na sinubukan nito. Sa mga pantuklas na pagsusuri, itinaas nito ang sariling GLP-1 matapos uminom ng glucose at bahagyang ginalaw ang insulin sensitivity ng atay sa prediabetic."

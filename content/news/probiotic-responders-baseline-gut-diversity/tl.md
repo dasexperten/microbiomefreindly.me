@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Ang panimulang pagkakaiba-iba ng gut mo, ayon sa isang pag-aaral. Sa 12 linggong trial ng 120 nasa hustong gulang na sobra sa timbang (Gut Microbes, 2026), walang binago sa average ang heat-killed na Lactiplantibacillus plantarum. Ang pinakakaunti lang ang uri ng gut ang mas pumayat kaysa placebo — tuklas sa subgroup, hindi napatunayang epekto."

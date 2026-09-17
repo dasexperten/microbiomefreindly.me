@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "تنوّع أمعائك في البداية، بحسب دراسة واحدة. ففي تجربة عشوائية مزدوجة التعمية دامت 12 أسبوعاً على 120 بالغاً زائدي الوزن (Gut Microbes، 2026)، لم تغيّر Lactiplantibacillus plantarum LRCC5282 المقتولة بالحرارة (خلايا ميتة لا بروبيوتيك حي) شيئاً في المتوسط. ووحدهم أصحاب الأمعاء الأقل تنوعاً خسروا وزناً ومؤشر كتلة جسم ولبتين أكثر من الدواء الوهمي: نتيجة فئة فرعية، لا أثر مثبت."

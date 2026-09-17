@@ -1,6 +1,6 @@
 ---
-title: "Streptococcus mutans: мікроб карієсу, якого годує цукор"
-meta: "Що таке Streptococcus mutans, де живе, як перетворює цукор на наліт і кислоту, що робить для вас і проти вас — кожне число з названим дослідженням."
+title: "Від чого з'являється карієс: Streptococcus mutans"
+meta: "Від чого з'являється карієс: Streptococcus mutans робить із цукру наліт і кислоту. Що він робить для вас і проти вас, з названими дослідженнями."
 kicker: "Streptococcus mutans"
 type: bacteria
 topic: oral
@@ -9,10 +9,10 @@ slug: streptococcus-mutans
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "від чого з'являється карієс"
+  volume: 90
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus mutans — бактерія з нальоту на зубах, яка любить цукор. Зі столового цукру (сахарози) вона будує липкий клей, глюкан, що прикріплює наліт до зуба, і молочну кислоту, яка розчиняє емаль: найкраще вивчена причина карієсу. Більшість людей носять її з раннього дитинства; доведеної користі носієві вона не дає, а деякі штами дістаються серця й мозку."

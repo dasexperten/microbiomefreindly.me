@@ -9,10 +9,10 @@ slug: bacillus-coagulans
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "bacillus coagulans"
+  volume: 260
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bacillus coagulans, uykudaki zırhlı bir spor olarak hayatta kalan bir laktik asit bakterisidir ve yerleşik değil, yolcudur: çimlenir, işini görür, atılır. Heyndrickxia coagulans aynı canlının yeni geçerli adıdır; tıp hâlâ eskisini kullanıyor. Çalışmalar tükürükte daha az Streptococcus mutans (çürük bakterisi) ve daha hafif huzursuz bağırsak belirtileri gösteriyor; öte yandan ılık, asitli gıdaları da bozar."

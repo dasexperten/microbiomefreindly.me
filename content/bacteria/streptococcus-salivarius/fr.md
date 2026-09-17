@@ -9,10 +9,10 @@ slug: streptococcus-salivarius
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "streptococcus salivarius"
+  volume: 320
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus salivarius est un streptocoque inoffensif qui s'installe sur la langue dès la naissance et défend son territoire avec des bactériocines, des antibiotiques protéiques visant les bactéries rivales. Des souches ont été testées contre le mal de gorge et la mauvaise haleine, dans de petits essais faibles. Porté par une aiguille de ponction lombaire, il a causé des méningites."

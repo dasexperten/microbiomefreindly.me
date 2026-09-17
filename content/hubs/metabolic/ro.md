@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "RO (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacteriile din intestin fermentează fibrele în acizi grași cu lanț scurt — acetat, propionat, butirat. Aceștia hrănesc peretele intestinului și dau semnal celulelor care eliberează GLP-1, hormonul care încetinește stomacul și îi spune creierului că ești sătul. Akkermansia muciniphila, care trăiește din mucus, întărește bariera ce ține discuția în ordine. Este o cale, nu un leac."

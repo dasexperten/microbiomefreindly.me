@@ -1,6 +1,6 @@
 ---
-title: "Oś jelitowo-mózgowa: jak bakterie docierają do mózgu"
-meta: "Oś jelitowo-mózgowa: nerw błędny, kwasy tłuszczowe, serotonina i sygnały odpornościowe. O co ludzie pytają przy nastroju i co pozostaje nieudowodnione."
+title: "Jelita a mózg: jak bakterie docierają do twojej głowy"
+meta: "Jelita a mózg: nerw błędny, kwasy tłuszczowe, serotonina i sygnały odpornościowe. O co ludzie pytają przy nastroju i co pozostaje nieudowodnione."
 kicker: "Oś jelitowo-mózgowa"
 type: hubs
 topic: brain
@@ -9,10 +9,10 @@ slug: brain
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "jelita a mózg"
+  volume: 70
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Oś jelitowo-mózgowa to zbiór dróg, którymi jelito i jego drobnoustroje rozmawiają z mózgiem: nerw błędny, hormony komórek jelita, posłańcy układu odpornościowego i bakteryjne metabolity we krwi. Większość serotoniny w ciele powstaje w jelicie, pod wpływem mikrobów. Związek jest prawdziwy; jego siłę w ludzkim nastroju wciąż się mierzy."

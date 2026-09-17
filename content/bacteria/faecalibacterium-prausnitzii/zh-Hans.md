@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "普拉梭菌是健康结肠里数量最多的细菌之一——占肠道细菌的 5% 以上——它产生丁酸，也就是结肠内壁的主要燃料。在克罗恩病这种炎症性肠病中，它会减少。这个关联很强，但「这种细菌本身让人更健康」的证明还没有。"

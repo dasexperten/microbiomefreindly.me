@@ -1,6 +1,6 @@
 ---
-title: "La mauvaise haleine vient de l'estomac ? Un cas sur cent"
-meta: "Une consultation de l'haleine a mesuré 491 patients : la bouche expliquait 87 % des cas et le tube digestif 1 %. Où l'odeur de soufre se fabrique vraiment."
+title: "Mauvaise haleine : les causes, mesurées sur 491 patients"
+meta: "Une consultation de l'haleine a mesuré 491 patients : parmi les causes de mauvaise haleine, la bouche en expliquait 87 % et le tube digestif 1 %."
 kicker: "Le mythe au crible"
 type: myth
 topic: oral
@@ -9,10 +9,10 @@ slug: bad-breath-comes-from-the-stomach
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "mauvaise haleine les causes"
+  volume: 5400
   market: "FR (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "En partie vrai, et à peine. L'odeur, ce sont des composés sulfurés volatils, fabriqués par des bactéries anaérobies au fond de la langue et sous les gencives, au-dessus de l'œsophage et non en dessous. Dans une consultation de 491 patients, la bouche expliquait 87 % des cas et le tube digestif 1 %. L'haleine gastrique existe ; c'est l'exception."

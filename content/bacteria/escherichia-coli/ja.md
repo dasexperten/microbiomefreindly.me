@@ -9,10 +9,10 @@ slug: escherichia-coli
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "大腸菌"
+  volume: 14800
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "大腸菌は90%以上の人の腸に無害に住み、酸素に耐えられる主要な住人として暮らし、ビタミンK2をつくることもできます。けれど同じ種の少数の株は毒素や侵入のための遺伝子を持ち、食中毒、膀胱の感染症、敗血症を起こします。そして大腸菌は、抗菌薬耐性菌に関連する死亡の原因として単独で最大です。"

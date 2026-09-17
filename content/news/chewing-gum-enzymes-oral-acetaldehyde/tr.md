@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Baş boyun kanseri hastalarının tükürüğünden üretilen mikroplar, şekeri (glikoz) ve alkolü (etanol), tütün içmeyle aynı sınıfta yer alan Grup 1 kanserojen asetaldehite çevirdi. Üretim 100 mM şekerde tepe yaptı. Fasulye zamkıyla birlikte bir antimikrobiyal peptit bunu durdurdu, ama biyofilme sığınan mikroplar, enzimler plak kabuğunu çözene kadar hayatta kaldı. Yalnızca laboratuvar kapları: insan çalışması yok, kanser sonucu yok."

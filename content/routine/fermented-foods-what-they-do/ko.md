@@ -1,6 +1,6 @@
 ---
 title: "발효식품: 삼킨 균이 요점은 아닙니다"
-meta: "스탠퍼드가 성인 36명을 17주 시험에 넣었고 절반은 하루 여섯 인분을 먹었습니다. 장내 다양성이 오르고 염증 단백질 19가지가 떨어졌습니다. 삼킨 균 때문이 아니었습니다."
+meta: "발효식품이 장에 하는 일. 스탠퍼드가 성인 36명을 17주 시험에 넣었고 절반은 하루 여섯 인분을 먹었습니다. 장내 다양성이 오르고 염증 단백질 19가지가 떨어졌습니다. 삼킨 균 때문이 아니었습니다."
 kicker: "발효식품"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: fermented-foods-what-they-do
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "발효식품"
+  volume: 1300
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "케피어와 요구르트, 김치, 사우어크라우트에는 살아 있는 젖산균이 한 인분에 최대 10¹¹마리까지 들어 있습니다. 17주짜리 스탠퍼드 시험(Cell, 2021)에서 하루 여섯 인분은 장내 미생물 다양성을 올리고 염증 관련 혈액 단백질 19가지를 떨어뜨렸습니다. 삼킨 세균은 대개 자리 잡지 않고, 대신 상주 무리가 움직입니다. 살균된 병에는 살아 있는 균이 없습니다."

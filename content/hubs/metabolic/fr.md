@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "FR (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Les bactéries intestinales fermentent les fibres en acides gras à chaîne courte : acétate, propionate, butyrate. Ceux-ci nourrissent la paroi et font signe aux cellules qui libèrent le GLP-1, l'hormone qui ralentit l'estomac et dit au cerveau que vous êtes rassasié. Akkermansia muciniphila, qui vit du mucus, renforce cette barrière. C'est une voie, pas un remède."

@@ -9,10 +9,10 @@ slug: oral
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "歯垢"
+  volume: 8100
   market: "Japan (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "口の中の細菌叢とは、歯、歯ぐき、舌、頬にすむ細菌の群れのことです。歯の上ではそれが歯垢になります。細菌が自分で作る糖でまとまった、構造のあるバイオフィルムです。つり合いがとれていれば守ってくれますが、糖が頻繁だったり清掃がまれだったりすると酸を作る菌が優勢になり、エナメル質が溶け、歯ぐきが炎症を起こします。"

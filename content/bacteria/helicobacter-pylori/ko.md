@@ -1,6 +1,6 @@
 ---
-title: "H. pylori: 발암 요인, 그런데 천식은 적다"
-meta: "세계 인구의 절반이 지니고 있습니다. 궤양과 위암을 일으키지만 천식과 식도암은 더 적습니다. 해로움은 입증되었고 이로움은 입증되지 않았습니다."
+title: "헬리코박터 균: 발암 요인, 천식은 적다"
+meta: "헬리코박터 균은 세계 인구의 절반이 지니고 있습니다. 궤양과 위암을 일으키지만 천식과 식도암은 더 적습니다. 해로움은 입증되었고 이로움은 입증되지 않았습니다."
 kicker: "Helicobacter pylori"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: helicobacter-pylori
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "헬리코박터 균"
+  volume: 8100
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Helicobacter pylori는 위 점막에 대개 평생 정착하는 나선형 세균입니다. 세계에서 암을 일으키는 감염 원인 가운데 으뜸이고 소화성 궤양의 주된 세균 원인입니다. 그런데 이 균이 흔한 곳에서는 식도 선암과 소아 천식이 더 드뭅니다. 해로움은 입증된 원인이고, 이로움은 아직 하나의 양상일 뿐입니다."

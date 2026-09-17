@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroidota, раніше Bacteroidetes, — тип грамнегативних бактерій, які уникають кисню і живуть у величезній кількості у вашій товстій кишці. Нагодовані рослинною клітковиною, вони відмикають те, чого не здолають ваші ферменти, і допомагають навчати імунітет; без неї вони їдять вашу слизову вистилку — поки що в мишей. Засторога: вирвавшись із кишківника, вони трапляються в більшості анаеробних інфекцій."

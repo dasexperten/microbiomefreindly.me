@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Vitamina A nu călătorește singură până la celulele tale imune. La șoareci, bacteriile intestinale fac mucoasa intestinului să producă proteine transportoare — amiloidul seric A — care predau retinolul unor celule mieloide. Acele celule merg până la ganglionii limfatici care drenează intestinul și îl dau mai departe limfocitelor T. Ștafeta ține circa trei zile — doar la șoareci."

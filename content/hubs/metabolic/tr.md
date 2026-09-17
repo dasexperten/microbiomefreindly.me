@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TR (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bağırsak bakterileri lifi kısa zincirli yağ asitlerine fermente eder: asetat, propiyonat, bütirat. Bunlar bağırsak duvarını besler ve mideyi yavaşlatan, beyne doyduğunuzu söyleyen hormon GLP-1'i salan hücrelere sinyal verir. Mukusla yaşayan Akkermansia muciniphila, bu konuşmayı düzenli tutan bariyeri güçlendirir. Bu bir yolak, bir tedavi değil."

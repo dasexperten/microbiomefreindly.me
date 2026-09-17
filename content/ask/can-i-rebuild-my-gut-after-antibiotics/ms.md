@@ -1,6 +1,6 @@
 ---
-title: "Ya, tapi tidak semuanya: usus anda selepas antibiotik"
-meta: "Dua belas lelaki sihat, tiga antibiotik pilihan terakhir, enam bulan sampel: komuniti itu pulih hampir ke garis dasar dalam 1.5 bulan. Sembilan spesies tidak."
+title: "Cara pulihkan usus selepas antibiotik, dan apa yang tidak"
+meta: "Cara pulihkan usus selepas antibiotik: dua belas lelaki sihat, enam bulan sampel — komuniti pulih hampir ke garis dasar dalam 1.5 bulan. Sembilan spesies tidak."
 kicker: "Magnus menjawab"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: can-i-rebuild-my-gut-after-antibiotics
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "cara pulihkan usus"
+  volume: 140
   market: "Malaysia (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Kebanyakannya, ya. Pada 12 lelaki sihat yang diberi tiga antibiotik selama empat hari (Nature Microbiology, 2018), komuniti usus kembali hampir ke garis dasar dalam kira-kira 1.5 bulan, tetapi sembilan spesies yang ada pada kesemua mereka sebelum itu masih tidak dapat dikesan pada kebanyakan mereka pada hari ke-180. Pemulihan itu nyata, tidak lengkap, dan lebih perlahan pada sesetengah orang."

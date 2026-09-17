@@ -1,6 +1,6 @@
 ---
-title: "幽门螺杆菌：是致癌物，却与更少的哮喘相伴"
-meta: "全世界一半的人身上有它。它引起溃疡和胃癌，却与更少的食管腺癌和更少的哮喘同行。危害已被证明，好处还没有。"
+title: "幽门螺旋杆菌：是致癌物，却伴着更少哮喘"
+meta: "幽门螺旋杆菌全世界一半的人身上都有。它引起溃疡和胃癌，却与更少的食管腺癌和更少的哮喘同行。危害已被证明，好处还没有。"
 kicker: "Helicobacter pylori"
 type: bacteria
 topic: gut
@@ -9,10 +9,11 @@ slug: helicobacter-pylori
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "幽門螺旋桿菌"
+  keywordSimplified: "幽门螺旋杆菌"
+  volume: 6600
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "幽门螺杆菌是一种定植在胃黏膜上的螺旋形细菌，通常一住就是一辈子。它是全世界导致癌症最主要的感染性原因，也是消化性溃疡最主要的细菌病因。然而在这种细菌常见的地方，食管腺癌和儿童哮喘反而更少见。危害是已被证明的原因；好处到目前为止只是一种规律。"

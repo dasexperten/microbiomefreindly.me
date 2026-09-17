@@ -1,6 +1,6 @@
 ---
-title: "CFU가 많을수록 좋다? 100배가 바꾼 건 없었다"
-meta: "CFU 수, 곧 한 번에 들어가는 살아 있는 세균 수가 프로바이오틱스를 팝니다. 시험은 다르게 말합니다. 두 배는 한 번 도왔고, 100배는 아무것도 바꾸지 않았습니다."
+title: "유산균 많이 먹으면? 100배가 바꾼 건 없었다"
+meta: "유산균 많이 먹으면 더 좋을까요? CFU 수, 곧 한 번에 들어가는 살아 있는 세균 수가 프로바이오틱스를 팝니다. 시험은 다르게 말합니다. 두 배는 한 번 도왔고, 100배는 아무것도 바꾸지 않았습니다."
 kicker: "속설 점검"
 type: myth
 topic: gut
@@ -9,10 +9,10 @@ slug: more-cfu-means-a-better-probiotic
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "유산균 많이 먹으면"
+  volume: 480
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "일부만 사실입니다. 용량은 중요하지만, 한 균주와 한 결과 지표 안에서만 그렇습니다. 한 시험에서는 하루 1천억 CFU가 항생제 연관 설사에서 5백억 CFU를 이겼습니다. 다른 시험에서는 같은 균을 100배로 올려도 급성 설사에 걸린 어린이에게 아무것도 달라지지 않았습니다. 상자의 숫자는 양에 대한 주장이지 근거에 대한 주장이 아닙니다."

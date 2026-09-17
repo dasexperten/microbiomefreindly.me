@@ -1,6 +1,6 @@
 ---
-title: "Helicobacter pylori: rakotwórczy, a mimo to mniej astmy"
-meta: "Nosi go połowa świata. Wywołuje wrzody i raka żołądka, a jednak idzie w parze z mniejszą liczbą astmy i raka przełyku. Szkoda dowiedziona, korzyść nie."
+title: "Helicobacter pylori: co to jest i czemu bywa pożyteczny"
+meta: "Helicobacter pylori — co to jest: nosi go połowa świata. Wywołuje wrzody i raka żołądka, a jednak idzie w parze z mniejszą liczbą astmy i raka przełyku."
 kicker: "Helicobacter pylori"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: helicobacter-pylori
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "helicobacter pylori co to jest"
+  volume: 720
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Helicobacter pylori to spiralna bakteria, która zasiedla śluzówkę żołądka, zwykle na całe życie. Jest wiodącą zakaźną przyczyną nowotworów na świecie i główną bakteryjną przyczyną wrzodów trawiennych. A jednak tam, gdzie występuje często, gruczolakorak przełyku i astma u dzieci są rzadsze. Szkoda to udowodniona przyczyna; korzyść to na razie tylko wzorzec."

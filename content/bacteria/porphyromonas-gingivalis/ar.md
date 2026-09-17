@@ -1,6 +1,6 @@
 ---
-title: "Porphyromonas gingivalis: متهم اللثة تحمله أفواه سليمة"
-meta: "ما هي Porphyromonas gingivalis، وأين تعيش، وماذا تفعل لنا وضدنا — الآلية أولاً، وكل رقم مردود إلى دراسة باسمها."
+title: "Porphyromonas gingivalis وأسباب التهاب اللثة"
+meta: "من أسباب التهاب اللثة بكتيريا Porphyromonas gingivalis: أين تعيش، وماذا تفعل لنا وضدنا — الآلية أولاً، وكل رقم مردود إلى دراسة باسمها."
 kicker: "Porphyromonas gingivalis"
 type: bacteria
 topic: oral
@@ -9,10 +9,10 @@ slug: porphyromonas-gingivalis
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "أسباب التهاب اللثة"
+  volume: 590
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Porphyromonas gingivalis بكتيريا لاهوائية (تعيش دون أكسجين) تتجاهل السكر وتأكل البروتين، وتسكن الجيب بين السن واللثة. يحملها كثير من الأصحاء؛ ولا تؤذي إلا حين يختل توازن البكتيريا حولها. لا فائدة مثبتة لها. وإنزيماتها الحالّة للبروتين تعطّل دفاعات الجسم، وهي متهمة لا سبب مثبت بعد في التهاب المفاصل والزهايمر."

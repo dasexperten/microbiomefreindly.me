@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Actinomycetota, раніше Actinobacteria, — тип грампозитивних бактерій із ДНК, багатою на дві з чотирьох літер. Живе у вашому кишківнику, роті та на шкірі. Дає нам Bifidobacterium і більшість природних антибіотиків — і збудників туберкульозу та дифтерії, і шкірного мешканця, пов'язаного з акне. Одне дерево, протилежні наслідки: вирішують вид, місце та людина."

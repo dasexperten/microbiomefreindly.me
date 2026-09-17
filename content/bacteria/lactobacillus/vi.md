@@ -9,10 +9,10 @@ slug: lactobacillus
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "lactobacillus"
+  volume: 2900
   market: "VN (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Lactobacillus là chi vi khuẩn sinh axit lactic, sống trong thực phẩm lên men, miệng, âm đạo và ít ỏi trong ruột. Thử nghiệm cho thấy nó giúp ngừa tiêu chảy do kháng sinh; một thử nghiệm lớn không thấy lợi ích với viêm dạ dày ruột. Năm 2020, dữ liệu bộ gen tách chi cũ thành 25 chi."

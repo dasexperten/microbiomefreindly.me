@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroides fragilis вбудовує у свою мембрану жир, альфа-галактозилцерамід. Нова робота в Cell повідомляє: цей жир ущільнює мембрану проти витоку протонів, тож суворий анаероб, якого повітря мало б отруїти, переживає кисень у кишківнику новонародженого, а та сама молекула налаштовує природні кілерні T-клітини, які читають жири. Лише миші й молекули; жодного немовляти не перевіряли."

@@ -1,5 +1,5 @@
 ---
-title: "Ăn gì sau kháng sinh: chín loài vẫn còn vắng mặt"
+title: "Uống kháng sinh bị tiêu chảy phải làm sao, ăn gì sau đó"
 meta: "Sau đợt kháng sinh 1,5 tháng, ruột gần về mức ban đầu, nhưng chín loài vẫn không phát hiện được ở phần lớn nam giới sau 180 ngày. Thử nghiệm cho thấy gì."
 kicker: "Sau kháng sinh"
 type: routine
@@ -9,10 +9,10 @@ slug: eating-after-antibiotics
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "uống kháng sinh bị tiêu chảy phải làm sao"
+  volume: 170
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Chất xơ, món lên men, kiên nhẫn. Sau đợt kháng sinh 4 ngày (Nature Microbiology, 2018), phần lớn cộng đồng gần mức ban đầu sau 1,5 tháng, nhưng chín loài vẫn vắng ở đa số nam giới sau 180 ngày. Men vi sinh giảm tiêu chảy, song nghiên cứu duy nhất về niêm mạc thấy chúng làm chậm hồi phục."

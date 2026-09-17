@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "VN (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Porphyromonas gingivalis là vi khuẩn kỵ khí ăn đạm, không đụng đường, ở túi giữa răng và lợi. Nhiều người khỏe mang nó; nó chỉ hại khi hệ khuẩn quanh nó mất cân bằng. Chưa có lợi ích nào. Enzyme cắt đạm của nó vô hiệu hóa phòng vệ của bạn; nó là nghi phạm trong viêm khớp và Alzheimer."

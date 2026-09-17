@@ -1,5 +1,5 @@
 ---
-title: "Carregar C. difficile pode baixar seu risco de C. difficile"
+title: "Clostridium difficile: quem carrega tem menos diarreia"
 meta: "Clostridioides difficile, antes Clostridium difficile: o que é, onde vive, por que faz mal — e por que carregar em silêncio dá menos diarreia."
 kicker: "Clostridioides difficile"
 type: bacteria
@@ -9,10 +9,10 @@ slug: clostridioides-difficile
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "Brasil (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "clostridium difficile"
+  volume: 8100
+  market: "BR (Ubersuggest locId 2076)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Clostridioides difficile é uma bactéria intestinal cujos esporos dormentes sobrevivem aos antibióticos; ela causa diarreia grave assim que os antibióticos varrem a comunidade microbiana que a segurava. Carregar não é adoecer: em estudos hospitalares agrupados, portadores silenciosos — com o organismo nas fezes e sem sintomas — tiveram diarreia por C. difficile menos vezes do que quem não carregava nada."

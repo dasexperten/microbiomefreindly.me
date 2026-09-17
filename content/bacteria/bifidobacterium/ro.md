@@ -9,10 +9,10 @@ slug: bifidobacterium
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "bifidobacterium"
+  volume: 720
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bifidobacterium este un gen de bacterii bifurcate, în formă de Y, care fug de aer și domină intestinul unui bebeluș alăptat, hrănindu-se cu zaharurile din laptele matern. Cele mai multe specii sunt nevinovate; câteva nu sunt: B. dentium a fost izolată din carii, iar tulpini probiotice au ajuns uneori în sângele prematurilor foarte mici."

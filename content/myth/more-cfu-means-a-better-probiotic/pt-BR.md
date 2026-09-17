@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Em parte verdade. A dose conta, mas só dentro de uma cepa e um desfecho. Num ensaio, 100 bilhões de UFC (unidades formadoras de colônias) superaram 50 bilhões na diarreia associada a antibióticos; em outro, multiplicar por cem o mesmo organismo não mudou nada em crianças com diarreia aguda. O número do rótulo fala de quantidade, não de evidência."

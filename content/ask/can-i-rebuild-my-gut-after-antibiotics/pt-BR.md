@@ -1,6 +1,6 @@
 ---
-title: "Sim, mas não tudo: seu intestino depois dos antibióticos"
-meta: "Doze homens saudáveis, três antibióticos de última linha, seis meses de amostras: a comunidade voltou para perto do início em 1,5 mês. Nove espécies, não."
+title: "Dá para repor a flora intestinal depois do antibiótico?"
+meta: "Dá para repor a flora intestinal? Doze homens, três antibióticos, seis meses de amostras: a comunidade voltou perto do início em 1,5 mês. Nove espécies, não."
 kicker: "Magnus responde"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: can-i-rebuild-my-gut-after-antibiotics
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "repor flora intestinal"
+  volume: 2400
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Na maior parte, sim. Em 12 homens saudáveis que tomaram três antibióticos por quatro dias (Nature Microbiology, 2018), a comunidade do intestino voltou para perto do início em cerca de 1,5 mês, mas nove espécies presentes em todos eles antes seguiam indetectáveis na maioria no dia 180. A recuperação é real, incompleta e desigual."

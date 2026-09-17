@@ -1,6 +1,6 @@
 ---
-title: "Nie każdy błonnik karmi bakterie, a więcej to nie lepiej"
-meta: "Błonnik fermentowalny karmi bakterie jelitowe; lepki i gruboziarnisty robią co innego. Ile zmierzyły badania i jak go dodać bez wzdęć."
+title: "Jaki błonnik na jelita? Nie każdy karmi bakterie"
+meta: "Jaki błonnik na jelita: fermentowalny karmi bakterie, lepki i gruboziarnisty robią co innego. Ile zmierzyły badania i jak go dodać bez wzdęć."
 kicker: "Jedzenie i rutyna"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: how-much-fibre-and-which-kind
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "jaki błonnik na jelita"
+  volume: 720
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Błonnik fermentowalny — fruktany, galaktooligosacharydy, skrobia oporna — to jedzenie twoich bakterii jelita grubego; sam go nie strawisz. Błonnik lepki i gruboziarnisty robią co innego. Zbiorcze dane z badań śledzących ludzi latami kładą największy spadek ryzyka między 25 g a 29 g dziennie, a efekty fermentacji się wypłaszczają. Dodawaj go przez tygodnie."

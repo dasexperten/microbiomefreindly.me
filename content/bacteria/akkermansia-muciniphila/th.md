@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "TH (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Thailand (Ubersuggest locId 2764)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Akkermansia muciniphila เป็นแบคทีเรียในลำไส้ที่อาศัยอยู่ในชั้นเมือกของลำไส้และกินมิวซิน ซึ่งเป็นโปรตีนที่ลำไส้ของคุณเองหลั่งออกมาตรงนั้น การเล็มชั้นนั้นกระตุ้นให้มีการสร้างใหม่ — ในหนูคือกำแพงลำไส้ที่แน่นขึ้น ในการทดลองเล็ก ๆ ในคนหนึ่งงานคือความไวต่ออินซูลินที่ดีขึ้น — แต่ถ้าไม่มีใยอาหาร หรือมีเชื้อก่อโรคอยู่ด้วย ความอยากอาหารแบบเดียวกันนั้นกลับทำให้ชั้นเมือกบางลง"

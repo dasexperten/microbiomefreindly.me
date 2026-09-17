@@ -1,6 +1,6 @@
 ---
-title: "3일이면 장이 바뀝니다. 그리고 되돌아갑니다"
-meta: "3일 장 리셋은 어디서나 팔립니다. 측정은 이렇게 말합니다. 장내 세균은 하루 만에 움직이고 이틀 만에 돌아가며, 균주의 60 %는 몇 해를 머뭅니다."
+title: "3일 장 건강 리셋? 바뀌고 되돌아갑니다"
+meta: "3일 장 건강 리셋은 어디서나 팔립니다. 측정은 이렇게 말합니다. 장내 세균은 하루 만에 움직이고 이틀 만에 돌아가며, 균주의 60 %는 몇 해를 머뭅니다."
 kicker: "속설 점검"
 type: myth
 topic: gut
@@ -9,10 +9,10 @@ slug: you-can-reset-your-gut-in-three-days
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "장 건강"
+  volume: 720
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "거짓입니다. 음식은 장내 무리를 움직이고, 그것도 빠르게 움직입니다. 자원자 열한 명이 두 가지 극단적인 식단을 차례로 먹었습니다. 구성은 음식이 장에 닿은 지 하루 만에 바뀌었고, 식단을 멈춘 지 이틀 만에 돌아갔습니다(Nature, 2014). 성인이 지닌 균주의 약 60 %는 5년 뒤에도 그대로 있습니다(Science, 2013). 3일은 주민이 아니라 측정값을 바꿉니다."

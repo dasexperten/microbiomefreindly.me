@@ -1,6 +1,6 @@
 ---
-title: "Membawa C. difficile boleh kurangkan risiko C. difficile"
-meta: "Clostridioides difficile, dahulu Clostridium difficile: apa itu, di mana ia hidup, kenapa ia memudaratkan — dan kenapa pembawa senyap kurang cirit-birit."
+title: "Clostridium difficile: membawanya boleh kurangkan risiko"
+meta: "Clostridium difficile, kini Clostridioides difficile: apa itu, di mana ia hidup, kenapa ia memudaratkan — dan kenapa pembawa senyap kurang cirit-birit."
 kicker: "Clostridioides difficile"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: clostridioides-difficile
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "clostridium difficile"
+  volume: 1000
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Clostridioides difficile ialah bakteria usus pembentuk spora yang sporanya tidur lebih lama daripada antibiotik; ia menyebabkan cirit-birit teruk sebaik antibiotik melucutkan komuniti mikrob yang menahannya. Membawa bukan bermakna sakit: dalam kajian hospital terkumpul, pembawa senyap — ada organisma dalam najis, tiada gejala — mendapat cirit-birit C. difficile lebih jarang daripada pesakit yang tidak membawa apa-apa."

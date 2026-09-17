@@ -1,6 +1,6 @@
 ---
-title: "Pinapatay ng mouthwash ang kailangan ng presyon mo"
-meta: "Mas mabuti bang mas maraming bacteria sa bibig ang mapatay? Hindi, ayon sa pagsubok noong 2013: pitong araw ng antiseptic na mumog, nitrite bumaba nang 90 %."
+title: "Antibacterial mouthwash: masama sa presyon ng dugo mo"
+meta: "Mas mabuti bang mapatay ng antibacterial mouthwash ang bacteria sa bibig? Hindi: pitong araw ng antiseptic na mumog, nitrite bumaba nang 90 %."
 kicker: "Tsek ng mito"
 type: myth
 topic: oral
@@ -9,10 +9,10 @@ slug: antibacterial-mouthwash-is-always-good
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "antibacterial mouthwash"
+  volume: 880
   market: "Philippines (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Mali. Hindi nakakapili ang malawakang antiseptic na mumog, kaya pinapatag nito ang sariling komunidad ng bibig mo. Sa pagsubok noong 2013, binawasan ng pitong araw ng chlorhexidine ang nitrite sa bibig — ang ginagamit ng katawan para palambutin ang mga ugat — nang 90 % at itinaas ang presyon nang 2–3.5 mmHg. Lunas ang mumog, hindi rutina."

@@ -1,6 +1,6 @@
 ---
-title: "La mauvaise haleine n'est pas de la saleté, c'est un gène"
-meta: "Une étude 2026 en boîte et chez le rat a fait taire le gène bactérien de la mauvaise haleine. Le mécanisme, les chiffres et ce qu'elle n'a pas montré."
+title: "Probiotiques et mauvaise haleine : un gène qu'on fait taire"
+meta: "Une étude 2026 en boîte et chez le rat a fait taire le gène bactérien de la mauvaise haleine. Probiotiques, mécanisme, chiffres, et ce qu'elle n'a pas montré."
 kicker: "Composés sulfurés volatils"
 type: news
 topic: oral
@@ -9,10 +9,10 @@ slug: probiotic-sulfur-bad-breath-periodontitis
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "probiotiques mauvaise haleine"
+  volume: 880
   market: "FR (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "La mauvaise haleine est un gaz. Les anaérobies de l'enduit lingual et des poches gingivales arrachent le soufre aux acides aminés avec une enzyme codée par le gène mgl. Dans l'étude 2026 du Journal of Oral Microbiology, deux bactéries lactiques ont fait taire ce gène en boîte et réduit l'enduit chez le rat, sans humain testé ni gaz mesuré."

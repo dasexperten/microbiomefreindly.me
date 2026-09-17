@@ -9,10 +9,11 @@ slug: brain
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "腸腦軸"
+  keywordSimplified: "肠脑轴"
+  volume: 1300
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "肠脑轴是肠道和它的微生物与大脑对话的一整套通路：迷走神经、肠细胞分泌的激素、免疫信使，以及进入血液的细菌代谢物。人体大部分血清素在肠道里生成，并受微生物影响。这条联系是真的；它在人类情绪中的分量还在测量之中。"

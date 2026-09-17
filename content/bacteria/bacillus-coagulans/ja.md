@@ -1,6 +1,6 @@
 ---
-title: "バチルス・コアグランス：住まずに通り過ぎる芽胞"
-meta: "Bacillus coagulans（別名Heyndrickxia coagulans、一つの菌に二つの名前）。この芽胞をつくるプロバイオティクスが口と腸に何をして、証拠がどこで止まるのか。"
+title: "有胞子性乳酸菌は住まずに通り過ぎる"
+meta: "有胞子性乳酸菌とは何か。Bacillus coagulans（別名Heyndrickxia coagulans、一つの菌に二つの名前）。この芽胞をつくるプロバイオティクスが口と腸に何をして、証拠がどこで止まるのか。"
 kicker: "Bacillus coagulans"
 type: bacteria
 topic: oral
@@ -9,10 +9,10 @@ slug: bacillus-coagulans
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "有胞子性乳酸菌"
+  volume: 1300
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bacillus coagulansは、眠ったまま鎧をまとった芽胞として生き延びる乳酸菌で、住人ではなく通行人です。発芽して働き、そして流れ去ります。Heyndrickxia coagulansは同じ菌の新しい正式名で、医学はいまも古い名前を使います。試験では唾液中のStreptococcus mutans（虫歯の菌）の減少と過敏性腸症候群の症状の軽減が示されていますが、温かく酸性の食品を腐らせもします。"

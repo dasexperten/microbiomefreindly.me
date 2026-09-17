@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroides fragilis își clădește în membrană o grăsime, o alfa-galactozilceramidă. O lucrare nouă din Cell arată că grăsimea aceea etanșeizează membrana împotriva scurgerii de protoni, așa că un anaerob strict, pe care aerul ar trebui să îl otrăvească, trece peste oxigenul intestinului de nou-născut; aceeași moleculă calibrează celulele T natural killer. Doar șoareci și molecule."

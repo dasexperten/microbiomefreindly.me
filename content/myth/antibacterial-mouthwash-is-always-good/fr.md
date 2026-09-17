@@ -1,6 +1,6 @@
 ---
-title: "Le bain de bouche tue les microbes de votre tension"
-meta: "Tuer plus de bactéries buccales, est-ce mieux ? Un essai 2013 dit non : sept jours de bain antiseptique, nitrite buccal −90 % et tension en hausse."
+title: "Bain de bouche, danger : il tue les microbes de la tension"
+meta: "Tuer plus de bactéries buccales, est-ce mieux ? Le danger du bain de bouche selon un essai 2013 : nitrite buccal −90 % et tension en hausse en sept jours."
 kicker: "Le mythe au crible"
 type: myth
 topic: oral
@@ -9,10 +9,10 @@ slug: antibacterial-mouthwash-is-always-good
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "bain de bouche danger"
+  volume: 390
   market: "FR (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Faux. Un antiseptique à large spectre ne trie pas les microbes utiles des nuisibles : il aplatit la communauté de la bouche. Dans un essai 2013, sept jours de chlorhexidine ont fait chuter le nitrite buccal de 90 % et monter la tension de 2 à 3,5 mmHg. Un bain de bouche traite un problème, pas une routine."

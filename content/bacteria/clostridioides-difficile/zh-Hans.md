@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "艰难梭菌是一种会形成芽孢的肠道细菌，它休眠的芽孢比抗生素活得更久；一旦抗生素清掉了压住它的那群微生物，它就引起严重腹泻。携带不等于生病：在汇总的医院研究中，无症状携带者——粪便里有这种菌、却没有症状的人——发生艰难梭菌腹泻的比例，低于什么都没带的患者。"

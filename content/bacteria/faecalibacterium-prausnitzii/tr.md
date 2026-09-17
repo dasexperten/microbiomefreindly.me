@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Faecalibacterium prausnitzii, sağlıklı bir kolondaki en bol bakterilerden biridir — bağırsak bakterilerinin %5'inden fazlası — ve kolon mukozasının başlıca yakıtı olan bütiratı üretir. Bir iltihabi bağırsak hastalığı olan Crohn hastalığında azalır. Bu ilişki güçlüdür, ama bakterinin kendisinin insanı daha sağlıklı yaptığının kanıtı henüz yok."

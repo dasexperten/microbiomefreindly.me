@@ -1,6 +1,6 @@
 ---
-title: "Nem toda fibra alimenta suas bactérias, e mais não é melhor"
-meta: "A fibra fermentável alimenta as bactérias do intestino; a viscosa e a grossa fazem outros trabalhos. Quanto os ensaios mediram, e como aumentar sem inchaço."
+title: "Fibra alimentar: nem toda fibra alimenta suas bactérias"
+meta: "A fibra alimentar fermentável alimenta as bactérias do intestino; a viscosa e a grossa fazem outros trabalhos. Quanto os ensaios mediram e como aumentar."
 kicker: "Comida e rotina"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: how-much-fibre-and-which-kind
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "fibra alimentar"
+  volume: 2900
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "A fibra fermentável (frutanos, galacto-oligossacarídeos, amido resistente) é o que as bactérias do cólon comem; você não digere. As fibras viscosas e as grossas fazem outros trabalhos. Dados reunidos de anos de acompanhamento põem a maior redução de risco entre 25 g e 29 g por dia, e a fermentação chega a um platô. Aumente ao longo de semanas."

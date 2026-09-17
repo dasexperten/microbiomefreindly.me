@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "비타민 A는 혼자 면역세포까지 가지 않습니다. 생쥐에서 장내 세균은 장 점막이 운반 단백질인 혈청 아밀로이드 A를 만들게 하고, 그 단백질이 레티놀을 골수계 세포에 건넵니다. 그 세포는 장에서 림프가 모이는 림프절까지 걸어가 T세포에게 넘깁니다. 이 계주는 사흘쯤 걸리고, 생쥐에서만 확인되었습니다."

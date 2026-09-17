@@ -1,5 +1,5 @@
 ---
-title: "Mang C. difficile có thể giảm nguy cơ bị C. difficile"
+title: "Clostridium difficile: người mang thầm lặng lại ít bệnh hơn"
 meta: "Clostridioides difficile, trước là Clostridium difficile: nó là gì, sống ở đâu, vì sao gây hại — và vì sao người mang thầm lặng lại ít tiêu chảy hơn."
 kicker: "Clostridioides difficile"
 type: bacteria
@@ -9,10 +9,10 @@ slug: clostridioides-difficile
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "clostridium difficile"
+  volume: 480
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Clostridioides difficile là vi khuẩn ruột sinh bào tử; bào tử ngủ của nó sống lâu hơn kháng sinh, và nó gây tiêu chảy nặng khi kháng sinh quét sạch quần thể kìm nó. Mang không phải là bệnh: trong các nghiên cứu bệnh viện, người mang thầm lặng ít bị tiêu chảy do nó hơn người không mang."

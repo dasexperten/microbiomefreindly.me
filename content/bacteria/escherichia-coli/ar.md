@@ -1,6 +1,6 @@
 ---
-title: "E. coli ساكن أمعائك، لا مجرد جرثومة تسمم غذائي"
-meta: "تعيش Escherichia coli في أمعاء أكثر من 90 % من الناس. ماذا تفعل لنا، وماذا تفعل ضدنا، وأين يتوقف الدليل الأمين."
+title: "بكتيريا الإشريكية القولونية: ساكن أمعائك"
+meta: "تعيش بكتيريا الإشريكية القولونية E. coli في أمعاء أكثر من 90 % من الناس. ماذا تفعل لنا، وماذا تفعل ضدنا، وأين يتوقف الدليل الأمين."
 kicker: "Escherichia coli"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: escherichia-coli
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "بكتيريا الإشريكية القولونية"
+  volume: 170
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "تعيش Escherichia coli بلا أذى في أمعاء أكثر من 90 % من الناس، بوصفها الساكن الرئيسي المحتمِل للأكسجين، وهي تستطيع صنع فيتامين K2. لكن أقلية من سلالات النوع نفسه تحمل جينات سموم أو غزو، فتسبب التسمم الغذائي والتهابات المثانة وتعفن الدم، وE. coli هي السبب الأول للوفيات المرتبطة بالبكتيريا المقاومة للمضادات الحيوية."

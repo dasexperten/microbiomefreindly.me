@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacillus coagulans est une bactérie lactique qui survit sous forme de spore dormante : passagère, pas résidente, elle germe, agit, s'en va. Heyndrickxia coagulans est son nom valide plus récent ; la médecine garde l'ancien. Les essais montrent moins de Streptococcus mutans salivaire, la bactérie des caries, et des symptômes d'intestin irritable plus légers. Elle gâte aussi les aliments tièdes et acides."

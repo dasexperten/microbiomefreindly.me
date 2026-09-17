@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "假单胞菌门，直到不久前还叫变形菌门，是一个庞大的革兰氏阴性细菌门（细胞壁薄，外面多一层外膜）。它包括大肠杆菌、沙门菌、铜绿假单胞菌、奈瑟菌，以及住在豆类根部固氮的根瘤菌。健康人也带着它，占肠道群落的一小部分；随疾病上升的是它的水平，不是它的有无。"

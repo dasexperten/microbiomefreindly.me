@@ -9,10 +9,10 @@ slug: streptococcus-mutans
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "streptococcus mutans"
+  volume: 2900
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus mutans é uma bactéria que adora açúcar, na placa dos seus dentes. Com sacarose (açúcar de mesa) ela fabrica glucana, uma cola grudenta que fixa a placa no dente, e ácido láctico que dissolve o esmalte: a causa mais estudada da cárie. Quase todos a carregam desde criança; sem benefício comprovado, e algumas cepas alcançam coração e cérebro."

@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Ang Clostridioides difficile ay gut bacteria na bumubuo ng spore, at nakakaligtas sa antibiotics ang natutulog nitong spore; nagdudulot ito ng malubhang pagtatae kapag natanggal na ng antibiotics ang komunidad na pumipigil dito. Hindi sakit ang pagdadala: sa pinagsamang pag-aaral sa ospital, mas bihirang nagkapagtatae ang tahimik na may dala kaysa sa walang dala."

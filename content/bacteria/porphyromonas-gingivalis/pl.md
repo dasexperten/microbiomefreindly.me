@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Porphyromonas gingivalis to ślepa na cukier, żywiąca się białkiem bakteria beztlenowa (żyje bez tlenu) w kieszonce między zębem a dziąsłem. Nosi ją wielu zdrowych ludzi; szkodzi dopiero wtedy, gdy bakterie wokół niej wychodzą z równowagi. Korzyści nie wykazano. Jej proteazy (enzymy tnące białka) unieszkodliwiają obronę ciała, a przy zapaleniu stawów i chorobie Alzheimera jest podejrzaną, nie dowiedzioną przyczyną."

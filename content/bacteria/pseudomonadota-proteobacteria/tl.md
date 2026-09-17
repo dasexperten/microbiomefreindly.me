@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Ang Pseudomonadota, dating Proteobacteria, ay napakalaking phylum ng Gram-negative na bacteria (manipis ang pader, may panlabas na membrana). Kasama rito ang E. coli, Salmonella, Pseudomonas aeruginosa at ang rhizobia na kumukuha ng nitrogen sa ugat ng beans. May dala rin nito ang malulusog, bilang maliit na bahagi ng gut; ang antas ang tumataas sa sakit, hindi ang pagkakaroon."

@@ -1,6 +1,6 @@
 ---
-title: "舌の白い苔は、何でできているのか"
-meta: "舌の白い膜は、その多くが自分のはがれた細胞と細菌です。何でできているのか、なぜにおうのか、いつがふつうなのか、そして何が減らすと試験は言うのか。"
+title: "舌苔は何でできているのか"
+meta: "舌苔は何でできているのか。舌の白い膜は、その多くが自分のはがれた細胞と細菌です。何でできているのか、なぜにおうのか、いつがふつうなのか、そして何が減らすと試験は言うのか。"
 kicker: "マグナスが答えます"
 type: ask
 topic: oral
@@ -9,10 +9,10 @@ slug: is-a-coated-tongue-bad
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "舌苔"
+  volume: 27100
   market: "Japan (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "たいていはふつうのことです。膜の正体は、はがれた細胞、食べ物の残り、そして舌乳頭のあいだに捕まった酸素を嫌う細菌です。若い成人では、舌の奥の薄い苔は、白でも黄色がかっていても、警告ではなくふつうの所見です。話が変わるのは三つのとき。厚くなる、ぬぐうと生の組織が出る、口が乾いている。"

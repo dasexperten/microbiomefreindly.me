@@ -1,6 +1,6 @@
 ---
-title: "위에서 오는 입 냄새? 백에 하나입니다"
-meta: "한 호흡 클리닉이 환자 491명을 살폈습니다. 입이 입 냄새의 87 %를 설명했고 소화관은 1 %였습니다. 그 황 냄새는 실제로 어디서 만들어질까요."
+title: "속에서 나는 입냄새 원인, 백에 하나"
+meta: "속에서 나는 입냄새 원인? 한 호흡 클리닉이 환자 491명을 살폈습니다. 입이 입 냄새의 87 %를 설명했고 소화관은 1 %였습니다. 그 황 냄새는 실제로 어디서 만들어질까요."
 kicker: "속설 점검"
 type: myth
 topic: oral
@@ -9,10 +9,10 @@ slug: bad-breath-comes-from-the-stomach
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "속에서 나는 입냄새 원인"
+  volume: 390
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "일부만 사실이고, 그 일부도 아주 작습니다. 냄새의 정체는 휘발성 황화합물이고, 혀 안쪽과 잇몸 아래의 혐기성 세균이 만듭니다. 식도 아래가 아니라 위쪽입니다. 환자 491명을 본 호흡 클리닉에서 입이 87 %를, 소화관이 1 %를 설명했습니다. 위에서 오는 입 냄새는 있지만, 그것은 예외입니다."

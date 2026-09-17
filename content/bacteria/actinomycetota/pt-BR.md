@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "Brasil (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "BR (Ubersuggest locId 2076)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Actinomycetota, antes Actinobacteria, é um filo de bactérias gram-positivas ricas em GC (DNA rico em duas das quatro letras) que vive no seu intestino, boca e pele. Dele vêm o Bifidobacterium e a maior parte dos antibióticos naturais, mais as bactérias da tuberculose e da difteria. Mesma árvore, desfechos opostos: decidem a espécie, o lugar e o hospedeiro."

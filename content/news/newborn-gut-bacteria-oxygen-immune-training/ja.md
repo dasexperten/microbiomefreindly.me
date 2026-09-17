@@ -1,6 +1,6 @@
 ---
-title: "空気で死ぬはずの赤ちゃんの最初の菌は、呼吸した"
-meta: "Cellの研究は、空気に殺されるはずのBacteroides fragilisが、膜の脂質ひとつで新生児の腸の酸素を生き延び、免疫細胞も整えると報告しています。"
+title: "新生児の免疫力と、酸素を生き延びた菌"
+meta: "新生児の免疫力はどう整うのか。Cellの研究は、空気に殺されるはずのBacteroides fragilisが、膜の脂質ひとつで新生児の腸の酸素を生き延び、免疫細胞も整えると報告しています。"
 kicker: "Bacteroides fragilis"
 type: news
 topic: immunity
@@ -9,10 +9,10 @@ slug: newborn-gut-bacteria-oxygen-immune-training
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "新生児 免疫力"
+  volume: 320
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroides fragilisは、アルファガラクトシルセラミドという脂質を自分の膜に組み込みます。Cellの新しい研究は、その脂質が膜をプロトンの漏れから封じるため、空気に毒されるはずの偏性嫌気性菌が新生児の腸の酸素を生き延びること、そして同じ分子が脂質を読むナチュラルキラーT細胞を整えることを報告しています。マウスと分子だけの話で、ヒトの乳児は調べられていません。"

@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacillus coagulans ialah bakteria asid laktik yang bertahan sebagai spora berperisai yang tidur, dan ia penumpang, bukan penghuni: ia bercambah, bekerja, lalu keluar. Heyndrickxia coagulans ialah nama sah yang lebih baharu bagi organisma sama; perubatan masih guna nama lama. Ujian menunjukkan Streptococcus mutans air liur menurun dan gejala IBS lebih ringan, walaupun ia juga merosakkan makanan panas berasid."

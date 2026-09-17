@@ -1,6 +1,6 @@
 ---
-title: "3日で腸は変わり、そしてすぐ戻ります"
-meta: "3日の腸リセットはどこでも売られています。測定が言うのは、腸内細菌は1日で動き、2日で戻り、菌株の60 %は何年も居続けるということです。"
+title: "腸内環境がどのくらいで変わり、戻るか"
+meta: "腸内環境はどのくらいで変わるのか。3日の腸リセットはどこでも売られています。測定が言うのは、腸内細菌は1日で動き、2日で戻り、菌株の60 %は何年も居続けるということです。"
 kicker: "俗説チェック"
 type: myth
 topic: gut
@@ -9,10 +9,10 @@ slug: you-can-reset-your-gut-in-three-days
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "腸内環境どのくらいで変わる"
+  volume: 1300
   market: "Japan (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "誤りです。食べ物は確かに腸の群れを動かします、それも速く。11人のボランティアが両極端の二つの食事を順に食べたところ、食べ物が腸に届いた1日後に構成が動き、食事をやめた2日後に元へ戻りました（Nature、2014）。大人の菌株のおよそ60 %は、5年たってもまだそこにいます（Science、2013）。3日で変わるのは測定値であって、住人ではありません。"

@@ -1,6 +1,6 @@
 ---
 title: "ラクトバチルス：腸にほとんど住まない乳酸菌"
-meta: "ラクトバチルスとは何か、体のどこに実際に住んでいるのか、試験でわかった効くこと・効かないこと、そして2020年にこの属が25属へ分割された理由。"
+meta: "腸にほとんど住まない乳酸菌の話。ラクトバチルスとは何か、体のどこに実際に住んでいるのか、試験でわかった効くこと・効かないこと、そして2020年にこの属が25属へ分割された理由。"
 kicker: "Lactobacillus"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: lactobacillus
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "乳酸菌"
+  volume: 22200
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Lactobacillusは、発酵食品や口、膣、そして少数ながら腸にすむ乳酸産生菌の属です。プロバイオティクスの試験では抗菌薬による下痢の予防に役立ちますが、大規模試験の一つは胃腸炎に効果を示しませんでした。2020年、ゲノムのデータが旧来の属を25属に分け、なじみのある名前の多くが変わりました。"

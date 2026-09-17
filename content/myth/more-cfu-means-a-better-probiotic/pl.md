@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Częściowo prawda. Dawka ma znaczenie, ale tylko w obrębie jednego szczepu i jednego efektu. W jednym badaniu 100 miliardów JTK (jednostek tworzących kolonie) pobiło 50 miliardów przy biegunce po antybiotykach; w innym stukrotny skok tego samego organizmu nie zmienił nic u dzieci z ostrą biegunką. Liczba na etykiecie mówi o ilości, nie o dowodach."

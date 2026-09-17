@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bir çalışmaya göre, başlangıçtaki bağırsak çeşitliliğiniz. 120 fazla kilolu yetişkinde 12 haftalık randomize, çift kör bir çalışmada (Gut Microbes, 2026), canlı probiyotik değil ölü hücreler olan ısıyla öldürülmüş Lactiplantibacillus plantarum LRCC5282 ortalamada hiçbir şeyi değiştirmedi. Yalnızca bağırsağı en az çeşitli olanlar plaseboya göre daha çok kilo, VKİ ve leptin kaybetti; bu bir alt grup bulgusudur, kanıtlanmış bir etki değil."

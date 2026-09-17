@@ -1,6 +1,6 @@
 ---
-title: "Lớp rêu trên lưỡi bạn thật ra được làm từ gì"
-meta: "Lớp màng trắng trên lưỡi phần lớn là tế bào bong của chính bạn và vi khuẩn. Nó gồm những gì, vì sao có mùi, khi nào là bình thường, và cách làm giảm nó."
+title: "Lưỡi trắng: lớp rêu trên lưỡi bạn được làm từ gì"
+meta: "Lưỡi trắng phần lớn là tế bào bong của chính bạn và vi khuẩn. Nó gồm những gì, vì sao có mùi, khi nào là bình thường, và cách làm giảm nó."
 kicker: "Magnus trả lời"
 type: ask
 topic: oral
@@ -9,10 +9,10 @@ slug: is-a-coated-tongue-bad
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "lưỡi trắng"
+  volume: 1600
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Phần lớn là bình thường. Lớp màng gồm tế bào bong, cặn thức ăn và vi khuẩn ưa thiếu khí mắc giữa các gai lưỡi. Ở người trẻ, một lớp rêu mỏng phía trong lưỡi là điều thường gặp, không phải cảnh báo. Ba điều đổi khác: dày lên, lau ra để lộ mô đỏ rát, hoặc miệng khô."

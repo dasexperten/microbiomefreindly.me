@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "在 2026年《Gut Microbes》一项 142人的试验中，四个月的巴氏灭活（热灭活）嗜黏蛋白阿克曼菌没有改善全身胰岛素敏感性，而那正是它被设计来检验的唯一一件事。在只提出问题、不解决问题的探索性分析中，它确实在糖水负荷后抬高了身体自己的 GLP-1，并在糖尿病前期参与者的肝脏胰岛素敏感性上推了一把。"

@@ -1,6 +1,6 @@
 ---
-title: "Probiotik bertahan asid? Itu soalan yang salah"
-meta: "Asid perut memang membunuh kebanyakan bakteria yang ditelan, dan spora serta salutan mengubah peluang — tetapi yang selamat sampai mungkin tetap tidak menetap."
+title: "Waktu terbaik makan probiotik dan soal bertahan asid"
+meta: "Waktu terbaik makan probiotik ikut mekanik terbitan: hidangan menimbal asid perut, spora dan salutan mengubah peluang — yang sampai mungkin tidak menetap."
 kicker: "Magnus menjawab"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: do-probiotics-survive-stomach-acid
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "waktu terbaik makan probiotik"
+  volume: 480
   market: "Malaysia (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Ada yang bertahan. Pembentuk spora terselamat kerana binaannya; strain yang halus kebanyakannya tidak, walaupun salutan dan makanan memperbaiki peluangnya. Bertahan ialah garisan penamat yang salah: satu-satunya kajian pada lapisan usus manusia mendapati strain yang ditelan masih hidup selepas perjalanan itu, menetap pada sesetengah orang dan tidak pada yang lain. Lalu sahaja bukan bermastautin."

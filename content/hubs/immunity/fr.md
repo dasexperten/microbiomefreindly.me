@@ -1,6 +1,6 @@
 ---
-title: "Microbes et immunité : la tolérance s'apprend"
-meta: "L'essentiel de votre immunité vit contre vos microbes. Comment les bactéries façonnent macrophages, tolérance et inflammation, et ce qui reste à prouver."
+title: "Immunité intestinale : la tolérance s'apprend"
+meta: "L'immunité intestinale se construit contre vos microbes. Comment les bactéries façonnent macrophages, tolérance et inflammation, et ce qui reste à prouver."
 kicker: "Microbes et immunité"
 type: hubs
 topic: immunity
@@ -9,10 +9,10 @@ slug: immunity
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "immunité intestinale"
+  volume: 20
   market: "FR (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Le système immunitaire n'est pas fait pour éliminer les microbes ; il est fait pour vivre avec eux. Les bactéries de la muqueuse apprennent aux cellules immunitaires — macrophages, lymphocytes T régulateurs — quels signaux disent le danger, lesquels le voisin. Cet apprentissage, la tolérance, commence à la naissance. Quand il échoue, vient une inflammation chronique, pas une infection."

@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "VN (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Vi sinh vật từ nước bọt bệnh nhân ung thư đầu cổ đã biến đường và rượu thành acetaldehyde, chất gây ung thư nhóm 1, ngang thuốc lá. Đỉnh ở 100 mM đường. Một peptide kháng khuẩn chặn được, nhưng vi khuẩn núp trong màng sinh học chỉ chết khi enzyme hòa tan lớp vỏ. Chỉ trong đĩa nuôi cấy."

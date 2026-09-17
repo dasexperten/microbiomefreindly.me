@@ -1,6 +1,6 @@
 ---
-title: "Oui, mais pas tout : votre intestin après les antibiotiques"
-meta: "Douze hommes en bonne santé, trois antibiotiques de dernier recours, six mois de prélèvements : la flore revient en 1,5 mois. Neuf espèces, non."
+title: "Combien de temps pour reconstituer la flore intestinale"
+meta: "Douze hommes, trois antibiotiques de dernier recours, six mois de prélèvements : la flore intestinale revient en 1,5 mois. Neuf espèces, non."
 kicker: "Magnus répond"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: can-i-rebuild-my-gut-after-antibiotics
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "combien de temps pour reconstituer la flore intestinale"
+  volume: 1000
   market: "FR (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "En grande partie, oui. Chez 12 hommes en bonne santé ayant reçu trois antibiotiques pendant quatre jours (Nature Microbiology, 2018), la flore est revenue près de son point de départ en 1,5 mois environ, mais neuf espèces présentes chez tous avant restaient indétectables chez la plupart au jour 180. La reconstruction est réelle, incomplète, et plus lente chez certains."

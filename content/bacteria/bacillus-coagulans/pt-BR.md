@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "Brasil (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "BR (Ubersuggest locId 2076)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacillus coagulans é uma bactéria láctica que sobrevive como esporo dormente e blindado: ela é passageira, não moradora — germina, age e sai. Heyndrickxia coagulans é o nome válido mais novo do mesmo organismo; a medicina ainda usa o antigo. Ensaios mostram menos Streptococcus mutans na saliva e sintomas mais brandos no intestino irritável. Também estraga comida quente e ácida."

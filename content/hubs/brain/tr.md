@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TR (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bağırsak–beyin ekseni, bağırsağın ve mikroplarının beyinle konuştuğu yolların tümüdür: vagus siniri, bağırsak hücrelerinin hormonları, bağışıklık habercileri ve kandaki bakteri metabolitleri. Vücuttaki serotoninin büyük bölümü, mikropların etkisi altında bağırsakta üretilir. Bağlantı gerçek; insanda ruh hali üzerindeki payı hâlâ ölçülüyor."

@@ -1,6 +1,6 @@
 ---
-title: "Her lif bakterinizi beslemez, fazlası da daha iyi değil"
-meta: "Fermente olabilen lif bağırsak bakterilerinizi besler; jel yapan ve kaba lif başka işler görür. Denemeler ne kadarını ölçtü ve şişkinliksiz nasıl artırılır."
+title: "Lifli gıdalar nelerdir? Hepsi bakterinizi beslemez"
+meta: "Lifli gıdalar nelerdir: fermente olabilen lif bakterilerinizi besler, jel yapan ve kaba lif başka iş görür. Denemeler ne kadarını ölçtü, nasıl artırılır."
 kicker: "Besin ve rutin"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: how-much-fibre-and-which-kind
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "lifli gıdalar nelerdir"
+  volume: 14800
   market: "TR (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Fermente olabilen lif — fruktanlar, galakto-oligosakkaritler, dirençli nişasta — kalın bağırsak bakterilerinizin yediği şeydir; siz onu sindiremezsiniz. Jel yapan ve kaba lifler başka işler görür. İnsanları yıllarca izleyen çalışmaların birleştirilmiş verileri, en büyük risk azalmasını günde 25 g ile 29 g arasına koyuyor ve fermentasyon etkileri bir tavana oturuyor. Haftalara yayarak artırın."

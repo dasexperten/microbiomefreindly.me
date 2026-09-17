@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — market measured, no honest match for this page; left pending"
 author: magnus-larsen
 voice: greger
 answer: "Pseudomonadotaは、最近までProteobacteriaと呼ばれていた、グラム陰性菌（薄い細胞壁の外にもう一枚の膜を持つ菌）の巨大な門です。大腸菌、サルモネラ、緑膿菌、ナイセリア、そして豆やエンドウの根で窒素を固定する根粒菌が含まれます。健康な人もこの門を、腸の集団のごく一部として持っています。病気とともに上がるのは、いるかどうかではなく、その量です。"

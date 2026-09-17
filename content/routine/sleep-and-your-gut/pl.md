@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Sen i jelita idą razem, ale dowody są mocniejsze w jedną stronę. Prace obserwacyjne wiążą zły, nieregularny sen z niższą różnorodnością mikrobów. Dwa kontrolowane eksperymenty z ograniczaniem snu u ludzi przeczą sobie: jeden znalazł, że dwie krótkie noce przesuwają udziały grup; drugi nie znalazł żadnej zmiany. Błonnik i stała pora wstawania to ruchy z dowodami."

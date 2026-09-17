@@ -1,6 +1,6 @@
 ---
-title: "Selaput pada lidah anda sebenarnya diperbuat daripada apa"
-meta: "Selaput putih pada lidah kebanyakannya sel anda yang luruh dan bakteria. Apa kandungannya, kenapa ia berbau, bila ia normal, dan apa yang mengurangkannya."
+title: "Lidah putih: selaput itu diperbuat daripada apa"
+meta: "Lidah putih kebanyakannya sel anda yang luruh dan bakteria. Apa kandungannya, kenapa ia berbau, bila ia normal, dan apa yang mengurangkannya."
 kicker: "Magnus menjawab"
 type: ask
 topic: oral
@@ -9,10 +9,10 @@ slug: is-a-coated-tongue-bad
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "lidah putih"
+  volume: 480
   market: "Malaysia (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Kebanyakannya normal. Selaput itu ialah sel yang luruh, sisa makanan dan bakteria yang suka keadaan tanpa udara, terperangkap antara papila. Pada dewasa muda, selaput nipis di pangkal lidah, putih atau kekuningan, ialah penemuan biasa, bukan amaran. Tiga perkara mengubahnya: ia menebal, ia terkelupas meninggalkan tisu mentah, atau mulut sudah menjadi kering."

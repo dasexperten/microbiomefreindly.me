@@ -1,6 +1,6 @@
 ---
-title: "不是所有纤维都喂菌，也不是越多越好"
-meta: "可发酵纤维喂养你的肠道细菌；黏稠纤维和粗纤维做的是别的事。试验究竟测到多少量，以及怎么加才不胀气。"
+title: "膳食纤维：不是都喂菌，也不是越多越好"
+meta: "膳食纤维里可发酵的那部分喂养你的肠道细菌；黏稠纤维和粗纤维做的是别的事。试验究竟测到多少量，以及怎么加才不胀气。"
 kicker: "饮食与日常"
 type: routine
 topic: gut
@@ -9,10 +9,11 @@ slug: how-much-fibre-and-which-kind
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "膳食纖維"
+  keywordSimplified: "膳食纤维"
+  volume: 6600
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "可发酵纤维——果聚糖、低聚半乳糖、抗性淀粉——才是你结肠细菌吃的东西，你自己消化不了它。黏稠纤维和粗纤维做的是别的工作。多年追踪人群的研究汇总起来，把风险下降最大的区间放在每天 25 g 到 29 g，而发酵带来的效果会到顶。要用几周时间慢慢加上去。"

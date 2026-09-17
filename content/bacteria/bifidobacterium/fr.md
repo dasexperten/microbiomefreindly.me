@@ -9,10 +9,10 @@ slug: bifidobacterium
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "bifidobacterium"
+  volume: 1600
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bifidobacterium est un genre de bactéries fourchues, anaérobies (elles fuient l'air), qui dominent l'intestin du bébé allaité en mangeant les sucres du lait maternel. La plupart des espèces sont inoffensives : elles en font de l'acétate et du lactate, deux acides doux. Quelques-unes non : B. dentium vient des caries, et des souches probiotiques ont atteint le sang de grands prématurés."

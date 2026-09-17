@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacillus coagulans بكتيريا لبنية تعيش كبوغ خامل مدرّع، وهي عابرة لا مقيمة: تنبت، تعمل، ثم تخرج. Heyndrickxia coagulans هو الاسم الأحدث للكائن نفسه، والطب لا يزال يستخدم القديم. أظهرت التجارب انخفاض Streptococcus mutans (بكتيريا التسوّس) في اللعاب وتخفيف أعراض القولون العصبي، لكنها تُفسد أيضًا الأطعمة الدافئة الحمضية."

@@ -1,6 +1,6 @@
 ---
-title: "장-피부 축: 장은 피부에 어디까지 말하나"
-meta: "장내 세균과 그 대사산물, 면역세포가 어떻게 피부에 닿는지, 여드름과 습진, 주사에 대해 사람들이 묻는 것, 그리고 아직 증명되지 않은 것."
+title: "장 건강 피부: 장은 어디까지 말하나"
+meta: "장 건강이 피부에 어디까지 닿는지. 장내 세균과 그 대사산물, 면역세포가 어떻게 피부에 닿는지, 여드름과 습진, 주사에 대해 사람들이 묻는 것, 그리고 아직 증명되지 않은 것."
 kicker: "장-피부 축"
 type: hubs
 topic: skin
@@ -9,10 +9,10 @@ slug: skin
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "장 건강 피부"
+  volume: 50
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "장-피부 축은 장내 미생물과 피부 사이의 양방향 연결입니다. 장내 세균은 피부로 도는 면역세포와 대사산물을 빚고, 피부 자신의 미생물은 그 면역의 결에 응답합니다. 습진과 여드름, 주사는 장의 변화와 연관돼 있습니다. 세균이 얼굴로 옮겨 가서가 아니라 염증과 장벽 기능, 식사를 통해서입니다."

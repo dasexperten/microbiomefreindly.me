@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — market measured, no honest match for this page; left pending"
 author: magnus-larsen
 voice: greger
 answer: "Fusobacteriotaは、嫌気性で紡錘形の細菌の門、つまり細菌の樹の一本の枝まるごとです。ふだんは口の中に住み、歯垢の集団をつなぎ留める連結役を務めています。これは構造上の仕事であって、欠陥ではありません。ただしFusobacterium nucleatumの小さな一群が大腸の腫瘍で強く増えており、その接着因子の一つは、ヒトの細胞でがんに関わる信号をオンにできます。"

@@ -1,6 +1,6 @@
 ---
-title: "Bifidobacterium ليست بكتيريا نافعة بالضرورة"
-meta: "Bifidobacterium تحكم أمعاء الرضيع الذي يرضع طبيعيًا. ما الذي تفعله لنا، وما الذي تفعله ضدّنا، وأين تتوقف الأدلة بالضبط."
+title: "Bifidobacterium: البكتيريا النافعة ليست دائمًا كذلك"
+meta: "Bifidobacterium هي البكتيريا النافعة التي تحكم أمعاء الرضيع. ما الذي تفعله لنا، وما الذي تفعله ضدّنا، وأين تتوقف الأدلة بالضبط."
 kicker: "Bifidobacterium"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: bifidobacterium
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "SA (Ubersuggest — locId pending lookup)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "البكتيريا النافعة"
+  volume: 5400
+  market: "SA (Ubersuggest locId 2682)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bifidobacterium جنس من البكتيريا المتشعّبة (على شكل شوكة) اللاهوائية (المتجنّبة للهواء)، تهيمن على أمعاء الرضيع الذي يرضع طبيعيًا بتغذّيها على سكريات حليب الأم. معظم أنواعها غير ضارّ، يُخمّر تلك السكريات إلى أسيتات ولاكتات، وهما حمضان خفيفان؛ وقليل منها ليس كذلك: B. dentium نوع انتهازي مسبّب للتسوّس عُزل من نخور الأسنان، وسلالات بروبيوتيكية بلغت أحيانًا مجرى دم خُدّج شديدي الخداجة."

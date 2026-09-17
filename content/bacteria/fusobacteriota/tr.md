@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Fusobacteriota — anaerop, iğ biçimli bakterilerden oluşan bir şube, yani bakteri ağacının koca bir dalı — normalde ağızda, diş plağı topluluğunu bir arada tutan bağlayıcı olarak yaşar: bir kusur değil, yapısal bir görev. Ama Fusobacterium nucleatum'un küçük bir kolu kolorektal tümörlerde belirgin biçimde zenginleşir ve tutunma proteinlerinden biri insan hücrelerinde kanserle ilgili sinyalleri açabilir."

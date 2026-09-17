@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Ang Bacillota ang phylum ng bacteria na dating tinatawag na Firmicutes, pinalitan ng pangalan noong 2021. Isa ito sa dalawang nangingibabaw na grupo sa colon, at nasa loob nito ang mga gumagawa ng butyrate na nagpapakain sa gut lining at ang mga pathogen gaya ng Clostridioides difficile; ang sikat na 'Firmicutes-to-Bacteroidetes ratio' ay hindi maaasahang marka ng obesity."

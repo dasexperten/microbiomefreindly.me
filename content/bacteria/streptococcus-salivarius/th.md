@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "TH (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Thailand (Ubersuggest locId 2764)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus salivarius เป็นสเตรปโตค็อกคัสที่ไม่มีอันตราย ซึ่งลงหลักบนลิ้นภายในไม่กี่วันหลังคลอด และปกป้องอาณาเขตของตนด้วยแบคเทอริโอซิน ซึ่งเป็นยาปฏิชีวนะชนิดโปรตีนที่เล็งไปที่แบคทีเรียคู่แข่ง บางสายพันธุ์ถูกทดสอบกับอาการเจ็บคอและกลิ่นปากในงานทดลองเล็ก ๆ ที่ส่วนใหญ่อ่อนแอ มันออกจากปากไปน้อยมาก แต่เมื่อถูกพาเข้าไปกับเข็มเจาะหลัง มันก็เคยก่อเยื่อหุ้มสมองอักเสบมาแล้ว"

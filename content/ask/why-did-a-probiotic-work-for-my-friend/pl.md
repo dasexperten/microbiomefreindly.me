@@ -1,6 +1,6 @@
 ---
-title: "Dlaczego probiotyk pomógł koleżance, a tobie nie"
-meta: "Trzy rzeczy różnią ciebie i twoją koleżankę: szczep (dokładna nazwana odmiana, nie gatunek), dawka i czas brania oraz jelita, z którymi zaczynaliście."
+title: "Czy warto brać probiotyki? Zależy, od czego zaczynasz"
+meta: "Czy warto brać probiotyki: zależy od szczepu, dawki, czasu brania i od jelit, z którymi zaczynasz. Dlatego jednej osobie pomagają, a drugiej nie."
 kicker: "Magnus odpowiada"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: why-did-a-probiotic-work-for-my-friend
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "czy warto brac probiotyki"
+  volume: 110
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bo nie zrobiliście tego samego doświadczenia. Efekt zależy od dokładnego szczepu, od dawki, od tego, jak długo go bierzesz, i być może od społeczności, z którą zaczynałeś. Badanie z 2026 roku u 120 dorosłych z nadwagą nie osiągnęło głównego punktu końcowego, a różnicę w masie ciała zobaczyło dopiero w późniejszym spojrzeniu na połowę o najuboższych jelitach."

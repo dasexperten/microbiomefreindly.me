@@ -1,5 +1,5 @@
 ---
-title: "E. coli mora no seu intestino, não é só vilã da comida"
+title: "Escherichia coli mora no seu intestino, não só na comida"
 meta: "A Escherichia coli vive no intestino de mais de 90 % das pessoas. O que ela faz por nós, o que faz contra nós e onde a evidência honesta para."
 kicker: "Escherichia coli"
 type: bacteria
@@ -9,10 +9,10 @@ slug: escherichia-coli
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "Brasil (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "escherichia coli"
+  volume: 74000
+  market: "BR (Ubersuggest locId 2076)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "A Escherichia coli vive sem fazer mal no intestino de mais de 90 % das pessoas, como a principal moradora tolerante ao oxigênio, e pode fabricar vitamina K2. Mas uma minoria de linhagens da mesma espécie carrega genes de toxina ou invasão e causa intoxicação alimentar, infecção urinária e sepse. A E. coli lidera as mortes ligadas a bactérias resistentes."

@@ -1,6 +1,6 @@
 ---
-title: "Ano talaga ang laman ng patong sa dila mo"
-meta: "Ang maputing patong sa dila ay kadalasang sarili mong nalagas na selula at bacteria. Ano ang laman nito, bakit umaamoy, kailan normal, at ano ang nakakabawas."
+title: "White tongue: ano talaga ang laman ng patong sa dila mo"
+meta: "White tongue: ang maputing patong sa dila ay kadalasang nalagas mong selula at bacteria. Ano ang laman nito, bakit umaamoy, at kailan ito normal."
 kicker: "Sumasagot si Magnus"
 type: ask
 topic: oral
@@ -9,10 +9,10 @@ slug: is-a-coated-tongue-bad
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "white tongue"
+  volume: 4400
   market: "Philippines (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Kadalasan, normal ito. Nalagas na selula, tira ng pagkain at bacteriang ayaw sa hangin ang patong na naiipit sa pagitan ng papillae. Sa mga kabataan, manipis na patong sa likod, puti o mamula-dilaw, ang karaniwang nakikita, hindi babala. Tatlo ang nagpapabago niyon: kumakapal ito, napupunas ito at naiiwang hilaw ang tisyu, o natuyo ang bibig."

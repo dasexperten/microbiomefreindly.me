@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "2026年《Gut》上的一项研究提出，长新冠的炎症起自肠道：细菌用来搭建游泳尾巴的鞭毛蛋白漏了出来，触动中性粒细胞上的 TLR5，后者释放 IL-15 并推动巨噬细胞产生花生四烯酸，直到远处的器官发炎。同样的模式出现在四种疾病中；而因果检验只在小鼠身上做过。这里没有任何东西是一种疗法。"

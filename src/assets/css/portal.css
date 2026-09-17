@@ -96,13 +96,16 @@ sup{font-size:.6em;}
 .hdr__icons a svg{width:24px;height:24px;display:block;}
 .hdr__icons a:active{background:var(--ground-2);}
 .hdr__icons a[aria-current="page"]{background:var(--navy);color:#fff;}
-/* Thai is written without spaces, so when the menu row gets tight the browser breaks inside a word
-   by its own dictionary: "หลักฐาน" (evidence) came out as "หลัก / ฐาน", two different words on two
-   lines, and keep-all does not stop it. Below the width where the Thai menu still fits on one line,
-   the icon menu — already the answer on a phone — takes over instead of a broken word. */
-@media(max-width:1200px){
-  :lang(th) .hdr__nav{display:none;}
-  :lang(th) .hdr__icons{display:flex;}
+/* Eight menu words only fit the row at the full 1280 px layout. Narrower than that, every language
+   except English ran past the edge of the page — German, Spanish, Russian, French, Polish, Turkish —
+   and Thai, which has no spaces, was cut inside its words: "หลักฐาน" (evidence) came out as
+   "หลัก / ฐาน", two different words. So below 1280 the icon row takes over. It carries the same seven
+   destinations, each named in the page's own language for a screen reader, and About is in the
+   footer — nothing is lost but the width the words needed. English still fits, so English keeps its
+   words down to the phone breakpoint. */
+@media(max-width:1280px){
+  html:not(:lang(en)) .hdr__nav{display:none;}
+  html:not(:lang(en)) .hdr__icons{display:flex;}
 }
 @media(max-width:860px){
   .hdr__nav{display:none;}

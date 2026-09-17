@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Actinomycetota, eski adıyla Actinobacteria, bağırsağınızda, ağzınızda ve cildinizde bulunan Gram pozitif, yüksek GC'li (DNA'sı dört harfinden ikisi bakımından zengin) bakterilerin şubesidir. Bize Bifidobacterium'u ve doğal antibiyotiklerin çoğunu verir; verem ile difteriye yol açan bakteriler ve sivilceyle anılan deri sakini de buradandır. Aynı soy ağacı, zıt sonuçlar: türe, bölgeye ve konağa, yani kişinin kendisine bağlı."

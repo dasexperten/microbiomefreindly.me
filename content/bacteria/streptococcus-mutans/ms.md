@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17 — measured as a seed, no search volume in MY"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus mutans ialah bakteria pencinta gula dalam plak pada gigi anda. Diberi gula pasir (sukrosa), ia membina gam melekit, glukan, yang menambat plak pada gigi, dan asid laktik yang melarutkan enamel: punca lubang gigi yang paling banyak dikaji. Kebanyakan orang membawanya sejak kecil; tiada manfaat terbukti untuk pembawanya, dan sesetengah strain boleh sampai ke jantung dan otak."

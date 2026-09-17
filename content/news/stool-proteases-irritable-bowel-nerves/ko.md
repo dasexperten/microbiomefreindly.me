@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "연구진은 과민성 대장 증후군 환자의 대변에서 액체 부분만 떼어내 살아 있는 장 신경망에 떨어뜨렸습니다. 신경은 건강한 사람의 대변 액을 받았을 때보다 훨씬 세게 발화했습니다. 설사형에서는 단백질을 자르는 효소가 그 효과를 설명했습니다. 다만 시험한 신경은 사람의 것이 아니라 기니피그의 것이었습니다."

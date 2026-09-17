@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Pseudomonadota, numită până de curând Proteobacteria, este o încrengătură uriașă de bacterii gram-negative (perete celular subțire, membrană exterioară în plus). Cuprinde E. coli, Salmonella, Pseudomonas aeruginosa, Neisseria și rizobiile care fixează azotul în rădăcinile de fasole și de mazăre. O poartă și oamenii sănătoși, ca parte mică din comunitatea intestinală; cu boala crește nivelul, nu prezența."

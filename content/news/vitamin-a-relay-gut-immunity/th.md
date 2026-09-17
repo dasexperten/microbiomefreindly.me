@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "TH (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Thailand (Ubersuggest locId 2764)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "วิตามินเอไม่ได้เดินทางไปหาเซลล์ภูมิคุ้มกันของคุณด้วยตัวเอง ในหนู แบคทีเรียในลำไส้ทำให้เยื่อบุลำไส้ผลิตโปรตีนขนส่ง คือซีรัมอะไมลอยด์เอ ซึ่งส่งเรตินอลต่อให้เซลล์ไมอีลอยด์ เซลล์เหล่านั้นเดินไปยังต่อมน้ำเหลืองที่รับน้ำเหลืองจากลำไส้ แล้วส่งต่อให้เซลล์ที การเดินผลัดนี้ใช้เวลาราวสามวัน — ในหนูเท่านั้น"

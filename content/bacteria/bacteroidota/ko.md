@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroidota는 옛 이름이 Bacteroidetes인 문으로, 그람음성이고 산소를 피하는 세균들이 대장에 엄청난 수로 삽니다. 식물 섬유를 주면 우리 효소가 풀지 못하는 것을 풀어주고 면역계를 가르치는 일을 돕습니다. 그것을 굶기면 점액층을 먹습니다 — 지금까지는 생쥐에서입니다. 단서는 이것입니다. 장을 벗어나면 이들은 혐기성 감염 대부분에서 발견됩니다."

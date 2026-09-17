@@ -9,10 +9,10 @@ slug: how-much-fibre-and-which-kind
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "食物繊維"
+  volume: 60500
   market: "Japan (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "腸内細菌が食べるのは発酵する食物繊維——フルクタン、ガラクトオリゴ糖、レジスタントスターチ——で、これは自分では消化できません。粘る繊維と粗い繊維は別の仕事をします。人を何年も追った研究をまとめると、リスクの下がり方がいちばん大きいのは1日25 gから29 gのあいだで、発酵の効果は頭打ちになります。増やすときは数週間かけて。"

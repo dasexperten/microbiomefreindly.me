@@ -9,10 +9,10 @@ slug: brain
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "axe intestin cerveau"
+  volume: 320
   market: "FR (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "L'axe intestin-cerveau désigne les routes par lesquelles l'intestin et ses microbes parlent au cerveau : le nerf vague, les hormones des cellules intestinales, les messagers immunitaires et les métabolites bactériens du sang. L'essentiel de la sérotonine du corps est fabriqué dans l'intestin, sous influence microbienne. Le lien est réel ; sa part dans l'humeur humaine se mesure encore."

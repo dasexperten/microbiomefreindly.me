@@ -1,6 +1,6 @@
 ---
-title: "Sembilan spesies masih hilang: makan apa lepas antibiotik"
-meta: "Usus anda hampir garis dasar 1.5 bulan selepas kursus, tetapi sembilan spesies tidak dapat dikesan pada kebanyakan lelaki pada hari ke-180. Apa kata kajian."
+title: "Kesan antibiotik pada badan: apa yang perlu dimakan"
+meta: "Kesan antibiotik pada badan tidak habis dengan kursus: usus hampir garis dasar 1.5 bulan kemudian, tetapi sembilan spesies masih hilang pada hari ke-180."
 kicker: "Selepas antibiotik"
 type: routine
 topic: gut
@@ -9,10 +9,10 @@ slug: eating-after-antibiotics
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "kesan antibiotik pada badan"
+  volume: 110
   market: "Malaysia (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Tumbuhan kaya serat, makanan fermentasi dan kesabaran. Kebanyakan komuniti itu kembali hampir ke garis dasar kira-kira 1.5 bulan selepas koktel antibiotik 4 hari itu (Nature Microbiology, 2018), tetapi sembilan spesies lazim masih tidak dapat dikesan pada kebanyakan lelaki pada hari ke-180. Probiotik mengurangkan cirit-birit berkaitan antibiotik, namun satu-satunya kajian ke atas lapisan usus mendapati ia melambatkan pembinaan semula."

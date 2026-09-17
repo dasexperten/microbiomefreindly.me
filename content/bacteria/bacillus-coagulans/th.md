@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "TH (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Thailand (Ubersuggest locId 2764)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacillus coagulans เป็นแบคทีเรียกรดแลกติกที่อยู่รอดในรูปสปอร์หลับใหลที่มีเกราะหุ้ม และเป็นผู้โดยสาร ไม่ใช่ผู้อยู่อาศัย: มันงอก ทำงาน แล้วถูกชะออกไป Heyndrickxia coagulans คือชื่อใหม่กว่าที่ใช้ได้ของสิ่งมีชีวิตตัวเดียวกัน แต่วงการแพทย์ยังใช้ชื่อเดิม งานทดลองแสดงว่า Streptococcus mutans ในน้ำลาย (แบคทีเรียฟันผุ) ลดลง และอาการลำไส้แปรปรวนเบาลง แม้มันจะทำให้อาหารอุ่นที่เป็นกรดเสียได้ด้วย"

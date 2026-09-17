@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — market measured, no honest match for this page; left pending"
 author: magnus-larsen
 voice: greger
 answer: "Clostridioides difficileは芽胞をつくる腸内細菌で、眠った芽胞は抗菌薬より長生きします。抗菌薬がこの菌を押さえていた微生物の集団を剥ぎ取ると、重い下痢を起こします。保菌は病気ではありません。病院の研究をまとめると、便に菌はいても症状のない静かな保菌者のほうが、何も持っていない患者よりC. difficileの下痢を起こしにくかったのです。"

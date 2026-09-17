@@ -1,6 +1,6 @@
 ---
-title: "Microbiomul intestinal: ce spune știința și ce nu poate"
-meta: "Microbiomul intestinal fără exagerări: ce face comunitatea de microbi din intestinul tău, cele trei întrebări de fiecare dată și unde se opresc dovezile."
+title: "Microbiom intestinal: ce spune știința și ce nu poate"
+meta: "Microbiom intestinal fără exagerări: ce face comunitatea de microbi din intestinul tău, cele trei întrebări de fiecare dată și unde se opresc dovezile."
 kicker: "Microbiomul intestinal"
 type: hubs
 topic: gut
@@ -9,10 +9,10 @@ slug: gut
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "microbiom intestinal"
+  volume: 1300
   market: "RO (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Microbiomul intestinal este comunitatea de bacterii, arhee, fungi și virusuri care trăiesc mai ales în intestinul gros. Digeră fibrele pe care noi nu le putem digera, face acizi grași cu lanț scurt și vitamine, antrenează sistemul imunitar și ține hrănită mucoasa intestinului. Îl modelează alimentația, nașterea, antibioticele și vârsta — și se schimbă în câteva zile."

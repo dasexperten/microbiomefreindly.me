@@ -1,6 +1,6 @@
 ---
-title: "Gut–skin axis: paano kinakausap ng gut ang balat mo"
-meta: "Paano umaabot sa balat ang metabolite at immune cells mula sa gut, ang itinatanong tungkol sa acne, eczema at rosacea, at ang hindi pa napapatunayan."
+title: "Gut skin axis: paano kinakausap ng gut ang balat mo"
+meta: "Gut skin axis: paano umaabot sa balat ang metabolite at immune cells mula sa gut, ang itinatanong tungkol sa acne, eczema at rosacea, at ang hindi pa tiyak."
 kicker: "Gut–skin axis"
 type: hubs
 topic: skin
@@ -9,10 +9,10 @@ slug: skin
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "gut skin axis"
+  volume: 30
   market: "Philippines (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Ang gut–skin axis ay ang dalawang-daang ugnayan ng gut microbiome at ng balat. Hinuhubog ng gut bacteria ang immune cells at metabolite na umaabot sa balat; tumutugon dito ang sariling microbes ng balat. Nauugnay ang eczema, acne at rosacea sa pagbabago sa bituka — sa inflammation, sa hadlang at sa diyeta, hindi sa bacteria na naglalakbay sa mukha."

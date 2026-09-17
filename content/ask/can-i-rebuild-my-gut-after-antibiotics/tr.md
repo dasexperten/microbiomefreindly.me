@@ -1,6 +1,6 @@
 ---
-title: "Evet, ama tamamı değil: antibiyotikten sonra bağırsağınız"
-meta: "On iki sağlıklı erkek, üç son çare antibiyotik, altı ay boyunca örnek: topluluk 1,5 ayda başlangıca yaklaştı. Dokuz tür ise geri gelmedi."
+title: "Antibiyotik sonrası bağırsak florası nasıl düzelir?"
+meta: "Antibiyotik sonrası bağırsak florası nasıl düzelir? On iki sağlıklı erkek, üç antibiyotik, altı ay örnek: topluluk 1,5 ayda yaklaştı, dokuz tür gelmedi."
 kicker: "Magnus yanıtlıyor"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: can-i-rebuild-my-gut-after-antibiotics
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "antibiyotik sonrası bağırsak florası nasıl düzelir"
+  volume: 210
   market: "TR (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Çoğunlukla evet. Dört gün boyunca üç antibiyotik verilen 12 sağlıklı erkekte (Nature Microbiology, 2018) bağırsak topluluğu yaklaşık 1,5 ay içinde başlangıca yaklaştı; ama önceden hepsinde bulunan dokuz tür, 180. günde çoğunda hâlâ saptanamıyordu. Toparlanma gerçek, eksik ve bazı insanlarda ötekilerden yavaş."

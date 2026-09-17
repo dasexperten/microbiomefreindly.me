@@ -1,6 +1,6 @@
 ---
-title: "Mau hálito não é sujeira: é um gene bacteriano em ação"
-meta: "Um estudo de 2026 em placa e em ratos baixou o gene bacteriano por trás do mau hálito. O mecanismo, os números e tudo o que o estudo não mostrou."
+title: "O que causa o mau hálito: um gene bacteriano em ação"
+meta: "O que causa o mau hálito por dentro: um estudo de 2026 baixou o gene do enxofre em placa e em ratos. O mecanismo, os números e o que não foi mostrado."
 kicker: "Compostos sulfurados voláteis"
 type: news
 topic: oral
@@ -9,10 +9,10 @@ slug: probiotic-sulfur-bad-breath-periodontitis
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "o que causa o mau hálito"
+  volume: 4400
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Mau hálito é gás. Anaeróbios da saburra da língua e das bolsas da gengiva arrancam enxofre de aminoácidos com uma enzima codificada pelo gene mgl. Num estudo de 2026 no Journal of Oral Microbiology, duas bactérias lácticas baixaram esse gene em placa e reduziram a saburra em ratos — sem nenhuma pessoa testada e sem medir o gás."

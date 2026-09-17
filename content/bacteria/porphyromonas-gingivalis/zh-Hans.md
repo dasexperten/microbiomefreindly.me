@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "牙龈卟啉单胞菌是一种对糖视而不见、以蛋白质为食的厌氧菌（不需要氧气就能生活），住在牙齿与牙龈之间的牙周袋里。很多健康人都带着它；只有当它周围的细菌失去平衡时，它才造成伤害。没有任何好处被证明。它的蛋白酶（剪切蛋白质的酶）会废掉你身体的防御，而在关节炎和阿尔茨海默病上，它是嫌疑人，还不是已被证明的原因。"

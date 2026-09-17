@@ -1,6 +1,6 @@
 ---
-title: "Gut microbiome: ang alam at hindi alam ng agham"
-meta: "Gut microbiome nang walang hype: ano ang ginagawa ng mga microbe sa bituka mo, ang tatlong tanong na laging itinatanong, at hanggang saan ang ebidensiya."
+title: "Gut health at gut microbiome: ang alam ng agham"
+meta: "Gut health nang walang hype: ano ang ginagawa ng mga microbe sa bituka mo, ang tatlong tanong na laging itinatanong, at hanggang saan ang ebidensiya."
 kicker: "Gut microbiome"
 type: hubs
 topic: gut
@@ -9,10 +9,10 @@ slug: gut
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "gut health"
+  volume: 9900
   market: "Philippines (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Ang gut microbiome ay ang komunidad ng bacteria, archaea, fungi at virus na nakatira sa malaking bituka. Tinutunaw nito ang fiber na hindi natin kaya, gumagawa ng short-chain fatty acids at bitamina, sinasanay ang immune system, at pinapakain ang lining ng bituka. Hinuhubog ito ng pagkain, kapanganakan, antibiotics at edad — at nagbabago ito sa loob ng ilang araw."

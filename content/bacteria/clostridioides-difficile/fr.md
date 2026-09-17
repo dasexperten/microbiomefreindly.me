@@ -1,5 +1,5 @@
 ---
-title: "Porter C. difficile peut réduire le risque de C. difficile"
+title: "Clostridium difficile : le portage muet protège un peu"
 meta: "Clostridioides difficile, ex-Clostridium difficile : ce que c'est, où il vit, pourquoi il nuit — et pourquoi le portage muet va avec moins de diarrhée."
 kicker: "Clostridioides difficile"
 type: bacteria
@@ -9,10 +9,10 @@ slug: clostridioides-difficile
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "clostridium difficile"
+  volume: 8100
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Clostridioides difficile est une bactérie intestinale sporulante dont les spores dormantes survivent aux antibiotiques ; elle provoque de fortes diarrhées une fois que les antibiotiques ont balayé la communauté microbienne qui la tenait. Porter n'est pas être malade : dans des études hospitalières groupées, les porteurs muets faisaient moins de diarrhée à C. difficile que les patients qui ne portaient rien."

@@ -1,6 +1,6 @@
 ---
-title: "ピロリ菌：発がん因子、なのに喘息は少ない"
-meta: "世界の半分がこの菌を宿しています。潰瘍と胃がんを起こす一方、喘息と食道（のど元）のがんは少なくなります。証明された害と、証明されていない利益。"
+title: "ピロリ菌と胃癌、なのに喘息は少ない"
+meta: "ピロリ菌と胃癌の関係。世界の半分がこの菌を宿しています。潰瘍と胃がんを起こす一方、喘息と食道（のど元）のがんは少なくなります。証明された害と、証明されていない利益。"
 kicker: "Helicobacter pylori"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: helicobacter-pylori
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "ピロリ菌と胃癌"
+  volume: 1900
   market: "JP (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Helicobacter pyloriは胃の粘膜に定着するらせん状の細菌で、たいていは生涯そこにいます。世界で最大の感染性のがんの原因であり、消化性潰瘍の主な細菌性の原因でもあります。それでいて、この菌が多い地域では食道腺がん（のど元のがん）と小児喘息はまれです。害は証明された原因で、利益はいまのところ模様にすぎません。"

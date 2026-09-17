@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Faecalibacterium prausnitzii ialah salah satu bakteria paling banyak dalam kolon yang sihat — lebih 5 % bakteria usus — dan ia menghasilkan butirat, bahan api utama lapisan kolon. Ia menurun dalam penyakit Crohn, sejenis penyakit radang usus. Perkaitan itu kuat, tetapi bukti bahawa bakteria itu sendiri menjadikan seseorang lebih sihat masih belum ada."

@@ -9,10 +9,10 @@ slug: how-much-fibre-and-which-kind
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "식이섬유"
+  volume: 8100
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "발효되는 식이섬유 — 프럭탄, 갈락토올리고당, 저항성 전분 — 가 대장 세균이 먹는 것이고, 우리 스스로는 소화하지 못합니다. 점성 섬유와 거친 섬유는 다른 일을 합니다. 사람들을 몇 해 추적한 연구를 모은 자료는 위험이 가장 많이 줄어드는 구간을 하루 25 g에서 29 g으로 잡고, 발효 효과는 그 뒤로 평평해집니다. 몇 주에 걸쳐 늘리세요."

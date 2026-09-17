@@ -1,6 +1,6 @@
 ---
-title: "Mikrobiom mulut: plak, karies dan gusi, dijelaskan"
-meta: "Plak ialah biofilem, bukan kotoran. Apa itu mikrobiom mulut, bagaimana ia bertukar menjadi karies dan penyakit gusi, dan di mana bukti itu berhenti."
+title: "Plak gigi ialah biofilem: mikrobiom mulut dijelaskan"
+meta: "Plak gigi ialah biofilem, bukan kotoran. Apa itu mikrobiom mulut, bagaimana ia bertukar menjadi karies dan penyakit gusi, dan di mana bukti berhenti."
 kicker: "Mikrobiom mulut"
 type: hubs
 topic: oral
@@ -9,10 +9,10 @@ slug: oral
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "plak gigi"
+  volume: 880
   market: "Malaysia (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Mikrobiom mulut ialah komuniti bakteria yang hidup pada gigi, gusi, lidah dan pipi. Pada gigi ia membentuk plak — biofilem bertata yang dilekatkan oleh gula yang dibuat bakteria itu sendiri. Dalam keadaan seimbang ia melindungi; apabila gula kerap masuk atau pembersihan jarang, spesies penghasil asid mengambil alih, enamel larut dan gusi meradang."

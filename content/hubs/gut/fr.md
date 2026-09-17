@@ -9,10 +9,10 @@ slug: gut
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "microbiote intestinal"
+  volume: 6600
   market: "FR (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Le microbiote intestinal est la communauté de bactéries, archées, champignons et virus qui vit surtout dans le gros intestin. Il digère les fibres que nous ne digérons pas, fabrique des acides gras à chaîne courte et des vitamines, entraîne l'immunité et nourrit la muqueuse. L'alimentation, la naissance, les antibiotiques et l'âge le façonnent ; il change en quelques jours."

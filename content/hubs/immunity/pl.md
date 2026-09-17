@@ -1,6 +1,6 @@
 ---
-title: "Mikroby i odporność: tolerancji trzeba się nauczyć"
-meta: "Większość twojej odporności siedzi tuż obok drobnoustrojów. Jak bakterie kształtują makrofagi, tolerancję i zapalenie oraz co pozostaje nieudowodnione."
+title: "Odporność a jelita: tolerancji trzeba się nauczyć"
+meta: "Odporność a jelita: bakterie na wyściółce uczą komórki odpornościowe tolerancji. Jak kształtują makrofagi i zapalenie i co pozostaje nieudowodnione."
 kicker: "Drobnoustroje i odporność"
 type: hubs
 topic: immunity
@@ -9,10 +9,10 @@ slug: immunity
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "odporność a jelita"
+  volume: 20
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Układ odpornościowy nie jest zbudowany po to, by usuwać drobnoustroje; jest zbudowany, by z nimi żyć. Bakterie na wyściółce jelita uczą komórki odpornościowe — makrofagi, limfocyty T regulatorowe — które sygnały znaczą zagrożenie, a które sąsiada. Ta nauka, zwana tolerancją, zaczyna się przy porodzie. Kiedy zawodzi, skutkiem jest przewlekłe zapalenie, a nie infekcja."

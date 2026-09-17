@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — measured, no honest phrase for this page"
 author: magnus-larsen
 voice: greger
 answer: "Кишкові бактерії зброджують клітковину на коротколанцюгові жирні кислоти — ацетат, пропіонат, бутират. Вони годують стінку кишківника й подають сигнал клітинам, які вивільняють GLP-1 — гормон, що сповільнює шлунок і каже мозку, що ви ситі. Akkermansia muciniphila, яка живе на слизу, зміцнює бар'єр, що тримає цю розмову в порядку. Це шлях, а не ліки."

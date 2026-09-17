@@ -9,10 +9,10 @@ slug: do-probiotics-survive-stomach-acid
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "위산"
+  volume: 1000
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "일부는 그렇습니다. 아포를 만드는 균은 구조 덕에 살아남고, 여린 균주는 대개 그러지 못하지만 코팅과 식사가 확률을 높입니다. 생존은 잘못된 결승선입니다. 사람의 장 점막을 들여다본 유일한 연구에서 삼킨 균주는 여정 뒤에도 살아 있었지만, 어떤 사람에게는 자리를 잡고 어떤 사람에게는 잡지 못했습니다. 지나가는 것은 들어와 사는 것이 아닙니다."

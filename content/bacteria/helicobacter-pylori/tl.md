@@ -1,6 +1,6 @@
 ---
-title: "Helicobacter pylori: carcinogen, pero kaunti ang asthma"
-meta: "Kalahati ng mundo ang may dala nito. Nagdudulot ito ng ulcer at gastric cancer, pero kasabay ng mas kaunting asthma at cancer sa esophagus. Tiyak ang pinsala."
+title: "Helicobacter pylori: ano ang dulot nito, at ano ang hindi"
+meta: "Helicobacter pylori: kalahati ng mundo ang may dala. Nagdudulot ito ng ulcer at gastric cancer, pero kasabay ng mas kaunting asthma. Tiyak ang pinsala."
 kicker: "Helicobacter pylori"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: helicobacter-pylori
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "helicobacter pylori causes"
+  volume: 1600
   market: "PH (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Ang Helicobacter pylori ay hugis-tirabuson na bacteria na naninirahan sa lining ng tiyan, kadalasan habambuhay. Ito ang nangungunang nakakahawang sanhi ng cancer at ang pangunahing bacterial na sanhi ng peptic ulcer. Gayunman, kung saan karaniwan ang bacteria, mas bihira ang oesophageal adenocarcinoma (cancer sa esophagus) at ang asthma ng bata. Napatunayang sanhi ang pinsala; padron pa lang ang benepisyo."

@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "입 냄새는 기체입니다. 설태와 잇몸 주머니에 사는 구강 세균인 혐기성균이 mgl 유전자가 담고 있는 효소로 아미노산에서 황을 떼어냅니다. 2026년 Journal of Oral Microbiology에 실린 연구에서 젖산 세균 둘이 접시 안에서 그 유전자를 눌렀고 쥐의 설태를 줄였습니다. 다만 사람은 시험하지 않았고 기체는 측정하지 않았습니다."

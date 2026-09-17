@@ -1,6 +1,6 @@
 ---
-title: "Trục ruột–da: ruột nói với da thế nào, và tới đâu"
-meta: "Vi khuẩn ruột, chất chuyển hóa và tế bào miễn dịch tới da bằng đường nào, người ta hỏi gì về mụn, chàm và trứng cá đỏ, và điều gì vẫn chưa được chứng minh."
+title: "Trục ruột–da: nguyên nhân gây mụn trứng cá có ở ruột?"
+meta: "Vi khuẩn ruột và chất chuyển hóa tới da bằng đường nào, nguyên nhân gây mụn trứng cá có nằm ở ruột không, và điều gì vẫn chưa được chứng minh."
 kicker: "Trục ruột–da"
 type: hubs
 topic: skin
@@ -9,10 +9,10 @@ slug: skin
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "nguyên nhân gây mụn trứng cá"
+  volume: 210
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Trục ruột–da là liên hệ hai chiều giữa hệ vi sinh ruột và da. Vi khuẩn ruột nặn ra tế bào miễn dịch và chất chuyển hóa theo máu tới da; hệ vi sinh da đáp lại. Chàm, mụn, trứng cá đỏ đi cùng thay đổi ở ruột: qua viêm, hàng rào, bữa ăn, không do vi khuẩn lên mặt."

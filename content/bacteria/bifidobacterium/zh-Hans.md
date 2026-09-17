@@ -1,6 +1,6 @@
 ---
-title: "双歧杆菌不自动等于好细菌"
-meta: "在母乳喂养的婴儿肠道里，双歧杆菌说了算。它为我们做什么，对我们做什么，以及证据究竟在哪里停住。"
+title: "比菲德氏菌（双歧杆菌）不自动等于好菌"
+meta: "比菲德氏菌，也就是双歧杆菌：在母乳喂养的婴儿肠道里它说了算。它为我们做什么，对我们做什么，以及证据究竟在哪里停住。"
 kicker: "Bifidobacterium"
 type: bacteria
 topic: gut
@@ -9,10 +9,11 @@ slug: bifidobacterium
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "比菲德氏菌"
+  keywordSimplified: "比菲德氏菌"
+  volume: 1300
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "双歧杆菌是一类分叉成 Y 形、厌氧（躲避空气）的细菌，靠吃母乳里的糖，在母乳喂养的婴儿肠道里占据统治地位。多数物种无害，把那些糖发酵成乙酸和乳酸这两种温和的酸；少数不是：齿双歧杆菌是从龋齿中分离出来的机会性致龋菌，而益生菌菌株偶尔会进入极早产儿的血流。"

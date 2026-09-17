@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Sai. Nước súc miệng sát khuẩn phổ rộng không tách được vi khuẩn có hại khỏi vi khuẩn có ích, nên nó san phẳng cộng đồng trong miệng bạn. Trong thử nghiệm năm 2013, bảy ngày súc chlorhexidine làm nitrit trong miệng (thứ cơ thể dùng để giãn mạch) giảm 90 % và đẩy huyết áp lên 2–3,5 mmHg."

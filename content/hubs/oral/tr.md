@@ -1,6 +1,6 @@
 ---
-title: "Ağız mikrobiyomu: diş plağı, çürük ve diş etleri"
-meta: "Plak kir değil, bir biyofilmdir. Ağız mikrobiyomu nedir, nasıl çürüğe ve diş eti hastalığına döner, herkesin sorduğu üç soru ve kanıtın nerede bittiği."
+title: "Diş plağı nedir: ağız mikrobiyomu, çürük ve diş etleri"
+meta: "Diş plağı nedir? Plak kir değil, bir biyofilmdir. Ağız mikrobiyomu nasıl çürüğe ve diş eti hastalığına döner, üç soru ve kanıtın nerede bittiği."
 kicker: "Ağız mikrobiyomu"
 type: hubs
 topic: oral
@@ -9,10 +9,10 @@ slug: oral
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "diş plağı nedir"
+  volume: 2400
   market: "TR (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Ağız mikrobiyomu; dişlerde, diş etlerinde, dilde ve yanaklarda yaşayan bakteri topluluğudur. Dişlerde plak oluşturur — bakterilerin kendi ürettiği şekerlerle bir arada tutulan, yapılı bir biyofilm. Dengedeyken korur; şeker sık geldiğinde ya da temizlik seyrekleştiğinde asit üreten türler baskın olur, mine çözünür ve diş etleri iltihaplanır."

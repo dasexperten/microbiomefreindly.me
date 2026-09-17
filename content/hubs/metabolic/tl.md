@@ -1,5 +1,5 @@
 ---
-title: "Microbes at metabolism: GLP-1, Akkermansia, fatty acids"
+title: "Gut bacteria at metabolism: GLP-1, Akkermansia, fatty acids"
 meta: "Paano kinakausap ng gut bacteria ang metabolism mo: short-chain fatty acids, ang kumakain ng mucus na Akkermansia at ang GLP-1. Mekanismo, daga at tao."
 kicker: "Microbes at metabolism"
 type: hubs
@@ -9,10 +9,10 @@ slug: metabolic
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "bacteria metabolism"
+  volume: 10
   market: "Philippines (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Ginagawang short-chain fatty acids ng gut bacteria ang fiber — acetate, propionate, butyrate. Pinapakain nito ang dingding ng bituka at hinuhudyatan ang mga selulang naglalabas ng GLP-1, ang hormone na nagpapabagal sa tiyan at nagsasabi sa utak na busog ka na. Pinatitibay ng Akkermansia muciniphila, na nabubuhay sa mucus, ang hadlang na nag-aayos sa usapang ito. Daanan ito, hindi lunas."

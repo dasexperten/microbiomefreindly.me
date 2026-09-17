@@ -1,6 +1,6 @@
 ---
-title: "細菌と代謝、GLP-1とアッカーマンシア"
-meta: "腸内細菌はどう代謝に話しかけるのか。短鎖脂肪酸、粘液を食べるアッカーマンシア、ホルモンGLP-1。どこまでが仕組みで、どこからが人の話か。"
+title: "痩せ菌はいるのか、細菌と代謝とGLP-1"
+meta: "痩せ菌はいるのか。腸内細菌はどう代謝に話しかけるのか。短鎖脂肪酸、粘液を食べるアッカーマンシア、ホルモンGLP-1。どこまでが仕組みで、どこからが人の話か。"
 kicker: "細菌と代謝"
 type: hubs
 topic: metabolic
@@ -9,10 +9,10 @@ slug: metabolic
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "痩せ菌"
+  volume: 3600
   market: "Japan (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "腸内細菌は食物繊維を発酵させて短鎖脂肪酸——酢酸、プロピオン酸、酪酸——を作ります。これが腸の壁を養い、GLP-1を出す細胞に合図を送ります。GLP-1は胃の動きを遅くし、満腹を脳に伝えるホルモンです。粘液にすむAkkermansia muciniphilaは、この会話を整えるバリアを厚くします。これは経路であって、治療ではありません。"

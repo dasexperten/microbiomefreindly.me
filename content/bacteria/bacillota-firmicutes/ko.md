@@ -1,6 +1,6 @@
 ---
-title: "Firmicutes는 살찌는 균이 아니다"
-meta: "Bacillota, 옛 이름 Firmicutes는 장 점막에 부티르산을 먹이고 C. difficile도 품습니다. 연구가 말하는 것과, 대변 검사의 '비만 비율'이 진단이 될 수 없는 이유."
+title: "뚱보균? Firmicutes는 그런 균이 아니다"
+meta: "뚱보균이라 불리는 Bacillota, 옛 이름 Firmicutes는 장 점막에 부티르산을 먹이고 C. difficile도 품습니다. 연구가 말하는 것과, 대변 검사의 '비만 비율'이 진단이 될 수 없는 이유."
 kicker: "Bacillota"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: bacillota-firmicutes
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "뚱보균"
+  volume: 590
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bacillota는 예전에 Firmicutes라 불리던 세균 문으로, 문 이름이 공식으로 정리된 2021년에 이름이 바뀌었습니다. 사람 대장을 지배하는 두 무리 가운데 하나이고, 장 점막을 먹이는 부티르산 생산균과 Clostridioides difficile 같은 병원균을 함께 품고 있습니다. 다만 널리 퍼진 'Firmicutes 대 Bacteroidetes 비율'은 믿을 만한 비만 지표가 아닙니다."

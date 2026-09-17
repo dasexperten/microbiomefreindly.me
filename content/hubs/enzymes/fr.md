@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "FR (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Une enzyme coupe une liaison précise. La dextranase coupe la colle sucrée de la plaque dentaire ; la papaïne et la bromélaïne coupent les protéines ; le lysozyme coupe la paroi des bactéries ; la glucose oxydase transforme le glucose en antiseptique doux. Aucune ne tue largement : elles retirent la structure, d'où leur étude sur les biofilms."

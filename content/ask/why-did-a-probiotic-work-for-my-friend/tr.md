@@ -1,6 +1,6 @@
 ---
-title: "Probiyotik neden arkadaşınıza yaradı da size yaramadı"
-meta: "Sizinle arkadaşınız arasında üç şey farklı: suş (türün değil, adı konmuş tam çeşidin kendisi), doz ile süre ve yola çıktığınız bağırsak."
+title: "Probiyotik ne işe yarar? Arkadaşınıza yaradı, size yaramadı"
+meta: "Probiyotik ne işe yarar? Üç şey farklı: suş (türün değil, adı konmuş tam çeşidin kendisi), doz ile süre ve yola çıktığınız bağırsak topluluğu."
 kicker: "Magnus yanıtlıyor"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: why-did-a-probiotic-work-for-my-friend
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "probiyotik ne işe yarar"
+  volume: 6600
   market: "TR (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Çünkü aynı deneyi yapmadınız. Etki; tam olarak hangi suşu aldığınıza, doza, ne kadar süre kullandığınıza ve belki de yola çıktığınız topluluğa bağlıdır. Fazla kilolu 120 yetişkinle yapılan 2026 tarihli bir çalışma birincil hedefini tutturamadı ve kilo farkını yalnızca sonraki bir bakışta, bağırsağında en az tür bulunan yarıda gördü."

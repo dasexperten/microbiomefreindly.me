@@ -1,6 +1,6 @@
 ---
-title: "Bau mulut dari perut? Satu kes dalam seratus"
-meta: "Sebuah klinik nafas mengukur 491 pesakit: mulut menjelaskan 87 % bau mulut dan saluran penghadaman hanya 1 %. Di mana bau sulfur itu sebenarnya dibuat."
+title: "Cara menghilangkan bau mulut dari perut? Bukan di situ"
+meta: "Cara menghilangkan bau mulut dari perut? Sebuah klinik nafas mengukur 491 pesakit: mulut menjelaskan 87 % bau mulut dan saluran penghadaman hanya 1 %."
 kicker: "Semak mitos"
 type: myth
 topic: oral
@@ -9,10 +9,10 @@ slug: bad-breath-comes-from-the-stomach
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "cara menghilangkan bau mulut dari perut"
+  volume: 110
   market: "Malaysia (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Separuh benar, dan nyaris tidak. Baunya ialah sebatian sulfur meruap, dibuat oleh bakteria anaerob di pangkal lidah dan di bawah gusi, di atas esofagus dan bukan di bawahnya. Dalam sebuah klinik nafas dengan 491 pesakit, mulut menjelaskan 87 % kes dan saluran penghadaman 1 %. Bau mulut bergastrik memang wujud; ia pengecualian."

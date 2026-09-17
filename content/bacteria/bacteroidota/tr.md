@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroidota, eski adıyla Bacteroidetes, kalın bağırsağınızda muazzam sayıda yaşayan, Gram negatif, oksijenden kaçınan bakterilerin şubesidir. Bitki lifiyle beslenince sizin enzimlerinizin açamadığını açarlar ve bağışıklık sisteminin eğitimine yardım ederler; lifsiz kalınca mukus tabakanızı yerler — şimdilik farelerde. Çekince: bağırsaktan kaçtıklarında anaerop enfeksiyonların çoğunda karşımıza çıkarlar."

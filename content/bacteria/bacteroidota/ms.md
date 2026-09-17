@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroidota, dahulu Bacteroidetes, ialah filum bakteria Gram negatif yang mengelak oksigen dan hidup dalam jumlah yang amat besar dalam kolon anda. Diberi serat tumbuhan, ia membuka apa yang enzim anda tidak mampu dan membantu melatih sistem imun; dilaparkan daripadanya, ia memakan lapisan lendir anda — setakat ini, pada tikus. Terlepas dari usus, ia ditemui dalam kebanyakan jangkitan anaerob."

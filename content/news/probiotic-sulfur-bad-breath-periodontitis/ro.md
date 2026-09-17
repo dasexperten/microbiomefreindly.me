@@ -1,6 +1,6 @@
 ---
-title: "Halena nu e murdărie. E o genă bacteriană care lucrează"
-meta: "Un studiu din 2026, în eprubetă și pe șobolani, a redus gena bacteriană din spatele halenei. Mecanismul, cifrele și tot ce studiul nu a arătat."
+title: "Halitoza nu e murdărie. E o genă bacteriană care lucrează"
+meta: "Halitoza are în spate o genă bacteriană: un studiu din 2026, în eprubetă și pe șobolani, a redus-o. Mecanismul, cifrele și tot ce studiul nu a arătat."
 kicker: "Compuși sulfuroși volatili"
 type: news
 topic: oral
@@ -9,10 +9,10 @@ slug: probiotic-sulfur-bad-breath-periodontitis
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "halitoza"
+  volume: 880
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Halena este un gaz. Anaerobii, bacteriile din depunerea de pe limbă și din pungile gingivale, desprind sulful din aminoacizi cu o enzimă pe care o codifică gena mgl. Într-un studiu din 2026, două bacterii lactice au redus acea genă în eprubetă și au subțiat depunerea de pe limbă la șobolani; niciun om nu a fost testat."

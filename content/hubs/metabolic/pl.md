@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bakterie jelitowe fermentują błonnik do krótkołańcuchowych kwasów tłuszczowych: octanu, propionianu, maślanu. Te karmią ścianę jelita i dają sygnał komórkom, które uwalniają GLP-1, hormon spowalniający żołądek i mówiący mózgowi, że jesteś syty. Akkermansia muciniphila, żyjąca na śluzie, wzmacnia barierę pilnującą porządku tej rozmowy. To szlak, nie lekarstwo."

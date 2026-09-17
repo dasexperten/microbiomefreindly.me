@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "TH (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Thailand (Ubersuggest locId 2764)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroides fragilis สร้างไขมันตัวหนึ่งเข้าไปในเยื่อหุ้มเซลล์ของมัน คือแอลฟา-กาแลกโตซิลเซราไมด์ งานใหม่ในวารสาร Cell รายงานว่าไขมันนั้นปิดผนึกเยื่อหุ้มไม่ให้โปรตอนรั่ว จุลินทรีย์ที่ไม่ใช้ออกซิเจนอย่างเคร่งครัดซึ่งอากาศควรวางยาให้ตาย จึงอยู่รอดพ้นช่วงที่ลำไส้ทารกยังมีออกซิเจน และโมเลกุลตัวเดียวกันนั้นก็ปรับจูนเซลล์ทีเพชฌฆาตธรรมชาติที่อ่านไขมัน ทั้งหมดเป็นหนูและโมเลกุลเท่านั้น ไม่มีการทดสอบในทารกคน"

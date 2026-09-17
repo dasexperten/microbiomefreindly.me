@@ -1,6 +1,6 @@
 ---
-title: "同一种益生菌，为什么朋友有效你没效"
-meta: "你和朋友之间有三处不同：菌株（是那个具名的品种，不是物种）、剂量和服用时长，以及你起步时的那套肠道菌群。"
+title: "益生菌功效因人而异：朋友有效你没效"
+meta: "益生菌功效为什么因人而异：菌株（是那个具名的品种，不是物种）、剂量和服用时长，以及你起步时的那套肠道菌群。"
 kicker: "马格努斯解答"
 type: ask
 topic: gut
@@ -9,10 +9,11 @@ slug: why-did-a-probiotic-work-for-my-friend
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "益生菌功效"
+  keywordSimplified: "益生菌功效"
+  volume: 4400
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "因为你们做的不是同一个实验。效果取决于具体菌株、剂量、吃多久，还可能取决于你起步时的那个群落。2026 年一项纳入 120 名超重成年人的试验没有达到主要终点，只在事后针对菌种最少那一半人的分析里看到了体重差异。"

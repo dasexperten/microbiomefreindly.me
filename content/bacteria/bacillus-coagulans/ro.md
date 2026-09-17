@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacillus coagulans este o bacterie lactică ce supraviețuiește ca spor adormit și este un pasager, nu un locuitor: germinează, lucrează, se spală afară. Heyndrickxia coagulans este numele valid mai nou; medicina îl folosește pe cel vechi. Studiile arată mai puțin Streptococcus mutans în salivă și simptome de colon iritabil mai blânde, deși strică și mâncarea caldă și acidă."

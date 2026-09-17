@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "RO (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Somnul și intestinul se mișcă împreună, dar dovezile sunt mai puternice într-o direcție. Studiile observaționale leagă somnul prost și neregulat de o diversitate mai mică. Cele două experimente controlate la om nu sunt de acord: unul a găsit că două nopți scurte clintesc ponderea grupurilor; celălalt n-a găsit nicio schimbare. Fibrele și o oră fixă de trezire au dovezi."

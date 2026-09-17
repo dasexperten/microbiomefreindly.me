@@ -1,6 +1,6 @@
 ---
-title: "Kenapa probiotik itu berkesan pada kawan anda, bukan anda"
-meta: "Tiga perkara berbeza antara anda dan kawan anda: strainnya (varieti bernama yang tepat, bukan spesiesnya), dos dan tempohnya, dan usus yang anda mulakan."
+title: "Kesan makan probiotik berbeza: kawan anda, bukan anda"
+meta: "Kesan makan probiotik berbeza kerana tiga perkara: strainnya (varieti bernama yang tepat, bukan spesiesnya), dos dan tempohnya, dan usus yang anda mulakan."
 kicker: "Magnus menjawab"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: why-did-a-probiotic-work-for-my-friend
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "kesan makan probiotik"
+  volume: 140
   market: "Malaysia (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Kerana anda tidak menjalankan eksperimen yang sama. Kesannya bergantung pada strain yang tepat, dosnya, berapa lama anda mengambilnya, dan mungkin pada komuniti yang anda mulakan. Satu kajian 2026 ke atas 120 orang dewasa berlebihan berat badan terlepas titik akhir utamanya dan hanya melihat beza berat dalam tinjauan susulan pada separuh peserta yang ususnya paling sedikit spesies."

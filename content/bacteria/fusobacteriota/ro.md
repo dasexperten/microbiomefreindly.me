@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Fusobacteriota, o încrengătură (o ramură întreagă) de bacterii anaerobe în formă de fus, trăiește normal în gură, ca element de legătură care ține laolaltă comunitatea plăcii dentare: o treabă de structură, nu un defect. Dar o mică ramificație a speciei Fusobacterium nucleatum este puternic îmbogățită în tumorile colorectale, unde o adezină a ei poate porni semnalizare legată de cancer."

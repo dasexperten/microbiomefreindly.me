@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "肠皮轴是肠道菌群与皮肤之间的双向联系。肠道细菌塑造那些循环到皮肤的免疫细胞和代谢物；皮肤自己的微生物再对这种免疫基调作出回应。湿疹、痤疮和玫瑰痤疮都与肠道的变化有关联——经由炎症、屏障功能和饮食，而不是细菌跑到脸上去。"

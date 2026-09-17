@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "TH (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Thailand (Ubersuggest locId 2764)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Pseudomonadota ซึ่งจนกระทั่งเมื่อไม่นานมานี้เรียกว่า Proteobacteria เป็นไฟลัมขนาดใหญ่มากของแบคทีเรียแกรมลบ (ผนังเซลล์บาง มีเยื่อหุ้มชั้นนอกเพิ่มอีกชั้น) มันมีทั้ง E. coli, Salmonella, Pseudomonas aeruginosa, Neisseria และไรโซเบียมที่ตรึงไนโตรเจนในรากถั่ว คนสุขภาพดีก็มีมันอยู่ในตัวเช่นกัน ในสัดส่วนเล็ก ๆ ของชุมชนในลำไส้ สิ่งที่สูงขึ้นพร้อมโรคคือระดับ ไม่ใช่การมีอยู่"

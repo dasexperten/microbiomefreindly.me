@@ -1,6 +1,6 @@
 ---
-title: "Le microbe qui a fait monter le GLP-1 — et manqué sa cible"
-meta: "Essai Gut Microbes 2026, 142 adultes : l'Akkermansia tuée par la chaleur a manqué son but, la sensibilité à l'insuline — mais a fait monter le GLP-1."
+title: "Probiotiques : Akkermansia muciniphila fait monter le GLP-1"
+meta: "Essai Gut Microbes 2026, 142 adultes : parmi les probiotiques, l'Akkermansia muciniphila tuée par la chaleur a manqué l'insuline, mais a fait monter le GLP-1."
 kicker: "Akkermansia"
 type: news
 topic: metabolic
@@ -9,10 +9,10 @@ slug: akkermansia-glp1-metabolic-syndrome-trial
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "probiotiques akkermansia muciniphila"
+  volume: 170
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Dans un essai de 142 personnes (Gut Microbes, 2026), quatre mois d'Akkermansia muciniphila pasteurisée n'ont pas amélioré la sensibilité à l'insuline du corps entier, la seule chose qu'il était conçu pour tester. Dans des analyses exploratoires, qui posent des questions sans trancher, elle a fait monter le GLP-1 après une boisson sucrée et la sensibilité hépatique des prédiabétiques."

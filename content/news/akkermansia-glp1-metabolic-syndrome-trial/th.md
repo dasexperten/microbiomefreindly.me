@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "TH (Ubersuggest locId 2764)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Thailand (Ubersuggest locId 2764)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "ในงานทดลองในคน 142 คนในวารสาร Gut Microbes ปี 2026 การให้ Akkermansia muciniphila ที่ผ่านการพาสเจอไรซ์ (ฆ่าด้วยความร้อน) นานสี่เดือน ไม่ได้ทำให้ความไวต่ออินซูลินทั้งร่างกายดีขึ้น ซึ่งเป็นสิ่งเดียวที่งานนี้สร้างขึ้นมาเพื่อทดสอบ ในการวิเคราะห์เชิงสำรวจ ซึ่งตั้งคำถามมากกว่าจะตอบคำถาม มันเพิ่ม GLP-1 ของร่างกายเองหลังดื่มกลูโคส และขยับความไวต่ออินซูลินของตับในผู้เข้าร่วมที่เป็นเบาหวานระยะก่อน"

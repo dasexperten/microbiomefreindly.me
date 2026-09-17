@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "UA (Ubersuggest locId 2804)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Verrucomicrobiota (колишні Verrucomicrobia) — тип бактерій, найвідоміший представник якого, Akkermansia muciniphila, живе у шарі слизу вашої товстої кишки і їсть його. У міру цей обмін живить стінку кишківника і йде поруч із кращими обмінними показниками. У надлишку або на бідній на клітковину їжі той самий апетит стоншує бар'єр."

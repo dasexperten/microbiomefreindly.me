@@ -1,6 +1,6 @@
 ---
-title: "Oś jelitowo-skórna: jak jelita rozmawiają ze skórą"
-meta: "Jak bakterie jelitowe, ich metabolity i komórki odpornościowe docierają do skóry, o co pytamy przy trądziku i egzemie i co pozostaje nieudowodnione."
+title: "Trądzik a jelita: jak skóra rozmawia z mikrobiomem"
+meta: "Trądzik a jelita, egzema a jelita: jak bakterie jelitowe, ich metabolity i komórki odpornościowe docierają do skóry i co pozostaje nieudowodnione."
 kicker: "Oś jelitowo-skórna"
 type: hubs
 topic: skin
@@ -9,10 +9,10 @@ slug: skin
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "trądzik a jelita"
+  volume: 70
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Oś jelitowo-skórna to dwukierunkowe połączenie mikrobiomu jelit ze skórą. Bakterie jelitowe kształtują komórki odpornościowe i metabolity krążące do skóry; własne drobnoustroje skóry odpowiadają na ten odpornościowy ton. Egzema, trądzik i trądzik różowaty wiążą się ze zmianami w jelicie — przez zapalenie, barierę i dietę, a nie przez wędrówkę bakterii na twarz."

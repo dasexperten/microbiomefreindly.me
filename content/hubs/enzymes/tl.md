@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Philippines (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Protinang pumuputol ng isang tiyak na bond ang enzyme. Pinuputol ng dextranase ang asukal na pandikit ng plaque; ng protina ang papain at bromelain; ng cell wall ng bacteria ang lysozyme; ginagawang banayad na antiseptiko ng glucose oxidase ang glucose. Wala sa kanila ang pumapatay nang malawakan: inaalis nila ang istruktura, kaya laban sa biofilm sila pinag-aaralan, hindi bilang antibiotics."

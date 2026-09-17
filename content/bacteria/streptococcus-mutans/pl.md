@@ -9,10 +9,10 @@ slug: streptococcus-mutans
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "streptococcus mutans"
+  volume: 480
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus mutans to bakteria kochająca cukier, żyjąca w płytce nazębnej. Karmiona cukrem stołowym (sacharozą) wytwarza lepki klej, glukan, który przykleja płytkę do zęba, oraz kwas mlekowy rozpuszczający szkliwo: to najlepiej zbadana przyczyna próchnicy. Większość ludzi nosi ją od wczesnego dzieciństwa; nosicielowi nie daje żadnej udowodnionej korzyści, a niektóre szczepy potrafią dotrzeć do serca i mózgu."

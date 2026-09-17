@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bau mulut ialah gas. Anaerob, iaitu bakteria mulut dalam salutan lidah dan poket gusi, melucutkan sulfur daripada asid amino dengan enzim yang dikod gen mgl. Dalam satu kajian Journal of Oral Microbiology 2026, dua bakteria asid laktik merendahkan gen itu dalam piring makmal dan mengurangkan salutan lidah pada tikus, walaupun tiada manusia diuji dan tiada gas diukur."

@@ -1,5 +1,5 @@
 ---
-title: "口腔菌群：牙菌斑、龋齿和牙龈是怎么回事"
+title: "牙菌斑是什么：口腔菌群、龋齿和牙龈"
 meta: "牙菌斑是生物膜，不是脏东西。口腔菌群是什么，它怎么变成龋齿和牙周病，人人都会问的三个问题，以及证据到哪里为止。"
 kicker: "口腔菌群"
 type: hubs
@@ -9,10 +9,11 @@ slug: oral
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "牙菌斑"
+  keywordSimplified: "牙菌斑"
+  volume: 4400
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "口腔菌群是住在牙齿、牙龈、舌头和面颊上的细菌群落。在牙齿上，它形成牙菌斑——一层有结构的生物膜，靠细菌自己制造的糖黏在一起。平衡时它起保护作用；一旦吃糖太频繁或清洁太少，产酸的物种就占上风，牙釉质被溶解，牙龈发炎。"

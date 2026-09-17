@@ -1,6 +1,6 @@
 ---
-title: "Enzyme cắt màng sinh học và thức ăn: từng loại làm gì"
-meta: "Dextranase, papain, bromelain, lysozyme, glucose oxidase: mỗi enzyme cắt thứ gì, vì sao mất keo thì màng sinh học rã ra, và điều gì thử nghiệm chưa cho thấy."
+title: "Enzyme tiêu hóa và enzyme cắt màng sinh học: ai làm gì"
+meta: "Dextranase, papain, bromelain, lysozyme, glucose oxidase: enzyme tiêu hóa nào cắt gì, vì sao mất keo thì màng sinh học rã ra, và thử nghiệm chưa cho thấy gì."
 kicker: "Enzyme"
 type: hubs
 topic: enzymes
@@ -9,10 +9,10 @@ slug: enzymes
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "enzyme tiêu hóa"
+  volume: 320
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Enzyme là protein chỉ cắt đúng một liên kết. Dextranase cắt keo đường của mảng bám răng; papain và bromelain cắt protein; lysozyme cắt vách vi khuẩn; glucose oxidase biến glucose thành chất sát khuẩn nhẹ. Không loại nào diệt diện rộng. Chúng gỡ cấu trúc — nên được thử để chống màng sinh học, không phải làm kháng sinh."

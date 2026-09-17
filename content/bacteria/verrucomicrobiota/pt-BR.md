@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Verrucomicrobiota (antes Verrucomicrobia) é um filo de bactérias cujo membro mais conhecido, Akkermansia muciniphila, vive na camada de muco do seu intestino grosso e a come. Com moderação, essa renovação alimenta a mucosa e acompanha marcadores metabólicos melhores. Em excesso, ou numa dieta pobre em fibras, o mesmo apetite afina a barreira."

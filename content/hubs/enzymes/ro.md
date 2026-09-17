@@ -1,6 +1,6 @@
 ---
-title: "Enzime care rup biofilme și hrană: cum lucrează fiecare"
-meta: "Dextranază, papaină, bromelaină, lizozim, glucozoxidază: ce taie fiecare enzimă, de ce cade un biofilm fără cleiul lui și ce nu au arătat studiile."
+title: "Enzime digestive și de biofilm: ce taie fiecare enzimă"
+meta: "Enzime digestive și enzime care rup biofilme: dextranază, papaină, bromelaină, lizozim, glucozoxidază — ce taie fiecare și ce nu au arătat studiile."
 kicker: "Enzime"
 type: hubs
 topic: enzymes
@@ -9,10 +9,10 @@ slug: enzymes
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "enzime digestive"
+  volume: 5400
   market: "RO (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "O enzimă este o proteină care taie o singură legătură anume. Dextranaza taie cleiul de zahăr al plăcii dentare; papaina și bromelaina taie proteine; lizozimul taie pereții celulari bacterieni; glucozoxidaza transformă glucoza într-un antiseptic blând. Niciuna nu omoară pe scară largă. Ele lucrează îndepărtând structura — de aceea sunt studiate împotriva biofilmelor, nu ca antibiotice."

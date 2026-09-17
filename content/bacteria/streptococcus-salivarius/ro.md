@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Romania (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus salivarius este un streptococ nevinovat care se așază pe limbă în câteva zile de la naștere și își apără peticul cu bacteriocine, antibiotice proteice contra rivalilor. Unele tulpini au fost testate pe durerea în gât și pe halenă, în studii mici și slabe. Rar părăsește gura, dar dusă pe un ac de puncție lombară a dat meningită."

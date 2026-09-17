@@ -9,10 +9,10 @@ slug: streptococcus-mutans
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "streptococcus mutans"
+  volume: 320
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Streptococcus mutans, dişlerinizdeki plakta yaşayan, şeker seven bir bakteridir. Sofra şekeriyle (sükroz) beslendiğinde, plağı dişe bağlayan yapışkan bir tutkal olan glukanı ve mineyi çözen laktik asidi üretir: çürüğün en iyi incelenmiş nedeni. İnsanların çoğu onu küçük yaştan beri taşır; taşıyana kanıtlanmış bir yararı yoktur ve bazı suşları kalbe ve beyne ulaşabilir."

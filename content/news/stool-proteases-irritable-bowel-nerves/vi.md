@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Các nhà nghiên cứu nhỏ phần dịch của phân người mắc hội chứng ruột kích thích lên mạng thần kinh ruột còn sống. Thần kinh phóng điện mạnh hơn hẳn so với dịch của người khỏe. Ở thể tiêu chảy, thủ phạm là enzyme cắt protein. Thần kinh đem thử là của chuột lang, không phải người."

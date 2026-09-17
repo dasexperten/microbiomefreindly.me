@@ -1,6 +1,6 @@
 ---
-title: "Bağırsak mikrobiyomu: bilim ne diyor, ne diyemiyor"
-meta: "Abartısız bağırsak mikrobiyomu: bağırsağınızdaki mikrop topluluğu ne yapar, herkesin sorduğu üç soru ve kanıtın tam olarak nerede bittiği."
+title: "Bağırsak florası nedir: bilim ne diyor, ne diyemiyor"
+meta: "Bağırsak florası nedir, abartısız: bağırsağınızdaki mikrop topluluğu ne yapar, herkesin sorduğu üç soru ve kanıtın tam olarak nerede bittiği."
 kicker: "Bağırsak mikrobiyomu"
 type: hubs
 topic: gut
@@ -9,10 +9,10 @@ slug: gut
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "bağırsak florası nedir"
+  volume: 1900
   market: "TR (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Bağırsak mikrobiyomu, çoğunlukla kalın bağırsakta yaşayan bakteri, arke, mantar ve virüs topluluğudur. Bizim sindiremediğimiz lifi sindirir, kısa zincirli yağ asitleri ve vitaminler üretir, bağışıklık sistemini eğitir ve bağırsak astarını tok tutar. Onu beslenme, doğum, antibiyotikler ve yaş biçimlendirir — ve günler içinde değişir."

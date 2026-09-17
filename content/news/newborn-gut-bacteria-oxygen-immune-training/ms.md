@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacteroides fragilis membina satu lemak ke dalam membrannya, iaitu alfa-galaktosilseramida. Kerja baharu dalam Cell melaporkan lemak itu mengetatkan membran daripada kebocoran proton, jadi anaerob ketat yang sepatutnya diracun udara bertahan melepasi oksigen usus bayi baru lahir, dan molekul yang sama melaras sel T pembunuh semula jadi yang membaca lemak. Tikus dan molekul sahaja; tiada bayi manusia diuji."

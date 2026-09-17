@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Pseudomonadota는 얼마 전까지 Proteobacteria라 불리던, 그람음성 세균의 거대한 문입니다. 세포벽이 얇고 바깥막이 하나 더 있다는 뜻입니다. E. coli와 Salmonella, Pseudomonas aeruginosa, Neisseria, 그리고 콩과 완두 뿌리에서 질소를 고정하는 뿌리혹박테리아가 여기 들어 있습니다. 건강한 사람도 장 군집의 작은 몫으로 이 문을 지니고 있으며, 병과 함께 오르는 것은 있느냐 없느냐가 아니라 그 양입니다."

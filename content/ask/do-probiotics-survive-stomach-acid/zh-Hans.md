@@ -1,6 +1,6 @@
 ---
 title: "益生菌能扛住胃酸吗？这问题问错了"
-meta: "胃酸确实杀死大多数被吞下的细菌，芽孢和包衣也确实改变胜算——但一个熬过这趟旅程的益生菌，仍可能永远住不进你体内。"
+meta: "胃酸和益生菌：胃酸确实杀死大多数被吞下的细菌，芽孢和包衣也确实改变胜算——但一个熬过这趟旅程的益生菌，仍可能永远住不进你体内。"
 kicker: "马格努斯解答"
 type: ask
 topic: gut
@@ -9,10 +9,11 @@ slug: do-probiotics-survive-stomach-acid
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "胃酸 益生菌"
+  keywordSimplified: "胃酸 益生菌"
+  volume: 50
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "有些能。产芽孢的菌靠构造就能活下来；娇嫩的菌株多半不行，不过包衣和一顿饭能提高胜算。存活是一条画错的终点线：唯一一项直接取样人肠黏膜的研究发现，吞下的菌株过关后确实还活着，却只在一部分人身上定植。路过不等于住下。"

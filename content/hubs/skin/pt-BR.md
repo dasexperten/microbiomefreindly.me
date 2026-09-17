@@ -1,6 +1,6 @@
 ---
-title: "Eixo intestino–pele: como o intestino fala com a sua pele"
-meta: "Como as bactérias do intestino, seus metabólitos e as células de defesa chegam à pele, o que perguntam sobre acne, eczema e rosácea, e o que segue sem prova."
+title: "Intestino e pele: por onde um fala com o outro"
+meta: "Intestino e pele: como as bactérias do intestino, seus metabólitos e as células de defesa chegam à pele, o que perguntam sobre acne, e o que segue sem prova."
 kicker: "Eixo intestino–pele"
 type: hubs
 topic: skin
@@ -9,10 +9,10 @@ slug: skin
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "intestino e pele"
+  volume: 50
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "O eixo intestino–pele é a via de mão dupla entre intestino e pele. As bactérias do intestino moldam as células de defesa e os metabólitos que chegam à pele; os micróbios da pele respondem a esse tom imune. Eczema, acne e rosácea acompanham mudanças no intestino — por inflamação, barreira e dieta, não porque bactérias viajem até o rosto."

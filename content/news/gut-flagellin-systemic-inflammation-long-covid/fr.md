@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "France (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Une étude de 2026 dans Gut propose que l'inflammation du covid long parte de l'intestin : la flagelline, la protéine dont les bactéries font leur queue, fuit et déclenche TLR5 sur les neutrophiles, qui libèrent l'IL-15 et poussent les macrophages à fabriquer de l'acide arachidonique jusqu'à ce que des organes lointains s'enflamment. Le test causal n'a porté que sur des souris."

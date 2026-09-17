@@ -1,6 +1,6 @@
 ---
-title: "Trzy dni zmienią twoje jelita. Potem wrócą do siebie"
-meta: "Trzydniowy reset jelit sprzedają wszędzie. Pomiary mówią: bakterie jelitowe przesuwają się w dobę, wracają w dwie i trzymają 60 % szczepów przez lata."
+title: "Jak odbudować mikrobiom jelitowy? Nie w trzy dni"
+meta: "Jak odbudować mikrobiom jelitowy: nie trzydniowym resetem. Bakterie przesuwają się w dobę, wracają w dwie i trzymają 60 % szczepów przez lata."
 kicker: "Sprawdzamy mit"
 type: myth
 topic: gut
@@ -9,10 +9,10 @@ slug: you-can-reset-your-gut-in-three-days
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "jak odbudowac mikrobiom jelitowy"
+  volume: 50
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Fałsz. Jedzenie naprawdę porusza społeczność jelit, i to szybko. Jedenaścioro ochotników jadło po kolei dwie skrajne diety: mieszanka przesunęła się dobę po dotarciu jedzenia i wróciła dwa dni po końcu diety (Nature, 2014). Około 60 % szczepów dorosłego jest na miejscu pięć lat później (Science, 2013). Trzy dni zmieniają odczyt, nie mieszkańców."

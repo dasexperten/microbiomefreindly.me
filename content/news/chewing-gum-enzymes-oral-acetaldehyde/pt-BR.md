@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "BR (Ubersuggest locId 2076)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Micróbios da saliva de pacientes com câncer de cabeça e pescoço transformaram açúcar e álcool em acetaldeído, cancerígeno do Grupo 1, a mesma categoria do cigarro. A produção teve pico em 100 mM de açúcar. Um peptídeo antimicrobiano parou isso, mas micróbios abrigados no biofilme só morreram quando enzimas dissolveram a placa. Só em laboratório: sem ensaio em pessoas."

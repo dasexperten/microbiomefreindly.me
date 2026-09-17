@@ -1,6 +1,6 @@
 ---
-title: "Ce dont l'enduit de votre langue est vraiment fait"
-meta: "Le film blanc sur la langue, ce sont surtout vos cellules mortes et des bactéries. De quoi il est fait, pourquoi il sent, et quand il devient suspect."
+title: "Langue blanche : de quoi cet enduit est vraiment fait"
+meta: "La langue blanche, c'est surtout vos cellules mortes et des bactéries. De quoi cet enduit est fait, pourquoi il sent, et quand il devient suspect."
 kicker: "Magnus répond"
 type: ask
 topic: oral
@@ -9,10 +9,10 @@ slug: is-a-coated-tongue-bad
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "langue blanche"
+  volume: 18100
   market: "FR (Ubersuggest locId 2250)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Le plus souvent, c'est normal. Ce film, ce sont des cellules mortes, des restes d'aliments et des bactéries anaérobies, prises entre les papilles. Chez le jeune adulte, un enduit fin à l'arrière, blanc ou jaunâtre, est la règle, pas une alerte. Trois choses changent cela : il s'épaissit, il s'essuie sur un tissu à vif, ou la bouche s'est asséchée."

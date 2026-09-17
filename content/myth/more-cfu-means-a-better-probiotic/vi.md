@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Vietnam (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Đúng một phần. Liều có ý nghĩa, nhưng chỉ trong một chủng và một kết cục. Một thử nghiệm thấy 100 tỷ CFU (đơn vị hình thành khuẩn lạc) hơn 50 tỷ với tiêu chảy do kháng sinh; thử nghiệm khác thấy gấp một trăm lần cùng vi khuẩn đó chẳng đổi gì ở trẻ tiêu chảy cấp."

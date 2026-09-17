@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "Philippines (Ubersuggest locId 2608)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Ang mouth microbiome ay ang komunidad ng bacteria sa ngipin, gilagid, dila at pisngi. Sa ngipin, plaque ang binubuo nito — isang organisadong biofilm na pinagdidikit ng asukal na sila mismo ang gumagawa. Kapag balanse, nagpoprotekta ito; kapag madalas ang matamis o bihira ang paglilinis, nangingibabaw ang gumagawa ng asido, natutunaw ang enamel at namamaga ang gilagid."

@@ -1,6 +1,6 @@
 ---
-title: "Tak, ale nie wszystko: twoje jelita po antybiotykach"
-meta: "Dwunastu zdrowych mężczyzn, trzy antybiotyki ostatniej szansy, pół roku próbek: skład wrócił blisko punktu wyjścia w 1,5 miesiąca. Dziewięciu gatunków nie."
+title: "Ile trwa odbudowa flory bakteryjnej jelit? Półtora miesiąca"
+meta: "Ile trwa odbudowa flory bakteryjnej jelit: dwunastu mężczyzn, trzy antybiotyki, pół roku próbek — skład wrócił w 1,5 miesiąca. Dziewięciu gatunków nie."
 kicker: "Magnus odpowiada"
 type: ask
 topic: gut
@@ -9,10 +9,10 @@ slug: can-i-rebuild-my-gut-after-antibiotics
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "ile trwa odbudowa flory bakteryjnej jelit"
+  volume: 260
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "W większości tak. U 12 zdrowych mężczyzn, którym przez cztery dni podawano trzy antybiotyki (Nature Microbiology, 2018), społeczność jelitowa wróciła blisko punktu wyjścia w około 1,5 miesiąca, ale dziewięciu gatunków obecnych wcześniej u wszystkich nadal nie wykrywano u większości w 180. dniu. Odbudowa jest prawdziwa, niepełna i u jednych wolniejsza niż u innych."

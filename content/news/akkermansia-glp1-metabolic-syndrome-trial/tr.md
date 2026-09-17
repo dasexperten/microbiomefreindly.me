@@ -1,6 +1,6 @@
 ---
-title: "GLP-1'i yükselten ama hedefini ıskalayan bağırsak mikrobu"
-meta: "2026 Gut Microbes çalışması, 142 yetişkin: ısıyla öldürülmüş Akkermansia ana hedefi insülin duyarlılığını ıskaladı, ama şeker sonrası GLP-1'i yükseltti."
+title: "Akkermansia probiyotik hedefini ıskaladı, GLP-1'i yükseltti"
+meta: "Akkermansia probiyotik denemesi, 142 yetişkin: ısıyla öldürülmüş suş ana hedefi insülin duyarlılığını ıskaladı, ama şeker sonrası GLP-1'i yükseltti."
 kicker: "Akkermansia"
 type: news
 topic: metabolic
@@ -9,10 +9,10 @@ slug: akkermansia-glp1-metabolic-syndrome-trial
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "akkermansia probiyotik"
+  volume: 2400
   market: "Türkiye (Ubersuggest locId 2792)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Gut Microbes dergisinde 2026'da yayımlanan 142 kişilik bir çalışmada, dört aylık pastörize (ısıyla öldürülmüş) Akkermansia muciniphila, sınamak için kurulduğu tek şeyi, yani tüm vücut insülin duyarlılığını iyileştirmedi. Soruyu yanıtlamayan, soru doğuran keşif analizlerinde ise şekerli içecekten sonra vücudun kendi GLP-1'ini yükseltti ve prediyabetli katılımcılarda karaciğerin insülin duyarlılığını kımıldattı."

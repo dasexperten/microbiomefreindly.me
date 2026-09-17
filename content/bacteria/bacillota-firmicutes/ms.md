@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Bacillota ialah filum bakteria yang dahulu dipanggil Firmicutes, dinamakan semula pada 2021 apabila nama filum diseragamkan secara rasmi. Ia salah satu daripada dua kumpulan dominan dalam kolon manusia, menaungi pengeluar butirat yang memberi makan lapisan usus dan juga patogen seperti Clostridioides difficile; namun 'nisbah Firmicutes kepada Bacteroidetes' yang popular itu bukan penanda obesiti yang boleh dipercayai."

@@ -1,6 +1,6 @@
 ---
-title: "Akkermansia podniosła GLP-1 — i nie trafiła w cel"
-meta: "Badanie Gut Microbes 2026, 142 dorosłych: zabita ciepłem Akkermansia nie poprawiła wrażliwości na insulinę, ale podniosła własne GLP-1 po napoju z glukozą."
+title: "Akkermansia muciniphila jako probiotyk: nietrafiony cel"
+meta: "Akkermansia muciniphila jako probiotyk, 142 dorosłych, Gut Microbes 2026: nie poprawiła wrażliwości na insulinę, ale podniosła własne GLP-1 po glukozie."
 kicker: "Akkermansia"
 type: news
 topic: metabolic
@@ -9,10 +9,10 @@ slug: akkermansia-glp1-metabolic-syndrome-trial
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "akkermansia muciniphila probiotyk"
+  volume: 880
   market: "PL (Ubersuggest locId 2616)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "W badaniu z udziałem 142 osób, Gut Microbes 2026, cztery miesiące pasteryzowanej (zabitej ciepłem) Akkermansia muciniphila nie poprawiły wrażliwości całego ciała na insulinę — jedynej rzeczy, dla której badanie zbudowano. W analizach eksploracyjnych, które stawiają pytania, zamiast je rozstrzygać, podniosła własne GLP-1 po napoju z glukozą i lekko poruszyła wątrobową wrażliwość na insulinę u osób ze stanem przedcukrzycowym."

@@ -11,8 +11,8 @@ asOf: 2026-09-02
 seo:
   keyword: "pending"
   volume: 0
-  market: "MY (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  market: "Malaysia (Ubersuggest locId 2458)"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Para penyelidik mengambil bahagian cecair najis daripada orang yang menghidap sindrom usus rengsa lalu meneteskannya ke atas rangkaian saraf usus yang hidup. Saraf itu mencetus jauh lebih kuat berbanding dengan cecair najis daripada orang yang sihat. Enzim pemotong protein menjelaskan kesan itu dalam subjenis cirit-birit. Saraf yang diuji ialah saraf tikus belanda, bukan saraf manusia."

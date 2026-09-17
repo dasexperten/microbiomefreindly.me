@@ -1,6 +1,6 @@
 ---
-title: "Lactobacillus는 장에 거의 없다"
-meta: "Lactobacillus가 무엇이고 몸속 어디에 실제로 사는지, 시험에서 무엇이 되고 무엇이 안 되는지, 그리고 2020년에 이 속이 왜 25개 속으로 쪼개졌는지."
+title: "락토바실러스는 장에 거의 없다"
+meta: "락토바실러스(Lactobacillus)가 무엇이고 몸속 어디에 실제로 사는지, 시험에서 무엇이 되고 무엇이 안 되는지, 그리고 2020년에 이 속이 왜 25개 속으로 쪼개졌는지."
 kicker: "Lactobacillus"
 type: bacteria
 topic: gut
@@ -9,10 +9,10 @@ slug: lactobacillus
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
-  market: "KR (Ubersuggest locId 2410; Naver check also required)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  keyword: "락토바실러스"
+  volume: 1300
+  market: "KR (Ubersuggest locId 2410; Naver not measured)"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Lactobacillus는 젖산을 만드는 세균 속으로, 발효식품과 입안, 질에 살고 장에는 아주 적게 있습니다. 프로바이오틱스 시험에서는 항생제 설사를 막는 효과가 확인됐지만, 대규모 시험 하나는 장염에 효과가 없다고 보고했습니다. 2020년 유전체 자료가 옛 속을 25개 속으로 쪼개면서 익숙한 이름들이 바뀌었습니다."

@@ -1,6 +1,6 @@
 ---
-title: "Tiga hari mengubah usus anda. Kemudian ia berbalik"
-meta: "Set semula usus tiga hari dijual di mana-mana. Ukuran kata bakteria usus beralih dalam sehari, berbalik dalam dua, dan kekalkan 60 % strainnya bertahun-tahun."
+title: "Detox usus tiga hari: ia berubah, kemudian ia berbalik"
+meta: "Detox usus tiga hari dijual di mana-mana. Ukuran kata bakteria usus beralih dalam sehari, berbalik dalam dua, dan kekalkan 60 % strainnya bertahun-tahun."
 kicker: "Semak mitos"
 type: myth
 topic: gut
@@ -9,10 +9,10 @@ slug: you-can-reset-your-gut-in-three-days
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "detox usus"
+  volume: 110
   market: "Malaysia (Ubersuggest locId 2458)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "Palsu. Makanan memang menggerakkan komuniti usus, dan dengan cepat. Sebelas sukarelawan makan dua diet melampau secara bergilir: campurannya beralih sehari selepas makanan itu tiba dan kembali dua hari selepas diet itu berhenti (Nature, 2014). Kira-kira 60 % strain seorang dewasa masih ada lima tahun kemudian (Science, 2013). Tiga hari mengubah bacaan, bukan penduduknya."

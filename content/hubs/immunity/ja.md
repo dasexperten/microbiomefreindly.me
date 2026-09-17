@@ -1,6 +1,6 @@
 ---
-title: "免疫の寛容は生まれつきではなく学ぶもの"
-meta: "免疫の大半は細菌のすぐ隣にあります。細菌がマクロファージと寛容と炎症をどう形づくるのか、よく聞かれること、そしてまだ未証明のこと。"
+title: "免疫力とは何か、細菌が教える寛容"
+meta: "免疫力とは何か。免疫の大半は細菌のすぐ隣にあります。細菌がマクロファージと寛容と炎症をどう形づくるのか、よく聞かれること、そしてまだ未証明のこと。"
 kicker: "細菌と免疫"
 type: hubs
 topic: immunity
@@ -9,10 +9,10 @@ slug: immunity
 date: 2026-09-02
 asOf: 2026-09-02
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "免疫力とは"
+  volume: 2400
   market: "Japan (Ubersuggest locId 2392)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "免疫は微生物を排除するためにできているのではなく、微生物と暮らすためにできています。腸粘膜の上の細菌が、マクロファージや制御性T細胞に、どの合図が危険でどの合図が隣人なのかを教えます。寛容と呼ばれるこの学習は生まれた日に始まります。うまくいかなかったとき起きるのは感染ではなく、慢性の炎症です。"

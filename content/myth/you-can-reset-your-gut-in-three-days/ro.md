@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "RO (Ubersuggest locId 2642)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Fals. Mâncarea chiar mișcă comunitatea din intestin, și repede. Unsprezece voluntari au ținut pe rând două diete extreme: amestecul s-a schimbat la o zi după masă și a revenit la două zile după oprirea dietei (Nature, 2014). Circa 60 % din tulpinile unui adult sunt acolo și după cinci ani (Science, 2013). Trei zile schimbă citirea, nu locatarii."

@@ -1,6 +1,6 @@
 ---
-title: "漱口水杀掉了血压需要的那些微生物"
-meta: "杀掉更多口腔细菌总是更好吗？2013 年的一项试验说不是：连续七天用抗菌漱口水，口腔亚硝酸盐下降 90 %，血压被推高了一点。"
+title: "漱口水可以每天用吗？血压说不一定"
+meta: "漱口水可以每天用吗？2013 年的一项试验说不一定：连续七天用抗菌漱口水，口腔亚硝酸盐下降 90 %，血压被推高了一点。"
 kicker: "传言核查"
 type: myth
 topic: oral
@@ -9,10 +9,11 @@ slug: antibacterial-mouthwash-is-always-good
 date: 2026-09-04
 asOf: 2026-09-04
 seo:
-  keyword: "pending"
-  volume: 0
+  keyword: "漱口水可以每天用嗎"
+  keywordSimplified: "漱口水可以每天用吗"
+  volume: 1300
   market: "TW traditional → zh-Hans (Ubersuggest locId 2158)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17"
 author: magnus-larsen
 voice: greger
 answer: "错误。广谱抗菌漱口水没法把有害微生物和有用微生物分开，于是把你口腔自己的群落一并压平。在 2013 年的一项试验里，连用七天氯己定漱口，口腔亚硝酸盐——身体用来放松血管的原料——下降 90 %，血压升高 2–3.5 mmHg。漱口水治的是一个问题，不是一种日常。"

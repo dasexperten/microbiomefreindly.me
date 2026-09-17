@@ -12,7 +12,7 @@ seo:
   keyword: "pending"
   volume: 0
   market: "VN (Ubersuggest locId 2704)"
-  pulled: "2026-09-16 — daily report quota exhausted, measure tomorrow"
+  pulled: "2026-09-17 — not reached within the report budget"
 author: magnus-larsen
 voice: greger
 answer: "Là độ đa dạng ruột lúc bạn bắt đầu, theo một nghiên cứu. Trong thử nghiệm ngẫu nhiên mù đôi 12 tuần trên 120 người thừa cân (Gut Microbes, 2026), Lactiplantibacillus plantarum LRCC5282 đun chết không đổi gì tính trung bình. Chỉ người có ruột kém đa dạng nhất mới giảm cân, BMI và leptin nhiều hơn giả dược."
