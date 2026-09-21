@@ -1,0 +1,189 @@
+{
+  "asOf": "2026-09-21",
+  "days": 14,
+  "items": [
+    {
+      "row": "pubmed-gut-trials",
+      "lane": "gut",
+      "pmid": "42755786",
+      "doi": "10.3389/fpubh.2026.1870879",
+      "title": "The effectiveness of the intervention model based on cognitive behavioral therapy in reducing risky sexual behaviors among MSM.",
+      "journal": "Frontiers in public health",
+      "date": "2026/09/03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42755786/",
+      "authors": "Xiang X, Zhai X, Lei Y"
+    },
+    {
+      "row": "pubmed-gut-trials",
+      "lane": "gut",
+      "pmid": "42754908",
+      "doi": "10.1186/s13073-026-01765-0",
+      "title": "Machine learning identifies microbiome and clinical predictors of sustained weight loss following prolonged fasting.",
+      "journal": "Genome medicine",
+      "date": "2026/09/16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42754908/",
+      "authors": "Kaufhold G, Bartolomaeus TUP, Schütte K"
+    },
+    {
+      "row": "pubmed-gut-trials",
+      "lane": "gut",
+      "pmid": "42739025",
+      "doi": "10.3390/nu18172854",
+      "title": "Sourdough Bread and Baker's Yeast Bread Affect Gut Symptoms and Targeted Gut Microbial Taxa Differently: A Randomised Controlled Trial.",
+      "journal": "Nutrients",
+      "date": "2026/09/01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42739025/",
+      "authors": "Watters SIN, Henriksen C, Gjøvik M"
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "AP2-HS and a GDV1 regulatory feedback loop mediate environmental induction of sexual conversion in <i>Plasmodium falciparum</i>",
+      "url": "https://www.nature.com/articles/s41564-026-02473-6",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Sequential gene loss promotes expansion of monophasic <i>Salmonella</i> Typhimurium ST34",
+      "url": "https://www.nature.com/articles/s41564-026-02483-4",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "In vivo CRISPRi screens reveal <i>Escherichia coli</i> functional adaptations in the mouse gut",
+      "url": "https://www.nature.com/articles/s41564-026-02471-8",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Functional capacities drive recruitment of bacteria into plant root microbiota",
+      "url": "https://www.nature.com/articles/s41564-026-02493-2",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Bacterial growth rate in populations and single cells",
+      "url": "https://www.nature.com/articles/s41564-026-02449-6",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Convergent use of aminopeptidase N receptor by hedgehog merbecoviruses",
+      "url": "https://www.nature.com/articles/s41564-026-02478-1",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Aminopeptidase N is a receptor for hedgehog merbecoviruses",
+      "url": "https://www.nature.com/articles/s41564-026-02447-8",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Prophage-encoding engineered bacteria enable prophylactic lytic phage therapy for enteric infection in mice",
+      "url": "https://www.nature.com/articles/s41564-026-02484-3",
+      "date": ""
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Speaker spotlight: Prof. Michael Gänzle on current directions in research on lactobacilli",
+      "url": "https://isappscience.org/speaker-spotlight-prof-michael-ganzle-on-current-directions-in-research-on-lactobacilli/",
+      "date": "Sat, 29 Aug 2026 23:05:53"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Better study design for better probiotic science",
+      "url": "https://isappscience.org/better-study-design-for-better-probiotic-science/",
+      "date": "Wed, 19 Aug 2026 04:56:15"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Expert insights into skin microbiome research and translation",
+      "url": "https://isappscience.org/expert-insights-into-skin-microbiome-research-and-translation/",
+      "date": "Mon, 27 Jul 2026 05:02:04"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Probiotics with antibiotics: Let&#8217;s follow the evidence",
+      "url": "https://isappscience.org/probiotics-with-antibiotics-evidence/",
+      "date": "Thu, 11 Jun 2026 02:51:27"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "ISAPP welcomes participation in upcoming one-day scientific symposium in Tokyo",
+      "url": "https://isappscience.org/upcoming-one-day-symposium-in-tokyo/",
+      "date": "Wed, 27 May 2026 18:26:10"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "When probiotics guidelines differ: a practical guide for clinicians and researchers",
+      "url": "https://isappscience.org/when-probiotics-guidelines-differ-a-practical-guide-for-clinicians-and-researchers/",
+      "date": "Wed, 06 May 2026 05:26:22"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "New ISAPP publication sheds light on the translation of probiotic research into clinical guidelines",
+      "url": "https://isappscience.org/translation-of-probiotic-research-into-clinical-guidelines/",
+      "date": "Mon, 27 Apr 2026 17:57:48"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Alcohol in fermented foods: Considerations for pregnancy and childhood",
+      "url": "https://isappscience.org/alcohol-in-fermented-foods-considerations-for-pregnancy-and-childhood/",
+      "date": "Thu, 02 Apr 2026 21:33:29"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Biotics, oral microbiota and potential for dental applications",
+      "url": "https://isappscience.org/biotics-oral-microbiota-and-potential-for-dental-applications/",
+      "date": "Tue, 24 Mar 2026 21:58:05"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Fido Needs an Antibiotic: Are There Strategies to Maintain Gut Integrity and Restore Gut Microbiota?",
+      "url": "https://isappscience.org/fido-needs-an-antibiotic/",
+      "date": "Mon, 23 Feb 2026 22:34:52"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "How do you know whether your gut microbiome is in good shape?",
+      "url": "https://isappscience.org/how-do-you-know-healthy-microbiome/",
+      "date": "Wed, 28 Jan 2026 17:32:45"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Canada’s Fermented Foods Initiative Hosts Inaugural Workshop: A Cross-Sector Conversation Begins",
+      "url": "https://isappscience.org/canadas-fermented-foods-initiative-hosts-inaugural-workshop-a-cross-sector-conversation-begins/",
+      "date": "Wed, 28 Jan 2026 00:52:40"
+    }
+  ],
+  "gaps": [
+    {
+      "row": "rss-eurekalert-microbiology",
+      "error": "HTTP 404"
+    },
+    {
+      "row": "rss-gut-bmj",
+      "error": "HTTP 429"
+    }
+  ]
+}
