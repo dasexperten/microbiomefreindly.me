@@ -1,0 +1,393 @@
+{
+  "asOf": "2026-09-28",
+  "days": 14,
+  "items": [
+    {
+      "row": "pubmed-gut-trials",
+      "lane": "gut",
+      "pmid": "42796927",
+      "doi": "10.3390/nu18182945",
+      "title": "Dietary Fiber Supplementation Reduces Systolic Blood Pressure in High-Risk Patients with Type 2 Diabetes and Hypertension: A Secondary Analysis of a Randomized Trial.",
+      "journal": "Nutrients",
+      "date": "2026/09/08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42796927/",
+      "authors": "Pino-Villalón JL, Parada-Flores B, Arredondo M"
+    },
+    {
+      "row": "pubmed-gut-trials",
+      "lane": "gut",
+      "pmid": "42775700",
+      "doi": "10.1111/acel.70724",
+      "title": "Associations Between Gut Microbiota and Immune Profiles in Community-Dwelling Older Adults and the Regulatory Role of Polygonatum odoratum.",
+      "journal": "Aging cell",
+      "date": "2026/10/01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42775700/",
+      "authors": "Xia T, Wu H, Cui T"
+    },
+    {
+      "row": "pubmed-gut-trials",
+      "lane": "gut",
+      "pmid": "42770625",
+      "doi": "10.36721/PJPS.2026.39.12.357.1",
+      "title": "Effect of Chinese medicine compound on intestinal bifidobacteria recovery and CD4+ T-Cell activation in postoperative chemotherapy patients with breast cancer.",
+      "journal": "Pakistan journal of pharmaceutical sciences",
+      "date": "2026/12/01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42770625/",
+      "authors": "Wei T, Li X, Guo Z"
+    },
+    {
+      "row": "pubmed-gut-trials",
+      "lane": "gut",
+      "pmid": "42755786",
+      "doi": "10.3389/fpubh.2026.1870879",
+      "title": "The effectiveness of the intervention model based on cognitive behavioral therapy in reducing risky sexual behaviors among MSM.",
+      "journal": "Frontiers in public health",
+      "date": "2026/09/03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42755786/",
+      "authors": "Xiang X, Zhai X, Lei Y"
+    },
+    {
+      "row": "pubmed-gut-trials",
+      "lane": "gut",
+      "pmid": "42754908",
+      "doi": "10.1186/s13073-026-01765-0",
+      "title": "Machine learning identifies microbiome and clinical predictors of sustained weight loss following prolonged fasting.",
+      "journal": "Genome medicine",
+      "date": "2026/09/16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42754908/",
+      "authors": "Kaufhold G, Bartolomaeus TUP, Schütte K"
+    },
+    {
+      "row": "pubmed-gut-trials",
+      "lane": "gut",
+      "pmid": "42739025",
+      "doi": "10.3390/nu18172854",
+      "title": "Sourdough Bread and Baker's Yeast Bread Affect Gut Symptoms and Targeted Gut Microbial Taxa Differently: A Randomised Controlled Trial.",
+      "journal": "Nutrients",
+      "date": "2026/09/01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42739025/",
+      "authors": "Watters SIN, Henriksen C, Gjøvik M"
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Defining the essential genome of diverse phages with phage Tn-seq",
+      "url": "https://www.nature.com/articles/s41564-026-02486-1",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Systematic mapping of bacteriophage gene essentiality with HIDEN-SEQ",
+      "url": "https://www.nature.com/articles/s41564-026-02455-8",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "<i>Pseudomonas aeruginosa</i> induces the generation of pathogenic IFNγ<sup>+</sup>Th17 cells that promote lung damage and chronic inflammation in cystic fibrosis",
+      "url": "https://www.nature.com/articles/s41564-026-02469-2",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "AP2-HS and a GDV1 regulatory feedback loop mediate environmental induction of sexual conversion in <i>Plasmodium falciparum</i>",
+      "url": "https://www.nature.com/articles/s41564-026-02473-6",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Sequential gene loss promotes expansion of monophasic <i>Salmonella</i> Typhimurium ST34",
+      "url": "https://www.nature.com/articles/s41564-026-02483-4",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "In vivo CRISPRi screens reveal <i>Escherichia coli</i> functional adaptations in the mouse gut",
+      "url": "https://www.nature.com/articles/s41564-026-02471-8",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Functional capacities drive recruitment of bacteria into plant root microbiota",
+      "url": "https://www.nature.com/articles/s41564-026-02493-2",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Bacterial growth rate in populations and single cells",
+      "url": "https://www.nature.com/articles/s41564-026-02449-6",
+      "date": ""
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "ISAPP President Prof. Maria Marco Honored with LABIP Award at 15th Annual International Symposium on Lactic Acid Bacteria",
+      "url": "https://isappscience.org/maria-marco-labip-award/",
+      "date": "Fri, 25 Sep 2026 06:48:22"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Harnessing the power of fermented foods as bioactive delivery systems",
+      "url": "https://isappscience.org/fermented-foods-as-bioactive-delivery-systems/",
+      "date": "Fri, 25 Sep 2026 06:22:25"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Speaker spotlight: Prof. Michael Gänzle on current directions in research on lactobacilli",
+      "url": "https://isappscience.org/speaker-spotlight-prof-michael-ganzle-on-current-directions-in-research-on-lactobacilli/",
+      "date": "Sat, 29 Aug 2026 23:05:53"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Better study design for better probiotic science",
+      "url": "https://isappscience.org/better-study-design-for-better-probiotic-science/",
+      "date": "Wed, 19 Aug 2026 04:56:15"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Expert insights into skin microbiome research and translation",
+      "url": "https://isappscience.org/expert-insights-into-skin-microbiome-research-and-translation/",
+      "date": "Mon, 27 Jul 2026 05:02:04"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Probiotics with antibiotics: Let&#8217;s follow the evidence",
+      "url": "https://isappscience.org/probiotics-with-antibiotics-evidence/",
+      "date": "Thu, 11 Jun 2026 02:51:27"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "ISAPP welcomes participation in upcoming one-day scientific symposium in Tokyo",
+      "url": "https://isappscience.org/upcoming-one-day-symposium-in-tokyo/",
+      "date": "Wed, 27 May 2026 18:26:10"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "When probiotics guidelines differ: a practical guide for clinicians and researchers",
+      "url": "https://isappscience.org/when-probiotics-guidelines-differ-a-practical-guide-for-clinicians-and-researchers/",
+      "date": "Wed, 06 May 2026 05:26:22"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "New ISAPP publication sheds light on the translation of probiotic research into clinical guidelines",
+      "url": "https://isappscience.org/translation-of-probiotic-research-into-clinical-guidelines/",
+      "date": "Mon, 27 Apr 2026 17:57:48"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Alcohol in fermented foods: Considerations for pregnancy and childhood",
+      "url": "https://isappscience.org/alcohol-in-fermented-foods-considerations-for-pregnancy-and-childhood/",
+      "date": "Thu, 02 Apr 2026 21:33:29"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Biotics, oral microbiota and potential for dental applications",
+      "url": "https://isappscience.org/biotics-oral-microbiota-and-potential-for-dental-applications/",
+      "date": "Tue, 24 Mar 2026 21:58:05"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Fido Needs an Antibiotic: Are There Strategies to Maintain Gut Integrity and Restore Gut Microbiota?",
+      "url": "https://isappscience.org/fido-needs-an-antibiotic/",
+      "date": "Mon, 23 Feb 2026 22:34:52"
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "New frontier in albumin replacement therapy",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/1873?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Partial cure of chronic hepatitis B: potential implications for HCC surveillance?",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/1874?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "PEG is back: revisiting the role of pegylated interferon alfa and benchmarking its place in HBV cure strategies",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/1876?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Role of TL1A in perianal fistulising Crohns disease: a new therapeutic target?",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/1878?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "When the vascular lining loosens, dysfunctional macrophages permit pathological bacterial translocation in cirrhosis",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/1880?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Parental obesity imprints offspring risk for MASLD: act now to protect future generations",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/1881?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Endoscopic injection of autologous fat tissue for the treatment of chronic gastrointestinal fistulas",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/1883?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Unusual case of diarrhoea",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/1886?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Rome V global epidemiology and validation survey: prevalence of disorders of gut-brain interaction and comparison with the Rome IV global epidemiology study",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/1887?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Multinational prevalence and burden of paediatric disorders of gut-brain interaction: results of the Rome Foundation paediatric global study",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/1898?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Kynurenic acid mitigates poststroke brain damage through the gut-brain neural circuit",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/1910?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "TL1A-activated T cells remodel the rectal mucosa in patients with Crohns disease with perianal fistulising disease",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/1922?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Intestinal blood vessel-associated macrophages and gut-vascular barrier dysfunction in cirrhosis",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/1934?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "SDC1+ CAFs secreting CTGF drive tumour metastasis via FGFR3 signalling in cancers",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/1950?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Acinetobacter baumannii promotes gastric cancer metastasis via NA-mediated NAD metabolism reprogramming and glycolytic activation",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/1963?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Trogocytosis-orchestrated CLDN18.2-\"dressed\" CD8+ T cells drive pancreatic cancer progression via glucose metabolic reprogramming-induced cytotoxicity debilitation and systematic immune senescence cascade",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/1983?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "HBsAg decline and clearance with peg-IFN therapy added to nucleos(t)ide analogues: an individual participant data meta-analysis of prospective trials (PROSPER)",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/2000?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Colorectal cancer in metabolic dysfunction-associated steatotic liver disease: an international Delphi consensus statement",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/2009?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Parental obesity and risk of metabolic dysfunction associated steatotic liver disease in adult offspring: UK birth cohort study",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/2019?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Characterisation of plasmablast-derived HBsAg-specific antibody and its structural basis for binding to native HBsAg dimer",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/2028?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "From preclinical phase of Crohns disease to postoperative recurrence: shared mechanisms and potential interventions",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/2044?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "CPS1: a multipurpose mitochondrial enzyme, bile protein, acute liver injury biomarker, and cytokine",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/2055?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "GI highlights from the literature",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/2069?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Response to: 'Rectal versus colonic submucosal cancer rates and procedural outcomes in large non-pedunculated polyps: French ESD registry data by Van der Voort et al",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/2071?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Pharmacological trials of early intervention in predicted severe acute pancreatitis: implications for therapeutic window and core outcome set",
+      "url": "http://gut.bmj.com/cgi/content/short/75/10/2072?rss=1",
+      "date": ""
+    }
+  ],
+  "gaps": [
+    {
+      "row": "rss-eurekalert-microbiology",
+      "error": "HTTP 404"
+    }
+  ]
+}
