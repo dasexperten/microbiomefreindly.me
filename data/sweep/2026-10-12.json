@@ -1,0 +1,338 @@
+{
+  "asOf": "2026-10-12",
+  "days": 14,
+  "items": [
+    {
+      "row": "pubmed-gut-trials",
+      "lane": "gut",
+      "pmid": "42841652",
+      "doi": "10.1080/19490976.2026.2743949",
+      "title": "Synbiotic supplementation leads to gut microbiome communities with functional capacity linked to better brain white matter development in preterm infants.",
+      "journal": "Gut microbes",
+      "date": "2026/12/31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42841652/",
+      "authors": "Voulgari-Kokota A, Janson E, Heikamp de Jong I"
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Family matters in the root microbiota",
+      "url": "https://www.nature.com/articles/s41564-026-02507-z",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Sickle cell haemoglobin status shapes malaria parasite genotype in asymptomatic infections",
+      "url": "https://www.nature.com/articles/s41564-026-02502-4",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Bacteria regulate collective behaviour by mechanosensing cell–cell collisions",
+      "url": "https://www.nature.com/articles/s41564-026-02505-1",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Thiamine cross-feeding drives microbial coexistence in the leaf microbiome",
+      "url": "https://www.nature.com/articles/s41564-026-02499-w",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Author Correction: Early-life colonization by aromatic-lactate-producing bifidobacteria lowers the risk of allergic sensitization",
+      "url": "https://www.nature.com/articles/s41564-026-02524-y",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "A conserved GTPase complex gates exocytosis for defence and parasitism across alveolates",
+      "url": "https://www.nature.com/articles/s41564-026-02501-5",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Synergy between Enterobacteriaceae and diet mediates competition between dominant Bacteroidales in the human gut",
+      "url": "https://www.nature.com/articles/s41564-026-02500-6",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Carbohydrate-active enzymes from a core root mycobiota member enable infection of multiple plant hosts",
+      "url": "https://www.nature.com/articles/s41564-026-02492-3",
+      "date": ""
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "ISAPP President Prof. Maria Marco Honored with LABIP Award at 15th Annual International Symposium on Lactic Acid Bacteria",
+      "url": "https://isappscience.org/maria-marco-labip-award/",
+      "date": "Fri, 25 Sep 2026 06:48:22"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Harnessing the power of fermented foods as bioactive delivery systems",
+      "url": "https://isappscience.org/fermented-foods-as-bioactive-delivery-systems/",
+      "date": "Fri, 25 Sep 2026 06:22:25"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Speaker spotlight: Prof. Michael Gänzle on current directions in research on lactobacilli",
+      "url": "https://isappscience.org/speaker-spotlight-prof-michael-ganzle-on-current-directions-in-research-on-lactobacilli/",
+      "date": "Sat, 29 Aug 2026 23:05:53"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Better study design for better probiotic science",
+      "url": "https://isappscience.org/better-study-design-for-better-probiotic-science/",
+      "date": "Wed, 19 Aug 2026 04:56:15"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Expert insights into skin microbiome research and translation",
+      "url": "https://isappscience.org/expert-insights-into-skin-microbiome-research-and-translation/",
+      "date": "Mon, 27 Jul 2026 05:02:04"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Probiotics with antibiotics: Let&#8217;s follow the evidence",
+      "url": "https://isappscience.org/probiotics-with-antibiotics-evidence/",
+      "date": "Thu, 11 Jun 2026 02:51:27"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "ISAPP welcomes participation in upcoming one-day scientific symposium in Tokyo",
+      "url": "https://isappscience.org/upcoming-one-day-symposium-in-tokyo/",
+      "date": "Wed, 27 May 2026 18:26:10"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "When probiotics guidelines differ: a practical guide for clinicians and researchers",
+      "url": "https://isappscience.org/when-probiotics-guidelines-differ-a-practical-guide-for-clinicians-and-researchers/",
+      "date": "Wed, 06 May 2026 05:26:22"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "New ISAPP publication sheds light on the translation of probiotic research into clinical guidelines",
+      "url": "https://isappscience.org/translation-of-probiotic-research-into-clinical-guidelines/",
+      "date": "Mon, 27 Apr 2026 17:57:48"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Alcohol in fermented foods: Considerations for pregnancy and childhood",
+      "url": "https://isappscience.org/alcohol-in-fermented-foods-considerations-for-pregnancy-and-childhood/",
+      "date": "Thu, 02 Apr 2026 21:33:29"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Biotics, oral microbiota and potential for dental applications",
+      "url": "https://isappscience.org/biotics-oral-microbiota-and-potential-for-dental-applications/",
+      "date": "Tue, 24 Mar 2026 21:58:05"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Fido Needs an Antibiotic: Are There Strategies to Maintain Gut Integrity and Restore Gut Microbiota?",
+      "url": "https://isappscience.org/fido-needs-an-antibiotic/",
+      "date": "Mon, 23 Feb 2026 22:34:52"
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "To be or not to be (a biliary cancer): RAS (signalling) is the question",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2077?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Unravelling the heterogeneous HCC risk in indeterminate chronic hepatitis B",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2078?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Real-world evidence supports earlier treatment in HBeAg-positive but not HBeAg-negative chronic hepatitis B virus infection",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2080?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Exploiting a purine imbalance to target KRAS mutant pancreatic adenocarcinomas",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2082?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Catch me if you can! Is there protection from HCV (re)infection?",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2084?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Zinc-dependent post-transcriptional control of hepatocyte fate in and regeneration of alcohol-associated liver disease",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2085?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "How accurate is EUS-guided direct portal vein pressure measurement? A comparison with intraoperative measurements",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2088?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Implementing discard strategies for diminutive polyps using autonomous CADx in clinical practice",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2091?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Skin lesions and chest pain in a patient with Crohns disease",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2094?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Rise of prediagnostic molecular profiling in inflammatory bowel disease--can we close the door before the horse has bolted?",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2095?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Consensus guidance of immune checkpoint inhibitors in locally advanced rectal cancer",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2102?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Gut microbiome signatures in colorectal neoplasia: a cross-sectional study across neoplasia stages and subtypes",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2118?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Roseburia inulinivorans increases muscle strength",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2130?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Stromal biomarker-based framework for identifying pMMR/MSS and dMMR/MSI colorectal cancers with poor outcomes and limited benefit from immunotherapy",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2143?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Integrated screens reveal that guanine nucleotide depletion, which is irreversible via targeting IMPDH2, inhibits pancreatic cancer and potentiates KRAS inhibition",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2156?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Novel insights into autoimmune gastritis: clinical profile and gastric neoplastic risk from an international multicentre study",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2171?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "MTFP1 drives pancreatic cancer liver metastatic colonisation by regulating mitochondrial metabolism reprogramming",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2182?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Oleic acid promotes lung injury in hypertriglyceridaemia-associated acute pancreatitis via the PIEZO1/NR4A1/CPT1A axis impairing endothelial fatty acid oxidation",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2199?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Commonly prescribed drugs as risk factors for Clostridioides difficile infections: a Swedish population-based case-control study",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2215?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Preclinical stages of Crohns disease defined by faecal calprotectin in asymptomatic first-degree relatives: screening framework for prevention trials",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2225?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "EASL 2025 indications revisited: phase-specific outcomes with and without nucleos(t)ide analogue therapy in chronic hepatitis B virus infection",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2232?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Zinc-dependent RNA-binding protein controls hepatocyte senescence and recovery from alcohol-related liver failure",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2241?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Characteristics of an antibody profile associated with protection against hepatitis C virus reinfection in a high-risk cohort",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2256?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Use of genetic analysis in adult cholestatic liver disease: lessons from progressive paediatric syndromes and cohort studies",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2267?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Modulating the gut-reproductive tract axis: microbial influence on gynaecological cancer pathogenesis and treatment",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2278?rss=1",
+      "date": ""
+    }
+  ],
+  "gaps": [
+    {
+      "row": "rss-eurekalert-microbiology",
+      "error": "HTTP 404"
+    }
+  ]
+}
