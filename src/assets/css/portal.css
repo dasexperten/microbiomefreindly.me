@@ -294,3 +294,19 @@ sup{font-size:.6em;}
 .ev-list .ev-src:hover{color:var(--teal);}
 .ev-list--quiet li{padding:9px 0;}
 .ev-list--quiet .ev-src{color:var(--ink-2);}
+
+/* Owner 2026-10-16 / Marika: every language and navigation destination stays visible. */
+.lang{padding:8px 16px;gap:4px 8px;flex-wrap:wrap;overflow:visible;min-width:0;}
+.lang a,.lang .off{min-height:36px;}
+.hdr__in,.hdr__icons{min-width:0;}
+@media(max-width:860px){
+ .hdr__in{flex-wrap:wrap;}
+ .hdr__logo{margin-inline:auto;}
+ .hdr__icons{display:grid;grid-template-columns:repeat(8,minmax(0,1fr));width:100%;margin-inline:0;gap:0;}
+ .hdr__icons a{width:100%;min-width:0;height:44px;}
+}
+
+@media(max-width:860px){
+ .hdr__logo{position:relative;display:flex;align-items:center;justify-content:center;width:auto;height:auto;overflow:visible;}
+ .hdr__logo img{position:static;top:auto;height:68px;width:auto;transform:none;}
+}
