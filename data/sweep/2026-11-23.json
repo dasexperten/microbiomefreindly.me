@@ -1,0 +1,371 @@
+{
+  "asOf": "2026-11-23",
+  "days": 14,
+  "items": [
+    {
+      "row": "pubmed-gut-trials",
+      "lane": "gut",
+      "pmid": "43040264",
+      "doi": "10.1186/s12872-026-06399-z",
+      "title": "The gut-heart axis in atrial fibrillation: a systematic review and meta-analysis of microbiome composition and trimethylamine N-oxide concentration.",
+      "journal": "BMC cardiovascular disorders",
+      "date": "2026/08/21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43040264/",
+      "authors": "Zając M, Kloska Z, Maślanka M"
+    },
+    {
+      "row": "pubmed-gut-trials",
+      "lane": "gut",
+      "pmid": "43030167",
+      "doi": "10.3390/nu18213538",
+      "title": "Examining the Gastrointestinal Effects of Solnul(®), a Prebiotic Resistant Potato Starch: A Replication Randomized, Double-Blind, Placebo-Controlled Clinical Trial in Healthy Adults.",
+      "journal": "Nutrients",
+      "date": "2026/10/27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43030167/",
+      "authors": "Bush JR, Iwuamadi I, Deehan EC"
+    },
+    {
+      "row": "pubmed-gut-trials",
+      "lane": "gut",
+      "pmid": "43018805",
+      "doi": "10.1007/s10482-026-02460-1",
+      "title": "Effects of Lactiplantibacillus plantarum SG5 on anxiety, insomnia, and gut microbiota composition in college students.",
+      "journal": "Antonie van Leeuwenhoek",
+      "date": "2026/11/12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43018805/",
+      "authors": "Xu T, Wang Y, Wen J"
+    },
+    {
+      "row": "pubmed-gut-trials",
+      "lane": "gut",
+      "pmid": "43013116",
+      "doi": "10.1007/s00394-026-04143-z",
+      "title": "Differential effects of pea protein isolate, pea protein concentrate, and whey protein isolate supplementation on gut microbiota and metabolic markers in healthy adults: a 3-arm parallel randomised intervention.",
+      "journal": "European journal of nutrition",
+      "date": "2026/11/11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013116/",
+      "authors": "Kamm A, Prado S, Dannenberg K"
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Inside the gut microbiome of manatees",
+      "url": "https://www.nature.com/articles/s41564-026-02529-7",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Global analysis of the diversity and functional potential of Patescibacteria phages",
+      "url": "https://www.nature.com/articles/s41564-026-02543-9",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Candidalysin: a decade of discovery",
+      "url": "https://www.nature.com/articles/s41564-026-02528-8",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Mapping the Tibetan Plateau microbiome across ecosystems provides a resource for biodiscovery",
+      "url": "https://www.nature.com/articles/s41564-026-02536-8",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Env-specific antibodies promote post-treatment control in SIV-infected macaques",
+      "url": "https://www.nature.com/articles/s41564-026-02426-z",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "S-layer expansion is mediated by hoop-like cracks in the paracrystalline lattice during <i>Bacillus anthracis</i> growth",
+      "url": "https://www.nature.com/articles/s41564-026-02544-8",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "How marine particles shaped microbial evolution over Earth’s history",
+      "url": "https://www.nature.com/articles/s41564-026-02535-9",
+      "date": ""
+    },
+    {
+      "row": "rss-nature-microbiology",
+      "lane": "immunity",
+      "title": "Hunt for the origins of an influenza pandemic",
+      "url": "https://www.nature.com/articles/s41564-026-02531-z",
+      "date": ""
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Predicting responses to prebiotic fibres: linking microbiota, function and clinical outcomes",
+      "url": "https://isappscience.org/predicting-responses-to-prebiotic-fibres/",
+      "date": "Tue, 03 Nov 2026 19:03:56"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Next-generation probiotics: beyond lactic acid bacteria to untapped taxa and engineered strains for better health",
+      "url": "https://isappscience.org/next-generation-probiotics-beyond-lab/",
+      "date": "Tue, 03 Nov 2026 17:58:22"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Reflections from outgoing ISAPP board member, Prof. Seppo Salminen",
+      "url": "https://isappscience.org/outgoing-isapp-board-member-prof-seppo-salminen/",
+      "date": "Fri, 30 Oct 2026 04:40:58"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "A pioneer of probiotics for women’s health",
+      "url": "https://isappscience.org/a-pioneer-of-probiotics-for-womens-health/",
+      "date": "Wed, 28 Oct 2026 21:44:32"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Expert in maternal-infant nutrition and health joins ISAPP board of directors",
+      "url": "https://isappscience.org/expert-maternal-infant-nutrition-health-joins-isapp-board/",
+      "date": "Wed, 28 Oct 2026 21:20:16"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "ISAPP President Prof. Maria Marco Honored with LABIP Award at 15th Annual International Symposium on Lactic Acid Bacteria",
+      "url": "https://isappscience.org/maria-marco-labip-award/",
+      "date": "Fri, 25 Sep 2026 06:48:22"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Harnessing the power of fermented foods as bioactive delivery systems",
+      "url": "https://isappscience.org/fermented-foods-as-bioactive-delivery-systems/",
+      "date": "Fri, 25 Sep 2026 06:22:25"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Speaker spotlight: Prof. Michael Gänzle on current directions in research on lactobacilli",
+      "url": "https://isappscience.org/speaker-spotlight-prof-michael-ganzle-on-current-directions-in-research-on-lactobacilli/",
+      "date": "Sat, 29 Aug 2026 23:05:53"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Better study design for better probiotic science",
+      "url": "https://isappscience.org/better-study-design-for-better-probiotic-science/",
+      "date": "Wed, 19 Aug 2026 04:56:15"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Expert insights into skin microbiome research and translation",
+      "url": "https://isappscience.org/expert-insights-into-skin-microbiome-research-and-translation/",
+      "date": "Mon, 27 Jul 2026 05:02:04"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "Probiotics with antibiotics: Let&#8217;s follow the evidence",
+      "url": "https://isappscience.org/probiotics-with-antibiotics-evidence/",
+      "date": "Thu, 11 Jun 2026 02:51:27"
+    },
+    {
+      "row": "rss-isapp",
+      "lane": "gut",
+      "title": "ISAPP welcomes participation in upcoming one-day scientific symposium in Tokyo",
+      "url": "https://isappscience.org/upcoming-one-day-symposium-in-tokyo/",
+      "date": "Wed, 27 May 2026 18:26:10"
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "CAF-macrophage crosstalk fuels immunotherapy resistance",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2301?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Gut feeling: extracellular vesicles dictate livers susceptibility to colorectal cancer metastasis",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2302?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Hepatitis B immunoglobulins after liver transplantation: essential early, optional later?",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2304?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Steatosis severity and metabolic fingerprints after HCV eradication: toward an individualised approach to HCC surveillance after HCV cure",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2306?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Vascular divide: how the portal milieu shapes neutrophil activation and remote organ damage",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2309?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Artificial intelligence-tailored bowel preparation reduces laxative burden and promotes sustainable endoscopy",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2311?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Safety and efficacy of extended surveillance intervals following colorectal endoscopic submucosal dissection: an international multicentre study",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2315?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "From pressure to prognosis: establishing a common language for portal hypertension in advanced chronic liver disease",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2319?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "The UK experience with hepatitis B immunoglobulin use following liver transplantation: wide variation in practice despite evidence supporting cost-effective HBIG-free prophylaxis",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2324?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Endoscopic resection after neoadjuvant therapy for advanced rectal cancer with near-complete response: a retrospective multicentre case series",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2331?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Tff2 marks gastric corpus progenitors that give rise to pyloric metaplasia/SPEM following injury",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2337?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Endosomal signalling of protease-activated receptor-2 amplifies histamine-induced pain of irritable bowel syndrome",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2351?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Dangerous intestinal disease: a case of recurrent abdominal pain with lower gastrointestinal bleeding",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2364?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Stage-dependent gut microbiome and functional signatures across the liver disease spectrum: an integrative multicohort study",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2365?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Tryptophan depletion generates hyper-reactive portal neutrophils in alcoholic liver disease",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2377?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Helicobacter pylori infection, treatment and colorectal cancer risk by genetic predisposition: evidence from two randomised trials",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2389?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Pancreatic cancer fibrosis activates protumorigenic Schwann cells through a nuclear mechanosensing mechanism",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2400?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "SLC6A14-mediated carnitine transmembrane uptake from PPAR{gamma}+ cancer-associated fibroblasts promotes recurrence of pancreatic cancer",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2412?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Chronic kidney disease in cirrhosis: a study of inpatients from a global perspective",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2427?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Token-guided multimodal prognosis in hepatocellular carcinoma: a framework steered by tumour-stroma ratio",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2438?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Steatosis grade and cardiometabolic burden as determinants of hepatocellular carcinoma risk after hepatitis C cure in patients with metabolic dysfunction-associated steatotic liver disease",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2452?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Impairment of Rab7-dependent STING degradation hampers HBV replication but accelerates disease progression in chronic hepatitis B comorbid with MASLD",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2464?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Diet in IBD: preventive and therapeutic concepts",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2477?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "Gastric microbiota-mediated immune remodelling in gastric cancer",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2487?rss=1",
+      "date": ""
+    },
+    {
+      "row": "rss-gut-bmj",
+      "lane": "gut",
+      "title": "GI highlights from the literature",
+      "url": "http://gut.bmj.com/cgi/content/short/75/12/2500?rss=1",
+      "date": ""
+    }
+  ],
+  "gaps": [
+    {
+      "row": "rss-eurekalert-microbiology",
+      "error": "HTTP 404"
+    }
+  ]
+}
